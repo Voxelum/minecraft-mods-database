@@ -1,0 +1,29 @@
+name: Harvest
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 8.3.0
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: pnpm install
+      - name: Harvest
+        run: node ./index.js
+      - name: Create Release Note PR
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Harvest data"
+          title: Harvest data
+          body: Harvest data
+          reviewers: ci010
+          assignees: ci010
