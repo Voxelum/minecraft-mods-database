@@ -1,6 +1,6 @@
 const { BlobServiceClient } = require("@azure/storage-blob");
 const fs = require("fs/promises");
-const { createHash } = require('crypto')
+const { createHash } = require("crypto");
 
 const connectionString = process.env.AZURE_STORAGE_CONNECTION_STRING;
 
@@ -20,7 +20,6 @@ async function streamToBuffer(readableStream) {
 }
 const events = client.getContainerClient("am-appevents");
 const blobs = events.listBlobsFlat({ includeTags: true });
-
 
 const parseIfExist = (v) => (v ? JSON.parse(v) : undefined);
 const process = async (blob) => {
@@ -123,7 +122,7 @@ const process = async (blob) => {
           }
         }
         const rec = JSON.stringify(record, null, 2);
-        const key = createHash('sha1').update(rec).digest('hex');
+        const key = createHash("sha1").update(rec).digest("hex");
         await fs.writeFile(`./run-record-v1/${key}.json`, rec);
       }
     }
@@ -136,11 +135,15 @@ const process = async (blob) => {
   }
 };
 
-const batch = [];
-for await (const blob of blobs) {
-  batch.push(blob);
-  if (batch.length === 32) {
-    await Promise.all(batch.map(process));
-    batch.length = 0;
+async function main() {
+  const batch = [];
+  for await (const blob of blobs) {
+    batch.push(blob);
+    if (batch.length === 32) {
+      await Promise.all(batch.map(process));
+      batch.length = 0;
+    }
   }
 }
+
+main();
