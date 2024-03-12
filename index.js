@@ -1,3 +1,4 @@
+require('dotenv').config()
 const { BlobServiceClient } = require("@azure/storage-blob");
 const fs = require("fs/promises");
 const { createHash } = require("crypto");
@@ -17,7 +18,8 @@ async function streamToBuffer(readableStream) {
 const parseIfExist = (v) => (v ? JSON.parse(v) : undefined);
 
 async function main() {
-  const connectionString = process.env.AZURE_STORAGE_CONNECTION_STRING;
+  const connectionString =
+    process.env.AZURE_STORAGE_CONNECTION_STRING;
   const client = BlobServiceClient.fromConnectionString(connectionString);
 
   const events = client.getContainerClient("am-appevents");
@@ -29,12 +31,16 @@ async function main() {
       const resp = await blobClient.download();
 
       console.log("Processing", blob.name);
-      const objects = (await streamToBuffer(resp.readableStreamBody))
-        .toString()
+      const stringContent = (
+        await streamToBuffer(resp.readableStreamBody)
+      ).toString();
+      const objects = stringContent
         .split("\r\n")
+        .map((v) => v.trim())
+        .filter((v) => !!v)
         .map(JSON.parse);
       for (const e of objects) {
-        if (e.name === "resource-metadata-v2") {
+        if (e.Name === "resource-metadata-v2") {
           const { name, sha1, domain, modrinth, curseforge, forge, fabric } =
             e.Properties;
           const localFile = `./files-v1/${sha1}.json`;
@@ -110,7 +116,7 @@ async function main() {
             fabric: mergeFabric(localContent.fabric, parseIfExist(fabric)),
           };
           await fs.writeFile(localFile, JSON.stringify(content, null, 2));
-        } else if (e.name === "minecraft-run-record-v2") {
+        } else if (e.Name === "minecraft-run-record-v2") {
           const props = e.Properties;
           const record = {
             mods: props.mods.split(","),
