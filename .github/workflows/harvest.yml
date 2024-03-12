@@ -18,6 +18,8 @@ jobs:
         run: pnpm install
       - name: Harvest
         run: node ./index.js
+        env: 
+          AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
       - name: Create Release Note PR
         uses: peter-evans/create-pull-request@v3
         with:
