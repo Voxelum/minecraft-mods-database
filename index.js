@@ -17,6 +17,7 @@ async function streamToBuffer(readableStream) {
 }
 const parseIfExist = (v) => (v ? JSON.parse(v) : undefined);
 
+const formatName = (n) => n.substring('WorkspaceResourceId=/subscriptions/d3076e5f-e198-4e44-a689-837848a5f2be/resourcegroups/xmcl/providers/microsoft.operationalinsights/workspaces/defaultworkspace-d3076e5f-e198-4e44-a689-837848a5f2be-ea/'.length)
 async function main() {
   const connectionString =
     process.env.AZURE_STORAGE_CONNECTION_STRING;
@@ -26,11 +27,12 @@ async function main() {
   const blobs = events.listBlobsFlat({ includeTags: true });
 
   const handle = async (blob) => {
+    const shortBlobname = formatName(blob.name);
     try {
       const blobClient = events.getBlobClient(blob.name);
       const resp = await blobClient.download();
 
-      console.log("Processing", blob.name);
+      console.log("Processing", shortBlobname);
       const stringContent = (
         await streamToBuffer(resp.readableStreamBody)
       ).toString();
@@ -135,9 +137,9 @@ async function main() {
       }
 
       await blobClient.delete();
-      console.log("Processed", blob.name);
+      console.log("Processed", shortBlobname);
     } catch (e) {
-      console.error("Failed to process blob", blob.name);
+      console.error("Failed to process blob", shortBlobname);
       console.error(e);
     }
   };
