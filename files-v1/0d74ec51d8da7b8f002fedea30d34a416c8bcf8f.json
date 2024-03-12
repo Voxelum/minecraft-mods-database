@@ -1,0 +1,14 @@
+{
+  "name": "fzzy_core-0.2.7+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fzzy_core",
+      "version": "0.2.7+1.19"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

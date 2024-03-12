@@ -1,0 +1,16 @@
+{
+  "name": "logprot-fabric-1.18-1.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "logprot",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "logprot",
+      "version": "1.18-1.6"
+    }
+  ]
+}

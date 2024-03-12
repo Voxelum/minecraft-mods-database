@@ -1,0 +1,14 @@
+{
+  "name": "Shield_Overhaul-FABRIC-MC1.20.1-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shield_overhaul",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

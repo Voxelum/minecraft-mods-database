@@ -1,0 +1,20 @@
+{
+  "name": "UsefulFood_Reborn-1.1.0-1.19.2-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VafD51Dc",
+      "versionId": "yS15dSuy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "usefulfood",
+      "version": "1.1.0-1.19.2-Fabric"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

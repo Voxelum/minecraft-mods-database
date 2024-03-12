@@ -1,0 +1,40 @@
+{
+  "name": "zenith_attributes-0.0.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 910078,
+      "fileId": 4808094
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith_attributes",
+      "version": "0.0.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "projectile_damage",
+      "version": "3.2.2+1.20.1"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.4.0+1.20.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.10"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.0.2"
+    }
+  ]
+}

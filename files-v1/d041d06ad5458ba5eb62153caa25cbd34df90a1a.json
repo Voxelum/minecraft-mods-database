@@ -1,0 +1,46 @@
+{
+  "name": "TweakMyClient-3.6.398+b6a4f1b-stable.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakmyclient",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_14_4",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_15_2",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_16_5",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_17_1",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_18_2",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_19_2",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_19_3",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_19_4",
+      "version": "3.6.398+b6a4f1b-stable"
+    },
+    {
+      "modId": "tweakmyclient-1_20",
+      "version": "3.6.398+b6a4f1b-stable"
+    }
+  ]
+}

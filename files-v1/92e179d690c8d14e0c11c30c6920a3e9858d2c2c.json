@@ -1,0 +1,10 @@
+{
+  "name": "feature_nbt_deadlock_be_gone_fabric-1.0.1+1.18.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "feature_nbt_deadlock_be_gone",
+      "version": "1.0.1+1.18.1"
+    }
+  ]
+}

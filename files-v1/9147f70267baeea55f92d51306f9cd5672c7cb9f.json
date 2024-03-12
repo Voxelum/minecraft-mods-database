@@ -1,0 +1,22 @@
+{
+  "name": "beautify-1.1.1+fabric-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "beautify",
+      "version": "1.1.1+fabric-1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

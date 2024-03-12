@@ -1,0 +1,16 @@
+{
+  "name": "ctov-beautify-compat-2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_ctov_beautifycompat",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ctov_beautifycompat",
+      "version": "2.0"
+    }
+  ]
+}

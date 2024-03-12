@@ -1,0 +1,14 @@
+{
+  "name": "Rrls-1.5.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rrls",
+      "version": "1.5.1-fabric"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.16.91"
+    }
+  ]
+}

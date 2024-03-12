@@ -1,0 +1,10 @@
+{
+  "name": "Blahaj-Forge-1.12.2-1.0_NoMixin.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "blahaj",
+      "version": "${version}"
+    }
+  ]
+}

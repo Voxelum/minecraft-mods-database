@@ -1,0 +1,24 @@
+{
+  "name": "valhelsia_tweaks-fabric-1.18.2-0.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "valhelsia_tweaks",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "valhelsia_tweaks",
+      "version": "1.18.2-fabric-0.1.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    }
+  ]
+}

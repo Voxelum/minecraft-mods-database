@@ -1,0 +1,10 @@
+{
+  "name": "jbs-lib.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mac",
+      "version": "1.3"
+    }
+  ]
+}

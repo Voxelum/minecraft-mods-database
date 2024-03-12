@@ -1,0 +1,14 @@
+{
+  "name": "conjuring-1.0.26+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "conjuring",
+      "version": "1.0.26+1.19"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.1+1.19"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "rpgstats-4.5.0+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rpgstats",
+      "version": "4.5.0+1.19.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.14+1.19-rc2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "medieval_buildings-forge-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "medieval_buildings",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medieval_buildings",
+      "version": "1.0.1"
+    }
+  ]
+}

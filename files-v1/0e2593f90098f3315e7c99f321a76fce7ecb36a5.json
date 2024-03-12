@@ -1,0 +1,10 @@
+{
+  "name": "journeymap-1.7.10-5.1.0-unlimited.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "journeymap",
+      "version": "@JMVERSION@"
+    }
+  ]
+}

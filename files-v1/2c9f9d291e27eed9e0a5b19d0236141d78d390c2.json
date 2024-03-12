@@ -1,0 +1,14 @@
+{
+  "name": "voicechat-broadcast-plugin-fabric-0.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "voicechat-broadcast-plugin-fabric",
+      "version": "0.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

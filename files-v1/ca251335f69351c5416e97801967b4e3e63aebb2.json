@@ -1,0 +1,16 @@
+{
+  "name": "clickadv-fabric-2.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "clickadv",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clickadv",
+      "version": "2.6"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "styledplayerlist-3.1.1+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "styledplayerlist",
+      "version": "3.1.1+1.20.1"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.1.2+1.20"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.2.2+1.19.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

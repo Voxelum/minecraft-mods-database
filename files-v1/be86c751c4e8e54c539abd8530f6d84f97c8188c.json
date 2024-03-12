@@ -1,0 +1,30 @@
+{
+  "name": "cloth-api-4.0.65.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cloth-api",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "cloth-common-events-v1",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "cloth-scissors-api-v1",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

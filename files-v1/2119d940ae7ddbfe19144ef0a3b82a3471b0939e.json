@@ -1,0 +1,20 @@
+{
+  "name": "mcdw-7.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 407311,
+      "fileId": 4603048
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcdw",
+      "version": "7.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

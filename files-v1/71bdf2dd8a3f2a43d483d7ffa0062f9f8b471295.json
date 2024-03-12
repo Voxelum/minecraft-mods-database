@@ -1,0 +1,10 @@
+{
+  "name": "rebindallthekeys.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rebind_all_the_keys",
+      "version": "1.3.0+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "whoami.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "whoami",
+      "version": "1.0"
+    }
+  ]
+}

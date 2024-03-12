@@ -1,0 +1,10 @@
+{
+  "name": "jamlib-0.6.1+1.20.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jamlib",
+      "version": "0.6.1+1.20.x"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "feytweaks-1.20.2-1.2.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wa72oW2W",
+      "versionId": "IGnWnbNs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feytweaks",
+      "version": "1.20.2-1.2.8"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

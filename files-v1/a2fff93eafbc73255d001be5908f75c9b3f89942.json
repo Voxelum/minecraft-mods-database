@@ -1,0 +1,10 @@
+{
+  "name": "Swamp-Expansion-1.15.2-1.7.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "swampexpansion",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

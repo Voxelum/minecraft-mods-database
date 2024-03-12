@@ -1,0 +1,22 @@
+{
+  "name": "foamfix-0.10.15-1.12.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jupr7Bf5",
+      "versionId": "oEGIQQnQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 278494,
+      "fileId": 3973967
+    }
+  ],
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

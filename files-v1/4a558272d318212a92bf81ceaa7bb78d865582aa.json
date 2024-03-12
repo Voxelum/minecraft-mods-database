@@ -1,0 +1,14 @@
+{
+  "name": "oxidized-1.8.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "oxidized",
+      "version": "1.8.2"
+    },
+    {
+      "modId": "saflib",
+      "version": "1.0.32"
+    }
+  ]
+}

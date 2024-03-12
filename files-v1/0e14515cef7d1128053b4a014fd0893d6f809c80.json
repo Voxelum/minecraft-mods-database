@@ -1,0 +1,28 @@
+{
+  "name": "Maple-Forest-1.18.2-1.6.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 689679,
+      "fileId": 4141811
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "maple_forest",
+      "version": "1.6.2"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "3.1.0"
+    }
+  ]
+}

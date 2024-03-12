@@ -1,0 +1,28 @@
+{
+  "name": "enlightened-end-1.18.2-v4.0.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SwolYSb8",
+      "versionId": "AiDM9xKa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 502786,
+      "fileId": 4420644
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enlightened_end",
+      "version": "4.0.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enlightened_end",
+      "version": "3.0.2"
+    }
+  ]
+}

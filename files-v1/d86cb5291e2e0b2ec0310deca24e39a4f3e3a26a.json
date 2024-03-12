@@ -1,0 +1,20 @@
+{
+  "name": "CreativeCore_FABRIC_v2.10.23_mc1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.10.23"
+    },
+    {
+      "modId": "net_minecraftforge_eventbus",
+      "version": "6.0.3"
+    }
+  ]
+}

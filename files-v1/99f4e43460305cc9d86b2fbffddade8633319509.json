@@ -1,0 +1,18 @@
+{
+  "name": "simplehats-fabric-1.19.2-0.1.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplehats",
+      "version": "1.19.2-0.1.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    }
+  ]
+}

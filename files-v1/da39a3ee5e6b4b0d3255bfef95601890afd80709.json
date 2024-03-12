@@ -1,0 +1,20 @@
+{
+  "name": "Morpheus-1.16.5-4.2.70.jar",
+  "domain": "unclassified",
+  "forge": [
+    {
+      "modId": "morpheus",
+      "version": "4.2.70"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "roughlyenoughresources",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "magiclib-1_20_1",
+      "version": "0.7.376+bce84f9-beta"
+    }
+  ]
+}

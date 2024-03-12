@@ -1,0 +1,16 @@
+{
+  "name": "extendedbonemeal-1.18.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extendedbonemeal",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedbonemeal",
+      "version": "3.0"
+    }
+  ]
+}

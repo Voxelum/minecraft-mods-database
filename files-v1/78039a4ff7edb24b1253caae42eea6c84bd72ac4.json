@@ -1,0 +1,14 @@
+{
+  "name": "borderless-mining-1.1.6+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "borderlessmining",
+      "version": "1.1.6+1.19.3"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.2+f6c919d672"
+    }
+  ]
+}

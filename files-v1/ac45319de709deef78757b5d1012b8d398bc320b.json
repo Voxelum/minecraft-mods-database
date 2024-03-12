@@ -1,0 +1,10 @@
+{
+  "name": "Infinite_Dungeons-1.16.5-1.0.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "infinite_dungeons",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

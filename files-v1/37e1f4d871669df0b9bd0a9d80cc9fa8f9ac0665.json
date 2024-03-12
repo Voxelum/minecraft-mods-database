@@ -1,0 +1,10 @@
+{
+  "name": "AdvancementPlaques-1.12.2-1.4.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "advancementplaques",
+      "version": "${version}"
+    }
+  ]
+}

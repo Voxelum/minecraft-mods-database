@@ -1,0 +1,16 @@
+{
+  "name": "letsencryptcraft-1.10.2-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 297057,
+      "fileId": 2668704
+    }
+  ],
+  "forge": [
+    {
+      "modId": "letsencryptcraft",
+      "version": "@VERSION@"
+    }
+  ]
+}

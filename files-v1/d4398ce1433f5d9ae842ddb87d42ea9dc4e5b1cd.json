@@ -1,0 +1,14 @@
+{
+  "name": "cherishedworlds-fabric-2.0.1-1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cherishedworlds",
+      "version": "2.0.1-1.17.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.7+b7ab612113"
+    }
+  ]
+}

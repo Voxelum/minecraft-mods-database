@@ -1,0 +1,14 @@
+{
+  "name": "open2lan-0.2.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "open2lan",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    }
+  ]
+}

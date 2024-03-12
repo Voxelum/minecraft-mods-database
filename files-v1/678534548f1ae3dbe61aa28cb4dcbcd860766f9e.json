@@ -1,0 +1,14 @@
+{
+  "name": "roughly-enough-characters-0.0.6+1.18.2-fabric0.13.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "roughly-enough-characters",
+      "version": "0.0.6+1.18.2-fabric0.13.3"
+    },
+    {
+      "modId": "com_github_towdium_pinin",
+      "version": "1.5.0"
+    }
+  ]
+}

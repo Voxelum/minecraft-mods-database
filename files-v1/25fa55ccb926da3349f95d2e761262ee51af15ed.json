@@ -1,0 +1,22 @@
+{
+  "name": "commandbinds-1.20.1-11.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "commandbinds",
+      "version": "1.20.1-11"
+    },
+    {
+      "modId": "keyboard",
+      "version": "0.0.3"
+    },
+    {
+      "modId": "pl3xlib",
+      "version": "0.1.9"
+    },
+    {
+      "modId": "com_github_carleslc_simple-yaml_simple-yaml",
+      "version": "1.8.3"
+    }
+  ]
+}

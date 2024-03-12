@@ -1,0 +1,14 @@
+{
+  "name": "bclib-2.3.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "2.3.4"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "1.0.1"
+    }
+  ]
+}

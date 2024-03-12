@@ -1,0 +1,16 @@
+{
+  "name": "Paraglider-fabric-20.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "paraglider",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paraglider",
+      "version": "20.1.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "no-telemetry-1.7.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hg77g4Pw",
+      "versionId": "l9SfLZDA"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "no_telemetry",
+      "version": "1.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no-telemetry",
+      "version": "1.7.0"
+    }
+  ]
+}

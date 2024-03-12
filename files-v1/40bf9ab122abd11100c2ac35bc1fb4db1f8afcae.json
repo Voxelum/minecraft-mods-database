@@ -1,0 +1,14 @@
+{
+  "name": "customsplashscreen-2.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "customsplashscreen",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

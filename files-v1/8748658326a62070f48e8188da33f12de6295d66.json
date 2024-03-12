@@ -1,0 +1,10 @@
+{
+  "name": "foamfix-0.6.2-beta2-anarchy.jar.disabled",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

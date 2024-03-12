@@ -1,0 +1,10 @@
+{
+  "name": "badpackets-fabric-0.5.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "badpackets",
+      "version": "0.5.3"
+    }
+  ]
+}

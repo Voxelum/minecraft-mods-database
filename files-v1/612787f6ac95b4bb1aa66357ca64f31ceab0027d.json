@@ -1,0 +1,10 @@
+{
+  "name": "FDP2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fdpclient",
+      "version": "5.4.0"
+    }
+  ]
+}

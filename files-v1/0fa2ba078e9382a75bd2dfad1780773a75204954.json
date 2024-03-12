@@ -1,0 +1,16 @@
+{
+  "name": "starterstructure-1.19.2-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "starterstructure",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterstructure",
+      "version": "3.1"
+    }
+  ]
+}

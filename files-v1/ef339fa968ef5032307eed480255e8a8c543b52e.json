@@ -1,0 +1,14 @@
+{
+  "name": "ciif-1.0.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ciif",
+      "version": "1.0.0+1.19"
+    },
+    {
+      "modId": "nbtcrafting",
+      "version": "2.1.3+mc1.19"
+    }
+  ]
+}

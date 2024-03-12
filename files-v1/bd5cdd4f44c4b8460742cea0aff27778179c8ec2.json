@@ -1,0 +1,22 @@
+{
+  "name": "Cave_Tweaks_v1.2_Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cavetweaks",
+      "version": "1.0"
+    },
+    {
+      "modId": "oro_config",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "modmenu",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.50"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "NethersDelight-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 701831,
+      "fileId": 4353098
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nethersdelight",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.9"
+    },
+    {
+      "modId": "disable_custom_worlds_advice",
+      "version": "3.0"
+    }
+  ]
+}

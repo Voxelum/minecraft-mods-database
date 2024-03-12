@@ -1,0 +1,16 @@
+{
+  "name": "Mad Villagers-1.12.2-1.0.1-release.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 287384,
+      "fileId": 2531521
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mad_villagers",
+      "version": "%VERSION%"
+    }
+  ]
+}

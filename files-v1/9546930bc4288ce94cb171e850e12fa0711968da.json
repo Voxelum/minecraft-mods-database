@@ -1,0 +1,26 @@
+{
+  "name": "Easeify-1.19.2-fabric-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "easeify",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    },
+    {
+      "modId": "vigilance",
+      "version": "258"
+    },
+    {
+      "modId": "elementa",
+      "version": "544"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "236"
+    }
+  ]
+}

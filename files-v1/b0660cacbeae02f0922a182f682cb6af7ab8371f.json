@@ -1,0 +1,16 @@
+{
+  "name": "double-doors-dp-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_double_doorsdp",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_double_doorsdp",
+      "version": "1.1"
+    }
+  ]
+}

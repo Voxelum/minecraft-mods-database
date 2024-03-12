@@ -1,0 +1,16 @@
+{
+  "name": "ctov-3.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "3.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "3.2.1"
+    }
+  ]
+}

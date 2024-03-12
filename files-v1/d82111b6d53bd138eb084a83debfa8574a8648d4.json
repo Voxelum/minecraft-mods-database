@@ -1,0 +1,26 @@
+{
+  "name": "FallingTree-1.16.5-2.11.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 349559,
+      "fileId": 3313008
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fallingtree",
+      "version": "2.11.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fallingtree",
+      "version": "2.11.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.19"
+    }
+  ]
+}

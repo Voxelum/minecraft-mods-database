@@ -1,0 +1,16 @@
+{
+  "name": "smoothchunk-fabric-1.18.2-1.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smoothchunk",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothchunk",
+      "version": "1.18.2-1.9"
+    }
+  ]
+}

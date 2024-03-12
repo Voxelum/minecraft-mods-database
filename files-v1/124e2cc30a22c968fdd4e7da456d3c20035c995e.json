@@ -1,0 +1,14 @@
+{
+  "name": "autofish-0.9.10-SNAPSHOT.jar.e105f4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.9.10-SNAPSHOT"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

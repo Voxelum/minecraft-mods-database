@@ -1,0 +1,16 @@
+{
+  "name": "[睡前提醒] AlmostBedtime_v2.2-1.18.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "almost_bedtime",
+      "version": "2.2-1.18.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "almost_bedtime",
+      "version": "2.2-1.18.2"
+    }
+  ]
+}

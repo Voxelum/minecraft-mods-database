@@ -1,0 +1,24 @@
+{
+  "name": "ForgeConfigAPIPort-v5.0.9-1.19.3-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "5.0.9"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

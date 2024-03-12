@@ -1,0 +1,16 @@
+{
+  "name": "MouseTweaks-2.10.1-mc1.12.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 60089,
+      "fileId": 3359843
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mousetweaks",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

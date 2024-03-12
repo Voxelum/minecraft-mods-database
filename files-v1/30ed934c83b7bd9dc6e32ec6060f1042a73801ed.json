@@ -1,0 +1,22 @@
+{
+  "name": "Adorn-2.1.5+1.17.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "adorn",
+      "version": "2.1.5+1.17.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "4.1.3+1.17.1"
+    },
+    {
+      "modId": "jankson",
+      "version": "3.0.1+j1.2.0"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

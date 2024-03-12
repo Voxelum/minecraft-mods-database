@@ -1,0 +1,30 @@
+{
+  "name": "puzzle-1.4.0-1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "puzzle",
+      "version": "1.4.0-1.18"
+    },
+    {
+      "modId": "puzzle-base",
+      "version": "1.4.0-1.18"
+    },
+    {
+      "modId": "puzzle-gui",
+      "version": "1.4.0-1.18"
+    },
+    {
+      "modId": "puzzle-models",
+      "version": "1.4.0-1.18"
+    },
+    {
+      "modId": "puzzle-splashscreen",
+      "version": "1.4.0-1.18"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.4"
+    }
+  ]
+}

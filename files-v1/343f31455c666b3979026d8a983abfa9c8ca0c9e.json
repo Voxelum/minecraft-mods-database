@@ -1,0 +1,16 @@
+{
+  "name": "fabrishot-1.7.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qsfQtE9",
+      "versionId": "MydLWyXb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabrishot",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Structory_Towers_1.19_v1.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "structory_towers",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "structory_towers",
+      "version": "1.0.0"
+    }
+  ]
+}

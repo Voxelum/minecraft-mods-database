@@ -1,0 +1,38 @@
+{
+  "name": "simplevillagers-1.4.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplevillagers",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0-beta.2+1.19.4-pre2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "polymer-common",
+      "version": "0.5.0-rc.3+1.20"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.0-rc.3+1.20"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.5.0-rc.3+1.20"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.5"
+    }
+  ]
+}

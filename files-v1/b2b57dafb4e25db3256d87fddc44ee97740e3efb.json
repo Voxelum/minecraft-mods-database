@@ -1,0 +1,18 @@
+{
+  "name": "cobblegen-v2.1b57-BETA.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cobblegen",
+      "version": "v2.1b57-BETA"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

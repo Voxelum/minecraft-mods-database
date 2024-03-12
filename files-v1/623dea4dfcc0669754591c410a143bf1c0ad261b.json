@@ -1,0 +1,16 @@
+{
+  "name": "biomemusic-fabric-1.20.1-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "biomemusic",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomemusic",
+      "version": "1.20.1-2.2"
+    }
+  ]
+}

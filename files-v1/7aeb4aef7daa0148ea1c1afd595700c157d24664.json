@@ -1,0 +1,14 @@
+{
+  "name": "altorigingui-1.19.2-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "altorigingui",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

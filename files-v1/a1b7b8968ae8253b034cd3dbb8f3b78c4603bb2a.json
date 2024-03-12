@@ -1,0 +1,14 @@
+{
+  "name": "guarding-1.19.2+2.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "guarding",
+      "version": "1.19.2+2.2.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

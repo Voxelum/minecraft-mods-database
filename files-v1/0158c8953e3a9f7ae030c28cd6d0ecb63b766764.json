@@ -1,0 +1,22 @@
+{
+  "name": "CustomSplashScreenF2F-installer-1.2.1-t7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "installer-d83b0da5-4a50-4eaa-b409-b6eba972f051",
+      "version": "1"
+    },
+    {
+      "modId": "fa2fomapper",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "customsplashscreen-f2f",
+      "version": "1.2.1-t7"
+    },
+    {
+      "modId": "customsplashscreen",
+      "version": "1.2.1-t7"
+    }
+  ]
+}

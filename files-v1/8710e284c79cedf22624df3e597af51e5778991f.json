@@ -1,0 +1,18 @@
+{
+  "name": "BetterF3-5.1.0-Fabric-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterf3",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.4+a91e48b785"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.0.94"
+    }
+  ]
+}

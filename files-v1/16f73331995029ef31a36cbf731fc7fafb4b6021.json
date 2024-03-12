@@ -1,0 +1,22 @@
+{
+  "name": "Statement-4.2.6+1.14.4-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "statement",
+      "version": "4.2.6+1.14.4-1.20.1"
+    },
+    {
+      "modId": "statement_vanilla_compatibility",
+      "version": "1.0.1+1.14.4-1.15.2"
+    },
+    {
+      "modId": "kanos_config",
+      "version": "0.4.1+1.14.4-1.19.4"
+    },
+    {
+      "modId": "statement_vanilla_compatibility",
+      "version": "1.0.1+1.16.5-1.17"
+    }
+  ]
+}

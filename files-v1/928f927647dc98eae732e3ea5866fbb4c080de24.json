@@ -1,0 +1,16 @@
+{
+  "name": "compressed-1.8.0+1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "compressed",
+      "version": "1.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "compressed",
+      "version": "${version}"
+    }
+  ]
+}

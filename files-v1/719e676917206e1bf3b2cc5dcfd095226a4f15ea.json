@@ -1,0 +1,52 @@
+{
+  "name": "compactmachines-5.1.0-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "compactmachines",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "compactmachines",
+      "version": "5.1.0-fabric"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.0.437+1.19.1"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "2.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.0.1"
+    }
+  ]
+}

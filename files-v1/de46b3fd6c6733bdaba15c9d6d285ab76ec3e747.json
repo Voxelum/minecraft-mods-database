@@ -1,0 +1,22 @@
+{
+  "name": "mcbookofblocks-0.8.9-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bob",
+      "version": "0.8.9-1.20.1"
+    },
+    {
+      "modId": "com_googlecode_json-simple_json-simple",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.2+1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

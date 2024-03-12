@@ -1,0 +1,14 @@
+{
+  "name": "dungeon_difficulty-2.0.5+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dungeon_difficulty",
+      "version": "2.0.5+1.19"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

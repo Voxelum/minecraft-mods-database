@@ -1,0 +1,14 @@
+{
+  "name": "promenade-4.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "promenade",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "biolith",
+      "version": "1.0.0-alpha.7"
+    }
+  ]
+}

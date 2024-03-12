@@ -1,0 +1,14 @@
+{
+  "name": "relicex-3.3.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "relicex",
+      "version": "3.3.2+1.19.2"
+    },
+    {
+      "modId": "armorrenderlib",
+      "version": "0.2.6"
+    }
+  ]
+}

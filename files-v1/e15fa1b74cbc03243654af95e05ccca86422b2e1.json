@@ -1,0 +1,16 @@
+{
+  "name": "healingcampfire-1.19.2-5.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "healingcampfire",
+      "version": "5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healingcampfire",
+      "version": "5.1"
+    }
+  ]
+}

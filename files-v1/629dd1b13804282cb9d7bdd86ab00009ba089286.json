@@ -1,0 +1,24 @@
+{
+  "name": "resourcefullib-fabric-1.20.1-2.1.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1hIVOrD",
+      "versionId": "xeUwwWis"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.11"
+    },
+    {
+      "modId": "com_teamresourceful_yabn",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_teamresourceful_bytecodecs",
+      "version": "1.0.2"
+    }
+  ]
+}

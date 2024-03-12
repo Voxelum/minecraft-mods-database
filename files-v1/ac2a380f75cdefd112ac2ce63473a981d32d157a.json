@@ -1,0 +1,10 @@
+{
+  "name": "connectiblechains-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "connectiblechains",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

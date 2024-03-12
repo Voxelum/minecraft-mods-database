@@ -1,0 +1,30 @@
+{
+  "name": "modmenu-7.0.0-beta.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "7.0.0-beta.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.25+9ff28bce4e"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.3+03ffe3784e"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.2+b3f2574b4e"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.34+c477957e4e"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.16+5da15ca14e"
+    }
+  ]
+}

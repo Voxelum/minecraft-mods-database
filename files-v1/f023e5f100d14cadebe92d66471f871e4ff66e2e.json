@@ -1,0 +1,30 @@
+{
+  "name": "playerex-3.1.4-1.18.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "playerex",
+      "version": "3.1.4"
+    },
+    {
+      "modId": "opc",
+      "version": "0.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "1.1.3+1.17.1"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

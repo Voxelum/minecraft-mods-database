@@ -1,0 +1,16 @@
+{
+  "name": "BBCA v3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "blackwings_better_combat_addon",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blackwings_better_combat_addon",
+      "version": "1.0.0"
+    }
+  ]
+}

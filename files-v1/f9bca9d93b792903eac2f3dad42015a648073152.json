@@ -1,0 +1,10 @@
+{
+  "name": "create_jetpack-forge-4.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": "4.0.2"
+    }
+  ]
+}

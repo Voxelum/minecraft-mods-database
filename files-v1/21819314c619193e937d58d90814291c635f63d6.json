@@ -1,0 +1,14 @@
+{
+  "name": "deepslatecutting-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "deepslatecutting",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

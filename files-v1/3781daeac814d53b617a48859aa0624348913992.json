@@ -1,0 +1,16 @@
+{
+  "name": "underwaterrails-1.1.0-universal.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 291481,
+      "fileId": 3591459
+    }
+  ],
+  "forge": [
+    {
+      "modId": "underwaterrails",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

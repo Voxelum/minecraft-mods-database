@@ -1,0 +1,18 @@
+{
+  "name": "TechReborn-5.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "techreborn",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "reborncore",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

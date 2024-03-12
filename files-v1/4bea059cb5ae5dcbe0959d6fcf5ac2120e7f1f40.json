@@ -1,0 +1,46 @@
+{
+  "name": "servercore-1.3.3-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "servercore",
+      "version": "1.3.3-1.19.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.12+93d8cb8290"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.1.8+93d8cb8290"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.0+33ffe9ec90"
+    },
+    {
+      "modId": "me_lucko_spark-api",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-pre.1+1.19.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0"
+    }
+  ]
+}

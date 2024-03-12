@@ -1,0 +1,10 @@
+{
+  "name": "baritone-standalone-fabric-1.6.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "baritone",
+      "version": "1.6.5"
+    }
+  ]
+}

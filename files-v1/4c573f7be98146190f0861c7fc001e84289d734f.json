@@ -1,0 +1,14 @@
+{
+  "name": "oxidized-1.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "oxidized",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.8"
+    }
+  ]
+}

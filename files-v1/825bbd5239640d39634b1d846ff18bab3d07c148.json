@@ -1,0 +1,16 @@
+{
+  "name": "darkblades-fabric-1.20.1-1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "darkblades",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkblades",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Terralith_v2.3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.3"
+    }
+  ]
+}

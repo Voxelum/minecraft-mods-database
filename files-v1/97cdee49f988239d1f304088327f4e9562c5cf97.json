@@ -1,0 +1,26 @@
+{
+  "name": "fpsdisplay-1.5.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fpsdisplay",
+      "version": "1.5.0+1.19"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a3a9"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.18+9ff28f40a9"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.0.9+21a5acaaa9"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.69"
+    }
+  ]
+}

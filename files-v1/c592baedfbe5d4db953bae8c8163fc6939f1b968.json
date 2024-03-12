@@ -1,0 +1,14 @@
+{
+  "name": "TooManyOrigins-Mod-Fabric-Quilt-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "toomanyorigins",
+      "version": "0.7.2+1.19"
+    },
+    {
+      "modId": "apugli",
+      "version": "1.13.2+1.19"
+    }
+  ]
+}

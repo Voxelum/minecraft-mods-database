@@ -1,0 +1,10 @@
+{
+  "name": "thutcore-1.12.2-5.19.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "thutcore_compat",
+      "version": "1.0"
+    }
+  ]
+}

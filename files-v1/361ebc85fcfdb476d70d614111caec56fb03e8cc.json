@@ -1,0 +1,24 @@
+{
+  "name": "global_packs-fabric-1.19.2-1.14.3.1_fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "globalpacks",
+      "version": "1.14.3.1_fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "globalpacks",
+      "version": "1.14.3.1_fabric"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

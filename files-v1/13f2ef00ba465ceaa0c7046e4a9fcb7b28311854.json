@@ -1,0 +1,14 @@
+{
+  "name": "servertick-mc1.18-1.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "servertick",
+      "version": "1.6"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

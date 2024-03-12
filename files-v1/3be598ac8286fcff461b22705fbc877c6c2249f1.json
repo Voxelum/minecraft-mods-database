@@ -1,0 +1,52 @@
+{
+  "name": "create-fabric-0.5.0.i-961+1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create-fabric-0.5.0.i-961+1.19.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create",
+      "version": "0.5.0.i-961+1.19.2"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.784+1.19.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.9"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.1.50-MC1.19.2"
+    },
+    {
+      "modId": "flywheel",
+      "version": "0.6.8.a-4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "milk",
+      "version": "1.0.51"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    }
+  ]
+}

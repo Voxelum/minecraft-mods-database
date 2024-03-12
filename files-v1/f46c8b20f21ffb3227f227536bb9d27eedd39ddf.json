@@ -1,0 +1,26 @@
+{
+  "name": "originaddons-1.0.2-UNIVERSAL.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ECVMthxr",
+      "versionId": "kSJUhy3v"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "originaddons",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "originaddons",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "enhancedblockentities-0.4--1.16.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enhancedblockentities",
+      "version": "0.4"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.4.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "malilib-fabric-1.20.1-0.16.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MLraAtg1",
+      "versionId": "OINXQ4bJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303119,
+      "fileId": 4623483
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.16.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d77"
+    }
+  ]
+}

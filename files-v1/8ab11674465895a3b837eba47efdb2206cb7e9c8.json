@@ -1,0 +1,10 @@
+{
+  "name": "explosiveenhancement.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "explosiveenhancement",
+      "version": "1.2.0-1.20.x"
+    }
+  ]
+}

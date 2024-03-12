@@ -1,0 +1,16 @@
+{
+  "name": "abyg-1.2-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bygvanillabiomes",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bygvanillabiomes",
+      "version": "1.0.0"
+    }
+  ]
+}

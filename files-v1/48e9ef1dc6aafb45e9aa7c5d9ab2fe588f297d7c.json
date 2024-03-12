@@ -1,0 +1,44 @@
+{
+  "name": "playerex-3.5.4+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o5GUN4b1",
+      "versionId": "crUnrRoR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "playerex",
+      "version": "3.5.4+1.19.2"
+    },
+    {
+      "modId": "opc",
+      "version": "0.6.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "projectile_damage",
+      "version": "3.2.1+1.19"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-pre.1+1.19.2"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

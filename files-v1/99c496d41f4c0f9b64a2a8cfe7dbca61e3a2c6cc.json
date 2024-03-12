@@ -1,0 +1,16 @@
+{
+  "name": "Forge Config API Port-8.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

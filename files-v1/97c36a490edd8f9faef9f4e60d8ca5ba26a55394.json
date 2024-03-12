@@ -1,0 +1,14 @@
+{
+  "name": "custom-fog-1.5.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "custom-fog",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nyfsbp-fabric-1.20.1-1.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nyfsbp",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

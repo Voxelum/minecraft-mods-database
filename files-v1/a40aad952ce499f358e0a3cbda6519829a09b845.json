@@ -1,0 +1,10 @@
+{
+  "name": "tcdcommons.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tcdcommons",
+      "version": "2.10.2+1.20.1"
+    }
+  ]
+}

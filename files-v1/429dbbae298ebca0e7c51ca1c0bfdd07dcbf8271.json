@@ -1,0 +1,14 @@
+{
+  "name": "paucal-fabric-1.19.2-0.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "paucal",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

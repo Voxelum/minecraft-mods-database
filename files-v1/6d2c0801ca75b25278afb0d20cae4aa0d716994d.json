@@ -1,0 +1,10 @@
+{
+  "name": "dawn-5.0.0-sources.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "iris-mc1.18.2-1.6.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "C7jhLYbl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.6.10"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "io_github_douira_glsl-transformer",
+      "version": "2.0.0-pre13"
+    },
+    {
+      "modId": "org_antlr_antlr4-runtime",
+      "version": "4.11.1"
+    }
+  ]
+}

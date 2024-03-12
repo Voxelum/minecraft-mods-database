@@ -1,0 +1,24 @@
+{
+  "name": "lambdynamiclights-2.1.0+1.17.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "zhBXhMhZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "2.1.0+1.17"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.0+1.17"
+    },
+    {
+      "modId": "pride",
+      "version": "1.1.0+1.17"
+    }
+  ]
+}

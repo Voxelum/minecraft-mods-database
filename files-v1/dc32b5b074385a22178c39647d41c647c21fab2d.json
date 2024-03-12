@@ -1,0 +1,22 @@
+{
+  "name": "Drawer 0..1.8 Forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 711189,
+      "fileId": 4763202
+    }
+  ],
+  "forge": [
+    {
+      "modId": "drawer",
+      "version": "0.1.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "drawer",
+      "version": "0.1.7"
+    }
+  ]
+}

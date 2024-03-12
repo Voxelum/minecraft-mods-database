@@ -1,0 +1,14 @@
+{
+  "name": "custom_hud-3.1.2+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "custom_hud",
+      "version": "3.1.2+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

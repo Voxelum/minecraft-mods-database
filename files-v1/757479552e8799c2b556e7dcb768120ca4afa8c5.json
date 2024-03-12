@@ -1,0 +1,24 @@
+{
+  "name": "ironbookshelves-1.20.1-1.2.3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QmCOBeSP",
+      "versionId": "XUCLqtyN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironbookshelves",
+      "version": "1.20.1-1.2.3-fabric"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "4.1.0-fabric"
+    }
+  ]
+}

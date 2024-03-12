@@ -1,0 +1,16 @@
+{
+  "name": "modularmovements-1.2.0f.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 564063,
+      "fileId": 4411560
+    }
+  ],
+  "forge": [
+    {
+      "modId": "modularmovements",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rhino-1605.1.2-build.40.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "1605.1.2-build.40"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "1605.1.2-build.40"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "timechanger-1.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "timechanger",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.3.0"
+    }
+  ]
+}

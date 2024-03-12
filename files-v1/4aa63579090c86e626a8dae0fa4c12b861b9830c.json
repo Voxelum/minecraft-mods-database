@@ -1,0 +1,14 @@
+{
+  "name": "moborigins-1.11.0 (2).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moborigins",
+      "version": "1.11.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    }
+  ]
+}

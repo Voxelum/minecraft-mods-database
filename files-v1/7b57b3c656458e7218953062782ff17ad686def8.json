@@ -1,0 +1,10 @@
+{
+  "name": "DeepBloodEvolution-1.1.6-e.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deepmoblearningbm",
+      "version": "@VERSION@"
+    }
+  ]
+}

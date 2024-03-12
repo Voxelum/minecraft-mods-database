@@ -1,0 +1,38 @@
+{
+  "name": "aether-1.17.1-1.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "the_aether",
+      "version": "1.17.1-1.5.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.3+1.17"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta33-1.17"
+    },
+    {
+      "modId": "seedy-behavior",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.0.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Modern-Industrialization-1.7.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modern_industrialization",
+      "version": "1.7.4"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-81-FABRIC"
+    },
+    {
+      "modId": "magna",
+      "version": "1.10.1+1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    }
+  ]
+}

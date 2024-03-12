@@ -1,0 +1,26 @@
+{
+  "name": "sodium-fabric-mc1.20.1-0.5.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a77"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.0.26+b3afc78b77"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.33+b3afc78b77"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.8+e3d6ed2577"
+    }
+  ]
+}

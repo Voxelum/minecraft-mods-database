@@ -1,0 +1,68 @@
+{
+  "name": "frame-0.26.1+1.19-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 580137,
+      "fileId": 3943404
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frame",
+      "version": "0.26.1+1.19-fabric"
+    },
+    {
+      "modId": "frame-api-base",
+      "version": "0.2.1+906ebc04a9"
+    },
+    {
+      "modId": "frame-blocks-v0",
+      "version": "0.1.3+233e7428a9"
+    },
+    {
+      "modId": "frame-config-v0",
+      "version": "0.3.1+0fa45150a9"
+    },
+    {
+      "modId": "frame-content-registries-v0",
+      "version": "0.4.0+2876b511a9"
+    },
+    {
+      "modId": "frame-enchantments-v0",
+      "version": "0.1.0+4093105da9"
+    },
+    {
+      "modId": "frame-game-rules-v0",
+      "version": "0.2.4+e7ce56a6a9"
+    },
+    {
+      "modId": "frame-items-v0",
+      "version": "0.1.3+906ebc04a9"
+    },
+    {
+      "modId": "frame-loot-tables-v0",
+      "version": "0.1.4+4f7341eca9"
+    },
+    {
+      "modId": "frame-registries-v0",
+      "version": "0.1.1+0e0ec74ea9"
+    },
+    {
+      "modId": "frame-rendering-v0",
+      "version": "0.1.5+906ebc04a9"
+    },
+    {
+      "modId": "frame-tabbed-item-groups-v0",
+      "version": "0.2.4+0aca9b56a9"
+    },
+    {
+      "modId": "frame-toymaker-v0",
+      "version": "0.6.1+b13741c3a9"
+    },
+    {
+      "modId": "frame-woods-v0",
+      "version": "0.2.1+6a33fbada9"
+    }
+  ]
+}

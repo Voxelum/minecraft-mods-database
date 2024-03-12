@@ -1,0 +1,14 @@
+{
+  "name": "wraith-harvestscythes-2.5.4+mc1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "harvest_scythes",
+      "version": "2.5.4+mc1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

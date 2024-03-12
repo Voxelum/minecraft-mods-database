@@ -1,0 +1,28 @@
+{
+  "name": "ok_zoomer-5.0.0-beta.7+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXf2OSFU",
+      "versionId": "nu6gjAtJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ok_zoomer-sunset",
+      "version": "5.0.0-beta.7+1.18.2"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.4.2+1.18.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.3+1.18"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.8"
+    }
+  ]
+}

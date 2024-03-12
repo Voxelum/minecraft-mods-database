@@ -1,0 +1,18 @@
+{
+  "name": "InvView-1.4.9-1.19+.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "invview",
+      "version": "1.4.9-1.19+"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.0.0-rc6+1.18-pre5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "friendsandfoes-fabric-mc1.20.1-1.9.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "1.9.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

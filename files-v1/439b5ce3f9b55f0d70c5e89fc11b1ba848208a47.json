@@ -1,0 +1,16 @@
+{
+  "name": "advancement-count-v1.1.0b.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_advancement_count",
+      "version": "1-v1.1.0b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_advancement_count",
+      "version": "1-v1.1.0b"
+    }
+  ]
+}

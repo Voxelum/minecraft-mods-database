@@ -1,0 +1,14 @@
+{
+  "name": "capes-1.5.2+1.19.3-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "capes",
+      "version": "1.5.2+1.19.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.1"
+    }
+  ]
+}

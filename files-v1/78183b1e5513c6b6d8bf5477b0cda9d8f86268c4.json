@@ -1,0 +1,20 @@
+{
+  "name": "autotag-2.0.2+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8FdYDHF5",
+      "versionId": "ocD9XA8D"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autotag-convention",
+      "version": "2.0.2+1.20"
+    },
+    {
+      "modId": "autotag",
+      "version": "2.0.2+1.20"
+    }
+  ]
+}

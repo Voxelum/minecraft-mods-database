@@ -1,0 +1,10 @@
+{
+  "name": "TabOverlay_1.12.2_1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "taboverlay",
+      "version": "@VERSION@"
+    }
+  ]
+}

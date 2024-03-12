@@ -1,0 +1,14 @@
+{
+  "name": "NetherChested-v8.0.1-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "netherchested",
+      "version": "8.0.1"
+    },
+    {
+      "modId": "puzzlesapi",
+      "version": "8.0.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ctov-farmers-delight-compat-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_ctov_farmersdelightcompat",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ctov_farmersdelightcompat",
+      "version": "2.1"
+    }
+  ]
+}

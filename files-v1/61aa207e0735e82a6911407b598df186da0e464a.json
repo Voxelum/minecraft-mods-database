@@ -1,0 +1,14 @@
+{
+  "name": "Compressor-Fabric-0.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "compressor",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    }
+  ]
+}

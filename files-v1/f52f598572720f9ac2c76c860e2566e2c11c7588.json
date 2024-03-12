@@ -1,0 +1,16 @@
+{
+  "name": "mcwifipnp-1.6.2-1.18.2-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.2"
+    }
+  ]
+}

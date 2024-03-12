@@ -1,0 +1,16 @@
+{
+  "name": "clean_tooltips-1.0-fabric-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "clean_tooltips",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clean_tooltips",
+      "version": "1.0"
+    }
+  ]
+}

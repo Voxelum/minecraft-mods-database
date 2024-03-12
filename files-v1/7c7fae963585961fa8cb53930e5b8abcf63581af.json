@@ -1,0 +1,14 @@
+{
+  "name": "medievalweapons-1.4.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "medievalweapons",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

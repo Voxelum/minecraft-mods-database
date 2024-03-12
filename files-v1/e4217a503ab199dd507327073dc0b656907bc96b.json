@@ -1,0 +1,16 @@
+{
+  "name": "SkeletonHorseSpawn.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "skeletonhorsespawn",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skeletonhorsespawn",
+      "version": "3.6"
+    }
+  ]
+}

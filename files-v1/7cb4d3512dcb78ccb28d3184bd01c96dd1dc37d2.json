@@ -1,0 +1,14 @@
+{
+  "name": "betterleads-1.0.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterleads",
+      "version": "1.0.2+1.19.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.0.0+1.19"
+    }
+  ]
+}

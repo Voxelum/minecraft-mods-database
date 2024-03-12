@@ -1,0 +1,22 @@
+{
+  "name": "carrier-1.8.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "carrier",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "3.0.0-nightly.1.17-pre1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "3.0.0-nightly.1.17-pre1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.2.9"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": ").jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "baritoe",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inertia",
+      "version": "1.16.4"
+    },
+    {
+      "modId": "mm",
+      "version": "2.0.1"
+    }
+  ]
+}

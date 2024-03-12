@@ -1,0 +1,10 @@
+{
+  "name": "fix-keyboard-on-linux-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fix-keyboard-on-linux",
+      "version": "1.0.0"
+    }
+  ]
+}

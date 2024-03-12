@@ -1,0 +1,68 @@
+{
+  "name": "fakeplayers-v1.1.2-1.20.1-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1RSY6DQH",
+      "versionId": "KqttaT4Y"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fakeplayers",
+      "version": "v1.1.2-1.20.1-FABRIC"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "org_asynchttpclient_async-http-client",
+      "version": "3.0.0.Beta2"
+    },
+    {
+      "modId": "io_netty_netty-handler",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-handler-proxy",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-codec",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-buffer",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-codec-socks",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-common",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-transport",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "io_netty_netty-resolver-dns",
+      "version": "4.1.94.Final"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    }
+  ]
+}

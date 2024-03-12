@@ -1,0 +1,20 @@
+{
+  "name": "wunderreich-6.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P6czZwFh",
+      "versionId": "m2KHJKQk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wunderreich",
+      "version": "6.0.4"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "1.1.3"
+    }
+  ]
+}

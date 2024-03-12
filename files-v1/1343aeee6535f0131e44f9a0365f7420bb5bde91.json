@@ -1,0 +1,20 @@
+{
+  "name": "EMITrades-fabric-1.0.2+mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j2HhbEE7",
+      "versionId": "YnCegFtP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emitrades",
+      "version": "1.0.2+mc1.19.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

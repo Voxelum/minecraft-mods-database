@@ -1,0 +1,14 @@
+{
+  "name": "autoconfig1u-3.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autoconfig1u",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.3+d7c144a8d2"
+    }
+  ]
+}

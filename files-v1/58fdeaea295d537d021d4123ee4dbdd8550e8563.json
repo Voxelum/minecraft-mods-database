@@ -1,0 +1,20 @@
+{
+  "name": "Debugify-1.19.4+2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 596224,
+      "fileId": 4500733
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "debugify",
+      "version": "1.19.4+2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "vanish-1.4.3+1.20.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 676275,
+      "fileId": 4781246
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "melius-vanish",
+      "version": "1.4.3+1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.2.0+1.20.2"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.3.0+1.20.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.1.0+1.20.2-rc2"
+    }
+  ]
+}

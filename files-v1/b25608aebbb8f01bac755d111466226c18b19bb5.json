@@ -1,0 +1,20 @@
+{
+  "name": "gearifiers-0.5.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "epdnizGK",
+      "versionId": "93EbDM3D"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gearifiers",
+      "version": "0.5.0+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

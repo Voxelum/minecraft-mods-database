@@ -1,0 +1,10 @@
+{
+  "name": "[内存优化] memoryleakfix-forge-1.17+-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "memoryleakfix",
+      "version": "1.0.0"
+    }
+  ]
+}

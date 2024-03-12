@@ -1,0 +1,52 @@
+{
+  "name": "betterhurtcam-1.5.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o4y0N2hu",
+      "versionId": "vV2p2NQ0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterhurtcam",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc114",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc115",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc116",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc117",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc118",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc119",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc1193",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc1194",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "betterhurtcam-mc120",
+      "version": "1.5.5"
+    }
+  ]
+}

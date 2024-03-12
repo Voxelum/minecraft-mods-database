@@ -1,0 +1,14 @@
+{
+  "name": "Reaper-1.0.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reaper",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.5.0"
+    }
+  ]
+}

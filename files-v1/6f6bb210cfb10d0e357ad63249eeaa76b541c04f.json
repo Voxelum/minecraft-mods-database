@@ -1,0 +1,14 @@
+{
+  "name": "visualoverhaul-fabric-5.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "visualoverhaul",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

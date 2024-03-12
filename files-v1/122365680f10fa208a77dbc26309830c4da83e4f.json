@@ -1,0 +1,26 @@
+{
+  "name": "respawnablepets-1.20-1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "respawnablepets",
+      "version": "1.20-1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

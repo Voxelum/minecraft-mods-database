@@ -1,0 +1,20 @@
+{
+  "name": "chisel-1.6+1.20.1+templates2-inside.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551763,
+      "fileId": 4729006
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chisel",
+      "version": "1.6"
+    },
+    {
+      "modId": "templates",
+      "version": "2.1.1+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Structory-1.18.2-1.0.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 636540,
+      "fileId": 3850446
+    }
+  ],
+  "forge": [
+    {
+      "modId": "structory",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "structory",
+      "version": "1.0.0"
+    }
+  ]
+}

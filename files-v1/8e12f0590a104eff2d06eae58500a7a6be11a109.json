@@ -1,0 +1,14 @@
+{
+  "name": "questsadditions-fabric-1.19.2-1.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "questsadditions",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

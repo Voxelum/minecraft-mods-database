@@ -1,0 +1,16 @@
+{
+  "name": "Droplight-1.19.2-fabric-1.0.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "droplight",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "droplight",
+      "version": "1.0.5"
+    }
+  ]
+}

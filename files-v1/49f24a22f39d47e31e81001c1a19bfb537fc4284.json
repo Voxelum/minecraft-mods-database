@@ -1,0 +1,14 @@
+{
+  "name": "campanion-3.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "campanion",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

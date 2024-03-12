@@ -1,0 +1,16 @@
+{
+  "name": "EnhancedVisuals_FORGE_v1.6.6_mc1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.6.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "${version}"
+    }
+  ]
+}

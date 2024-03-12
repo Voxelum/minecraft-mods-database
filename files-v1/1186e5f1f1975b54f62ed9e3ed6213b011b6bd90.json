@@ -1,0 +1,16 @@
+{
+  "name": "chunksending-fabric-1.19-2.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chunksending",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunksending",
+      "version": "1.19-2.5"
+    }
+  ]
+}

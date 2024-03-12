@@ -1,0 +1,16 @@
+{
+  "name": "Сtov.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "3.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "3.3.0"
+    }
+  ]
+}

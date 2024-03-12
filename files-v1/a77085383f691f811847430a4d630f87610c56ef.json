@@ -1,0 +1,22 @@
+{
+  "name": "wraith-fabricaeexnihilo-1.0.0-beta.4+mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabricaeexnihilo",
+      "version": "1.0.0-beta.4+mc1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.0.3+1.20"
+    },
+    {
+      "modId": "config_toolkit",
+      "version": "1.0.0"
+    }
+  ]
+}

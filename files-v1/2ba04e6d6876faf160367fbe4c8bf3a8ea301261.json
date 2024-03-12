@@ -1,0 +1,22 @@
+{
+  "name": "dashloader-5.0.0-beta.1+1.20.0.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dashloader",
+      "version": "5.0.0-beta.1+1.20.0"
+    },
+    {
+      "modId": "dev_quantumfusion_hyphen",
+      "version": "0.4.0-rc.3"
+    },
+    {
+      "modId": "dev_notalpha_taski",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_github_luben_zstd-jni",
+      "version": "1.5.2-2"
+    }
+  ]
+}

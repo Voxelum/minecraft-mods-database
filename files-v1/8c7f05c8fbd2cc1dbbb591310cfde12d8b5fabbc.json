@@ -1,0 +1,10 @@
+{
+  "name": "classyhats-1.6.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "classyhats",
+      "version": "%VERSION%"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "LuckPerms-Fabric-5.4.102.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "luckperms",
+      "version": "5.4.102"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

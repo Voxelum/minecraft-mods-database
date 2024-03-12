@@ -1,0 +1,16 @@
+{
+  "name": "Towns-and-Towers-1.11-Fabric+Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "t_and_t",
+      "version": "1.10.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.10.2"
+    }
+  ]
+}

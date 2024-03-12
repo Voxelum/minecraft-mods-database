@@ -1,0 +1,28 @@
+{
+  "name": "blossom-blade-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UMmSTwE0",
+      "versionId": "DAbnnMDF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 920268,
+      "fileId": 4785334
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_blossom_blade",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_blossom_blade",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ctov-byg-compat-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_ctov_bygcompat",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ctov_bygcompat",
+      "version": "1.0"
+    }
+  ]
+}

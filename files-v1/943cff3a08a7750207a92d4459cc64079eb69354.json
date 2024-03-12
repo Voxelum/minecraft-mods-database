@@ -1,0 +1,16 @@
+{
+  "name": "PrettyPipes-1.12.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "prettypipes",
+      "version": "1.12.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "prettypipes",
+      "version": "0.0.0"
+    }
+  ]
+}

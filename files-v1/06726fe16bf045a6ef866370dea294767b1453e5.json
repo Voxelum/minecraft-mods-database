@@ -1,0 +1,16 @@
+{
+  "name": "fullbrightnesstoggle-1.19.3-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fullbrightnesstoggle",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fullbrightnesstoggle",
+      "version": "3.0"
+    }
+  ]
+}

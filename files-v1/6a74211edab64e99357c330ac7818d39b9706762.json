@@ -1,0 +1,46 @@
+{
+  "name": "cloth-api-1.6.59.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cloth-api",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-armor-api-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-common-events-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-datagen-api-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-durability-bar-api-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-dynamic-registry-api-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-scissors-api-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "1.6.59"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.5.1"
+    }
+  ]
+}

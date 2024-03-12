@@ -1,0 +1,28 @@
+{
+  "name": "ItemPhysicLite_FORGE_v1.6.1_mc1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OuyCgP8t",
+      "versionId": "J2aaAPhV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 270441,
+      "fileId": 4578892
+    }
+  ],
+  "forge": [
+    {
+      "modId": "itemphysiclite",
+      "version": "1.6.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemphysiclite",
+      "version": "${version}"
+    }
+  ]
+}

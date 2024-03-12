@@ -1,0 +1,22 @@
+{
+  "name": "abundant_atmosphere-1.19.2-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N8ZATCCG",
+      "versionId": "yZHRhP5I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682418,
+      "fileId": 4083493
+    }
+  ],
+  "forge": [
+    {
+      "modId": "abundant_atmosphere",
+      "version": "${1.0.2-1.19.2}"
+    }
+  ]
+}

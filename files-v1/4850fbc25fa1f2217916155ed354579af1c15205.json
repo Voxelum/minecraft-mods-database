@@ -1,0 +1,26 @@
+{
+  "name": "bclib-3.0.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BgNRHReB",
+      "versionId": "bccqbyya"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495191,
+      "fileId": 4677965
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "3.0.13"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "1.1.5"
+    }
+  ]
+}

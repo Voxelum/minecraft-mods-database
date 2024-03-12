@@ -1,0 +1,16 @@
+{
+  "name": "tectonic-mod-mc1.19.2-v1.1.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tectonic",
+      "version": "1.1.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tectonic",
+      "version": "1.1.10"
+    }
+  ]
+}

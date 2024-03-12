@@ -1,0 +1,16 @@
+{
+  "name": "daycounter-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_daycounter",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_daycounter",
+      "version": "1"
+    }
+  ]
+}

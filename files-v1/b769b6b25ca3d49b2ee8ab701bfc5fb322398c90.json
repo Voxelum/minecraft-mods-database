@@ -1,0 +1,20 @@
+{
+  "name": "exordium-fabric-1.2.1-mc1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DynYZEae",
+      "versionId": "SotsZlJ6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exordium",
+      "version": "1.2.1-mc1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

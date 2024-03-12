@@ -1,0 +1,10 @@
+{
+  "name": "davincisvessels-1.12-6.340-full.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "davincisvessels",
+      "version": "@DVESSELSVER@"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "kibe-1.10.1-BETA+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kibe",
+      "version": "1.10.1-BETA+1.20"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    }
+  ]
+}

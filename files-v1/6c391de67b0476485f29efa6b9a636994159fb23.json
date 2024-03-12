@@ -1,0 +1,20 @@
+{
+  "name": "veinmining-fabric-1.2.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRAPbNyF",
+      "versionId": "T3DAcaMS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "veinmining",
+      "version": "1.2.1+1.20.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.14+1.20.1"
+    }
+  ]
+}

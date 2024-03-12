@@ -1,0 +1,14 @@
+{
+  "name": "arclight-0.1.2-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "arclight",
+      "version": "0.1.2-1.19.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

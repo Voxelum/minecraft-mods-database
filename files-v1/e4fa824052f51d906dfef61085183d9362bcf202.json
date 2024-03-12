@@ -1,0 +1,14 @@
+{
+  "name": "[运行库]malilib-fabric-1.19.4-0.15.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.15.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    }
+  ]
+}

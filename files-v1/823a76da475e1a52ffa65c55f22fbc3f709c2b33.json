@@ -1,0 +1,20 @@
+{
+  "name": "ok-boomer-0.1.2+1.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 820180,
+      "fileId": 4576377
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ok-boomer",
+      "version": "0.1.2+1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

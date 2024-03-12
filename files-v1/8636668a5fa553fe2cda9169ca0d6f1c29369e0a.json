@@ -1,0 +1,10 @@
+{
+  "name": "furniture.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "furniture_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

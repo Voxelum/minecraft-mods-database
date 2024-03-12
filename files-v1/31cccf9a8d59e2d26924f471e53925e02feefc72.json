@@ -1,0 +1,26 @@
+{
+  "name": "EditSign-1.19.2-2.6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hFMCvH85",
+      "versionId": "cS4enerj"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "editsign",
+      "version": "2.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "editsign",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.0.75"
+    }
+  ]
+}

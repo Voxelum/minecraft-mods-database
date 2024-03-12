@@ -1,0 +1,36 @@
+{
+  "name": "worldedit-mod-7.2.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "worldedit",
+      "version": "7.2.4+5723-e3bfc64"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldedit",
+      "version": "7.2.4+5723-e3bfc64"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.0+ab87788d3a"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.0.9+6a2618f53a"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.1+6a2618f53a"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.0+ffb68a873a"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.0+4358fbc63a"
+    }
+  ]
+}

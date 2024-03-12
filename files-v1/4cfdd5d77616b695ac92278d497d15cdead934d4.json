@@ -1,0 +1,18 @@
+{
+  "name": "Origins-1.19.4-1.9.0 (2).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.8.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.2"
+    }
+  ]
+}

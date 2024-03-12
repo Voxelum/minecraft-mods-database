@@ -1,0 +1,16 @@
+{
+  "name": "Level Up! 2-1.1.23-1.12.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 251136,
+      "fileId": 2763516
+    }
+  ],
+  "forge": [
+    {
+      "modId": "levelup2",
+      "version": "${version}"
+    }
+  ]
+}

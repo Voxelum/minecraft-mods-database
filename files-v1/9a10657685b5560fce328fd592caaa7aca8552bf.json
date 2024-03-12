@@ -1,0 +1,16 @@
+{
+  "name": "polymorph-fabric-0.46.4+1.19.2-sources.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tagwiZkJ",
+      "versionId": "7L5hC81R"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${version}"
+    }
+  ]
+}

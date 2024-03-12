@@ -1,0 +1,20 @@
+{
+  "name": "wakes-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dlNu0RQY",
+      "versionId": "NCJ1TwEm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wakes",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

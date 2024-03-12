@@ -1,0 +1,26 @@
+{
+  "name": "xp_storage-1.4.2+1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "xp_storage",
+      "version": "1.4.2+1.17.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

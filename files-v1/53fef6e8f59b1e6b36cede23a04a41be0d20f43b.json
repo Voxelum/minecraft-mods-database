@@ -1,0 +1,14 @@
+{
+  "name": "RingsOfAscension-1.18-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ringsofascension",
+      "version": "1.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.5.0"
+    }
+  ]
+}

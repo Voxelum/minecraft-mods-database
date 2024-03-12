@@ -1,0 +1,26 @@
+{
+  "name": "identity-1.16.0-1.18.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "identity",
+      "version": "1.16.0-1.18.1"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

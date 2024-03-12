@@ -1,0 +1,28 @@
+{
+  "name": "collective-1.20.1-6.65.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "W1CQ9UCz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 4639343
+    }
+  ],
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "6.65"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "6.65"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "farsight-fabric-1.19.2-3.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "farsight",
+      "version": "1.19.2-3.5"
+    },
+    {
+      "modId": "org_jctools_jctools-core",
+      "version": "4.0.1"
+    }
+  ]
+}

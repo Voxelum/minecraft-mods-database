@@ -1,0 +1,14 @@
+{
+  "name": "chalk-2.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chalk",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "simplefabric",
+      "version": "1.0.0"
+    }
+  ]
+}

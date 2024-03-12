@@ -1,0 +1,34 @@
+{
+  "name": "onsoulfire-1.19-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HfTvoVqY",
+      "versionId": "ZR8woQzp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394667,
+      "fileId": 3830809
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "onsoulfire",
+      "version": "1.19-2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

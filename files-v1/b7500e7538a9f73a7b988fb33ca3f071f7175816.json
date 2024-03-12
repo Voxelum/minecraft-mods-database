@@ -1,0 +1,18 @@
+{
+  "name": "fabrictailor-2.1.2-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabrictailor",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Armorful-2.0.2+1.20-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorful",
+      "version": "${version}"
+    }
+  ]
+}

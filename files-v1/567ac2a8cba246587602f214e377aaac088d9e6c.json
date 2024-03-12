@@ -1,0 +1,16 @@
+{
+  "name": "ctov-beautify-add-on-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ctov_beautifyaddon_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov_beautifyaddon_mr",
+      "version": "1.0"
+    }
+  ]
+}

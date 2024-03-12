@@ -1,0 +1,20 @@
+{
+  "name": "The_Graveyard_2.3.2_(FABRIC)_for_1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QivVPB8W",
+      "versionId": "OXDcBMyv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "graveyard",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.2-1.18.1"
+    }
+  ]
+}

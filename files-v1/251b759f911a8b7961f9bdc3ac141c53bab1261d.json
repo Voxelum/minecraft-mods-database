@@ -1,0 +1,16 @@
+{
+  "name": "[更高级联机设置] mcwifipnp-1.6.3-1.19.3-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.3"
+    }
+  ]
+}

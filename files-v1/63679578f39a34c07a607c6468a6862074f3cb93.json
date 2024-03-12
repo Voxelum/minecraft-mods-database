@@ -1,0 +1,10 @@
+{
+  "name": "catjammies-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "catjammies",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

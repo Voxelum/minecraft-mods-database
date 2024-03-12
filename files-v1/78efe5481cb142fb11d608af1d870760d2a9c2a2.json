@@ -1,0 +1,26 @@
+{
+  "name": "ukulib-0.6.1+1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ukulib",
+      "version": "0.6.1+1.19.4"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "gs_mclo_java_mclogs-java",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.9+711cde8ad8"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.4+ae0966bad8"
+    }
+  ]
+}

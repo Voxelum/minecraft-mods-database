@@ -1,0 +1,10 @@
+{
+  "name": "Modpack Configuration Checker-1.12.2-v1.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "concheckrmd",
+      "version": "1.7.0"
+    }
+  ]
+}

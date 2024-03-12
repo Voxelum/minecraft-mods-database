@@ -1,0 +1,14 @@
+{
+  "name": "repurposed_structures_fabric-3.3.12+1.18.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "3.3.12+1.18.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.8"
+    }
+  ]
+}

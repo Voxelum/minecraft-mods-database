@@ -1,0 +1,16 @@
+{
+  "name": "create-renewable-ores-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_renewableores_mr",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_renewableores_mr",
+      "version": "1"
+    }
+  ]
+}

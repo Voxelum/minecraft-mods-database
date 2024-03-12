@@ -1,0 +1,14 @@
+{
+  "name": "lightest-lamps-fabric-4.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lightestlamp",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

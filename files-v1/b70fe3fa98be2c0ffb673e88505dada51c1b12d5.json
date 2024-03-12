@@ -1,0 +1,10 @@
+{
+  "name": "[___MixinCompat-0.8___].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mixincompat",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "villagerquests-1.0.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "villagerquests",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.1+1.19"
+    }
+  ]
+}

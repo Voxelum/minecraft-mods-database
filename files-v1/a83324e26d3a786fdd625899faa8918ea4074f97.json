@@ -1,0 +1,14 @@
+{
+  "name": "inmis-2.3.2-1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "inmis",
+      "version": "2.3.2-1.17.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "create_crystal_clear-1.0+1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_crystal_clear",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_crystal_clear",
+      "version": "1.0+1.19.2"
+    }
+  ]
+}

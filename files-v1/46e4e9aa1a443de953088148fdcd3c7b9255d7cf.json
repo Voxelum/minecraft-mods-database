@@ -1,0 +1,10 @@
+{
+  "name": "modnametooltip_1.12.2-1.10.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "modnametooltip",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

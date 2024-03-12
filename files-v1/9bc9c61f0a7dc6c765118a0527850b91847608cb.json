@@ -1,0 +1,20 @@
+{
+  "name": "cullleaves-2.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNxdLCoP",
+      "versionId": "718Klypf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.2.9"
+    }
+  ]
+}

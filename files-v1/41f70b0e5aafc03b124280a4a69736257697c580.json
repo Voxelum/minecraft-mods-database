@@ -1,0 +1,50 @@
+{
+  "name": "wanderingcollector-1.1.3+mc1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wandering_collector",
+      "version": "1.1.3+mc1.19"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a3a9"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.27+7fe97409a9"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "0.9.17+23c4cfefa9"
+    },
+    {
+      "modId": "tweed4_base",
+      "version": "1.6.0+mc22w17a"
+    },
+    {
+      "modId": "tweed4_annotated",
+      "version": "1.3.1+mc22w17a"
+    },
+    {
+      "modId": "tweed4_data",
+      "version": "1.2.1+mc22w17a"
+    },
+    {
+      "modId": "tweed4_data_hjson",
+      "version": "1.1.1+mc22w17a"
+    },
+    {
+      "modId": "tweed4_tailor_screen",
+      "version": "1.1.1+mc22w17a"
+    },
+    {
+      "modId": "tweed4_tailor_coat",
+      "version": "1.1.3+mc22w17a"
+    },
+    {
+      "modId": "coat",
+      "version": "1.0.0-beta.18+mc22w17a"
+    }
+  ]
+}

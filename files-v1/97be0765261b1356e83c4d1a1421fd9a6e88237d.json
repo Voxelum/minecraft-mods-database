@@ -1,0 +1,26 @@
+{
+  "name": "inmis-2.7.1-1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I0UYcPa0",
+      "versionId": "X9DLrgl1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 369254,
+      "fileId": 4031400
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inmis",
+      "version": "2.7.1-1.19"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

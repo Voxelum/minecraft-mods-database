@@ -1,0 +1,16 @@
+{
+  "name": "alternate-current-mc1.18-1.2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 548115,
+      "fileId": 3789218
+    }
+  ],
+  "forge": [
+    {
+      "modId": "alternate_current",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

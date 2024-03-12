@@ -1,0 +1,14 @@
+{
+  "name": "gate-of-babylon-1.5.1-1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gateofbabylon",
+      "version": "1.5.1-1.17.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

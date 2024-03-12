@@ -1,0 +1,14 @@
+{
+  "name": "geodeplus-fabric-1.2.0-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "geode_plus",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "paragon",
+      "version": "3.0.2"
+    }
+  ]
+}

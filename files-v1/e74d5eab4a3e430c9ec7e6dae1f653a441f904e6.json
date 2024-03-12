@@ -1,0 +1,14 @@
+{
+  "name": "pistorder-mc1.18.2-v1.5.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pistorder",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.17+801ec85b60"
+    }
+  ]
+}

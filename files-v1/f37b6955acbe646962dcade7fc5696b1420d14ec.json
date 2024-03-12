@@ -1,0 +1,16 @@
+{
+  "name": "df-roads-1.5.4-mc1.12.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 307507,
+      "fileId": 3460222
+    }
+  ],
+  "forge": [
+    {
+      "modId": "df-roads",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Cardinal-Components-API-3.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cardinal-components",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-util",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b446313"
+    },
+    {
+      "modId": "fabric-networking-v0",
+      "version": "0.3.2+92519afa13"
+    }
+  ]
+}

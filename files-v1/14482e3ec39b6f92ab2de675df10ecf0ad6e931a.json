@@ -1,0 +1,16 @@
+{
+  "name": "[___MixinCompat-1.1-1.12.2___].jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 405327,
+      "fileId": 4641243
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mixincompat",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

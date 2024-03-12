@@ -1,0 +1,16 @@
+{
+  "name": "MapFrontiers-1.19.2-2.5.1-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.5.1-fabric"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "thaumcraftneiplugin-1.7.10-1.7a.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225095,
+      "fileId": 2241913
+    }
+  ],
+  "forge": [
+    {
+      "modId": "thaumcraftneiplugin",
+      "version": "@VERSION@"
+    }
+  ]
+}

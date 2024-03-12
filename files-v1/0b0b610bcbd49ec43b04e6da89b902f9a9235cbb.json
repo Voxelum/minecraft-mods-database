@@ -1,0 +1,24 @@
+{
+  "name": "Public GUI Announcement-fabric-1.19.2-4.3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "publicguiannouncement",
+      "version": "4.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "publicguiannouncement",
+      "version": "4.3.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    }
+  ]
+}

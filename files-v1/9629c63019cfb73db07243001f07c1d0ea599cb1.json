@@ -1,0 +1,24 @@
+{
+  "name": "walljump-fabric-1.20.1-1.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ulUgV6dN",
+      "versionId": "M7igtwKG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "walljump",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "org_aeonbits_owner_owner",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "keybind_fix",
+      "version": "1.0.0"
+    }
+  ]
+}

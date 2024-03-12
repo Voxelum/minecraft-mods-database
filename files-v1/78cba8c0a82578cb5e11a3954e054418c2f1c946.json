@@ -1,0 +1,14 @@
+{
+  "name": "Powah-5.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "powah",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

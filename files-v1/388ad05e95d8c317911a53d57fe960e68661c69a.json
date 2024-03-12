@@ -1,0 +1,24 @@
+{
+  "name": "moreculling-1.20-0.18.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "BbgZWSfa"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "1.20-0.18.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

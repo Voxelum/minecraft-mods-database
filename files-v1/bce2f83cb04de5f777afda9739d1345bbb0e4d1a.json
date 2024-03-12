@@ -1,0 +1,14 @@
+{
+  "name": "thunderhack-1.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "thunderhack",
+      "version": "1.3"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    }
+  ]
+}

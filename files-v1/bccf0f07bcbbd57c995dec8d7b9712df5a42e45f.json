@@ -1,0 +1,28 @@
+{
+  "name": "BoatBreakFix-Universal-1.0.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OVb8ZE5p",
+      "versionId": "O2IGXZu3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 709585,
+      "fileId": 4105550
+    }
+  ],
+  "forge": [
+    {
+      "modId": "boatbreakfix",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "boatbreakfix",
+      "version": "1.0.11"
+    }
+  ]
+}

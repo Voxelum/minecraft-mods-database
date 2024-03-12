@@ -1,0 +1,40 @@
+{
+  "name": "optigui-2.1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JuksLGBQ",
+      "versionId": "x0k8u61W"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optigui",
+      "version": "2.1.5"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "org_ini4j_ini4j",
+      "version": "0.5.4"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.5-mc.1.18"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.5-mc.1.18.2"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.5-mc.1.19"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.5-mc.1.19.3"
+    }
+  ]
+}

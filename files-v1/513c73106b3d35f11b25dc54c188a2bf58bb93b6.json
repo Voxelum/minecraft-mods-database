@@ -1,0 +1,14 @@
+{
+  "name": "chisel-1.4.8+1.19.3+continuity-inside.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chisel",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "continuity",
+      "version": "2.0.2+1.19.3-build.2"
+    }
+  ]
+}

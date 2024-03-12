@@ -1,0 +1,14 @@
+{
+  "name": "voidz-1.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "voidz",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "disable_custom_worlds_advice",
+      "version": "1.3"
+    }
+  ]
+}

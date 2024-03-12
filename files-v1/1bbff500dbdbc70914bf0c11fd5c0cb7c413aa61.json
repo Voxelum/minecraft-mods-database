@@ -1,0 +1,24 @@
+{
+  "name": "stellar-tune-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mzyvcGid",
+      "versionId": "DGmSg2CW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stellar-tune",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.0-rc.2+1.20-rc1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

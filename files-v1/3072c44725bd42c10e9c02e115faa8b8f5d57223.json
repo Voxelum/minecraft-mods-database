@@ -1,0 +1,16 @@
+{
+  "name": "Towns-and-Towers-1.19.2-1.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "t_and_t",
+      "version": "1.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.9"
+    }
+  ]
+}

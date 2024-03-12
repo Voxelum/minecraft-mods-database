@@ -1,0 +1,20 @@
+{
+  "name": "genshincraft-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "genshincraft",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "genshincraft",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

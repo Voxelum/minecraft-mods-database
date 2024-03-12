@@ -1,0 +1,16 @@
+{
+  "name": "blahaj-quilt-1.18-0.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yl6uPZkr",
+      "versionId": "QCwcfkIK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blahaj",
+      "version": "${version}"
+    }
+  ]
+}

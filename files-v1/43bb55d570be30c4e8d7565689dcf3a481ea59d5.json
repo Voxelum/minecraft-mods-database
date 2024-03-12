@@ -1,0 +1,14 @@
+{
+  "name": "CITResewn-1.1.1+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "citresewn",
+      "version": "1.1.1+1.18.2"
+    },
+    {
+      "modId": "citresewn-defaults",
+      "version": "1.1.1+1.18.2"
+    }
+  ]
+}

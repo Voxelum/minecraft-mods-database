@@ -1,0 +1,10 @@
+{
+  "name": "farsight-1.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "farsight_view",
+      "version": "1.7"
+    }
+  ]
+}

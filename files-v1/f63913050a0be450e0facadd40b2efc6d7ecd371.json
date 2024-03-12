@@ -1,0 +1,30 @@
+{
+  "name": "slight-gui-modifications-1.7.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "slight-gui-modifications",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.1"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "artifice",
+      "version": "0.14.6+1.16.5"
+    },
+    {
+      "modId": "org_codehaus_groovy_groovy-jsr223",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "org_codehaus_groovy_groovy",
+      "version": "3.0.3"
+    }
+  ]
+}

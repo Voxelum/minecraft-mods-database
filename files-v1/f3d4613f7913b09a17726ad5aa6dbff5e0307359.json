@@ -1,0 +1,16 @@
+{
+  "name": "randommobeffects-1.20.0-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "randommobeffects",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randommobeffects",
+      "version": "3.1"
+    }
+  ]
+}

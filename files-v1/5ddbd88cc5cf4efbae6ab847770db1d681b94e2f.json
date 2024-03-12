@@ -1,0 +1,14 @@
+{
+  "name": "meteor-client-0.5.5-1960.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteor-client",
+      "version": "0.5.5-1960"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.12+b1792f7da0"
+    }
+  ]
+}

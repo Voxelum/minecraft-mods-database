@@ -1,0 +1,16 @@
+{
+  "name": "collective-1.19.2-6.53.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "6.53"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "6.53"
+    }
+  ]
+}

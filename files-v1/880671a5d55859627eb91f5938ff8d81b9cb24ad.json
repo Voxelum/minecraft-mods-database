@@ -1,0 +1,14 @@
+{
+  "name": "emitrades-fabric-1.2.0+mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "emitrades",
+      "version": "1.2.0+mc1.20.1"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.2.1"
+    }
+  ]
+}

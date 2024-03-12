@@ -1,0 +1,88 @@
+{
+  "name": "fakerlib-0.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ORX9fPw1",
+      "versionId": "XQnqySmt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fakerlib",
+      "version": "0.0.7"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_client_events",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.1.1102+1.20-entity-refactor"
+    },
+    {
+      "modId": "porting_lib_mixin_extensions",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_registries",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.1.1127+1.20"
+    }
+  ]
+}

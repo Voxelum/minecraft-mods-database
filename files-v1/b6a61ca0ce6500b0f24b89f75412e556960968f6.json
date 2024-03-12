@@ -1,0 +1,10 @@
+{
+  "name": "MinekovFlansmodEngine.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "flansmod",
+      "version": "4.10.0"
+    }
+  ]
+}

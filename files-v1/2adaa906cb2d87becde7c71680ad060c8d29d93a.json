@@ -1,0 +1,28 @@
+{
+  "name": "AmbientSounds_FORGE_v5.0.16_mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fM515JnW",
+      "versionId": "lleFsB3J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254284,
+      "fileId": 3738299
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.0.16"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ambientsounds",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cloudmusic-mod-1.19.4-0.4.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cloudmusic",
+      "version": "0.4.4"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_googlecode_soundlibs_mp3spi",
+      "version": "1.9.5.4"
+    },
+    {
+      "modId": "com_googlecode_soundlibs_tritonus-share",
+      "version": "0.3.7.4"
+    },
+    {
+      "modId": "org_jflac_jflac-codec",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "com_google_zxing_core",
+      "version": "3.5.1"
+    }
+  ]
+}

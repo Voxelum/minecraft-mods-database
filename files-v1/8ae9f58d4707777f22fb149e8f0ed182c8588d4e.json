@@ -1,0 +1,18 @@
+{
+  "name": "enchantedshulkers-1.0.4+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enchantedshulkers",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

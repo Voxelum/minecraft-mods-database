@@ -1,0 +1,14 @@
+{
+  "name": "bleachhack-1.19.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bleachhack",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "com_github_fzakaria_ascii85",
+      "version": "1.2"
+    }
+  ]
+}

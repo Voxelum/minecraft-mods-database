@@ -1,0 +1,22 @@
+{
+  "name": "dawn-5.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "yet-another-config-lib-fabric-3.1.0-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.1.0+1.20"
+    },
+    {
+      "modId": "com_twelvemonkeys_imageio_imageio-webp",
+      "version": "3.10.0-SNAPSHOT"
+    },
+    {
+      "modId": "com_twelvemonkeys_imageio_imageio-core",
+      "version": "3.10.0-SNAPSHOT"
+    },
+    {
+      "modId": "com_twelvemonkeys_common_common-lang",
+      "version": "3.10.0-SNAPSHOT"
+    },
+    {
+      "modId": "com_twelvemonkeys_common_common-image",
+      "version": "3.10.0-SNAPSHOT"
+    },
+    {
+      "modId": "com_twelvemonkeys_common_common-io",
+      "version": "3.10.0-SNAPSHOT"
+    },
+    {
+      "modId": "com_twelvemonkeys_imageio_imageio-metadata",
+      "version": "3.10.0-SNAPSHOT"
+    }
+  ]
+}

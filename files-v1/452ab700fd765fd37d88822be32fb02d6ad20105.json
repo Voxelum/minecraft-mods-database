@@ -1,0 +1,14 @@
+{
+  "name": "journeymap-1.20.2-5.9.15-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "journeymap",
+      "version": "5.9.15"
+    },
+    {
+      "modId": "journeymap-api-fabric",
+      "version": "1.20.2-1.9-fabric-SNAPSHOT"
+    }
+  ]
+}

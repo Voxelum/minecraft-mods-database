@@ -1,0 +1,20 @@
+{
+  "name": "fastquit-3.0.0+1.20+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x1hIzbuY",
+      "versionId": "tNgyOUMr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastquit",
+      "version": "3.0.0+1.20+"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

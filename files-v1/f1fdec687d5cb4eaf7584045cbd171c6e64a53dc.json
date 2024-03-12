@@ -1,0 +1,14 @@
+{
+  "name": "per_aspera-1.3.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "per_aspera",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "1.2.783-beta+1.18.2"
+    }
+  ]
+}

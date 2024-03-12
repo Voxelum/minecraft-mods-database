@@ -1,0 +1,18 @@
+{
+  "name": "spirit-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spirit",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "4.1.6+1.17.1"
+    },
+    {
+      "modId": "modmenu",
+      "version": "2.0.2"
+    }
+  ]
+}

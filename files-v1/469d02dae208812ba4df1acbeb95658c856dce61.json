@@ -1,0 +1,32 @@
+{
+  "name": "ukulib-0.7.0+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y8uFrUil",
+      "versionId": "5MXKgYAq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ukulib",
+      "version": "0.7.0+1.20"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "gs_mclo_java_mclogs-java",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d27"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.11+b3afc78b27"
+    }
+  ]
+}

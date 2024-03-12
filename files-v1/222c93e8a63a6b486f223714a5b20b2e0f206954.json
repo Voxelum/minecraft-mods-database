@@ -1,0 +1,30 @@
+{
+  "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "NFPdxMt9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 4632459
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.2.7-b.build.50"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

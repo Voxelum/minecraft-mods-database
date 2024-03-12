@@ -1,0 +1,22 @@
+{
+  "name": "architecturecraft-1.12-3.98.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RcmNTxNI",
+      "versionId": "zHyMoWRI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 277631,
+      "fileId": 2750633
+    }
+  ],
+  "forge": [
+    {
+      "modId": "architecturecraft",
+      "version": "@VERSION@"
+    }
+  ]
+}

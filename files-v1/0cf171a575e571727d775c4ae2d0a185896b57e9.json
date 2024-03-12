@@ -1,0 +1,20 @@
+{
+  "name": "cmdkeybind-1.6.3-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h3r1moh7",
+      "versionId": "snLr0hHP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cmdkeybind",
+      "version": "1.6.3-1.20"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.6-1.20"
+    }
+  ]
+}

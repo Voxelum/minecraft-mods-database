@@ -1,0 +1,22 @@
+{
+  "name": "terravista-0.1.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "terravista",
+      "version": "0.1.0+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.1.0+1.19.2"
+    }
+  ]
+}

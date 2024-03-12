@@ -1,0 +1,14 @@
+{
+  "name": "MCDoom-Fabric-1.20.1-6.0.5a.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "doom",
+      "version": "6.0.5a"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "reds-more-structures-1.0.7-common.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "reds_morestructures_mr",
+      "version": "1.0.7C"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reds_morestructures_mr",
+      "version": "1.0.7C"
+    }
+  ]
+}

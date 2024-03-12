@@ -1,0 +1,32 @@
+{
+  "name": "desolation-1.3.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 414851,
+      "fileId": 4802388
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "desolation",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    },
+    {
+      "modId": "geckolib",
+      "version": "4.2.3"
+    },
+    {
+      "modId": "biolith",
+      "version": "1.0.0-alpha.8"
+    }
+  ]
+}

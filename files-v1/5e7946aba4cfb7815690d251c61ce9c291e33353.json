@@ -1,0 +1,16 @@
+{
+  "name": "gardenofglass-1.11.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "gardenofglass",
+      "version": "1.11"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gardenofglass",
+      "version": "1.11"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "e4mc-3.2.0+1.19.4-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 849519,
+      "fileId": 4569792
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "e4mc_minecraft",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.3"
+    }
+  ]
+}

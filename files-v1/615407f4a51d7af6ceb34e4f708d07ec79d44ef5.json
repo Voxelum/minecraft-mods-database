@@ -1,0 +1,30 @@
+{
+  "name": "lambdynamiclights-2.3.1+1.19.4.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "85Jaf9ic"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393442,
+      "fileId": 4597862
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "2.3.1+1.19.4"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.2.0+1.19.4"
+    },
+    {
+      "modId": "pride",
+      "version": "1.2.0+1.19.4"
+    }
+  ]
+}

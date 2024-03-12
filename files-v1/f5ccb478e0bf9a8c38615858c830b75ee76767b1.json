@@ -1,0 +1,10 @@
+{
+  "name": "tlc-fabric-1.0.1-1.20.X.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tlc",
+      "version": "1.0.1"
+    }
+  ]
+}

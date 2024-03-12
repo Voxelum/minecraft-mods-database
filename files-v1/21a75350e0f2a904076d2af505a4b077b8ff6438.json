@@ -1,0 +1,26 @@
+{
+  "name": "Zoomify-2.10.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "dev_isxander_settxi_settxi-core",
+      "version": "2.10.6"
+    },
+    {
+      "modId": "dev_isxander_settxi_settxi-kotlinx-serialization",
+      "version": "2.10.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

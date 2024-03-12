@@ -1,0 +1,22 @@
+{
+  "name": "imst-2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CVBAErky",
+      "versionId": "C1fCIQSh"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "imst",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imst",
+      "version": "2.1.0"
+    }
+  ]
+}

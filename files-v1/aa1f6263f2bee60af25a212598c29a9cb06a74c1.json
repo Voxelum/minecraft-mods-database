@@ -1,0 +1,40 @@
+{
+  "name": "enchancement-1.19-14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6hN1V6wJ",
+      "versionId": "XgxAbBT8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchancement",
+      "version": "1.19-14"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "towns_and_towers_fabric-1.10.0.1+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 626761,
+      "fileId": 4167575
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.10.0.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

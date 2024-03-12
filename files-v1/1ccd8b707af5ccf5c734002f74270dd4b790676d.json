@@ -1,0 +1,16 @@
+{
+  "name": "grindstonesharpertools-1.18.2-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "grindstonesharpertools",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grindstonesharpertools",
+      "version": "3.1"
+    }
+  ]
+}

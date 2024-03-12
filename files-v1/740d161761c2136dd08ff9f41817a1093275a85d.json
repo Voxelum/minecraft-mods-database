@@ -1,0 +1,14 @@
+{
+  "name": "lambdabettergrass-1.3.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lambdabettergrass",
+      "version": "1.3.0+1.19"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.0.0+1.19"
+    }
+  ]
+}

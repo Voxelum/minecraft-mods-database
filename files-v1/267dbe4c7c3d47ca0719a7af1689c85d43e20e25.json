@@ -1,0 +1,14 @@
+{
+  "name": "QvStump-1.0a.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stump",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.627+1.19.2"
+    }
+  ]
+}

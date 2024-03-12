@@ -1,0 +1,16 @@
+{
+  "name": "dusk-fabric-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dusk",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dusk",
+      "version": "1.19.2-3.3"
+    }
+  ]
+}

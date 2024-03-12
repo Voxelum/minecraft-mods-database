@@ -1,0 +1,14 @@
+{
+  "name": "twigs-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "twigs",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "chord",
+      "version": "1.8.0+1.17-rc1-fabric"
+    }
+  ]
+}

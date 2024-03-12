@@ -1,0 +1,14 @@
+{
+  "name": "stackables-1.0.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stackables",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "roundalib",
+      "version": "0.2.1"
+    }
+  ]
+}

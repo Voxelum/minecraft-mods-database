@@ -1,0 +1,16 @@
+{
+  "name": "torohealth-1.16.4-forge-4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 245733,
+      "fileId": 3144151
+    }
+  ],
+  "forge": [
+    {
+      "modId": "torohealth",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

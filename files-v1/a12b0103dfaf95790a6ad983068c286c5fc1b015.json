@@ -1,0 +1,16 @@
+{
+  "name": "Structory-1.19-v1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "structory",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "structory",
+      "version": "1.0.1"
+    }
+  ]
+}

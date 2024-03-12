@@ -1,0 +1,18 @@
+{
+  "name": "diamondeconomy-1.5.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diamondeconomy",
+      "version": "1.5.6"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.36.0.3"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    }
+  ]
+}

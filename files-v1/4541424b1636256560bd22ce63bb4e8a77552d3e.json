@@ -1,0 +1,14 @@
+{
+  "name": "blockmeter-1.10.1-HEAD.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blockmeter",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

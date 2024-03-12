@@ -1,0 +1,14 @@
+{
+  "name": "autotag-2.0.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autotag-convention",
+      "version": "2.0.0+1.19"
+    },
+    {
+      "modId": "autotag",
+      "version": "2.0.0+1.19"
+    }
+  ]
+}

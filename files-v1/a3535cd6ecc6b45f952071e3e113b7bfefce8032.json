@@ -1,0 +1,14 @@
+{
+  "name": "trinketshulkerboxes-fabric-2.0.0-1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "trinketshulkerboxes",
+      "version": "2.0.0-1.17"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "3.0.0-nightly.1.17-pre2"
+    }
+  ]
+}

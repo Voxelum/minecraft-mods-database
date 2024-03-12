@@ -1,0 +1,10 @@
+{
+  "name": "supertools-1.16.5-4.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "supertools",
+      "version": "${version}"
+    }
+  ]
+}

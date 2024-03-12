@@ -1,0 +1,22 @@
+{
+  "name": "automobility-0.3+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "automobility",
+      "version": "0.3+1.18.2"
+    },
+    {
+      "modId": "myron",
+      "version": "1.6.3+1.18.1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.5"
+    },
+    {
+      "modId": "jsonem",
+      "version": "0.1.2"
+    }
+  ]
+}

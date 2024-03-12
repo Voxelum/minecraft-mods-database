@@ -1,0 +1,30 @@
+{
+  "name": "immediatelyfast-1.2.51.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "cswW9vJQ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.2.5+1.20.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.2.5+1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.10"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "trinkets-3.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5aaWibi9",
+      "versionId": "OLwsMJv4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trinkets",
+      "version": "3.4.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    }
+  ]
+}

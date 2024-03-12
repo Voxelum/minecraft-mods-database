@@ -1,0 +1,14 @@
+{
+  "name": "borderless-mining-1.0.6+1.16.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "borderlessmining",
+      "version": "1.0.6+1.16.2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.7.0-unstable"
+    }
+  ]
+}

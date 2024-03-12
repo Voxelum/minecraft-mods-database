@@ -1,0 +1,14 @@
+{
+  "name": "mvs-2.2-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mvs",
+      "version": "2.2-1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

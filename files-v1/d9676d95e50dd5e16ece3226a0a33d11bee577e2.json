@@ -1,0 +1,10 @@
+{
+  "name": "Mapmaker's+Gadgets-1.2_for_1.12.x.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mapgadgets",
+      "version": "@VERSION@"
+    }
+  ]
+}

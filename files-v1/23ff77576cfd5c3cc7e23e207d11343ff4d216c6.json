@@ -1,0 +1,14 @@
+{
+  "name": "colytra-fabric-2.0.0-1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "colytra",
+      "version": "2.0.0-1.17"
+    },
+    {
+      "modId": "caelus",
+      "version": "0.0.16-1.17"
+    }
+  ]
+}

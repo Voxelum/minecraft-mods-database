@@ -1,0 +1,14 @@
+{
+  "name": "videotape-1.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "videotape",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "com_github_krlite_pierced",
+      "version": "v1.2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mojangster-1.0.0-1.19-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mojangster",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

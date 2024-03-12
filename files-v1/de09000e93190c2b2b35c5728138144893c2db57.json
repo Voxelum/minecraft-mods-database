@@ -1,0 +1,14 @@
+{
+  "name": "numeralping-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "numeralping",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

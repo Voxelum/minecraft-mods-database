@@ -1,0 +1,16 @@
+{
+  "name": "choicetheorems-overhauled-village-friends-and-foes-add-on-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "choicetheorems_overhauledvillagefriendsandfoesaddon_mr",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "choicetheorems_overhauledvillagefriendsandfoesaddon_mr",
+      "version": "1.1"
+    }
+  ]
+}

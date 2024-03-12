@@ -1,0 +1,14 @@
+{
+  "name": "crawl-0.12.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crawl",
+      "version": "0.12.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

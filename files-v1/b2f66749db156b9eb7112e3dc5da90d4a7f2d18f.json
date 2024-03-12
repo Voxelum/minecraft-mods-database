@@ -1,0 +1,20 @@
+{
+  "name": "bodacious_berries-2.1.1+mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KEFyvbuH",
+      "versionId": "WkK5wXJL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bodacious_berries",
+      "version": "2.1.1+mc1.18.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.3+1.18"
+    }
+  ]
+}

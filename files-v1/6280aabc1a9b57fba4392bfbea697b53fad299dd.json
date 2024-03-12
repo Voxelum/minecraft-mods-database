@@ -1,0 +1,14 @@
+{
+  "name": "lucium-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lucium",
+      "version": "1.1"
+    },
+    {
+      "modId": "lib39-core",
+      "version": "1.1.10"
+    }
+  ]
+}

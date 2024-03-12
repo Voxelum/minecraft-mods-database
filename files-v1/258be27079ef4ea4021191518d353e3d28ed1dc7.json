@@ -1,0 +1,14 @@
+{
+  "name": "hydrogen-fabric-mc1.16.5-0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hydrogen",
+      "version": "0.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.1+0d4d7e343a"
+    }
+  ]
+}

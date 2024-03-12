@@ -1,0 +1,26 @@
+{
+  "name": "DecoMod-fabric-1.20.1-1.0.2+blanketcon.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "decomod",
+      "version": "1.0.2+blanketcon"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.6.7"
+    }
+  ]
+}

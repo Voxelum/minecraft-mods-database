@@ -1,0 +1,16 @@
+{
+  "name": "eyeofdragons-0.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 433672,
+      "fileId": 3172949
+    }
+  ],
+  "forge": [
+    {
+      "modId": "eyeofdragons",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

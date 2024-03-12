@@ -1,0 +1,20 @@
+{
+  "name": "antighost-1.18.2-fabric0.47.10-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jw3Wx1KR",
+      "versionId": "JX1vBTrB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antighost",
+      "version": "1.18.2-fabric0.47.10-1.1.4"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    }
+  ]
+}

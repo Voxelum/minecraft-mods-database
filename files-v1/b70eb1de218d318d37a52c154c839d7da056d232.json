@@ -1,0 +1,10 @@
+{
+  "name": "betterCompatibilityChecker-fabric-1.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bcc",
+      "version": "fabric-1.0.5"
+    }
+  ]
+}

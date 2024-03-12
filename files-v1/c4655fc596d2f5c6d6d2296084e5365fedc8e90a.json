@@ -1,0 +1,18 @@
+{
+  "name": "rottencreatures-fabric-1.19.2-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rottencreatures",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

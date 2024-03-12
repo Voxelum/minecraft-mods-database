@@ -1,0 +1,10 @@
+{
+  "name": "starlight-fabric-1.0.0-RC2-1.16.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "starlight",
+      "version": "fabric-1.0.0-RC2-82ae5ca"
+    }
+  ]
+}

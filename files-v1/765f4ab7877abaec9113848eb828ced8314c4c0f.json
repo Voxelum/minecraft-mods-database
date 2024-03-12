@@ -1,0 +1,10 @@
+{
+  "name": "ForgeNBTEdit-universal-1.0.0.test.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "NBTEdit",
+      "version": "1.7.10"
+    }
+  ]
+}

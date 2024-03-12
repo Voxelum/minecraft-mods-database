@@ -1,0 +1,26 @@
+{
+  "name": "wolves-with-armor-1.6.1-1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wolveswitharmor",
+      "version": "1.6.1-1.17.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "static-content",
+      "version": "1.0.1-1.16.2"
+    },
+    {
+      "modId": "maybe-data",
+      "version": "1.0.1-1.17"
+    }
+  ]
+}

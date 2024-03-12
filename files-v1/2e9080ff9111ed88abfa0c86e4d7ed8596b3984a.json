@@ -1,0 +1,14 @@
+{
+  "name": "economical-villager-trading-1.2.10+MC1.20-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "economical_villager_trading",
+      "version": "1.2.10"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

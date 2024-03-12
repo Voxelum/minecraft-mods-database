@@ -1,0 +1,14 @@
+{
+  "name": "Charm-of-Undying-Mod-Fabric-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charmofundying",
+      "version": "6.4.0+1.20.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.13+1.20.1"
+    }
+  ]
+}

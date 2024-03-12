@@ -1,0 +1,24 @@
+{
+  "name": "bedrockify-1.9.1+mc1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "46zHRXRL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.9.1+mc1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.98"
+    },
+    {
+      "modId": "panorama_screens",
+      "version": "1.0+fabric+mc1.20"
+    }
+  ]
+}

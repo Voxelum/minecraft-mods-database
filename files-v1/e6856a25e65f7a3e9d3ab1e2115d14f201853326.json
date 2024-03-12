@@ -1,0 +1,10 @@
+{
+  "name": "nbteditor.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nbteditor",
+      "version": "1.12.1"
+    }
+  ]
+}

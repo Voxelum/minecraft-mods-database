@@ -1,0 +1,10 @@
+{
+  "name": "TinkeredHegemony-0.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tinkeredhegemony",
+      "version": "@VERSION@"
+    }
+  ]
+}

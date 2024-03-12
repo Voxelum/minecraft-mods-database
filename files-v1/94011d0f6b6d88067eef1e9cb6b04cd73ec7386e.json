@@ -1,0 +1,10 @@
+{
+  "name": "Morpheus-1.15.2-4.2.50.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "morpheus",
+      "version": "${version}"
+    }
+  ]
+}

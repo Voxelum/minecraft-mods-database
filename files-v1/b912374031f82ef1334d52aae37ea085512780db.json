@@ -1,0 +1,14 @@
+{
+  "name": "expandedstorage-8.0.5+1.19.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "expandedstorage",
+      "version": "8.0.5"
+    },
+    {
+      "modId": "ellemes_container_lib",
+      "version": "2.1.0-alpha.12"
+    }
+  ]
+}

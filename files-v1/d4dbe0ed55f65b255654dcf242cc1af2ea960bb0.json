@@ -1,0 +1,10 @@
+{
+  "name": "gazebo-fabric-1.0.1+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gazebo",
+      "version": "1.0.1+1.20.1"
+    }
+  ]
+}

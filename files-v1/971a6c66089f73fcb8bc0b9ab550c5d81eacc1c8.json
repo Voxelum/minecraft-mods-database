@@ -1,0 +1,10 @@
+{
+  "name": "1.19.2-StorageCabinet-1.5.4-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "storagecabinet",
+      "version": "1.5.4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "antighost-1.18-fabric0.43.1-1.1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "antighost",
+      "version": "1.18-fabric0.43.1-1.1.4"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18"
+    }
+  ]
+}

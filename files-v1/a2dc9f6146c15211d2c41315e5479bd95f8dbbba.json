@@ -1,0 +1,16 @@
+{
+  "name": "devins-recipes-1.0.1+pf15.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_devins_recipes",
+      "version": "1.0.1+pf15"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_devins_recipes",
+      "version": "1.0.1+pf15"
+    }
+  ]
+}

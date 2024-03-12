@@ -1,0 +1,20 @@
+{
+  "name": "YungsMenuTweaks-1.20.1-Fabric-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hcy2DFKF",
+      "versionId": "F84m4wR5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yungsmenutweaks",
+      "version": "1.20.1-Fabric-1.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

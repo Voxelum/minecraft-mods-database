@@ -1,0 +1,28 @@
+{
+  "name": "Amplified_Nether_v1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wXiGiyGX",
+      "versionId": "FBqJR2QM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552176,
+      "fileId": 3862141
+    }
+  ],
+  "forge": [
+    {
+      "modId": "amplified_nether",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amplifiednether",
+      "version": "1.2"
+    }
+  ]
+}

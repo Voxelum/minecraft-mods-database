@@ -1,0 +1,14 @@
+{
+  "name": "malilib-fabric-1.20.0-0.15.4-nyan.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.15.4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d27"
+    }
+  ]
+}

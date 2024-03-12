@@ -1,0 +1,26 @@
+{
+  "name": "recipe-book-delight-0.2.0-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "recipe-book-delight",
+      "version": "0.2.0-1.20"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "dark-matter-enums",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "dark-matter-recipe-book",
+      "version": "1.0.0-1.20"
+    }
+  ]
+}

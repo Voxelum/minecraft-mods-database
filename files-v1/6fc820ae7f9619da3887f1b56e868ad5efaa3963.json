@@ -1,0 +1,28 @@
+{
+  "name": "projector-1.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fqgFc68Q",
+      "versionId": "8gaNnZsm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "projector",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.2+1.20"
+    },
+    {
+      "modId": "stateful",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "net_jodah_failsafe",
+      "version": "2.4.3"
+    }
+  ]
+}

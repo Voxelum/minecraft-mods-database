@@ -1,0 +1,16 @@
+{
+  "name": "SpartanShields-1.12.2-1.5.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 252239,
+      "fileId": 2712229
+    }
+  ],
+  "forge": [
+    {
+      "modId": "spartanshields",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

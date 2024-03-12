@@ -1,0 +1,14 @@
+{
+  "name": "emicompat-2.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "emicompat",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

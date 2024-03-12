@@ -1,0 +1,18 @@
+{
+  "name": "brewinandchewin-fabric-2.0.0+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "brewinandchewin",
+      "version": "fabric-2.0.0+1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "booking_it",
+      "version": "unversioned"
+    }
+  ]
+}

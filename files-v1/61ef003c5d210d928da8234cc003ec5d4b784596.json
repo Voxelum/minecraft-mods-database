@@ -1,0 +1,10 @@
+{
+  "name": "someassemblyrequired-1.16.5-1.3.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "someassemblyrequired",
+      "version": "1.16.5-1.3.5"
+    }
+  ]
+}

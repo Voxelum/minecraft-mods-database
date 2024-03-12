@@ -1,0 +1,14 @@
+{
+  "name": "lootbeams-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

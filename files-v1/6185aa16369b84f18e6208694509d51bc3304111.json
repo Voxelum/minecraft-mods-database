@@ -1,0 +1,36 @@
+{
+  "name": "artifacts-7.1.1+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "enKgSs94"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "7.1.1+fabric"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "expandability",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

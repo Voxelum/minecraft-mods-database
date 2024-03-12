@@ -1,0 +1,20 @@
+{
+  "name": "AdaptiveTooltips-1.0.1-fabric-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wFv8yCxM",
+      "versionId": "tO4SUCby"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adaptive-tooltips",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

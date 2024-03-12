@@ -1,0 +1,14 @@
+{
+  "name": "ftb-quests-fabric-1902.4.18-build.244.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ftbquests",
+      "version": "1902.4.18-build.244"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

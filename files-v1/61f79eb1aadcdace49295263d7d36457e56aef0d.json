@@ -1,0 +1,14 @@
+{
+  "name": "mobs-attempt-parkour-0.5-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mobs_attempt_parkour",
+      "version": "0.5-1.20"
+    },
+    {
+      "modId": "maelstrom_library",
+      "version": "1.6-1.20"
+    }
+  ]
+}

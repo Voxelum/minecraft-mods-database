@@ -1,0 +1,32 @@
+{
+  "name": "polymorph-fabric-0.0.21-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tagwiZkJ",
+      "versionId": "vAv92Cl4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "0.0.21-1.18.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "4.1.4"
+    }
+  ]
+}

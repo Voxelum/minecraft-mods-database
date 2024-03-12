@@ -1,0 +1,14 @@
+{
+  "name": "Blur-2.1.0-1.16fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.5.1"
+    }
+  ]
+}

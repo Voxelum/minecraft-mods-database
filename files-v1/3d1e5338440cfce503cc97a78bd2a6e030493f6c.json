@@ -1,0 +1,16 @@
+{
+  "name": "Amplified_Nether_1.19.3_v1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "amplifiednether",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amplified_nether",
+      "version": "1.2.1"
+    }
+  ]
+}

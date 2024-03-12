@@ -1,0 +1,28 @@
+{
+  "name": "doubledoors-1.20.1-5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JrvR9OHr",
+      "versionId": "Ng9ISXia"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348831,
+      "fileId": 4605226
+    }
+  ],
+  "forge": [
+    {
+      "modId": "doubledoors",
+      "version": "5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doubledoors",
+      "version": "5.0"
+    }
+  ]
+}

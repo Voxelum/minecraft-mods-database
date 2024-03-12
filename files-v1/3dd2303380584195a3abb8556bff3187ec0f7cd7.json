@@ -1,0 +1,10 @@
+{
+  "name": "extra-mod-integrations-0.1.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extra-mod-integrations",
+      "version": "0.1.2+1.19.2"
+    }
+  ]
+}

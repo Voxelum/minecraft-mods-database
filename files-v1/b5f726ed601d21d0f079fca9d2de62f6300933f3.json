@@ -1,0 +1,14 @@
+{
+  "name": "things-0.2.15+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "things",
+      "version": "0.2.15+1.18"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.5.1+1.18"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "highlight-fabric-1.20-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vz96hXMh",
+      "versionId": "4TlGcdsH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "highlight",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.0.7"
+    }
+  ]
+}

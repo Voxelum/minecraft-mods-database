@@ -1,0 +1,30 @@
+{
+  "name": "coxinhautilities-1.4.5+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NXqpbY3F",
+      "versionId": "eMyb3XP2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576449,
+      "fileId": 4073508
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coxinhautilities",
+      "version": "1.4.5+1.19"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "yet-another-config-lib",
+      "version": "1.6.0"
+    }
+  ]
+}

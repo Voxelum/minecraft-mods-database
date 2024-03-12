@@ -1,0 +1,10 @@
+{
+  "name": "Edibleflesh.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mob_food",
+      "version": "1.0.0"
+    }
+  ]
+}

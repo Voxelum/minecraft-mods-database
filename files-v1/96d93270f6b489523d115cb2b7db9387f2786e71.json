@@ -1,0 +1,16 @@
+{
+  "name": "rlp-1.4.0-1.18.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rslamps_plus",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rslamps_plus",
+      "version": "1.20.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "trimmable-tools-mc1.20-v1.0.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "trimmable_tools",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trimmable_tools",
+      "version": "1.0.4"
+    }
+  ]
+}

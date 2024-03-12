@@ -1,0 +1,20 @@
+{
+  "name": "betterleads-1.1.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8XZCCV8b",
+      "versionId": "6HAAqECA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterleads",
+      "version": "1.1.0+1.20.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

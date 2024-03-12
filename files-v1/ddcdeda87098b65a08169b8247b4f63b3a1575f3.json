@@ -1,0 +1,10 @@
+{
+  "name": "charm_fixer-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charm_fixer",
+      "version": "1.0.0"
+    }
+  ]
+}

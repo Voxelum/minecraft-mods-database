@@ -1,0 +1,20 @@
+{
+  "name": "naturalist-fabric-4.0.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F8BQNPWX",
+      "versionId": "S0IjmekL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "naturalist",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

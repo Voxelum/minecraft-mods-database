@@ -1,0 +1,14 @@
+{
+  "name": "noxesium-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "noxesium",
+      "version": "1.0.2+793cebe"
+    },
+    {
+      "modId": "com_noxcrew_noxesium_api_",
+      "version": "1.0.2+793cebe"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hookshot-26.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hookshot",
+      "version": "26.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

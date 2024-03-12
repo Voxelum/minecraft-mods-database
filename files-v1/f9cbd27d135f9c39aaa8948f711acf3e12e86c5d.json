@@ -1,0 +1,42 @@
+{
+  "name": "villagerconfig-4.0.1+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "villagerconfig",
+      "version": "4.0.1+1.19.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.15+8f4e8eb390"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.1+413cbbc790"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.4+1b46dc7890"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.8.3+251d254a90"
+    },
+    {
+      "modId": "fabric-transitive-access-wideners-v1",
+      "version": "1.3.3+08b73de490"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.1"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

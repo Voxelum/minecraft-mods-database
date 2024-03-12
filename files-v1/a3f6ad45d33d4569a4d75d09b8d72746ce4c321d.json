@@ -1,0 +1,26 @@
+{
+  "name": "screenshot_viewer-1.2.0-fabric-mc1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "laNoi025",
+      "versionId": "ugn7KfrH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693961,
+      "fileId": 4717081
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenshot_viewer",
+      "version": "1.2.0-fabric-mc1.20"
+    },
+    {
+      "modId": "catconfig-mc",
+      "version": "0.1.1"
+    }
+  ]
+}

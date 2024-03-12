@@ -1,0 +1,18 @@
+{
+  "name": "dynamic-fps-2.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamicfps",
+      "version": "2.0.5"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

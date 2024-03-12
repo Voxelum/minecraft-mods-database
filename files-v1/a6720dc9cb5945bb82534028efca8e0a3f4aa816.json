@@ -1,0 +1,32 @@
+{
+  "name": "fakeplayers-1.20.1-1.0-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1RSY6DQH",
+      "versionId": "Zs86V2td"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fakeplayers",
+      "version": "1.20.1-1.0-FABRIC"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "org_asynchttpclient_async-http-client",
+      "version": "3.0.0.Beta2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    }
+  ]
+}

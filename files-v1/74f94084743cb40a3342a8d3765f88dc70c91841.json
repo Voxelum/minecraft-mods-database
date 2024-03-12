@@ -1,0 +1,14 @@
+{
+  "name": "CreateFabricREIBugFix-0.1.0-create0.5.1-mc1.20.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "createreibugfix",
+      "version": "0.1.0-create0.5.1-mc1.20.x"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "WizardEx-1.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nWOFI2Xj",
+      "versionId": "9Brlt68y"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wizardex",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-beta.7+1.19"
+    }
+  ]
+}

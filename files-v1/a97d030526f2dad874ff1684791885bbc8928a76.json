@@ -1,0 +1,44 @@
+{
+  "name": "indrev-1.15.1-BETA.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391708,
+      "fileId": 4020957
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "indrev",
+      "version": "1.15.1-BETA"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.19-74-FABRIC"
+    },
+    {
+      "modId": "magna",
+      "version": "0.5.2-1.19.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.0"
+    }
+  ]
+}

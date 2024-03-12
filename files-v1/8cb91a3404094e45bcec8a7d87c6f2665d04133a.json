@@ -1,0 +1,10 @@
+{
+  "name": "FoamFix-1.7.10-universal-1.0.0-beta2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "draggable-resource-packs-mc1.19-3.0.1+build.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "draggable-resource-packs",
+      "version": "3.0.1+build.9"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.69"
+    }
+  ]
+}

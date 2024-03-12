@@ -1,0 +1,10 @@
+{
+  "name": "extraanvils-0.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extraanvils",
+      "version": "@VERSION@"
+    }
+  ]
+}

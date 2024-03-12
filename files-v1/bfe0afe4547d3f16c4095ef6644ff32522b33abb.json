@@ -1,0 +1,46 @@
+{
+  "name": "thonkutil-2.15.4+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "thonkutil",
+      "version": "2.15.4+1.19"
+    },
+    {
+      "modId": "thonkutil-base",
+      "version": "1.13.2+4a8c408a57"
+    },
+    {
+      "modId": "thonkutil-capes-v1",
+      "version": "1.4.2+3eb2749857"
+    },
+    {
+      "modId": "thonkutil-coords-v1",
+      "version": "1.1.2+8ff533c957"
+    },
+    {
+      "modId": "thonkutil-customization-v1",
+      "version": "1.1.2+8ff533c957"
+    },
+    {
+      "modId": "thonkutil-legacy",
+      "version": "1.1.2+5d4263f557"
+    },
+    {
+      "modId": "thonkutil-modchecker-v1",
+      "version": "1.1.3+bd4b387957"
+    },
+    {
+      "modId": "thonkutil-potions-v0",
+      "version": "1.5.2+8ff533c957"
+    },
+    {
+      "modId": "thonkutil-titlescreen-v1",
+      "version": "1.2.2+8ff533c957"
+    },
+    {
+      "modId": "thonkutil-trades-v1",
+      "version": "1.2.2+8ff533c957"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "show-me-your-skin-1.6.3+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bD7YqcA3",
+      "versionId": "buUBth53"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "showmeyourskin",
+      "version": "1.6.3+1.19.2"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

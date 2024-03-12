@@ -1,0 +1,16 @@
+{
+  "name": "dimension-detector-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dimension_detector_mr",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dimension_detector_mr",
+      "version": "1.2.0"
+    }
+  ]
+}

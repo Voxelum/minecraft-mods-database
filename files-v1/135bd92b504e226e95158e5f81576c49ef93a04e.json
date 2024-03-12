@@ -1,0 +1,16 @@
+{
+  "name": "Paintings-fabric-1.18.2-9.1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "paintings",
+      "version": "9.1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paintings",
+      "version": "9.1.2.1"
+    }
+  ]
+}

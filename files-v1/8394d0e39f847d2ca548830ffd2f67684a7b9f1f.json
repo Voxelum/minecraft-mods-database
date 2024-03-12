@@ -1,0 +1,14 @@
+{
+  "name": "Patchouli-1.18.1-65-FABRIC.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "1.18.1-65-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

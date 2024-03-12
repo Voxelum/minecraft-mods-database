@@ -1,0 +1,16 @@
+{
+  "name": "createbigcannons-fabric-1.19.2-0.5.2.a.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createbigcannons",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createbigcannons",
+      "version": "0.5.2.a-nightly-b379602"
+    }
+  ]
+}

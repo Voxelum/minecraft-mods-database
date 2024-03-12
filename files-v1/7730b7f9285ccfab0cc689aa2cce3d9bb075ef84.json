@@ -1,0 +1,28 @@
+{
+  "name": "consecration-fabric-7.0.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e1uJfPiY",
+      "versionId": "Cvk9mE7g"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "consecration",
+      "version": "7.0.1+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.14+1.20.1"
+    }
+  ]
+}

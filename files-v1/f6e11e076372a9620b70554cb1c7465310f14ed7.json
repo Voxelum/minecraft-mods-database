@@ -1,0 +1,16 @@
+{
+  "name": "geophilic-1.19-2.0.0b.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "geophilic",
+      "version": "1.19-2.0.0b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geophilic",
+      "version": "1.19-2.0.0b"
+    }
+  ]
+}

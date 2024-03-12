@@ -1,0 +1,14 @@
+{
+  "name": "auditory-0.0.4-1.19.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "auditory",
+      "version": "0.0.4-1.19.x"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    }
+  ]
+}

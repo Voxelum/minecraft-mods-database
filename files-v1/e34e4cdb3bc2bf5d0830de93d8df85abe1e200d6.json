@@ -1,0 +1,10 @@
+{
+  "name": "ctov-gazebo-compat-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mr_ctov_gazebocompat",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Medieval Decoration v.1.0 1.19.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "playtics_deco",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medieval_deco",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rpgdifficulty-1.0.12.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rpgdifficulty",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "cloth-api",
+      "version": "3.2.64"
+    }
+  ]
+}

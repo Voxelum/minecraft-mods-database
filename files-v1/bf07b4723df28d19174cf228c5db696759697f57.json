@@ -1,0 +1,74 @@
+{
+  "name": "mousewheelie-1.10.7+mc1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mousewheelie",
+      "version": "1.10.7+mc1.19.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.19+8d1895cf72"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.37+422b77fb72"
+    },
+    {
+      "modId": "fabric-item-api-v1",
+      "version": "2.1.4+fa25da9972"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.8+2894d6df72"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.28+aaaf9d3372"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.14+d9ac3c3972"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.2+f6c919d672"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "2.0.1+2608564672"
+    },
+    {
+      "modId": "tweed4_base",
+      "version": "1.7.1+mc1.19.3"
+    },
+    {
+      "modId": "tweed4_annotated",
+      "version": "1.3.1+mc1.19.3"
+    },
+    {
+      "modId": "tweed4_data",
+      "version": "1.2.1+mc1.19.3"
+    },
+    {
+      "modId": "tweed4_data_hjson",
+      "version": "1.1.1+mc1.19.3"
+    },
+    {
+      "modId": "tweed4_tailor_screen",
+      "version": "1.1.3+mc1.19.3"
+    },
+    {
+      "modId": "tweed4_tailor_coat",
+      "version": "1.1.3+mc1.19.3"
+    },
+    {
+      "modId": "coat",
+      "version": "1.0.0-beta.19+mc1.19.3"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.3.7+mc1.19.3"
+    }
+  ]
+}

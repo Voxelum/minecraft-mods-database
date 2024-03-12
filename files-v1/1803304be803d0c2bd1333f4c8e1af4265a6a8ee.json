@@ -1,0 +1,50 @@
+{
+  "name": "vanish-1.3.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "melius-vanish",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.15+8f4e8eb390"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.1+413cbbc790"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.4+1b46dc7890"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "5.0.7+93d8cb8290"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.8.3+251d254a90"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-beta.7+1.19"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.2.1+1.19"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.17+1.19.2"
+    }
+  ]
+}

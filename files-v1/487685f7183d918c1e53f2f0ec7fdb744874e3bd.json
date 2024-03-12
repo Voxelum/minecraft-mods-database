@@ -1,0 +1,14 @@
+{
+  "name": "bitsandchisels-2.7.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bitsandchisels",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.3.4"
+    }
+  ]
+}

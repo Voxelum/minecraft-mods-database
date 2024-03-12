@@ -1,0 +1,10 @@
+{
+  "name": "ezzoom-1.16.4-1.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ezzoom",
+      "version": "${version}"
+    }
+  ]
+}

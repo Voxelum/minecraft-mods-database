@@ -1,0 +1,14 @@
+{
+  "name": "onlineemotes.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "online_emotes",
+      "version": "1.20.1-2.0.1-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.82.Final"
+    }
+  ]
+}

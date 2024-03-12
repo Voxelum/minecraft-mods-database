@@ -1,0 +1,14 @@
+{
+  "name": "cem-0.7.1_S8_1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cem",
+      "version": "0.7.1_S6_1.18"
+    },
+    {
+      "modId": "completeconfig",
+      "version": "1.0.0"
+    }
+  ]
+}

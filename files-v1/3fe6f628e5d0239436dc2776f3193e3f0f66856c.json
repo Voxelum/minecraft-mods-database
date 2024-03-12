@@ -1,0 +1,10 @@
+{
+  "name": "spark-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spark",
+      "version": "1.6.0"
+    }
+  ]
+}

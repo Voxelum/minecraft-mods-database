@@ -1,0 +1,26 @@
+{
+  "name": "kibe-1.9.11-BETA+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OvlwmUdC",
+      "versionId": "nfMLEeVC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388832,
+      "fileId": 4352610
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kibe",
+      "version": "1.9.11-BETA+1.19"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.6.0"
+    }
+  ]
+}

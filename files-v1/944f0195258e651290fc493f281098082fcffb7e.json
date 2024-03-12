@@ -1,0 +1,14 @@
+{
+  "name": "wmch-1.19.2-1.5.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wmch",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

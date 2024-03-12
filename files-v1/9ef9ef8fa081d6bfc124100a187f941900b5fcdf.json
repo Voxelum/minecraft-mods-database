@@ -1,0 +1,10 @@
+{
+  "name": "InfinityStorage-1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "infinitystorage",
+      "version": "@VERSION@"
+    }
+  ]
+}

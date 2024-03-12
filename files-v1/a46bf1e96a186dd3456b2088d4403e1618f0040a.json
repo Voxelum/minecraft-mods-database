@@ -1,0 +1,10 @@
+{
+  "name": "BetterBurning-1.7.10-0.4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterburning",
+      "version": "${version}"
+    }
+  ]
+}

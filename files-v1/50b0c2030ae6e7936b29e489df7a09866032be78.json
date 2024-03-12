@@ -1,0 +1,20 @@
+{
+  "name": "dawn-3.5.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 399309,
+      "fileId": 3855309
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "3.5.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

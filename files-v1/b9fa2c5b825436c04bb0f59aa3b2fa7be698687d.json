@@ -1,0 +1,16 @@
+{
+  "name": "CreativeCore_FORGE_v2.6.17_mc1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 4629846
+    }
+  ],
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

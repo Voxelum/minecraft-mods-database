@@ -1,0 +1,16 @@
+{
+  "name": "ShoulderSurfing-Fabric-1.19.2-2.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "shouldersurfing",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shouldersurfing",
+      "version": "2.5"
+    }
+  ]
+}

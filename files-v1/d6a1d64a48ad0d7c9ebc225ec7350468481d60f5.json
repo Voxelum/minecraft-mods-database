@@ -1,0 +1,22 @@
+{
+  "name": "comforts-fabric-0.0.6-1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "0.0.6-1.17.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "somnus",
+      "version": "0.0.13-1.17.1"
+    }
+  ]
+}

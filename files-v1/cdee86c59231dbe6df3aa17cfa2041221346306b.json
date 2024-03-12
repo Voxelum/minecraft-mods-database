@@ -1,0 +1,20 @@
+{
+  "name": "cem-0.7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YOQCucah",
+      "versionId": "G6KoWsNJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cem",
+      "version": "0.7.1"
+    },
+    {
+      "modId": "completeconfig",
+      "version": "1.0.0"
+    }
+  ]
+}

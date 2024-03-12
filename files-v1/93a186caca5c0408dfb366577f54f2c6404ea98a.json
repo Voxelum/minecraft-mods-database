@@ -1,0 +1,14 @@
+{
+  "name": "EnhancedQuarries-1.19-1.2.3-alpha.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enhanced_quarries",
+      "version": "1.19-1.2.3-alpha"
+    },
+    {
+      "modId": "mcpitanlib",
+      "version": "1.4.4"
+    }
+  ]
+}

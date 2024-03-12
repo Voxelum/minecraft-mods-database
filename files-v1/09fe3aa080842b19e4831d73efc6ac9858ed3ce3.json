@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-universal-1.20.1-4.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dashboard",
+      "version": "4.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dashboard",
+      "version": "4.0.0"
+    }
+  ]
+}

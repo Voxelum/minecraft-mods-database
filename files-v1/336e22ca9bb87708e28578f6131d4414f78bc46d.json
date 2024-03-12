@@ -1,0 +1,22 @@
+{
+  "name": "BeaconOverhaul-1.4.1+1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "beaconoverhaul",
+      "version": "1.4.1+1.17"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.7+b7ab612113"
+    },
+    {
+      "modId": "fabric-tag-extensions-v0",
+      "version": "1.1.4+a02b446313"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

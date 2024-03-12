@@ -1,0 +1,14 @@
+{
+  "name": "Modern-Dynamics-0.3.4-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moderndynamics",
+      "version": "0.3.4-beta"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

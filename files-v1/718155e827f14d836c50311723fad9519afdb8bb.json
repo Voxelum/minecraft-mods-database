@@ -1,0 +1,20 @@
+{
+  "name": "CraftPresence-1.15.2-Release-1.9.6-universal.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "craftpresence",
+      "version": "1.9.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "1.9.6"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.1.11+c1455e800c"
+    }
+  ]
+}

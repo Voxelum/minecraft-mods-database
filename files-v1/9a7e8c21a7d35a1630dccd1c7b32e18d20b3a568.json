@@ -1,0 +1,16 @@
+{
+  "name": "[初始套件前置] collective-1.18.2-6.43.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "6.43"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "6.43"
+    }
+  ]
+}

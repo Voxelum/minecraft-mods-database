@@ -1,0 +1,16 @@
+{
+  "name": "Incendium_1.20.1_v5.3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "incendium",
+      "version": "5.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "incendium",
+      "version": "5.3.1"
+    }
+  ]
+}

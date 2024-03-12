@@ -1,0 +1,14 @@
+{
+  "name": "(Fabric)BedrockPlusMod-1.20.x-1.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bedrockplus",
+      "version": "1.6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

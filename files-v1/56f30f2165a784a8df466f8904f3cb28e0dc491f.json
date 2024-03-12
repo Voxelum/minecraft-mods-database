@@ -1,0 +1,26 @@
+{
+  "name": "iris-mc1.16.5-1.2.0-pre.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.2.0-pre"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.2+ca58154a7d"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.4+9354966b7d"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "1.7.12"
+    }
+  ]
+}

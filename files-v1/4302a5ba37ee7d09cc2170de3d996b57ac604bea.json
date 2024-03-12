@@ -1,0 +1,10 @@
+{
+  "name": "respawntimer-1.12.2-2.0.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "respawntimer",
+      "version": "$version"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "supplementaries-1.20-2.6.13-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "eLMFAPhO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "supplementaries",
+      "version": "1.20-2.6.13"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.3"
+    }
+  ]
+}

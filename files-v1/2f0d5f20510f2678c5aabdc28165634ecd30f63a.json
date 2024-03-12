@@ -1,0 +1,14 @@
+{
+  "name": "stacker-3.0.2-1.19.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stacker",
+      "version": "3.0.2-1.19.x"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.3.4"
+    }
+  ]
+}

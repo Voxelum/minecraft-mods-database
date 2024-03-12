@@ -1,0 +1,22 @@
+{
+  "name": "explorify-v1.3.0-mc1.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 698309,
+      "fileId": 4827227
+    }
+  ],
+  "forge": [
+    {
+      "modId": "explorify",
+      "version": "1.3.0-mc1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "explorify",
+      "version": "v1.3.0-mc1.20"
+    }
+  ]
+}

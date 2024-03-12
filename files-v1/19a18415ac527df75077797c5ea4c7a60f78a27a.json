@@ -1,0 +1,14 @@
+{
+  "name": "extra-generators-1.2.1-BETA+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extragenerators",
+      "version": "1.2.1-BETA+1.19"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

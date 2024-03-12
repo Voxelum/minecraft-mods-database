@@ -1,0 +1,24 @@
+{
+  "name": "things-0.2.18+1.18.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VzAGdu9D",
+      "versionId": "20KpxXrW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "things",
+      "version": "0.2.18+1.18"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.6.0+1.18"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

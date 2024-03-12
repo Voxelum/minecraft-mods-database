@@ -1,0 +1,38 @@
+{
+  "name": "bewitchment-1.19-7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bewitchment",
+      "version": "1.19-7"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "impersonate",
+      "version": "2.8.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "4.2.0"
+    }
+  ]
+}

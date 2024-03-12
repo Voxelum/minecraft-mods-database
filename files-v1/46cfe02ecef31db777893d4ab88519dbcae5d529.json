@@ -1,0 +1,10 @@
+{
+  "name": "SomeAddon-farsight-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "farsight_view",
+      "version": "1.19.2-3.3"
+    }
+  ]
+}

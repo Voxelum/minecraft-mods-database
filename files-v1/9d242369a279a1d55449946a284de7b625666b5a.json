@@ -1,0 +1,20 @@
+{
+  "name": "stendhal-1.3.5-1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BWloQ9jK",
+      "versionId": "5OcCVJdV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stendhal",
+      "version": "1.3.4-1.19"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0-beta.5+1.19-pre1"
+    }
+  ]
+}

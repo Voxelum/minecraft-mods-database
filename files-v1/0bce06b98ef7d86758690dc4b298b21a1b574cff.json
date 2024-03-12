@@ -1,0 +1,16 @@
+{
+  "name": "industrialrenewal-1.16.5-1.3.2.1-r.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 631923,
+      "fileId": 4811528
+    }
+  ],
+  "forge": [
+    {
+      "modId": "industrialrenewal",
+      "version": "${file.jarVersion}-1.1.0"
+    }
+  ]
+}

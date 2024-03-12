@@ -1,0 +1,10 @@
+{
+  "name": "CubixEtxraUtilities-client.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cubix_etxra_utilities",
+      "version": "@VERSION"
+    }
+  ]
+}

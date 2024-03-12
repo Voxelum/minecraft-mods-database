@@ -1,0 +1,20 @@
+{
+  "name": "enhancedweather-1.0-Beta5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NDrgrF35",
+      "versionId": "VwOJW594"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedweather",
+      "version": "1.0-Beta5"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rare-ice-1.17.1-forge-0.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rare_ice",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rare-ice",
+      "version": "0.3.0"
+    }
+  ]
+}

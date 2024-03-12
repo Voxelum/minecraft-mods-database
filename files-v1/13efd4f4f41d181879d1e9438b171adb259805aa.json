@@ -1,0 +1,10 @@
+{
+  "name": "duckling-3.0.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "duckling",
+      "version": "3.0.0"
+    }
+  ]
+}

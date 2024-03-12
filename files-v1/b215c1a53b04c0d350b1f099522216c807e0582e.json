@@ -1,0 +1,14 @@
+{
+  "name": "deathlog-0.3.2+1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "deathlog",
+      "version": "0.3.2+1.20.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.3+1.20.2"
+    }
+  ]
+}

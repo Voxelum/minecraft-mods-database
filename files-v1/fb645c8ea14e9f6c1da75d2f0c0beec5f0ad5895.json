@@ -1,0 +1,14 @@
+{
+  "name": "wilderworld-2.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wilderworld",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "chord",
+      "version": "1.8.0+1.18.2-fabric"
+    }
+  ]
+}

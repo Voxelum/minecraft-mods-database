@@ -1,0 +1,16 @@
+{
+  "name": "saturated-0.11-back.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_saturated",
+      "version": "0.11-back"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_saturated",
+      "version": "0.11-back"
+    }
+  ]
+}

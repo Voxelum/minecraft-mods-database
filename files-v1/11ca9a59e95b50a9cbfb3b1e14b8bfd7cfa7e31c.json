@@ -1,0 +1,20 @@
+{
+  "name": "spark-1.10.37-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "XhFbpH8f"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spark",
+      "version": "1.10.37"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

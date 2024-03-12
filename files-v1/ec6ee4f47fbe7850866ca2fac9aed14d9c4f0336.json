@@ -1,0 +1,40 @@
+{
+  "name": "optigui-2.1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 619986,
+      "fileId": 4583524
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optigui",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "org_ini4j_ini4j",
+      "version": "0.5.4"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.2-mc.1.18"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.2-mc.1.18.2"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.2-mc.1.19"
+    },
+    {
+      "modId": "optiglue",
+      "version": "2.1.2-mc.1.19.3"
+    }
+  ]
+}

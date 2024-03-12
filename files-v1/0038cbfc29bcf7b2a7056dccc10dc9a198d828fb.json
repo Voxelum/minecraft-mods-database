@@ -1,0 +1,16 @@
+{
+  "name": "mdg-forge-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mdg",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mdg",
+      "version": "1.0.0"
+    }
+  ]
+}

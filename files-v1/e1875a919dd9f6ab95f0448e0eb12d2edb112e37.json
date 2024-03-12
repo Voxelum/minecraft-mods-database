@@ -1,0 +1,10 @@
+{
+  "name": "Boss Music Mod 1.18.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bossmusicmod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

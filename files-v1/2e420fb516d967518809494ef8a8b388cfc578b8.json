@@ -1,0 +1,42 @@
+{
+  "name": "brewery-0.2.3+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "brewery",
+      "version": "0.2.3+1.19.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.18+1.19.2"
+    },
+    {
+      "modId": "polymer",
+      "version": "0.2.18+1.19.2"
+    },
+    {
+      "modId": "hologram-api",
+      "version": "0.2.2+1.19"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.1.5+1.19.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-pre.1+1.19.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "more_codecs",
+      "version": "0.2.2+1.18"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

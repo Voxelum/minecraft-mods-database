@@ -1,0 +1,16 @@
+{
+  "name": "MerchantMarkers-1.19.1-fabric-1.2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "merchantmarkers",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "merchantmarkers",
+      "version": "1.2.3"
+    }
+  ]
+}

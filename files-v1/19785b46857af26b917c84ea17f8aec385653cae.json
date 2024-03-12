@@ -1,0 +1,16 @@
+{
+  "name": "reeses_sodium_options-1.6.5+mc1.20.1-build.95-sources.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh37bMuy",
+      "versionId": "hCsMUZLa"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reeses-sodium-options",
+      "version": "${version}"
+    }
+  ]
+}

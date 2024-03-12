@@ -1,0 +1,22 @@
+{
+  "name": "Zoomify-1.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "dev_isxander_settxi",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "settxicloth",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.10"
+    }
+  ]
+}

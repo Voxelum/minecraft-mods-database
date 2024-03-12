@@ -1,0 +1,10 @@
+{
+  "name": "ferritecore-4.2.1-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ferritecore",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

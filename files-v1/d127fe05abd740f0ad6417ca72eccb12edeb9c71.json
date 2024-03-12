@@ -1,0 +1,24 @@
+{
+  "name": "configured-fabric-2.0.0-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667378,
+      "fileId": 4010582
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configured",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    }
+  ]
+}

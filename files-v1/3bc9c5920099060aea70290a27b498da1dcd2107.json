@@ -1,0 +1,20 @@
+{
+  "name": "BetterBlockOutline-1.4.2-1.18.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tBrBqOsV",
+      "versionId": "9iUdux06"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterblockoutline",
+      "version": "1.4.2-1.18.1"
+    },
+    {
+      "modId": "kommandlib",
+      "version": "0.1.0-1.18.1"
+    }
+  ]
+}

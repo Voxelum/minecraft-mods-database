@@ -1,0 +1,20 @@
+{
+  "name": "chatpatches-201.5.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560042,
+      "fileId": 4691432
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatpatches",
+      "version": "201.5.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

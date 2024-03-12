@@ -1,0 +1,20 @@
+{
+  "name": "randomblockplacement-1.20-fabric0.83.0-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "djlwpkGP",
+      "versionId": "hnfB0OfV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randomblockplacement",
+      "version": "1.20-fabric0.83.0-1.1.4"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

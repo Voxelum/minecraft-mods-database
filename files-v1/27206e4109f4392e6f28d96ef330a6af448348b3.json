@@ -1,0 +1,14 @@
+{
+  "name": "WaterPlayer-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "waterplayer",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230227"
+    }
+  ]
+}

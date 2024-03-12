@@ -1,0 +1,16 @@
+{
+  "name": "crystals_overhauled_v1.6.0_1.20.1_FABRIC.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "crystals_overhauled",
+      "version": "1.5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crystals_overhauled",
+      "version": "1.6.0"
+    }
+  ]
+}

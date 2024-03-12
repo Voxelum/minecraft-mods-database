@@ -1,0 +1,28 @@
+{
+  "name": "hearths-v1.0.0-mc1.19u1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XCIMrYn0",
+      "versionId": "uLjyZrQk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880814,
+      "fileId": 4609566
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hearths",
+      "version": "1.0.0-mc1.19u1.19.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hearths",
+      "version": "v1.0.0-mc1.19u1.19.3"
+    }
+  ]
+}

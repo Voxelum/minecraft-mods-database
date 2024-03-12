@@ -1,0 +1,16 @@
+{
+  "name": "VillageSpawnpoint.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villagespawnpoint",
+      "version": "4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagespawnpoint",
+      "version": "4.0"
+    }
+  ]
+}

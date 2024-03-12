@@ -1,0 +1,10 @@
+{
+  "name": "xModWeCUI.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "WorldEditCuiFe",
+      "version": "1.0.7"
+    }
+  ]
+}

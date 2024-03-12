@@ -1,0 +1,30 @@
+{
+  "name": "BeaconOverhaul-1.8.4+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "beaconoverhaul",
+      "version": "1.8.4+1.20"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a77"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.3.8+b3afc78b77"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "2.2.6+b3afc78b77"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.8+e3d6ed2577"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

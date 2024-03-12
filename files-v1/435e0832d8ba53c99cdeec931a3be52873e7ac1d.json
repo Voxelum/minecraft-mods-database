@@ -1,0 +1,16 @@
+{
+  "name": "light-overlay-5.8.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lightoverlay",
+      "version": "5.8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightoverlay",
+      "version": "5.8.1"
+    }
+  ]
+}

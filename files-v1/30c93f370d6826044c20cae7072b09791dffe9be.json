@@ -1,0 +1,10 @@
+{
+  "name": "Hwyla-forge-1.10.8-B72_1.15.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "waila",
+      "version": "${version}"
+    }
+  ]
+}

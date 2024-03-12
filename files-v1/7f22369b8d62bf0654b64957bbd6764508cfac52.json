@@ -1,0 +1,10 @@
+{
+  "name": "integratednbt-1.16.4-1.4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "integratednbt",
+      "version": "${version}"
+    }
+  ]
+}

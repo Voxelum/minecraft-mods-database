@@ -1,0 +1,14 @@
+{
+  "name": "amecs-1.3.8+mc.1.19-rc2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "amecs",
+      "version": "1.3.8+mc.1.19-rc2"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.3.6+mc22w17a"
+    }
+  ]
+}

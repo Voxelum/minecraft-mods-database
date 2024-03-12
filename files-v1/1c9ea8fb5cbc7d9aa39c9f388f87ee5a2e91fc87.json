@@ -1,0 +1,28 @@
+{
+  "name": "completeconfig-2.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtqG8z1h",
+      "versionId": "df7u1Xpi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "completeconfig",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "completeconfig-gui-yacl",
+      "version": "2.5.0"
+    }
+  ]
+}

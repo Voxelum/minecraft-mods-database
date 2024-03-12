@@ -1,0 +1,24 @@
+{
+  "name": "CullLessLeaves-1.0.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iG6ZHsUV",
+      "versionId": "H9oZ7N6p"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cull-less-leaves",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.0"
+    }
+  ]
+}

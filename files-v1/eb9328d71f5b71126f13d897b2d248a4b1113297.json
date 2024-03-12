@@ -1,0 +1,16 @@
+{
+  "name": "rpg-origins-1.4.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_rpg_origins",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_rpg_origins",
+      "version": "1.4.0"
+    }
+  ]
+}

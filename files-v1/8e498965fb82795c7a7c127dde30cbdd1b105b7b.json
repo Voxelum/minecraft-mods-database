@@ -1,0 +1,14 @@
+{
+  "name": "Boat Item View-0.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "boatiview",
+      "version": "0.0.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

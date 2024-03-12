@@ -1,0 +1,24 @@
+{
+  "name": "moreculling-1.18.2-0.8.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "d2OS47y6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "1.18.2-0.8.2"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.62"
+    }
+  ]
+}

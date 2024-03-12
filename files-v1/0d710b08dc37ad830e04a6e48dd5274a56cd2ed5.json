@@ -1,0 +1,14 @@
+{
+  "name": "fallingtrees-1.19.2+0.4.3-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fallingtrees",
+      "version": "1.19.2+0.4.3-beta"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    }
+  ]
+}

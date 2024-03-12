@@ -1,0 +1,14 @@
+{
+  "name": "morevillagers-FABRIC-1.17-2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "morevillagers-fabric",
+      "version": "2.1.0-SNAPSHOT"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    }
+  ]
+}

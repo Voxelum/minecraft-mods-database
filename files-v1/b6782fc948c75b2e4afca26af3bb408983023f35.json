@@ -1,0 +1,16 @@
+{
+  "name": "hooked-1.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 297209,
+      "fileId": 2607310
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hooked",
+      "version": "%VERSION%"
+    }
+  ]
+}

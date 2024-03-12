@@ -1,0 +1,14 @@
+{
+  "name": "vsas-2.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vsas",
+      "version": "2.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

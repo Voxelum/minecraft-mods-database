@@ -1,0 +1,16 @@
+{
+  "name": "[村民交易编辑] villedit-1.4dp.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villedit_mr",
+      "version": "1.4dp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villedit_mr",
+      "version": "1.4dp"
+    }
+  ]
+}

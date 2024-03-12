@@ -1,0 +1,20 @@
+{
+  "name": "Blanket Client tweaks-1.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gxpkKtVH",
+      "versionId": "DfhXmrQi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blanket-client-tweaks",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ironchests-5.0.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n2de3t2z",
+      "versionId": "gioHN8Aw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironchests",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.0.6"
+    }
+  ]
+}

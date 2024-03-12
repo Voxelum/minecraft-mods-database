@@ -1,0 +1,14 @@
+{
+  "name": "GearReborn-1.18.2-0.1.14.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gearreborn",
+      "version": "1.18.2-0.1.14"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.4.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "CubixPlayerD.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "playerdef",
+      "version": "1.0"
+    }
+  ]
+}

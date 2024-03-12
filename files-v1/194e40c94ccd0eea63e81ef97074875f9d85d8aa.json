@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ECATbUJL",
+      "versionId": "3ankXEJu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bbor",
+      "version": "2.6-1.19.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.6.1+aeb40ebe90"
+    }
+  ]
+}

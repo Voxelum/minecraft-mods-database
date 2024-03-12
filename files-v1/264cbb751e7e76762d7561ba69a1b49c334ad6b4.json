@@ -1,0 +1,16 @@
+{
+  "name": "piglins-guard-everything-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_piglins_guardeverything",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_piglins_guardeverything",
+      "version": "1.1"
+    }
+  ]
+}

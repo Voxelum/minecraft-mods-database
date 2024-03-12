@@ -1,0 +1,24 @@
+{
+  "name": "enhancedblockentities-0.7.1+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OVuFYfre",
+      "versionId": "Id00LoSl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedblockentities",
+      "version": "0.7.1+1.18.2"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.5"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.0+1.17"
+    }
+  ]
+}

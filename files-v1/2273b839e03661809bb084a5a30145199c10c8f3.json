@@ -1,0 +1,10 @@
+{
+  "name": "morepaintings_paintings_1.12.2_5.0.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "guilib",
+      "version": "$version"
+    }
+  ]
+}

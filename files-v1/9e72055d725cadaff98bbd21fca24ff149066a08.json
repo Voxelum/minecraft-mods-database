@@ -1,0 +1,50 @@
+{
+  "name": "figura-0.1.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9gIPDom",
+      "versionId": "8892Wqoi"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "figura",
+      "version": "0.1.2+1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "figura",
+      "version": "0.1.2+1.20.1"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.12+b3afc78b77"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.9+132c48c177"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.30+7abfd51577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da77"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-jse",
+      "version": "3.0.6-figura"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-core",
+      "version": "3.0.6-figura"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.4"
+    }
+  ]
+}

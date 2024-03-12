@@ -1,0 +1,20 @@
+{
+  "name": "fastquit-2.1.0+1.19.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 708967,
+      "fileId": 4323779
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastquit",
+      "version": "2.1.0+1.19.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

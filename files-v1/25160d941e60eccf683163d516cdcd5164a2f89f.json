@@ -1,0 +1,20 @@
+{
+  "name": "borderless-mining-1.1.7+1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 310205,
+      "fileId": 4442859
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "borderlessmining",
+      "version": "1.1.7+1.19.4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.9+711cde8ad8"
+    }
+  ]
+}

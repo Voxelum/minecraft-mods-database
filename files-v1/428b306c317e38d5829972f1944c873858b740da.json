@@ -1,0 +1,26 @@
+{
+  "name": "cc-restitched-1.101.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.101.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.77.Final"
+    },
+    {
+      "modId": "org_squiddev_cobalt",
+      "version": "0.5.5"
+    }
+  ]
+}

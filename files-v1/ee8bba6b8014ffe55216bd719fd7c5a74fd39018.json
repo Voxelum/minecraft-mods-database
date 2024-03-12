@@ -1,0 +1,22 @@
+{
+  "name": "wanderingcollector-1.0.2+mc1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wandering_collector",
+      "version": "1.0.2+mc1.17"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    },
+    {
+      "modId": "tweed",
+      "version": "3.0.0-beta.22"
+    },
+    {
+      "modId": "modmenu",
+      "version": "2.0.0-beta.7"
+    }
+  ]
+}

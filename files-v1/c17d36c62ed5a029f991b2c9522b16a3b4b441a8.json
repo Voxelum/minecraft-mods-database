@@ -1,0 +1,28 @@
+{
+  "name": "fpsdisplay-3.1.0+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DIlqwRFH",
+      "versionId": "lOhHV7i1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fpsdisplay",
+      "version": "3.1.0+1.20.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.32+fce67b3203"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.37+f4b7e42403"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.25+3bafade303"
+    }
+  ]
+}

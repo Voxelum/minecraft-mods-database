@@ -1,0 +1,18 @@
+{
+  "name": "minelib11-0.1.3+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minelib",
+      "version": "0.1.3+1.19"
+    },
+    {
+      "modId": "com_sksamuel_scrimage_scrimage-core",
+      "version": "4.0.31"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    }
+  ]
+}

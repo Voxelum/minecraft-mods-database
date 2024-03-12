@@ -1,0 +1,14 @@
+{
+  "name": "BasicNetherOres-fabric-1.20.1-9.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bno",
+      "version": "9.1.1"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

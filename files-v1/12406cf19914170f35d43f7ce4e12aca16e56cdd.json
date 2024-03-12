@@ -1,0 +1,16 @@
+{
+  "name": "[更好的图腾] inventorytotem-1.18.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rpgtitles-1.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rpgtitles_mr",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpgtitles_mr",
+      "version": "1.3.0"
+    }
+  ]
+}

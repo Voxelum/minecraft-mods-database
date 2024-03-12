@@ -1,0 +1,14 @@
+{
+  "name": "custom-commands-1.0.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "melius-commands",
+      "version": "1.0.0+1.20.1"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.1.2+1.20"
+    }
+  ]
+}
