@@ -1,0 +1,34 @@
+{
+  "name": "dynamiccrosshair-compat-1.3+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamiccrosshaircompat",
+      "version": "1.3+1.18.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.4+d7c144a860"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "1.6.0+2373a54560"
+    },
+    {
+      "modId": "dynamiccrosshair",
+      "version": "3.1.1+1.18.2"
+    },
+    {
+      "modId": "elytraboosters",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "pickyourpoison",
+      "version": "1.0.8"
+    }
+  ]
+}

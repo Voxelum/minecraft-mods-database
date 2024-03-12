@@ -1,0 +1,20 @@
+{
+  "name": "wearablebackpacks-4.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fOUOUh2p",
+      "versionId": "a1CY2nF6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wearablebackpacks",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

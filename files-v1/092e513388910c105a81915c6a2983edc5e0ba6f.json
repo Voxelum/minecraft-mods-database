@@ -1,0 +1,14 @@
+{
+  "name": "umu_little_maid-2.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "umu_little_maid",
+      "version": "2.10"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

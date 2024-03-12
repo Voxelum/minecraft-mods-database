@@ -1,0 +1,16 @@
+{
+  "name": "globalnarrationtoggle-1.20.4-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "globalnarrationtoggle",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "globalnarrationtoggle",
+      "version": "1.2"
+    }
+  ]
+}

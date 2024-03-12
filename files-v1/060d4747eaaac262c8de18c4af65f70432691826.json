@@ -1,6 +1,18 @@
 {
   "name": "Luna-FABRIC-MC1.19.X-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T3yEYSUT",
+      "versionId": "XTvbSFNh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880620,
+      "fileId": 4731991
+    }
+  ],
   "fabric": [
     {
       "modId": "luna",

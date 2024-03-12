@@ -1,0 +1,28 @@
+{
+  "name": "spectrum-1.2.10-1.18.1-midgame11-trinkets-brewing.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 556967,
+      "fileId": 3699682
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spectrum",
+      "version": "1.2.10-1.18.1-midgame11-trinkets-brewing"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

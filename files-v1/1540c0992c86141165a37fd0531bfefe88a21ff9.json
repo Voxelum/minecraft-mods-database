@@ -1,0 +1,24 @@
+{
+  "name": "immersive-portals-5.1.5-mc1.20.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zJpHMkdD",
+      "versionId": "t1ejN1OI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "5.1.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.114"
+    },
+    {
+      "modId": "dimlib",
+      "version": "1.0.2+mc1.20.4"
+    }
+  ]
+}

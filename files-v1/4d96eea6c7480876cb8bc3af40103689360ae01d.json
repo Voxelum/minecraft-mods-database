@@ -1,0 +1,14 @@
+{
+  "name": "image2map-1.16.5-0.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "image2map",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

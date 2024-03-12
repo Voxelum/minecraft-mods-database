@@ -1,0 +1,14 @@
+{
+  "name": "screenfx-1.1.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "screenfx",
+      "version": "1.1.0+1.19"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    }
+  ]
+}

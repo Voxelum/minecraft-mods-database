@@ -1,6 +1,12 @@
 {
   "name": "create_haven-0.0.4-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 895548,
+      "fileId": 4769118
+    }
+  ],
   "forge": [
     {
       "modId": "createhaven",

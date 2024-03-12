@@ -1,0 +1,16 @@
+{
+  "name": "ForgeConfigAPIPort-v9.1.1-1.20.2-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "9.1.1"
+    }
+  ]
+}

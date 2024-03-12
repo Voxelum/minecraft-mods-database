@@ -1,0 +1,28 @@
+{
+  "name": "starterkit-1.20.1-5.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "CWcB1Trq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 4996524
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "5.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "5.5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "RegionsUnexploredFabric-0.5.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tkikq67H",
+      "versionId": "CqGV0zGF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659110,
+      "fileId": 5151837
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "regions_unexplored",
+      "version": "0.5.5+1.20.1"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.5.2"
+    }
+  ]
+}

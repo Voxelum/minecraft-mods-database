@@ -1,6 +1,12 @@
 {
   "name": "petrock-0.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 230556,
+      "fileId": 2659913
+    }
+  ],
   "forge": [
     {
       "modId": "petrock",

@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.12.2-4.9.4.120-world.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229049,
+      "fileId": 2745551
+    }
+  ],
   "forge": [
     {
       "modId": "projectred-exploration",

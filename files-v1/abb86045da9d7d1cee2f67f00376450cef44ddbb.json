@@ -1,0 +1,36 @@
+{
+  "name": "amarite-1.5-1.0.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ftofxBty",
+      "versionId": "avD3BFrw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amarite",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

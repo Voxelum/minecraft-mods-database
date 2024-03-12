@@ -1,6 +1,12 @@
 {
   "name": "automobility-0.4.2+1.19.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 658286,
+      "fileId": 4613201
+    }
+  ],
   "fabric": [
     {
       "modId": "automobility",

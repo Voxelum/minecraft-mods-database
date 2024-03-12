@@ -1,0 +1,10 @@
+{
+  "name": "guardiangolem-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "guardiangolem",
+      "version": "0.1-INDEV"
+    }
+  ]
+}

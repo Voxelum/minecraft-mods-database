@@ -1,0 +1,20 @@
+{
+  "name": "autohud-6.5.1+1.20.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "temczoTQ",
+      "versionId": "BOMzBD9B"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autohud",
+      "version": "6.5.1+1.20.4"
+    },
+    {
+      "modId": "yaclx",
+      "version": "1.10+1.20"
+    }
+  ]
+}

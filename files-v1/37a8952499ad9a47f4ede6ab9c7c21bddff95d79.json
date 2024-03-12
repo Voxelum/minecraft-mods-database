@@ -1,6 +1,18 @@
 {
   "name": "personality-1.19.2-3.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zrAMu1nt",
+      "versionId": "dpDeV1Xm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 415974,
+      "fileId": 4776256
+    }
+  ],
   "forge": [
     {
       "modId": "personality",

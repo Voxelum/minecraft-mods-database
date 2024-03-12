@@ -1,0 +1,22 @@
+{
+  "name": "EnchantX Neoforge,Forge 1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BQ5EbP3Z",
+      "versionId": "iFdOVTAt"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchantx",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autokit",
+      "version": "1.0.0"
+    }
+  ]
+}

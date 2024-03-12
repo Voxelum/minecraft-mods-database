@@ -1,0 +1,24 @@
+{
+  "name": "coxinhautilities-1.4.5-hotpatch+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NXqpbY3F",
+      "versionId": "irPENzKg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coxinhautilities",
+      "version": "1.4.5-hotpatch+1.19"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "yet-another-config-lib",
+      "version": "1.6.0"
+    }
+  ]
+}

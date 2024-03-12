@@ -1,0 +1,14 @@
+{
+  "name": "armorpointspp-fabric-1.19.2-3.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorpointspp",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

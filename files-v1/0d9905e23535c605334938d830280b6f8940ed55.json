@@ -1,0 +1,36 @@
+{
+  "name": "recode-0.1.0-beta.9+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kcqpbF9c",
+      "versionId": "Lv5wSdNV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recode",
+      "version": "0.1.0-beta.9+1.20.2-LATEST"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.10.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.0+1.20.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    },
+    {
+      "modId": "javax_websocket_javax_websocket-api",
+      "version": "1.1"
+    }
+  ]
+}

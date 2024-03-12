@@ -1,0 +1,16 @@
+{
+  "name": "rainbegoneritual-1.19.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rainbegoneritual",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rainbegoneritual",
+      "version": "3.0"
+    }
+  ]
+}

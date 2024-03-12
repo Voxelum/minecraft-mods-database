@@ -1,6 +1,12 @@
 {
   "name": "generators-0.9.20.12-mc1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223622,
+      "fileId": 2516219
+    }
+  ],
   "forge": [
     {
       "modId": "advgenerators",

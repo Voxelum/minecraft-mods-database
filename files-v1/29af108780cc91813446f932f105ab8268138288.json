@@ -1,0 +1,16 @@
+{
+  "name": "villagebellrecipe-1.19.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villagebellrecipe",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagebellrecipe",
+      "version": "3.2"
+    }
+  ]
+}

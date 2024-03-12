@@ -1,0 +1,32 @@
+{
+  "name": "immersive-portals-4.1.4-mc1.20.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zJpHMkdD",
+      "versionId": "D8CjaYv1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "q_misc_util",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

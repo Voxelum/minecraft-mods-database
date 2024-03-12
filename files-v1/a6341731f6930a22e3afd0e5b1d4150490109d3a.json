@@ -1,0 +1,16 @@
+{
+  "name": "piseks-craftable-saddle-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_piseks_craftablesaddle",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_piseks_craftablesaddle",
+      "version": "1.0"
+    }
+  ]
+}

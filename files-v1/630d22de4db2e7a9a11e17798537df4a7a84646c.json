@@ -1,6 +1,12 @@
 {
   "name": "phonos-0.3+1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 417003,
+      "fileId": 3726288
+    }
+  ],
   "fabric": [
     {
       "modId": "phonos",

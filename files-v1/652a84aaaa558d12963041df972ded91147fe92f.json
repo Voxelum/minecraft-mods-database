@@ -1,0 +1,22 @@
+{
+  "name": "[only for infinity-reborn]mythicmetals-0.16.4+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.16.4+1.18.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.7.2-no-cme+1.18"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

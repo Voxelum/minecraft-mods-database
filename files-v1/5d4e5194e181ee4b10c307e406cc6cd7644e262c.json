@@ -1,0 +1,22 @@
+{
+  "name": "simplebackup-2.0-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplebackup",
+      "version": "2.0-1.20"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    },
+    {
+      "modId": "com_github_spoorn_tar-lz4-java",
+      "version": "1.0.3"
+    }
+  ]
+}

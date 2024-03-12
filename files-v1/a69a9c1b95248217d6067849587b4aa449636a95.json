@@ -1,0 +1,18 @@
+{
+  "name": "horse-stats-vanilla-4.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "horsestatsvanilla",
+      "version": "4.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.96"
+    },
+    {
+      "modId": "libgui",
+      "version": "7.0.0-beta.2+1.19.4"
+    }
+  ]
+}

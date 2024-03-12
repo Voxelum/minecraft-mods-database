@@ -1,0 +1,56 @@
+{
+  "name": "companion-4.0.0+1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 849200,
+      "fileId": 4510550
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mccic",
+      "version": "4.0.0+1.19.4"
+    },
+    {
+      "modId": "mccic-api",
+      "version": "1.0.0+2aa31983f4"
+    },
+    {
+      "modId": "mccic-chat",
+      "version": "1.0.0+0ecaaa2ef4"
+    },
+    {
+      "modId": "mccic-config",
+      "version": "1.0.0+65bcf352f4"
+    },
+    {
+      "modId": "mccic-debug",
+      "version": "1.0.0+a1c3988bf4"
+    },
+    {
+      "modId": "mccic-discord-rp",
+      "version": "1.0.0+07cc7c20f4"
+    },
+    {
+      "modId": "mccic-hud",
+      "version": "1.0.0+cedd9852f4"
+    },
+    {
+      "modId": "mccic-key-bindings",
+      "version": "1.0.0+c7908244f4"
+    },
+    {
+      "modId": "mccic-music",
+      "version": "1.0.0+65bcf352f4"
+    },
+    {
+      "modId": "mccic-qol",
+      "version": "1.0.0+c7908244f4"
+    },
+    {
+      "modId": "mccic-toasts",
+      "version": "1.0.0+2aa31983f4"
+    }
+  ]
+}

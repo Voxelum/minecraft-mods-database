@@ -1,0 +1,10 @@
+{
+  "name": "moranb3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "MixinLoader",
+      "version": ""
+    }
+  ]
+}

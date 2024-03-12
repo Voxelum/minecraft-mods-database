@@ -1,0 +1,22 @@
+{
+  "name": "EnhancedVisuals_FORGE_v1.6.4_mc1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 255389,
+      "fileId": 4447393
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.6.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "${version}"
+    }
+  ]
+}

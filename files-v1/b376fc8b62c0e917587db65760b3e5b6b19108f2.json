@@ -1,0 +1,10 @@
+{
+  "name": "mod_sets-forge-1.2.2+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mod_sets_service",
+      "version": "1.2.2+1.20.1"
+    }
+  ]
+}

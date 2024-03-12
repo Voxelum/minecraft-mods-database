@@ -1,0 +1,50 @@
+{
+  "name": "indrev-1.14.1-BETA.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "indrev",
+      "version": "1.14.1-BETA"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.3.2+1.18.2"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.18.2-66-FABRIC"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "magna",
+      "version": "1.7.0-1.18-pre1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.0.2+1.18.2"
+    }
+  ]
+}

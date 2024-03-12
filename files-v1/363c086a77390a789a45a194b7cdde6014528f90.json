@@ -1,6 +1,12 @@
 {
   "name": "culinaire-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MO1ODvmm",
+      "versionId": "EHWeIIJg"
+    }
+  ],
   "fabric": [
     {
       "modId": "culinaire",

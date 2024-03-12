@@ -1,6 +1,18 @@
 {
   "name": "cherishedworlds-forge-1.18-5.1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3azQ6p0W",
+      "versionId": "fZvCWiOi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308240,
+      "fileId": 3544949
+    }
+  ],
   "forge": [
     {
       "modId": "cherishedworlds",

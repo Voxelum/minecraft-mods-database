@@ -1,0 +1,20 @@
+{
+  "name": "botarium-fabric-1.18.2-2.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u6LRnMa",
+      "versionId": "MQZwXyNL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "botarium",
+      "version": "2.0.5"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

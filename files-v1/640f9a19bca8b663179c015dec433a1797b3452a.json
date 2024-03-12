@@ -1,0 +1,20 @@
+{
+  "name": "Terralith_v2.0.12_Fabric+Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "seedfix_forge",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.0.12"
+    },
+    {
+      "modId": "seedfix",
+      "version": "1.0.0"
+    }
+  ]
+}

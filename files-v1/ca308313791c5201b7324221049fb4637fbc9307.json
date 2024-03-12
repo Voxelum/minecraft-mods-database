@@ -1,0 +1,10 @@
+{
+  "name": "touhoulittlemaid-1.16.5-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "touhou_little_maid",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

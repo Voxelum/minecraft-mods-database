@@ -1,0 +1,20 @@
+{
+  "name": "travelers-backpack-1.16.5-5.4.38.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "SeUbJGkP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "1.16.5-5.4.38"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.1.1"
+    }
+  ]
+}

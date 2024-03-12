@@ -1,0 +1,16 @@
+{
+  "name": "added_origins_forgefabric-V3.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "added_origins_mod",
+      "version": "V3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "added_origins_mod",
+      "version": "V3.0.0"
+    }
+  ]
+}

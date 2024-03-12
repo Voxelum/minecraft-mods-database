@@ -1,6 +1,18 @@
 {
   "name": "dungeons-and-taverns-ancient-city-overhaul-1 [Fabric].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DNuNq5bb",
+      "versionId": "C8aSNQk1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 920418,
+      "fileId": 4785958
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_dungeons_andtavernsancientcityoverhaul",

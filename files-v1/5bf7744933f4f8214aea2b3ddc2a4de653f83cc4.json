@@ -1,0 +1,26 @@
+{
+  "name": "Essential Dependencies.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "289"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    },
+    {
+      "modId": "elementa",
+      "version": "604"
+    },
+    {
+      "modId": "vigilance",
+      "version": "286"
+    }
+  ]
+}

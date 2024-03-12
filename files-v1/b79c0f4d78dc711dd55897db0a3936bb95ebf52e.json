@@ -1,6 +1,12 @@
 {
   "name": "NMPR-1.18-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317853,
+      "fileId": 3545759
+    }
+  ],
   "forge": [
     {
       "modId": "nopoisonregen",

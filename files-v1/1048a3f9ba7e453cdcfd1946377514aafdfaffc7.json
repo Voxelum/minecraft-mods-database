@@ -1,0 +1,22 @@
+{
+  "name": "ItemPhysic_FORGE_v1.6.15_mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aT8BzaOj",
+      "versionId": "dIQjPH3t"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "itemphysic",
+      "version": "1.6.15"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

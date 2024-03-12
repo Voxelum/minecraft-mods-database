@@ -1,6 +1,12 @@
 {
   "name": "utilitybelt-1.3.5+1.20.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9ewe2JHJ",
+      "versionId": "SDRsPJnr"
+    }
+  ],
   "fabric": [
     {
       "modId": "utilitybelt",

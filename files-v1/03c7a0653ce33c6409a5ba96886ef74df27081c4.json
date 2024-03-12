@@ -1,0 +1,20 @@
+{
+  "name": "fishology-0.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rjuXQb7H",
+      "versionId": "GMglkogU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fishology-interact",
+      "version": "0.0.5"
+    },
+    {
+      "modId": "fishology-core",
+      "version": "0.0.5"
+    }
+  ]
+}

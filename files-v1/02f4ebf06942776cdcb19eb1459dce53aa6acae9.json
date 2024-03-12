@@ -1,0 +1,28 @@
+{
+  "name": "libblockattributes-all-0.10.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317995,
+      "fileId": 3540966
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libblockattributes",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.10.0"
+    }
+  ]
+}

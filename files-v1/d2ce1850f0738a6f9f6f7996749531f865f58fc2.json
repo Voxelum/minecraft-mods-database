@@ -1,0 +1,10 @@
+{
+  "name": "WaterPower_1.12_0.5.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "waterpower",
+      "version": "@MODVERSION@"
+    }
+  ]
+}

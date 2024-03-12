@@ -1,0 +1,10 @@
+{
+  "name": "palamod-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "palamod",
+      "version": "8.0.1.6"
+    }
+  ]
+}

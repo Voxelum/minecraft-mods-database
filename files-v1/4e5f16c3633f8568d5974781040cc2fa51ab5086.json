@@ -1,0 +1,16 @@
+{
+  "name": "drawing-dp.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "drawing_mr",
+      "version": "1-dp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "drawing_mr",
+      "version": "1-dp"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "letsdo-beachparty-fabric-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GyKzAh3l",
+      "versionId": "fqzzUW5j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858691,
+      "fileId": 4696068
+    }
+  ],
   "fabric": [
     {
       "modId": "beachparty",

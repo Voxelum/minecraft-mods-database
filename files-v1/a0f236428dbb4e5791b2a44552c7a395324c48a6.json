@@ -1,0 +1,10 @@
+{
+  "name": "diamondglass-1.12.2-3.6.22.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "diamondglass",
+      "version": "@VERSION@"
+    }
+  ]
+}

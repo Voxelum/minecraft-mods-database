@@ -1,6 +1,12 @@
 {
   "name": "demagnetize-forge-1.16.2-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301356,
+      "fileId": 3033223
+    }
+  ],
   "forge": [
     {
       "modId": "demagnetize",

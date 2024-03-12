@@ -1,0 +1,20 @@
+{
+  "name": "YungsBetterStrongholds-1.19.4-Fabric-3.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kidLKymU",
+      "versionId": "AWml7PPK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterstrongholds",
+      "version": "1.19.4-Fabric-3.4.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Crystal_Optimizator.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "crystaloptimizer",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crystaloptimizer",
+      "version": "1.0.0"
+    }
+  ]
+}

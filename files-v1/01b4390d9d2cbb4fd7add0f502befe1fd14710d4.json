@@ -1,6 +1,18 @@
 {
   "name": "CleanF3-0.4.0-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5lvjfaRs",
+      "versionId": "ceSjyBr2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882993,
+      "fileId": 4618717
+    }
+  ],
   "fabric": [
     {
       "modId": "clean-debug",

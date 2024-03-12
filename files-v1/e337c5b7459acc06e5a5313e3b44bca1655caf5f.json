@@ -1,0 +1,24 @@
+{
+  "name": "ShowMySkinParts-1.1.2-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Olw2MFxS",
+      "versionId": "zdXOsQQH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "show-my-skin-parts",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "show-my-skin-parts-1_19_4",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "show-my-skin-parts-1_20_4",
+      "version": "1.1.2"
+    }
+  ]
+}

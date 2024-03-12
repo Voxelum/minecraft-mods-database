@@ -1,0 +1,14 @@
+{
+  "name": "SimpleAnimatedGuns-FR-1.18.2-v1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "animated_guns",
+      "version": "1.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

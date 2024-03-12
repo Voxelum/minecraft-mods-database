@@ -1,0 +1,16 @@
+{
+  "name": "tis3d-MC1.19.2-fabric-1.7.4+72b79aa.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tis3d",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tis3d",
+      "version": "1.7.4+72b79aa"
+    }
+  ]
+}

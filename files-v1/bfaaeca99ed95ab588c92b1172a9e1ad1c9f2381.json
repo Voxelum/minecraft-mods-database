@@ -1,0 +1,16 @@
+{
+  "name": "The Deep Dark mc1.20.1 v1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "expanded_sculk_mod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expanded_sculk_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

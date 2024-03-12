@@ -1,6 +1,18 @@
 {
   "name": "duckling-3.0.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jkb861Ih",
+      "versionId": "UT330hC2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597248,
+      "fileId": 4620537
+    }
+  ],
   "forge": [
     {
       "modId": "duckling",

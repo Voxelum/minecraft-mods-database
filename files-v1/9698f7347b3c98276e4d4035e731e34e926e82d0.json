@@ -1,0 +1,26 @@
+{
+  "name": "TravelersTitles-1.20-Fabric-4.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JtifUr64",
+      "versionId": "MbifZGB0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 590990,
+      "fileId": 5065826
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelerstitles",
+      "version": "1.20-Fabric-4.0.2"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

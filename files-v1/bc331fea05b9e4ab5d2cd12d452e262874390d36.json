@@ -1,6 +1,12 @@
 {
   "name": "firstperson-fabric-2.2.3-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H5XMjpHi",
+      "versionId": "INcc4wk6"
+    }
+  ],
   "fabric": [
     {
       "modId": "firstperson",

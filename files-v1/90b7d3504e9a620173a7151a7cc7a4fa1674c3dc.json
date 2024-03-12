@@ -1,0 +1,44 @@
+{
+  "name": "ConquestRefabricated-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ConquestRefabricated-1.0.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conquest",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "refabricatedapi",
+      "version": "unspecified"
+    },
+    {
+      "modId": "refabricatedclient",
+      "version": "unspecified"
+    },
+    {
+      "modId": "refabricatedcontent",
+      "version": "unspecified"
+    },
+    {
+      "modId": "refabricatedcore",
+      "version": "unspecified"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.811+1.19.2"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "worldtime-1.18.2-fabric0.47.10-1.3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 355747,
+      "fileId": 3687765
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldtime",
+      "version": "1.18.2-fabric0.47.10-1.3.1"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.18.2"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    }
+  ]
+}

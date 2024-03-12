@@ -1,0 +1,26 @@
+{
+  "name": "BOMD-1.8.1-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "du3UfiLL",
+      "versionId": "7q5XBhQR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438365,
+      "fileId": 4993297
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bosses_of_mass_destruction",
+      "version": "1.8.1-1.20.4"
+    },
+    {
+      "modId": "multipart_entities",
+      "version": "1.5-1.20"
+    }
+  ]
+}

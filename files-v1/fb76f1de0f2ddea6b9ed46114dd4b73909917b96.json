@@ -1,0 +1,14 @@
+{
+  "name": "Void-Fog-2.10.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "voidfog",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.15.0"
+    }
+  ]
+}

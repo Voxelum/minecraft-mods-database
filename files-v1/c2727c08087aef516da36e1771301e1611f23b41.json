@@ -1,6 +1,12 @@
 {
   "name": "rsls-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SKW62Pht",
+      "versionId": "CkupJBmZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "rsls",

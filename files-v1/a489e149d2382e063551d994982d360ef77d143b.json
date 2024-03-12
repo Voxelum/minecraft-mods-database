@@ -1,0 +1,16 @@
+{
+  "name": "humblingbundle-1.20.2-2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "humblingbundle",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "humblingbundle",
+      "version": "2.3"
+    }
+  ]
+}

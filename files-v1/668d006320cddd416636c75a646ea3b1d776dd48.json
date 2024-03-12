@@ -1,0 +1,16 @@
+{
+  "name": "Nutritious Feast 1.5.0 [Forge].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nutritious_feast",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanilla_food_plus",
+      "version": "1.0.0"
+    }
+  ]
+}

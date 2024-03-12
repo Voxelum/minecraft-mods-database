@@ -1,0 +1,18 @@
+{
+  "name": "Shimmer-fabric-1.20.1-0.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shimmer",
+      "version": "1.20.1-0.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

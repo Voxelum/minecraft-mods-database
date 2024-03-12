@@ -1,0 +1,22 @@
+{
+  "name": "hover-pets-0.3.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hoverpets",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

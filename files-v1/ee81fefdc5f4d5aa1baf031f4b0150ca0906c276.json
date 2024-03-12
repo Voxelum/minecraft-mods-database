@@ -1,0 +1,14 @@
+{
+  "name": "lambdacontrols-fabric-1.6.0+1.16.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lambdacontrols",
+      "version": "1.6.0+1.16"
+    },
+    {
+      "modId": "spruceui",
+      "version": "2.1.4+1.16"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "seasonhud-fabric-1.19.2-1.6.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "seasonhud",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.6.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "SimpleVeinminer-1.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zqcxr7u0",
+      "versionId": "qJADByum"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simpleveinminer",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

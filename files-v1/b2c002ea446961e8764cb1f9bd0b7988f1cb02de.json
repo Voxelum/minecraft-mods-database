@@ -1,0 +1,10 @@
+{
+  "name": "Common_Artifacts.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "artifacts",
+      "version": "1.16.5-2.10.5"
+    }
+  ]
+}

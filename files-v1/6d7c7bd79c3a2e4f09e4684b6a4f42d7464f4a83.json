@@ -1,0 +1,18 @@
+{
+  "name": "grid-1.20-fabric0.83.0-1.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "grid",
+      "version": "1.20-fabric0.83.0-1.7"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.4+1.20"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

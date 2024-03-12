@@ -1,0 +1,14 @@
+{
+  "name": "vinery-fabric-1.3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vinery",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "doapi",
+      "version": "1.0.4"
+    }
+  ]
+}

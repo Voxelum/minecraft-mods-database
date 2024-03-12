@@ -1,6 +1,12 @@
 {
   "name": "freecam-fabric-1.2.1-1.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 557076,
+      "fileId": 4643129
+    }
+  ],
   "fabric": [
     {
       "modId": "freecam",

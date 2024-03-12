@@ -1,0 +1,22 @@
+{
+  "name": "FirstPersonMod-2.0.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 333287,
+      "fileId": 3519813
+    }
+  ],
+  "forge": [
+    {
+      "modId": "firstpersonmod",
+      "version": "2.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "firstperson",
+      "version": "2.0.2"
+    }
+  ]
+}

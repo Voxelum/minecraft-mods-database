@@ -1,0 +1,26 @@
+{
+  "name": "lootbeams-2.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DHxukCC2",
+      "versionId": "kqJ3Dv9O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430746,
+      "fileId": 3478361
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "2.0.4"
+    },
+    {
+      "modId": "microconfig",
+      "version": "2.0.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "canary-mc1.18.2-0.2.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qa2H4BS9",
+      "versionId": "fQ4d4QZF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665658,
+      "fileId": 5012162
+    }
+  ],
+  "forge": [
+    {
+      "modId": "canary",
+      "version": "0.2.9"
+    }
+  ]
+}

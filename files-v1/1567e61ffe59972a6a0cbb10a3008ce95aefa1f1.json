@@ -1,0 +1,16 @@
+{
+  "name": "wooltweaks-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wooltweaks",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wooltweaks",
+      "version": "3.3"
+    }
+  ]
+}

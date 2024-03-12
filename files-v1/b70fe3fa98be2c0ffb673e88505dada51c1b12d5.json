@@ -1,6 +1,18 @@
 {
   "name": "[___MixinCompat-0.8___].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PHISlklk",
+      "versionId": "7sIngbMk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405327,
+      "fileId": 3045381
+    }
+  ],
   "forge": [
     {
       "modId": "mixincompat",

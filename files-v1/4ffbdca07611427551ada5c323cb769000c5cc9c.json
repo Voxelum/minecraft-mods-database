@@ -1,0 +1,16 @@
+{
+  "name": "smelting-cobblestone-in-blast-a-furnace-fabricforge-all.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smelting_cobblestoneinblastafurnacefabricforge_mr",
+      "version": "1-all"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smelting_cobblestoneinblastafurnacefabricforge_mr",
+      "version": "1-all"
+    }
+  ]
+}

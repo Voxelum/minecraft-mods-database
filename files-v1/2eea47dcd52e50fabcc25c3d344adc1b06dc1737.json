@@ -1,0 +1,26 @@
+{
+  "name": "seedcrackerX-2.10.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seedcrackerx",
+      "version": "2.10.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.7+b7ab6121d5"
+    },
+    {
+      "modId": "seedcrackerx-api",
+      "version": "2.10.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    },
+    {
+      "modId": "com_github_hube12_seed",
+      "version": "master-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "player-pronouns-2.0.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "playerpronouns",
+      "version": "2.0.0+1.20.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

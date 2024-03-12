@@ -1,6 +1,12 @@
 {
   "name": "ScalableCatsForce-2.13.5-build-2-with-library.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 320926,
+      "fileId": 3297906
+    }
+  ],
   "forge": [
     {
       "modId": "scala-library-object",

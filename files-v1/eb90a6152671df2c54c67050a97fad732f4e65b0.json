@@ -1,0 +1,14 @@
+{
+  "name": "repurposed_structures_fabric-6.1.1+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "6.1.1+1.19"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "expandability-7.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 465066,
+      "fileId": 3984028
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expandability",
+      "version": "7.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0-rc5"
+    }
+  ]
+}

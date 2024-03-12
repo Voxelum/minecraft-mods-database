@@ -1,6 +1,12 @@
 {
   "name": "catalogue-fabric-1.20.1-1.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667377,
+      "fileId": 4766089
+    }
+  ],
   "fabric": [
     {
       "modId": "catalogue",

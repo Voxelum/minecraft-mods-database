@@ -1,6 +1,18 @@
 {
   "name": "lambdynamiclights-2.2.0+1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "9E1ECN95"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393442,
+      "fileId": 4257388
+    }
+  ],
   "fabric": [
     {
       "modId": "lambdynlights",

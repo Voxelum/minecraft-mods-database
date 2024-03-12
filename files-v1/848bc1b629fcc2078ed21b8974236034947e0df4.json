@@ -1,0 +1,200 @@
+{
+  "name": "legacy-fabric-api-1.9.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9CJED7xi",
+      "versionId": "OVxsYxzW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy-fabric-api",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.10.2+2b600dd234"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.0+1.10.2+022f9a7534"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v2",
+      "version": "1.0.0+1.12.2+01f7587852"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1",
+      "version": "1.0.0+1.12.2+ae4aa0d052"
+    },
+    {
+      "modId": "legacy-fabric-item-groups-v1",
+      "version": "2.0.0+1.12.2+ae4aa0d052"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1",
+      "version": "1.0.1+1.12.2+d7cfcfda52"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1",
+      "version": "2.0.0+1.12.2+01f7587852"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.12.2+01f7587852"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.0+1.12.2+022f9a7552"
+    },
+    {
+      "modId": "legacy-fabric-api-base",
+      "version": "1.1.0+1.7.10+f368a06d21"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v2",
+      "version": "1.0.0+1.7.10+01f7587821"
+    },
+    {
+      "modId": "legacy-fabric-fixes",
+      "version": "1.0.0+1.7.10+f368a06d21"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1",
+      "version": "1.0.1+1.7.10+022f9a7521"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1",
+      "version": "2.0.0+1.7.10+01f7587821"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.7.10+508c546021"
+    },
+    {
+      "modId": "legacy-fabric-rendering-api-v1",
+      "version": "1.0.0+1.7.10+f368a06d21"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.0+1.7.10+022f9a7521"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.8+508c5460a9"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.0+1.8+022f9a75a9"
+    },
+    {
+      "modId": "legacy-fabric-api-base",
+      "version": "1.1.0+1.8.9+f368a06d39"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v2",
+      "version": "1.0.0+1.8.9+01f7587839"
+    },
+    {
+      "modId": "legacy-fabric-crash-report-info-v1",
+      "version": "1.0.0+1.8.9+f368a06d39"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1",
+      "version": "1.0.0+1.8.9+f368a06d39"
+    },
+    {
+      "modId": "legacy-fabric-fixes",
+      "version": "1.0.0+1.8.9+f368a06d39"
+    },
+    {
+      "modId": "legacy-fabric-item-groups-v1",
+      "version": "2.0.0+1.8.9+f368a06d39"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1",
+      "version": "1.0.1+1.8.9+d86bee7939"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1",
+      "version": "2.0.0+1.8.9+01f7587839"
+    },
+    {
+      "modId": "legacy-fabric-permissions-api-v1",
+      "version": "1.0.0+1.8.9+f368a06d39"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.8.9+508c546039"
+    },
+    {
+      "modId": "legacy-fabric-rendering-api-v1",
+      "version": "1.0.0+1.8.9+022f9a7539"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.0+1.8.9+022f9a7539"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1",
+      "version": "1.0.0+1.9.4+f368a06d32"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.9.4+2b600dd232"
+    },
+    {
+      "modId": "legacy-fabric-api-base-common",
+      "version": "1.1.0+1dd3cad892"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v1",
+      "version": "1.0.0+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1-common",
+      "version": "1.0.0+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-gamerule-api-v1",
+      "version": "1.0.0+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-item-groups-v1-common",
+      "version": "2.0.0+1dd3cad892"
+    },
+    {
+      "modId": "legacy-fabric-keybinding-api-v1-common",
+      "version": "1.0.0+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1-common",
+      "version": "1.0.1+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-logger-api-v1",
+      "version": "1.0.4+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1-common",
+      "version": "2.0.0+022f9a7592"
+    },
+    {
+      "modId": "legacy-fabric-permissions-api-v1-common",
+      "version": "1.0.0+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1-common",
+      "version": "2.1.0+508c546092"
+    },
+    {
+      "modId": "legacy-fabric-rendering-api-v1-common",
+      "version": "1.0.0+ae4aa0d092"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1-common",
+      "version": "2.1.0+a9c128f492"
+    }
+  ]
+}

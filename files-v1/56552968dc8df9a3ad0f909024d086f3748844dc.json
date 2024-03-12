@@ -1,6 +1,18 @@
 {
   "name": "Mantle-1.7.10-0.3.2b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cg6Uc79H",
+      "versionId": "QIPKIINd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 74924,
+      "fileId": 2264244
+    }
+  ],
   "forge": [
     {
       "modId": "Mantle",

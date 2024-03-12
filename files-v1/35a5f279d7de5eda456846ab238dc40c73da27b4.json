@@ -1,0 +1,18 @@
+{
+  "name": "trenzalore-fabric-3.3.10+mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "trenzalore",
+      "version": "3.3.10"
+    },
+    {
+      "modId": "com_unrealdinnerbone_unrealconfig-gson",
+      "version": "12.3.4"
+    },
+    {
+      "modId": "com_unrealdinnerbone_unrealconfig-core",
+      "version": "12.3.4"
+    }
+  ]
+}

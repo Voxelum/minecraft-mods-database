@@ -1,0 +1,26 @@
+{
+  "name": "friendsandfoes-flowerymooblooms-fabric-mc1.20.1-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ECOSu6pa",
+      "versionId": "L3vFNtdV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 779833,
+      "fileId": 4932261
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flowerymooblooms",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

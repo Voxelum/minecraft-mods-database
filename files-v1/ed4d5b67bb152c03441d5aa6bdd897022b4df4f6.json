@@ -1,0 +1,20 @@
+{
+  "name": "[辅助-自动钓鱼]Autofish-0.9.4-fabric-mc1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 319473,
+      "fileId": 3586323
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

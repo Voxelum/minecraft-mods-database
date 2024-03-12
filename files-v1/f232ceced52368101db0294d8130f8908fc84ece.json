@@ -1,0 +1,16 @@
+{
+  "name": "[Universal]Immersive_Structures_v2-0-6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "imst",
+      "version": "2.0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imst",
+      "version": "2.0.6"
+    }
+  ]
+}

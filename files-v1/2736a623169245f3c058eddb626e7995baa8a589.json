@@ -1,6 +1,12 @@
 {
   "name": "stendhal-1.4.0-1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BWloQ9jK",
+      "versionId": "XBrcSt3S"
+    }
+  ],
   "fabric": [
     {
       "modId": "stendhal",

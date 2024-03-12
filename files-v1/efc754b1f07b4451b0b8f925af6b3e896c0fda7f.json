@@ -1,0 +1,18 @@
+{
+  "name": "quickshulker-1.4.0+meenimc+1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "quickshulker",
+      "version": "1.4.0-1.20"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.8-1.20"
+    },
+    {
+      "modId": "shulkerutils",
+      "version": "1.0.4-1.19"
+    }
+  ]
+}

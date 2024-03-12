@@ -1,6 +1,12 @@
 {
   "name": "forgetmechunk-1.0.4-1.18.X-1.19.X.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vRXn3MrA",
+      "versionId": "yX5SANL7"
+    }
+  ],
   "fabric": [
     {
       "modId": "forgetmechunk",

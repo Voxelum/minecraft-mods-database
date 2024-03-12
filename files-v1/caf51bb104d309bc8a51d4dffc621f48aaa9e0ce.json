@@ -1,6 +1,12 @@
 {
   "name": "neiaddons-1.12.14.40-mc1.7.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 63352,
+      "fileId": 2262120
+    }
+  ],
   "forge": [
     {
       "modId": "NEIAddons",

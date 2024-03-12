@@ -1,0 +1,20 @@
+{
+  "name": "scannable-1.18.2-fabric-1.7.7+67bcbed.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "scannable",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scannable",
+      "version": "1.7.7"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

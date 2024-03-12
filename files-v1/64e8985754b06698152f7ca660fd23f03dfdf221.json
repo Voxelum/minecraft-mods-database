@@ -1,0 +1,18 @@
+{
+  "name": "meteor-client-0.5.1-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteor-client",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.6.1+aeb40ebe90"
+    },
+    {
+      "modId": "baritone-meteor",
+      "version": "1.19.2-SNAPSHOT"
+    }
+  ]
+}

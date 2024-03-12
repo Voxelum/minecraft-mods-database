@@ -1,0 +1,22 @@
+{
+  "name": "beautifiedchatserver-1.20.1-2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C00Y5Ci9",
+      "versionId": "tIWhK0cr"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "beautifiedchatserver",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beautifiedchatserver",
+      "version": "2.2"
+    }
+  ]
+}

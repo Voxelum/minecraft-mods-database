@@ -1,6 +1,12 @@
 {
   "name": "explosiveenhancement.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OSQ8mw2r",
+      "versionId": "GgXnvMPU"
+    }
+  ],
   "fabric": [
     {
       "modId": "explosiveenhancement",

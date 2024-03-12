@@ -1,0 +1,16 @@
+{
+  "name": "morechests-forge-1.19.3-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "more_chests",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_chests",
+      "version": "${version}"
+    }
+  ]
+}

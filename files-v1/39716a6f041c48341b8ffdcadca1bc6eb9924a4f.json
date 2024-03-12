@@ -1,0 +1,26 @@
+{
+  "name": "mcdw-9.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FZmGDE43",
+      "versionId": "AhyZP1zF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 407311,
+      "fileId": 5108100
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcdw",
+      "version": "9.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

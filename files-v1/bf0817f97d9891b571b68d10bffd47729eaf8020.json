@@ -1,0 +1,42 @@
+{
+  "name": "[功能][版本跨越]viafabric-0.4.5+252-main.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "viafabric",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viafabric-mc114",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viafabric-mc115",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viafabric-mc116",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viafabric-mc117",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viafabric-mc118",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viafabric-mc18",
+      "version": "0.4.5+252-main"
+    },
+    {
+      "modId": "viaversion",
+      "version": "4.1.2-SNAPSHOT"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.30"
+    }
+  ]
+}

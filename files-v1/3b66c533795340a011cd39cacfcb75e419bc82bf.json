@@ -1,0 +1,16 @@
+{
+  "name": "MysticPotions-1.1.2-1.20.1-Multi.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mysticpotions",
+      "version": "1.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mysticpotions",
+      "version": "1.1.2"
+    }
+  ]
+}

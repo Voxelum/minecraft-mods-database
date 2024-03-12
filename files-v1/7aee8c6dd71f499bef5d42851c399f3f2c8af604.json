@@ -1,6 +1,12 @@
 {
   "name": "TerraBlender-fabric-1.19.2-2.0.1.130.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kkmrDlKT",
+      "versionId": "ywiJhcuG"
+    }
+  ],
   "fabric": [
     {
       "modId": "terrablender",

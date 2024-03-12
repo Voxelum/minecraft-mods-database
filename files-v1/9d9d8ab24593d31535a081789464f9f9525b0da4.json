@@ -1,0 +1,30 @@
+{
+  "name": "the_bumblezone_fabric-6.1.8+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "the_bumblezone",
+      "version": "6.1.8+1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.4.0"
+    }
+  ]
+}

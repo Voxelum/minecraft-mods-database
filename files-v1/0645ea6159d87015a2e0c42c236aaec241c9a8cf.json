@@ -1,0 +1,24 @@
+{
+  "name": "wakes-0.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dlNu0RQY",
+      "versionId": "mgtR7Ajv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wakes",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_github_jdiemke_delaunay-triangulator_delaunaytriangulator",
+      "version": "1.0.0"
+    }
+  ]
+}

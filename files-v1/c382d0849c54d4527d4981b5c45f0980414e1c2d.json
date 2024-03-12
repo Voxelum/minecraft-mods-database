@@ -1,0 +1,20 @@
+{
+  "name": "expanded-axe-enchanting-1.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmJ9dZtI",
+      "versionId": "docFqSvE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expanded_axe_enchanting",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

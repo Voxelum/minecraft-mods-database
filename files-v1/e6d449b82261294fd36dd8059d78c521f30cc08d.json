@@ -1,6 +1,12 @@
 {
   "name": "lilac-1.0.0-beta.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rtp2Lyr5",
+      "versionId": "UuwX5TxU"
+    }
+  ],
   "fabric": [
     {
       "modId": "lilac",

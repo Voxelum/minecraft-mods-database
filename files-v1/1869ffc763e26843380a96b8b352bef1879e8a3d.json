@@ -1,0 +1,32 @@
+{
+  "name": "modernfix-fabric-5.3.2+mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "9HGXIyEe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.3.2+mc1.20.1"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.21+b3afc78b77"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.12+b3afc78b77"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.7+b3afc78b77"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.30+7abfd51577"
+    }
+  ]
+}

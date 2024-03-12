@@ -1,6 +1,18 @@
 {
   "name": "thermal_innovation-1.16.5-1.5.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MNgLmnvM",
+      "versionId": "koz1W5xC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291737,
+      "fileId": 3788896
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_innovation",

@@ -1,0 +1,16 @@
+{
+  "name": "Opt_NoFog.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "no_fog",
+      "version": "1.3.2+1.16.5-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_fog",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

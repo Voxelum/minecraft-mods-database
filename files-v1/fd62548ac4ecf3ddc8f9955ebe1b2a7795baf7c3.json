@@ -1,0 +1,16 @@
+{
+  "name": "【切石机造成伤害】stonecutter-damage-1.19.4-mcmeta-13.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "stonecutter_damage_mr",
+      "version": "1-mcmeta-13"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stonecutter_damage_mr",
+      "version": "1-mcmeta-13"
+    }
+  ]
+}

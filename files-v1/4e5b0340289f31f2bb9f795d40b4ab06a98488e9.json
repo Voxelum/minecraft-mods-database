@@ -1,0 +1,20 @@
+{
+  "name": "viafabricplus-2.8.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rIC2XJV4",
+      "versionId": "PdXzP7Px"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabricplus",
+      "version": "2.8.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

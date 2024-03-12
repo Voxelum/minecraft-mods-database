@@ -1,0 +1,16 @@
+{
+  "name": "dragondropselytra-1.18.2-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dragondropselytra",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dragondropselytra",
+      "version": "3.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ftb-quests-fabric-1902.5.7-build.326.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 438496,
+      "fileId": 4911647
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbquests",
+      "version": "1902.5.7-build.326"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

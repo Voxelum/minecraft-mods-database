@@ -1,6 +1,18 @@
 {
   "name": "combatroll-forge-1.1.5+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGKYL7st",
+      "versionId": "vdae5kTA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678036,
+      "fileId": 4428898
+    }
+  ],
   "forge": [
     {
       "modId": "combatroll",

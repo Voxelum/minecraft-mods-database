@@ -1,0 +1,10 @@
+{
+  "name": "custom-spawners-mod-1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spawners",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "HDSkins-6.3.6-1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FzE9gshV",
+      "versionId": "s567wiZd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hdskins",
+      "version": "6.3.6-1.16.5"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.3.2"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.7-1.16.2"
+    },
+    {
+      "modId": "letsencryptcraft",
+      "version": "1.4.0"
+    }
+  ]
+}

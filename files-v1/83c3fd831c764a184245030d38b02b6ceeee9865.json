@@ -1,6 +1,12 @@
 {
   "name": "roadrunner-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 275156,
+      "fileId": 2468500
+    }
+  ],
   "forge": [
     {
       "modId": "roadrunner",

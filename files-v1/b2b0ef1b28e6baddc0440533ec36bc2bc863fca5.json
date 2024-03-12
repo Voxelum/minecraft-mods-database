@@ -1,0 +1,20 @@
+{
+  "name": "[伐树] FallingTree-1.16.5-2.11.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fallingtree",
+      "version": "2.11.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fallingtree",
+      "version": "2.11.5"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.19"
+    }
+  ]
+}

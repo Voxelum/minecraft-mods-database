@@ -1,0 +1,14 @@
+{
+  "name": "mealapi-0.3.1+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mealapi",
+      "version": "0.3.1+1.18.2"
+    },
+    {
+      "modId": "cloth-config-lite",
+      "version": "2.0.6"
+    }
+  ]
+}

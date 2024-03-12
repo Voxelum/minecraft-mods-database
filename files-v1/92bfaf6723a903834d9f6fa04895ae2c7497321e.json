@@ -1,6 +1,12 @@
 {
   "name": "immersive_weathering-2.5.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 571035,
+      "fileId": 3833814
+    }
+  ],
   "fabric": [
     {
       "modId": "immersive_weathering",

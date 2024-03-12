@@ -1,6 +1,12 @@
 {
   "name": "kubejs-tinkers-1802.1.0-build.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 579107,
+      "fileId": 3787479
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs_tinkers_construct",

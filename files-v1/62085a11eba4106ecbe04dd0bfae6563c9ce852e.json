@@ -1,6 +1,12 @@
 {
   "name": "ctov-farmers-delight-compat-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CdRC4fyI",
+      "versionId": "Bp3TnFpM"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_ctov_farmersdelightcompat",

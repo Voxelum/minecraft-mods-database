@@ -1,0 +1,16 @@
+{
+  "name": "deeper_oceans-1.19-v1-0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deeper_oceans",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deeper_oceans",
+      "version": "1.0"
+    }
+  ]
+}

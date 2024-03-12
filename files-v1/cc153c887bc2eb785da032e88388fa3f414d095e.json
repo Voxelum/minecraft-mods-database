@@ -1,0 +1,10 @@
+{
+  "name": "memoryleakfix-1.19-0.7.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "memoryleakfix",
+      "version": "1.19-0.7.0"
+    }
+  ]
+}

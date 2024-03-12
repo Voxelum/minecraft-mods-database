@@ -1,0 +1,10 @@
+{
+  "name": "smallerunits_1.16.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smallerunits",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

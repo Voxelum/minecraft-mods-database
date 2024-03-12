@@ -1,6 +1,18 @@
 {
   "name": "toolleveling-forge-1.19.2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I8oNjZdJ",
+      "versionId": "MsKp8nbD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397255,
+      "fileId": 4018720
+    }
+  ],
   "forge": [
     {
       "modId": "toolleveling",

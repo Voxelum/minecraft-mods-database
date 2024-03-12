@@ -1,0 +1,14 @@
+{
+  "name": "bettertrims-2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bettertrims",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

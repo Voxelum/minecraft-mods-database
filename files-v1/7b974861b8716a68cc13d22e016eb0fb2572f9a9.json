@@ -1,0 +1,26 @@
+{
+  "name": "jline4mcdsrv-0.4.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jline4mcdsrv",
+      "version": "0.4.3"
+    },
+    {
+      "modId": "org_jline_jline",
+      "version": "3.23.0"
+    },
+    {
+      "modId": "org_jline_jline-terminal-jansi",
+      "version": "3.23.0"
+    },
+    {
+      "modId": "org_fusesource_jansi_jansi",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "taterzens-fabric-1.20.1-1.11.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE972Kux",
+      "versionId": "UN6eZfbk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "taterzens",
+      "version": "1.11.7"
+    },
+    {
+      "modId": "polymer-registry-sync-manipulator",
+      "version": "0.5.0-rc.2+1.20-rc1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0-beta.2+1.19.4-pre2"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.6"
+    }
+  ]
+}

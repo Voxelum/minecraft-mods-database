@@ -1,0 +1,16 @@
+{
+  "name": "1.19-Days-in-the-Middle-Ages-1.19.2-0.0.2-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "days_in_the_middle_ages",
+      "version": "0.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "days_in_the_middle_ages",
+      "version": "0.0.2"
+    }
+  ]
+}

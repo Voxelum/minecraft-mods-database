@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-hammers-3.5.0-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanilla-hammers",
+      "version": "3.5.0-1.19.2"
+    },
+    {
+      "modId": "magna",
+      "version": "1.8.0-1.19.2"
+    },
+    {
+      "modId": "static-content",
+      "version": "1.0.2-1.16.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.1.0"
+    }
+  ]
+}

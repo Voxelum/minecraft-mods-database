@@ -1,6 +1,12 @@
 {
   "name": "Reaper-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1vwtOeW2",
+      "versionId": "Y56wX5H0"
+    }
+  ],
   "fabric": [
     {
       "modId": "reaper",

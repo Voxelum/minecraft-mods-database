@@ -1,6 +1,18 @@
 {
   "name": "OriginsForge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jl3m2lR9",
+      "versionId": "DIZ6QSen"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 474438,
+      "fileId": 4771676
+    }
+  ],
   "forge": [
     {
       "modId": "origins",

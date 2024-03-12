@@ -1,0 +1,16 @@
+{
+  "name": "AE2WTLib-1.2.6-release.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pNabrMMw",
+      "versionId": "sf1mHLqO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ae2wtlib",
+      "version": "${version}"
+    }
+  ]
+}

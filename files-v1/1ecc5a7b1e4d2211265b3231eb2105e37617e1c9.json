@@ -1,0 +1,22 @@
+{
+  "name": "endercrop-1.20.1-2.0.0-alpha-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242269,
+      "fileId": 4723512
+    }
+  ],
+  "forge": [
+    {
+      "modId": "endercrop",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "endercrop",
+      "version": "1.20.1-2.0.0-alpha"
+    }
+  ]
+}

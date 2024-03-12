@@ -1,0 +1,20 @@
+{
+  "name": "purpurclient-1.18.2-3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AFirzqTJ",
+      "versionId": "VnS1zdd3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "purpurclient",
+      "version": "1.18.2-3"
+    },
+    {
+      "modId": "confabricate",
+      "version": "3.0.0-SNAPSHOT+4.1.2"
+    }
+  ]
+}

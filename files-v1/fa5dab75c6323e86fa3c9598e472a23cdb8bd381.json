@@ -1,0 +1,24 @@
+{
+  "name": "inventory-control-tweaks-1.3.28+MC1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sPYwFCE0",
+      "versionId": "fa01BzgF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventory_control_tweaks",
+      "version": "1.3.28"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

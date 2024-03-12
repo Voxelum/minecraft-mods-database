@@ -1,6 +1,12 @@
 {
   "name": "modmenu-7.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "zv46i3PW"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

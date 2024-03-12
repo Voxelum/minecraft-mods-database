@@ -1,6 +1,12 @@
 {
   "name": "pirate_hats.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 488529,
+      "fileId": 3332469
+    }
+  ],
   "forge": [
     {
       "modId": "pirate_hat",

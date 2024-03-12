@@ -1,0 +1,26 @@
+{
+  "name": "NetherChested-v8.0.3-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bHJp2GRg",
+      "versionId": "ov250Qvk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857971,
+      "fileId": 5056973
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherchested",
+      "version": "8.0.3"
+    },
+    {
+      "modId": "puzzlesapi",
+      "version": "8.1.5"
+    }
+  ]
+}

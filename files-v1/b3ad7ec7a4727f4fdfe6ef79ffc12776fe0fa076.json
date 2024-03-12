@@ -1,0 +1,24 @@
+{
+  "name": "TechReborn-5.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 233564,
+      "fileId": 3832434
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "techreborn",
+      "version": "5.3.2"
+    },
+    {
+      "modId": "reborncore",
+      "version": "5.3.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

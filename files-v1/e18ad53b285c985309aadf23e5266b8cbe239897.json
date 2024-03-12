@@ -1,6 +1,18 @@
 {
   "name": "fabric-tree-chopper-0.8.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nuvrbzBD",
+      "versionId": "flXlFz9A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 333854,
+      "fileId": 4026466
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-tree-chopper",

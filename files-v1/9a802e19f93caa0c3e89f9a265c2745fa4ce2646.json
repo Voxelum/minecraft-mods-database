@@ -1,0 +1,14 @@
+{
+  "name": "bobby-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bobby",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "confabricate",
+      "version": "2.0.3+4.0.0"
+    }
+  ]
+}

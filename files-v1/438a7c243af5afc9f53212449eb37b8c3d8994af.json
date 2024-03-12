@@ -1,6 +1,18 @@
 {
   "name": "darkness-forge-mc119-2.0.101.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ja7zPEaN",
+      "versionId": "Jknh5xMh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 337243,
+      "fileId": 4143529
+    }
+  ],
   "forge": [
     {
       "modId": "darkness",

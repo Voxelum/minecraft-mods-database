@@ -1,6 +1,18 @@
 {
   "name": "Tropicraft-9.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "20zpzIT1",
+      "versionId": "bHiclvUc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254794,
+      "fileId": 4811116
+    }
+  ],
   "forge": [
     {
       "modId": "tropicraft",

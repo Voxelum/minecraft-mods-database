@@ -1,0 +1,10 @@
+{
+  "name": "BetterHurtCam.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nofireoverlay",
+      "version": "1.0-SNAPSHOT"
+    }
+  ]
+}

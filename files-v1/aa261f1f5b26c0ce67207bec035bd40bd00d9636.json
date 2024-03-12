@@ -1,0 +1,10 @@
+{
+  "name": "emotes_replay_compat-0.1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "emotes-compat-rp",
+      "version": "0.1.2"
+    }
+  ]
+}

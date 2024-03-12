@@ -1,0 +1,10 @@
+{
+  "name": "avaritiaio-1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "avaritiaio",
+      "version": "@VERSION@"
+    }
+  ]
+}

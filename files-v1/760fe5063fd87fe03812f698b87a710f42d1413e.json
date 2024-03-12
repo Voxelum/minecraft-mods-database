@@ -1,0 +1,20 @@
+{
+  "name": "YungsBetterEndIsland-1.18.2-Fabric-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2BwBOmBQ",
+      "versionId": "mId4Tfc1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterendisland",
+      "version": "1.18.2-Fabric-1.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

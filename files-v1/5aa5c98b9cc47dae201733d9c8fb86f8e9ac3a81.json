@@ -1,0 +1,20 @@
+{
+  "name": "[动态FPS] dynamic-fps-2.3.0.jar.old",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "tChVqk53"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamicfps",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

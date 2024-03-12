@@ -1,6 +1,12 @@
 {
   "name": "collective-1.16.5-5.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 4086461
+    }
+  ],
   "forge": [
     {
       "modId": "collective",

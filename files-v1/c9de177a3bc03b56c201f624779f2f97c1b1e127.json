@@ -1,0 +1,10 @@
+{
+  "name": "MekanismAtmosphericAddon.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "atmosphericmekanismcompatibility",
+      "version": "1.0.0"
+    }
+  ]
+}

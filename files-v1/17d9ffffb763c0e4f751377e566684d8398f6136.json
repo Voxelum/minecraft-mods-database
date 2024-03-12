@@ -1,0 +1,14 @@
+{
+  "name": "villagernames-1.18.1-3.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

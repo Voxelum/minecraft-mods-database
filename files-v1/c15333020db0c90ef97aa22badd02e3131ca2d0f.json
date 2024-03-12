@@ -1,0 +1,20 @@
+{
+  "name": "enriched-2.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y1ImNftg",
+      "versionId": "975y26tB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enriched",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "createastracompat-1.0.3-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bk5D4qMV",
+      "versionId": "Tgxpv0X8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 838932,
+      "fileId": 4618750
+    }
+  ],
   "forge": [
     {
       "modId": "createastracompat",

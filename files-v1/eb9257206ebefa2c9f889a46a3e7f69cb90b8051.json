@@ -1,0 +1,14 @@
+{
+  "name": "malilib-fabric-1.16.4-0.10.0-dev.21+arne.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.10.0-dev.21+arne.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.3.1+facf3bbf3a"
+    }
+  ]
+}

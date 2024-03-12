@@ -1,0 +1,16 @@
+{
+  "name": "MineralTracker-0.9.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 341787,
+      "fileId": 3132376
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mineraltracker",
+      "version": "${version}"
+    }
+  ]
+}

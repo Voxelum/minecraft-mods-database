@@ -1,6 +1,12 @@
 {
   "name": "indium-1.0.14+mc1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Orvt0mRa",
+      "versionId": "U94NcDpV"
+    }
+  ],
   "fabric": [
     {
       "modId": "indium",

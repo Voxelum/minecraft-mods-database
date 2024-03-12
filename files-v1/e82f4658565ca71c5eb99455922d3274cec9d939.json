@@ -1,0 +1,14 @@
+{
+  "name": "speedy-fabric-1.18.2-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "speedy",
+      "version": "fabric-1.18.2-1.0.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

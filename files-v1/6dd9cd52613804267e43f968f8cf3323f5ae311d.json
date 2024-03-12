@@ -1,6 +1,12 @@
 {
   "name": "ce-mod-1.1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 597562,
+      "fileId": 3799339
+    }
+  ],
   "fabric": [
     {
       "modId": "ce",

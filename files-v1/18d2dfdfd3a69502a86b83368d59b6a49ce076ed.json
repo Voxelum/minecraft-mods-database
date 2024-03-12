@@ -1,0 +1,10 @@
+{
+  "name": "chronos-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chronos",
+      "version": "1.0.5"
+    }
+  ]
+}

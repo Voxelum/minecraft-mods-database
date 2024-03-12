@@ -1,0 +1,16 @@
+{
+  "name": "draggable_lists-mc1.20.4-1.0.3-build.18.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "draggable_lists",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "draggable_lists",
+      "version": "1.0.3"
+    }
+  ]
+}

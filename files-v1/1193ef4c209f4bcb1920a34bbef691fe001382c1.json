@@ -1,0 +1,24 @@
+{
+  "name": "minecells-1.4.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Qdvz1OV",
+      "versionId": "GgKAj06i"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

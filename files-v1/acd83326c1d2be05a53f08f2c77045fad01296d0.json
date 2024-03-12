@@ -1,0 +1,20 @@
+{
+  "name": "sihywtcamd-1.7.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EutyxFnb",
+      "versionId": "xXybfjdH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sihywtcamd",
+      "version": "1.7.5+1.20.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

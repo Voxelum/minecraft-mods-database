@@ -1,0 +1,16 @@
+{
+  "name": "wfc.1.4.0-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wfc",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wfc",
+      "version": "1.3.0"
+    }
+  ]
+}

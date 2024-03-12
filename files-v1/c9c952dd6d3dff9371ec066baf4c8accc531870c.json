@@ -1,6 +1,18 @@
 {
   "name": "indrev-1.16.5-BETA.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kFs9AeXi",
+      "versionId": "bUvfY4Da"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391708,
+      "fileId": 4742613
+    }
+  ],
   "fabric": [
     {
       "modId": "indrev",

@@ -1,0 +1,30 @@
+{
+  "name": "Galosphere-1.20.1-1.4.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kn7xyQ1v",
+      "versionId": "WC7WYZmU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631098,
+      "fileId": 4983870
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "galosphere",
+      "version": "1.20.1-1.4.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

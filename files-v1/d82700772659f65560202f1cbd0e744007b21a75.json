@@ -1,6 +1,18 @@
 {
   "name": "continuity-2.0.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1IjD5062",
+      "versionId": "xTtULC68"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531351,
+      "fileId": 3927270
+    }
+  ],
   "fabric": [
     {
       "modId": "continuity",

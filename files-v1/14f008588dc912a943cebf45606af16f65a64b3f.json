@@ -1,6 +1,12 @@
 {
   "name": "kubejs-fabric-2001.6.3-build.52.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "QT3xVJkt"
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejs",

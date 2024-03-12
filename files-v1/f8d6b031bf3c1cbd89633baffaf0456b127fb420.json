@@ -1,6 +1,18 @@
 {
   "name": "tesseract-1.0.35a-forge-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OUhp5O2m",
+      "versionId": "XftXUN9r"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 379232,
+      "fileId": 4786697
+    }
+  ],
   "forge": [
     {
       "modId": "tesseract",

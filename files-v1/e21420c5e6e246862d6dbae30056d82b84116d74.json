@@ -1,0 +1,52 @@
+{
+  "name": "graves-3.0.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yn9u3ypm",
+      "versionId": "KaGNkIdU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "universal-graves",
+      "version": "3.0.1+1.20.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.3+1.20.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.2.1+1.20.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

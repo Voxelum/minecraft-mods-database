@@ -1,0 +1,10 @@
+{
+  "name": "cheat.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "MixinLoader",
+      "version": ""
+    }
+  ]
+}

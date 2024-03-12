@@ -1,6 +1,18 @@
 {
   "name": "plasmovoice-fabric-1.16-1.2.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "9Zgx9Y3d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 3903835
+    }
+  ],
   "fabric": [
     {
       "modId": "plasmo_voice",

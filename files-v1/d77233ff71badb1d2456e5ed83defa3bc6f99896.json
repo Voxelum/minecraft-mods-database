@@ -1,10 +1,16 @@
 {
   "name": "Kappa_v5.2.zip",
-  "domain": "resourcepacks",
+  "domain": "shaderpacks",
   "modrinth": [
     {
       "projectId": "Y8161YLz",
       "versionId": "KO0EB3IW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 322270,
+      "fileId": 4582668
     }
   ]
 }

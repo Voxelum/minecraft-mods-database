@@ -1,0 +1,20 @@
+{
+  "name": "interactic-0.2.1+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ErpAAAaf",
+      "versionId": "M0c0R0nD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "interactic",
+      "version": "0.2.1+1.20.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.3+1.20.2"
+    }
+  ]
+}

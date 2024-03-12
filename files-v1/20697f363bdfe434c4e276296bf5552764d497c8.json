@@ -1,0 +1,14 @@
+{
+  "name": "ExtendedHotbar-2.0.1 УДВАИВАЕТ хотбар.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extendedhotbar",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "arrp-0.5.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+c88702897d"
+    }
+  ]
+}

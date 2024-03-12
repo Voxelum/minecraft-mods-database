@@ -1,0 +1,10 @@
+{
+  "name": "rusticrecordings.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "overlays",
+      "version": "1.0.0"
+    }
+  ]
+}

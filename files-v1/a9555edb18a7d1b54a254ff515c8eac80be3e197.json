@@ -1,0 +1,52 @@
+{
+  "name": "dark-matter-3.0.3-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qcz8IJ9L",
+      "versionId": "ilmAjcWH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dark-matter",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-content",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-crash-handler",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-danger",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-enums",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-glitter",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-mirage",
+      "version": "3.0.3-1.20"
+    },
+    {
+      "modId": "dark-matter-recipe-book",
+      "version": "3.0.3-1.20"
+    }
+  ]
+}

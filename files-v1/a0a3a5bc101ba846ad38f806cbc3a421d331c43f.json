@@ -1,6 +1,18 @@
 {
   "name": "plushies-1.3.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hsOK0gUP",
+      "versionId": "odKEDvYu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544197,
+      "fileId": 4732818
+    }
+  ],
   "forge": [
     {
       "modId": "plushies",

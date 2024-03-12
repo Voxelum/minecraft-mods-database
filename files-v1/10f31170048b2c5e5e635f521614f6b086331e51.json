@@ -1,0 +1,20 @@
+{
+  "name": "polylib-fabric-2000.0.3-build.97.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 576589,
+      "fileId": 4893431
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polylib",
+      "version": "2000.0.3-build.97"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

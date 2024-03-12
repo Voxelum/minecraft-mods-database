@@ -1,0 +1,38 @@
+{
+  "name": "the_bumblezone-7.2.12+1.20.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eA8SXqWL",
+      "versionId": "ayTD9rnN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363949,
+      "fileId": 4992412
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the_bumblezone",
+      "version": "7.2.12+1.20.4-fabric"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20.4"
+    },
+    {
+      "modId": "athena",
+      "version": "3.3.0"
+    }
+  ]
+}

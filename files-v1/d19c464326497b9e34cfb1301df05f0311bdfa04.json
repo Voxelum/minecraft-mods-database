@@ -1,6 +1,18 @@
 {
   "name": "geckolib-fabric-1.18-3.0.80.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "Z7uH6V77"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 4181373
+    }
+  ],
   "fabric": [
     {
       "modId": "geckolib3",

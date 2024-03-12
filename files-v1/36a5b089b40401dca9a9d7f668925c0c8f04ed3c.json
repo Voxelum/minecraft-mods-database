@@ -1,0 +1,22 @@
+{
+  "name": "completeconfig-2.3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "completeconfig",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "completeconfig-gui-yacl",
+      "version": "2.3.1"
+    }
+  ]
+}

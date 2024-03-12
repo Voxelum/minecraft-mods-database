@@ -1,0 +1,16 @@
+{
+  "name": "soulfired-1.19.2-3.2.1.0-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "soulfired",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soulfired",
+      "version": "3.2.1.0"
+    }
+  ]
+}

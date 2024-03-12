@@ -1,0 +1,26 @@
+{
+  "name": "tridents_n_stuff-0.1.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HUVG5gEu",
+      "versionId": "dHtiiaEr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 940827,
+      "fileId": 4917016
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tridents_n_stuff",
+      "version": "0.1.1+1.20.1"
+    },
+    {
+      "modId": "fzzy_config",
+      "version": "0.1.2+1.20.1"
+    }
+  ]
+}

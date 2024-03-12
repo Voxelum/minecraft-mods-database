@@ -1,0 +1,14 @@
+{
+  "name": "carpet-tis-addition-mc1.20.1-v1.48.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "carpet-tis-addition",
+      "version": "1.48.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    }
+  ]
+}

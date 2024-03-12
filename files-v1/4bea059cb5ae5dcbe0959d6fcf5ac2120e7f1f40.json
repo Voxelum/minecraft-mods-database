@@ -1,6 +1,18 @@
 {
   "name": "servercore-1.3.3-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WWQxlQP",
+      "versionId": "kzD8EGTS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550579,
+      "fileId": 4058121
+    }
+  ],
   "fabric": [
     {
       "modId": "servercore",

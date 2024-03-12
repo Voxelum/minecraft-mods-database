@@ -1,6 +1,12 @@
 {
   "name": "Zoomify-2.9.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w7ThoJFB",
+      "versionId": "p5RjeOJL"
+    }
+  ],
   "fabric": [
     {
       "modId": "zoomify",

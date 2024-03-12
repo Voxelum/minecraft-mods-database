@@ -1,0 +1,36 @@
+{
+  "name": "deepmoblearning-refabricated-0.5.3-beta.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 398614,
+      "fileId": 3680143
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dml-refabricated",
+      "version": "0.5.3-beta"
+    },
+    {
+      "modId": "dml-refabricated-base",
+      "version": "0.5.3-beta"
+    },
+    {
+      "modId": "dml-refabricated-rei",
+      "version": "0.5.3-beta"
+    },
+    {
+      "modId": "dml-refabricated-modular-armor",
+      "version": "0.5.3-beta"
+    },
+    {
+      "modId": "dml-refabricated-events",
+      "version": "0.5.3-beta"
+    },
+    {
+      "modId": "ktdatataglib",
+      "version": "1.6.4-1"
+    }
+  ]
+}

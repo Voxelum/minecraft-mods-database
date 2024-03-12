@@ -1,0 +1,14 @@
+{
+  "name": "QuickConnectButton-1.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "quickconnectbutton",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.0.75"
+    }
+  ]
+}

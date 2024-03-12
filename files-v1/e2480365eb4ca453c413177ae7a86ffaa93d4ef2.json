@@ -1,0 +1,14 @@
+{
+  "name": "mini-client-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mini-mod",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.2+1.20"
+    }
+  ]
+}

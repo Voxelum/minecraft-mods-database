@@ -1,0 +1,10 @@
+{
+  "name": "CosmeticArmorReworked_1.12.2_v5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cosmeticarmorreworked",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "[LIB-魔法前置]magiclib-0.5.37.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "magiclib",
+      "version": "0.5.37"
+    },
+    {
+      "modId": "magiclib-1_14_4",
+      "version": "0.5.37"
+    },
+    {
+      "modId": "magiclib-1_15_2",
+      "version": "0.5.37"
+    },
+    {
+      "modId": "magiclib-1_16_5",
+      "version": "0.5.37"
+    },
+    {
+      "modId": "magiclib-1_17_1",
+      "version": "0.5.37"
+    },
+    {
+      "modId": "magiclib-1_18_2",
+      "version": "0.5.37"
+    },
+    {
+      "modId": "magiclib-1_19_2",
+      "version": "0.5.37"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "rebalanced-loot-mc1.20-v1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oNCfej6S",
+      "versionId": "PRXvFJiA"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rebalanced_loot",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rebalanced_loot",
+      "version": "1.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "xercapaint-fabric-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YOs4tZea",
+      "versionId": "IBv83UmH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 350727,
+      "fileId": 4670717
+    }
+  ],
   "forge": [
     {
       "modId": "xercapaint",

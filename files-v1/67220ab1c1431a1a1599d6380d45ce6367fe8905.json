@@ -1,0 +1,20 @@
+{
+  "name": "shulkerboxtooltip-fabric-4.0.7+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2M01OLQq",
+      "versionId": "WXMDQsb9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shulkerboxtooltip",
+      "version": "4.0.7+1.20.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    }
+  ]
+}

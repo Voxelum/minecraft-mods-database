@@ -1,0 +1,10 @@
+{
+  "name": "ScalableCatsForce-2.13.8-build-3-with-library.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "scala-library-object",
+      "version": "2.13.8-build-3"
+    }
+  ]
+}

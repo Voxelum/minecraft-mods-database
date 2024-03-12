@@ -1,0 +1,24 @@
+{
+  "name": "biolith-1.0.0-alpha.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iGEl6Crx",
+      "versionId": "M0deDjZf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biolith",
+      "version": "1.0.0-alpha.8"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "medieval-origins-5.1.8+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "medievalorigins",
+      "version": "5.1.8+1.20.1"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.4.0+1.20.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

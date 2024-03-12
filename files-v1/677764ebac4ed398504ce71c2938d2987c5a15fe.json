@@ -1,0 +1,16 @@
+{
+  "name": "chatcalculator-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 625036,
+      "fileId": 3809772
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chatcalculator",
+      "version": "@VERSION@"
+    }
+  ]
+}

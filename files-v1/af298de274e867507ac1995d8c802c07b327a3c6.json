@@ -1,0 +1,22 @@
+{
+  "name": "wi-zoom-v1.1-MC1.12.2-release.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o7DitHWP",
+      "versionId": "QosaEAsi"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wi-zoom",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wi-zoom",
+      "version": "v1.1-MC1.14.4"
+    }
+  ]
+}

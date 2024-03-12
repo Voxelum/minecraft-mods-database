@@ -1,0 +1,14 @@
+{
+  "name": "ecologics-fabric-1.19.2-2.1.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ecologics",
+      "version": "2.1.9"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.0.75"
+    }
+  ]
+}

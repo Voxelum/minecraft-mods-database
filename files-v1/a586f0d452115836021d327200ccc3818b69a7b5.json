@@ -1,0 +1,20 @@
+{
+  "name": "expanded-bow-enchanting-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5GZUvxmB",
+      "versionId": "oHKb9m3d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expanded_bow_enchanting",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

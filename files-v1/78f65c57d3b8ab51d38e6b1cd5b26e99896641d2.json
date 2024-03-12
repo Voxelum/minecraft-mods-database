@@ -1,0 +1,22 @@
+{
+  "name": "portalgun-6.2.0-mc1.20.4-fabric.jar",
+  "domain": "modpacks",
+  "modrinth": [
+    {
+      "projectId": "n1B6JCKV",
+      "versionId": "q19NZ7BV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 839380,
+      "fileId": 4996050
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "portalgun",
+      "version": "6.2.0"
+    }
+  ]
+}

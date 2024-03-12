@@ -1,0 +1,14 @@
+{
+  "name": "yacg-2023.7.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "yacg",
+      "version": "2023.7.3"
+    },
+    {
+      "modId": "modmenu-badges-lib",
+      "version": "2023.4.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tree-hollows-1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tree-hollows",
+      "version": "1.4"
+    },
+    {
+      "modId": "tree-hollows-core",
+      "version": "1.4"
+    }
+  ]
+}

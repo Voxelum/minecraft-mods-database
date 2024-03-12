@@ -1,6 +1,12 @@
 {
   "name": "selene-1.18.2-1.17.11.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 499980,
+      "fileId": 4668166
+    }
+  ],
   "forge": [
     {
       "modId": "selene",

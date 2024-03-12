@@ -1,0 +1,14 @@
+{
+  "name": "flighthelper-1.19.1-fabric0.58.5-1.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "flighthelper",
+      "version": "1.19.1-fabric0.58.5-1.2.2"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.19"
+    }
+  ]
+}

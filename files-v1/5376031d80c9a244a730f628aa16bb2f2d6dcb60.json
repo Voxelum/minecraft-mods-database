@@ -1,0 +1,20 @@
+{
+  "name": "energizedpower-1.20.4-2.8.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pku8gW1",
+      "versionId": "YCEBRCpS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "energizedpower",
+      "version": "1.20.4-2.8.0-fabric"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

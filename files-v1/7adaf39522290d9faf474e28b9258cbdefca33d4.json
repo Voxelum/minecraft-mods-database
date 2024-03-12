@@ -1,6 +1,12 @@
 {
   "name": "frostiful-0.5.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ae6qoBj3",
+      "versionId": "DX0UnwSe"
+    }
+  ],
   "fabric": [
     {
       "modId": "frostiful",

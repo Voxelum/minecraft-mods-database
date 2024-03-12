@@ -1,0 +1,24 @@
+{
+  "name": "sihywtcamc-1.4.2+1.19.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 448832,
+      "fileId": 3845628
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sihywtcamc",
+      "version": "1.4.2+1.19"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

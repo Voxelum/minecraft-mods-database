@@ -1,6 +1,18 @@
 {
   "name": "betterthanmending-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lvv4SHrK",
+      "versionId": "botD0Qv4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 264738,
+      "fileId": 3213798
+    }
+  ],
   "fabric": [
     {
       "modId": "betterthanmending",

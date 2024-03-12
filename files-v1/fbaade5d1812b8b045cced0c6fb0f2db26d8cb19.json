@@ -1,6 +1,12 @@
 {
   "name": "partyaddon-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oRqU5wIm",
+      "versionId": "AepedlUS"
+    }
+  ],
   "fabric": [
     {
       "modId": "partyaddon",

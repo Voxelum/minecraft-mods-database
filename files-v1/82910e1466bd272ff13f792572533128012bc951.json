@@ -1,0 +1,24 @@
+{
+  "name": "clickthrough-1.18.2-fabric0.47.10-0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z5b0cAlD",
+      "versionId": "EZAA7MCl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clickthrough",
+      "version": "1.18.2-fabric0.47.10-0.4"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.18.2"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    }
+  ]
+}

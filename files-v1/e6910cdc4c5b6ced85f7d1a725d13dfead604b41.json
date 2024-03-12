@@ -1,6 +1,12 @@
 {
   "name": "midnightcontrols-extra-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WajYWUam",
+      "versionId": "binlbSgi"
+    }
+  ],
   "fabric": [
     {
       "modId": "midnightcontrols-extra",

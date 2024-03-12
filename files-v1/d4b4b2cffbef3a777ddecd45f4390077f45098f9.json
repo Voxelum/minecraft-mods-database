@@ -1,6 +1,12 @@
 {
   "name": "ratsmischief-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jjc1149h",
+      "versionId": "TO8D9XBT"
+    }
+  ],
   "fabric": [
     {
       "modId": "ratsmischief",

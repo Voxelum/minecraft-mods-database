@@ -1,6 +1,18 @@
 {
   "name": "rechiseledcreate-1.0.1-forge-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6867niZ",
+      "versionId": "ML50hG0W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 888624,
+      "fileId": 4789551
+    }
+  ],
   "forge": [
     {
       "modId": "rechiseledcreate",

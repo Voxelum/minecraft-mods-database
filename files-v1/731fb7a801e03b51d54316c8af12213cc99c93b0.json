@@ -1,0 +1,10 @@
+{
+  "name": "mc-fix-hardcoded-lava-level-1.19.3-1.x_1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mc-fix-hardcoded-lava-level",
+      "version": "1.0.0"
+    }
+  ]
+}

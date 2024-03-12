@@ -1,0 +1,16 @@
+{
+  "name": "easyelytratakeoff-1.19.2-4.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "easyelytratakeoff",
+      "version": "4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easyelytratakeoff",
+      "version": "4.0"
+    }
+  ]
+}

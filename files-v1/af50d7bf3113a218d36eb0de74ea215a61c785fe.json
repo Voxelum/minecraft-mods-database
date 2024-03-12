@@ -1,10 +1,16 @@
 {
   "name": "FastPBR_v1.1.zip",
-  "domain": "resourcepacks",
+  "domain": "shaderpacks",
   "modrinth": [
     {
       "projectId": "ygChbn8J",
       "versionId": "EdpO3F1G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 855381,
+      "fileId": 4584401
     }
   ]
 }

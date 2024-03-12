@@ -1,0 +1,14 @@
+{
+  "name": "cammies-minecart-tweaks-1.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minecarttweaks",
+      "version": "1.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

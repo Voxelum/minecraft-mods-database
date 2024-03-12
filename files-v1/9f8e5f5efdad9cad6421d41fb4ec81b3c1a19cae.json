@@ -1,6 +1,18 @@
 {
   "name": "curiouselytra-forge-1.16.5-4.0.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mSQF1NpT",
+      "versionId": "CFT2ihe8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317716,
+      "fileId": 3522097
+    }
+  ],
   "forge": [
     {
       "modId": "curiouselytra",

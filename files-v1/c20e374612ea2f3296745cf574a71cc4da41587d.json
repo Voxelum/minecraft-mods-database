@@ -1,0 +1,24 @@
+{
+  "name": "Gobber2-Fabric-1.20.1-2.9.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 427177,
+      "fileId": 5131111
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gobber2",
+      "version": "2.9.2"
+    },
+    {
+      "modId": "pugh_lib",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.6.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "ngv-1.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565665,
+      "fileId": 3694921
+    }
+  ],
   "forge": [
     {
       "modId": "ngv",

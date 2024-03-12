@@ -1,0 +1,14 @@
+{
+  "name": "autoswitch-8.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autoswitch",
+      "version": "8.0.1"
+    },
+    {
+      "modId": "autoswitch-api",
+      "version": "3.0.0"
+    }
+  ]
+}

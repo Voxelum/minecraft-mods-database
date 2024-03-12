@@ -1,0 +1,16 @@
+{
+  "name": "yawp-1.20.1-0.0.2.9-beta3-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "yawp",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yawp",
+      "version": "0.0.2.9-beta3"
+    }
+  ]
+}

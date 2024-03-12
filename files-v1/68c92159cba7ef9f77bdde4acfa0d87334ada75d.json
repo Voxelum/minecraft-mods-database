@@ -1,6 +1,18 @@
 {
   "name": "YungsBetterEndIsland-1.20-Fabric-2.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2BwBOmBQ",
+      "versionId": "AlE4iEnJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901350,
+      "fileId": 4769483
+    }
+  ],
   "fabric": [
     {
       "modId": "betterendisland",

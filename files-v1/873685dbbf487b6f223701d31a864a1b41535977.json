@@ -1,0 +1,20 @@
+{
+  "name": "extremesoundmuffler-3.22_fabric-1.18.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 566140,
+      "fileId": 3602434
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extremesoundmuffler",
+      "version": "3.22_fabric-1.18.1"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

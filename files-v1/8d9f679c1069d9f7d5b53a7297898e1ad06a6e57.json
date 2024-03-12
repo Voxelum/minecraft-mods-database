@@ -1,6 +1,12 @@
 {
   "name": "leaky-fabric-1.20.1-1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 856906,
+      "fileId": 4692094
+    }
+  ],
   "fabric": [
     {
       "modId": "leaky",

@@ -1,6 +1,12 @@
 {
   "name": "extragolems-19.2.6.jar.deactivation",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 233300,
+      "fileId": 4529353
+    }
+  ],
   "forge": [
     {
       "modId": "golems",

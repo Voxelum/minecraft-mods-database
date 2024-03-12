@@ -1,0 +1,42 @@
+{
+  "name": "shared-resources-1.7.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shared-resources",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-api",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-mc16",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-mc18",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-mc19",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-mc19-3",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-mc20",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "shared-resources-mc20-2",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

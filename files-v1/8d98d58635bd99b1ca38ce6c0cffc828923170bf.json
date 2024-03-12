@@ -1,0 +1,14 @@
+{
+  "name": "numeralping-1.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "numeralping",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "yet-another-config-lib",
+      "version": "2.0.0"
+    }
+  ]
+}

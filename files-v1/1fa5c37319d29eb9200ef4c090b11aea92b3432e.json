@@ -1,6 +1,18 @@
 {
   "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.126-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wnEe9KBa",
+      "versionId": "NSvU1ngo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552542,
+      "fileId": 4379510
+    }
+  ],
   "fabric": [
     {
       "modId": "vmp",

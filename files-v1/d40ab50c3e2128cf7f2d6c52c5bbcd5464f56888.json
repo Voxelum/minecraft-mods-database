@@ -1,0 +1,10 @@
+{
+  "name": "industrialrenewal-1.16.5-1.2.0-rc.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "industrialrenewal",
+      "version": "${file.jarVersion}-1.1.0"
+    }
+  ]
+}

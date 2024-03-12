@@ -1,6 +1,18 @@
 {
   "name": "create-structures-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IAnP4np7",
+      "versionId": "T6pIYgOM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871698,
+      "fileId": 4572780
+    }
+  ],
   "forge": [
     {
       "modId": "create_structures_mr",

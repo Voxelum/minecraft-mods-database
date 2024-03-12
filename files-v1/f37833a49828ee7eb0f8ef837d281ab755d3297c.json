@@ -1,0 +1,44 @@
+{
+  "name": "skyblocker-1.16.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y6DuFGwJ",
+      "versionId": "Wa84opTT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyblocker",
+      "version": "1.16.0+1.20.4"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.3.1+1.20.4"
+    },
+    {
+      "modId": "meteordevelopment_discord-ipc",
+      "version": "1.1"
+    },
+    {
+      "modId": "com_github_cbyrneee_betterinject",
+      "version": "0.1.3"
+    },
+    {
+      "modId": "com_logisticscraft_occlusionculling",
+      "version": "0.0.7-SNAPSHOT"
+    },
+    {
+      "modId": "moe_nea_neurepoparser",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.7.0.202309050840-r"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    }
+  ]
+}

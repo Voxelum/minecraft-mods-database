@@ -1,6 +1,12 @@
 {
   "name": "inmis-2.3.2-1.17.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 369254,
+      "fileId": 3452481
+    }
+  ],
   "fabric": [
     {
       "modId": "inmis",

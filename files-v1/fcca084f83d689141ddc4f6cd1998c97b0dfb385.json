@@ -1,6 +1,12 @@
 {
   "name": "blockcarpentry-1.18-0.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401658,
+      "fileId": 3812228
+    }
+  ],
   "forge": [
     {
       "modId": "blockcarpentry",

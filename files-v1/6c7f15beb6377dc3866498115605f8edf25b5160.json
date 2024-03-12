@@ -1,0 +1,16 @@
+{
+  "name": "blasting-plus-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "blasting_plus_mr",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blasting_plus_mr",
+      "version": "1.1"
+    }
+  ]
+}

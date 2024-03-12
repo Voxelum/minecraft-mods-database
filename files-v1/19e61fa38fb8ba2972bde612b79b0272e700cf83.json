@@ -1,0 +1,50 @@
+{
+  "name": "oh-my-minecraft-client-all-0.5.326+f766ee1-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ommc",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_14_4",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_15_2",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_16_5",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_17_1",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_18_2",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_19_2",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_19_3",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_19_4",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_20_1",
+      "version": "0.5.326+f766ee1-beta"
+    },
+    {
+      "modId": "ommc-1_20_2",
+      "version": "0.5.326+f766ee1-beta"
+    }
+  ]
+}

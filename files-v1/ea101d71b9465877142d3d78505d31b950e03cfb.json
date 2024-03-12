@@ -1,6 +1,18 @@
 {
   "name": "formationsnether-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cGvQGRls",
+      "versionId": "s6VOzLX6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 918840,
+      "fileId": 4809801
+    }
+  ],
   "forge": [
     {
       "modId": "formationsnether",

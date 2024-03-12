@@ -1,0 +1,16 @@
+{
+  "name": "newshieldvariants-merged-1.20.4-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "newshieldvariants",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "newshieldvariants",
+      "version": "1.2.0"
+    }
+  ]
+}

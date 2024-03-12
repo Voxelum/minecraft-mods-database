@@ -1,0 +1,26 @@
+{
+  "name": "dashloader-1.4.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dashloader",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "io_activej_activej-serializer",
+      "version": "4.2"
+    },
+    {
+      "modId": "io_activej_activej-codegen",
+      "version": "4.2"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "1.7.29"
+    },
+    {
+      "modId": "net_gudenau_lib_unsafe",
+      "version": "1.4.1"
+    }
+  ]
+}

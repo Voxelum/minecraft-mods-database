@@ -1,0 +1,14 @@
+{
+  "name": "modmenu-bta-2.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "org_apache_commons_commons-lang3",
+      "version": "3.12.0"
+    }
+  ]
+}

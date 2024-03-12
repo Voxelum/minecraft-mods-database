@@ -1,6 +1,12 @@
 {
   "name": "ctov-paladins-n-priests-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "prik3cIi",
+      "versionId": "BmAdk4bU"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_ctov_paladinsnpriestscompat",

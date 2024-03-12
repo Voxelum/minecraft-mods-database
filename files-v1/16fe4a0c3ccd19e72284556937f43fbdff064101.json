@@ -1,6 +1,12 @@
 {
   "name": "woof-4.0.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "at26R0TN",
+      "versionId": "2wYLLPvO"
+    }
+  ],
   "fabric": [
     {
       "modId": "woof",

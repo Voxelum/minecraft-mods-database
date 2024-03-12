@@ -1,0 +1,14 @@
+{
+  "name": "TES-fabric-1.20.4-1.4.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tslatentitystatus",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

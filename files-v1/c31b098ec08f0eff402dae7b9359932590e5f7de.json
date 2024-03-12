@@ -1,0 +1,26 @@
+{
+  "name": "simplepipes-all-0.7.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simple_pipes_dep_container",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "simple_pipes",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.7.2"
+    }
+  ]
+}

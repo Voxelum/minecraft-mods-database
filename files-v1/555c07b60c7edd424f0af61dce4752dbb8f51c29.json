@@ -1,0 +1,16 @@
+{
+  "name": "rare-ice-0.6.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 373774,
+      "fileId": 4594973
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rare_ice",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

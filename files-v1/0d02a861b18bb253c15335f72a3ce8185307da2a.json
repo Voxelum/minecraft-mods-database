@@ -1,6 +1,18 @@
 {
   "name": "DEUF_Refabricated-MC1.20.1-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "US6QuKdU",
+      "versionId": "pizP8FAq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858101,
+      "fileId": 4597151
+    }
+  ],
   "fabric": [
     {
       "modId": "deuf_refabricated",

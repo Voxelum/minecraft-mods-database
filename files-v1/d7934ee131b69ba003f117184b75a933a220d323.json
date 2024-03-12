@@ -1,0 +1,28 @@
+{
+  "name": "the_bumblezone_fabric-5.1.2+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 363949,
+      "fileId": 3810556
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the_bumblezone",
+      "version": "5.1.2+1.18.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.3"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.3.0"
+    }
+  ]
+}

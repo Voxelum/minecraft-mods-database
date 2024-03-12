@@ -1,0 +1,22 @@
+{
+  "name": "rhino-1.7.13-build.24.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 416294,
+      "fileId": 3306904
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "1.7.13-build.24"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "1.7.13-build.23"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bundlesplus-0.1.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bundlesplus",
+      "version": "0.1.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bundlesplus",
+      "version": "0.1.8"
+    }
+  ]
+}

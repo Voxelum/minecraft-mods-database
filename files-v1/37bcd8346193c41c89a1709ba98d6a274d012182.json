@@ -1,0 +1,14 @@
+{
+  "name": "crystalhollowsmap-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crystalhollowsmap",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "renderer",
+      "version": "1.0"
+    }
+  ]
+}

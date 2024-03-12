@@ -1,0 +1,26 @@
+{
+  "name": "fastpaintings-1.20-1.2.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z3TzcquW",
+      "versionId": "lX081UbH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 883287,
+      "fileId": 5093298
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastpaintings",
+      "version": "1.20-1.2.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

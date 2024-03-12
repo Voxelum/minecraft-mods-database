@@ -1,6 +1,18 @@
 {
   "name": "MTLib-3.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vtzPfzFT",
+      "versionId": "GREHx7dy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 253211,
+      "fileId": 2684561
+    }
+  ],
   "forge": [
     {
       "modId": "mtlib",

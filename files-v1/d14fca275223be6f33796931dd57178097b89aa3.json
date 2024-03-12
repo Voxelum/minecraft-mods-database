@@ -1,6 +1,12 @@
 {
   "name": "camera-1.16.5-1.0.14.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 289310,
+      "fileId": 3381163
+    }
+  ],
   "forge": [
     {
       "modId": "camera",

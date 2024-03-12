@@ -1,0 +1,20 @@
+{
+  "name": "[1.18.2-fabric]-Epic-Knights-8.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 509041,
+      "fileId": 4695782
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magistuarmory",
+      "version": "8.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

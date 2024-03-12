@@ -1,0 +1,16 @@
+{
+  "name": "DragonSurvival_DragonEditor-1.16.5-0.10.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 420799,
+      "fileId": 3975699
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dragonsurvival",
+      "version": "${version}"
+    }
+  ]
+}

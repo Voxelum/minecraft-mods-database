@@ -1,0 +1,16 @@
+{
+  "name": "A1-FoamFix-1.7.10-universal-1.0.0-beta3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jupr7Bf5",
+      "versionId": "IvwO2RkE"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "cullleaves-2.3.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 423254,
+      "fileId": 3821203
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "2.3.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dragonfight-fabric-1.19.2-2.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dragonfight",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dragonfight",
+      "version": "1.19.2-2.7"
+    }
+  ]
+}

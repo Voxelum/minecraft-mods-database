@@ -1,0 +1,16 @@
+{
+  "name": "CosmeticArmorReworked-1.7.10-v7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 237307,
+      "fileId": 3763564
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cosmeticarmorreworked",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

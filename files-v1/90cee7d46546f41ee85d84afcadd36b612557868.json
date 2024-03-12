@@ -1,6 +1,12 @@
 {
   "name": "EchoChest-v8.0.0-1.20.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m3pkVbY8",
+      "versionId": "ppi4nxw2"
+    }
+  ],
   "fabric": [
     {
       "modId": "echochest",

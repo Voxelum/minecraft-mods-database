@@ -1,0 +1,10 @@
+{
+  "name": "wurst-client-mod-fabric-1_20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wurst",
+      "version": "v7.35.2-MC1.20"
+    }
+  ]
+}

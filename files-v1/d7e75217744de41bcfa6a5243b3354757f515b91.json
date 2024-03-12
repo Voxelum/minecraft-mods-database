@@ -1,0 +1,14 @@
+{
+  "name": "Glyphix-0.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "glyphix",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.9.0"
+    }
+  ]
+}

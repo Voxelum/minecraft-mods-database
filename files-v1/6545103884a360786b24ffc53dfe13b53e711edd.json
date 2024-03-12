@@ -1,0 +1,20 @@
+{
+  "name": "promenade-2.6.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GuE5FpvB",
+      "versionId": "6tKTgY0S"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "promenade",
+      "version": "2.6.3"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "2.1.0"
+    }
+  ]
+}

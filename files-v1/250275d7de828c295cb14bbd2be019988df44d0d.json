@@ -1,0 +1,36 @@
+{
+  "name": "simplepipes-all-0.10.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ls90k6B8",
+      "versionId": "VULPxkIF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple_pipes_dep_container",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "simple_pipes",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.13.0"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libmultipart_compat",
+      "version": "0.10.0"
+    }
+  ]
+}

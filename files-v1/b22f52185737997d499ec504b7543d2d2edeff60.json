@@ -1,0 +1,16 @@
+{
+  "name": "cca-1.18-1.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 514226,
+      "fileId": 4008284
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cca",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

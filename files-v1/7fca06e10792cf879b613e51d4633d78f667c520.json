@@ -1,0 +1,10 @@
+{
+  "name": "T6-AutoAttack_Fabric-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autoattack",
+      "version": "1.2.0"
+    }
+  ]
+}

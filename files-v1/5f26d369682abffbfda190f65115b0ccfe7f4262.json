@@ -1,6 +1,12 @@
 {
   "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.b.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 688768,
+      "fileId": 4571833
+    }
+  ],
   "forge": [
     {
       "modId": "create_enchantment_industry",

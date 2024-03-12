@@ -1,0 +1,22 @@
+{
+  "name": "libblockattributes-all-0.10.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "libblockattributes",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.10.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "fallingleaves-1.15.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WhbRG4iK",
+      "versionId": "8qK6ANpJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417510,
+      "fileId": 4652682
+    }
+  ],
   "fabric": [
     {
       "modId": "fallingleaves",

@@ -1,6 +1,12 @@
 {
   "name": "NoChatReports-FABRIC-1.19.3-v2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qQyHxfxd",
+      "versionId": "uVt4LKvF"
+    }
+  ],
   "fabric": [
     {
       "modId": "nochatreports",

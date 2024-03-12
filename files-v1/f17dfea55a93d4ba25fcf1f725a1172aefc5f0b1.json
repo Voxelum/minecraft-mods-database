@@ -1,0 +1,14 @@
+{
+  "name": "friendsandfoes-flowerymooblooms-fabric-mc1.19.2-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "flowerymooblooms",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

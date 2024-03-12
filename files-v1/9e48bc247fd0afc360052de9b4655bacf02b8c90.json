@@ -1,6 +1,18 @@
 {
   "name": "MoreArmorTrims-fabric-1.20.X-v1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FGNYBAJ6",
+      "versionId": "b6TRqm6o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876103,
+      "fileId": 4734503
+    }
+  ],
   "fabric": [
     {
       "modId": "more_armor_trims",

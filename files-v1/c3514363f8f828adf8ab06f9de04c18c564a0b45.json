@@ -1,6 +1,18 @@
 {
   "name": "right-click-harvest-3.1.0+1.19-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cnejf5xM",
+      "versionId": "SC8X8AQr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 452834,
+      "fileId": 4318748
+    }
+  ],
   "fabric": [
     {
       "modId": "rightclickharvest",

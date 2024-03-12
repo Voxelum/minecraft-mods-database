@@ -1,0 +1,42 @@
+{
+  "name": "MoreCommands-3.10.1_1.16.4-22w16b.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "morecommands",
+      "version": "3.10.1"
+    },
+    {
+      "modId": "morecommands-api",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "morecommands-compat16",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "morecommands-compat17",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "morecommands-compat18",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "morecommands-compat182",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "morecommands-compat19",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "com_github_vatuu_discord-rpc",
+      "version": "1.6.2"
+    }
+  ]
+}

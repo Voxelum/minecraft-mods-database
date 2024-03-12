@@ -1,0 +1,22 @@
+{
+  "name": "create_jetpack-forge-1.6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "Cg8VpdEO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 655608,
+      "fileId": 4957752
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": "1.6.0"
+    }
+  ]
+}

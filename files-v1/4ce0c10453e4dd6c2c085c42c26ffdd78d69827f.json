@@ -1,0 +1,10 @@
+{
+  "name": "rare-ice-0.5.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rare_ice",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

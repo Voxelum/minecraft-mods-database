@@ -1,0 +1,16 @@
+{
+  "name": "JustBetterRecipes-1.0.3 (1.20+).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "jbr",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jbr",
+      "version": "1.0.3"
+    }
+  ]
+}

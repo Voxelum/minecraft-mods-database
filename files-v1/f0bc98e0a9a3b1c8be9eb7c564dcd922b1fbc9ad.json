@@ -1,0 +1,10 @@
+{
+  "name": "theoneprobe-1.14-1.4.37.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "theoneprobe",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

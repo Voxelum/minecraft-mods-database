@@ -1,6 +1,18 @@
 {
   "name": "tempad-forge-1.19.2-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gKNwt7xu",
+      "versionId": "lH6QeJfQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514923,
+      "fileId": 4586186
+    }
+  ],
   "forge": [
     {
       "modId": "tempad",

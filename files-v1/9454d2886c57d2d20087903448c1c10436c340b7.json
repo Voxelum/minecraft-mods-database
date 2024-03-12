@@ -1,0 +1,10 @@
+{
+  "name": "spider.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spiderman_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

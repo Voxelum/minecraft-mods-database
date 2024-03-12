@@ -1,6 +1,12 @@
 {
   "name": "Upgrade-Aquatic-1.15.2-1.7.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 326895,
+      "fileId": 2997601
+    }
+  ],
   "forge": [
     {
       "modId": "upgrade_aquatic",

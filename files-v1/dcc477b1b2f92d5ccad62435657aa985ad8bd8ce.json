@@ -1,0 +1,20 @@
+{
+  "name": "c2me-fabric-mc1.18.1-0.2.0+alpha.6.55-all.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 533097,
+      "fileId": 3654495
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "c2me",
+      "version": "0.2.0+alpha.6.55"
+    },
+    {
+      "modId": "com_ishland_c2me_libs_",
+      "version": "0.2.0+alpha.6.55"
+    }
+  ]
+}

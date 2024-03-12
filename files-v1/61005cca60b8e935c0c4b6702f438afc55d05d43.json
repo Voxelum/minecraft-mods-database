@@ -1,0 +1,24 @@
+{
+  "name": "rayon-fabric-1.7.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ttpzz4FC",
+      "versionId": "GsT8zJz8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rayon",
+      "version": "1.7.2+1.20.1"
+    },
+    {
+      "modId": "toolbox",
+      "version": "1.4.0+1.20.1"
+    },
+    {
+      "modId": "transporter",
+      "version": "1.4.0+1.20.1"
+    }
+  ]
+}

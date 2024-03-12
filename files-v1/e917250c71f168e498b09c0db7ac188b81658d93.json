@@ -1,0 +1,14 @@
+{
+  "name": "[优化-登录]authme-mc1.18-2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

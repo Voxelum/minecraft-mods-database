@@ -1,6 +1,18 @@
 {
   "name": "mcw-fences-1.0.7-mc1.20.1fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GmwLse2I",
+      "versionId": "CUHvTrx4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 453925,
+      "fileId": 4605516
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwfences",

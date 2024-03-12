@@ -1,0 +1,22 @@
+{
+  "name": "origins-beehive-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RlHEyS7T",
+      "versionId": "3au6EV0h"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_origins_beehive",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_origins_beehive",
+      "version": "1.1"
+    }
+  ]
+}

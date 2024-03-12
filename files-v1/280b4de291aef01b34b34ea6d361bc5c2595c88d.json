@@ -1,0 +1,20 @@
+{
+  "name": "createutilities-0.2.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PRHeWeBs",
+      "versionId": "cP3QsxXs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createutilities",
+      "version": "0.2.0+1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

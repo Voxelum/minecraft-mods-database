@@ -1,6 +1,12 @@
 {
   "name": "kube-utils-forge-0.1.4+mc1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 678815,
+      "fileId": 4374266
+    }
+  ],
   "forge": [
     {
       "modId": "kubeutils",

@@ -1,0 +1,22 @@
+{
+  "name": "Pehkui-3.7.11+1.19.4-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "6W8BENkb"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.7.11+1.19.4-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "connectivity-fabric-1.18.2-3.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 470193,
+      "fileId": 3845373
+    }
+  ],
+  "forge": [
+    {
+      "modId": "connectivity",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "connectivity",
+      "version": "1.18.2-3.3"
+    }
+  ]
+}

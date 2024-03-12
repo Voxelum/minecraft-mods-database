@@ -1,0 +1,16 @@
+{
+  "name": "difficultylock-1.19.2-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "difficultylock",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "difficultylock",
+      "version": "3.1"
+    }
+  ]
+}

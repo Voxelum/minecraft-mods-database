@@ -1,0 +1,16 @@
+{
+  "name": "petnames-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "petnames",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "petnames",
+      "version": "3.3"
+    }
+  ]
+}

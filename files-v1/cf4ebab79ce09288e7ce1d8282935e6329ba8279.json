@@ -1,0 +1,20 @@
+{
+  "name": "simpleshulkerpreview-2.4.1-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MLwpdyw5",
+      "versionId": "lU5JjfJH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simpleshulkerpreview",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "expandeddelight-0.3.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e9V6wFcR",
+      "versionId": "Corz4OBb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 620770,
+      "fileId": 4669746
+    }
+  ],
   "fabric": [
     {
       "modId": "expandeddelight",

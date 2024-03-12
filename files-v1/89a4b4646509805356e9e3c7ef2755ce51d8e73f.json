@@ -1,6 +1,18 @@
 {
   "name": "no-resource-pack-warnings-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6xKUDQcB",
+      "versionId": "5cax8rZV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627242,
+      "fileId": 4459622
+    }
+  ],
   "fabric": [
     {
       "modId": "no-resource-pack-warnings",

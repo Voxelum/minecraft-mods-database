@@ -1,6 +1,12 @@
 {
   "name": "lightfallclient-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523230,
+      "fileId": 3449083
+    }
+  ],
   "forge": [
     {
       "modId": "lightfallclient",

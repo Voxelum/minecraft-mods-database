@@ -1,6 +1,12 @@
 {
   "name": "camerautils-1.19.2-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rrwQMaWQ",
+      "versionId": "efnXM4hB"
+    }
+  ],
   "fabric": [
     {
       "modId": "camerautils",

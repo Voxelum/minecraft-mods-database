@@ -1,0 +1,10 @@
+{
+  "name": "kubejs_botania-1.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kubejs_botania",
+      "version": "1.1"
+    }
+  ]
+}

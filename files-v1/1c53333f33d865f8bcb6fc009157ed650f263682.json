@@ -1,6 +1,12 @@
 {
   "name": "canary-mc1.18.2-0.1.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 665658,
+      "fileId": 4537624
+    }
+  ],
   "forge": [
     {
       "modId": "canary",

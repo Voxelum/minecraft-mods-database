@@ -1,0 +1,14 @@
+{
+  "name": "intricarpet-mc1.20.1-v2.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "intricarpet",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

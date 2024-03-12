@@ -1,0 +1,10 @@
+{
+  "name": "ThaumicTinkerer_3.0_1.8.9_170.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "thaumictinkerer",
+      "version": "${version}"
+    }
+  ]
+}

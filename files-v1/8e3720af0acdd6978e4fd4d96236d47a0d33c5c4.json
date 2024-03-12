@@ -1,6 +1,18 @@
 {
   "name": "AmbientEnvironment-5.0.0.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DyTvM1dv",
+      "versionId": "sq5hHc4R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320163,
+      "fileId": 3348482
+    }
+  ],
   "forge": [
     {
       "modId": "ambientenvironment",

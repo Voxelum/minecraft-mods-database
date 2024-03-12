@@ -1,6 +1,12 @@
 {
   "name": "baritone-api-forge-1.10.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621192,
+      "fileId": 4586118
+    }
+  ],
   "forge": [
     {
       "modId": "baritoe",

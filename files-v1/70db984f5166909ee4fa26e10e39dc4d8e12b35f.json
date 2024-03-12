@@ -1,0 +1,22 @@
+{
+  "name": "[FORGE] 1.20.1 DECO v2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 592250,
+      "fileId": 4791606
+    }
+  ],
+  "forge": [
+    {
+      "modId": "deco",
+      "version": "1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deco",
+      "version": "1.19.2"
+    }
+  ]
+}

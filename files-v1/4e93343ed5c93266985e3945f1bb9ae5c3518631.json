@@ -1,0 +1,24 @@
+{
+  "name": "extendedflywheels-1.19.2-0.5.0.g-1.2.5.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 750818,
+      "fileId": 4206841
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedflywheels",
+      "version": "1.19.2-0.5.0.g-1.2.5.1"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.19"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "clutter-1.20-0.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZAmykow",
+      "versionId": "O3dkbuDi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 826060,
+      "fileId": 4701775
+    }
+  ],
   "fabric": [
     {
       "modId": "clutter",

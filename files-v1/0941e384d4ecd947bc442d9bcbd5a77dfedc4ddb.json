@@ -1,6 +1,12 @@
 {
   "name": "CNB-1.19-1.5.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 414401,
+      "fileId": 4556106
+    }
+  ],
   "forge": [
     {
       "modId": "cnb",

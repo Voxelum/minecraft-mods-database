@@ -1,0 +1,14 @@
+{
+  "name": "StackDeobfuscator-1.3.2+fabric.4bca927.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stackdeobfuscator",
+      "version": "1.3.2+fabric.4bca927"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.3.0"
+    }
+  ]
+}

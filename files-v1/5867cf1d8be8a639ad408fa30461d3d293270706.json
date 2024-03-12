@@ -1,6 +1,18 @@
 {
   "name": "dataattributes-1.4.6+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wFyCClLQ",
+      "versionId": "jPqXXLZe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514734,
+      "fileId": 4580191
+    }
+  ],
   "fabric": [
     {
       "modId": "dataattributes",

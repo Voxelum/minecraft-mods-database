@@ -1,0 +1,54 @@
+{
+  "name": "libjf-3.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "libjf",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-base",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-config-commands-v1",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-config-core-v1",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-config-legacy-shim",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-config-reflect-v1",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-config-ui-tiny-v1",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-data-manipulation-v0",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-data-v0",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-translate-v1",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-unsafe-v0",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "libjf-web-v0",
+      "version": "3.2.1"
+    }
+  ]
+}

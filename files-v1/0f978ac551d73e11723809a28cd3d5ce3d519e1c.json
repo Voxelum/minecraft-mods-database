@@ -1,0 +1,52 @@
+{
+  "name": "cinderscapes-4.0.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QC4wcUXZ",
+      "versionId": "J1toYNYJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cinderscapes",
+      "version": "4.0.10"
+    },
+    {
+      "modId": "cinderscapes-client",
+      "version": "4.0.10"
+    },
+    {
+      "modId": "cinderscapes-common",
+      "version": "4.0.10"
+    },
+    {
+      "modId": "cinderscapes-worldgen",
+      "version": "4.0.10"
+    },
+    {
+      "modId": "terraform-biome-remapper-api-v1",
+      "version": "7.0.3"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "7.0.3"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "7.0.3"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "biolith",
+      "version": "1.0.0-beta.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "fabric-seasons-terralith-2.3.7-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D53qveoj",
+      "versionId": "MJ2OF7eg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 839881,
+      "fileId": 4496995
+    }
+  ],
   "fabric": [
     {
       "modId": "seasonsterralithcompat",

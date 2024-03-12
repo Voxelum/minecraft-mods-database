@@ -1,6 +1,12 @@
 {
   "name": "IdleTweaks-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vnjlu1sC",
+      "versionId": "C2mcCSWM"
+    }
+  ],
   "fabric": [
     {
       "modId": "idletweaks",

@@ -1,6 +1,18 @@
 {
   "name": "ScalableCatsForce-2.13.10-build-12-with-library.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zr0QMQMo",
+      "versionId": "UC4Zw5uc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320926,
+      "fileId": 4059979
+    }
+  ],
   "forge": [
     {
       "modId": "ScalableCatsForce-2.13.10-build-12-with-library",

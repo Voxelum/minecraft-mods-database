@@ -1,0 +1,10 @@
+{
+  "name": "rsec-1.0-1.19.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rsec",
+      "version": "1.0-1.19.2-fabric"
+    }
+  ]
+}

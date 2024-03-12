@@ -1,0 +1,24 @@
+{
+  "name": "viafabricplus-2.10.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rIC2XJV4",
+      "versionId": "qkbJh4bl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabricplus",
+      "version": "2.10.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "qraftys-end-villages-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NFlNaUBA",
+      "versionId": "M8PetBVr"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_qraftys_endvillages",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_qraftys_endvillages",
+      "version": "1"
+    }
+  ]
+}

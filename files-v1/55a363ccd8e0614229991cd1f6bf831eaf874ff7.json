@@ -1,6 +1,18 @@
 {
   "name": "Morph-o-Tool-1.2-21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rtbzFq0N",
+      "versionId": "UOq3HezC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245287,
+      "fileId": 2658176
+    }
+  ],
   "forge": [
     {
       "modId": "morphtool",

@@ -1,0 +1,22 @@
+{
+  "name": "spoornpacks-4.3.1-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spoornpacks",
+      "version": "4.3.1-1.19"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.13.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.13.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.13.1"
+    }
+  ]
+}

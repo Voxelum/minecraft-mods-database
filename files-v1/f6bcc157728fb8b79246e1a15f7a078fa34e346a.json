@@ -1,6 +1,12 @@
 {
   "name": "lovely_snails-1.1.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hBVVhStr",
+      "versionId": "GKMTxDBr"
+    }
+  ],
   "fabric": [
     {
       "modId": "lovely_snails",

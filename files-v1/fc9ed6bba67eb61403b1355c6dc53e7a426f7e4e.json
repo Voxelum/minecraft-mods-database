@@ -1,0 +1,10 @@
+{
+  "name": "spidercaves-1.20-2.0.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spider_caves",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "PresenceFootsteps-1.8.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 334259,
+      "fileId": 4475028
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "presencefootsteps",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.14.0"
+    }
+  ]
+}

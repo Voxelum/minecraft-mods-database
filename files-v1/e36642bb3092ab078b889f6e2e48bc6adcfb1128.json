@@ -1,0 +1,16 @@
+{
+  "name": "screenscale-fabric-1.18.2-2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "screenscale",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenscale",
+      "version": "1.18.2-2.0"
+    }
+  ]
+}

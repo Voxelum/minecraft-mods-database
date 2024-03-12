@@ -1,0 +1,28 @@
+{
+  "name": "charmonium-fabric-1.19-4.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bpii4Xsa",
+      "versionId": "5R346bKJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmonium",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "RoughlyEnoughItems-5.12.235.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 3328111
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "5.12.235"
+    },
+    {
+      "modId": "roughlyenoughitems-api",
+      "version": "5.12.235"
+    },
+    {
+      "modId": "roughlyenoughitems-default-plugin",
+      "version": "5.12.235"
+    },
+    {
+      "modId": "roughlyenoughitems-runtime",
+      "version": "5.12.235"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.0+daa38b3d7d"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.5.47"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "methane-3.2.0.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "methane",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "libmcdev-fabric",
+      "version": "1.1.2"
+    }
+  ]
+}

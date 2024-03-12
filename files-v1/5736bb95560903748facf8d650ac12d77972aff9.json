@@ -1,6 +1,18 @@
 {
   "name": "buzzier_bees-1.19.2-5.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b7vOFSIp",
+      "versionId": "d9WQBnra"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 355458,
+      "fileId": 4776328
+    }
+  ],
   "forge": [
     {
       "modId": "buzzier_bees",

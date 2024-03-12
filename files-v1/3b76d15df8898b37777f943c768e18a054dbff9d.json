@@ -1,0 +1,16 @@
+{
+  "name": "IMBlocker_4.0.5+1.19.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.5"
+    }
+  ]
+}

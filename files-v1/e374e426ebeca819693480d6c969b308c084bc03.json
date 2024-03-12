@@ -1,0 +1,28 @@
+{
+  "name": "dcintegration-fabric-3.0.5-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rbJ7eS5V",
+      "versionId": "QwJ1mIOo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dcintegration-fabric",
+      "version": "3.0.5"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.2+1.20.1"
+    },
+    {
+      "modId": "de_erdbeerbaerlp_dcintegration_common",
+      "version": "3.0.5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

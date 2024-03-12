@@ -1,6 +1,18 @@
 {
   "name": "astralvinery-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rBDJ4pR9",
+      "versionId": "IxKkhqMU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835485,
+      "fileId": 4447979
+    }
+  ],
   "fabric": [
     {
       "modId": "astralvinery",

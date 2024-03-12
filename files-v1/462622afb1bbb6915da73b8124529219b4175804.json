@@ -1,0 +1,14 @@
+{
+  "name": "visualoverhaul-4.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "visualoverhaul",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.0"
+    }
+  ]
+}

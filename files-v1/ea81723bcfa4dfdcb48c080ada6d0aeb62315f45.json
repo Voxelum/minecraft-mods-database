@@ -1,0 +1,32 @@
+{
+  "name": "createaddition-fabric+1.20.1-1.2.1b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kU1G12Nn",
+      "versionId": "Emg6aiZC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 439890,
+      "fileId": 5133266
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createaddition",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createaddition",
+      "version": "1.2.1b"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

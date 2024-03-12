@@ -1,6 +1,18 @@
 {
   "name": "NekosEnchantedBooks-1.18.2-1.8.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VZWuyRVr",
+      "versionId": "66LtJeDx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 441114,
+      "fileId": 4018073
+    }
+  ],
   "forge": [
     {
       "modId": "nebs",

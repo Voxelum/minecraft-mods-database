@@ -1,0 +1,20 @@
+{
+  "name": "ShutUpMojang-1.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbR6LJxg",
+      "versionId": "4XFX2e3f"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shutupmojang",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

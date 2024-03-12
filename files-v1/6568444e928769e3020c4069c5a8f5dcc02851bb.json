@@ -1,0 +1,24 @@
+{
+  "name": "WilderWild-2.3.1-Fabric+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "9A1C2Du4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "2.3.1-Fabric+1.20.4"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.6.1-Fabric+1.20.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

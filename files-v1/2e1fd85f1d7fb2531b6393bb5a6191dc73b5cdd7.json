@@ -1,0 +1,22 @@
+{
+  "name": "Dragon-Katana-Forge-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "54Oif28t",
+      "versionId": "CSzCdy9y"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dragon_katana",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snoweys_tools",
+      "version": "1.0.0"
+    }
+  ]
+}

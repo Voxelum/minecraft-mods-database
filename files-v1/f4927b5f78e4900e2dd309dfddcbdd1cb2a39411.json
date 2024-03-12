@@ -1,0 +1,22 @@
+{
+  "name": "seaborgium.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ePiELTnX",
+      "versionId": "GTaeJWHq"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "seaborgium",
+      "version": "0.1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seaborgium",
+      "version": "0.1.3"
+    }
+  ]
+}

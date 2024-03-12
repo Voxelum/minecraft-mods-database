@@ -1,0 +1,20 @@
+{
+  "name": "enchantmentcompat-1.0.0+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmxvfgSx",
+      "versionId": "RhRK0hSL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantmentcompat",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "roundalib",
+      "version": "0.1.8"
+    }
+  ]
+}

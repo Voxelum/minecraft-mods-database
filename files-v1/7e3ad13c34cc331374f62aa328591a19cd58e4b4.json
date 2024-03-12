@@ -1,6 +1,12 @@
 {
   "name": "maccraft-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 613117,
+      "fileId": 3755090
+    }
+  ],
   "forge": [
     {
       "modId": "maccraft",

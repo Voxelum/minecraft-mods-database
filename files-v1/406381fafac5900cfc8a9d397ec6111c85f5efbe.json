@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.12.2-4.9.4.120-compat.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229050,
+      "fileId": 2745546
+    }
+  ],
   "forge": [
     {
       "modId": "projectred-compat",

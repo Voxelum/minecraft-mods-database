@@ -1,6 +1,18 @@
 {
   "name": "CameraOverhaul-1.4.0-fabric-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m0oRwcZx",
+      "versionId": "fzCKxnmb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423602,
+      "fileId": 4271111
+    }
+  ],
   "fabric": [
     {
       "modId": "cameraoverhaul",

@@ -1,6 +1,18 @@
 {
   "name": "sliceanddice-forge-2.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GmjmRQ0A",
+      "versionId": "IlpHtI0z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659674,
+      "fileId": 4741009
+    }
+  ],
   "forge": [
     {
       "modId": "sliceanddice",

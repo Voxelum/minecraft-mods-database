@@ -1,6 +1,18 @@
 {
   "name": "upgradednetherite_items-1.18.2-3.3.0.0-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x2OcOwHz",
+      "versionId": "ckntQfKL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566866,
+      "fileId": 4410976
+    }
+  ],
   "forge": [
     {
       "modId": "upgradednetherite_items",

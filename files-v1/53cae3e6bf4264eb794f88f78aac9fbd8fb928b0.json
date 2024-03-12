@@ -1,6 +1,12 @@
 {
   "name": "zetter-1.19.2-0.21.3-rc.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZmLgjf6f",
+      "versionId": "DQmoQEed"
+    }
+  ],
   "forge": [
     {
       "modId": "zetter",

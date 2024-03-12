@@ -1,0 +1,10 @@
+{
+  "name": "redpanda-fabric-1.19.2-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ydms_redpanda",
+      "version": "1.0.3"
+    }
+  ]
+}

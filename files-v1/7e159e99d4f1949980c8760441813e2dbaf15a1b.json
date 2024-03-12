@@ -1,0 +1,66 @@
+{
+  "name": "MasaGadget-all-3.2.334+08c8f70-stable.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SFO4Ca80",
+      "versionId": "R1XupIBR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525510,
+      "fileId": 4968051
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "masa_gadget_mod",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_14_4",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_15_2",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_16_5",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_17_1",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_18_2",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_2",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_3",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_4",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_20_1",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_20_2",
+      "version": "3.2.334+08c8f70-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_20_4",
+      "version": "3.2.334+08c8f70-stable"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Gamma-Utils-1.3.1-mc1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gammautils",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.26"
+    }
+  ]
+}

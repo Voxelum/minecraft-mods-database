@@ -1,0 +1,10 @@
+{
+  "name": "create_so-1.5+forge-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_so",
+      "version": "1.5+forge-1.19.2"
+    }
+  ]
+}

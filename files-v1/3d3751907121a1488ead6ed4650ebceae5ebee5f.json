@@ -1,6 +1,12 @@
 {
   "name": "myrtrees-forge-1.2.0-build.32.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 546151,
+      "fileId": 4371268
+    }
+  ],
   "forge": [
     {
       "modId": "myrtrees",

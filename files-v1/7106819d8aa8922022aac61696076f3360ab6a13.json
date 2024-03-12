@@ -1,0 +1,20 @@
+{
+  "name": "bitsandchisels-2.6.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q8MC5tW2",
+      "versionId": "c7cGnh2J"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bitsandchisels",
+      "version": "2.6.13"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.2.3"
+    }
+  ]
+}

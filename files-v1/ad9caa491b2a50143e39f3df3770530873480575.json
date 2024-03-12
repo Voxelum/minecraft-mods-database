@@ -1,0 +1,10 @@
+{
+  "name": "Harvest-forge-1.15.1-1.2.11-24.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "harvest",
+      "version": "${version}"
+    }
+  ]
+}

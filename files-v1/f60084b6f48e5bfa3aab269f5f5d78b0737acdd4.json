@@ -1,0 +1,10 @@
+{
+  "name": "TiCC-1.18.2-3.3.0-all.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ticc",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

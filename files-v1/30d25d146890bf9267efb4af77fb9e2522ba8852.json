@@ -1,0 +1,38 @@
+{
+  "name": "spectrum-1.5.7-1.18.2-magic.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spectrum",
+      "version": "1.5.7-1.18.2-magic"
+    },
+    {
+      "modId": "bannerpp",
+      "version": "2.0.6-teb.1+mc.1.18.2"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.0.0+1.18.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "programmerartinjector",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "IMBlocker.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.0-alpha20230706"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.0-alpha20230706"
+    }
+  ]
+}

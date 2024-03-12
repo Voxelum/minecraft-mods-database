@@ -1,0 +1,22 @@
+{
+  "name": "forge medievalend-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 976817,
+      "fileId": 5120500
+    }
+  ],
+  "forge": [
+    {
+      "modId": "medievalend",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medievalend",
+      "version": "1.0.0"
+    }
+  ]
+}

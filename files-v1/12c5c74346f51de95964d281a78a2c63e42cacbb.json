@@ -1,0 +1,16 @@
+{
+  "name": "lightmanscurrency_fabric-1.20.1-1.0.2.1a.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lightmanscurrency",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightmanscurrency",
+      "version": "1.20.1-1.0.2.1a"
+    }
+  ]
+}

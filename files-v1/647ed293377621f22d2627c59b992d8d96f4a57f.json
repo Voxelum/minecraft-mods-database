@@ -1,0 +1,16 @@
+{
+  "name": "cursery-fabric-1.18.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cursery",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cursery",
+      "version": "1.18.2-3.0"
+    }
+  ]
+}

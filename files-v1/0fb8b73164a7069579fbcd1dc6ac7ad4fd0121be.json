@@ -1,6 +1,18 @@
 {
   "name": "woodworks-1.19.2-2.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rv1sovni",
+      "versionId": "prgM2znB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 543610,
+      "fileId": 4776123
+    }
+  ],
   "forge": [
     {
       "modId": "woodworks",

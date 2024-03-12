@@ -1,6 +1,12 @@
 {
   "name": "sodium-fabric-mc1.20.1-0.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AANobbMI",
+      "versionId": "OkwCNtFH"
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium",

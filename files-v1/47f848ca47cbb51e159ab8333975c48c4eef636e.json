@@ -1,0 +1,18 @@
+{
+  "name": "minecells-1_6_2-boss_buff_build_3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "1.6.2-boss_buff.build.3"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2-pre.14+1.20"
+    }
+  ]
+}

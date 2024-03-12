@@ -1,0 +1,10 @@
+{
+  "name": "Delta-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "poketch",
+      "version": "1.0-SNAPSHOT"
+    }
+  ]
+}

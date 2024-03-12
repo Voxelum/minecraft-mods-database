@@ -1,0 +1,16 @@
+{
+  "name": "MoreCosmetics-Fabric-1.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 596730,
+      "fileId": 4619667
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morecosmetics",
+      "version": "${version}"
+    }
+  ]
+}

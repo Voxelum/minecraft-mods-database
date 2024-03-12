@@ -1,0 +1,22 @@
+{
+  "name": "immersive-portals-2.3.5-mc1.19.2-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 355440,
+      "fileId": 4477626
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersive_portals",
+      "version": "2.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "${version}"
+    }
+  ]
+}

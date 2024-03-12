@@ -1,0 +1,44 @@
+{
+  "name": "mythicmetals-0.18.1+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "StDQFDUz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.18.1+1.19.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.10.3+1.19.4"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.2.2+1.19.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

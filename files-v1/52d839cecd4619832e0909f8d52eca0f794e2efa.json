@@ -1,0 +1,24 @@
+{
+  "name": "NetherCoords v2.0.0 for 1.19-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 670779,
+      "fileId": 4389846
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nether-coords",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.4.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Beaver! 1.5.0 forge 1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1A6aMWPk",
+      "versionId": "R6Uko5kq"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "beaver",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beaver",
+      "version": "1.4.9"
+    }
+  ]
+}

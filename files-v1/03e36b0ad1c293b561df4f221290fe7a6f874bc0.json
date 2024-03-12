@@ -1,6 +1,12 @@
 {
   "name": "GraveStone.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 238551,
+      "fileId": 4678861
+    }
+  ],
   "forge": [
     {
       "modId": "gravestone",

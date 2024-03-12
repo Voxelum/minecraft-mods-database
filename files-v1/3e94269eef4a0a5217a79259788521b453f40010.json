@@ -1,6 +1,12 @@
 {
   "name": "fabric-language-kotlin-1.9.6+kotlin.1.8.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ha28R6CL",
+      "versionId": "5J7lguFF"
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-language-kotlin",

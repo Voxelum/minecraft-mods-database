@@ -1,0 +1,28 @@
+{
+  "name": "TacoCraft-1.7.2+1.18.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 373093,
+      "fileId": 3580300
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tacocraft",
+      "version": "1.7.2-1.18.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.2.0+1.18"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "structurized",
+      "version": "1.4.0+1.18"
+    }
+  ]
+}

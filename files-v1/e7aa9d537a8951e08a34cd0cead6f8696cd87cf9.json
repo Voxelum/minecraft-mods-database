@@ -1,0 +1,10 @@
+{
+  "name": "NoMoreRecipeConflict-0.12(1.12.2).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "recipehandler",
+      "version": "0.12"
+    }
+  ]
+}

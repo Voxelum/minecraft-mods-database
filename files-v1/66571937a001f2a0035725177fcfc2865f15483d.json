@@ -1,0 +1,14 @@
+{
+  "name": "showyourself-1.20-1.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "showyourself",
+      "version": "1.20-1.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

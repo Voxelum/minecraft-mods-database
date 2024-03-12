@@ -1,0 +1,38 @@
+{
+  "name": "switchy-2.9.0+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "switchy",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-core",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-client",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-ui",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-cardinal",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-cardinal-ui",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-compat",
+      "version": "2.9.0+1.20.4"
+    },
+    {
+      "modId": "switchy-compat-ui",
+      "version": "2.9.0+1.20.4"
+    }
+  ]
+}

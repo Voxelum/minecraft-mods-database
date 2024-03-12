@@ -1,0 +1,14 @@
+{
+  "name": "oldregen-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "oldregen",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "tf_ssf_sfort_ini_sf-ini",
+      "version": "1"
+    }
+  ]
+}

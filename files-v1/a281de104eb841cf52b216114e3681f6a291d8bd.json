@@ -1,0 +1,16 @@
+{
+  "name": "TiCC-1.18.2-3.3.0-all+1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 714602,
+      "fileId": 4134816
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ticc",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

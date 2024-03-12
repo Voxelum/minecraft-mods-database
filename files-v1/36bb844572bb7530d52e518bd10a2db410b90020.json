@@ -1,0 +1,14 @@
+{
+  "name": "lilwings-fabric-1.19.2-1.2.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lilwings",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "milk",
+      "version": "1.0.48"
+    }
+  ]
+}

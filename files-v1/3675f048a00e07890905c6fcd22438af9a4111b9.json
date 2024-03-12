@@ -1,0 +1,20 @@
+{
+  "name": "provihealth-1.2.2+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4wDQsby8",
+      "versionId": "P6nUeTHv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "provihealth",
+      "version": "1.2.2+1.20.2"
+    },
+    {
+      "modId": "lilylib",
+      "version": "1.0.0+1.20"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ctov-jellyfishing-compat-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U5x7Xtxw",
+      "versionId": "ycSF88dh"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ctov_jellyfishingcompat",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ctov_jellyfishingcompat",
+      "version": "1.0"
+    }
+  ]
+}

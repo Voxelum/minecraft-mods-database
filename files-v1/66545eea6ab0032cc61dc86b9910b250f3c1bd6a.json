@@ -1,6 +1,18 @@
 {
   "name": "Tesla-1.12.2-1.0.63.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nctjd6hv",
+      "versionId": "25OZGIE2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 244651,
+      "fileId": 2487959
+    }
+  ],
   "forge": [
     {
       "modId": "tesla",

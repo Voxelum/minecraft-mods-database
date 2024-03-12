@@ -1,6 +1,18 @@
 {
   "name": "ImprovableSkills.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9fT7HUaI",
+      "versionId": "MyFQxCRW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 252902,
+      "fileId": 4617687
+    }
+  ],
   "forge": [
     {
       "modId": "improvableskills",

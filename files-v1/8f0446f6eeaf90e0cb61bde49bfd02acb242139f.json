@@ -1,6 +1,12 @@
 {
   "name": "CraftTweaker-1.10.2-3.1.0-legacy.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 239197,
+      "fileId": 2838723
+    }
+  ],
   "forge": [
     {
       "modId": "ctgui",

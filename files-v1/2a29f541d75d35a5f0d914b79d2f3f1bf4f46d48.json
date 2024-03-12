@@ -1,0 +1,14 @@
+{
+  "name": "better-wandering-trader-1.8.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "better_wandering_trader",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

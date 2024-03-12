@@ -1,0 +1,26 @@
+{
+  "name": "cc-restitched-1.100.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.100.6"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "2.0.54"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

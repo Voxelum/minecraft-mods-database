@@ -1,0 +1,74 @@
+{
+  "name": "gunpowder-base-0.5.6+1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gunpowder-base",
+      "version": "0.5.6+1.16.5"
+    },
+    {
+      "modId": "org_postgresql_postgresql",
+      "version": "42.2.2"
+    },
+    {
+      "modId": "mysql_mysql-connector-java",
+      "version": "5.1.46"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.28.0"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-core",
+      "version": "0.31.1"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-jdbc",
+      "version": "0.31.1"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-java-time",
+      "version": "0.31.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.12.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_module_jackson-module-kotlin",
+      "version": "2.12.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_dataformat_jackson-dataformat-yaml",
+      "version": "2.12.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.12.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.12.3"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.26"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "1.8.0-beta1"
+    },
+    {
+      "modId": "com_google_inject_guice",
+      "version": "4.2.3"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    }
+  ]
+}

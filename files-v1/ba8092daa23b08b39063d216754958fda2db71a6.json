@@ -1,0 +1,14 @@
+{
+  "name": "meteor-client-0.4.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteor-client",
+      "version": "0.4.4"
+    },
+    {
+      "modId": "baritone",
+      "version": "1.6.3"
+    }
+  ]
+}

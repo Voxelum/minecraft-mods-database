@@ -1,0 +1,16 @@
+{
+  "name": "Drawer 0.1.8.5 Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "drawer",
+      "version": "0.1.8.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "drawer",
+      "version": "0.1.8.5"
+    }
+  ]
+}

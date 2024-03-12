@@ -1,0 +1,20 @@
+{
+  "name": "backslot-1.2.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1H9ZkJwF",
+      "versionId": "TmwzUY3q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backslot",
+      "version": "1.2.13"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.4.0+mc1.20-pre1"
+    }
+  ]
+}

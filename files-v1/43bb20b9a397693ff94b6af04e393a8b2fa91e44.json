@@ -1,0 +1,16 @@
+{
+  "name": "cyclepaintings-1.19.4-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cyclepaintings",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cyclepaintings",
+      "version": "3.2"
+    }
+  ]
+}

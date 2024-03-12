@@ -1,6 +1,18 @@
 {
   "name": "fabric-seasons-2.2.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KJe6y9Eu",
+      "versionId": "rLlocL2I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 413523,
+      "fileId": 4560136
+    }
+  ],
   "fabric": [
     {
       "modId": "seasons",

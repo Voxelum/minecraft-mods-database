@@ -1,0 +1,20 @@
+{
+  "name": "smoke-suppression-1.0.9-1+MC1.18-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 440468,
+      "fileId": 3694152
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoke_suppression",
+      "version": "1.0.9-1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    }
+  ]
+}

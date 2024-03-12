@@ -1,0 +1,32 @@
+{
+  "name": "iCommon-Fabric-bundle.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 469868,
+      "fileId": 5034547
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "icommon-bundle",
+      "version": "bundle"
+    },
+    {
+      "modId": "icommon",
+      "version": "1.18"
+    },
+    {
+      "modId": "icommon",
+      "version": "1.19"
+    },
+    {
+      "modId": "icommon",
+      "version": "1.19"
+    },
+    {
+      "modId": "icommon",
+      "version": "1.20"
+    }
+  ]
+}

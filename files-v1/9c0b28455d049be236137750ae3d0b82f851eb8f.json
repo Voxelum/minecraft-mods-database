@@ -1,0 +1,20 @@
+{
+  "name": "visuality-0.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 521126,
+      "fileId": 3651034
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "visuality",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "goosik-config",
+      "version": "0.2.0"
+    }
+  ]
+}

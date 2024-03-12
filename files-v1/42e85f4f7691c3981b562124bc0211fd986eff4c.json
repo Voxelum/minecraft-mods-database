@@ -1,0 +1,16 @@
+{
+  "name": "school-0.1.10.2 Release-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "school",
+      "version": "0.1.10.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "school",
+      "version": "0.1.9.2"
+    }
+  ]
+}

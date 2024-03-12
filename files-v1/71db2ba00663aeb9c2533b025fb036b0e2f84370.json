@@ -1,0 +1,24 @@
+{
+  "name": "carpet-fixes-1.20-1.17.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7Jaxgqip",
+      "versionId": "rJzXa8HU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-fixes",
+      "version": "1.20-1.17.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

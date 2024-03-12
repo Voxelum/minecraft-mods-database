@@ -1,0 +1,14 @@
+{
+  "name": "hybrid-aquatic-1_1_0-no_jellies_build_2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hybrid-aquatic",
+      "version": "1.1.0-no_jellies.build.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

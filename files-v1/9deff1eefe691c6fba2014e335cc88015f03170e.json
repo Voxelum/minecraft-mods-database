@@ -1,6 +1,18 @@
 {
   "name": "nyfsgenetics-fabric-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cXncX8HH",
+      "versionId": "sGgUEuDx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 926697,
+      "fileId": 4815248
+    }
+  ],
   "fabric": [
     {
       "modId": "nyfsgenetics",

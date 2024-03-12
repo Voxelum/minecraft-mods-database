@@ -1,0 +1,32 @@
+{
+  "name": "polymorph-fabric-0.0.14-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 397434,
+      "fileId": 3577365
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "0.0.14-1.16.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "2.8.3"
+    }
+  ]
+}

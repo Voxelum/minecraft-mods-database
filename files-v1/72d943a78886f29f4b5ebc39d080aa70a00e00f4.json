@@ -1,0 +1,20 @@
+{
+  "name": "toms_storage_fabric-1.18.2-1.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 396826,
+      "fileId": 3815039
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_storage",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

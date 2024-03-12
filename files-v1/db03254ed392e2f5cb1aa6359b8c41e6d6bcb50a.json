@@ -1,0 +1,14 @@
+{
+  "name": "ankou-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ankou",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

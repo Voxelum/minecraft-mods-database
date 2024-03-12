@@ -1,6 +1,18 @@
 {
   "name": "aeroblender-r1.19.2-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eaq94ok",
+      "versionId": "ENjPVs9V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 879879,
+      "fileId": 4764797
+    }
+  ],
   "forge": [
     {
       "modId": "aeroblender",

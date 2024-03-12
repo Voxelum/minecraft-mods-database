@@ -1,6 +1,18 @@
 {
   "name": "additionaladditions-4.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R4TvILfj",
+      "versionId": "NCMqaI5l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 582387,
+      "fileId": 3831340
+    }
+  ],
   "forge": [
     {
       "modId": "additionaladditions",

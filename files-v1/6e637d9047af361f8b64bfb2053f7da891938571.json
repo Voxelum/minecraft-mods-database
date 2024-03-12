@@ -1,6 +1,18 @@
 {
   "name": "tellme-1.12.2-0.7.0-dev.20200919.184303.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ytk7UEym",
+      "versionId": "gIfenVD4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225781,
+      "fileId": 3060563
+    }
+  ],
   "forge": [
     {
       "modId": "tellme",

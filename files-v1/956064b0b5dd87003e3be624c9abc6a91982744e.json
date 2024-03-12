@@ -1,0 +1,30 @@
+{
+  "name": "ForgeConfigAPIPort-v1.0.2-1.16.5-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 3943246
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

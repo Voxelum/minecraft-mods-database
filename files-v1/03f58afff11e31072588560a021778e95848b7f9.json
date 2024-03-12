@@ -1,6 +1,18 @@
 {
   "name": "justhammers-forge-2.0.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "edU0NbZZ",
+      "versionId": "pbeTImi4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681606,
+      "fileId": 4738296
+    }
+  ],
   "forge": [
     {
       "modId": "justhammers",

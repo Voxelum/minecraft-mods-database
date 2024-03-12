@@ -1,0 +1,14 @@
+{
+  "name": "notenoughcrashes-2.1.4+1.16.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "notenoughcrashes",
+      "version": "2.1.4+1.16.4"
+    },
+    {
+      "modId": "loadcatcher",
+      "version": "2.0.0"
+    }
+  ]
+}

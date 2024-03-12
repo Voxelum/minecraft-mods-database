@@ -1,0 +1,24 @@
+{
+  "name": "toomanyplayers-1.20.4-1.1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPVN4aiJ",
+      "versionId": "IZpinQyC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanyplayers",
+      "version": "1.20.4-1.1.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.2+1.20.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

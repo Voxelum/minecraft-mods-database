@@ -1,0 +1,20 @@
+{
+  "name": "PresenceFootsteps-1.11.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rcTfTZr3",
+      "versionId": "giebTOyU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "presencefootsteps",
+      "version": "1.11.0"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.17.0+1.20.4"
+    }
+  ]
+}

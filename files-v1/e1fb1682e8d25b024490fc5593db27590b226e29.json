@@ -1,6 +1,12 @@
 {
   "name": "DCCH-1.18.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sUbMm93i",
+      "versionId": "O4vDf8eh"
+    }
+  ],
   "fabric": [
     {
       "modId": "dcch",

@@ -1,0 +1,22 @@
+{
+  "name": "MoreSwordsLegacy-1.12.2-1.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LZgCXXym",
+      "versionId": "sAlAxAJh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 322340,
+      "fileId": 2915544
+    }
+  ],
+  "forge": [
+    {
+      "modId": "msmlegacy",
+      "version": "@VERSION@"
+    }
+  ]
+}

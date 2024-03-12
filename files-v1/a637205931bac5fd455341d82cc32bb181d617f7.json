@@ -1,6 +1,18 @@
 {
   "name": "deathlog-0.3.2+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TPAYeAOc",
+      "versionId": "V0Hz3q2W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 496150,
+      "fileId": 4576406
+    }
+  ],
   "fabric": [
     {
       "modId": "deathlog",

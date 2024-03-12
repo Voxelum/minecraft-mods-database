@@ -1,0 +1,10 @@
+{
+  "name": "Emojicord-1.7.10-1.1.1.39-universal.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "emojicord",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

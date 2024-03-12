@@ -1,0 +1,10 @@
+{
+  "name": "JourneyMap-Integration-Mod-Fabric-Quilt-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jmi",
+      "version": "1.20.1-0.14-38"
+    }
+  ]
+}

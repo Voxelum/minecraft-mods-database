@@ -1,0 +1,16 @@
+{
+  "name": "Alex's Mobs Music Mod.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 500532,
+      "fileId": 3696346
+    }
+  ],
+  "forge": [
+    {
+      "modId": "peepomod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "DeathCounter-1.19.2-Forge-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229068,
+      "fileId": 4382938
+    }
+  ],
   "forge": [
     {
       "modId": "deathcounter",

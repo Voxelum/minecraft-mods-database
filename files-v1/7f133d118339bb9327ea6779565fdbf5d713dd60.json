@@ -1,0 +1,18 @@
+{
+  "name": "[自由村民] liberty-villagers-mod-1.0.14+fabric+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "libertyvillagers",
+      "version": "1.0.14+fabric+1.19.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.1.77"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.18+1.19.2"
+    }
+  ]
+}

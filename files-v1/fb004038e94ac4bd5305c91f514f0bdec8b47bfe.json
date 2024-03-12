@@ -1,0 +1,16 @@
+{
+  "name": "smelting-plus-v1.0.2-(fabric-forge-quilt).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smelting_plus_mr",
+      "version": "1-v1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smelting_plus_mr",
+      "version": "1-v1.0.2"
+    }
+  ]
+}

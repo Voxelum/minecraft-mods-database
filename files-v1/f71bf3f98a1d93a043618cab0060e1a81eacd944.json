@@ -1,0 +1,10 @@
+{
+  "name": "addon - minihud-fabric-1.19-0.22.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minihud",
+      "version": "0.22.0"
+    }
+  ]
+}

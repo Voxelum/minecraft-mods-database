@@ -1,0 +1,10 @@
+{
+  "name": "Bamboo-2.6.8.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "BambooMod",
+      "version": "Minecraft@MC_VERSION@ var@VERSION@"
+    }
+  ]
+}

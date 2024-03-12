@@ -1,6 +1,12 @@
 {
   "name": "worldprimer-1.12.2-0.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 258911,
+      "fileId": 2489010
+    }
+  ],
   "forge": [
     {
       "modId": "worldprimer",

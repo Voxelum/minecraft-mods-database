@@ -1,6 +1,18 @@
 {
   "name": "Create Sweets And Treats 1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FS7yzdnX",
+      "versionId": "quqA6XES"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927187,
+      "fileId": 4815242
+    }
+  ],
   "forge": [
     {
       "modId": "createsweetsandtreets",

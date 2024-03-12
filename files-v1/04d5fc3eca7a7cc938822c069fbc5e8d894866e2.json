@@ -1,0 +1,16 @@
+{
+  "name": "guiclock-1.19.4-4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "guiclock",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guiclock",
+      "version": "4.2"
+    }
+  ]
+}

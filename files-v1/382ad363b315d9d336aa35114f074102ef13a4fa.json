@@ -1,6 +1,12 @@
 {
   "name": "merequester-1.19.2-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6BFl96N",
+      "versionId": "gkZRWAzf"
+    }
+  ],
   "fabric": [
     {
       "modId": "merequester",

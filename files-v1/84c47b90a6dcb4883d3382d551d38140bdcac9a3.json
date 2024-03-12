@@ -1,0 +1,30 @@
+{
+  "name": "genshincraft1.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "78LsPG8Y",
+      "versionId": "C5zI666R"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "genshincraft",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "genshincraft",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "4.0.0"
+    }
+  ]
+}

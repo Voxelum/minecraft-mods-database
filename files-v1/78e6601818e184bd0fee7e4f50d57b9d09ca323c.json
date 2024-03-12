@@ -1,0 +1,14 @@
+{
+  "name": "server-translations-api-1.4.12+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.12+1.18.2"
+    },
+    {
+      "modId": "packet_tweaker",
+      "version": "0.2.0+1.18-pre1"
+    }
+  ]
+}

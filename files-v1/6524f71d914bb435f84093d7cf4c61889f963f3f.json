@@ -1,0 +1,22 @@
+{
+  "name": "FABRIC_PaintingsPack_1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 490008,
+      "fileId": 4257296
+    }
+  ],
+  "forge": [
+    {
+      "modId": "paintings_pack1",
+      "version": "1.181"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paintings_pack1",
+      "version": "1.19.2"
+    }
+  ]
+}

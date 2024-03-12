@@ -1,0 +1,16 @@
+{
+  "name": "villagerdeathmessages-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villagerdeathmessages",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagerdeathmessages",
+      "version": "3.3"
+    }
+  ]
+}

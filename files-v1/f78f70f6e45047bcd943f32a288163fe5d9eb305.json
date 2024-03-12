@@ -1,0 +1,20 @@
+{
+  "name": "cobblemonsizechanger-1.0.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VtAZCrae",
+      "versionId": "WV89NenD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemon-sizechanger",
+      "version": "1.0.1+1.20.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

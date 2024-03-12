@@ -1,0 +1,16 @@
+{
+  "name": "more-apples-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "more_apples_mr",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_apples_mr",
+      "version": "1.0.0"
+    }
+  ]
+}

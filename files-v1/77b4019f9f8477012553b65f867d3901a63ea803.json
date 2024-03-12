@@ -1,6 +1,18 @@
 {
   "name": "fabric-seasons-extras-1.2-BETA+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "64FYdx5z",
+      "versionId": "NSa0G7u9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 839878,
+      "fileId": 4533744
+    }
+  ],
   "fabric": [
     {
       "modId": "seasonsextras",

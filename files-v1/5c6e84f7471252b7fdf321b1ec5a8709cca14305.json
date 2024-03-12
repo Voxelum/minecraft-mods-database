@@ -1,0 +1,22 @@
+{
+  "name": "mcwifipnp-1.6.2-1.19.2-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RTWpcTBp",
+      "versionId": "RzZtOiY5"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.2"
+    }
+  ]
+}

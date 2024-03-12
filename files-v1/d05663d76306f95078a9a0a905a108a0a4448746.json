@@ -1,0 +1,28 @@
+{
+  "name": "besmirchment-1.18-10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 542196,
+      "fileId": 3673043
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "besmirchment",
+      "version": "1.18-10"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.5.0"
+    }
+  ]
+}

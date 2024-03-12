@@ -1,0 +1,14 @@
+{
+  "name": "rpchat-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rpchat",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

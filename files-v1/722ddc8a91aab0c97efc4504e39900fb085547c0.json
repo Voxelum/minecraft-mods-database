@@ -1,0 +1,36 @@
+{
+  "name": "modmenu-5.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "id0aLmxO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.20+afca2f3e85"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.4+a91e48b785"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.40+f1e4495b85"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.30+bc01e09785"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.9+23a79c8a85"
+    }
+  ]
+}

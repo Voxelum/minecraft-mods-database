@@ -1,0 +1,10 @@
+{
+  "name": "Nimble-1.16.2-0.4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nimble",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

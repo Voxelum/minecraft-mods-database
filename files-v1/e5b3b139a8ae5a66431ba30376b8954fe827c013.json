@@ -1,0 +1,26 @@
+{
+  "name": "NostalgicTweaks-1.20.1-Fabric-2.0.0-Beta-8.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l1rj36Ob",
+      "versionId": "4opJruu2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 592465,
+      "fileId": 4684425
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nostalgic_tweaks",
+      "version": "2.0.0-Beta-8.4.1"
+    },
+    {
+      "modId": "me_xdrop_fuzzywuzzy",
+      "version": "1.4.0"
+    }
+  ]
+}

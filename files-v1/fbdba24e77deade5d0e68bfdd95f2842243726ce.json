@@ -1,0 +1,16 @@
+{
+  "name": "BetterBurning-1.12.2-0.9.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 353434,
+      "fileId": 2916377
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterburning",
+      "version": "${version}"
+    }
+  ]
+}

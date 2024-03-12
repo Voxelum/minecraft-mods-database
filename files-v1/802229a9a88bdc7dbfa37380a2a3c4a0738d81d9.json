@@ -1,0 +1,14 @@
+{
+  "name": "[多汁浆果] bodacious_berries-2.1.1+mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bodacious_berries",
+      "version": "2.1.1+mc1.20.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

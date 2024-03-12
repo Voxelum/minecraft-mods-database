@@ -1,0 +1,20 @@
+{
+  "name": "Earth2Java-1.8.0+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 398022,
+      "fileId": 3682270
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "earthtojavamobs",
+      "version": "1.8.0+1.18.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

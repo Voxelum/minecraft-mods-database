@@ -1,0 +1,22 @@
+{
+  "name": "halomond-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "InpnUuoY",
+      "versionId": "N0FejwoH"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_halomond",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_halomond",
+      "version": "1.0"
+    }
+  ]
+}

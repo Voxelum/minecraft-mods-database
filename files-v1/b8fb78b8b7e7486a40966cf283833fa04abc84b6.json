@@ -1,0 +1,10 @@
+{
+  "name": "OpenGlasses-MC1.12.2-2.2-53.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "openglasses",
+      "version": "@VERSION@-53"
+    }
+  ]
+}

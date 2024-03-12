@@ -1,0 +1,46 @@
+{
+  "name": "DeftuLib-1.19.2-1.5.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "deftulib",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "com_squareup_okio_okio",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.9.3"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "262"
+    },
+    {
+      "modId": "elementa",
+      "version": "578"
+    },
+    {
+      "modId": "vigilance",
+      "version": "281+pull-78"
+    },
+    {
+      "modId": "xyz_deftu_enhancedeventbus",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "xyz_deftu_deftils_deftils",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.3"
+    }
+  ]
+}

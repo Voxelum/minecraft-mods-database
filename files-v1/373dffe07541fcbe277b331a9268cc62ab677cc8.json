@@ -1,0 +1,30 @@
+{
+  "name": "thermoo-2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9TbXlAut",
+      "versionId": "pRg1Rydk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 846544,
+      "fileId": 4831630
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thermoo",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

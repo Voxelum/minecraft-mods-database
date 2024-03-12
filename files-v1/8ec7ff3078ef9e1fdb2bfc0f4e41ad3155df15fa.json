@@ -1,0 +1,10 @@
+{
+  "name": "MPSA-176_Requires_MPS-561+.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "PowersuitAddons",
+      "version": "176"
+    }
+  ]
+}

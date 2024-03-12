@@ -1,0 +1,52 @@
+{
+  "name": "DistantHorizons-2.0.1-a-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uCdwusMi",
+      "versionId": "3yoHVgxZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508933,
+      "fileId": 4924667
+    }
+  ],
+  "forge": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.0.1-a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.0.1-a"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.6.10+b1792f7da0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.33+fce67b32a0"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.27+b1792f7da0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.12+b1792f7da0"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "3.0.11+b1792f7da0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.0.10+b1792f7da0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "simple-rpc-fabric-1.18.x-2.7.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simple-rpc",
+      "version": "2.7.2"
+    },
+    {
+      "modId": "me_hypherionmc_simple-rpc-common",
+      "version": "1.0.20"
+    }
+  ]
+}

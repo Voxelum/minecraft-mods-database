@@ -1,0 +1,24 @@
+{
+  "name": "StackDeobfuscatorFabric-1.4.2+bf1fc22.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NusMqsjF",
+      "versionId": "t0r3JIMK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stackdeobfuscator",
+      "version": "1.4.2+bf1fc22"
+    },
+    {
+      "modId": "dev_booky_common_",
+      "version": "1.4.2+bf1fc22"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.3.0"
+    }
+  ]
+}

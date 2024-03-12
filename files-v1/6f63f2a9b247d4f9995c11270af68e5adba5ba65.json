@@ -1,6 +1,18 @@
 {
   "name": "custom-crosshair-mod-v1.5.0-forge-mc1.8.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o1tyE5vJ",
+      "versionId": "QjUGNHjG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242995,
+      "fileId": 4410158
+    }
+  ],
   "forge": [
     {
       "modId": "custom-crosshair-mod",

@@ -1,0 +1,14 @@
+{
+  "name": "[优化-平滑物品移动]Fabric-1.18-SmoothSwapping-0.4.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "smoothswapping",
+      "version": "0.4.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

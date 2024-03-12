@@ -1,0 +1,28 @@
+{
+  "name": "BiomesOPlenty-fabric-1.20.4-19.0.0.58.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HXF82T3G",
+      "versionId": "FVMFKPnM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomesoplenty",
+      "version": "19.0.0.58"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "net_jodah_typetools",
+      "version": "0.6.3"
+    }
+  ]
+}

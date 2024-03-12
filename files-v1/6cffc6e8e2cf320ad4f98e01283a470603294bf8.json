@@ -1,0 +1,22 @@
+{
+  "name": "goldenfoods-merged-1.20.1-2.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 873866,
+      "fileId": 5149349
+    }
+  ],
+  "forge": [
+    {
+      "modId": "goldenfoods",
+      "version": "2.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "goldenfoods",
+      "version": "2.2.0"
+    }
+  ]
+}

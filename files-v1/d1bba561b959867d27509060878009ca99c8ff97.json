@@ -1,0 +1,14 @@
+{
+  "name": "minimotd-fabric-mc1.20.4-2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minimotd-fabric",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.11.0-SNAPSHOT"
+    }
+  ]
+}

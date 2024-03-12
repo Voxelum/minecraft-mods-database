@@ -1,6 +1,12 @@
 {
   "name": "brrp-fabric-1.0.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JnrDtPAE",
+      "versionId": "67aRXMZe"
+    }
+  ],
   "fabric": [
     {
       "modId": "brrp_v1",

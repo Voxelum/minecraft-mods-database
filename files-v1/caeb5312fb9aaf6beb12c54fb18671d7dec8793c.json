@@ -1,6 +1,12 @@
 {
   "name": "packet_size_doubler-1.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 625437,
+      "fileId": 3912877
+    }
+  ],
   "fabric": [
     {
       "modId": "packet_size_doubler",

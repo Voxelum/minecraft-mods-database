@@ -1,6 +1,18 @@
 {
   "name": "torchmaster-20.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tl8ESrhX",
+      "versionId": "mDKAXTiu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254268,
+      "fileId": 4817795
+    }
+  ],
   "forge": [
     {
       "modId": "torchmaster",

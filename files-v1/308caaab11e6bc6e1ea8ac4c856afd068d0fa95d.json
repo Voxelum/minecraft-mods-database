@@ -1,0 +1,22 @@
+{
+  "name": "origins-minus-2.1.1+1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbOL9is1",
+      "versionId": "jZREuLeQ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "origins_minus",
+      "version": "2.1.1+1.19.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins-minus",
+      "version": "2.1.1+1.19.3"
+    }
+  ]
+}

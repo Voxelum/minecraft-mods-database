@@ -1,0 +1,16 @@
+{
+  "name": "TreePlant-1.19.2-fabric-0.3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "treeplant",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treeplant",
+      "version": "0.3.1"
+    }
+  ]
+}

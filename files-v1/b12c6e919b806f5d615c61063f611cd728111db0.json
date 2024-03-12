@@ -1,0 +1,10 @@
+{
+  "name": "randomium-1.20-1.30-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "randomium",
+      "version": "1.20-1.30"
+    }
+  ]
+}

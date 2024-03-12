@@ -1,6 +1,18 @@
 {
   "name": "upgradednetherite_ultimate-1.18.2-3.3.0.0-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bcGOQ7CG",
+      "versionId": "iC9uP6tX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566868,
+      "fileId": 4410975
+    }
+  ],
   "forge": [
     {
       "modId": "upgradednetherite_ultimate",

@@ -1,0 +1,22 @@
+{
+  "name": "TooManyOrigins-1.0.0-beta.13+1.19.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "toomanyorigins",
+      "version": "1.0.0-beta.13+1.19.2-fabric"
+    },
+    {
+      "modId": "apugli",
+      "version": "2.5.0+1.19.2-fabric"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "wwfix",
+      "version": "1.0.0"
+    }
+  ]
+}

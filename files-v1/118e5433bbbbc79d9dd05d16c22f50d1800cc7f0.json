@@ -1,0 +1,16 @@
+{
+  "name": "witherite-0.2.4-main.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "witherite_plus",
+      "version": "0.2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "witherite_plus",
+      "version": "0.2.4"
+    }
+  ]
+}

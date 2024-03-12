@@ -1,6 +1,12 @@
 {
   "name": "oxidized-1.6.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 506426,
+      "fileId": 3780148
+    }
+  ],
   "fabric": [
     {
       "modId": "oxidized",

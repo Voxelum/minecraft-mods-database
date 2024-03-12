@@ -1,0 +1,10 @@
+{
+  "name": "wandering trader trades.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wandering_trader_tradesfabric",
+      "version": "1.0.0"
+    }
+  ]
+}

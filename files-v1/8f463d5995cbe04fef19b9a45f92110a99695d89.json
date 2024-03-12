@@ -1,0 +1,26 @@
+{
+  "name": "Plasmo Voice-2.0.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.0.6"
+    },
+    {
+      "modId": "com_google_inject_guice",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    }
+  ]
+}

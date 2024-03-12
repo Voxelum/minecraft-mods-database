@@ -1,6 +1,12 @@
 {
   "name": "custom-commands-1.0.0+1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 903910,
+      "fileId": 4709802
+    }
+  ],
   "fabric": [
     {
       "modId": "melius-commands",

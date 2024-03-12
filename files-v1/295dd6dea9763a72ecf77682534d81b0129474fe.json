@@ -1,6 +1,12 @@
 {
   "name": "smoothboot-fabric-1.19.4-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWumhS4T",
+      "versionId": "I9TkHxLI"
+    }
+  ],
   "fabric": [
     {
       "modId": "smoothboot",

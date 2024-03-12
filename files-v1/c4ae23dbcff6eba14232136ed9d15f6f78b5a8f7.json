@@ -1,0 +1,14 @@
+{
+  "name": "armordamagescale-fabric-1.19.2-2.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armordamagescale",
+      "version": "1.19.2-2.8"
+    },
+    {
+      "modId": "com_ezylang_evalex",
+      "version": "3.0.1"
+    }
+  ]
+}

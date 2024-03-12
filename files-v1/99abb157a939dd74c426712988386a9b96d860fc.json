@@ -1,6 +1,18 @@
 {
   "name": "furnitureexpanded-1.20.1-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U1ACi6eg",
+      "versionId": "DwW7STul"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550478,
+      "fileId": 4759946
+    }
+  ],
   "forge": [
     {
       "modId": "furnitureexpanded",

@@ -1,0 +1,20 @@
+{
+  "name": "identity-2.6.1-1.19.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391390,
+      "fileId": 4399469
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "identity",
+      "version": "2.6.1-1.19.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

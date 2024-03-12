@@ -1,0 +1,22 @@
+{
+  "name": "dawn-1.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "1.8"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.18"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "1.0.4"
+    }
+  ]
+}

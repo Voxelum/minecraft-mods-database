@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-permissions-0.2.0+1.19.2.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanilla-permissions",
+      "version": "0.2.0+1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.4"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.1+413cbbc790"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "deeperdarker-fabric-1.20-1.2.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fnAffV0n",
+      "versionId": "qJBXtnKM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659011,
+      "fileId": 4952242
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deeperdarker",
+      "version": "1.2.5"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

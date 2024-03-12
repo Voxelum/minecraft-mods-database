@@ -1,6 +1,12 @@
 {
   "name": "smoothboot-fabric-1.18-1.7.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 415758,
+      "fileId": 3549723
+    }
+  ],
   "fabric": [
     {
       "modId": "smoothboot",

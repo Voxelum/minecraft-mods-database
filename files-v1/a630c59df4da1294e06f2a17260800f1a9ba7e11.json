@@ -1,0 +1,22 @@
+{
+  "name": "treeplacer-wythers-addon-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BPhOreRX",
+      "versionId": "cA4NIZR7"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "treeplacer_wythersaddon_mr",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treeplacer_wythersaddon_mr",
+      "version": "1"
+    }
+  ]
+}

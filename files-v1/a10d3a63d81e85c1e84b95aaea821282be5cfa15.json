@@ -1,0 +1,20 @@
+{
+  "name": "legacy-display-1.1.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TmbxdF9G",
+      "versionId": "dBKfbLoB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy_display",
+      "version": "1.1.8"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

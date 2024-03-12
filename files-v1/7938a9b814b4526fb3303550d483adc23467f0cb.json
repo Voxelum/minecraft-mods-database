@@ -1,0 +1,34 @@
+{
+  "name": "pollen-fabric-2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pollen",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "gg_moonflower_pinwheel_pinwheel",
+      "version": "1.2.0.3"
+    },
+    {
+      "modId": "gg_moonflower_molang-compiler",
+      "version": "3.0.4.15"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

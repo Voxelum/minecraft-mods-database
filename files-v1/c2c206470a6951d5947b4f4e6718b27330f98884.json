@@ -1,0 +1,20 @@
+{
+  "name": "controllable-fabric-1.19.4-0.19.2-release.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 851657,
+      "fileId": 4509028
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controllable",
+      "version": "0.19.2"
+    },
+    {
+      "modId": "io_github_libsdl4j_libsdl4j",
+      "version": "2.26.4-1.2"
+    }
+  ]
+}

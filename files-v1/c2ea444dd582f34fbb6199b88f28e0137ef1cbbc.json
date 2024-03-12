@@ -1,0 +1,22 @@
+{
+  "name": "AdvancedChatFilters-1.20.2-1.2.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "advancedchatfilters",
+      "version": "1.20.2-1.2.8"
+    },
+    {
+      "modId": "org_openjdk_nashorn_nashorn-core",
+      "version": "15.3"
+    },
+    {
+      "modId": "org_javadelight_delight-nashorn-sandbox",
+      "version": "0.2.5"
+    },
+    {
+      "modId": "org_webjars_bower_js-beautify",
+      "version": "1.9.0"
+    }
+  ]
+}

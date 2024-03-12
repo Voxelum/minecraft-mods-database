@@ -1,0 +1,16 @@
+{
+  "name": "justplayerheads-1.20.4-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "justplayerheads",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "justplayerheads",
+      "version": "3.3"
+    }
+  ]
+}

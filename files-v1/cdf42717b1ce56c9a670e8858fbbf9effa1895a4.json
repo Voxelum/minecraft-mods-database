@@ -1,0 +1,20 @@
+{
+  "name": "emogg-1.0.0+1.20-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tyANotOf",
+      "versionId": "OdfwkIRs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emogg",
+      "version": "1.0.0+1.20-1.20.1"
+    },
+    {
+      "modId": "suggestions-api",
+      "version": "1.0.3+1.20-1.20.4"
+    }
+  ]
+}

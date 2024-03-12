@@ -1,6 +1,12 @@
 {
   "name": "TacCraft [Forge 1.19.2] 0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 415427,
+      "fileId": 4544813
+    }
+  ],
   "forge": [
     {
       "modId": "taccraft",

@@ -1,6 +1,12 @@
 {
   "name": "vivecraft-1.20.1-1.1.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGoQDPN5",
+      "versionId": "D1NT0xDw"
+    }
+  ],
   "fabric": [
     {
       "modId": "vivecraft",

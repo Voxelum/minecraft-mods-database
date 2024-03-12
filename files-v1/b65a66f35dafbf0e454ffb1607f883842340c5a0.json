@@ -1,0 +1,20 @@
+{
+  "name": "bedrockify-1.6.1+mc1.19.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 403858,
+      "fileId": 4379858
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.6.1+mc1.19.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.0.94"
+    }
+  ]
+}

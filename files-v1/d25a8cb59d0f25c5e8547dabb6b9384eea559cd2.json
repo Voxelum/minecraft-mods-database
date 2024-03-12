@@ -1,6 +1,18 @@
 {
   "name": "islands-1.16.5-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t7fAFQ7M",
+      "versionId": "7rW6OKXI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397080,
+      "fileId": 4685343
+    }
+  ],
   "forge": [
     {
       "modId": "islands",

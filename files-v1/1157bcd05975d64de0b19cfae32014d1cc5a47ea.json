@@ -1,0 +1,20 @@
+{
+  "name": "hdskins-6.12.1+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FzE9gshV",
+      "versionId": "22fYMQZv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hdskins",
+      "version": "6.12.1+1.20.4"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.17.0+1.20.4"
+    }
+  ]
+}

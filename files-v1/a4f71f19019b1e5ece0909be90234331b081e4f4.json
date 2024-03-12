@@ -1,0 +1,14 @@
+{
+  "name": "sodium-extra-0.4.12+mc1.18.2-build.71.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sodium-extra",
+      "version": "0.4.12+mc1.18.2-build.71"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.0.0+1.17"
+    }
+  ]
+}

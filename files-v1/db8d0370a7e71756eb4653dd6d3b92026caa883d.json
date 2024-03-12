@@ -1,0 +1,18 @@
+{
+  "name": "zenith-0.6.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "0.6.2+1.19.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.926+1.19.2"
+    }
+  ]
+}

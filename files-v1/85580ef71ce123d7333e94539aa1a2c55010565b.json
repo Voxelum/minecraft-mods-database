@@ -1,0 +1,32 @@
+{
+  "name": "iris-mc1.18.2-1.4.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 4023643
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "io_github_douira_glsl-transformer",
+      "version": "1.0.0-pre21.2"
+    },
+    {
+      "modId": "org_antlr_antlr4-runtime",
+      "version": "4.10.1"
+    }
+  ]
+}

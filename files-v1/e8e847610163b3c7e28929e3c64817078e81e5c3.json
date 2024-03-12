@@ -1,0 +1,10 @@
+{
+  "name": "CraftTweaker-1.16.5-7.1.0.314-deobf.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "crafttweaker",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

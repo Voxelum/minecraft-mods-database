@@ -1,6 +1,18 @@
 {
   "name": "CreateFabricREIBugFix-0.1.5-create0.5.1-mc1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lSw4RpVn",
+      "versionId": "jVVMcyna"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 846935,
+      "fileId": 4631368
+    }
+  ],
   "fabric": [
     {
       "modId": "createreibugfix",

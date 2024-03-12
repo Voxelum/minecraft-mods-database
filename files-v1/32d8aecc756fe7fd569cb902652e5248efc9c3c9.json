@@ -1,0 +1,42 @@
+{
+  "name": "【@测试版】MasaGadget-3.0.287+01ca6e5-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "masa_gadget_mod",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_14_4",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_15_2",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_16_5",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_17_1",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_18_2",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_2",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_3",
+      "version": "3.0.287+01ca6e5-beta"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_4",
+      "version": "3.0.287+01ca6e5-beta"
+    }
+  ]
+}

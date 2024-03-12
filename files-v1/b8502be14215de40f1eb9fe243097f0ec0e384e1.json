@@ -1,0 +1,18 @@
+{
+  "name": "viewdistancefix-fabric-1.20.4-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "viewdistancefix",
+      "version": "1.20.4-1.0.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.34+f31bf88132"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.1.1+901470e432"
+    }
+  ]
+}

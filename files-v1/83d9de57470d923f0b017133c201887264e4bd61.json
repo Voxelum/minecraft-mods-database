@@ -1,6 +1,12 @@
 {
   "name": "ResourcePackOverrides-v4.0.4-1.19.2-Forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 832644,
+      "fileId": 4438897
+    }
+  ],
   "forge": [
     {
       "modId": "resourcepackoverrides",

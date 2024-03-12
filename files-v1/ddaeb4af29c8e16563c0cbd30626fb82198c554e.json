@@ -1,0 +1,26 @@
+{
+  "name": "FogLooksGoodNow-2.2.0-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WuGVWUF2",
+      "versionId": "rA2OhPwU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815438,
+      "fileId": 5083392
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fog-looks-good-now",
+      "version": "2.2.0+1.20.4"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.3.0+1.20.4"
+    }
+  ]
+}

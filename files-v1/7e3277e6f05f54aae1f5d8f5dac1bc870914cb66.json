@@ -1,0 +1,24 @@
+{
+  "name": "IW_FABRIC_3.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jkskOO9i",
+      "versionId": "XK2yFPi4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_weathering",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.62"
+    },
+    {
+      "modId": "modmenu",
+      "version": "3.2.3"
+    }
+  ]
+}

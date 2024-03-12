@@ -1,6 +1,18 @@
 {
   "name": "Mekanism-1.12.2-9.8.3.390.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ce6I4WUE",
+      "versionId": "KIzASRO5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268560,
+      "fileId": 2835175
+    }
+  ],
   "forge": [
     {
       "modId": "mekanism",

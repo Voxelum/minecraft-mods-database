@@ -1,0 +1,10 @@
+{
+  "name": "TreeClimbing 1.7.10 V31a.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "TreeClimbing",
+      "version": "v@MAJOR_VERSION@@MINOR_VERSION@"
+    }
+  ]
+}

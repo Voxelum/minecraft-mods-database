@@ -1,0 +1,22 @@
+{
+  "name": "Mutationcraft_1.19.2_1.0.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 849595,
+      "fileId": 4952284
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mutationcraft",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mutationcraft_origins",
+      "version": "1.0.0"
+    }
+  ]
+}

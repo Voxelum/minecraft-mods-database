@@ -1,0 +1,66 @@
+{
+  "name": "spectrum-1.7.2-deeper-down.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spectrum",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "org_jgrapht_jgrapht-core",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "org_jheaps_jheaps",
+      "version": "0.13"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.4.0+1.20.0"
+    },
+    {
+      "modId": "arrowhead",
+      "version": "1.2.0-1.19.4"
+    },
+    {
+      "modId": "reverb",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fractal",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.8.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.0"
+    }
+  ]
+}

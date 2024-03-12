@@ -1,0 +1,16 @@
+{
+  "name": "miniblocks-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "miniblocks_mr",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "miniblocks_mr",
+      "version": "1.2"
+    }
+  ]
+}

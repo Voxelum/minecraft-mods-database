@@ -1,0 +1,16 @@
+{
+  "name": "create_trimmed.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_trimmed",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create-trimmed",
+      "version": "1.0.0"
+    }
+  ]
+}

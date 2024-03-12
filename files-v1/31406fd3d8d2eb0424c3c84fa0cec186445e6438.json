@@ -1,6 +1,18 @@
 {
   "name": "reacharound+1.20-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r3VgI4QN",
+      "versionId": "uk6tRHW7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648781,
+      "fileId": 4572073
+    }
+  ],
   "fabric": [
     {
       "modId": "reacharound",

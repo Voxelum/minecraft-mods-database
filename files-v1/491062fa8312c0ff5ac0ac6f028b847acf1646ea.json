@@ -1,0 +1,16 @@
+{
+  "name": "liquidbounceplusplus-0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "liquidbounce",
+      "version": "0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viarewind",
+      "version": "2.0.3-SNAPSHOT"
+    }
+  ]
+}

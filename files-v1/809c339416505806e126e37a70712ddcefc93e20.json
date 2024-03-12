@@ -1,6 +1,18 @@
 {
   "name": "[1.18.2-forge]-Epic-Knights-7.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L6jvzao4",
+      "versionId": "SndsN5ka"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 509041,
+      "fileId": 4423960
+    }
+  ],
   "forge": [
     {
       "modId": "magistuarmory",

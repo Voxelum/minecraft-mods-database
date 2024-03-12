@@ -1,6 +1,12 @@
 {
   "name": "animania_1.12.2_farm_1.0.2.28.jar",
-  "domain": "mods",
+  "domain": "resourcepacks",
+  "curseforge": [
+    {
+      "projectId": 407632,
+      "fileId": 3213139
+    }
+  ],
   "forge": [
     {
       "modId": "animania",

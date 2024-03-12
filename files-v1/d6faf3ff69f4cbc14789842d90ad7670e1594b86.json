@@ -1,6 +1,18 @@
 {
   "name": "friendsandfoes-fabric-mc1.20.1-1.9.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "POQ2i9zu",
+      "versionId": "2zT5IsZn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551364,
+      "fileId": 4770286
+    }
+  ],
   "fabric": [
     {
       "modId": "friendsandfoes",

@@ -1,0 +1,32 @@
+{
+  "name": "CreativeCore_FABRIC_v2.10.12_mc1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "xvWt9K90"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 4507993
+    }
+  ],
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.10.12"
+    },
+    {
+      "modId": "net_minecraftforge_eventbus",
+      "version": "6.0.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "LeavesBeGone-v4.0.1-1.19.2-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AVq17PqV",
+      "versionId": "6LsBcPWG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686435,
+      "fileId": 4312311
+    }
+  ],
   "forge": [
     {
       "modId": "leavesbegone",

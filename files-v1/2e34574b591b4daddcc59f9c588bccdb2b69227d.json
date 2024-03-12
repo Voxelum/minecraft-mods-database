@@ -1,6 +1,18 @@
 {
   "name": "reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh37bMuy",
+      "versionId": "aO0hSGlL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511319,
+      "fileId": 4437267
+    }
+  ],
   "fabric": [
     {
       "modId": "reeses-sodium-options",

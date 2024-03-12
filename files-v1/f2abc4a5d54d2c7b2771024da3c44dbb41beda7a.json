@@ -1,0 +1,16 @@
+{
+  "name": "buildcraft-A-1.5.2-3.7.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 61811,
+      "fileId": 4393389
+    }
+  ],
+  "forge": [
+    {
+      "modId": "BuildCraft|Builders",
+      "version": "${VERSION}"
+    }
+  ]
+}

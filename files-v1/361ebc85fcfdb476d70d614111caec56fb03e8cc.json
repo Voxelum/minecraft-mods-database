@@ -1,6 +1,12 @@
 {
   "name": "global_packs-fabric-1.19.2-1.14.3.1_fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317134,
+      "fileId": 4175600
+    }
+  ],
   "forge": [
     {
       "modId": "globalpacks",

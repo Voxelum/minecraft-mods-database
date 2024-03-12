@@ -1,6 +1,12 @@
 {
   "name": "create-factory-1.18.2-v1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 623265,
+      "fileId": 3801390
+    }
+  ],
   "forge": [
     {
       "modId": "create_factory",

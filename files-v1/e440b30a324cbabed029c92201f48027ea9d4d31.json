@@ -1,0 +1,14 @@
+{
+  "name": "effective-1.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "effective",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

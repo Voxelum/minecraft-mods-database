@@ -1,0 +1,20 @@
+{
+  "name": "friendsandfoes-fabric-mc1.18.2-1.4.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "POQ2i9zu",
+      "versionId": "sUdjTPy9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "1.4.8"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

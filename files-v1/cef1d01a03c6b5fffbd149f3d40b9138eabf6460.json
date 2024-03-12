@@ -1,0 +1,36 @@
+{
+  "name": "HorseBuff-1.16.5-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IrrG0G8l",
+      "versionId": "En5tUH3v"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "horsebuff",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.0+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.1.6+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.2+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "0.7.6+3cc0f0907d"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.14.64"
+    }
+  ]
+}

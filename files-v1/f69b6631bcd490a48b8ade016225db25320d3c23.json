@@ -1,6 +1,18 @@
 {
   "name": "advancednetherite-1.14.7-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CFX9ftUJ",
+      "versionId": "VoNMv3pI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495336,
+      "fileId": 4438333
+    }
+  ],
   "forge": [
     {
       "modId": "advancednetherite",

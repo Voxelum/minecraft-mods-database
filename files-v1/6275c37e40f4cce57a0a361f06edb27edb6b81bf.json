@@ -1,6 +1,12 @@
 {
   "name": "FIX-rebind_narrator-forge-1.19.2-2.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 296996,
+      "fileId": 4568006
+    }
+  ],
   "forge": [
     {
       "modId": "rebind_narrator",

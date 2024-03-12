@@ -1,0 +1,22 @@
+{
+  "name": "Random Crits 1.2.2 - 1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 903444,
+      "fileId": 4944118
+    }
+  ],
+  "forge": [
+    {
+      "modId": "random_crits",
+      "version": "1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "random_crits",
+      "version": "1.0.2"
+    }
+  ]
+}

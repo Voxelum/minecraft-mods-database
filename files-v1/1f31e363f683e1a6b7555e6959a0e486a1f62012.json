@@ -1,0 +1,16 @@
+{
+  "name": "chunkloaders-1.2.7-forge-mc1.19.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.6"
+    }
+  ]
+}

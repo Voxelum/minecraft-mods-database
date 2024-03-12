@@ -1,6 +1,18 @@
 {
   "name": "littlelogistics-mc1.19.2-v1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1zZJrh9c",
+      "versionId": "B6kUZ7Kf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570050,
+      "fileId": 4563179
+    }
+  ],
   "forge": [
     {
       "modId": "littlelogistics",

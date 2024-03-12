@@ -1,0 +1,16 @@
+{
+  "name": "terralith-biome-saplings-1.0.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_terralith_biomesaplings",
+      "version": "1.0.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_terralith_biomesaplings",
+      "version": "1.0.9"
+    }
+  ]
+}

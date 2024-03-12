@@ -1,0 +1,18 @@
+{
+  "name": "RacesOrigins-1.19.2-0.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "races",
+      "version": "1.19.2-0.1.1"
+    },
+    {
+      "modId": "opc",
+      "version": "0.6.4"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-pre.1+1.19.2"
+    }
+  ]
+}

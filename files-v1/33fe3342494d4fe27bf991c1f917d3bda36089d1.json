@@ -1,0 +1,28 @@
+{
+  "name": "immersive-portals-0.102-mc1.16.5-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 332273,
+      "fileId": 3546002
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "0.102"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "0.102"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.15"
+    },
+    {
+      "modId": "modmenu",
+      "version": "v1.16.8+unknown.bd9230a"
+    }
+  ]
+}

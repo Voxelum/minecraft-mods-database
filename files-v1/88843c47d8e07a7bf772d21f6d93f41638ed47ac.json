@@ -1,0 +1,38 @@
+{
+  "name": "PickUpNotifier-v3.2.0-1.18.2-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547474,
+      "fileId": 3671362
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pickupnotifier",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pickupnotifier",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

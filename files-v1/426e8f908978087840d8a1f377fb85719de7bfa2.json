@@ -1,0 +1,16 @@
+{
+  "name": "rpgz-0.4.5-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rpgz",
+      "version": "0.4.5-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpgz",
+      "version": "0.4.2"
+    }
+  ]
+}

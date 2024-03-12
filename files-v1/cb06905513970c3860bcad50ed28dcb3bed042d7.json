@@ -1,6 +1,12 @@
 {
   "name": "disenchanter-0.1.7+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OQ8To4FT",
+      "versionId": "FkAR7cBl"
+    }
+  ],
   "fabric": [
     {
       "modId": "disenchanter",

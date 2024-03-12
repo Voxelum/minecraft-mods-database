@@ -1,0 +1,20 @@
+{
+  "name": "emotecraft-for-MC1.18.1-2.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 3656405
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.1"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "2.0.4"
+    }
+  ]
+}

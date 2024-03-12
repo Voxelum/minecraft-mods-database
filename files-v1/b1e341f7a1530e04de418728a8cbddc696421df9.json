@@ -1,6 +1,18 @@
 {
   "name": "flatbedrock-forge-3.0.1-build.18+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZYLnkiVu",
+      "versionId": "PpXxqWu6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398623,
+      "fileId": 4680891
+    }
+  ],
   "forge": [
     {
       "modId": "flatbedrock",

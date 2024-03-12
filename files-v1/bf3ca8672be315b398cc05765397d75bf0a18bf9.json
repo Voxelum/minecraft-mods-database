@@ -1,0 +1,42 @@
+{
+  "name": "NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qQyHxfxd",
+      "versionId": "wNxZxzWL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634062,
+      "fileId": 4934035
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nochatreports",
+      "version": "1.20.3-v2.4.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.34+f31bf8813b"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.1.1+901470e43b"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.15+6f7ba8f23b"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "3.0.11+9468a19d3b"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.14+f31bf8813b"
+    }
+  ]
+}

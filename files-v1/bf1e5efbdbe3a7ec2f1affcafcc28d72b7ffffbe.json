@@ -1,0 +1,22 @@
+{
+  "name": "Treeplacer Terralith Addon v1.1.0-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ys1mdL6V",
+      "versionId": "bL4G2w16"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "treeplacer_terralithaddon",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_treeplacer_terralithaddon",
+      "version": "1.1.0"
+    }
+  ]
+}

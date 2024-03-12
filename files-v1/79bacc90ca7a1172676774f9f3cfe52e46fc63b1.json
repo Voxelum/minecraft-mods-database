@@ -1,0 +1,10 @@
+{
+  "name": "OpenSauceToastKiller.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "toastkiller",
+      "version": "1.0"
+    }
+  ]
+}

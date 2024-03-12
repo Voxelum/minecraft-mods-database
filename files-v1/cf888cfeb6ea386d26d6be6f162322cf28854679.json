@@ -1,6 +1,18 @@
 {
   "name": "MerchantMarkers-1.19.1-fabric-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AGhiJWsU",
+      "versionId": "WAVTYKiy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 554836,
+      "fileId": 3922152
+    }
+  ],
   "forge": [
     {
       "modId": "merchantmarkers",

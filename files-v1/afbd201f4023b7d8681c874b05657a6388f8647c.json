@@ -1,6 +1,12 @@
 {
   "name": "smoothswapping-0.9.2-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ydZic5r4",
+      "versionId": "yM9SUpdL"
+    }
+  ],
   "fabric": [
     {
       "modId": "smoothswapping",

@@ -1,0 +1,10 @@
+{
+  "name": "petshop-fabric-1.20.1-0.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "petshop",
+      "version": "0.1.0"
+    }
+  ]
+}

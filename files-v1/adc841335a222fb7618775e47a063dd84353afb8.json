@@ -1,0 +1,16 @@
+{
+  "name": "origins-player-scale-2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "origins_playerscale_mr",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins_playerscale_mr",
+      "version": "2"
+    }
+  ]
+}

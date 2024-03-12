@@ -1,6 +1,18 @@
 {
   "name": "starlight-1.0.0+fabric.d0a3220.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H8CaAYZC",
+      "versionId": "p26lbcyI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521783,
+      "fileId": 3554912
+    }
+  ],
   "fabric": [
     {
       "modId": "starlight",

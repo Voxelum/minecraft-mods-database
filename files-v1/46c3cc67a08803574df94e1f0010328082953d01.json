@@ -1,0 +1,32 @@
+{
+  "name": "glore-1.20.2-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bqmWbUVO",
+      "versionId": "ZdvRhwUD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916376,
+      "fileId": 5001907
+    }
+  ],
+  "forge": [
+    {
+      "modId": "glore",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glore",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

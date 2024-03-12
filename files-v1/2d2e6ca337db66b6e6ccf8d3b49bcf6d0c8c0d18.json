@@ -1,0 +1,16 @@
+{
+  "name": "FirstPersonMod-2.0.0-SNAPSHOT (1).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "firstpersonmod",
+      "version": "2.0.0-SNAPSHOT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "firstperson",
+      "version": "2.0.0-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Discarnate-2.0.1+1.19.2-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bEQrnLr7",
+      "versionId": "dRx7rWHI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 304796,
+      "fileId": 4041393
+    }
+  ],
+  "forge": [
+    {
+      "modId": "discarnate",
+      "version": "2.0.1+1.19.2-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "discarnate",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

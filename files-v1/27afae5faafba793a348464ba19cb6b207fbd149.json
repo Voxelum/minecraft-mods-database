@@ -1,6 +1,12 @@
 {
   "name": "mcw-lights-1.0.0-mc1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 502372,
+      "fileId": 3387338
+    }
+  ],
   "forge": [
     {
       "modId": "mcwlights",

@@ -1,0 +1,14 @@
+{
+  "name": "overlaytweaks-1.4.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "overlaytweaks",
+      "version": "1.4.10"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

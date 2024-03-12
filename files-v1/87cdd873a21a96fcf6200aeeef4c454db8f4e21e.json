@@ -1,0 +1,16 @@
+{
+  "name": "zens-agricultural-automations-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_zens_agriculturalautomations",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_zens_agriculturalautomations",
+      "version": "1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "WhereWaterGo-1.0.0-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rrbH3qFA",
+      "versionId": "r0jm9F6Q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wwg",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

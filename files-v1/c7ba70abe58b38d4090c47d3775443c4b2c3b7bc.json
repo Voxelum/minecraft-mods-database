@@ -1,0 +1,16 @@
+{
+  "name": "walljump-unofficial-1.6.1b-all+1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "walljump",
+      "version": "1.6.1b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "walljump-fabric",
+      "version": "1.6.1b"
+    }
+  ]
+}

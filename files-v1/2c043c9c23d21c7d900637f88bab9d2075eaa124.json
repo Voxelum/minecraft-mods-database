@@ -1,0 +1,20 @@
+{
+  "name": "inmis-2.6.0-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 369254,
+      "fileId": 3783618
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inmis",
+      "version": "2.6.0-1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

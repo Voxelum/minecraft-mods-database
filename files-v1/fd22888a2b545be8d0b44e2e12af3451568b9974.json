@@ -1,0 +1,20 @@
+{
+  "name": "DiagonalWindows-v20.4.0-1.20.4-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 891328,
+      "fileId": 5074235
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diagonalwindows",
+      "version": "20.4.0"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "20.4.2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "fishonaleash-1.19.x-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fishonaleash",
+      "version": "1.19-1.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.74"
+    }
+  ]
+}

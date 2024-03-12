@@ -1,0 +1,20 @@
+{
+  "name": "derelict-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 928990,
+      "fileId": 4837905
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "derelict",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2-pre.14+1.20"
+    }
+  ]
+}

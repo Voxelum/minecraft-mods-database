@@ -1,6 +1,18 @@
 {
   "name": "BotanicAdditions-1.12.2-12.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u3eevWi",
+      "versionId": "BVOYfDCn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310637,
+      "fileId": 2939405
+    }
+  ],
   "forge": [
     {
       "modId": "botanicadds",

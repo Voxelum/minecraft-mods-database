@@ -1,6 +1,18 @@
 {
   "name": "moreoverlays-1.22.1-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Thy5Pqut",
+      "versionId": "oayIGgHd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391382,
+      "fileId": 4574422
+    }
+  ],
   "forge": [
     {
       "modId": "moreoverlays",

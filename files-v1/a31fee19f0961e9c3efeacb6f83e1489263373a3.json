@@ -1,6 +1,12 @@
 {
   "name": "iceandfire-2.1.8-1.16.5.jar",
-  "domain": "mods",
+  "domain": "resourcepacks",
+  "curseforge": [
+    {
+      "projectId": 264231,
+      "fileId": 3361256
+    }
+  ],
   "forge": [
     {
       "modId": "iceandfire",

@@ -1,6 +1,18 @@
 {
   "name": "pack_it_up-0.3.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "czWH0F4i",
+      "versionId": "BXhMkYzT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 733134,
+      "fileId": 4356379
+    }
+  ],
   "fabric": [
     {
       "modId": "pack_it_up",

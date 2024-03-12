@@ -1,6 +1,12 @@
 {
   "name": "spell_engine-fabric-0.9.25+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XvoWJaA2",
+      "versionId": "7vXbmNlo"
+    }
+  ],
   "fabric": [
     {
       "modId": "spell_engine",

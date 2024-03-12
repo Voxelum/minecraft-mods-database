@@ -1,6 +1,18 @@
 {
   "name": "auto_third_person-fabric-1.20.1-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ANu8FMzT",
+      "versionId": "s2FOydlN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297818,
+      "fileId": 4730065
+    }
+  ],
   "fabric": [
     {
       "modId": "auto_third_person",

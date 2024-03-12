@@ -1,6 +1,18 @@
 {
   "name": "DisableCustomWorldsAdvice-4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HdwRs3kc",
+      "versionId": "P23QCBEG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401978,
+      "fileId": 4619700
+    }
+  ],
   "fabric": [
     {
       "modId": "disable_custom_worlds_advice",

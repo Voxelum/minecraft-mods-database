@@ -1,0 +1,26 @@
+{
+  "name": "EditSign-1.19.4-2.8.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 344996,
+      "fileId": 4449929
+    }
+  ],
+  "forge": [
+    {
+      "modId": "editsign",
+      "version": "2.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "editsign",
+      "version": "2.8.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.96"
+    }
+  ]
+}

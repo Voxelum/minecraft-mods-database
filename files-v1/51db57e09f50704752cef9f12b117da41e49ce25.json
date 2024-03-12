@@ -1,0 +1,16 @@
+{
+  "name": "DistantHorizons-1.6.2a-1.16.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lod",
+      "version": "1.6.2a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lod",
+      "version": "1.6.2a"
+    }
+  ]
+}

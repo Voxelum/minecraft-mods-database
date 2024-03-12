@@ -1,0 +1,16 @@
+{
+  "name": "VMTranslationUpdate-2.2.0-1.18.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vmtranslationupdate",
+      "version": "2.2.0-1.18.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vmtranslationupdate",
+      "version": "2.2.0-1.18.2"
+    }
+  ]
+}

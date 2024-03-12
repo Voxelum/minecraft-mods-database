@@ -1,6 +1,12 @@
 {
   "name": "bedrodium-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5roWs6VO",
+      "versionId": "KPvmTtFT"
+    }
+  ],
   "fabric": [
     {
       "modId": "bedrodium",

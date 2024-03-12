@@ -1,0 +1,18 @@
+{
+  "name": "somnus-fabric-0.0.12-1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "somnus",
+      "version": "0.0.12-1.16.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+c88702897d"
+    },
+    {
+      "modId": "fabric-entity-events-v1",
+      "version": "1.2.1+5187819b7d"
+    }
+  ]
+}

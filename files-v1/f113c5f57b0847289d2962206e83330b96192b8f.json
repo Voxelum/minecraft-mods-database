@@ -1,6 +1,18 @@
 {
   "name": "Log-Begone-Forge-1.18-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9ON3zv6e",
+      "versionId": "nYO2EEJH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623560,
+      "fileId": 4521572
+    }
+  ],
   "forge": [
     {
       "modId": "logbegone",

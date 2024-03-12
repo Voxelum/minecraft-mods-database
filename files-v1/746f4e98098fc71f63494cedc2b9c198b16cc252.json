@@ -1,0 +1,14 @@
+{
+  "name": "whats-that-slot-fabric-1.3.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "whats_that_slot",
+      "version": "1.3.0+1.19"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.3+9e7660c6a9"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "medievalweapons-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411400,
+      "fileId": 3805747
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medievalweapons",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

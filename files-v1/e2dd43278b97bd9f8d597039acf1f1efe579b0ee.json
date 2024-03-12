@@ -1,0 +1,22 @@
+{
+  "name": "elytratrims-fabric-2.0.0-beta.2+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 5032610
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "2.0.0-beta.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytra-trims",
+      "version": "2.0.0-beta.2"
+    }
+  ]
+}

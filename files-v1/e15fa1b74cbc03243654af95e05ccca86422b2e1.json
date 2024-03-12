@@ -1,6 +1,18 @@
 {
   "name": "healingcampfire-1.19.2-5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kOuPUitF",
+      "versionId": "R5L6eIZ5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342623,
+      "fileId": 4397570
+    }
+  ],
   "forge": [
     {
       "modId": "healingcampfire",

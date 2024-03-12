@@ -1,0 +1,18 @@
+{
+  "name": "repurposed_structures-1.16.5-1.11.5-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "1.16.5-1.11.5-fabric"
+    },
+    {
+      "modId": "voyager",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "angerable-patch",
+      "version": "1.1.0-1.16.4"
+    }
+  ]
+}

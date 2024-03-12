@@ -1,0 +1,16 @@
+{
+  "name": "amplified-nether-kill-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_amplified_netherkill",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_amplified_netherkill",
+      "version": "1.0"
+    }
+  ]
+}

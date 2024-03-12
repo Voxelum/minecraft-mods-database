@@ -1,0 +1,20 @@
+{
+  "name": "lilwings-fabric-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 561277,
+      "fileId": 3812945
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lilwings",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "milk",
+      "version": "0.3.1"
+    }
+  ]
+}

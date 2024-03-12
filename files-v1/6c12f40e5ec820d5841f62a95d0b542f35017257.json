@@ -1,0 +1,16 @@
+{
+  "name": "createunlimited-0.4.0.52+mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createunlimited",
+      "version": "0.4.0.52"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createunlimited",
+      "version": "0.4.0.52"
+    }
+  ]
+}

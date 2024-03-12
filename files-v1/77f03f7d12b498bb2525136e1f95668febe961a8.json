@@ -1,0 +1,18 @@
+{
+  "name": "victus-mod-fabric-quilt-1_20_2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "victus",
+      "version": "0.1.14+1.20.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.3+1.20.2"
+    },
+    {
+      "modId": "lavender",
+      "version": "0.1.0-pre.15+1.20.2"
+    }
+  ]
+}

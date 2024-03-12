@@ -1,6 +1,18 @@
 {
   "name": "BasicShields-1.2.1-1.18.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ePPW8VRb",
+      "versionId": "tx2Pl01P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538011,
+      "fileId": 3594300
+    }
+  ],
   "fabric": [
     {
       "modId": "basicshields",

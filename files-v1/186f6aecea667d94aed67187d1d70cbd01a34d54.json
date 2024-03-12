@@ -1,6 +1,12 @@
 {
   "name": "modmenu-6.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "iZRiOnnj"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

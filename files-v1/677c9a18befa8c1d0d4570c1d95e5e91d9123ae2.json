@@ -1,0 +1,16 @@
+{
+  "name": "Terralith_1_20_2_v2_4_8-no_toast.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "2.4.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.4.8-no_toast"
+    }
+  ]
+}

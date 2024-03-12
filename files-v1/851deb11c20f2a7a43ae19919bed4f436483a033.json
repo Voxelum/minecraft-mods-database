@@ -1,6 +1,12 @@
 {
   "name": "emuno-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLrPqrNI",
+      "versionId": "Rt34JLkK"
+    }
+  ],
   "fabric": [
     {
       "modId": "emuno",

@@ -1,6 +1,18 @@
 {
   "name": "IngredientExtensionAPI-fabric-1.18.1-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ykQv0RVc",
+      "versionId": "hTpIGMCk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 557735,
+      "fileId": 3599646
+    }
+  ],
   "fabric": [
     {
       "modId": "ingredient-extension-api",

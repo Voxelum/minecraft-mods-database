@@ -1,6 +1,18 @@
 {
   "name": "betterstats-2.9.3+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n6PXGAoM",
+      "versionId": "5RoB9ulm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667464,
+      "fileId": 4595391
+    }
+  ],
   "fabric": [
     {
       "modId": "betterstats",

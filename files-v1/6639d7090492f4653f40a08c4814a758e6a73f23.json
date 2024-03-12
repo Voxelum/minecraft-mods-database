@@ -1,0 +1,30 @@
+{
+  "name": "ChatImage-1.1.2+1.19.2+fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chatimage",
+      "version": "1.1.2+1.19.2+fabric"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "3.14.7"
+    },
+    {
+      "modId": "com_squareup_okio_okio",
+      "version": "1.17.5"
+    },
+    {
+      "modId": "com_madgag_animated-gif-lib",
+      "version": "1.4"
+    },
+    {
+      "modId": "org_sejda_webp-imageio_webp-imageio-sejda",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "net_sf_image4j_image4j",
+      "version": "0.7.2"
+    }
+  ]
+}

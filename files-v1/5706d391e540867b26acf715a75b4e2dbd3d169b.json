@@ -1,0 +1,24 @@
+{
+  "name": "Origins-1.19.2-1.7.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391943,
+      "fileId": 3968193
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

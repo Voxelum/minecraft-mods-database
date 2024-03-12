@@ -1,0 +1,10 @@
+{
+  "name": "hqm-1.12-5.4.0-hotfix1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hardcorequesting",
+      "version": "@VERSION@"
+    }
+  ]
+}

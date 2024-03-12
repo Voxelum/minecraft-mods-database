@@ -1,6 +1,12 @@
 {
   "name": "terrestria-6.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lsUDPMOT",
+      "versionId": "V8xdpUMo"
+    }
+  ],
   "fabric": [
     {
       "modId": "terrestria",

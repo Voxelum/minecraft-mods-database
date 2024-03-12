@@ -1,0 +1,22 @@
+{
+  "name": "Overworld Netherite Ore Mod 1.8 1.19.2 Forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 625133,
+      "fileId": 4615940
+    }
+  ],
+  "forge": [
+    {
+      "modId": "netherite_ore_mod",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherite_ore_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

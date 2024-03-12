@@ -1,0 +1,24 @@
+{
+  "name": "wynntils-0.0.3-alpha.269-fabric+MC-1.19.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wynntils",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynntils",
+      "version": "0.0.3-alpha.269"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.6+d3afe6c3f4"
+    }
+  ]
+}

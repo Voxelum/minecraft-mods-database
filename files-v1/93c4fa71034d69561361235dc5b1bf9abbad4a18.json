@@ -1,0 +1,16 @@
+{
+  "name": "you-bandit!-2.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_you_bandit",
+      "version": "2.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_you_bandit",
+      "version": "2.0.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "TinkersComplement-1.12.2-0.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jL4QSgdv",
+      "versionId": "V3NGn4uW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 272671,
+      "fileId": 2843439
+    }
+  ],
   "forge": [
     {
       "modId": "tcomplement",

@@ -1,6 +1,18 @@
 {
   "name": "rpgdifficulty-1.3.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G5AvCOPI",
+      "versionId": "M1B8PzR5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 480786,
+      "fileId": 4548147
+    }
+  ],
   "fabric": [
     {
       "modId": "rpgdifficulty",

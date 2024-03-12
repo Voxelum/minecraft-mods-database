@@ -1,6 +1,12 @@
 {
   "name": "advancement-count-v1.1.0b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2tEdxXOF",
+      "versionId": "HbcxjzwX"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_advancement_count",

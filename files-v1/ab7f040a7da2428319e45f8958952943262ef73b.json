@@ -1,6 +1,18 @@
 {
   "name": "creeperoverhaul-2.0.9-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MI1LWe93",
+      "versionId": "JF5M63Wz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561625,
+      "fileId": 4444671
+    }
+  ],
   "fabric": [
     {
       "modId": "creeperoverhaul",

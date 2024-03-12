@@ -1,0 +1,20 @@
+{
+  "name": "Monster-of-the-ocean-depths-3.1-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 412827,
+      "fileId": 3222517
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoob",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "libstructure",
+      "version": "1.3"
+    }
+  ]
+}

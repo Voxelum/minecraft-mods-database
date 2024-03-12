@@ -1,0 +1,26 @@
+{
+  "name": "kubejs-fabric-1902.6.2-build.45.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "MJZU8kaa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 4931519
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "1902.6.2-build.45"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

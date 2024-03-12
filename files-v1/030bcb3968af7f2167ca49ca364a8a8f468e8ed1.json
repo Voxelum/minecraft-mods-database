@@ -1,0 +1,10 @@
+{
+  "name": "physics-mod-2.12.3-mc-1.18.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "physicsmod",
+      "version": "2.12.3"
+    }
+  ]
+}

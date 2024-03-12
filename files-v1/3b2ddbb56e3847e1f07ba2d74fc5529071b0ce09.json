@@ -1,0 +1,46 @@
+{
+  "name": "jsmacros-1.20.1-1.8.5-fabric.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jsmacros",
+      "version": "1.8.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a77"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.20+b3afc78b77"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da77"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d77"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.11+b3afc78b77"
+    },
+    {
+      "modId": "io_noties_prism4j",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.10"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.28.0-GA"
+    },
+    {
+      "modId": "org_jooq_joor",
+      "version": "0.9.14"
+    }
+  ]
+}

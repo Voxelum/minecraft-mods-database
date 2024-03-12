@@ -1,6 +1,18 @@
 {
   "name": "ctm-fabric-1.0.0+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "syUFsyMr",
+      "versionId": "QUrujfLU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633997,
+      "fileId": 3834064
+    }
+  ],
   "fabric": [
     {
       "modId": "ctm",

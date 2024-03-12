@@ -1,0 +1,22 @@
+{
+  "name": "comforts-fabric-6.0.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "6.0.2+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.10.0+1.19"
+    }
+  ]
+}

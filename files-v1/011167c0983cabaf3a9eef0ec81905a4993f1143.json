@@ -1,0 +1,20 @@
+{
+  "name": "BradsFabricApi-1.1.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "toILlMg6",
+      "versionId": "Uw3BpwYk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bfapi",
+      "version": "1.1.11"
+    },
+    {
+      "modId": "packet_tweaker",
+      "version": "0.2.0+1.17.1"
+    }
+  ]
+}

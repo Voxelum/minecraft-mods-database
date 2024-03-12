@@ -1,0 +1,14 @@
+{
+  "name": "playdate-2.0.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "playdate",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.1"
+    }
+  ]
+}

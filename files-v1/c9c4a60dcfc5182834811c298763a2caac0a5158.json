@@ -1,6 +1,18 @@
 {
   "name": "hookshot-r24.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Llu0xJGi",
+      "versionId": "W8Ued0OO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396512,
+      "fileId": 3626207
+    }
+  ],
   "fabric": [
     {
       "modId": "hookshot",

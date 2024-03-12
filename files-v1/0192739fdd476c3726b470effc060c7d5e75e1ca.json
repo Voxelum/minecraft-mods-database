@@ -1,0 +1,10 @@
+{
+  "name": "notenoughitems-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "NotEnoughItems",
+      "version": "1.0.5.null"
+    }
+  ]
+}

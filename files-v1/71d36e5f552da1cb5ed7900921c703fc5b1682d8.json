@@ -1,0 +1,20 @@
+{
+  "name": "miningdimensions_fabric-1.20.1-1.6.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 442921,
+      "fileId": 5133118
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mining_dims",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

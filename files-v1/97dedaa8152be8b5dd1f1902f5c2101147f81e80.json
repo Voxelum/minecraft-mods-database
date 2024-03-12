@@ -1,6 +1,12 @@
 {
   "name": "soulslike-weaponry-0.9.9.7-1.20-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 632066,
+      "fileId": 4755093
+    }
+  ],
   "fabric": [
     {
       "modId": "soulsweapons",

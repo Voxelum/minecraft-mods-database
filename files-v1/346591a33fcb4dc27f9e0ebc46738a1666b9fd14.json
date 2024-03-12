@@ -1,6 +1,12 @@
 {
   "name": "foodeffecttooltips.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GGfyJWnG",
+      "versionId": "aJiMrtqD"
+    }
+  ],
   "fabric": [
     {
       "modId": "foodeffecttooltips",

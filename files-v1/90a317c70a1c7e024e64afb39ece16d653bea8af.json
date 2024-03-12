@@ -1,0 +1,22 @@
+{
+  "name": "HigherWorldDeeperOceans-1.18.x.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 725771,
+      "fileId": 4413089
+    }
+  ],
+  "forge": [
+    {
+      "modId": "higherworlddeeperocean",
+      "version": "0.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "higherworlddeeperocean",
+      "version": "0.0.2"
+    }
+  ]
+}

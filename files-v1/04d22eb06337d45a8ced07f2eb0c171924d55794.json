@@ -1,6 +1,12 @@
 {
   "name": "fusion-1.0.5-forge-mc1.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 854949,
+      "fileId": 4670829
+    }
+  ],
   "forge": [
     {
       "modId": "fusion",

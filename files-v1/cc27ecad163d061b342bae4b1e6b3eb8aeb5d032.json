@@ -1,6 +1,12 @@
 {
   "name": "spirit-walker-0.1.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zbX4s3vj",
+      "versionId": "Gbu2vbnC"
+    }
+  ],
   "fabric": [
     {
       "modId": "spirit-walker",

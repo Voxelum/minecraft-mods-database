@@ -1,0 +1,10 @@
+{
+  "name": "crayfish-mod-1.34.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crayfish",
+      "version": "1.34"
+    }
+  ]
+}

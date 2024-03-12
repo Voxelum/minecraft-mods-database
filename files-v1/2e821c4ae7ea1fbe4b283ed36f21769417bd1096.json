@@ -1,0 +1,20 @@
+{
+  "name": "viewboboptions-0.1.0+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yr9J16k6",
+      "versionId": "aAyOpwOE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viewboboptions",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

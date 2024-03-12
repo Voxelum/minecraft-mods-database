@@ -1,0 +1,16 @@
+{
+  "name": "footprintparticle-0.4.0-mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.4.0-mc1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.4.0-mc1.19.2"
+    }
+  ]
+}

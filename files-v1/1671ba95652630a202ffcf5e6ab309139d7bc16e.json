@@ -1,0 +1,28 @@
+{
+  "name": "Slyde-1.5.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411386,
+      "fileId": 3669923
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "slyde",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "libjf-config-v0",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "libjf-unsafe-v0",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "libjf-base",
+      "version": "2.5.0"
+    }
+  ]
+}

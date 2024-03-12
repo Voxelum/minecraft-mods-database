@@ -1,0 +1,20 @@
+{
+  "name": "geckolib-fabric-1.20.1-4.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "6AmfrKIK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geckolib",
+      "version": "4.4"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

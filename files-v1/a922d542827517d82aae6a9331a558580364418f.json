@@ -1,0 +1,20 @@
+{
+  "name": "atbyw-1.17-1.5.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 428415,
+      "fileId": 3368468
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "atbyw",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.3.11"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "FabricShieldLib-1.7.2-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7SDalH12",
+      "versionId": "xY16zX6k"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricshieldlib",
+      "version": "1.7.2-1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

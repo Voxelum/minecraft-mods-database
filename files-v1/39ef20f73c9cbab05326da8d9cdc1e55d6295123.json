@@ -1,6 +1,18 @@
 {
   "name": "brandedlogs-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tbktcZz2",
+      "versionId": "UJ92OhP6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882472,
+      "fileId": 4739432
+    }
+  ],
   "fabric": [
     {
       "modId": "brandedlogs",

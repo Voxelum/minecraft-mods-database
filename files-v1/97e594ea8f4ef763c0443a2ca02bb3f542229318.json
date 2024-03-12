@@ -1,0 +1,98 @@
+{
+  "name": "mousewheelie-1.13.0+mc1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u5Ic2U1u",
+      "versionId": "ZDH1ONdq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317514,
+      "fileId": 4781030
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mousewheelie",
+      "version": "1.13.0+mc1.16.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.0+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.5+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-events-lifecycle-v0",
+      "version": "0.2.2+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-item-api-v1",
+      "version": "1.2.2+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.2+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.5+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.5+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-tag-extensions-v0",
+      "version": "1.1.2+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-tool-attribute-api-v1",
+      "version": "1.2.8+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.8+3cc0f0907d"
+    },
+    {
+      "modId": "coat",
+      "version": "1.0.0-beta.20+mc1.16.5"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.5.1+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_annotated",
+      "version": "1.3.1+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_base",
+      "version": "1.7.1+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_data",
+      "version": "1.2.1+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_data_hjson",
+      "version": "1.1.0+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_tailor_coat",
+      "version": "1.1.3+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_tailor_lang_json_descriptions",
+      "version": "1.1.0+mc1.16.5"
+    },
+    {
+      "modId": "tweed4_tailor_screen",
+      "version": "1.1.4+mc1.16.5"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Oaks-Decor-v8.0-Fabric-Support-fabric-1.19.2-PUBLIC.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "oaks_decor",
+      "version": "7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oaks_decor",
+      "version": "8.0 fabric (Private)"
+    }
+  ]
+}

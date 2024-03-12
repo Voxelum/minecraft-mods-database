@@ -1,0 +1,16 @@
+{
+  "name": "SweetBerryFoods-v3.1.2-1.20.1-Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sweetberryfoods",
+      "version": "3.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sweetberryfoods",
+      "version": "3.1.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cobblemounts-1.1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cobblemounts",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

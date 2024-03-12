@@ -1,0 +1,38 @@
+{
+  "name": "figura-0.1.0-rc.14+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "figura",
+      "version": "0.1.0-rc.14+1.18.2-383a8ba"
+    },
+    {
+      "modId": "com_github_moonlight-mc_luaj_luaj-core",
+      "version": "3.0.5-figura"
+    },
+    {
+      "modId": "com_github_moonlight-mc_luaj_luaj-jse",
+      "version": "3.0.5-figura"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.4+d7c144a860"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.9+d7c144a860"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.2+446e059560"
+    }
+  ]
+}

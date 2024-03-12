@@ -1,0 +1,20 @@
+{
+  "name": "everycomp-1.20-2.6.33-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 5107224
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "everycomp",
+      "version": "1.20-2.6.33"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

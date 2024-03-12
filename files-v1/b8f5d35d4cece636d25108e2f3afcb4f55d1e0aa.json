@@ -1,6 +1,18 @@
 {
   "name": "API-valhelsia_core-forge-1.19.2-0.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HsdNFinx",
+      "versionId": "WD3qvkz8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416935,
+      "fileId": 4181245
+    }
+  ],
   "forge": [
     {
       "modId": "valhelsia_core",

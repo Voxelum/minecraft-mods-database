@@ -1,6 +1,18 @@
 {
   "name": "bettertaskbar-fabric-mc1.20-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gPEcet33",
+      "versionId": "ak8R3XJc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538793,
+      "fileId": 4592914
+    }
+  ],
   "fabric": [
     {
       "modId": "bettertaskbar",

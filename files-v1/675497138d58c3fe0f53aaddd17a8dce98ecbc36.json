@@ -1,0 +1,10 @@
+{
+  "name": "[修复][聊天卡顿修复]chatlagfix-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chatlagfix",
+      "version": "1.0.0"
+    }
+  ]
+}

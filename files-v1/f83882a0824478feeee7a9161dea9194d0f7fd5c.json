@@ -1,0 +1,16 @@
+{
+  "name": "arrmour and sword-2.0.0beta3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "platearmor",
+      "version": "2.0.03"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "platearmor",
+      "version": "2.0.0beta2"
+    }
+  ]
+}

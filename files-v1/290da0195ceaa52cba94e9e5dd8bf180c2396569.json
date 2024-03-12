@@ -1,6 +1,12 @@
 {
   "name": "cleancut-mc1.16-2.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 392805,
+      "fileId": 3061943
+    }
+  ],
   "forge": [
     {
       "modId": "cleancut",

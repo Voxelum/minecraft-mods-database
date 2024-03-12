@@ -1,0 +1,32 @@
+{
+  "name": "authme-8.0.0+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yjgIrBjZ",
+      "versionId": "bONvp1zp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "8.0.0+1.20.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.33+fce67b32a0"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.26+3bafade3a0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.11+86b12645a0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    }
+  ]
+}

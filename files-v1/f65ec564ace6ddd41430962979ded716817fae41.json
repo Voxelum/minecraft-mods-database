@@ -1,0 +1,26 @@
+{
+  "name": "DarkModeEverywhere-1.19.2-1.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bJF8eNMy",
+      "versionId": "YTJjyICD"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "DarkModeEverywhere-1.19.2-1.0.4",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkmodeeverywhere",
+      "version": "1.19.2-1.0.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.6"
+    }
+  ]
+}

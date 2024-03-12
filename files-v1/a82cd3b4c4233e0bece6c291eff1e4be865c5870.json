@@ -1,6 +1,12 @@
 {
   "name": "auto_third_person-fabric-1.19.2-2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ANu8FMzT",
+      "versionId": "hBY8w3YG"
+    }
+  ],
   "fabric": [
     {
       "modId": "auto_third_person",

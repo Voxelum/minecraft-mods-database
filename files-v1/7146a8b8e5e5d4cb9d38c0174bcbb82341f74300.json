@@ -1,0 +1,38 @@
+{
+  "name": "Industrial-Revolution-Mod-Fabric-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "indrev",
+      "version": "1.16.3-BETA"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.0+1.20"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-80-FABRIC"
+    },
+    {
+      "modId": "magna",
+      "version": "0.5.3-1.20.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.19"
+    }
+  ]
+}

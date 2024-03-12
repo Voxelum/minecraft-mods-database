@@ -1,0 +1,10 @@
+{
+  "name": "Bridging-Mod-Forge-1.20.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bridgingmod",
+      "version": "2.2.0+1.20.2.forge"
+    }
+  ]
+}

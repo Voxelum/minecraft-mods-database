@@ -1,0 +1,10 @@
+{
+  "name": "StreamMenu.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "menu",
+      "version": "2.1.1"
+    }
+  ]
+}

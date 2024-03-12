@@ -1,0 +1,30 @@
+{
+  "name": "simplevillagers-1.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplevillagers",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.1.3+1.19.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.16+1.19"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "polymer",
+      "version": "0.2.10+1.19.1"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.1"
+    }
+  ]
+}

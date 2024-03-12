@@ -1,0 +1,62 @@
+{
+  "name": "seedcrackerX-2.14.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seedcrackerx",
+      "version": "2.14.2"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.4+ae0966baf4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.23+9ff28bcef4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.96"
+    },
+    {
+      "modId": "com_seedfinding_mc_math",
+      "version": "0eb505174da8a92550f8ec6efe254e0fa936cc0d"
+    },
+    {
+      "modId": "com_seedfinding_mc_seed",
+      "version": "5518e3ba3ee567fb0b51c15958967f70a6a19e02"
+    },
+    {
+      "modId": "com_seedfinding_mc_core",
+      "version": "d685a37f0a466d4bf800e7f285daf9ef73c81678"
+    },
+    {
+      "modId": "com_seedfinding_mc_noise",
+      "version": "a6ab8e6c688491829f8d2adf845392da22ef8e9c"
+    },
+    {
+      "modId": "com_seedfinding_mc_biome",
+      "version": "b2271807a047bb43ac60c8c20ad47e315f19b9a6"
+    },
+    {
+      "modId": "com_seedfinding_mc_terrain",
+      "version": "9e937ddb838e28e79423c287fa18b1ce66f061d7"
+    },
+    {
+      "modId": "com_seedfinding_mc_feature",
+      "version": "c29fd1fcd746e14c1bcdb127da3113ba273db1fd"
+    },
+    {
+      "modId": "com_seedfinding_mc_reversal",
+      "version": "ca64c0890c106f1a2207623c316fce86f250b918"
+    },
+    {
+      "modId": "com_seedfinding_latticg",
+      "version": "1.06"
+    }
+  ]
+}

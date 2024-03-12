@@ -1,0 +1,16 @@
+{
+  "name": "liquidbounce-b86.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "liquidbounce",
+      "version": "b86"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viabackwards",
+      "version": "4.4.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "muon-0.2-1.12.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 257996,
+      "fileId": 2532746
+    }
+  ],
   "forge": [
     {
       "modId": "muon",

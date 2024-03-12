@@ -1,0 +1,22 @@
+{
+  "name": "beta-nether-V1-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5TlMAiY5",
+      "versionId": "8bGwu6a3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_beta_nether",
+      "version": "1-V1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_beta_nether",
+      "version": "1-V1"
+    }
+  ]
+}

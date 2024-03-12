@@ -1,0 +1,10 @@
+{
+  "name": "libIPN-Mod-Fabric-Quilt-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "libipn",
+      "version": "1.0.8"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "advancementinfo-1.16.5-fabric0.30.0-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1epq3jN",
+      "versionId": "6Em9IM5o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403815,
+      "fileId": 3193541
+    }
+  ],
   "fabric": [
     {
       "modId": "advancementinfo",

@@ -1,0 +1,22 @@
+{
+  "name": "time-keeper-1.01.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xauTgSjz",
+      "versionId": "bZYvno8J"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_time_keeper",
+      "version": "1.01"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_time_keeper",
+      "version": "1.01"
+    }
+  ]
+}

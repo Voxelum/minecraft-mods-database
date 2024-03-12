@@ -1,0 +1,22 @@
+{
+  "name": "specutils-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "specutils",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.2.2"
+    }
+  ]
+}

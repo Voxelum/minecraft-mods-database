@@ -1,0 +1,14 @@
+{
+  "name": "azaleawood-1.1-1.20.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "azaleawood",
+      "version": "1.1-1.20.x"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

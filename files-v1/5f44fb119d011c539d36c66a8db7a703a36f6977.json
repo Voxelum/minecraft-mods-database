@@ -1,0 +1,18 @@
+{
+  "name": "Oh_The_Biomes_You'll_Go-fabric-1.18.2-1.4.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "byg",
+      "version": "1.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.2"
+    }
+  ]
+}

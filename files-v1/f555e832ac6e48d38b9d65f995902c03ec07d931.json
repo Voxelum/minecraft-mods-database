@@ -1,0 +1,10 @@
+{
+  "name": "ABM.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "abm",
+      "version": "0.3.2"
+    }
+  ]
+}

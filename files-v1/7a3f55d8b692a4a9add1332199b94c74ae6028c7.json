@@ -1,6 +1,12 @@
 {
   "name": "badpackets-forge-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ftdbN0KK",
+      "versionId": "7W1EZ62z"
+    }
+  ],
   "forge": [
     {
       "modId": "badpackets",

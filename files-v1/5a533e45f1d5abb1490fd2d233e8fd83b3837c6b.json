@@ -1,0 +1,16 @@
+{
+  "name": "brain-over-brawn-0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_brain_overbrawn",
+      "version": "0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_brain_overbrawn",
+      "version": "0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "cobbler-1.6.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 380136,
+      "fileId": 3132033
+    }
+  ],
   "forge": [
     {
       "modId": "cobbler",

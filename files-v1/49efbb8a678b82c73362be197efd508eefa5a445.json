@@ -1,6 +1,12 @@
 {
   "name": "fullstackwatchdog-1.0.1+1.16.5-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 849817,
+      "fileId": 4488545
+    }
+  ],
   "forge": [
     {
       "modId": "fullstackwatchdog",

@@ -1,0 +1,16 @@
+{
+  "name": "startinv-1.0.0-forge-1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "startinv",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "startinv",
+      "version": "1.0.0"
+    }
+  ]
+}

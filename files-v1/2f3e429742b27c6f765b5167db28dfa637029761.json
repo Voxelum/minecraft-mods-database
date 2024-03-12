@@ -1,0 +1,26 @@
+{
+  "name": "skyblocker-1.8.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "skyblocker",
+      "version": "1.8.2+1.19.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.0.0.202111291000-r"
+    },
+    {
+      "modId": "meteordevelopment_discord-ipc",
+      "version": "1.1"
+    },
+    {
+      "modId": "com_github_marcono1234_gson-record-type-adapter-factory",
+      "version": "0.2.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "icarus-1.16-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "icarus",
+      "version": "1.16"
+    }
+  ]
+}

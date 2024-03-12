@@ -1,0 +1,42 @@
+{
+  "name": "replaymod-1.20.4-2.6.14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nv2fQJo5",
+      "versionId": "gxDkodfS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 775651,
+      "fileId": 4952940
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "1.20.4-2.6.14"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.35+78d798af4f"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.15+78d798af4f"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.40+78d798af4f"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.16+78d798af4f"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.1.2+78d798af4f"
+    }
+  ]
+}

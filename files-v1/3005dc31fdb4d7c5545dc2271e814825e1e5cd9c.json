@@ -1,6 +1,12 @@
 {
   "name": "carpenter-fabric-1.0.0+1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549446,
+      "fileId": 3972070
+    }
+  ],
   "fabric": [
     {
       "modId": "carpenter",

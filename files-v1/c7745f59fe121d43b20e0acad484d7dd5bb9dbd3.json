@@ -1,0 +1,16 @@
+{
+  "name": "ForgeCustomCursorMod-1.18-1.3.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "customcursormod",
+      "version": "1.3.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cursormod",
+      "version": "1.3.0.1"
+    }
+  ]
+}

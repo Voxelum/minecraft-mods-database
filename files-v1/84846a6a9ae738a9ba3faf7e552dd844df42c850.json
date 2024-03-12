@@ -1,0 +1,28 @@
+{
+  "name": "dawn-3.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 399309,
+      "fileId": 3575028
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "2.1.0"
+    }
+  ]
+}

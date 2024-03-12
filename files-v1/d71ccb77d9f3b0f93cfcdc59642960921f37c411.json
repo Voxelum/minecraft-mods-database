@@ -1,0 +1,24 @@
+{
+  "name": "coroutil-fabric-1.19.2-1.3.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "coroutil",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coroutil",
+      "version": "1.19.2-1.3.6"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.77.0+1.19.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    }
+  ]
+}

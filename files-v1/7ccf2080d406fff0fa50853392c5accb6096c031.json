@@ -1,0 +1,16 @@
+{
+  "name": "dismountentity-1.20.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dismountentity",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dismountentity",
+      "version": "3.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "Tips-Fabric-1.20.1-12.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AMCbgyVw",
+      "versionId": "8Dhx6Zue"
+    }
+  ],
   "fabric": [
     {
       "modId": "tipsmod",

@@ -1,0 +1,10 @@
+{
+  "name": "sol_valheim-fabric-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sol_valheim",
+      "version": "1.0.1"
+    }
+  ]
+}

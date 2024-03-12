@@ -1,0 +1,22 @@
+{
+  "name": "charmonium-forge-1.16.5-2.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 431587,
+      "fileId": 3214653
+    }
+  ],
+  "forge": [
+    {
+      "modId": "charmonium",
+      "version": "2.3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmonium",
+      "version": "${version}"
+    }
+  ]
+}

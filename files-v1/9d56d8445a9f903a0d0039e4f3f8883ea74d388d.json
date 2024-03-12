@@ -1,6 +1,12 @@
 {
   "name": "spelunkery-1.19.2-0.2.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "krskFMfA",
+      "versionId": "QWmbcf0E"
+    }
+  ],
   "fabric": [
     {
       "modId": "spelunkery",

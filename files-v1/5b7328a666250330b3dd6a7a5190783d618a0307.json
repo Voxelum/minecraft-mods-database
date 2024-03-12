@@ -1,6 +1,18 @@
 {
   "name": "modmenu-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "eueI9czw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 3570652
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

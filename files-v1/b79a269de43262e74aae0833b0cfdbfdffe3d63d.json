@@ -1,0 +1,22 @@
+{
+  "name": "WWOO-FABRIC+FORGE-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "II7t6llZ",
+      "versionId": "LxQ3mhsF"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wwoo_forge",
+      "version": "2.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wwoo",
+      "version": "2.0.1"
+    }
+  ]
+}

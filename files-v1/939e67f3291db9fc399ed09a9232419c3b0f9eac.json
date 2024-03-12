@@ -1,0 +1,26 @@
+{
+  "name": "Multiworld-Fabric-bundle.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "multiworld-bundle",
+      "version": "bundle"
+    },
+    {
+      "modId": "multiworld",
+      "version": "1.7"
+    },
+    {
+      "modId": "multiworld",
+      "version": "1.7"
+    },
+    {
+      "modId": "multiworld",
+      "version": "1.7"
+    },
+    {
+      "modId": "multiworld",
+      "version": "1.7"
+    }
+  ]
+}

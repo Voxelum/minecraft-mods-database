@@ -1,0 +1,16 @@
+{
+  "name": "randompatches-2.4.5-fabric-sources.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JmtW1Cr5",
+      "versionId": "Sy4c3rpC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randompatches",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "hiddenrecipebook-1.20.1-4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NbPqFmZs",
+      "versionId": "5Icaj7E0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459727,
+      "fileId": 4583616
+    }
+  ],
   "forge": [
     {
       "modId": "hiddenrecipebook",

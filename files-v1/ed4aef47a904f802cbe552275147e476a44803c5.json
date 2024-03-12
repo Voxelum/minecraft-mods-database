@@ -1,6 +1,12 @@
 {
   "name": "nutritious-feast-1.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtMli81M",
+      "versionId": "wdN14ZwD"
+    }
+  ],
   "fabric": [
     {
       "modId": "nutritious-feast",

@@ -1,0 +1,16 @@
+{
+  "name": "[更好的联机]mcwifipnp-1.5.6-1.19.1-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.5.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.5.6"
+    }
+  ]
+}

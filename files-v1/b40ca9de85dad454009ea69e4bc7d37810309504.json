@@ -1,0 +1,20 @@
+{
+  "name": "SplashChanger-1.1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHxZ7hct",
+      "versionId": "KV6QAbbJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "splashchanger",
+      "version": "1.1.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

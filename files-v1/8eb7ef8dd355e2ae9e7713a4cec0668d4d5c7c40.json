@@ -1,0 +1,16 @@
+{
+  "name": "NotEnoughUpdates-2.1.1-Pre-5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "notenoughupdateserrordisplay",
+      "version": "2.1.1+Pre-5.6538b08"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughupdates",
+      "version": "2.1.1+Pre-5.6538b08"
+    }
+  ]
+}

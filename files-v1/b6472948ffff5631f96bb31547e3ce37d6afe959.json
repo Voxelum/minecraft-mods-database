@@ -1,6 +1,18 @@
 {
   "name": "mobsunscreen-1.12.2-2.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rWSwwjTs",
+      "versionId": "LstECGTw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 298408,
+      "fileId": 3039432
+    }
+  ],
   "forge": [
     {
       "modId": "mobsunscreen",

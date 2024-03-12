@@ -1,0 +1,18 @@
+{
+  "name": "japi-1.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "japi",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.3.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cardboard-1.17-1.18.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MLYQ9VGP",
+      "versionId": "T6heHzY2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardboard",
+      "version": "${version}"
+    },
+    {
+      "modId": "com_github_isaiahpatton_specialsource",
+      "version": "master-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mod.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7onUHM7N",
+      "versionId": "idKzGdhA"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "minions",
+      "version": "1.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minions",
+      "version": "1.1.2"
+    }
+  ]
+}

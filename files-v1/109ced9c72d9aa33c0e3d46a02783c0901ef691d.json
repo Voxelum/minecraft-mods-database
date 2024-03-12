@@ -1,0 +1,16 @@
+{
+  "name": "anvilrestoration-1.20.1-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "anvilrestoration",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "anvilrestoration",
+      "version": "2.1"
+    }
+  ]
+}

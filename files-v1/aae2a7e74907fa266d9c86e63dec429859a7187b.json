@@ -1,0 +1,14 @@
+{
+  "name": "randomtp-6.1.0+1.18-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "randomtp",
+      "version": "6.1.0+1.18"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

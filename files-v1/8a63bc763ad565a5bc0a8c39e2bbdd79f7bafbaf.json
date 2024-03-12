@@ -1,0 +1,14 @@
+{
+  "name": "gardens-of-the-dead-fabric-4.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gardens_of_the_dead",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "terrablender",
+      "version": "3.0.0.167"
+    }
+  ]
+}

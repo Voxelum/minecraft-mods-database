@@ -1,0 +1,20 @@
+{
+  "name": "ftb-quests-fabric-2001.3.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 438496,
+      "fileId": 4929478
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbquests",
+      "version": "2001.3.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

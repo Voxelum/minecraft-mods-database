@@ -1,6 +1,12 @@
 {
   "name": "enlightend-5.0.10-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 502786,
+      "fileId": 4740103
+    }
+  ],
   "forge": [
     {
       "modId": "enlightened_end",

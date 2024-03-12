@@ -1,6 +1,12 @@
 {
   "name": "hydrogen-fabric-mc1.16.5-0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AZomiSrC",
+      "versionId": "aOtQ7hz2"
+    }
+  ],
   "fabric": [
     {
       "modId": "hydrogen",

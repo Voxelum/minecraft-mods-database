@@ -1,0 +1,16 @@
+{
+  "name": "HopoBetterUnderwaterRuins-1.18.2b.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hopour",
+      "version": "1.0.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobetterunderwaterruins",
+      "version": "1.0.5"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "configurablemobpotioneffects-1.19.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "configurablemobpotioneffects",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurablemobpotioneffects",
+      "version": "3.0"
+    }
+  ]
+}

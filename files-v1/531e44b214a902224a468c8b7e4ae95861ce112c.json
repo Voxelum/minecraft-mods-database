@@ -1,0 +1,22 @@
+{
+  "name": "fsm-v1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 893713,
+      "fileId": 4664532
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fnafsuitsmod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fnafearsmod",
+      "version": "1.0.0"
+    }
+  ]
+}

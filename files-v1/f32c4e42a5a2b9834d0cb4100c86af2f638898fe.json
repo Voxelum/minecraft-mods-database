@@ -1,0 +1,10 @@
+{
+  "name": "Blur-MC1.7.10-1.0.1-2-optimized.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "blur",
+      "version": "@VERSION@"
+    }
+  ]
+}

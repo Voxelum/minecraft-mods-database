@@ -1,0 +1,20 @@
+{
+  "name": "AxesAreWeapons-1.7.1-fabric-1.17.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456457,
+      "fileId": 4691801
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "axesareweapons",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

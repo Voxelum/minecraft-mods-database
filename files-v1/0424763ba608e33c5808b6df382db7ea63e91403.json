@@ -1,0 +1,26 @@
+{
+  "name": "CoordinatesDisplay-6.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3mW8PdUo",
+      "versionId": "7B2Qo6v9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 646464,
+      "fileId": 4990542
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coordinatesdisplay",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "boxlib",
+      "version": "11.0.1"
+    }
+  ]
+}

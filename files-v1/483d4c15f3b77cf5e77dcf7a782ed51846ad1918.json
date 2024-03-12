@@ -1,0 +1,10 @@
+{
+  "name": "dungeonsguide-4.0.0-beta9.2-standalone.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dungeons_guide_loader",
+      "version": "4.0.0"
+    }
+  ]
+}

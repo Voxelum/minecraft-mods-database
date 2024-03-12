@@ -1,6 +1,18 @@
 {
   "name": "antighost-1.16.5-fabric0.30.0-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jw3Wx1KR",
+      "versionId": "V7J7tuy9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 273279,
+      "fileId": 3193496
+    }
+  ],
   "fabric": [
     {
       "modId": "antighost",

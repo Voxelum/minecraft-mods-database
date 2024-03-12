@@ -1,0 +1,10 @@
+{
+  "name": "passiveshield-fabric_1.19.x-2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "passiveshield-fabric",
+      "version": "2.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ArmorStatues-v20.4.0-1.20.4-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorstatues",
+      "version": "20.4.0"
+    },
+    {
+      "modId": "statuemenus",
+      "version": "20.4.1"
+    }
+  ]
+}

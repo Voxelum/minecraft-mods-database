@@ -1,0 +1,10 @@
+{
+  "name": "meteor-fabric-1.9.3.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "baritone",
+      "version": "1.9.3"
+    }
+  ]
+}

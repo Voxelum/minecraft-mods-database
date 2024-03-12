@@ -1,0 +1,20 @@
+{
+  "name": "cftags-0.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AyiRHxpO",
+      "versionId": "99KluJZk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cftags",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "tags_binder",
+      "version": "0.1.2"
+    }
+  ]
+}

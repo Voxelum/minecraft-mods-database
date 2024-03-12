@@ -1,6 +1,18 @@
 {
   "name": "BetterBurning-Forge-1.20.1-9.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNBP8Xul",
+      "versionId": "ofC4BKPB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353434,
+      "fileId": 4714733
+    }
+  ],
   "forge": [
     {
       "modId": "betterburning",

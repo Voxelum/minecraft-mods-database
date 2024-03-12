@@ -1,0 +1,14 @@
+{
+  "name": "【发芽,花生，大象，虫子】sprout-1.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sprout",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.10"
+    }
+  ]
+}

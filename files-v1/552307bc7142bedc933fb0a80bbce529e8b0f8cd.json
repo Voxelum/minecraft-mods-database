@@ -1,0 +1,22 @@
+{
+  "name": "enigma-origin-2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFEE3a5p",
+      "versionId": "CrHWl2m3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_enigma_origin",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_enigma_origin",
+      "version": "2.1.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "moreiotas-fabric-1.19.2-0.0.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moreiotas",
+      "version": "0.0.4"
+    },
+    {
+      "modId": "org_jblas_jblas",
+      "version": "1.2.5"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "cardinal-components",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

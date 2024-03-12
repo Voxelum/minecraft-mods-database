@@ -1,6 +1,12 @@
 {
   "name": "eating-animation-1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rUgZvGzi",
+      "versionId": "gtN7WsnE"
+    }
+  ],
   "fabric": [
     {
       "modId": "eatinganimationid",

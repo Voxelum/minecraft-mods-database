@@ -1,6 +1,18 @@
 {
   "name": "Controlling-3.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "fOUwakK0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250398,
+      "fileId": 2926366
+    }
+  ],
   "forge": [
     {
       "modId": "controlling",

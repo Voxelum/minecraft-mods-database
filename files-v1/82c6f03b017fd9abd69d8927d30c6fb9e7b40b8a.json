@@ -1,6 +1,18 @@
 {
   "name": "Couplings-1.9.4+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "80ulerjA",
+      "versionId": "1S2TEbqR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 311120,
+      "fileId": 4643086
+    }
+  ],
   "fabric": [
     {
       "modId": "couplings",

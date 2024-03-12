@@ -1,0 +1,26 @@
+{
+  "name": "merequester-fabric-1.20.1-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6BFl96N",
+      "versionId": "NmhR6jIY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688367,
+      "fileId": 4719291
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "merequester",
+      "version": "1.20.1-1.1.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.2.1"
+    }
+  ]
+}

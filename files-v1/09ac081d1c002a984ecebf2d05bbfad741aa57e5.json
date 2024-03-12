@@ -1,6 +1,18 @@
 {
   "name": "YungsBetterDungeons-1.19.2-Fabric-3.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o1C1Dkj5",
+      "versionId": "XOk0yK9M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525586,
+      "fileId": 4031673
+    }
+  ],
   "fabric": [
     {
       "modId": "betterdungeons",

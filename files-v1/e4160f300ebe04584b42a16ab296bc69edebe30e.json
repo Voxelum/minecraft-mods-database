@@ -1,0 +1,16 @@
+{
+  "name": "special-mobs-v9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_special_mobs",
+      "version": "1-v9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_special_mobs",
+      "version": "1-v9"
+    }
+  ]
+}

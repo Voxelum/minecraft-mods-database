@@ -1,6 +1,18 @@
 {
   "name": "ServerPropertiesLAN-2.65.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IHrcCANt",
+      "versionId": "urPNyMQA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255025,
+      "fileId": 2520698
+    }
+  ],
   "forge": [
     {
       "modId": "splan",

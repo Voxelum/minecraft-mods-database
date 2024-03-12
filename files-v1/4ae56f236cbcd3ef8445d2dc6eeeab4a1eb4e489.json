@@ -1,0 +1,16 @@
+{
+  "name": "[中世纪工艺] MedievalCraft-1.19.2-1.18.2-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "medieval_craft",
+      "version": "1.14.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medieval_craft",
+      "version": "1.14.4"
+    }
+  ]
+}

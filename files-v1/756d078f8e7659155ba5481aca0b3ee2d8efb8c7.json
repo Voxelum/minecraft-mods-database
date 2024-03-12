@@ -1,0 +1,24 @@
+{
+  "name": "Barista-1.18.2-1.0.2-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vod0bt60",
+      "versionId": "twQ7uqYd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "barista",
+      "version": "1.18.2-1.0.2-Fabric"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.0.3+2d83e92c60"
+    }
+  ]
+}

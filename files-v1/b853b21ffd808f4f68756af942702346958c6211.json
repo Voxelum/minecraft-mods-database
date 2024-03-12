@@ -1,6 +1,12 @@
 {
   "name": "peripheralworks-forge-1.20.1-1.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621851,
+      "fileId": 4752239
+    }
+  ],
   "forge": [
     {
       "modId": "peripheralworks",

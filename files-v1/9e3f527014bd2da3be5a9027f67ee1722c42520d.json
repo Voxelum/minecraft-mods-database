@@ -1,0 +1,20 @@
+{
+  "name": "CoordinatesDisplay-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3mW8PdUo",
+      "versionId": "RYobNfO2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coordinatesdisplay",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "boxlib",
+      "version": "5.4.2"
+    }
+  ]
+}

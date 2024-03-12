@@ -1,0 +1,14 @@
+{
+  "name": "guild-fabric-0.3.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "guild",
+      "version": "0.3.8"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

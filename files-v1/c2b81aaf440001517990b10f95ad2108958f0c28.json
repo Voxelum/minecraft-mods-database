@@ -1,0 +1,40 @@
+{
+  "name": "styled-nicknames-1.0.4+1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523083,
+      "fileId": 3584346
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "styled-nicknames",
+      "version": "1.0.4+1.18"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.1+b4f4f6cd65"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.4.10+c15ca33565"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.6+3ac43d9565"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "1.1.3+1.17.1"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.1.0+1.18"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

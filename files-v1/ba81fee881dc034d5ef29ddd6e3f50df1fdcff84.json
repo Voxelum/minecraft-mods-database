@@ -1,0 +1,10 @@
+{
+  "name": "multijugador-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enablemp",
+      "version": "1.0.0+Forge1.16.X"
+    }
+  ]
+}

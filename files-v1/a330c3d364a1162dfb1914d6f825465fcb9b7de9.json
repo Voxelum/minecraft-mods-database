@@ -1,0 +1,16 @@
+{
+  "name": "biggerrabbithitboxes-1.16.3-0.2.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 362502,
+      "fileId": 3189895
+    }
+  ],
+  "forge": [
+    {
+      "modId": "brh",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Aquamirae 6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k23mNPhZ",
+      "versionId": "ouUaC54p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891257,
+      "fileId": 4656204
+    }
+  ],
   "fabric": [
     {
       "modId": "aquamirae",

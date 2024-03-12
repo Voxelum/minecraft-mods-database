@@ -1,0 +1,14 @@
+{
+  "name": "etched-fabric-2.3.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "etched",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    }
+  ]
+}

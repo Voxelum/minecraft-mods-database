@@ -1,6 +1,12 @@
 {
   "name": "mythic-mounts-1.18.1-7.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 517650,
+      "fileId": 3772872
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicmounts",

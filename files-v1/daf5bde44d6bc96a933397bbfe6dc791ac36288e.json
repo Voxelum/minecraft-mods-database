@@ -1,0 +1,22 @@
+{
+  "name": "mvp-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QLV53Ahc",
+      "versionId": "ADKqgu30"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_mvp",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_mvp",
+      "version": "1.0"
+    }
+  ]
+}

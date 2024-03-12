@@ -1,0 +1,26 @@
+{
+  "name": "creeperoverhaul-3.0.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MI1LWe93",
+      "versionId": "Mw0Hq1SZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561625,
+      "fileId": 5125712
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creeperoverhaul",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.20"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "EntityCulling-1.16.5-2.1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 409087,
+      "fileId": 3328602
+    }
+  ],
   "forge": [
     {
       "modId": "entity_culling",

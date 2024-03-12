@@ -1,6 +1,18 @@
 {
   "name": "The_Graveyard_2.9.1_(FABRIC)_1.20+.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QivVPB8W",
+      "versionId": "PWLzRlBv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514468,
+      "fileId": 4595726
+    }
+  ],
   "fabric": [
     {
       "modId": "graveyard",

@@ -1,6 +1,18 @@
 {
   "name": "SandBox-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jYDkViYA",
+      "versionId": "4HyttlnY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 653732,
+      "fileId": 4029683
+    }
+  ],
   "forge": [
     {
       "modId": "sandbox",

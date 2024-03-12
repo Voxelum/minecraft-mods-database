@@ -1,6 +1,12 @@
 {
   "name": "krypton-0.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fQEb0iXm",
+      "versionId": "7AwqDL7J"
+    }
+  ],
   "fabric": [
     {
       "modId": "krypton",

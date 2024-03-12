@@ -1,0 +1,16 @@
+{
+  "name": "dupelesscloth-1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 419393,
+      "fileId": 3109519
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dupelesscloth",
+      "version": "${version}"
+    }
+  ]
+}

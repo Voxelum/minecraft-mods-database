@@ -1,0 +1,10 @@
+{
+  "name": "NotEnoughEnergistics-1.7.10-1.4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "neenergistics",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "equator-1.18-2.5.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XUTlQITd",
+      "versionId": "CQMtNTs7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "equator",
+      "version": "2.5.4"
+    },
+    {
+      "modId": "com_scrtwpns_mixbox",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_davidmoten_word-wrap",
+      "version": "0.1.12"
+    },
+    {
+      "modId": "com_github_davidmoten_guava-mini",
+      "version": "0.1.4"
+    }
+  ]
+}

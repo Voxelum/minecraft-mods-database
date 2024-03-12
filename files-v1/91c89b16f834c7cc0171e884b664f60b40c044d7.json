@@ -1,0 +1,14 @@
+{
+  "name": "no-sneaking-over-magma-1.0.14+MC1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "no_sneaking_over_magma",
+      "version": "1.0.14"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    }
+  ]
+}

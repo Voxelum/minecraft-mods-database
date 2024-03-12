@@ -1,0 +1,22 @@
+{
+  "name": "ctov-more-villagers-compat-2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fyGliXG0",
+      "versionId": "mfQZezl4"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ctov_morevillagerscompat",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ctov_morevillagerscompat",
+      "version": "2.0"
+    }
+  ]
+}

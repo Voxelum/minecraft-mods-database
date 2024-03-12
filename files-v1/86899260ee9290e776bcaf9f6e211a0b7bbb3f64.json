@@ -1,0 +1,20 @@
+{
+  "name": "customblockoverlay-1.0+build.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O9CNoMNv",
+      "versionId": "Le3K3nDW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customblockoverlay",
+      "version": "1.0+build.2"
+    },
+    {
+      "modId": "chloelibfabric",
+      "version": "1.20.1+build.1"
+    }
+  ]
+}

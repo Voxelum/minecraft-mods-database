@@ -1,0 +1,38 @@
+{
+  "name": "spectrum-jetpacks-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spectrumjetpacks",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "arrowhead",
+      "version": "1.2.0-1.19.2"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.2.0+1.19.2"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.9.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.0.1"
+    }
+  ]
+}

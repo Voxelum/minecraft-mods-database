@@ -1,0 +1,22 @@
+{
+  "name": "lastofus-2.2-forge-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 901937,
+      "fileId": 4793402
+    }
+  ],
+  "forge": [
+    {
+      "modId": "last_of_us",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "last_of_us",
+      "version": "1.5.0"
+    }
+  ]
+}

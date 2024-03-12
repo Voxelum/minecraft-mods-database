@@ -1,0 +1,16 @@
+{
+  "name": "banner-bedsheets-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_banner_bedsheets",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_banner_bedsheets",
+      "version": "1.2"
+    }
+  ]
+}

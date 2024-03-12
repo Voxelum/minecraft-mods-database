@@ -1,0 +1,32 @@
+{
+  "name": "create_jetpack-fabric-3.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "IAaRKHAS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 655608,
+      "fileId": 4957750
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_jetpack",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "flightlib",
+      "version": "1.1.2"
+    }
+  ]
+}

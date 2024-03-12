@@ -1,6 +1,18 @@
 {
   "name": "bobby-5.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M08ruV16",
+      "versionId": "2cuVyTav"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409301,
+      "fileId": 4706163
+    }
+  ],
   "fabric": [
     {
       "modId": "bobby",

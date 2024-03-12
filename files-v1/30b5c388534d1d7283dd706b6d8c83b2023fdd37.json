@@ -1,0 +1,20 @@
+{
+  "name": "travelers-backpack-1.19.4-8.4.15.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "BazlFems"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "1.19.4-8.4.15"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.2"
+    }
+  ]
+}

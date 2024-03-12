@@ -1,0 +1,16 @@
+{
+  "name": "better-babies-0.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_better_babies",
+      "version": "0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_better_babies",
+      "version": "0.6"
+    }
+  ]
+}

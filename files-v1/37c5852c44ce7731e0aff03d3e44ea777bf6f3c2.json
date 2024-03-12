@@ -1,0 +1,10 @@
+{
+  "name": "Waystones_1.12.2_4.0.73 (1).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "waystones",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

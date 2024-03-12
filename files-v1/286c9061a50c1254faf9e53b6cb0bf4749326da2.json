@@ -1,0 +1,16 @@
+{
+  "name": "viaforge-1.8.9-3.3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "MixinLoader",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.7.0"
+    }
+  ]
+}

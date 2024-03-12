@@ -1,0 +1,30 @@
+{
+  "name": "simplehats-fabric-1.20.1-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iSkQCp6b",
+      "versionId": "sAdk4uhI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631990,
+      "fileId": 4599953
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplehats",
+      "version": "1.20.1-0.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    }
+  ]
+}

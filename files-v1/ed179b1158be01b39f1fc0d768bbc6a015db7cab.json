@@ -1,0 +1,76 @@
+{
+  "name": "Impactor-Fabric-5.1.0+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LdBYVaPS",
+      "versionId": "ZxX3FJcm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "impactor",
+      "version": "5.1.0+1.19.2"
+    },
+    {
+      "modId": "net_kyori_adventure-text-logger-slf4j",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-plain",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-legacy",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-minimessage",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-annotations",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "net_kyori_event-api",
+      "version": "5.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-nbt",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "net_kyori_adventure-api",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-gson",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "net_kyori_examination-api",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "net_kyori_adventure-key",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-minecraft-extras",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "net_kyori_examination-string",
+      "version": "1.3.0"
+    }
+  ]
+}

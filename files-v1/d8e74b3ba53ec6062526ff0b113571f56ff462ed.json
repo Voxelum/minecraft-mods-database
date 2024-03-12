@@ -1,6 +1,18 @@
 {
   "name": "levelhearts-1.20.1-2.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UxFugL1L",
+      "versionId": "7MSVEcFD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 273640,
+      "fileId": 4622415
+    }
+  ],
   "forge": [
     {
       "modId": "levelhearts",

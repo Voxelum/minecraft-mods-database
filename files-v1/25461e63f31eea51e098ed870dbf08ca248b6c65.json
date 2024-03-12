@@ -1,6 +1,18 @@
 {
   "name": "betterbeds-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kKwy3HU9",
+      "versionId": "CZIcMw8Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443782,
+      "fileId": 3196688
+    }
+  ],
   "fabric": [
     {
       "modId": "betterbeds",

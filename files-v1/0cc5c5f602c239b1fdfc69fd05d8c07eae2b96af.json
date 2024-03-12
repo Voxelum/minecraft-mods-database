@@ -1,0 +1,14 @@
+{
+  "name": "banilla-claws-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanilla_claws",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

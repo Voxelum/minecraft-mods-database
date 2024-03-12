@@ -1,0 +1,10 @@
+{
+  "name": "[寻龙之眼].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "eyeofdragons",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

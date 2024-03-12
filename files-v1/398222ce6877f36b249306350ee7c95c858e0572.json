@@ -1,0 +1,24 @@
+{
+  "name": "simulacrum-0.5.4-beta.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 508931,
+      "fileId": 3785658
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dmlsimulacrum",
+      "version": "0.5.4-beta"
+    },
+    {
+      "modId": "ktdatataglib",
+      "version": "1.6.5+1.18.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

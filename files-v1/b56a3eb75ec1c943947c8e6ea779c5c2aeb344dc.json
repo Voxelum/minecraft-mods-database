@@ -1,0 +1,42 @@
+{
+  "name": "paradise-lost-2.0.2-beta+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "paradise_lost",
+      "version": "2.0.2-beta+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta54-1.19"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "gud_recipe_confidence",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "satin",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.4.0"
+    }
+  ]
+}

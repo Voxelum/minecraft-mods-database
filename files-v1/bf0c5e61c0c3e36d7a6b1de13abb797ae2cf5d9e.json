@@ -1,0 +1,16 @@
+{
+  "name": "TheWildBackportAdditions-1.18.2-1.0.2-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wild_backport_additions",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wild_backport_additions",
+      "version": "1.0.2"
+    }
+  ]
+}

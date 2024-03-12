@@ -1,6 +1,18 @@
 {
   "name": "lootjs-forge-1.19.2-2.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fJFETWDN",
+      "versionId": "1BTiNfZJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570630,
+      "fileId": 4709099
+    }
+  ],
   "forge": [
     {
       "modId": "lootjs",

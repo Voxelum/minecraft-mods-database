@@ -1,6 +1,12 @@
 {
   "name": "castle_dungeons-4.0.0-1.19.2-forge.jar.deactivation",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "etpVl23u",
+      "versionId": "gig0erm6"
+    }
+  ],
   "forge": [
     {
       "modId": "castle_dungeons",

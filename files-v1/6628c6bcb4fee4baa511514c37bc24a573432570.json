@@ -1,0 +1,16 @@
+{
+  "name": "FD-JE-Snapshot-23w19a-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fd",
+      "version": "0.23.19.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fd",
+      "version": "0.23.19.1"
+    }
+  ]
+}

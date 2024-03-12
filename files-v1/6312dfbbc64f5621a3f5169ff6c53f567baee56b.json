@@ -1,0 +1,30 @@
+{
+  "name": "BOMD-1.7.5-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "du3UfiLL",
+      "versionId": "yoCCX4Cc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438365,
+      "fileId": 4993305
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bosses_of_mass_destruction",
+      "version": "1.7.5-1.20.1"
+    },
+    {
+      "modId": "maelstrom_library",
+      "version": "1.6.1-1.20"
+    },
+    {
+      "modId": "multipart_entities",
+      "version": "1.5-1.20"
+    }
+  ]
+}

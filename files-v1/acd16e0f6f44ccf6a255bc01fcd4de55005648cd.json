@@ -1,0 +1,22 @@
+{
+  "name": "Gods-and-Heroes-1.6.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hyTM8xtR",
+      "versionId": "PEAPAe23"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "gh",
+      "version": "1.6.1_Forge&Fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gh",
+      "version": "1.6.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "noxesium-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kw7Sm3Xf",
+      "versionId": "5GATAz7a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noxesium",
+      "version": "1.2.0+669ccb7"
+    },
+    {
+      "modId": "com_noxcrew_noxesium_api_",
+      "version": "1.2.0+669ccb7"
+    }
+  ]
+}

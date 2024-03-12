@@ -1,0 +1,10 @@
+{
+  "name": "KehaanAdvancements-Pokehaan-1.12.2-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "kehaanadvancementspokehaan",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "revised-glass-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MDjkYPLb",
+      "versionId": "xcVktW08"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_revised_glass",
+      "version": "1.20.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_revised_glass",
+      "version": "1.20.2"
+    }
+  ]
+}

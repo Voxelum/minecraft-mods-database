@@ -1,0 +1,22 @@
+{
+  "name": "deathbackup-1.18.2-3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411571,
+      "fileId": 4854012
+    }
+  ],
+  "forge": [
+    {
+      "modId": "deathbackup",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathbackup",
+      "version": "3.1"
+    }
+  ]
+}

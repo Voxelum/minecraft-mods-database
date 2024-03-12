@@ -1,0 +1,24 @@
+{
+  "name": "FabricShieldLib-1.7.2-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 380649,
+      "fileId": 4925222
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricshieldlib",
+      "version": "1.7.2-1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    }
+  ]
+}

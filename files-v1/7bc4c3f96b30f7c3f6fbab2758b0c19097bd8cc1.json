@@ -1,0 +1,68 @@
+{
+  "name": "VulkanMod_1.20.4-0.3.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JYQhtZtO",
+      "versionId": "FRN2L2Ac"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vulkanmod",
+      "version": "0.3.9"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan_natives-macos",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan_natives-macos-arm64",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-linux",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-macos",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-macos-arm64",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-windows",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-linux",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-macos",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-macos-arm64",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-windows",
+      "version": "3.3.2"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "urlmusicdiscs-1.2.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eWPefssR",
+      "versionId": "1S1foCCX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "urlmusicdiscs",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    },
+    {
+      "modId": "com_google_code_gson_gson",
+      "version": "2.10.1"
+    }
+  ]
+}

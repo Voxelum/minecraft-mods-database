@@ -1,0 +1,14 @@
+{
+  "name": "exhud-1.2.01.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "exhud",
+      "version": "1.2.0+1.20.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

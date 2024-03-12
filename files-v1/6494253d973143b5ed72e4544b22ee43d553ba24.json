@@ -1,0 +1,16 @@
+{
+  "name": "orediscoverybroadcast-1.20.1-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "orediscoverybroadcast",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "orediscoverybroadcast",
+      "version": "2.1"
+    }
+  ]
+}

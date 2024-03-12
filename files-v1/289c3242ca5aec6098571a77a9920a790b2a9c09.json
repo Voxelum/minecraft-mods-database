@@ -1,0 +1,10 @@
+{
+  "name": "phosphor-1.16.1-backport-fabric-0.7.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "phosphor",
+      "version": "0.7.2"
+    }
+  ]
+}

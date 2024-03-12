@@ -1,0 +1,18 @@
+{
+  "name": "wirelessnetworks-1.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wirelessnetworks",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    }
+  ]
+}

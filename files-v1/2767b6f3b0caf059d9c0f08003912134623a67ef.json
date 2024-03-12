@@ -1,6 +1,12 @@
 {
   "name": "atmospheric-1.16.5-3.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 362393,
+      "fileId": 3553332
+    }
+  ],
   "forge": [
     {
       "modId": "atmospheric",

@@ -1,0 +1,28 @@
+{
+  "name": "thematic-1.2.54-BETA.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X8IXdS40",
+      "versionId": "hv0E0Pmv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thematic",
+      "version": "1.2.54-BETA"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "azurelib",
+      "version": "2.0.3"
+    }
+  ]
+}

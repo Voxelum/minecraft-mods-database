@@ -1,6 +1,18 @@
 {
   "name": "abnormals_delight-1.19.2-4.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ts3qjo5t",
+      "versionId": "1xsKsyDL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442719,
+      "fileId": 4776026
+    }
+  ],
   "forge": [
     {
       "modId": "abnormals_delight",

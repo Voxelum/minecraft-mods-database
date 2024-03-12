@@ -1,6 +1,18 @@
 {
   "name": "create-fabric-0.5.1-b-build.1089+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xbc0uyRg",
+      "versionId": "wKEEi1qX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 624165,
+      "fileId": 4622426
+    }
+  ],
   "forge": [
     {
       "modId": "create-fabric-0.5.1-b-build.1089+mc1.19.2",

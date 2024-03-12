@@ -1,0 +1,20 @@
+{
+  "name": "TheManFromTheFog-1.1.0-fabric.mc.1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "man",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "man",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.1127+1.20"
+    }
+  ]
+}

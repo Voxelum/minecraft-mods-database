@@ -1,6 +1,12 @@
 {
   "name": "mcdar-1.4.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 476788,
+      "fileId": 3777271
+    }
+  ],
   "fabric": [
     {
       "modId": "mcdar",

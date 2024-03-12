@@ -1,0 +1,14 @@
+{
+  "name": "watut-fabric-1_20_1-1_0_14-translation_fix.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "watut",
+      "version": "1.20.1-1.0.14-translation_fix"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

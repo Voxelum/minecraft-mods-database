@@ -1,0 +1,22 @@
+{
+  "name": "ExtendedDrawers-1.3.5+mc.1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extended_drawers",
+      "version": "1.3.5+mc.1.18.2"
+    },
+    {
+      "modId": "mconfig",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "graphlib",
+      "version": "0.2.4+1.18.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.10"
+    }
+  ]
+}

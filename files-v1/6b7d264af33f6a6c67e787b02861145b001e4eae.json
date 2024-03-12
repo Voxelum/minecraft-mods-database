@@ -1,6 +1,18 @@
 {
   "name": "Shrines-1.16.5-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F33t24Wi",
+      "versionId": "14w87CA7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418915,
+      "fileId": 3818201
+    }
+  ],
   "forge": [
     {
       "modId": "shrines",

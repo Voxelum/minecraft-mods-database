@@ -1,0 +1,10 @@
+{
+  "name": "forcecrawl-fabric-1.19.x-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "forcecrawl",
+      "version": "1.0.2"
+    }
+  ]
+}

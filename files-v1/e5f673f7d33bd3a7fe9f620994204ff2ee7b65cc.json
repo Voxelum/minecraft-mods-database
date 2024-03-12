@@ -1,0 +1,16 @@
+{
+  "name": "mrp-1.19.4-0.2.0-indev.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mrp",
+      "version": "0.2.0+1.19.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mrp",
+      "version": "0.2.0+1.19.4"
+    }
+  ]
+}

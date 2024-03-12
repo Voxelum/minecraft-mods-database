@@ -1,0 +1,10 @@
+{
+  "name": "SpartanShields_1.12.2_1.5.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spartanshields",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

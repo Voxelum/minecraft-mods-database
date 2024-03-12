@@ -1,0 +1,16 @@
+{
+  "name": "talentium-0.27.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_talentium",
+      "version": "0.27"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_talentium",
+      "version": "0.27"
+    }
+  ]
+}

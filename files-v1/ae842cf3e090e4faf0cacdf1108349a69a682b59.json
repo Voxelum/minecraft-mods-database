@@ -1,0 +1,16 @@
+{
+  "name": "keebszs_battle_towers-0.4.0-1.19.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "keebszs_battle_towers",
+      "version": "0.4.0-1.19"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "keebsz",
+      "version": "0.4.0"
+    }
+  ]
+}

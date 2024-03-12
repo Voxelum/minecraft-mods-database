@@ -1,6 +1,12 @@
 {
   "name": "netherdungeons-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m9Ae6Puo",
+      "versionId": "kez4OF2L"
+    }
+  ],
   "forge": [
     {
       "modId": "netherdungeons",

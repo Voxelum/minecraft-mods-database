@@ -1,6 +1,12 @@
 {
   "name": "geodeplus-fabric-1.2.0-1.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620784,
+      "fileId": 4590943
+    }
+  ],
   "fabric": [
     {
       "modId": "geode_plus",

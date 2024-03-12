@@ -1,6 +1,12 @@
 {
   "name": "videotape-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LVTZtqlk",
+      "versionId": "bBySnMQt"
+    }
+  ],
   "fabric": [
     {
       "modId": "videotape",

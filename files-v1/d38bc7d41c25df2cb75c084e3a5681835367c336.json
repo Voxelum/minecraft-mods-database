@@ -1,0 +1,16 @@
+{
+  "name": "larger-ore-veins-diamond-1.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_larger_oreveinsdiamond",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_larger_oreveinsdiamond",
+      "version": "1.1.1"
+    }
+  ]
+}

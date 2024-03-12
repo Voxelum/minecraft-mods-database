@@ -1,6 +1,18 @@
 {
   "name": "ContentTweaker-1.12.2-4.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CdvG2fsN",
+      "versionId": "rZtJQEKa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237065,
+      "fileId": 2652853
+    }
+  ],
   "forge": [
     {
       "modId": "contenttweaker",

@@ -1,0 +1,20 @@
+{
+  "name": "swordblocking-1.3.1-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4q52b4lD",
+      "versionId": "KZMRyTlf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "swordblocking",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

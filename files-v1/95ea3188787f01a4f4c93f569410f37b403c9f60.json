@@ -1,0 +1,20 @@
+{
+  "name": "freecam-fabric-modrinth-1.2.1+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XeEZ3fK2",
+      "versionId": "FHrBXTcO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "freecam",
+      "version": "1.2.1+1.19"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.96"
+    }
+  ]
+}

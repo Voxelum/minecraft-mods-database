@@ -1,0 +1,20 @@
+{
+  "name": "sandwichable-1.2-rc4+1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 374143,
+      "fileId": 3629971
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sandwichable",
+      "version": "1.2-rc4+1.18"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.1+1.17"
+    }
+  ]
+}

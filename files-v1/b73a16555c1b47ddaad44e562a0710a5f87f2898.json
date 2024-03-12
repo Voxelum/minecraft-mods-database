@@ -1,6 +1,12 @@
 {
   "name": "vmp.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wnEe9KBa",
+      "versionId": "CFUsBP6G"
+    }
+  ],
   "fabric": [
     {
       "modId": "vmp",

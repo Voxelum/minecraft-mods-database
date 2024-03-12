@@ -1,0 +1,14 @@
+{
+  "name": "bettermending-fabric+quilt-1.2.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bettermending",
+      "version": "1.2.0+1.19"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

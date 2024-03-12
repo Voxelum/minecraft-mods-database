@@ -1,6 +1,18 @@
 {
   "name": "another_furniture-forge-1.2.2-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ulloLmqG",
+      "versionId": "R1FEJUJp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610492,
+      "fileId": 4034013
+    }
+  ],
   "forge": [
     {
       "modId": "another_furniture",

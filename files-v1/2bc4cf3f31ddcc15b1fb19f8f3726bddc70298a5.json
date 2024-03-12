@@ -1,0 +1,22 @@
+{
+  "name": "diamondgen-1.4_1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diamondgen",
+      "version": "1.4"
+    },
+    {
+      "modId": "com_github_kaptainwutax_mathutils",
+      "version": "6c2d50eacad0241ff76119e6e703b70bac4b4bce"
+    },
+    {
+      "modId": "com_github_kaptainwutax_seedutils",
+      "version": "0de70bc772fef95d8acfa6991e7278ee53a8b46c"
+    },
+    {
+      "modId": "com_github_kaptainwutax_biomeutils",
+      "version": "62b374f2def7e09240447aceeb12a0a601b59a2b"
+    }
+  ]
+}

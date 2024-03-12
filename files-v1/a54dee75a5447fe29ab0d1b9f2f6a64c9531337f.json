@@ -1,0 +1,10 @@
+{
+  "name": "MouseTweaks-fabric-mc1.20-2.25-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mousetweaks",
+      "version": "${version}"
+    }
+  ]
+}

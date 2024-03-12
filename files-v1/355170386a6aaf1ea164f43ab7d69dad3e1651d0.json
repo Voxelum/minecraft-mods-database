@@ -1,0 +1,10 @@
+{
+  "name": "netherbound-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hellbound",
+      "version": "1.0"
+    }
+  ]
+}

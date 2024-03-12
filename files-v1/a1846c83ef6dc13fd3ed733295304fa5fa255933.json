@@ -1,0 +1,22 @@
+{
+  "name": "bombbarrage-2.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dzwHRQ19",
+      "versionId": "LOqAksgz"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bomb_barrage",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bomb_barrage",
+      "version": "1.0.0"
+    }
+  ]
+}

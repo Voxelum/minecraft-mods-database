@@ -1,0 +1,16 @@
+{
+  "name": "sakisiil_origins-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sakisiil_origins",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sakisiil_origins",
+      "version": "1.0"
+    }
+  ]
+}

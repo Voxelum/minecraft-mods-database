@@ -1,0 +1,16 @@
+{
+  "name": "no-telemetry-1.5.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "no_telemetry",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no-telemetry",
+      "version": "1.5.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "PuzzlesLib-v8.1.8-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "8.1.8"
+    },
+    {
+      "modId": "puzzlesaccessapi",
+      "version": "8.0.7"
+    }
+  ]
+}

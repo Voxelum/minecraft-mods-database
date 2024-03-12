@@ -1,6 +1,12 @@
 {
   "name": "drinkbeer-3.2.2-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 701009,
+      "fileId": 4095071
+    }
+  ],
   "fabric": [
     {
       "modId": "drinkbeer",

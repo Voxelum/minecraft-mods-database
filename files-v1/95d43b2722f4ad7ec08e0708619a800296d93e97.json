@@ -1,0 +1,16 @@
+{
+  "name": "RareIce-Forge-1.19-v0.5.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 373774,
+      "fileId": 3909206
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rare_ice",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

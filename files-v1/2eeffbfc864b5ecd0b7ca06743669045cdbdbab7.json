@@ -1,0 +1,16 @@
+{
+  "name": "musicdr-forge-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 400131,
+      "fileId": 3211258
+    }
+  ],
+  "forge": [
+    {
+      "modId": "musicdr",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

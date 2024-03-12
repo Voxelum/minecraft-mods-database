@@ -1,0 +1,22 @@
+{
+  "name": "Walljump_1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 901277,
+      "fileId": 4724456
+    }
+  ],
+  "forge": [
+    {
+      "modId": "walljumping",
+      "version": "1.9.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "walljumping",
+      "version": "1.5.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "armorpointspp-fabric-1.20-3.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xvAim1vw",
+      "versionId": "NJD8sOJg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396094,
+      "fileId": 4674042
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armorpointspp",
+      "version": "3.1.2"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

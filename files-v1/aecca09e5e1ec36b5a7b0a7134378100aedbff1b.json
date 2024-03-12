@@ -1,0 +1,28 @@
+{
+  "name": "notenoughanimations-forge-1.7.0-mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPCX6s5C",
+      "versionId": "PdZ4Fg77"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433760,
+      "fileId": 5008747
+    }
+  ],
+  "forge": [
+    {
+      "modId": "notenoughanimations",
+      "version": "1.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughanimations",
+      "version": "1.7.0"
+    }
+  ]
+}

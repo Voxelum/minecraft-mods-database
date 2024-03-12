@@ -1,0 +1,24 @@
+{
+  "name": "servux-fabric-1.20.2-0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zQhsx8KF",
+      "versionId": "y3YGV2rC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servux",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.33+fce67b32a0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.0.8+b18afef3a0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "corrupted-v1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ue6EIxmO",
+      "versionId": "Kn1CLwh7"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "corrupted_mr",
+      "version": "1-v1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "corrupted_mr",
+      "version": "1-v1.0"
+    }
+  ]
+}

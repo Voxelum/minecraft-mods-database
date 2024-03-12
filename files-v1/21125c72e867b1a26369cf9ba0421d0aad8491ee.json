@@ -1,0 +1,16 @@
+{
+  "name": "this-boat-is-mine-1.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tbim",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tbim",
+      "version": "1.0.1"
+    }
+  ]
+}

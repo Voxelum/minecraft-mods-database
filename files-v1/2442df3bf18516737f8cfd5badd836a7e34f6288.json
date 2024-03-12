@@ -1,0 +1,42 @@
+{
+  "name": "iris-mc1.18.2-1.2.4-build.38.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "Onlo6jbu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 3770305
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.2.4-build.38"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.16+55dca1a4d2"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.11+54e5b2ecd2"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.9+d7c144a860"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.3+d7c144a8d2"
+    }
+  ]
+}

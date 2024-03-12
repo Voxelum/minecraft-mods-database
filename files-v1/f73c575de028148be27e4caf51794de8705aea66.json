@@ -1,0 +1,14 @@
+{
+  "name": "consistency_plus-fabric-0.5.0+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "consistency_plus",
+      "version": "0.5.0+1.18.2"
+    },
+    {
+      "modId": "stonecutter_recipe_tags",
+      "version": "3.0.1+1.18.bc850d5.fabric"
+    }
+  ]
+}

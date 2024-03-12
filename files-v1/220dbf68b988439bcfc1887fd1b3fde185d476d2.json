@@ -1,0 +1,24 @@
+{
+  "name": "stattinkerer-fabric-1.20.2-10.1.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UAfajCcY",
+      "versionId": "cZRG3HdO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stattinkerer",
+      "version": "10.1.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    }
+  ]
+}

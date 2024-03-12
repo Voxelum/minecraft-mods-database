@@ -1,0 +1,20 @@
+{
+  "name": "gigeresque-1.20.1-0.5.61.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2kXK3iBI",
+      "versionId": "4g9WrCX1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gigeresque",
+      "version": "0.5.61"
+    },
+    {
+      "modId": "bettercrawling",
+      "version": "1.0.4"
+    }
+  ]
+}

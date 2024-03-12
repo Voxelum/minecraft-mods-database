@@ -1,6 +1,18 @@
 {
   "name": "farmers-delight-fabric-1.18.2-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4EakbH8e",
+      "versionId": "G8lpe9fB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482834,
+      "fileId": 4111479
+    }
+  ],
   "fabric": [
     {
       "modId": "farmersdelight",

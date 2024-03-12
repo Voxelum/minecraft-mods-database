@@ -1,0 +1,28 @@
+{
+  "name": "magicfungi-0.7.0-BETA+1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 506412,
+      "fileId": 3709513
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magicfungi",
+      "version": "0.7.0-BETA+1.18"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "omega-config-gui",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "fabricshieldlib",
+      "version": "1.5.0-1.18"
+    }
+  ]
+}

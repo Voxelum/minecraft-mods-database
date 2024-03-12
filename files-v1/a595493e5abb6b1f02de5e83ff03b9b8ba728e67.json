@@ -1,0 +1,10 @@
+{
+  "name": "plethora-1.12.2-1.2.3-patched.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "plethora-core",
+      "version": "1.2.3"
+    }
+  ]
+}

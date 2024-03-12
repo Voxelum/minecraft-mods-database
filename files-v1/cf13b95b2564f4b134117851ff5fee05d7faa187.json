@@ -1,6 +1,18 @@
 {
   "name": "create-new-age-fabric-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FTeXqI9v",
+      "versionId": "fxl3gvEu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905861,
+      "fileId": 4722211
+    }
+  ],
   "forge": [
     {
       "modId": "create_new_age",

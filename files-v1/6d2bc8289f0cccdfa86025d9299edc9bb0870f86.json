@@ -1,0 +1,26 @@
+{
+  "name": "Simple-Veinminer-Mod-Fabric-1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simpleveinminer",
+      "version": "1.4.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

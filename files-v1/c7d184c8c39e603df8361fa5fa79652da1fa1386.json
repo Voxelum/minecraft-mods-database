@@ -1,0 +1,20 @@
+{
+  "name": "extraalchemy-fabric-1.18.2-1.8.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 247357,
+      "fileId": 3767558
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraalchemy",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

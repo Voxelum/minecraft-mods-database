@@ -1,0 +1,20 @@
+{
+  "name": "repurposed_structures_fabric-4.1.12+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391366,
+      "fileId": 3815329
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "4.1.12+1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.8"
+    }
+  ]
+}

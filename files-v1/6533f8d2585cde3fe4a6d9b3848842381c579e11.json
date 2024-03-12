@@ -1,0 +1,16 @@
+{
+  "name": "welcomemessage-1.19.2-2.2.jar.disabled",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.2"
+    }
+  ]
+}

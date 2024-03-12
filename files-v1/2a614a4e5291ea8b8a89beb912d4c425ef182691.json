@@ -1,0 +1,22 @@
+{
+  "name": "fsit-v1.3.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fsit",
+      "version": "v1.3.2"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.6.0+b3afc78b27"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.3.8+b3afc78b27"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.11+b3afc78b27"
+    }
+  ]
+}

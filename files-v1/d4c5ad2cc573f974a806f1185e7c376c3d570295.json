@@ -1,0 +1,14 @@
+{
+  "name": "cullleaves-2.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.2.5"
+    }
+  ]
+}

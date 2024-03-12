@@ -1,0 +1,10 @@
+{
+  "name": "Better With Addons-0.40hotfix.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterwithaddons",
+      "version": "@VERSION@"
+    }
+  ]
+}

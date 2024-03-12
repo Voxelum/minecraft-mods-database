@@ -1,0 +1,14 @@
+{
+  "name": "InventoryBinds-1.1-1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "inventorybinds",
+      "version": "1.1-1.20.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.1+1.20.2"
+    }
+  ]
+}

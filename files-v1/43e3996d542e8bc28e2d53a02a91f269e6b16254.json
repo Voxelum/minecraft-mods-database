@@ -1,6 +1,12 @@
 {
   "name": "reciperemover-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ydTNvAMp",
+      "versionId": "jVdYioU1"
+    }
+  ],
   "fabric": [
     {
       "modId": "reciperemover",

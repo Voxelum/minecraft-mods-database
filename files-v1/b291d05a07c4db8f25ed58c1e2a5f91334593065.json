@@ -1,0 +1,24 @@
+{
+  "name": "durabilityviewer-1.18.2-fabric0.47.10-1.10.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 262146,
+      "fileId": 3687751
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "durabilityviewer",
+      "version": "1.18.2-fabric0.47.10-1.10.3"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.18.2"
+    }
+  ]
+}

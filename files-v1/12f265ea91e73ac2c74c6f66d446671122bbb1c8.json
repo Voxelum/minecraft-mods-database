@@ -1,6 +1,18 @@
 {
   "name": "fabric-language-kotlin-1.9.1+kotlin.1.8.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ha28R6CL",
+      "versionId": "lgFl3olb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308769,
+      "fileId": 4378167
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-language-kotlin",

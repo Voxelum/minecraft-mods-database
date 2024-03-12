@@ -1,0 +1,16 @@
+{
+  "name": "horde-nights-0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_horde_nights",
+      "version": "0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_horde_nights",
+      "version": "0.3"
+    }
+  ]
+}

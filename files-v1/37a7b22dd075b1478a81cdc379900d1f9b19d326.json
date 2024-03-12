@@ -1,6 +1,12 @@
 {
   "name": "CustomWindowTitle-Fabric-1.17.1+v1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RGH5gtzF",
+      "versionId": "KF8d1ejR"
+    }
+  ],
   "fabric": [
     {
       "modId": "customwindowtitle",

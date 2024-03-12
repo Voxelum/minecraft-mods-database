@@ -1,0 +1,22 @@
+{
+  "name": "recast-1.18.2-3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 444729,
+      "fileId": 4851845
+    }
+  ],
+  "forge": [
+    {
+      "modId": "recast",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recast",
+      "version": "3.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "npc-variety-1.20.4-2.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "npcvariety",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

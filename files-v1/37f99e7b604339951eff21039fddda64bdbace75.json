@@ -1,6 +1,12 @@
 {
   "name": "veinmining-forge-1.2.0+1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 431611,
+      "fileId": 4592822
+    }
+  ],
   "forge": [
     {
       "modId": "veinmining",

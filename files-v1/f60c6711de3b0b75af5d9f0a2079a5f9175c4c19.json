@@ -1,0 +1,20 @@
+{
+  "name": "[Fabric] Wildfire Female Gender Mod-2.5.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bcOsQHnC",
+      "versionId": "NRoYoGky"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wildfire_gender",
+      "version": "2.5.3"
+    },
+    {
+      "modId": "impersonate",
+      "version": "2.1.0"
+    }
+  ]
+}

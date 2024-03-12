@@ -1,0 +1,32 @@
+{
+  "name": "glide-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 954130,
+      "fileId": 4998154
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glide",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mialib",
+      "version": "1.0.65"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

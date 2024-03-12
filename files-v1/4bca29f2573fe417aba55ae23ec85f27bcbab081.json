@@ -1,6 +1,12 @@
 {
   "name": "chatsigninghider-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6KrNtW32",
+      "versionId": "kGt7lfxI"
+    }
+  ],
   "fabric": [
     {
       "modId": "chatsigninghider",

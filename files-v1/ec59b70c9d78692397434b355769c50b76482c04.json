@@ -1,0 +1,16 @@
+{
+  "name": "Terralith_1.19.3_v2.3.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "2.3.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.3.8"
+    }
+  ]
+}

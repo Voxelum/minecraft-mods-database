@@ -1,0 +1,10 @@
+{
+  "name": "TinkersComplement-1.12.1-0.2.2b.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tcomplement",
+      "version": "${version}"
+    }
+  ]
+}

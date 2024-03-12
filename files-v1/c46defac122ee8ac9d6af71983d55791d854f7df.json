@@ -1,0 +1,14 @@
+{
+  "name": "alloy-forgery-2.0.21+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "alloy_forgery",
+      "version": "2.0.21+1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+pre.5+1.20"
+    }
+  ]
+}

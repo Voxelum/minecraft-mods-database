@@ -1,0 +1,14 @@
+{
+  "name": "colytra-fabric-6.2.2+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "colytra",
+      "version": "6.2.2+1.20.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.14+1.20.1"
+    }
+  ]
+}

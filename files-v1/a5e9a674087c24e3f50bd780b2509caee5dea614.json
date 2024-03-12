@@ -1,0 +1,20 @@
+{
+  "name": "secretrooms-1.3.0+1.18.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 359248,
+      "fileId": 3644587
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "secretrooms",
+      "version": "1.3.0+1.18.1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.4"
+    }
+  ]
+}

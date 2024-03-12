@@ -1,0 +1,26 @@
+{
+  "name": "Steam_Rails-1.4.4+fabric-mc1.18.2-build.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "A89ZTTBx"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "railways",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.4.4+fabric-mc1.18.2-build.13"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

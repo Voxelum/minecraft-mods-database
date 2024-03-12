@@ -1,0 +1,22 @@
+{
+  "name": "charm-fabric-1.18-4.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charm",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.2"
+    }
+  ]
+}

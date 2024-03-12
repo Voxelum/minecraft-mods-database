@@ -1,0 +1,10 @@
+{
+  "name": "blast-1.11.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blast",
+      "version": "1.11"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "brokenleadwarner-1.1.0+1.20.x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "29RFArLV",
+      "versionId": "9Roo76wk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brokenleadwarner",
+      "version": "1.1.0+1.20.x"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

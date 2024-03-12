@@ -1,0 +1,20 @@
+{
+  "name": "replayfps-0.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Qje9Zikm",
+      "versionId": "gzAVYrkx"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replayfps",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

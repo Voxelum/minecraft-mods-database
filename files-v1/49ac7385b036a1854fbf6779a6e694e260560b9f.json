@@ -1,0 +1,16 @@
+{
+  "name": "MTR-NTE-0.4.1+1.19.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mtrsteamloco",
+      "version": "0.4.1+1.19.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mtrsteamloco",
+      "version": "0.4.1+1.19.4"
+    }
+  ]
+}

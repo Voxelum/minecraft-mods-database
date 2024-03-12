@@ -1,0 +1,16 @@
+{
+  "name": "PureAmethystTools-v2.0.1-1.19.4-Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pureamethysttools",
+      "version": "2.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pureamethysttools",
+      "version": "1.0.0"
+    }
+  ]
+}

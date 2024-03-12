@@ -1,6 +1,18 @@
 {
   "name": "DungeonsArise-1.19.2-2.1.54-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8DfbfASn",
+      "versionId": "tKxOjh70"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511812,
+      "fileId": 4263871
+    }
+  ],
   "fabric": [
     {
       "modId": "dungeons_arise",

@@ -1,0 +1,22 @@
+{
+  "name": "terrainless-worlds-v1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pCgnwFM2",
+      "versionId": "wJ1B19tG"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_terrainless_worlds",
+      "version": "1-v1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_terrainless_worlds",
+      "version": "1-v1.0.2"
+    }
+  ]
+}

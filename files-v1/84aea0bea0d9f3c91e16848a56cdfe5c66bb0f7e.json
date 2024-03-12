@@ -1,0 +1,26 @@
+{
+  "name": "betterstats-3.9+fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n6PXGAoM",
+      "versionId": "bGYkCuJ4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667464,
+      "fileId": 5130408
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterstats",
+      "version": "3.9+fabric-1.20.1"
+    },
+    {
+      "modId": "tcdcommons",
+      "version": "3.9+fabric-1.20.1"
+    }
+  ]
+}

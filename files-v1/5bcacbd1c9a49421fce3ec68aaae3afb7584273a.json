@@ -1,0 +1,36 @@
+{
+  "name": "armor-stand-editor-2.0.0-legacy+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ef9ZREBZ",
+      "versionId": "mctK04mp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armor-stand-editor",
+      "version": "2.0.0-legacy+1.18.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.0.2+1.18.2"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.1.0+1.18"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.12+1.18.2"
+    }
+  ]
+}

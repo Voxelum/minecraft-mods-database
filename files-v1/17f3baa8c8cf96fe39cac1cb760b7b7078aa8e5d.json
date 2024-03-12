@@ -1,0 +1,20 @@
+{
+  "name": "bigpony-1.11.1+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h9pJxJR9",
+      "versionId": "pGE2tN4P"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bigpony",
+      "version": "1.11.1+1.20.2"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.16.0+1.20.2"
+    }
+  ]
+}

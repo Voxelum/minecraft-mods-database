@@ -1,6 +1,12 @@
 {
   "name": "sprout-1.3.1-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565856,
+      "fileId": 3788678
+    }
+  ],
   "fabric": [
     {
       "modId": "sprout",

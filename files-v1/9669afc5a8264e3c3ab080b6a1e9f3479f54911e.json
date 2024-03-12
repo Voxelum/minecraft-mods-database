@@ -1,0 +1,20 @@
+{
+  "name": "conjuring-1.0.22+1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422310,
+      "fileId": 3693350
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conjuring",
+      "version": "1.0.22+1.18"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.5.4+1.18"
+    }
+  ]
+}

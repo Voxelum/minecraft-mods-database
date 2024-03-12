@@ -1,0 +1,24 @@
+{
+  "name": "wirelessnetworks-1.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 461316,
+      "fileId": 3581836
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wirelessnetworks",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.0.0+1.18"
+    }
+  ]
+}

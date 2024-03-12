@@ -1,0 +1,16 @@
+{
+  "name": "worldborder-1.18.2-4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "worldborder",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldborder",
+      "version": "4.2"
+    }
+  ]
+}

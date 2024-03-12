@@ -1,0 +1,16 @@
+{
+  "name": "Cell-Forge-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cell",
+      "version": "1.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cell",
+      "version": "1.9"
+    }
+  ]
+}

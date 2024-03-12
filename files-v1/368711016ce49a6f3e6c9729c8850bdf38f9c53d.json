@@ -1,6 +1,18 @@
 {
   "name": "ItShallNotTick-1.0.22-build.34.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "njS3Z0YB",
+      "versionId": "1jYgVBzU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 619355,
+      "fileId": 3950477
+    }
+  ],
   "forge": [
     {
       "modId": "itshallnottick",

@@ -1,0 +1,10 @@
+{
+  "name": "优化区块预加载-ChunkPregenerator.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chunkpregenerator",
+      "version": "2.4.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nightx-b88.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nightx",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.10.0-24w07a-SNAPSHOT"
+    }
+  ]
+}

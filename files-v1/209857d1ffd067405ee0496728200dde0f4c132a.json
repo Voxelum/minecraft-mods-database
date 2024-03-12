@@ -1,0 +1,38 @@
+{
+  "name": "gadget-0.2.3+1.20.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gadget",
+      "version": "0.2.3+1.20.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.3+1.20.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "net_auoeke_result",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "net_auoeke_unsafe",
+      "version": "1.7.3"
+    },
+    {
+      "modId": "net_auoeke_reflect",
+      "version": "6.3.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

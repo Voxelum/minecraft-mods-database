@@ -1,0 +1,22 @@
+{
+  "name": "immersivemc-1.4.1-1.19.3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XJ9is6vj",
+      "versionId": "OS7QK6eI"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivemc",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivemc",
+      "version": "1.4.0"
+    }
+  ]
+}

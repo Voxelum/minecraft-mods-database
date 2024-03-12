@@ -1,0 +1,28 @@
+{
+  "name": "magic_origins_forge_fabric_1.20+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mattYXZw",
+      "versionId": "URfxEXWV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849514,
+      "fileId": 4888340
+    }
+  ],
+  "forge": [
+    {
+      "modId": "magic_origins",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magic_origins",
+      "version": "1.0.0"
+    }
+  ]
+}

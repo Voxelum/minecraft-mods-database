@@ -1,0 +1,20 @@
+{
+  "name": "snow-pig-3.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HaIJSYr6",
+      "versionId": "eGkJDZYs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snowpig",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    }
+  ]
+}

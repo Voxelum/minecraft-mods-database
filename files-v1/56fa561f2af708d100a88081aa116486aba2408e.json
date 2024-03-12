@@ -1,0 +1,18 @@
+{
+  "name": "respackopts-4.7.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "respackopts",
+      "version": "4.7.2"
+    },
+    {
+      "modId": "io_gitlab_jfronny_muscript",
+      "version": "1.5-SNAPSHOT"
+    },
+    {
+      "modId": "io_gitlab_jfronny_muscript-gson",
+      "version": "1.5-SNAPSHOT"
+    }
+  ]
+}

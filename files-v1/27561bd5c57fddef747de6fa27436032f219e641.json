@@ -1,6 +1,18 @@
 {
   "name": "spark-1.9.11-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "sYlxF6IX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 3824951
+    }
+  ],
   "forge": [
     {
       "modId": "spark",

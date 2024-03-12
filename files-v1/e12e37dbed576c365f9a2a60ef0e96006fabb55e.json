@@ -1,0 +1,14 @@
+{
+  "name": "ImmediatelyFast-1.1.9+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.1.9"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

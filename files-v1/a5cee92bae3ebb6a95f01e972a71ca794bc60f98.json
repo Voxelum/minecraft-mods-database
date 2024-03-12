@@ -1,6 +1,18 @@
 {
   "name": "xaeros_waystones_compability-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7mLhyqIY",
+      "versionId": "flkS2tex"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 887484,
+      "fileId": 4637926
+    }
+  ],
   "forge": [
     {
       "modId": "w2w2",

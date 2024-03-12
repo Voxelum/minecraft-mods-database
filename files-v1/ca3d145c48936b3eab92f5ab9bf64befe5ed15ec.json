@@ -1,6 +1,12 @@
 {
   "name": "itemswapper-fabric-0.5.3-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RPOSBQgq",
+      "versionId": "NEBVxulw"
+    }
+  ],
   "fabric": [
     {
       "modId": "itemswapper",

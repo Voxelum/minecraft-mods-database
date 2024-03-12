@@ -1,0 +1,18 @@
+{
+  "name": "【masa全家桶】tweakermore-mc1.20-v3.13.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakermore",
+      "version": "3.13.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

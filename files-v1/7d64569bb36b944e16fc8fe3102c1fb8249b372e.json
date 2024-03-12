@@ -1,0 +1,22 @@
+{
+  "name": "forge-startinv-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 944149,
+      "fileId": 4909754
+    }
+  ],
+  "forge": [
+    {
+      "modId": "startinv",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "startinv",
+      "version": "1.0.0"
+    }
+  ]
+}

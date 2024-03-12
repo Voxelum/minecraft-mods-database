@@ -1,6 +1,18 @@
 {
   "name": "reeses_sodium_options-1.4.7+mc1.18.2-build.58.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh37bMuy",
+      "versionId": "74LitD6T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511319,
+      "fileId": 3946212
+    }
+  ],
   "fabric": [
     {
       "modId": "reeses-sodium-options",

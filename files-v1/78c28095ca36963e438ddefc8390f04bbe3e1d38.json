@@ -1,0 +1,24 @@
+{
+  "name": "doapi-1.2.6-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "MR1JTKce"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doapi",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

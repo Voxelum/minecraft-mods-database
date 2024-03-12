@@ -1,0 +1,10 @@
+{
+  "name": "torohealth-1.16.4-forge-4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "torohealth",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

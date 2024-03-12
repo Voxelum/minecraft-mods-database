@@ -1,6 +1,18 @@
 {
   "name": "fabric-carpet-1.18.2-1.4.69+v220331.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TQTTVgYE",
+      "versionId": "Gt4ohwGH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349239,
+      "fileId": 3725895
+    }
+  ],
   "fabric": [
     {
       "modId": "carpet",

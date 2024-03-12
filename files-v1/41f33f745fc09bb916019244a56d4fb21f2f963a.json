@@ -1,6 +1,12 @@
 {
   "name": "Illager-Expansion-Rematch-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BANfajzS",
+      "versionId": "NPGsIVcP"
+    }
+  ],
   "fabric": [
     {
       "modId": "illagerexp",

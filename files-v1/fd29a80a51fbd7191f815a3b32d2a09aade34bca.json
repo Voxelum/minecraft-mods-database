@@ -1,0 +1,16 @@
+{
+  "name": "quickrightclick-1.20.4-1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "quickrightclick",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickrightclick",
+      "version": "1.4"
+    }
+  ]
+}

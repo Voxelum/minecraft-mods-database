@@ -1,0 +1,20 @@
+{
+  "name": "BetterCaves-Fabric-1.16.5-1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408465,
+      "fileId": 3307522
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercaves",
+      "version": "1.16.5-1.2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.19"
+    }
+  ]
+}

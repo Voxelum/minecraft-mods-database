@@ -1,6 +1,12 @@
 {
   "name": "bookworm-1.12.2-2.5.2.1.jar",
-  "domain": "mods",
+  "domain": "resourcepacks",
+  "curseforge": [
+    {
+      "projectId": 302957,
+      "fileId": 2989715
+    }
+  ],
   "forge": [
     {
       "modId": "bookworm",

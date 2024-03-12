@@ -1,0 +1,14 @@
+{
+  "name": "Mambience-5.2.0+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mambience",
+      "version": "5.2.0+1.19"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    }
+  ]
+}

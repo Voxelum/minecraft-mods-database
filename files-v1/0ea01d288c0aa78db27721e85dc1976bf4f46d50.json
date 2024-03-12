@@ -1,0 +1,10 @@
+{
+  "name": "[传送书]Warpbook-1.12.2-3.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "warpbook",
+      "version": "@VERSION@"
+    }
+  ]
+}

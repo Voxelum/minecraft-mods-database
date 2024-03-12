@@ -1,0 +1,30 @@
+{
+  "name": "Steam_Rails-1.5.0+fabric-mc1.19.2-build.14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "eYUb7Azi"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "railways",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.5.0+fabric-mc1.19.2-build.14"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

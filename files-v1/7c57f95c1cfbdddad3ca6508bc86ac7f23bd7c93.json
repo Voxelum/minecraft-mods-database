@@ -1,0 +1,14 @@
+{
+  "name": "itemalchemy-0.8.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "itemalchemy",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.67.0+1.18.2"
+    }
+  ]
+}

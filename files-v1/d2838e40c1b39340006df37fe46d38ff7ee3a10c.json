@@ -1,6 +1,18 @@
 {
   "name": "dungeons-and-taverns-v2.1.4 [Forge].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tpehi7ww",
+      "versionId": "M0kmi04X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 853794,
+      "fileId": 4648705
+    }
+  ],
   "forge": [
     {
       "modId": "mr_dungeons_andtaverns",

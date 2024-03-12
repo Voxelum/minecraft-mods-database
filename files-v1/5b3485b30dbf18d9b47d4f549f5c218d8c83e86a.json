@@ -1,0 +1,16 @@
+{
+  "name": "enhanced_searchability-mc1.20.4-1.0.5-build.23.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enhanced_searchability",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhanced_searchability",
+      "version": "1.0.5"
+    }
+  ]
+}

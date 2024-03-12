@@ -1,0 +1,18 @@
+{
+  "name": "Shoppy-1.18.2-FABRIC-1.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shoppy",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "octo-economy-api",
+      "version": "1.1.0"
+    }
+  ]
+}

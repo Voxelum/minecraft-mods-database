@@ -1,6 +1,12 @@
 {
   "name": "ears-fabric-1.20-1.4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mfzaZK3Z",
+      "versionId": "Lr5BTYBp"
+    }
+  ],
   "fabric": [
     {
       "modId": "ears",

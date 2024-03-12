@@ -1,0 +1,22 @@
+{
+  "name": "FrogLegs-v2.0.0-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "equ26Hrh",
+      "versionId": "SJ9Fndx0"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "froglegs",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "froglegs",
+      "version": "2.0.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "vanish-1.4.2+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UL4bJFDY",
+      "versionId": "GfnwrbQ6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676275,
+      "fileId": 4575542
+    }
+  ],
   "fabric": [
     {
       "modId": "melius-vanish",

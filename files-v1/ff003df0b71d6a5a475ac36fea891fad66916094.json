@@ -1,0 +1,28 @@
+{
+  "name": "enchantedshulkers-mc1.20.1-v1.2.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vUi6HFie",
+      "versionId": "4CqP6Sc7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantedshulkers",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "io_hotmoka_toml4j",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

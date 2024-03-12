@@ -1,6 +1,18 @@
 {
   "name": "Tips-1.16.5-4.0.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AMCbgyVw",
+      "versionId": "Jh8JAsd0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 306549,
+      "fileId": 3825905
+    }
+  ],
   "forge": [
     {
       "modId": "tips",

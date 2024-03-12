@@ -1,0 +1,42 @@
+{
+  "name": "DistantHorizons-1.6.9a-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uCdwusMi",
+      "versionId": "yEUygWBv"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lod",
+      "version": "1.6.9a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lod",
+      "version": "1.6.9a"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.18+9ff28f4095"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.6+5f1a85e095"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a395"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.1+3082331495"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.1.0+33fbc73895"
+    }
+  ]
+}

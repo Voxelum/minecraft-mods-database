@@ -1,0 +1,10 @@
+{
+  "name": "buildcraft-all-7.99.24.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "buildcraftcompat",
+      "version": "7.99.24.3"
+    }
+  ]
+}

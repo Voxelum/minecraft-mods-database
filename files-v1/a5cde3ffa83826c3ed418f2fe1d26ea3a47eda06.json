@@ -1,6 +1,18 @@
 {
   "name": "dashloader-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZfQ3kTvR",
+      "versionId": "se6qU2fa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 472772,
+      "fileId": 3320941
+    }
+  ],
   "fabric": [
     {
       "modId": "dashloader",

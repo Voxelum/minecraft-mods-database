@@ -1,6 +1,12 @@
 {
   "name": "magick-1.3.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 497340,
+      "fileId": 4053500
+    }
+  ],
   "fabric": [
     {
       "modId": "magick",

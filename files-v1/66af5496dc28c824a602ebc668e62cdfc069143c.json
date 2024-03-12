@@ -1,6 +1,12 @@
 {
   "name": "ctov-wizards-compat-2.0a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uZAJ8Zy7",
+      "versionId": "OH89Yynl"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_ctov_wizardscompat",

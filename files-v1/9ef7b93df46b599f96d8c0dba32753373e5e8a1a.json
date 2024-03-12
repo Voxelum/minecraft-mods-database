@@ -1,6 +1,12 @@
 {
   "name": "memoryleakfix-1.19.1-0.7.0 (1).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRjRiSSD",
+      "versionId": "tlLtHh1w"
+    }
+  ],
   "fabric": [
     {
       "modId": "memoryleakfix",

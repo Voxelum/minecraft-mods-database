@@ -1,0 +1,26 @@
+{
+  "name": "dynamiccrosshair-7.6.4+1.20.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZcR9weSm",
+      "versionId": "eRIHItNH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623800,
+      "fileId": 5027242
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiccrosshair",
+      "version": "7.6.4+1.20.4"
+    },
+    {
+      "modId": "yaclx",
+      "version": "1.12+1.20.2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DOMAdditions-014-1.20.2-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "additions",
+      "version": "014-1.20.2-beta"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

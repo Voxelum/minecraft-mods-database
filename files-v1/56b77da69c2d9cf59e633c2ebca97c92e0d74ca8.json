@@ -1,0 +1,38 @@
+{
+  "name": "fabric-language-kotlin-1.4.21+build.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.4.21+build.1"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.4.21"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk8",
+      "version": "1.4.21"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk7",
+      "version": "1.4.21"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-reflect",
+      "version": "1.4.21"
+    },
+    {
+      "modId": "org_jetbrains_annotations",
+      "version": "20.0.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8",
+      "version": "1.4.2"
+    }
+  ]
+}

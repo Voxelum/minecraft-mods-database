@@ -1,0 +1,24 @@
+{
+  "name": "spellbladenext-1.0.33.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 811662,
+      "fileId": 4783984
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spellbladenext",
+      "version": "1.0.33"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

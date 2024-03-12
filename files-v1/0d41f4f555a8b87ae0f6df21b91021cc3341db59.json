@@ -1,6 +1,12 @@
 {
   "name": "Debugify-1.20+1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QwxR6Gcd",
+      "versionId": "7SaNcvDx"
+    }
+  ],
   "fabric": [
     {
       "modId": "debugify",

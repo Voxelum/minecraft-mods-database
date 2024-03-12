@@ -1,0 +1,10 @@
+{
+  "name": "aerialaffinity-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "aerialaffinity",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "HealthOverlay-1.18.2-6.3.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 313219,
+      "fileId": 3932277
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healthoverlay",
+      "version": "6.3.4"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

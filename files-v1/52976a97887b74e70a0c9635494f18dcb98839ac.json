@@ -1,0 +1,14 @@
+{
+  "name": "optifabric-1.10.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "optifabric",
+      "version": "1.10.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.2"
+    }
+  ]
+}

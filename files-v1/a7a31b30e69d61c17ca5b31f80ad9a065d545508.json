@@ -1,0 +1,22 @@
+{
+  "name": "dynamicfps-reforged-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qKjtnNI0",
+      "versionId": "RYXBaOG7"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dynamicfps",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamicfps",
+      "version": "${version}"
+    }
+  ]
+}

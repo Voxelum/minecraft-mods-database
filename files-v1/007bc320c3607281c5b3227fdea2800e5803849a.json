@@ -1,0 +1,48 @@
+{
+  "name": "andromeda-0.8.1-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TseYlb0f",
+      "versionId": "y0StZiDd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "andromeda",
+      "version": "0.8.1-1.20"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-analytics",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-analytics-crashes",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-analytics-mixpanel",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-content",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-mirage",
+      "version": "0.8.0-1.20"
+    },
+    {
+      "modId": "dark-matter-glitter",
+      "version": "0.8.0-1.20"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "highlight-1.0.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667245,
+      "fileId": 3963875
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "highlight",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "1.1.9"
+    }
+  ]
+}

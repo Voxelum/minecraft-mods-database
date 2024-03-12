@@ -1,6 +1,18 @@
 {
   "name": "reforgium-1.0.12a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vmn85VI7",
+      "versionId": "OcW1M8PC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 853424,
+      "fileId": 4505759
+    }
+  ],
   "forge": [
     {
       "modId": "reforgium",

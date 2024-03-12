@@ -1,0 +1,16 @@
+{
+  "name": "open-parties-and-claims-fabric-1.18.2-0.16.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "openpartiesandclaims",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "openpartiesandclaims",
+      "version": "0.16.5"
+    }
+  ]
+}

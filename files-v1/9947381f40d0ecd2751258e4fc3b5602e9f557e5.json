@@ -1,0 +1,20 @@
+{
+  "name": "click_machine_1.20.1-fabric-1.6.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565529,
+      "fileId": 4752681
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clickmachine",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.2+1.20"
+    }
+  ]
+}

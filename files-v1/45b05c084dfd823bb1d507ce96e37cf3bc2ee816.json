@@ -1,0 +1,10 @@
+{
+  "name": "sound-board-server-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "soundboard",
+      "version": "1.0"
+    }
+  ]
+}

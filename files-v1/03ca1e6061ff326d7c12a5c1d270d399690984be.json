@@ -1,0 +1,16 @@
+{
+  "name": "giantspawn-1.19.2-5.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "giantspawn",
+      "version": "5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "giantspawn",
+      "version": "5.0"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "ultreon-lib-fabric-1.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "74g7isNi",
+      "versionId": "NbeWhN2Q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ultreonlib",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-collections-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-text-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-datetime-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-translations-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-functions-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-events-v1",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-commons-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_ultreon-data",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-crash-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-registries-v0",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_ultreon_corelibs_corelibs-resources-v0",
+      "version": "0.1.0"
+    }
+  ]
+}

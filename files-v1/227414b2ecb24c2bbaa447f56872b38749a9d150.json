@@ -1,0 +1,10 @@
+{
+  "name": "RPMMAU-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mau",
+      "version": "1.0.0"
+    }
+  ]
+}

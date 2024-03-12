@@ -1,6 +1,18 @@
 {
   "name": "dungeons-and-taverns-swamp-hut-rework-1 [Fabric].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nWSeFpQt",
+      "versionId": "RHfivqup"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 920439,
+      "fileId": 4786040
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_dungeons_andtavernsswamphutrework",

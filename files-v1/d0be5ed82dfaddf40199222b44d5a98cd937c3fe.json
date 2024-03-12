@@ -1,0 +1,10 @@
+{
+  "name": "ToughAsNails-1.19.3-8.1.0.89.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "toughasnails",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

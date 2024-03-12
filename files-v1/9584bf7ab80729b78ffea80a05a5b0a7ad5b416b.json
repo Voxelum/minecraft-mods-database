@@ -1,6 +1,12 @@
 {
   "name": "graves-2.1.3+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yn9u3ypm",
+      "versionId": "9Xjqin2k"
+    }
+  ],
   "fabric": [
     {
       "modId": "universal-graves",

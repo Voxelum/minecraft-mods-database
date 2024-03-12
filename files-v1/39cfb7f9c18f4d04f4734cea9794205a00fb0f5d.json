@@ -1,0 +1,28 @@
+{
+  "name": "Botania-1.18.2-435-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pfjLUfGv",
+      "versionId": "I1sdolxI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "botania",
+      "version": "1.18.2-435-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

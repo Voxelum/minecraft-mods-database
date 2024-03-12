@@ -1,0 +1,20 @@
+{
+  "name": "ecologics-fabric-1.19-2.1.8.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 570463,
+      "fileId": 3933910
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ecologics",
+      "version": "2.1.8.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.73"
+    }
+  ]
+}

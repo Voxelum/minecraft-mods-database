@@ -1,6 +1,12 @@
 {
   "name": "blockus-2.5.9+1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 312289,
+      "fileId": 4458022
+    }
+  ],
   "fabric": [
     {
       "modId": "blockus",

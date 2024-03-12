@@ -1,6 +1,12 @@
 {
   "name": "visualoverhaul-fabric-5.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YQnwl5Vv",
+      "versionId": "WisLIPQ9"
+    }
+  ],
   "fabric": [
     {
       "modId": "visualoverhaul",

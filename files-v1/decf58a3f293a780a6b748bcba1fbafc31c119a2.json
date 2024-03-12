@@ -1,6 +1,12 @@
 {
   "name": "gear_core-0.2.0+1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 825265,
+      "fileId": 4482691
+    }
+  ],
   "fabric": [
     {
       "modId": "gear_core",

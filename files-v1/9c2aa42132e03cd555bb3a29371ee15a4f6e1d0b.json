@@ -1,0 +1,28 @@
+{
+  "name": "cpm-svc-compat-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xVbeCJyB",
+      "versionId": "xXfiMe0Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627994,
+      "fileId": 5045383
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpmsvcc",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpmsvcc",
+      "version": "1.2.0"
+    }
+  ]
+}

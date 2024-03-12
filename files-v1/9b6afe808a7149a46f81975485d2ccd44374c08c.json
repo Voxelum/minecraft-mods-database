@@ -1,6 +1,18 @@
 {
   "name": "lilwings-forge-1.18.2-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FrkP72va",
+      "versionId": "ayLCjAdE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561277,
+      "fileId": 4109310
+    }
+  ],
   "forge": [
     {
       "modId": "lilwings",

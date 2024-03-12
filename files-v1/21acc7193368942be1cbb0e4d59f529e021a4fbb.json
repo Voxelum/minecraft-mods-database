@@ -1,6 +1,12 @@
 {
-  "name": "DynamX-4.0.1-all.jar",
+  "name": "dynamx-4.0.1-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MuAEUut2",
+      "versionId": "4n2hmHCj"
+    }
+  ],
   "forge": [
     {
       "modId": "dynamxmod",

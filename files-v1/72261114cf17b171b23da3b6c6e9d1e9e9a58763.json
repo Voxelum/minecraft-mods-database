@@ -1,0 +1,14 @@
+{
+  "name": "miningutility-1.2.6+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "miningutility",
+      "version": "1.2.6+1.19"
+    },
+    {
+      "modId": "yet-another-config-lib",
+      "version": "1.6.0"
+    }
+  ]
+}

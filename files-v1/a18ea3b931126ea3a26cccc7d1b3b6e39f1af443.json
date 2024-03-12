@@ -1,6 +1,12 @@
 {
   "name": "memoryleakfix-forge-pre1.17-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627566,
+      "fileId": 4465267
+    }
+  ],
   "forge": [
     {
       "modId": "memoryleakfix",

@@ -1,0 +1,24 @@
+{
+  "name": "beenfo-1.19.1-fabric0.58.5-1.3.3-spigot.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bta0Pt47",
+      "versionId": "mP2JDrtA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beenfo",
+      "version": "1.19.1-fabric0.58.5-1.3.3"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.19"
+    }
+  ]
+}

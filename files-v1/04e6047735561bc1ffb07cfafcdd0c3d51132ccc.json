@@ -1,0 +1,28 @@
+{
+  "name": "geophilic-v2.1.0-mc1.20u1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hl5OLM95",
+      "versionId": "LSWMMsCf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711216,
+      "fileId": 4877145
+    }
+  ],
+  "forge": [
+    {
+      "modId": "geophilic",
+      "version": "2.1.0-mc1.20u1.20.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geophilic",
+      "version": "v2.1.0-mc1.20u1.20.2"
+    }
+  ]
+}

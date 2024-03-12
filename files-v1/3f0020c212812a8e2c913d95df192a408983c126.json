@@ -1,6 +1,12 @@
 {
   "name": "spelunker-1.5.3-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hwl9Rw2v",
+      "versionId": "Do1jWIaF"
+    }
+  ],
   "fabric": [
     {
       "modId": "spelunker",

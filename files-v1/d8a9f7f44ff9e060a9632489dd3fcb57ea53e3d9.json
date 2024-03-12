@@ -1,0 +1,22 @@
+{
+  "name": "BiomeParticleWeather-v4.1.0-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XH09j5fH",
+      "versionId": "g03JmHiO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "impactfulweather",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "impactfulweather",
+      "version": "4.1.0"
+    }
+  ]
+}

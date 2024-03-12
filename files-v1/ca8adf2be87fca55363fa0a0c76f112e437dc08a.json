@@ -1,0 +1,20 @@
+{
+  "name": "entity_texture_features_fabric_1.19.x-4.0.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 568563,
+      "fileId": 3935334
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "entity_texture_features",
+      "version": "4.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.73"
+    }
+  ]
+}

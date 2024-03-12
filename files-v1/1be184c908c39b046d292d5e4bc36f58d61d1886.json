@@ -1,6 +1,12 @@
 {
   "name": "villagersffh-0.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UZJuyOGB",
+      "versionId": "NYSlZH3b"
+    }
+  ],
   "fabric": [
     {
       "modId": "villagersffh",

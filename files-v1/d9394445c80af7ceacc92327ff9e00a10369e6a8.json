@@ -1,0 +1,24 @@
+{
+  "name": "comforts-fabric-1.1.3-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SaCpeal4",
+      "versionId": "Ct4mFCUB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "1.1.3-1.18.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

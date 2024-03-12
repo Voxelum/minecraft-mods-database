@@ -1,0 +1,24 @@
+{
+  "name": "Observed-fabric-1.19.2-1.3.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534540,
+      "fileId": 3969978
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "observed",
+      "version": "1.3.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    }
+  ]
+}

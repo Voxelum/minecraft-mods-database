@@ -1,0 +1,14 @@
+{
+  "name": "fightorflight-Fabric-0.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fightorflight",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

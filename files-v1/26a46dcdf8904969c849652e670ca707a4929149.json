@@ -1,6 +1,18 @@
 {
   "name": "mythicmetals-0.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "RDFjRtxl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410127,
+      "fileId": 3725976
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicmetals",

@@ -1,0 +1,28 @@
+{
+  "name": "charmonium-fabric-1.16.5-2.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 378696,
+      "fileId": 3220895
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmonium",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.2"
+    }
+  ]
+}

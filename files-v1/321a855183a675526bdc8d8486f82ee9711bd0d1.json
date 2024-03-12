@@ -1,0 +1,34 @@
+{
+  "name": "comforts-fabric-7.1.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SaCpeal4",
+      "versionId": "dgUU0OQZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 276951,
+      "fileId": 5071470
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "7.1.0+1.20.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.15.1+1.20.4"
+    }
+  ]
+}

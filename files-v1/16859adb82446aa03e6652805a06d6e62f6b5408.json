@@ -1,6 +1,12 @@
 {
   "name": "fabric-cotton-mod-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KCHy8KsT",
+      "versionId": "bXm3Cc5N"
+    }
+  ],
   "fabric": [
     {
       "modId": "cottonmod",

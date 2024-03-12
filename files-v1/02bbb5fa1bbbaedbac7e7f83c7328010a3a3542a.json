@@ -1,0 +1,16 @@
+{
+  "name": "thornybushprotection-1.20.4-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "thornybushprotection",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thornybushprotection",
+      "version": "1.2"
+    }
+  ]
+}

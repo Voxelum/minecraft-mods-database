@@ -1,0 +1,30 @@
+{
+  "name": "squaremap-fabric-mc1.19.4-1.1.13.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "squaremap",
+      "version": "1.1.13"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.8.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.8.3"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-minecraft-extras",
+      "version": "1.8.3"
+    }
+  ]
+}

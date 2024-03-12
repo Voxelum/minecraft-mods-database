@@ -1,0 +1,16 @@
+{
+  "name": "doggytalents-1.7.10-1.14.2.325.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 906748,
+      "fileId": 4724631
+    }
+  ],
+  "forge": [
+    {
+      "modId": "doggytalents",
+      "version": "${version}"
+    }
+  ]
+}

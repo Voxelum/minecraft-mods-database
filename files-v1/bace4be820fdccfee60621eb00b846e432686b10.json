@@ -1,6 +1,18 @@
 {
   "name": "spiderstpo-1.19.2-2.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dOGM7ccu",
+      "versionId": "ur5d56Rq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686058,
+      "fileId": 4139288
+    }
+  ],
   "forge": [
     {
       "modId": "spiderstpo",

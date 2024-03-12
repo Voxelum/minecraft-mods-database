@@ -1,6 +1,12 @@
 {
   "name": "grizzlybear-1.20-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x6nc2i5M",
+      "versionId": "L0Ou5uPd"
+    }
+  ],
   "fabric": [
     {
       "modId": "aqupdgrizzly",

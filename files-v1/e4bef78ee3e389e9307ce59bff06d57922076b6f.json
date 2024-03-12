@@ -1,0 +1,22 @@
+{
+  "name": "realistic-item-drops-3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CZP8YYTl",
+      "versionId": "9tv0oh9t"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_realistic_itemdrops",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_realistic_itemdrops",
+      "version": "3.0"
+    }
+  ]
+}

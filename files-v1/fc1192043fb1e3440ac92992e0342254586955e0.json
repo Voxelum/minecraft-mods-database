@@ -1,6 +1,18 @@
 {
   "name": "wizards-1.0.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NkGaQMDA",
+      "versionId": "vFBkqvEp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 734325,
+      "fileId": 4827488
+    }
+  ],
   "fabric": [
     {
       "modId": "wizards",

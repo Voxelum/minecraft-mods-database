@@ -1,6 +1,12 @@
 {
   "name": "lowfire-fabric-1.19-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gou1gmGj",
+      "versionId": "jWpt7qOI"
+    }
+  ],
   "fabric": [
     {
       "modId": "lowfire",

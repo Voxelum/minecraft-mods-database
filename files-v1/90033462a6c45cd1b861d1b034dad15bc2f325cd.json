@@ -1,0 +1,16 @@
+{
+  "name": "qraftyfied-6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_qraftyfied",
+      "version": "6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_qraftyfied",
+      "version": "6"
+    }
+  ]
+}

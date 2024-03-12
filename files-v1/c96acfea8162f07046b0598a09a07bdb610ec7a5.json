@@ -1,6 +1,18 @@
 {
   "name": "allthetrims-3.3.4-fabric+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnsUKrap",
+      "versionId": "nQ6mQ7uT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876154,
+      "fileId": 4824184
+    }
+  ],
   "fabric": [
     {
       "modId": "allthetrims",

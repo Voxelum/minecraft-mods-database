@@ -1,6 +1,18 @@
 {
   "name": "nameplate-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9J82qMn9",
+      "versionId": "mwtmoX2R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551914,
+      "fileId": 4548320
+    }
+  ],
   "fabric": [
     {
       "modId": "nameplate",

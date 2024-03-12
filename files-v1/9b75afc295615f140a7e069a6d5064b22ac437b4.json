@@ -1,0 +1,20 @@
+{
+  "name": "ad-astra-1.0.5-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3ufwT9JF",
+      "versionId": "gAbBtEnb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ad_astra",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

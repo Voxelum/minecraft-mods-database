@@ -1,0 +1,16 @@
+{
+  "name": "gardeners-dream-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_gardeners_dream",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_gardeners_dream",
+      "version": "1"
+    }
+  ]
+}

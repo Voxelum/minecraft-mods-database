@@ -1,0 +1,20 @@
+{
+  "name": "SootyChimneysFabric-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vSrrfcOl",
+      "versionId": "nlnOfq6z"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sootychimneys",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

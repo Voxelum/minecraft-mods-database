@@ -1,6 +1,18 @@
 {
   "name": "mes-1.3-1.19.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4PuRGfV",
+      "versionId": "xmGoinJC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892382,
+      "fileId": 4735070
+    }
+  ],
   "fabric": [
     {
       "modId": "mes",

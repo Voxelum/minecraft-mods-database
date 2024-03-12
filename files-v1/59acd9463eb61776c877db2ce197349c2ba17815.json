@@ -1,0 +1,20 @@
+{
+  "name": "cozy-1.1.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 625281,
+      "fileId": 4728202
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cozy",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.0.6"
+    }
+  ]
+}

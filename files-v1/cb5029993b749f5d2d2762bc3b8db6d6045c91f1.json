@@ -1,0 +1,10 @@
+{
+  "name": "eureka-1.0.0-alpha7-1.16.5-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vs_eureka",
+      "version": "1.0.0-alpha7"
+    }
+  ]
+}

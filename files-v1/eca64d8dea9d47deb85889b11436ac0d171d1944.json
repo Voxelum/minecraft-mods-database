@@ -1,0 +1,20 @@
+{
+  "name": "datapackportals-1.2.3-1.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 423140,
+      "fileId": 4590550
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "datapackportals",
+      "version": "1.2.3-1.20"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "nyfsspiders-forge-1.20.1-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dOGM7ccu",
+      "versionId": "p98mV3Xm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686058,
+      "fileId": 4728359
+    }
+  ],
   "forge": [
     {
       "modId": "nyfsspiders",

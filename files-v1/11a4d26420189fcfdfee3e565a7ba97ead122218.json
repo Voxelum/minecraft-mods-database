@@ -1,6 +1,18 @@
 {
   "name": "modmenu-1.16.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "WkUCkcQA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 3479748
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

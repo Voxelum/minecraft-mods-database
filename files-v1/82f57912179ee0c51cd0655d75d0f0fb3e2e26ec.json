@@ -1,0 +1,20 @@
+{
+  "name": "crawl-0.8.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 314579,
+      "fileId": 3302651
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crawl",
+      "version": "0.8.4"
+    },
+    {
+      "modId": "mm",
+      "version": "2.2"
+    }
+  ]
+}

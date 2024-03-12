@@ -1,0 +1,20 @@
+{
+  "name": "bookworm-3.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 302957,
+      "fileId": 3093489
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bookworm",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.3.72+build.1"
+    }
+  ]
+}

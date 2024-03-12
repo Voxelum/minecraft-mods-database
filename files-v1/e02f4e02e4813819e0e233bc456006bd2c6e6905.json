@@ -1,6 +1,18 @@
 {
   "name": "rubidium-0.5.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZqxOvjD",
+      "versionId": "uqcWRM8W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574856,
+      "fileId": 4451888
+    }
+  ],
   "forge": [
     {
       "modId": "rubidium",

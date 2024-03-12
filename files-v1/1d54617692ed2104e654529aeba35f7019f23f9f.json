@@ -1,0 +1,20 @@
+{
+  "name": "zenith-0.1.8-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620928,
+      "fileId": 4833324
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "0.1.8-1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

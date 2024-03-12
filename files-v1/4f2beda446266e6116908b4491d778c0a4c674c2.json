@@ -1,0 +1,14 @@
+{
+  "name": "forgottengraves-1.19.2-3.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "forgottengraves",
+      "version": "1.19.2-3.0.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

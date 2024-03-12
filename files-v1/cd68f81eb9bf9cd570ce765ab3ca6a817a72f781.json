@@ -1,0 +1,26 @@
+{
+  "name": "iron-jetpacks-0.4.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 386892,
+      "fileId": 3734921
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ironjetpacks",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iron-jetpacks",
+      "version": "0.4.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.1.0"
+    }
+  ]
+}

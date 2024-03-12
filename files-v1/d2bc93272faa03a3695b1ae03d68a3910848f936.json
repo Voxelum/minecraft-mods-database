@@ -1,0 +1,10 @@
+{
+  "name": "Saros-Create-Addon-1.19.2-2.0-[Fabric].jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "saros_create_addon_fabric",
+      "version": "1.0.0"
+    }
+  ]
+}

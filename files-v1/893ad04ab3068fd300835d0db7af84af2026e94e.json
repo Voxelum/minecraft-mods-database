@@ -1,0 +1,16 @@
+{
+  "name": "SpelunkersCharm-2.6.0-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "prelaws_tremors_mod",
+      "version": "0.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "prelaws_tremors_mod",
+      "version": "0.1.0"
+    }
+  ]
+}

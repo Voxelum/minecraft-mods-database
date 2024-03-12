@@ -1,6 +1,18 @@
 {
   "name": "plushies-1.3.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hsOK0gUP",
+      "versionId": "jvg1RnBf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544197,
+      "fileId": 4732817
+    }
+  ],
   "fabric": [
     {
       "modId": "plushies",

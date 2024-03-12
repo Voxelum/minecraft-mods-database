@@ -1,6 +1,12 @@
 {
   "name": "probablychests-0.5.5-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 601735,
+      "fileId": 4020528
+    }
+  ],
   "fabric": [
     {
       "modId": "probablychests",

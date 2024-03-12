@@ -1,6 +1,12 @@
 {
   "name": "clientcrafting-fabric-1.20.1-1.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 888790,
+      "fileId": 4711024
+    }
+  ],
   "fabric": [
     {
       "modId": "clientcrafting",

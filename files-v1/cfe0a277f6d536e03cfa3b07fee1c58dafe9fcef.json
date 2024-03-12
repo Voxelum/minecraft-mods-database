@@ -1,6 +1,18 @@
 {
   "name": "CullLessLeaves-Reforged-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qthuEuVy",
+      "versionId": "prdzLnOo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 840788,
+      "fileId": 4451885
+    }
+  ],
   "forge": [
     {
       "modId": "culllessleaves",

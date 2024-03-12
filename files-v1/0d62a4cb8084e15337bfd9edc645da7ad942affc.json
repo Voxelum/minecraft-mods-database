@@ -1,0 +1,10 @@
+{
+  "name": "meteorist-1.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteorist",
+      "version": "1.7"
+    }
+  ]
+}

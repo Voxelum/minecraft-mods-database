@@ -1,0 +1,28 @@
+{
+  "name": "ledger-databases-1.1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 529404,
+      "fileId": 3834676
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ledger-databases",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "1.4.200"
+    },
+    {
+      "modId": "mysql_mysql-connector-java",
+      "version": "8.0.19"
+    },
+    {
+      "modId": "org_postgresql_postgresql",
+      "version": "42.3.0"
+    }
+  ]
+}

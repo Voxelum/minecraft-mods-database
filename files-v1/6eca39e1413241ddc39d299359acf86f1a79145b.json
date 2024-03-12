@@ -1,0 +1,26 @@
+{
+  "name": "XaeroPlus-Fabric-1.20.1-75-WM1.37.2-MM23.9.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "6ktn7rSB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866084,
+      "fileId": 4995414
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeroplus",
+      "version": "1.20.1"
+    },
+    {
+      "modId": "net_lenni0451_lambdaevents",
+      "version": "2.4.0"
+    }
+  ]
+}

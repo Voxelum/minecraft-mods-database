@@ -1,0 +1,26 @@
+{
+  "name": "watut-fabric-1.19.4-1.0.14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtB5mHky",
+      "versionId": "U5WvMCan"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945479,
+      "fileId": 5008389
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watut",
+      "version": "1.19.4-1.0.14"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "6.0.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "disenchanting-book-v2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_disenchanting_book",
+      "version": "1-v2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_disenchanting_book",
+      "version": "1-v2"
+    }
+  ]
+}

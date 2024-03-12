@@ -1,0 +1,22 @@
+{
+  "name": "lootery-v2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rKtVCJun",
+      "versionId": "8gujkLaW"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lootery",
+      "version": "1-v2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lootery",
+      "version": "1-v2"
+    }
+  ]
+}

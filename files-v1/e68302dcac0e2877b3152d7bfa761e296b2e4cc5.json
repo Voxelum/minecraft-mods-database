@@ -1,6 +1,18 @@
 {
   "name": "allurement-1.18.2-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eIO12l2t",
+      "versionId": "n02K7PNw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438003,
+      "fileId": 3881523
+    }
+  ],
   "forge": [
     {
       "modId": "allurement",

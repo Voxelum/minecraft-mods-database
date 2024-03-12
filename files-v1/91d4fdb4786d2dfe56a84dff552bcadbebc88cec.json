@@ -1,6 +1,18 @@
 {
   "name": "moreculling-1.19.4-0.17.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "A9LKf67q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630104,
+      "fileId": 4442158
+    }
+  ],
   "fabric": [
     {
       "modId": "moreculling",

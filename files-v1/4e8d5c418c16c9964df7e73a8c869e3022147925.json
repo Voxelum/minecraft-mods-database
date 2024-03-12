@@ -1,6 +1,18 @@
 {
   "name": "MaFgLib-0.1.2-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SKI34J7B",
+      "versionId": "3Bj76Kmu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910766,
+      "fileId": 4741805
+    }
+  ],
   "forge": [
     {
       "modId": "malilib",

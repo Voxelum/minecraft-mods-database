@@ -1,0 +1,20 @@
+{
+  "name": "create_enchantment_industry-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_enchantment_industry-1.0.0",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_enchantment_industry",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "create_dragon_lib",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Abundance-1.16.5-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5an0Vkka",
+      "versionId": "1JkCHKME"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 452345,
+      "fileId": 3250108
+    }
+  ],
   "forge": [
     {
       "modId": "abundance",

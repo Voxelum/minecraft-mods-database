@@ -1,6 +1,12 @@
 {
   "name": "ThermalFoundation-1.10.2-2.1.5.12-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 222880,
+      "fileId": 2453219
+    }
+  ],
   "forge": [
     {
       "modId": "thermalfoundation",

@@ -1,0 +1,16 @@
+{
+  "name": "edf-remastered-4_3-no_anvil.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_edf_remastered",
+      "version": "4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_edf_remastered",
+      "version": "4.3"
+    }
+  ]
+}

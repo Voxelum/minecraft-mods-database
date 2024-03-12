@@ -1,0 +1,16 @@
+{
+  "name": "viaforge-1.8.9-3.4.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "viaforge",
+      "version": "3.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.8.0"
+    }
+  ]
+}

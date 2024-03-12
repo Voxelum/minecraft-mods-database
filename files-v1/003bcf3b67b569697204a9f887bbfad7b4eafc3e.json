@@ -1,0 +1,16 @@
+{
+  "name": "firespreadtweaks-1.18.2-2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "firespreadtweaks",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "firespreadtweaks",
+      "version": "2.3"
+    }
+  ]
+}

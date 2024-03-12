@@ -1,0 +1,10 @@
+{
+  "name": "lavawaderbauble-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lavawaderbauble",
+      "version": "@VERSION@"
+    }
+  ]
+}

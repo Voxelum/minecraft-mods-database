@@ -1,6 +1,18 @@
 {
   "name": "plenty-of-armors-1.3.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j09KK8fT",
+      "versionId": "RX9dI3Ln"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661930,
+      "fileId": 4679408
+    }
+  ],
   "fabric": [
     {
       "modId": "plentyofarmors",

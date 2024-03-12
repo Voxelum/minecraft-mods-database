@@ -1,0 +1,16 @@
+{
+  "name": "FallingTree-1.19-3.7.0b1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fallingtree",
+      "version": "3.7.0b1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fallingtree",
+      "version": "3.7.0b1"
+    }
+  ]
+}

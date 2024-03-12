@@ -1,6 +1,12 @@
 {
   "name": "everycomp-1.19.2-2.4.12-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiktJyw1",
+      "versionId": "ZigaPu9g"
+    }
+  ],
   "fabric": [
     {
       "modId": "everycomp",

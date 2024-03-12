@@ -1,0 +1,24 @@
+{
+  "name": "dynamiccrosshair-7.6+1.20.3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZcR9weSm",
+      "versionId": "4Oy7MCbK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiccrosshair",
+      "version": "7.6+1.20.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "yaclx",
+      "version": "1.10+1.20"
+    }
+  ]
+}

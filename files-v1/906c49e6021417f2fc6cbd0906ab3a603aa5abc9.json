@@ -1,0 +1,24 @@
+{
+  "name": "resourcepackchecker-fabric-1.20.4-1.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fCpuZIcM",
+      "versionId": "zp84EW6J"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcepackchecker",
+      "version": "1.20.4-1.2.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.34+f31bf88132"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.14+f31bf88132"
+    }
+  ]
+}

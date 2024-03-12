@@ -1,0 +1,10 @@
+{
+  "name": "EmbedClient-7.7.7-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "embedclient",
+      "version": "${version}"
+    }
+  ]
+}

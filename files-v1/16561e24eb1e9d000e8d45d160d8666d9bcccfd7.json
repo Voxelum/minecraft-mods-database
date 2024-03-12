@@ -1,0 +1,16 @@
+{
+  "name": "creategoggles-1.19.2-0.5.5.f-[FABRIC].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "creategoggles",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creategoggles",
+      "version": "0.5.5.f"
+    }
+  ]
+}

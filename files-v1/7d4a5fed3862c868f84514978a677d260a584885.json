@@ -1,0 +1,16 @@
+{
+  "name": "outvoted-merged.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "outvoted",
+      "version": "3.0.0-pre"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "outvoted",
+      "version": "3.0.0-pre"
+    }
+  ]
+}

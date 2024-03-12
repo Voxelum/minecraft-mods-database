@@ -1,0 +1,14 @@
+{
+  "name": "WWOO-FABRIC-3.1.9+1.19.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wwoo",
+      "version": "3.1.9"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

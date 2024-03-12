@@ -1,0 +1,20 @@
+{
+  "name": "fakerlib-0.1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 853197,
+      "fileId": 5116353
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fakerlib",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

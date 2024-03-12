@@ -1,0 +1,24 @@
+{
+  "name": "FABRIC-Sneaky-Tree-Growing-1.9.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 645045,
+      "fileId": 3879448
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sneaky_tree_growing",
+      "version": "1.9.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.30"
+    },
+    {
+      "modId": "me_carleslc_simple-yaml_simple-yaml",
+      "version": "1.7.2"
+    }
+  ]
+}

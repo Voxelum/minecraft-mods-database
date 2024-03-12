@@ -1,0 +1,16 @@
+{
+  "name": "potato-pc-1dp.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "potato_pc_mr",
+      "version": "1dp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "potato_pc_mr",
+      "version": "1dp"
+    }
+  ]
+}

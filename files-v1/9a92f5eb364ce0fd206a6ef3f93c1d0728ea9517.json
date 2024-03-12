@@ -1,0 +1,20 @@
+{
+  "name": "Powah-4.0.11.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 633483,
+      "fileId": 4729360
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "powah",
+      "version": "4.0.11"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "[显示][mod菜单]modmenu-3.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b446388"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.8+a00e834b88"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.4+cbda931888"
+    }
+  ]
+}

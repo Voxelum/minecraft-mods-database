@@ -1,6 +1,12 @@
 {
   "name": "deathlog-0.3.2+1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TPAYeAOc",
+      "versionId": "iyH37xsn"
+    }
+  ],
   "fabric": [
     {
       "modId": "deathlog",

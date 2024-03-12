@@ -1,6 +1,12 @@
 {
   "name": "eventmod-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XblyRc8S",
+      "versionId": "NdQ4eYSl"
+    }
+  ],
   "fabric": [
     {
       "modId": "eventmod",

@@ -1,0 +1,26 @@
+{
+  "name": "multirecipe-fabric-0.49.2_1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "multirecipe",
+      "version": "0.49.2+1.20.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.4.0"
+    }
+  ]
+}

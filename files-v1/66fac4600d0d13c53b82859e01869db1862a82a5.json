@@ -1,0 +1,20 @@
+{
+  "name": "Pehkui-3.7.6+1.14.4-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "hYzQBiXB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "3.7.6+1.14.4-1.20.1"
+    },
+    {
+      "modId": "kanos_config",
+      "version": "0.4.1+1.14.4-1.19.4"
+    }
+  ]
+}

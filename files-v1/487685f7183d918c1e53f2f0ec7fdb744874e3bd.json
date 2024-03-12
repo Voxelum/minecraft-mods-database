@@ -1,6 +1,18 @@
 {
   "name": "bitsandchisels-2.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q8MC5tW2",
+      "versionId": "DZiUyJjF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 420709,
+      "fileId": 3841599
+    }
+  ],
   "fabric": [
     {
       "modId": "bitsandchisels",

@@ -1,6 +1,18 @@
 {
   "name": "snowyspirit-1.20-2.2.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UiFDlI7w",
+      "versionId": "d8zsCtRl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566142,
+      "fileId": 4734352
+    }
+  ],
   "fabric": [
     {
       "modId": "snowyspirit",

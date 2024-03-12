@@ -1,0 +1,14 @@
+{
+  "name": "fabric-furnaces-2.1.1-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-furnaces",
+      "version": "2.1.1-1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

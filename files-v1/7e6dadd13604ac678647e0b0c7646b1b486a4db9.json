@@ -1,0 +1,20 @@
+{
+  "name": "guarding-1.19.2+2.2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 607221,
+      "fileId": 4059290
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guarding",
+      "version": "1.19.2+2.2.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "requiem-2.0.0-beta.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "requiem",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "requiemapi",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "requiem-core",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "automatone",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "blabber",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "chime",
+      "version": "1.2.0-SNAPSHOT"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "impersonate",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "locki",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "fiber2cloth",
+      "version": "3.1.1"
+    }
+  ]
+}

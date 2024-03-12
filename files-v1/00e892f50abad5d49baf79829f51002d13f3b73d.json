@@ -1,6 +1,18 @@
 {
   "name": "obscure_api-10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fU7jbFHc",
+      "versionId": "1MoKZMi2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 638417,
+      "fileId": 4259349
+    }
+  ],
   "forge": [
     {
       "modId": "obscure_api",

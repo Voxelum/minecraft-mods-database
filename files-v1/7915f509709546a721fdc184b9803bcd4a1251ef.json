@@ -1,0 +1,14 @@
+{
+  "name": "g4mespeed-1.4.6-mc1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "g4mespeed",
+      "version": "1.4.6"
+    },
+    {
+      "modId": "g4mespeed-ui",
+      "version": "0.9.10"
+    }
+  ]
+}

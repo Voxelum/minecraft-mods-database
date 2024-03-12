@@ -1,0 +1,26 @@
+{
+  "name": "autofish-0.10.2-SNAPSHOT.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2H1rLgy4",
+      "versionId": "WhsTUm4d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 879846,
+      "fileId": 4945295
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.10.2-SNAPSHOT"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.114"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lostcities-1.12-2.0.22.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lostcities",
+      "version": "${version}"
+    }
+  ]
+}

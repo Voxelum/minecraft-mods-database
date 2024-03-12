@@ -1,0 +1,22 @@
+{
+  "name": "good-tea-0.4.0-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "good-tea",
+      "version": "0.4.0-1.20"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "dark-matter-content",
+      "version": "1.0.0-1.20"
+    }
+  ]
+}

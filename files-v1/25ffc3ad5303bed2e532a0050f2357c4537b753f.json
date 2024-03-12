@@ -1,6 +1,18 @@
 {
   "name": "createarmoryv0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MIxwm5GN",
+      "versionId": "d9B2LJop"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845950,
+      "fileId": 4630215
+    }
+  ],
   "forge": [
     {
       "modId": "createarmory",

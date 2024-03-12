@@ -1,0 +1,10 @@
+{
+  "name": "deepresonance-1.16-2.0.4-beta.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deepresonance",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "villagerquests-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "83TKyAar",
+      "versionId": "kVhJofkV"
+    }
+  ],
   "fabric": [
     {
       "modId": "villagerquests",

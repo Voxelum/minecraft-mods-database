@@ -1,0 +1,24 @@
+{
+  "name": "zenith-0.7.1+1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620928,
+      "fileId": 4694749
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "0.7.1+1.19.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.926+1.19.2"
+    }
+  ]
+}

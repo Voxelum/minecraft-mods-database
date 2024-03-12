@@ -1,6 +1,12 @@
 {
   "name": "plethora-1.12.2-1.2.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 248425,
+      "fileId": 2858569
+    }
+  ],
   "forge": [
     {
       "modId": "plethora-core",

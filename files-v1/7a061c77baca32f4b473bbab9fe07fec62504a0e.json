@@ -1,0 +1,18 @@
+{
+  "name": "mythicmetals-0.13.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.13.1"
+    },
+    {
+      "modId": "owo",
+      "version": "0.5.4+1.18"
+    },
+    {
+      "modId": "magna",
+      "version": "1.7.0-1.18-pre1"
+    }
+  ]
+}

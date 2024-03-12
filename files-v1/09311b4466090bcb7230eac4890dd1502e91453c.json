@@ -1,0 +1,24 @@
+{
+  "name": "conjuring-1.0.29+1.20.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GriMtaoD",
+      "versionId": "bvxga7B4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conjuring",
+      "version": "1.0.29+1.20.3"
+    },
+    {
+      "modId": "lavender",
+      "version": "0.1.0-pre.20+1.20.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.0+1.20.3"
+    }
+  ]
+}

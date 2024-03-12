@@ -1,6 +1,12 @@
 {
   "name": "nvidium.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SfMw2IZN",
+      "versionId": "I9LWXtS0"
+    }
+  ],
   "fabric": [
     {
       "modId": "nvidium",

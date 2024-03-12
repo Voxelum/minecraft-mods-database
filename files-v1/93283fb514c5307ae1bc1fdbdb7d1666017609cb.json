@@ -1,6 +1,18 @@
 {
   "name": "easiervillagertrading-1.20-fabric0.83.0-1.5.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ChscgScW",
+      "versionId": "iydhDlXR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 261605,
+      "fileId": 4613845
+    }
+  ],
   "fabric": [
     {
       "modId": "easiervillagertrading",

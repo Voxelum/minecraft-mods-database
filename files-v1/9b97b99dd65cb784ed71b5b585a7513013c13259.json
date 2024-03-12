@@ -1,0 +1,28 @@
+{
+  "name": "nohostilesaroundcampfire-1.20.1-5.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EJqeyaVz",
+      "versionId": "YW5245VL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347394,
+      "fileId": 4996676
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "5.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "5.9"
+    }
+  ]
+}

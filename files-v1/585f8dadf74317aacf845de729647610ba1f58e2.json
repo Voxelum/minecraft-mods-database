@@ -1,6 +1,12 @@
 {
   "name": "explosive-enhancement-1.2.1-1.20.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OSQ8mw2r",
+      "versionId": "FJnk7qhP"
+    }
+  ],
   "fabric": [
     {
       "modId": "explosiveenhancement",

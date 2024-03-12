@@ -1,0 +1,10 @@
+{
+  "name": "brrp-fabric-0.9.0-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "better_runtime_resource_pack",
+      "version": "0.9.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "custom_hud-3.1.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6jis0UTI",
+      "versionId": "UKBaGxvE"
+    }
+  ],
   "fabric": [
     {
       "modId": "custom_hud",

@@ -1,0 +1,10 @@
+{
+  "name": "builtin-servers-2.1+1.19-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "builtinservers",
+      "version": "2.1+1.19"
+    }
+  ]
+}

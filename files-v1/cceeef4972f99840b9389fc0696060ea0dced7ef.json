@@ -1,0 +1,34 @@
+{
+  "name": "paladins-1.0.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FxXkHaLe",
+      "versionId": "zCnhTp58"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 856548,
+      "fileId": 5031565
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paladins",
+      "version": "1.0.5+1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "structure_pool_api",
+      "version": "1.0+1.20.1"
+    }
+  ]
+}

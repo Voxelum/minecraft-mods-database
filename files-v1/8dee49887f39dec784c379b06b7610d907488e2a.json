@@ -1,6 +1,18 @@
 {
   "name": "dragonmounts-1.18.2-1.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G3EPcczP",
+      "versionId": "bZGrakes"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 375088,
+      "fileId": 4603885
+    }
+  ],
   "forge": [
     {
       "modId": "dragonmounts",

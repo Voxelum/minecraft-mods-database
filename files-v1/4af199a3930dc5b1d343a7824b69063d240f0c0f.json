@@ -1,6 +1,18 @@
 {
   "name": "structure_pool_api-1.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LrYZi08Q",
+      "versionId": "Syp6lSTL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927915,
+      "fileId": 4818011
+    }
+  ],
   "fabric": [
     {
       "modId": "structure_pool_api",

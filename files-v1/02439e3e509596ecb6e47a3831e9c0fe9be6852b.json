@@ -1,0 +1,16 @@
+{
+  "name": "extra_tnt-1.19-1.0.6-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extra_tnt",
+      "version": "1.0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

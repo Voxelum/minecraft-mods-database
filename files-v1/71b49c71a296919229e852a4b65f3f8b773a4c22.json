@@ -1,0 +1,22 @@
+{
+  "name": "AnvilFix-1.2.1-1.16.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "anvil_fix",
+      "version": "1.2.1-1.16"
+    },
+    {
+      "modId": "mesh",
+      "version": "0.6.1-alpha.21+1.16.4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.2+ca58154a7d"
+    },
+    {
+      "modId": "fabric-tag-extensions-v0",
+      "version": "1.1.1+ca58154a7d"
+    }
+  ]
+}

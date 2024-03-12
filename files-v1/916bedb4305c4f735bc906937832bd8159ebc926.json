@@ -1,0 +1,14 @@
+{
+  "name": "bedrockify-1.4.1+mc1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.4.1+mc1.18.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

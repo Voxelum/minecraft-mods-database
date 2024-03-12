@@ -1,0 +1,10 @@
+{
+  "name": "global_packs-forge-1.18.2-1.12.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "globaldataandresourcepacks",
+      "version": "1.12.2"
+    }
+  ]
+}

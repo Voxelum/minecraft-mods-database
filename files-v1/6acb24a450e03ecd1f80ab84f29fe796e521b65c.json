@@ -1,6 +1,18 @@
 {
   "name": "MaxHealthFix-Forge-1.18.2-5.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mH8wdmqr",
+      "versionId": "aaFKGMy5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 492246,
+      "fileId": 4609586
+    }
+  ],
   "forge": [
     {
       "modId": "maxhealthfix",

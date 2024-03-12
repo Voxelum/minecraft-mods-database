@@ -1,0 +1,22 @@
+{
+  "name": "chunkloaders-1.2.8a-forge-mc1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t1VgucWo",
+      "versionId": "CCyTzaOu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8+a"
+    }
+  ]
+}

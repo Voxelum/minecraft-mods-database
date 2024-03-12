@@ -1,0 +1,20 @@
+{
+  "name": "blockus-2.1.12+1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 312289,
+      "fileId": 3464343
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockus",
+      "version": "2.1.12+1.16.5"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

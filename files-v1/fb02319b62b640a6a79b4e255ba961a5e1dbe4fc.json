@@ -1,0 +1,26 @@
+{
+  "name": "FluxNetworks-Fabric-1.19.2-7.2.1.15.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fluxnetworks",
+      "version": "1.19.2-7.2.1.15"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "simple-chunk-manager",
+      "version": "0.2.7"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.1.1177+1.19.2"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.1.995"
+    }
+  ]
+}

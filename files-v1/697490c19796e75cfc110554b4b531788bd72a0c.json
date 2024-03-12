@@ -1,0 +1,32 @@
+{
+  "name": "nmpvc-fabric-1.20.1-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PqP9d81Z",
+      "versionId": "xHrvzKp5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912097,
+      "fileId": 4909028
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nmpvc",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nmpvc",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TieFix-1.9.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tiefix",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

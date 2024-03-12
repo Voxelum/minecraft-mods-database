@@ -1,0 +1,28 @@
+{
+  "name": "taterzens-1.8.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE972Kux",
+      "versionId": "CK8hxYaM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "taterzens",
+      "version": "1.8.5"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.0.2+1.18.2"
+    }
+  ]
+}

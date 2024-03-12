@@ -1,0 +1,16 @@
+{
+  "name": "PuzzlesLib-v4.0.18-1.19-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "4.0.18"
+    }
+  ]
+}

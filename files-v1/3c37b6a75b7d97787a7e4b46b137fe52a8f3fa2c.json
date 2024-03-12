@@ -1,0 +1,10 @@
+{
+  "name": "flansvendersgame-1.20.1-0.2.147.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "flansvendersgame",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

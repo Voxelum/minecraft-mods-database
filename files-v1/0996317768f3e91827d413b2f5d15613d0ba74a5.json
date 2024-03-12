@@ -1,0 +1,20 @@
+{
+  "name": "gardens-of-the-dead-fabric-2.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 683174,
+      "fileId": 4419638
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gardens_of_the_dead",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "terrablender",
+      "version": "2.0.1.130"
+    }
+  ]
+}

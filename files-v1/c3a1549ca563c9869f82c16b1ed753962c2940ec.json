@@ -1,6 +1,12 @@
 {
   "name": "DrZharks+MoCreatures+Mod+v6.3.1.zip",
-  "domain": "mods",
+  "domain": "resourcepacks",
+  "curseforge": [
+    {
+      "projectId": 229260,
+      "fileId": 2232973
+    }
+  ],
   "forge": [
     {
       "modId": "MoCreatures",

@@ -1,0 +1,10 @@
+{
+  "name": "brb-1.7.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "brb",
+      "version": "1.7.2"
+    }
+  ]
+}

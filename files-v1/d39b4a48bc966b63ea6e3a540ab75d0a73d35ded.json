@@ -1,0 +1,16 @@
+{
+  "name": "FarmersBundleOfJoy_1.19.2-v1.1.6-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "farmers_bundle",
+      "version": "1.18.21.1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmers_bundle",
+      "version": "1.18.2-v1.1.6-fabric"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "custom-mojang-auth-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4qS27kGx",
+      "versionId": "p3lgHOgf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custommojangauth",
+      "version": "1.0.0"
+    }
+  ]
+}

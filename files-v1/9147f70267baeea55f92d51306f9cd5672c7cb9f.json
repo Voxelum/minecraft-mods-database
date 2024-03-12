@@ -1,6 +1,12 @@
 {
   "name": "beautify-1.1.1+fabric-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DhSSvaxs",
+      "versionId": "Um4xHnUP"
+    }
+  ],
   "fabric": [
     {
       "modId": "beautify",

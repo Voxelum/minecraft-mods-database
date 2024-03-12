@@ -1,0 +1,16 @@
+{
+  "name": "MeleeExMachina_1.9.1-1.20.1Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "melee_ex_machina",
+      "version": "1.9.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "melee_ex_machina",
+      "version": "1.9.1"
+    }
+  ]
+}

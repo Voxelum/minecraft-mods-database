@@ -1,6 +1,12 @@
 {
   "name": "Adorn-5.0.0+1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6FUtRJh",
+      "versionId": "HXibuobl"
+    }
+  ],
   "fabric": [
     {
       "modId": "adorn",

@@ -1,6 +1,18 @@
 {
   "name": "alternate-current-mc1.19-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r0v8vy1s",
+      "versionId": "v9lKbHW6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548115,
+      "fileId": 4609489
+    }
+  ],
   "forge": [
     {
       "modId": "alternate_current",

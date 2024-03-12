@@ -1,6 +1,18 @@
 {
   "name": "blur-2.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "bEtdkEbI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393563,
+      "fileId": 4174716
+    }
+  ],
   "fabric": [
     {
       "modId": "blur",

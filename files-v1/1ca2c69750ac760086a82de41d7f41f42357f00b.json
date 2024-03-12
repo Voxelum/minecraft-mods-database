@@ -1,0 +1,20 @@
+{
+  "name": "mythicmetals-0.9.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "cBEn116X"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.9.11"
+    },
+    {
+      "modId": "enchant_giver",
+      "version": "1.0.3"
+    }
+  ]
+}

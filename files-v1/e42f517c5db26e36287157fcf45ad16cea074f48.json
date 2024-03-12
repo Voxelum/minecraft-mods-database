@@ -1,0 +1,14 @@
+{
+  "name": "lanterns-belong-on-walls-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walllanterns",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.18+2de5574560"
+    }
+  ]
+}

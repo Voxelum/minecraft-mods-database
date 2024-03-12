@@ -1,0 +1,26 @@
+{
+  "name": "antighost-1.20.4-fabric0.91.2-1.1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jw3Wx1KR",
+      "versionId": "qrjEOkM4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 273279,
+      "fileId": 4954690
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antighost",
+      "version": "1.20.4-fabric0.91.2-1.1.5"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

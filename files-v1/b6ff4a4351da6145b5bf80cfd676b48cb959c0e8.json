@@ -1,0 +1,16 @@
+{
+  "name": "flowermimics-1.20.1-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "flowermimics",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flowermimics",
+      "version": "1.2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "viaforge-1.8.9-3.5.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 418933,
+      "fileId": 4930374
+    }
+  ],
+  "forge": [
+    {
+      "modId": "viaforge",
+      "version": "1.8.9-3.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.9.1"
+    }
+  ]
+}

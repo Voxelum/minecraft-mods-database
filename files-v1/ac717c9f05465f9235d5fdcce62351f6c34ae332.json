@@ -1,6 +1,12 @@
 {
   "name": "Physics-2.6.7-Forge-1.16.5-.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 442735,
+      "fileId": 3633780
+    }
+  ],
   "forge": [
     {
       "modId": "physicsmod",

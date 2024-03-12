@@ -1,0 +1,44 @@
+{
+  "name": "silk-all-1.10.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aTaCgKLW",
+      "versionId": "3H0nUJhq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "silk-all",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-commands",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-core",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-game",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-igui",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-nbt",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-network",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "silk-persistence",
+      "version": "1.10.1"
+    }
+  ]
+}

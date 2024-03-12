@@ -1,6 +1,18 @@
 {
   "name": "fabric-seasons-croptopia-2.2.2-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsfjeSxl",
+      "versionId": "cPfUbo9H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851600,
+      "fileId": 4496996
+    }
+  ],
   "fabric": [
     {
       "modId": "seasonscroptopiacompat",

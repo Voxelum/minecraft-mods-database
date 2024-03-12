@@ -1,0 +1,16 @@
+{
+  "name": "CreativeCore_FABRIC_v2.8.5_mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.8.5"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "creo-api-0.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hjZhuEZs",
+      "versionId": "5SUKdCoB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creo-api",
+      "version": "0.3.0+1.20.4"
+    },
+    {
+      "modId": "creo-block-api",
+      "version": "0.2.0+1.20.4"
+    },
+    {
+      "modId": "creo-block-injection-api",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "creo-content-modification-api",
+      "version": "0.2.0+1.20.4"
+    },
+    {
+      "modId": "creo-convention-tags",
+      "version": "0.2.1+1.20.4"
+    },
+    {
+      "modId": "creo-entity-attributes",
+      "version": "0.1.1+1.20.4"
+    },
+    {
+      "modId": "creo-entity-attributes",
+      "version": "0.1.1+1.20.4"
+    },
+    {
+      "modId": "creo-events",
+      "version": "0.2.1+1.20.4"
+    },
+    {
+      "modId": "creo-food-component-api",
+      "version": "0.1.1+1.20.4"
+    },
+    {
+      "modId": "creo-item-api",
+      "version": "0.1.1+1.20.4"
+    },
+    {
+      "modId": "creo-mod-compatibility",
+      "version": "0.2.0+1.20.4"
+    },
+    {
+      "modId": "creo-registry-api",
+      "version": "0.0.1+1.20.4"
+    },
+    {
+      "modId": "creo-shader-interaction-api",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "creo-worldgen",
+      "version": "0.1.2+1.20.4"
+    }
+  ]
+}

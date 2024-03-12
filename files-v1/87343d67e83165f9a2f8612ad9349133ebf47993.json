@@ -1,0 +1,22 @@
+{
+  "name": "niftycarts-1.0.1+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 900093,
+      "fileId": 5087537
+    }
+  ],
+  "forge": [
+    {
+      "modId": "niftycarts",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "niftycarts",
+      "version": "1.0.1+1.18.2"
+    }
+  ]
+}

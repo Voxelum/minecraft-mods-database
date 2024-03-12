@@ -1,0 +1,20 @@
+{
+  "name": "cadmus-fabric-1.20.4-1.2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 845832,
+      "fileId": 5083538
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cadmus",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

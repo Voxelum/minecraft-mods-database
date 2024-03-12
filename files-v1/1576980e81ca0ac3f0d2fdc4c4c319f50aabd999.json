@@ -1,0 +1,14 @@
+{
+  "name": "silk-api-1.20.4-0.2.1+fixed.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "silk-api",
+      "version": "1.20.4-0.2.1+fixed"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "fakerlib-0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ORX9fPw1",
+      "versionId": "JZlZzSdJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 853197,
+      "fileId": 4995507
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fakerlib",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "spwallet-1.20-2.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KMOm6R86",
+      "versionId": "Ky52PQiZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spwallet",
+      "version": "1.20-2.1.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    },
+    {
+      "modId": "libninepatch",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

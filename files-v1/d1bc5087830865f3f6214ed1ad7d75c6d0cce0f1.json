@@ -1,0 +1,20 @@
+{
+  "name": "The_Graveyard_Biomes_1.6_(FABRIC)_for_1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 584511,
+      "fileId": 4090409
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "graveyard_biomes",
+      "version": "1.6"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.2-1.18.1"
+    }
+  ]
+}

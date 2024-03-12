@@ -1,0 +1,16 @@
+{
+  "name": "easyflint-1.0.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "easyflint_mr",
+      "version": "1.0.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easyflint_mr",
+      "version": "1.0.10"
+    }
+  ]
+}

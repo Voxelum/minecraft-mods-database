@@ -1,0 +1,20 @@
+{
+  "name": "FabricKotlinExtensions-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WpZeWuIG",
+      "versionId": "7qdCSPlJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabric_kotlin_extensions",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "kotlin_library_extensions",
+      "version": "1.0.5"
+    }
+  ]
+}

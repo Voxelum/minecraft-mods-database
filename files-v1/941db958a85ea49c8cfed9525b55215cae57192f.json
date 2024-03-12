@@ -1,0 +1,16 @@
+{
+  "name": "Ayum-B6Fix.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "Fire",
+      "version": "B6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viabackwards",
+      "version": "4.2.1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "ForgeConfigAPIPort-v3.2.3-1.18.2-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "3.2.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.3+d7c144a8d2"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.0.1+25407454d2"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.8+d7c144a8d2"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.20+d882b915d2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

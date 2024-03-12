@@ -1,0 +1,44 @@
+{
+  "name": "flytre-lib-1.4.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 444498,
+      "fileId": 3511041
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flytre_lib",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "flytre-lib-base",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "flytre-lib-compat",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "flytre-lib-config",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "flytre-lib-event",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "flytre-lib-gui",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "flytre-lib-storage",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.8+a00e834b18"
+    }
+  ]
+}

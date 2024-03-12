@@ -1,0 +1,28 @@
+{
+  "name": "midnightcontrols-1.9.4+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bXX9h73M",
+      "versionId": "Wv0OBKYv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "midnightcontrols",
+      "version": "1.9.4+1.20.4"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.3+1.20.4"
+    },
+    {
+      "modId": "org_aperlambda_lambdajcommon",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

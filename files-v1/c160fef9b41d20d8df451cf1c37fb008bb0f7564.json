@@ -1,0 +1,20 @@
+{
+  "name": "qolfixes-3.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ui62rEr7",
+      "versionId": "pV5Lihy6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "qolfixes",
+      "version": "3.0-1.20.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

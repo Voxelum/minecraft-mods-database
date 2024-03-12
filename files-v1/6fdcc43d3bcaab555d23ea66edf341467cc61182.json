@@ -1,0 +1,24 @@
+{
+  "name": "i-am-very-smart-2.1.0+mc1.16.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318163,
+      "fileId": 2992677
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iamverysmart",
+      "version": "2.1.0+mc1.16.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.5.6"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.0-unstable"
+    }
+  ]
+}

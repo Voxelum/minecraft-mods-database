@@ -1,0 +1,24 @@
+{
+  "name": "sodium-extra-mc1.16.5-0.4.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 447673,
+      "fileId": 3682540
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium-extra",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.2+3cc0f0907d"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.0.0"
+    }
+  ]
+}

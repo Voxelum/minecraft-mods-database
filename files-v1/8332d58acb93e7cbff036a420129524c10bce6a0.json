@@ -1,0 +1,20 @@
+{
+  "name": "random-motd-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CxpJP3Wd",
+      "versionId": "8XjbNrWH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "random_motd",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.2+1.20.1"
+    }
+  ]
+}

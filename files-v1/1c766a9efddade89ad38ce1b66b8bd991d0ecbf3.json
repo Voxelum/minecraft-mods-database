@@ -1,0 +1,10 @@
+{
+  "name": "Unmending-1.0-2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "unmending",
+      "version": "GRADLE:VERSION-GRADLE:BUILD"
+    }
+  ]
+}

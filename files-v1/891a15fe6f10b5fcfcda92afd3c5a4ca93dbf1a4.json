@@ -1,0 +1,26 @@
+{
+  "name": "dawn-3.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "meZK2DCX",
+      "versionId": "QAp3E5ko"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399309,
+      "fileId": 3851409
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.62"
+    }
+  ]
+}

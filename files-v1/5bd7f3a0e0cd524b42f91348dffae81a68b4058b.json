@@ -1,0 +1,16 @@
+{
+  "name": "Enderswords-v1.0.3-1.20.1-Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enderswords",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enderswords",
+      "version": "1.0.3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Prominent-ForgeFabric-1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "prominent",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "prominent",
+      "version": "1.2.1"
+    }
+  ]
+}

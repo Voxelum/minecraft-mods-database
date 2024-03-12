@@ -1,0 +1,34 @@
+{
+  "name": "modmenu-2.0.14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "3CD6YUw1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 3479750
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "2.0.14"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b44633d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.7+b7ab61213d"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.4+198a96213d"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Chunky-1.3.38.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fALzjamp",
+      "versionId": "WNen5Iom"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 485681,
+      "fileId": 3970964
+    }
+  ],
   "forge": [
     {
       "modId": "chunky",

@@ -1,0 +1,14 @@
+{
+  "name": "nyfsquiver-Fabric-0.5.1-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nyfsquiver",
+      "version": "Fabric-0.5.1-1.19.2"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.5.0"
+    }
+  ]
+}

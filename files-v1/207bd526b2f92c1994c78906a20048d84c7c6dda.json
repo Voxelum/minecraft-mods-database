@@ -1,0 +1,22 @@
+{
+  "name": "recipe-book-is-pain-0.9.3-1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "recipe-book-is-pain",
+      "version": "0.9.3-1.19.4"
+    },
+    {
+      "modId": "cracker-util-base",
+      "version": "0.4.2-1.19.4"
+    },
+    {
+      "modId": "cracker-util-recipe-book",
+      "version": "0.4.2-1.19.4"
+    },
+    {
+      "modId": "cracker-util-enums",
+      "version": "0.4.2-1.19.4"
+    }
+  ]
+}

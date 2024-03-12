@@ -1,0 +1,10 @@
+{
+  "name": "chiselsandbits_0.2.10_RELEASE_1.16.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chiselsandbits",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

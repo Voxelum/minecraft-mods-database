@@ -1,6 +1,18 @@
 {
   "name": "artifacts-fabric-9.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "bfIQoQHe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 4747016
+    }
+  ],
   "fabric": [
     {
       "modId": "artifacts",

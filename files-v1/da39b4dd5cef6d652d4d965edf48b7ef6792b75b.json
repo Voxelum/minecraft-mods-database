@@ -1,0 +1,16 @@
+{
+  "name": "collective-1.19.3-6.43.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "6.43"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "6.43"
+    }
+  ]
+}

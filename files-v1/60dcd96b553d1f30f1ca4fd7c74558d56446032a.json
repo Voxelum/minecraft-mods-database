@@ -1,6 +1,18 @@
 {
   "name": "autoslabs-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d6GPje96",
+      "versionId": "1DlF1Y4p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 902459,
+      "fileId": 4744220
+    }
+  ],
   "fabric": [
     {
       "modId": "autoslabs",

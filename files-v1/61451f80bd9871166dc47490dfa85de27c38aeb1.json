@@ -1,6 +1,12 @@
 {
   "name": "lithium-fabric-mc1.19.3-0.11.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gvQqBUqZ",
+      "versionId": "53cwYYb1"
+    }
+  ],
   "fabric": [
     {
       "modId": "lithium",

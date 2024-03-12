@@ -1,0 +1,20 @@
+{
+  "name": "decorative-4.1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394007,
+      "fileId": 3345338
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decorative",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.2.3"
+    }
+  ]
+}

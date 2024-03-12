@@ -1,0 +1,14 @@
+{
+  "name": "adventureredefined-0.1.0-1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "adventureredefined",
+      "version": "0.1.0-1.20.2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

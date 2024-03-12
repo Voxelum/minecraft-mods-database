@@ -1,0 +1,10 @@
+{
+  "name": "[车万女仆] touhoulittlemaid-1.16.5-release-1.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "touhou_little_maid",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

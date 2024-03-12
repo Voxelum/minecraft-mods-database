@@ -1,0 +1,28 @@
+{
+  "name": "nicer-skies-1.2.0+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gsJ6q45e",
+      "versionId": "ROTwIP94"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nicer-skies",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.4+ae0966bad8"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.14+5da15ca1d8"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.44+8c25edb4d8"
+    }
+  ]
+}

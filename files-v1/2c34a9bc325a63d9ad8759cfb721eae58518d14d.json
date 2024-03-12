@@ -1,6 +1,18 @@
 {
   "name": "PassableFoliage-1.18.2-forge-4.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uaLW6JVR",
+      "versionId": "KmR6lwzQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 379887,
+      "fileId": 4542080
+    }
+  ],
   "forge": [
     {
       "modId": "passablefoliage",

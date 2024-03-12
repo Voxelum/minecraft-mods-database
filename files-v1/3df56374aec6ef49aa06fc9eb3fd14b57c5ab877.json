@@ -1,6 +1,12 @@
 {
   "name": "goblin-traders-1.5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FSUROmV2",
+      "versionId": "TaQZboMn"
+    }
+  ],
   "fabric": [
     {
       "modId": "goblintraders",

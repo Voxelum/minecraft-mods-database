@@ -1,6 +1,18 @@
 {
   "name": "ICBM-classic-1.12.2-4.0.1b75.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W5YZ6MDn",
+      "versionId": "fiABYj4l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 244451,
+      "fileId": 2918052
+    }
+  ],
   "forge": [
     {
       "modId": "icbmclassic",

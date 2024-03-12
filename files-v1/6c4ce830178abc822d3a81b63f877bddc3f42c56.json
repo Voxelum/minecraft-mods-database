@@ -1,6 +1,18 @@
 {
   "name": "biomemakeover-FABRIC-1.20.1-1.11.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jG8Q2YwT",
+      "versionId": "rsoZ2Iqo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412182,
+      "fileId": 4815823
+    }
+  ],
   "fabric": [
     {
       "modId": "biomemakeover",

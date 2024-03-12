@@ -1,6 +1,12 @@
 {
   "name": "DiscordCraft-2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 310673,
+      "fileId": 2830525
+    }
+  ],
   "forge": [
     {
       "modId": "discordcraft",

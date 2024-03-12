@@ -1,0 +1,14 @@
+{
+  "name": "betterweapons-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterweapons",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

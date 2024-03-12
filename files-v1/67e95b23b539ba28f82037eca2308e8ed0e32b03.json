@@ -1,6 +1,18 @@
 {
   "name": "spark-1.10.38-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "GygIHGfW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 4505375
+    }
+  ],
   "forge": [
     {
       "modId": "spark",

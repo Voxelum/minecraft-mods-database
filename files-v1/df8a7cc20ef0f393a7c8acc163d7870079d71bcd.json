@@ -1,0 +1,14 @@
+{
+  "name": "botarium-fabric-1.19.2-1.9.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "botarium",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

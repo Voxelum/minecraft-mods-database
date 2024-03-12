@@ -1,0 +1,14 @@
+{
+  "name": "【更多群系苦力怕】creeperoverhaul-3.0.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "creeperoverhaul",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.0.6"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "placeableblazerods-1.19.2-3.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "placeableblazerods",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "placeableblazerods",
+      "version": "3.4"
+    }
+  ]
+}

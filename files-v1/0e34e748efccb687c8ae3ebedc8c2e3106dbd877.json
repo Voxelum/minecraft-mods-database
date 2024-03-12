@@ -1,0 +1,14 @@
+{
+  "name": "FactoryAPI-Fabric-1.19.2-0.1.6.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "factory_api",
+      "version": "1.19.2-0.1.6.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "authme-mc1.19.4-6.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.23+9ff28bcef4"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.14+5da15ca1f4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.96"
+    }
+  ]
+}

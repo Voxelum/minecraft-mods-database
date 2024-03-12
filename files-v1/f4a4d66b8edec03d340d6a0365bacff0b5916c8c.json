@@ -1,0 +1,20 @@
+{
+  "name": "TooManyOrigins-1.18-0.4.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 469658,
+      "fileId": 3687843
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanyorigins",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "apugli",
+      "version": "1.5.1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "thematic-1.2.53-BETA.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 334893,
+      "fileId": 4895841
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thematic",
+      "version": "1.2.53-BETA"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "azurelib",
+      "version": "2.0.3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "gear_core-0.1.5+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t7eXC8r7",
+      "versionId": "LY5YqgfS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gear_core",
+      "version": "0.1.5+1.19"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

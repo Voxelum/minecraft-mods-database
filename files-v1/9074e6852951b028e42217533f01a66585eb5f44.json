@@ -1,0 +1,14 @@
+{
+  "name": "[only for infinity-reborn]MinersLunchbox-fabric-1.0.1+mc1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minerslunchbox",
+      "version": "1.0.1+mc1.18.2"
+    },
+    {
+      "modId": "itemnbt",
+      "version": "3.3"
+    }
+  ]
+}

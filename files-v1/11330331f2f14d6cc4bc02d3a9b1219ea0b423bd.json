@@ -1,6 +1,18 @@
 {
   "name": "shulkerboxslot-forge-5.0.0-beta.2+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R5T1RmWr",
+      "versionId": "uQhWYA2s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316881,
+      "fileId": 3965294
+    }
+  ],
   "forge": [
     {
       "modId": "shulkerboxslot",

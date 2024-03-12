@@ -1,0 +1,10 @@
+{
+  "name": "Patchouli-Mod-1.18.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "patchouli",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Biomes-You-Go-1.3.6-MCV-1.16.5-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391378,
+      "fileId": 4024006
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "byg",
+      "version": "1.3.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pal-1.7.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "playerabilitylib",
+      "version": "1.7.0"
+    }
+  ]
+}

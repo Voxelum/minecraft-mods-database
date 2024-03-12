@@ -1,0 +1,14 @@
+{
+  "name": "RPRenames-1.19.4-fabric-0.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rprenames",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "7.0.0-beta.2+1.19.4"
+    }
+  ]
+}

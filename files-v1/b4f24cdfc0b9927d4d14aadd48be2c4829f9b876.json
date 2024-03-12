@@ -1,0 +1,26 @@
+{
+  "name": "invoke-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xwHe8V3O",
+      "versionId": "HYy0EuOW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910516,
+      "fileId": 5033446
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "invoke",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

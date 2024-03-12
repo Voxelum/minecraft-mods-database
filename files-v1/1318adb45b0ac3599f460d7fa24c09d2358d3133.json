@@ -1,6 +1,12 @@
 {
   "name": "ScubaGear.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 399090,
+      "fileId": 4593711
+    }
+  ],
   "forge": [
     {
       "modId": "scuba_gear",

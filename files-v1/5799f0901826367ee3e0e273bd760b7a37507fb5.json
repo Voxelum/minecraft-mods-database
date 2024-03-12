@@ -1,6 +1,12 @@
 {
   "name": "earth2java-fabric-1.10.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D2Q91keW",
+      "versionId": "S6BrlJFn"
+    }
+  ],
   "fabric": [
     {
       "modId": "earthtojavamobs",

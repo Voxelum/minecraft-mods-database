@@ -1,6 +1,18 @@
 {
   "name": "refinedstorageaddons-0.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z4Z5ccuT",
+      "versionId": "M5BySo4v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 272302,
+      "fileId": 2690723
+    }
+  ],
   "forge": [
     {
       "modId": "refinedstorageaddons",

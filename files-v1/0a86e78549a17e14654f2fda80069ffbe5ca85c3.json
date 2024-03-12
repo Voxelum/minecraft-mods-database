@@ -1,0 +1,24 @@
+{
+  "name": "MutantMonsters-v3.0.1-1.18.2-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mutantmonsters",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mutantmonsters",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.2.0"
+    }
+  ]
+}

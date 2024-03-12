@@ -1,0 +1,16 @@
+{
+  "name": "NotEnoughUpdates-2.1.1+4e1c037-dep.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "notenoughupdateserrordisplay",
+      "version": "2.1.1+e1c24ec.dirty"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughupdates",
+      "version": "2.1.1+e1c24ec.dirty"
+    }
+  ]
+}

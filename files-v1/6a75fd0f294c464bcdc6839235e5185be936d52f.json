@@ -1,0 +1,16 @@
+{
+  "name": "bundle-recipe-v1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bundle_recipe",
+      "version": "1-v1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bundle_recipe",
+      "version": "1-v1.0.0"
+    }
+  ]
+}

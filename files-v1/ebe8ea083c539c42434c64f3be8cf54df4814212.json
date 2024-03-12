@@ -1,0 +1,90 @@
+{
+  "name": "VulkanMod_1.18.2-0.2.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vulkanmod",
+      "version": "0.2.5"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-windows",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-windows",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.4"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-glfw",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-glfw_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-glfw_natives-windows",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-stb",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-stb_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-stb_natives-windows",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openal",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openal_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openal_natives-windows",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-windows",
+      "version": "3.3.1"
+    }
+  ]
+}

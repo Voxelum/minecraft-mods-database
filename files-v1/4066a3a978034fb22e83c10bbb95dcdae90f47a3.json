@@ -1,0 +1,26 @@
+{
+  "name": "fabric-tree-chopper-0.8.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-tree-chopper",
+      "version": "0.8.6"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.7.4+kotlin.1.6.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.62"
+    },
+    {
+      "modId": "fiber2cloth",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

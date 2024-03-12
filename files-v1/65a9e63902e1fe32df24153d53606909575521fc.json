@@ -1,0 +1,46 @@
+{
+  "name": "universal_shops-1.5.0+1.20.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "universal_shops",
+      "version": "1.5.0+1.20.3"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.2.0+1.20.3-rc1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.7.0+1.20.3-rc1"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.7.0+1.20.3-rc1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.7.0+1.20.3-rc1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.3.0+1.20.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "common-economy-api",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

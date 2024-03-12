@@ -1,0 +1,22 @@
+{
+  "name": "figura-0.1.0-rc.13+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "figura",
+      "version": "0.1.0-rc.13+1.18.2-0d6240a"
+    },
+    {
+      "modId": "com_github_moonlight-mc_luaj_luaj-core",
+      "version": "3.0.5-figura"
+    },
+    {
+      "modId": "com_github_moonlight-mc_luaj_luaj-jse",
+      "version": "3.0.5-figura"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.2"
+    }
+  ]
+}

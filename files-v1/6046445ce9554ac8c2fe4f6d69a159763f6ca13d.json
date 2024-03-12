@@ -1,0 +1,10 @@
+{
+  "name": "oceio-1.12.2-1.0.002.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "eioocshim",
+      "version": "@VERSION@"
+    }
+  ]
+}

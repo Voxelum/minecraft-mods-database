@@ -1,0 +1,22 @@
+{
+  "name": "dashloader-def-3.1.1+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dashloader",
+      "version": "3.1.1+1.18"
+    },
+    {
+      "modId": "dev_quantumfusion_dashloader_dashloader-core",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "dev_quantumfusion_hyphen",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "com_github_luben_zstd-jni",
+      "version": "1.5.2-2"
+    }
+  ]
+}

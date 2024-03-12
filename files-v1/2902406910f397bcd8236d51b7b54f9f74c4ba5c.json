@@ -1,0 +1,28 @@
+{
+  "name": "orderedplayerlist-0.1.3+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IX99VLW9",
+      "versionId": "DL7rAiJr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "orderedplayerlist",
+      "version": "0.1.3+1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.2.0+1.20.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "modelfix-1.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QdG47OkI",
+      "versionId": "fbaUxdx3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676136,
+      "fileId": 4607206
+    }
+  ],
   "forge": [
     {
       "modId": "modelfix",

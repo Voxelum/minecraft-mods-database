@@ -1,0 +1,36 @@
+{
+  "name": "mininggadgets-1.13.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mininggadgets",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mininggadgets",
+      "version": "${version}"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.766+1.19.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

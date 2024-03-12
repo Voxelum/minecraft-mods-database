@@ -1,6 +1,12 @@
 {
   "name": "Reaper-1.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 688879,
+      "fileId": 4102432
+    }
+  ],
   "forge": [
     {
       "modId": "reaper",

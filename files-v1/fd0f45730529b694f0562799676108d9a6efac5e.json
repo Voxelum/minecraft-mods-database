@@ -1,6 +1,18 @@
 {
   "name": "lootr-1.18.2-0.3.25.64.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EltpO5cN",
+      "versionId": "wVXaSCVA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361276,
+      "fileId": 4796104
+    }
+  ],
   "forge": [
     {
       "modId": "lootr",

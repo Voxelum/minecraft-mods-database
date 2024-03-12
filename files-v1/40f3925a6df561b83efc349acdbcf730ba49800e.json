@@ -1,6 +1,12 @@
 {
   "name": "denseores-1.6.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 224942,
+      "fileId": 2234692
+    }
+  ],
   "forge": [
     {
       "modId": "debug",

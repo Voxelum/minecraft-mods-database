@@ -1,0 +1,14 @@
+{
+  "name": "dragonloot-1.0.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dragonloot",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.15"
+    }
+  ]
+}

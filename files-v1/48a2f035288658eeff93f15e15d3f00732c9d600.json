@@ -1,6 +1,18 @@
 {
   "name": "ExplorersCompass-1.18.2-1.3.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RV1qfVQ8",
+      "versionId": "ggrXqdX7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491794,
+      "fileId": 4016461
+    }
+  ],
   "forge": [
     {
       "modId": "explorerscompass",

@@ -1,6 +1,12 @@
 {
   "name": "SimpleDiscordLink-fabric-1.19.1-2.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 541320,
+      "fileId": 4444163
+    }
+  ],
   "fabric": [
     {
       "modId": "sdlink",

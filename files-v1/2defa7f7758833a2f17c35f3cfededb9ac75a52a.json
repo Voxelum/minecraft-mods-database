@@ -1,0 +1,16 @@
+{
+  "name": "recast-1.20.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "recast",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recast",
+      "version": "3.2"
+    }
+  ]
+}

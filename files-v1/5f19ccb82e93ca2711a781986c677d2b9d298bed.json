@@ -1,6 +1,12 @@
 {
   "name": "EarthMobs.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 333256,
+      "fileId": 4708840
+    }
+  ],
   "forge": [
     {
       "modId": "earthmobsmod",

@@ -1,0 +1,22 @@
+{
+  "name": "sekcphysics-0.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 309841,
+      "fileId": 2652753
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sekcphysics",
+      "version": "0.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sekcphysics",
+      "version": "1.0.0"
+    }
+  ]
+}

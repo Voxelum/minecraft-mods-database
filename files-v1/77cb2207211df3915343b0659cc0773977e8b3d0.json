@@ -1,6 +1,18 @@
 {
   "name": "Vampirism-1.19.2-1.9.5.jar.deactivation",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jVZ0F1wn",
+      "versionId": "7BF7QCkO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233029,
+      "fileId": 4649951
+    }
+  ],
   "forge": [
     {
       "modId": "vampirism",

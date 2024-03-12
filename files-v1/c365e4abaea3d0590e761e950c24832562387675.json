@@ -1,0 +1,20 @@
+{
+  "name": "argonauts-fabric-1.20.1-1.0.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bb2EpKpx",
+      "versionId": "AzpOeqjn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "argonauts",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    }
+  ]
+}

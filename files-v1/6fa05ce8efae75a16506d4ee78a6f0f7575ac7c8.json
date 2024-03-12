@@ -1,6 +1,18 @@
 {
   "name": "xpstorage_trinkets-1.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GZeDW6Px",
+      "versionId": "IhX0ycBe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508696,
+      "fileId": 4704173
+    }
+  ],
   "fabric": [
     {
       "modId": "xp_storage_trinkets",

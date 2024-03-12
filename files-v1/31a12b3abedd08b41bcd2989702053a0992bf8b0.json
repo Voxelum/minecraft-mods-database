@@ -1,6 +1,12 @@
 {
   "name": "CHAS-1.19-1.9-Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 224841,
+      "fileId": 3830950
+    }
+  ],
   "fabric": [
     {
       "modId": "chas",

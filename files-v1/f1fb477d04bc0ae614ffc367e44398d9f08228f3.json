@@ -1,0 +1,10 @@
+{
+  "name": "walljump-unofficial-fabric-1.5.1+1.19-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walljump-fabric",
+      "version": "1.5.1"
+    }
+  ]
+}

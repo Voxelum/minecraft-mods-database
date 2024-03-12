@@ -1,6 +1,18 @@
 {
   "name": "ctm-refabricated-1.0.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "syUFsyMr",
+      "versionId": "GhkzxV3G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633997,
+      "fileId": 4467316
+    }
+  ],
   "fabric": [
     {
       "modId": "ctm",

@@ -1,6 +1,18 @@
 {
   "name": "balm-3.2.0+0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBAkmtvl",
+      "versionId": "rLFLPShY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531761,
+      "fileId": 3914491
+    }
+  ],
   "forge": [
     {
       "modId": "balm",

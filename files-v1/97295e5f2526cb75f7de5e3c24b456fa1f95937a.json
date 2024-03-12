@@ -1,6 +1,18 @@
 {
   "name": "bettercombat-fabric-1.6.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "ibYfuIUH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639842,
+      "fileId": 4428884
+    }
+  ],
   "fabric": [
     {
       "modId": "bettercombat",

@@ -1,0 +1,16 @@
+{
+  "name": "niftycarts-2.1.0+1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "niftycarts",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "niftycarts",
+      "version": "2.1.0+1.19.2"
+    }
+  ]
+}

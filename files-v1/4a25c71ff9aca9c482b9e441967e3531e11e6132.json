@@ -1,0 +1,20 @@
+{
+  "name": "mi_sound_addon-1.0.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kk4xvy7w",
+      "versionId": "9TqCptPZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mi_sound_addon",
+      "version": "1.0.1-1.20.1"
+    },
+    {
+      "modId": "magna",
+      "version": "1.10.1+1.20.1"
+    }
+  ]
+}

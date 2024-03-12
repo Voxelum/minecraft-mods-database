@@ -1,0 +1,14 @@
+{
+  "name": "tps-hud-1.6.0+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tpshud",
+      "version": "1.6.0+1.19.2"
+    },
+    {
+      "modId": "me_obsilabor_alert",
+      "version": "1.0.6"
+    }
+  ]
+}

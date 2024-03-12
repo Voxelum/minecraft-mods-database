@@ -1,6 +1,12 @@
 {
   "name": "carryon-fabric-1.19.2-2.1.0.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "joEfVgkn",
+      "versionId": "fg9VeABy"
+    }
+  ],
   "fabric": [
     {
       "modId": "carryon",

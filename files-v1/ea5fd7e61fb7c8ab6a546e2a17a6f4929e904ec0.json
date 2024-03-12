@@ -1,6 +1,18 @@
 {
   "name": "cherishedworlds-1.12.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3azQ6p0W",
+      "versionId": "NKPlBLC1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308240,
+      "fileId": 2837800
+    }
+  ],
   "forge": [
     {
       "modId": "cherishedworlds",

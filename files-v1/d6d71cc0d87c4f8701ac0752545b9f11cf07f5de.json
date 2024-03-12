@@ -1,0 +1,20 @@
+{
+  "name": "visiblebarriers-2.0.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ajdfGxGU",
+      "versionId": "HzB20fs3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "visiblebarriers",
+      "version": "2.0.11"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

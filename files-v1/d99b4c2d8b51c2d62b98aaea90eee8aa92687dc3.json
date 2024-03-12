@@ -1,6 +1,12 @@
 {
   "name": "carpeted-1.20-1.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ogzlp7me",
+      "versionId": "YRmV0sQc"
+    }
+  ],
   "fabric": [
     {
       "modId": "carpeted",

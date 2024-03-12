@@ -1,0 +1,14 @@
+{
+  "name": "kubejs-fabric-1902.6.0-build.135.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "1902.6.0-build.135"
+    },
+    {
+      "modId": "ingredient-extension-api",
+      "version": "3.0.5"
+    }
+  ]
+}

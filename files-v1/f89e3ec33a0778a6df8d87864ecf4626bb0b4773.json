@@ -1,6 +1,18 @@
 {
   "name": "!configanytime-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bnsrfd1o",
+      "versionId": "kHAZKARV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870276,
+      "fileId": 4576653
+    }
+  ],
   "forge": [
     {
       "modId": "configanytime",

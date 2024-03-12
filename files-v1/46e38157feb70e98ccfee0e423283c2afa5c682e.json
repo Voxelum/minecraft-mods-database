@@ -1,0 +1,14 @@
+{
+  "name": "twerk-1.0.1-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "twerk",
+      "version": "1.0.1-1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.8"
+    }
+  ]
+}

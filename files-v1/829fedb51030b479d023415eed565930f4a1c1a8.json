@@ -1,0 +1,44 @@
+{
+  "name": "okzoomer-5.0.0-beta.5+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXf2OSFU",
+      "versionId": "P6ld16qa"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "okzoomer",
+      "version": "5.0.0-beta.5+1.18.2"
+    },
+    {
+      "modId": "quilt_tags",
+      "version": "1.0.0+1.18.2-SNAPSHOT"
+    },
+    {
+      "modId": "quilted-fabric-resource-loader-v0",
+      "version": "1.0.1+1.18.2-SNAPSHOT"
+    },
+    {
+      "modId": "quilted-fabric-lifecycle-events-v1",
+      "version": "2.0.1+1.18.2-SNAPSHOT"
+    },
+    {
+      "modId": "quilted-fabric-api-base",
+      "version": "1.0.0+1.18.2-SNAPSHOT"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.4.0+1.18.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.2+1.17"
+    },
+    {
+      "modId": "org_quiltmc_quilt-json5",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Transformers Mod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "transformers",
+      "version": "${version}"
+    }
+  ]
+}

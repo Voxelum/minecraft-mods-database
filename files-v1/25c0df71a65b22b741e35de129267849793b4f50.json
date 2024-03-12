@@ -1,0 +1,74 @@
+{
+  "name": "discord4fabric-1.20.1-1.10.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "d4f",
+      "version": "1.10.5"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "net_dv8tion_jda",
+      "version": "5.0.0-beta.12"
+    },
+    {
+      "modId": "club_minnced_discord-webhooks",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "com_vdurmont_emoji-java",
+      "version": "5.1.1"
+    },
+    {
+      "modId": "me_lucko_spark-api",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0-beta.2+1.19.4-pre2"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20160212"
+    },
+    {
+      "modId": "com_squareup_okio_okio",
+      "version": "1.17.2"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "3.13.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-collections4",
+      "version": "4.4"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.6.21"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.14"
+    },
+    {
+      "modId": "net_sf_trove4j_trove4j",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.13.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.13.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.13.1"
+    }
+  ]
+}

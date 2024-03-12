@@ -1,0 +1,32 @@
+{
+  "name": "ra_additions_goals-1.20.1-0.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 687677,
+      "fileId": 4706150
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ra_additions_goals",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "calio",
+      "version": "1.11.0"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "com_github_thatrobin_docky",
+      "version": "1.20-SNAPSHOT"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.1.0"
+    }
+  ]
+}

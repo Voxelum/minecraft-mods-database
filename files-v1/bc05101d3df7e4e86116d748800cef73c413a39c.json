@@ -1,0 +1,20 @@
+{
+  "name": "CrashBrander-1.18.2-1.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C9eIZ8sb",
+      "versionId": "PqrSU9Uu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crashbrander",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "deftulib",
+      "version": "1.1.2"
+    }
+  ]
+}

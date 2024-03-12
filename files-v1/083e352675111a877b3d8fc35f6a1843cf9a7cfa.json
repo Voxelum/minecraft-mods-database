@@ -1,0 +1,16 @@
+{
+  "name": "huskspawn-1.20.4-3.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "huskspawn",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "huskspawn",
+      "version": "3.5"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oc-wasm-1.12-0.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ca.chead.oc-wasm",
+      "version": "1.12.2-0.3.0"
+    }
+  ]
+}

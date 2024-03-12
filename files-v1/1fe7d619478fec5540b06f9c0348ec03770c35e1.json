@@ -1,0 +1,14 @@
+{
+  "name": "betterhandbobbing-1.6.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterhandbobbing",
+      "version": "1.6.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "window_title_changer-2.1.1-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "window_title_changer",
+      "version": "2.1.1-1.19"
+    },
+    {
+      "modId": "jankson",
+      "version": "3.0.0+j1.2.0"
+    },
+    {
+      "modId": "cotton-logging",
+      "version": "1.0.0-rc.4"
+    },
+    {
+      "modId": "cotton-config",
+      "version": "1.0.0-rc.7"
+    }
+  ]
+}

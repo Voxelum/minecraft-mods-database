@@ -1,0 +1,20 @@
+{
+  "name": "Modern-Dynamics-0.6.1-beta.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 552758,
+      "fileId": 4562941
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moderndynamics",
+      "version": "0.6.1-beta"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

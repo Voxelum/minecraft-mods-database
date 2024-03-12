@@ -1,6 +1,18 @@
 {
   "name": "cat_jam-fabric-mc1.20-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3s69afN",
+      "versionId": "D5INFJwK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 859716,
+      "fileId": 4776161
+    }
+  ],
   "fabric": [
     {
       "modId": "cat_jam",

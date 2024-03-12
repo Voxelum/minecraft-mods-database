@@ -1,0 +1,24 @@
+{
+  "name": "FallingTree-Fabric-1.16.4-2.10.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 349559,
+      "fileId": 3167451
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "falling_tree",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.2"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

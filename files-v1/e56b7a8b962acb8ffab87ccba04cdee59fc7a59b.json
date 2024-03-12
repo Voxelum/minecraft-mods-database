@@ -1,6 +1,12 @@
 {
   "name": "kappa-3.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2wsNAbi3",
+      "versionId": "otPau6t0"
+    }
+  ],
   "fabric": [
     {
       "modId": "kappa",

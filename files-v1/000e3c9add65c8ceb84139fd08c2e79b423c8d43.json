@@ -1,0 +1,16 @@
+{
+  "name": "Forge-Fabric-1.19.4-4.6-Zombie-Horse-Spawn.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "zombiehorsespawn",
+      "version": "4.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombiehorsespawn",
+      "version": "4.6"
+    }
+  ]
+}

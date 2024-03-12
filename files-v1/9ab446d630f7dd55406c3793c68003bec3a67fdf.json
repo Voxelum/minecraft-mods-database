@@ -1,6 +1,18 @@
 {
   "name": "Boat-Item-View-Forge-1.16.5-0.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BdKIyOLe",
+      "versionId": "olKNoOXZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482444,
+      "fileId": 3313714
+    }
+  ],
   "forge": [
     {
       "modId": "boatiview",

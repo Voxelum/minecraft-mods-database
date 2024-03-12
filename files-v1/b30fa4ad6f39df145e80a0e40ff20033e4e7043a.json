@@ -1,0 +1,42 @@
+{
+  "name": "haema-1.9.9+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "haema",
+      "version": "1.9.9+1.18.2"
+    },
+    {
+      "modId": "satin",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.18.2-67-FABRIC"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "pehkui",
+      "version": "3.2.2+1.14.4-1.19"
+    }
+  ]
+}

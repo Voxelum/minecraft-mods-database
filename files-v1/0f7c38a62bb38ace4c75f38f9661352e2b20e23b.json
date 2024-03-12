@@ -1,0 +1,20 @@
+{
+  "name": "garnished-1.6.3+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6e2SlzR4",
+      "versionId": "KbCwX87k"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "garnished",
+      "version": "1.6.3+1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

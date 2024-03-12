@@ -1,6 +1,12 @@
 {
   "name": "Galosphere-1.20.1-1.3.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kn7xyQ1v",
+      "versionId": "joBeUBWM"
+    }
+  ],
   "fabric": [
     {
       "modId": "galosphere",

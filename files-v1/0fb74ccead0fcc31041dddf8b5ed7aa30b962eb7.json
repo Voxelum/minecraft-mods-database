@@ -1,6 +1,12 @@
 {
   "name": "ForgeConfigAPIPort-v3.1.1-1.18.1-Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 3600918
+    }
+  ],
   "forge": [
     {
       "modId": "forgeconfigapiport",

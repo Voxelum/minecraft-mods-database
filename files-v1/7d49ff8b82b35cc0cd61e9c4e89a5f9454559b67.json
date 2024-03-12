@@ -1,0 +1,22 @@
+{
+  "name": "trims-overhaul-2.3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lBHH38D3",
+      "versionId": "qKopN19g"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_trims_overhaul",
+      "version": "2.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_trims_overhaul",
+      "version": "2.3.3"
+    }
+  ]
+}

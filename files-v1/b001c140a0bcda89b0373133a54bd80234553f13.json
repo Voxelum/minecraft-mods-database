@@ -1,0 +1,14 @@
+{
+  "name": "Autofish-0.9.2-fabric-mc1.16.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.9.2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    }
+  ]
+}

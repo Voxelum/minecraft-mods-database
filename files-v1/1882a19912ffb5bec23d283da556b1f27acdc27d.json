@@ -1,6 +1,12 @@
 {
   "name": "mcda-2.0.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 426206,
+      "fileId": 3773061
+    }
+  ],
   "fabric": [
     {
       "modId": "mcda",

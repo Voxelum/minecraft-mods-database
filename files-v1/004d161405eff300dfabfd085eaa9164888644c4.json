@@ -1,0 +1,14 @@
+{
+  "name": "googlechat-0_4_2.jar",
+  "domain": "resourcepacks",
+  "fabric": [
+    {
+      "modId": "google-chat",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "5.0.3+176380a290"
+    }
+  ]
+}

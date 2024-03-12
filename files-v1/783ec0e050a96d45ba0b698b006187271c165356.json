@@ -1,0 +1,16 @@
+{
+  "name": "grassseeds-1.20.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "grassseeds",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grassseeds",
+      "version": "3.2"
+    }
+  ]
+}

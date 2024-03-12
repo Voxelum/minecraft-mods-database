@@ -1,0 +1,18 @@
+{
+  "name": "evenbetterarcheology-2.0.0-beta.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "evenbetterarcheology",
+      "version": "2.0.0-beta.6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    },
+    {
+      "modId": "sakuralib",
+      "version": "1.5.3"
+    }
+  ]
+}

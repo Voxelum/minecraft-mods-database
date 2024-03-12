@@ -1,0 +1,24 @@
+{
+  "name": "halohud-4.2+1.20.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rbMt0AmF",
+      "versionId": "UlCdDizf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "halohud",
+      "version": "4.2+1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "yaclx",
+      "version": "1.10+1.20"
+    }
+  ]
+}

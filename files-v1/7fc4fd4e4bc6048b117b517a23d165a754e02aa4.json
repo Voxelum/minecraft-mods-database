@@ -1,6 +1,12 @@
 {
   "name": "darktides-1.0.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 681821,
+      "fileId": 4343894
+    }
+  ],
   "fabric": [
     {
       "modId": "darktides",

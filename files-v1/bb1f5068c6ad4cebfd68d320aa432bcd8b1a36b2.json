@@ -1,0 +1,24 @@
+{
+  "name": "flash-1.18-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zmu8jXWA",
+      "versionId": "M0yNEN2W"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flash",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_animation",
+      "version": "1.18-v2.5.3"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_visual",
+      "version": "1.18-v2.5.3"
+    }
+  ]
+}

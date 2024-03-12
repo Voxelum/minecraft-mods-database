@@ -1,0 +1,16 @@
+{
+  "name": "areas-1.19.2-4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "areas",
+      "version": "4.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "areas",
+      "version": "4.1"
+    }
+  ]
+}

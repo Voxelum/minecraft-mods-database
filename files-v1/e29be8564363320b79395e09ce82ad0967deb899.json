@@ -1,0 +1,16 @@
+{
+  "name": "Elitia_Fabric_v0.5.4_mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "elitia",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elitia",
+      "version": "0.5.4"
+    }
+  ]
+}

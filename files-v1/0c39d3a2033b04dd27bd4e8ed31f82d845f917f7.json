@@ -1,0 +1,14 @@
+{
+  "name": "mcpitanlibarch-1.8.5-1.20.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mcpitanlibarch",
+      "version": "1.8.5-1.20.2-fabric"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    }
+  ]
+}

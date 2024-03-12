@@ -1,0 +1,20 @@
+{
+  "name": "starteritems-1.5.6-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 602553,
+      "fileId": 3895681
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starteritems",
+      "version": "1.5.6-1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

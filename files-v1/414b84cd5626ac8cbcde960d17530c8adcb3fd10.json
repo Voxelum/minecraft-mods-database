@@ -1,6 +1,12 @@
 {
   "name": "salt-1.19.2-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 832006,
+      "fileId": 4634290
+    }
+  ],
   "forge": [
     {
       "modId": "salt",

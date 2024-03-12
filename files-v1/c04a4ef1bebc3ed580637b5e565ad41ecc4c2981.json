@@ -1,6 +1,18 @@
 {
   "name": "edibles_1.16.5-2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rjl8pCZ9",
+      "versionId": "RtPvKtxU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 374240,
+      "fileId": 3448129
+    }
+  ],
   "forge": [
     {
       "modId": "edibles",

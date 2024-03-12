@@ -1,0 +1,14 @@
+{
+  "name": "Twerk_Mod-fabric-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "danceofgrowth",
+      "version": "1.0"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    }
+  ]
+}

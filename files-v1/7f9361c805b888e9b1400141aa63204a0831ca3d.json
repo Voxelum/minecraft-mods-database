@@ -1,0 +1,20 @@
+{
+  "name": "ivespoken-1.20-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OidSa416",
+      "versionId": "7oAEGhRk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ivespoken",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "com_github_krlite_pierced",
+      "version": "v1.2"
+    }
+  ]
+}

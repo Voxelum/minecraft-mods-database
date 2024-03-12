@@ -1,0 +1,24 @@
+{
+  "name": "FabricShieldLib-1.7.1-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7SDalH12",
+      "versionId": "IO971sCD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricshieldlib",
+      "version": "1.7.1-1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    }
+  ]
+}

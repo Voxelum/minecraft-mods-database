@@ -1,0 +1,28 @@
+{
+  "name": "Skin_Swapper_1.16.5-Fabric-2.0.2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 358486,
+      "fileId": 3442419
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinswapper",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.10"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpclient",
+      "version": "4.5.10"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpcore",
+      "version": "4.4.12"
+    }
+  ]
+}

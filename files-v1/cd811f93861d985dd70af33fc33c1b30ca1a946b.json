@@ -1,6 +1,18 @@
 {
   "name": "MTS+Official+Pack-1.16.5-V25.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C7TiPPJz",
+      "versionId": "Uu6B4KKy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292217,
+      "fileId": 4452441
+    }
+  ],
   "forge": [
     {
       "modId": "mtsofficialpack",

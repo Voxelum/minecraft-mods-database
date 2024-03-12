@@ -1,0 +1,14 @@
+{
+  "name": "loli-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "loli",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_nepnep21_discordrpc4j16",
+      "version": "v1.2.1"
+    }
+  ]
+}

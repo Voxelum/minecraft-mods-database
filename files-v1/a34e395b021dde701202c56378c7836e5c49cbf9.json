@@ -1,0 +1,20 @@
+{
+  "name": "tiptapshow-1.5.0+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lIQY64qr",
+      "versionId": "X2as9hZ2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tiptapshow",
+      "version": "1.5.0+1.20.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

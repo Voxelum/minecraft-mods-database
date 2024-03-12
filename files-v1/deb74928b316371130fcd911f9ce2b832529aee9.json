@@ -1,6 +1,12 @@
 {
   "name": "modernfix-forge-5.7.5+mc1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 4771907
+    }
+  ],
   "forge": [
     {
       "modId": "modernfix",

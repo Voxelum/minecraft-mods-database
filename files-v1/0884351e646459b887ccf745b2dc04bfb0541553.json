@@ -1,6 +1,18 @@
 {
   "name": "notenoughcrashes-4.1.4+1.16.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yM94ont6",
+      "versionId": "6ZyVIxV2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353890,
+      "fileId": 3606846
+    }
+  ],
   "fabric": [
     {
       "modId": "notenoughcrashes",

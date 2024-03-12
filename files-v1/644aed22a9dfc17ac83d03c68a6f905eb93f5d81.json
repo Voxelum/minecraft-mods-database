@@ -1,6 +1,12 @@
 {
   "name": "mousewheelie-1.11.1+mc1.20-pre2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u5Ic2U1u",
+      "versionId": "cu12faXh"
+    }
+  ],
   "fabric": [
     {
       "modId": "mousewheelie",

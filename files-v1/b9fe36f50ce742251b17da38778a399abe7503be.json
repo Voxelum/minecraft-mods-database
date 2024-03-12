@@ -1,0 +1,20 @@
+{
+  "name": "backslot-1.2.10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 402739,
+      "fileId": 3996297
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backslot",
+      "version": "1.2.10"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.3.6+mc22w17a"
+    }
+  ]
+}

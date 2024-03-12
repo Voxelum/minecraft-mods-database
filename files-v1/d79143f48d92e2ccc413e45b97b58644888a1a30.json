@@ -1,0 +1,16 @@
+{
+  "name": "armored_elytra-mc1.20.4-1.0.1-build.17.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "armored_elytra",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armored_elytra",
+      "version": "1.0.1"
+    }
+  ]
+}

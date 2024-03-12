@@ -1,0 +1,18 @@
+{
+  "name": "mbtw-1.0.0-alpha.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mbtw",
+      "version": "1.0.0-alpha.4"
+    },
+    {
+      "modId": "frex",
+      "version": "4.6.202"
+    },
+    {
+      "modId": "json-model-extensions",
+      "version": "1.21.182"
+    }
+  ]
+}

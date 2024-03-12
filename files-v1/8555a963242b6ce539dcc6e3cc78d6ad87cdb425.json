@@ -1,0 +1,18 @@
+{
+  "name": "deeperdarker-fabric-1.1.6-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "deeperdarker",
+      "version": "1.1.6"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta54-1.19"
+    },
+    {
+      "modId": "paragon",
+      "version": "3.0.2"
+    }
+  ]
+}

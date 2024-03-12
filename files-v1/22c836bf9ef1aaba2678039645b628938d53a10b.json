@@ -1,0 +1,16 @@
+{
+  "name": "trims-overhaul-2.3.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_trims_overhaul",
+      "version": "2.3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_trims_overhaul",
+      "version": "2.3.4"
+    }
+  ]
+}

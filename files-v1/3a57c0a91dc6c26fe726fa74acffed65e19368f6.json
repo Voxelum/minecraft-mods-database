@@ -1,0 +1,16 @@
+{
+  "name": "forge_hard_mode-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hardm",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hardm",
+      "version": "1.0.0"
+    }
+  ]
+}

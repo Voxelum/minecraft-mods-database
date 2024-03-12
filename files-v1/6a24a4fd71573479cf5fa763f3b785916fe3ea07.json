@@ -1,0 +1,24 @@
+{
+  "name": "blur-2.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "8AchKbfu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

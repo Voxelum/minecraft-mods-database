@@ -1,0 +1,10 @@
+{
+  "name": "create-metalwork-1.0.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "createmetalwork",
+      "version": "1.0.0"
+    }
+  ]
+}

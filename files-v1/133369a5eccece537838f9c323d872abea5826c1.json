@@ -1,0 +1,10 @@
+{
+  "name": "litematica-server-paster-mc1.20.1-v1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "litematica-server-paster",
+      "version": "1.2.0"
+    }
+  ]
+}

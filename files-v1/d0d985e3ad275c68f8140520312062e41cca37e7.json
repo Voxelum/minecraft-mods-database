@@ -1,6 +1,18 @@
 {
   "name": "botarium-forge-1.20.1-2.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u6LRnMa",
+      "versionId": "kLa36Hso"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704113,
+      "fileId": 4831434
+    }
+  ],
   "forge": [
     {
       "modId": "botarium",

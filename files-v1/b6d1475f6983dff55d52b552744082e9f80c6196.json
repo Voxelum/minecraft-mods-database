@@ -1,0 +1,16 @@
+{
+  "name": "placeableblazerods-1.18.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "placeableblazerods",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "placeableblazerods",
+      "version": "3.2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "flytre_lib-1.19-1.8.8-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 444498,
+      "fileId": 3855226
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flytre_lib",
+      "version": "1.8.8"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.4+db8596f1a9"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "limitedchunks.fabric-1.18.2-2.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456640,
+      "fileId": 3761396
+    }
+  ],
   "forge": [
     {
       "modId": "limitedchunks",

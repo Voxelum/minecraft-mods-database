@@ -1,0 +1,16 @@
+{
+  "name": "Genesis-0.5.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "genesis",
+      "version": "0.5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "genesis",
+      "version": "0.5.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mavapi-1.0.1-mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mavapi",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mavapi",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pulver-1.12-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pulver",
+      "version": "@VERSION@"
+    }
+  ]
+}

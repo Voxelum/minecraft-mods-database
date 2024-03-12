@@ -1,6 +1,18 @@
 {
   "name": "BOMD-1.3.5-1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "du3UfiLL",
+      "versionId": "z7cjnSIF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438365,
+      "fileId": 3635839
+    }
+  ],
   "fabric": [
     {
       "modId": "bosses_of_mass_destruction",

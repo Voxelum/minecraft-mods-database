@@ -1,6 +1,18 @@
 {
   "name": "rubidium-extra-0.5.1+mc1.20.1-build.99.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oY2B1pjg",
+      "versionId": "NnGykQcR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 654373,
+      "fileId": 4740935
+    }
+  ],
   "forge": [
     {
       "modId": "rubidium_extra",

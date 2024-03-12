@@ -1,6 +1,12 @@
 {
   "name": "create_jetpack-1.4.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 655608,
+      "fileId": 4345081
+    }
+  ],
   "forge": [
     {
       "modId": "create_jetpack",

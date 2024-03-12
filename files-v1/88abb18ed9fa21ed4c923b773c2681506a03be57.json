@@ -1,6 +1,12 @@
 {
   "name": "seamless-loading-screen-2.0.3+1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TyTPFOiF",
+      "versionId": "31S6g6rg"
+    }
+  ],
   "fabric": [
     {
       "modId": "seamless_loading_screen",

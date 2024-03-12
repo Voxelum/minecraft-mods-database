@@ -1,0 +1,24 @@
+{
+  "name": "cactus-0.9.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NV8eFz7D",
+      "versionId": "UUpL3upy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cactus",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "club_minnced_java-discord-rpc",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "com_ibasco_gifreader_gif-reader",
+      "version": "1.1.0"
+    }
+  ]
+}

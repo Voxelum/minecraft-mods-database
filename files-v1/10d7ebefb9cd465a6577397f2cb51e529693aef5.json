@@ -1,0 +1,14 @@
+{
+  "name": "blast-1.13.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blast",
+      "version": "1.13"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

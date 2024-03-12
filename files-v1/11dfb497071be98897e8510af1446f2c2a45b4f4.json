@@ -1,6 +1,18 @@
 {
   "name": "EasyAnvils-v4.0.11-1.19.2-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OZBR5JT5",
+      "versionId": "iYAQ1oaP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682567,
+      "fileId": 4499466
+    }
+  ],
   "forge": [
     {
       "modId": "easyanvils",

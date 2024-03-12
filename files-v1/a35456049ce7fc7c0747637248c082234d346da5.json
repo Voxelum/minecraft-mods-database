@@ -1,0 +1,10 @@
+{
+  "name": "dynviewdist-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dynview",
+      "version": "1.8"
+    }
+  ]
+}

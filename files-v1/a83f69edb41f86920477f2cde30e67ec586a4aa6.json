@@ -1,0 +1,16 @@
+{
+  "name": "enchlevel-langpatch-2.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enchlevellangpatch",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchlevel-langpatch",
+      "version": "2.1.0"
+    }
+  ]
+}

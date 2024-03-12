@@ -1,0 +1,14 @@
+{
+  "name": "autoattack-mc1.20.1-v1.3.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autoattack",
+      "version": "1.3.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

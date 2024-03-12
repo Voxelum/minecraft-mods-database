@@ -1,0 +1,20 @@
+{
+  "name": "merequester-1.18.2-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6BFl96N",
+      "versionId": "MaYvvIfF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "merequester",
+      "version": "1.18.2-1.0.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.4"
+    }
+  ]
+}

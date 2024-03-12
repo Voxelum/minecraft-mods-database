@@ -1,6 +1,12 @@
 {
   "name": "Piglin Expansion 1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 500074,
+      "fileId": 3654882
+    }
+  ],
   "forge": [
     {
       "modId": "piglin_expansion",

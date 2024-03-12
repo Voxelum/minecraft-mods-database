@@ -1,6 +1,18 @@
 {
   "name": "ExtendedDrawers-1.4.5+mc.1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AhtxbnpG",
+      "versionId": "FEACM0Xv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 616602,
+      "fileId": 4797942
+    }
+  ],
   "fabric": [
     {
       "modId": "extended_drawers",

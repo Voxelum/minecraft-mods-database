@@ -1,0 +1,26 @@
+{
+  "name": "[显示][微小的GUI调整]slight-gui-modifications-2.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "slight-gui-modifications",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.4.3"
+    },
+    {
+      "modId": "org_codehaus_groovy_groovy-jsr223",
+      "version": "3.0.8"
+    },
+    {
+      "modId": "org_codehaus_groovy_groovy",
+      "version": "3.0.8"
+    }
+  ]
+}

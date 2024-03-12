@@ -1,0 +1,18 @@
+{
+  "name": "blocks-for-builders-2.0.1-1.20.X.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blocksforbuilders",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

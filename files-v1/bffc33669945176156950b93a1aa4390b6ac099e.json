@@ -1,0 +1,20 @@
+{
+  "name": "ironchests-3.1.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n2de3t2z",
+      "versionId": "twJAyKX2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironchests",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "1.1.15"
+    }
+  ]
+}

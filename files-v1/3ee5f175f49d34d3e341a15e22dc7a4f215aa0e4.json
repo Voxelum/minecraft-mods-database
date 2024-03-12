@@ -1,0 +1,14 @@
+{
+  "name": "picturesign-1.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "picturesign",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "autoswitch-7.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uSdcnlts",
+      "versionId": "J4tWnLnz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoswitch",
+      "version": "7.0.2"
+    },
+    {
+      "modId": "autoswitch-api",
+      "version": "3.0.0"
+    }
+  ]
+}

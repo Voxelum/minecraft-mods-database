@@ -1,0 +1,16 @@
+{
+  "name": "spawnanimations-v1.9.3-mc1.17x-1.20x-mod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spawnanimations",
+      "version": "1.9.3+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spawnanimations",
+      "version": "1.9.3+mod"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "experimentalPerformance-0.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pYFi4eeH",
+      "versionId": "ANMOedQP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "experimentalperformance",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "org_openjdk_jol_jol-core",
+      "version": "0.17"
+    },
+    {
+      "modId": "io_github_classgraph_classgraph",
+      "version": "4.8.162"
+    }
+  ]
+}

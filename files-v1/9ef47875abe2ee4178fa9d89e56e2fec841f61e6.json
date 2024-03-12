@@ -1,0 +1,14 @@
+{
+  "name": "spoornweaponattributes-4.0.10-1.19-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spoornweaponattributes",
+      "version": "4.0.10-1.19"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "auto_crouch-mc1.20.4-1.0.1-build.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "auto_crouch",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "auto_crouch",
+      "version": "1.0.1"
+    }
+  ]
+}

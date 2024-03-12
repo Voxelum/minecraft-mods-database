@@ -1,0 +1,26 @@
+{
+  "name": "CreativeCore_FABRIC_v2.10.4_mc1.19.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 4375639
+    }
+  ],
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.10.4"
+    },
+    {
+      "modId": "net_minecraftforge_eventbus",
+      "version": "6.0.4"
+    }
+  ]
+}

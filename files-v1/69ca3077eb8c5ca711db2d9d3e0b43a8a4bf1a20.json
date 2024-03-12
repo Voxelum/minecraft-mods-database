@@ -1,0 +1,14 @@
+{
+  "name": "morepbadges-1.0+fabric-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "morepbadges",
+      "version": "1.0+fabric-1.20.1"
+    },
+    {
+      "modId": "tcdcommons",
+      "version": "3.4+fabric-1.20.1"
+    }
+  ]
+}

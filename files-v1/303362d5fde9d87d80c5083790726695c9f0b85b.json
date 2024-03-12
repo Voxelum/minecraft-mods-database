@@ -1,6 +1,12 @@
 {
   "name": "fabric-experiencebugfix-1.20-2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 486778,
+      "fileId": 4561361
+    }
+  ],
   "fabric": [
     {
       "modId": "experiencebugfix",

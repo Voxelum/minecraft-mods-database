@@ -1,0 +1,46 @@
+{
+  "name": "advancedchat-1.2-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "advanced-chat",
+      "version": "1.2-1.20"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a27"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.11+b3afc78b27"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.20+b3afc78b27"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "5.1.6+b3afc78b27"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.2.2+1.19.3"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.1.2+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

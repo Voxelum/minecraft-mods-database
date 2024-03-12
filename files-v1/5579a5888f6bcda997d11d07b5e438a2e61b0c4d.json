@@ -1,0 +1,26 @@
+{
+  "name": "feytweaks-1.19-1.2.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wa72oW2W",
+      "versionId": "AdBJ4xOW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663213,
+      "fileId": 4631437
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feytweaks",
+      "version": "1.19-1.2.6"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

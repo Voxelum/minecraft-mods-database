@@ -1,6 +1,12 @@
 {
   "name": "Resourcify (1.16.x-forge).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "gMdvwcmN"
+    }
+  ],
   "forge": [
     {
       "modId": "resourcify",

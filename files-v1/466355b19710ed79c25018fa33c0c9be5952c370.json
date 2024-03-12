@@ -1,0 +1,28 @@
+{
+  "name": "extendedgears-2.1.0-1.20.1-0.5.1.c-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qO4lsa4Y",
+      "versionId": "YqweXuwL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815006,
+      "fileId": 4751250
+    }
+  ],
+  "forge": [
+    {
+      "modId": "extendedgears",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedgears",
+      "version": "2.1.0-1.20.1-0.5.1.c-fabric"
+    }
+  ]
+}

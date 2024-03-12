@@ -1,0 +1,14 @@
+{
+  "name": "CreaturesFromTheSnow-6.0.0+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "creaturesfromthesnow",
+      "version": "[1.20] 6.0.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

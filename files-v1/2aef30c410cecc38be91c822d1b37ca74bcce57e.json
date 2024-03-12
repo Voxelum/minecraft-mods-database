@@ -1,6 +1,18 @@
 {
   "name": "ElevatorMod-1.12.2-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hi2dSXTu",
+      "versionId": "sqiXnhC5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250832,
+      "fileId": 2715224
+    }
+  ],
   "forge": [
     {
       "modId": "elevatorid",

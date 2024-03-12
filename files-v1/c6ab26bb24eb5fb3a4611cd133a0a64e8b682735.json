@@ -1,6 +1,18 @@
 {
   "name": "YSNS-Fabric_Quilt-MC1.20-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EjXcpmEA",
+      "versionId": "sRUWI3ip"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628744,
+      "fileId": 4584093
+    }
+  ],
   "fabric": [
     {
       "modId": "ysns",

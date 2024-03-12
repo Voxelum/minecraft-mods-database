@@ -1,0 +1,20 @@
+{
+  "name": "geckolib-fabric-1.20.4-4.4.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 5060389
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geckolib",
+      "version": "4.4.2"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

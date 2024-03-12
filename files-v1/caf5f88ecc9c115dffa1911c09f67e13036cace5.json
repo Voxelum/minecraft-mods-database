@@ -1,0 +1,14 @@
+{
+  "name": ".xdp-Unconfirmed 951597.crdownload-a8v6Fh",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "proxy_protocol_support",
+      "version": "1.0.3-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-haproxy",
+      "version": "4.1.89.Final"
+    }
+  ]
+}

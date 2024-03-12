@@ -1,0 +1,10 @@
+{
+  "name": "grimreality.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "grim_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "default-server-properties-forge-74.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 676811,
+      "fileId": 4599504
+    }
+  ],
   "forge": [
     {
       "modId": "dsp",

@@ -1,0 +1,20 @@
+{
+  "name": "FoamFix-1.7.10-universal-1.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jupr7Bf5",
+      "versionId": "H4Y7YwTd"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

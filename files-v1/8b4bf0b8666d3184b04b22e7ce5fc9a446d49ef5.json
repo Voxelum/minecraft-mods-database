@@ -1,0 +1,14 @@
+{
+  "name": "Extra-Enchantments-and-Curses-1.6.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extra-enchantments-and-curses",
+      "version": "1.6.5"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.2.0"
+    }
+  ]
+}

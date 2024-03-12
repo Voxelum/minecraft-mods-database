@@ -1,0 +1,26 @@
+{
+  "name": "appleskin-fabric-mc1.19.2-2.5.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EsAfCjCV",
+      "versionId": "tpQpTIMn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 248787,
+      "fileId": 4953883
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "appleskin",
+      "version": "2.5.1+mc1.19"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    }
+  ]
+}

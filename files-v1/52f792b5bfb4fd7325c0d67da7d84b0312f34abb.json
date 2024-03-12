@@ -1,0 +1,10 @@
+{
+  "name": "Pyro-破解无后门-1.4.1-release.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pyroclient",
+      "version": "1.4.1"
+    }
+  ]
+}

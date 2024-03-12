@@ -1,0 +1,24 @@
+{
+  "name": "guarding-2.3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aV1COQ7a",
+      "versionId": "1hJuekS7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guarding",
+      "version": "2.3.3"
+    },
+    {
+      "modId": "scribe",
+      "version": "1.20.1-0.5.0-alpha"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

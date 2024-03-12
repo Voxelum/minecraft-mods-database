@@ -1,0 +1,46 @@
+{
+  "name": "[跨版本]viafabric-0.4.6+266-main.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "viafabric",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viafabric-mc114",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viafabric-mc115",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viafabric-mc116",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viafabric-mc117",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viafabric-mc118",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viafabric-mc18",
+      "version": "0.4.6+266-main"
+    },
+    {
+      "modId": "viaversion",
+      "version": "4.2.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.30"
+    },
+    {
+      "modId": "cotton-client-commands",
+      "version": "1.1.0+1.15.2"
+    }
+  ]
+}

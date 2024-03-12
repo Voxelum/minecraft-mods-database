@@ -1,6 +1,12 @@
 {
   "name": "global_packs-forge-1.18.2-1.12.4_forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317134,
+      "fileId": 4570525
+    }
+  ],
   "forge": [
     {
       "modId": "globaldataandresourcepacks",

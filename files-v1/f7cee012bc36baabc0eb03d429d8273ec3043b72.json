@@ -1,6 +1,12 @@
 {
   "name": "TravelAnchors-2.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 413234,
+      "fileId": 3265112
+    }
+  ],
   "forge": [
     {
       "modId": "travel_anchors",

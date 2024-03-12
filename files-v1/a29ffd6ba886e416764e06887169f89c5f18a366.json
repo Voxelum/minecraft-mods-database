@@ -1,0 +1,42 @@
+{
+  "name": "Origins-1.16.5-0.7.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BeIrqZR",
+      "versionId": "l8V58Suz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391943,
+      "fileId": 3319081
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "fallflyinglib",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    }
+  ]
+}

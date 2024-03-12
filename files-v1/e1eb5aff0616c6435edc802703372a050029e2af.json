@@ -1,6 +1,18 @@
 {
   "name": "createoreexcavation-fabric-1.19-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ResbpANg",
+      "versionId": "RRvPlaLZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 649832,
+      "fileId": 4655214
+    }
+  ],
   "forge": [
     {
       "modId": "createoreexcavation",

@@ -1,6 +1,18 @@
 {
   "name": "incubation-1.19.2-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "A4Xrv60A",
+      "versionId": "xNXbdthU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361718,
+      "fileId": 4776209
+    }
+  ],
   "forge": [
     {
       "modId": "incubation",

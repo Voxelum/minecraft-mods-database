@@ -1,0 +1,18 @@
+{
+  "name": "spindlemark-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spindlemark",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "lib39-core",
+      "version": "1.5.0-experimental5+1.20.1"
+    },
+    {
+      "modId": "lib39-keygen",
+      "version": "1.5.0-experimental5+1.20.1"
+    }
+  ]
+}

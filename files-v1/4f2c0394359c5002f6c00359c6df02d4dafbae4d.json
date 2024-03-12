@@ -1,0 +1,16 @@
+{
+  "name": "[辅助-Xaero地图扩展]open-parties-and-claims-fabric-1.18.2-0.15.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "openpartiesandclaims",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "openpartiesandclaims",
+      "version": "0.15.0"
+    }
+  ]
+}

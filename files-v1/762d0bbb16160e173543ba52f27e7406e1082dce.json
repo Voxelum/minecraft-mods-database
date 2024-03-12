@@ -1,0 +1,26 @@
+{
+  "name": "testworld-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE3hXH3s",
+      "versionId": "w1rOxcKe"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "testworld",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "testworld",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric",
+      "version": "0.57.0+1.19"
+    }
+  ]
+}

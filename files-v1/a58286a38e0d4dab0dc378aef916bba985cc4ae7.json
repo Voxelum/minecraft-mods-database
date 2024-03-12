@@ -1,0 +1,26 @@
+{
+  "name": "duckyperiphs-1.20.1-1.3.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ducky-periphs",
+      "version": "1.20.1-1.3.1"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.4.99999"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    },
+    {
+      "modId": "org_jblas_jblas",
+      "version": "1.2.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

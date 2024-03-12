@@ -1,0 +1,20 @@
+{
+  "name": "eggtab-2.2.1+1.18-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 360449,
+      "fileId": 3823522
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eggtab",
+      "version": "2.2.1+1.18-fabric"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

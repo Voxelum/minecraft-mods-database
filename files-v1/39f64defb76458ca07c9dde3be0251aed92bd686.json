@@ -1,0 +1,22 @@
+{
+  "name": "magicfungi-0.6.3-BETA+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "magicfungi",
+      "version": "0.6.3-BETA+1.18"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "omega-config-gui",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "fabricshieldlib",
+      "version": "1.4.5-1.18"
+    }
+  ]
+}

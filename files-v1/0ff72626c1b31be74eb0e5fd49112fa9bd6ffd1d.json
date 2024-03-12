@@ -1,0 +1,10 @@
+{
+  "name": "ftb-progress.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "renderhook",
+      "version": "1.0"
+    }
+  ]
+}

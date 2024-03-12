@@ -1,6 +1,18 @@
 {
   "name": "jearchaeology-1.20.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K0LQpdmm",
+      "versionId": "NXJEYn9H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 890755,
+      "fileId": 4749194
+    }
+  ],
   "forge": [
     {
       "modId": "jearchaeology",

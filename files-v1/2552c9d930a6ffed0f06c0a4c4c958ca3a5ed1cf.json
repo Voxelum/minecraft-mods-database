@@ -1,0 +1,20 @@
+{
+  "name": "speedometer-1.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 421782,
+      "fileId": 3739777
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "speedometer",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

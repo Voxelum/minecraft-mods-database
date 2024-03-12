@@ -1,0 +1,22 @@
+{
+  "name": "cpm-osc-compat-1.5.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QDihBtsN",
+      "versionId": "z8zaDCHj"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpmoscc",
+      "version": "1.5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpmoscc",
+      "version": "1.5.1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "trinkets-3.2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 341284,
+      "fileId": 3723674
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trinkets",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "flowerycore-5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "flowerycore",
+      "version": "5"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.18+2de5574560"
+    },
+    {
+      "modId": "fabric-convention-tags-v1",
+      "version": "1.0.1+474e4f7960"
+    }
+  ]
+}

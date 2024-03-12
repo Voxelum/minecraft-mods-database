@@ -1,6 +1,18 @@
 {
   "name": "fabricskyboxes-0.6.1+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YBz7DOs8",
+      "versionId": "ehRYuRPI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 408209,
+      "fileId": 4142257
+    }
+  ],
   "fabric": [
     {
       "modId": "fabricskyboxes",

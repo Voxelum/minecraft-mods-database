@@ -1,6 +1,18 @@
 {
   "name": "create-fabric-0.5.1-c-build.1160+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xbc0uyRg",
+      "versionId": "okpdciJG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 624165,
+      "fileId": 4721055
+    }
+  ],
   "forge": [
     {
       "modId": "create-fabric-0.5.1-c-build.1160+mc1.19.2",
@@ -8,6 +20,14 @@
     },
     {
       "modId": "create-fabric-0.5.1-c-build.1160-mc1.19.2",
+      "version": ""
+    },
+    {
+      "modId": "[机械动力] create-fabric-0.5.1-c-build.1160+mc1.19.2",
+      "version": ""
+    },
+    {
+      "modId": "create-fabric-0.5.1-c-build.1160+mc1.19.2 (1)",
       "version": ""
     }
   ],

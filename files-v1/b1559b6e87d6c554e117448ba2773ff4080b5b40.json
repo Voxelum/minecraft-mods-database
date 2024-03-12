@@ -1,6 +1,12 @@
 {
   "name": "spell_power-fabric-0.9.17+1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 771265,
+      "fileId": 4727698
+    }
+  ],
   "fabric": [
     {
       "modId": "spell_power",

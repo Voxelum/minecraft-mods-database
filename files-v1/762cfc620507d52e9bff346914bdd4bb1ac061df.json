@@ -1,0 +1,16 @@
+{
+  "name": "custom-craft-v3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "custom_craft_mr",
+      "version": "1-v3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custom_craft_mr",
+      "version": "1-v3.1"
+    }
+  ]
+}

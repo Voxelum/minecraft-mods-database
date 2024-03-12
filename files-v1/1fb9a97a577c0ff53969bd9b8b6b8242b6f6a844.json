@@ -1,0 +1,14 @@
+{
+  "name": "Cool-Elytra-1.5-for-minecraft-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cool_elytra",
+      "version": "1.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

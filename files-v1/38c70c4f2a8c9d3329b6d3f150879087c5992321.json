@@ -1,0 +1,16 @@
+{
+  "name": "watermedia-2.0.24.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "watermedia",
+      "version": "2.0.24"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watermedia",
+      "version": "2.0.24"
+    }
+  ]
+}

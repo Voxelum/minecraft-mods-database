@@ -1,0 +1,16 @@
+{
+  "name": "CreateVillagerology.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "new_villagers",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "new_villagers",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "addonTraderNPC.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tradernpcs",
+      "version": "1.2.0"
+    }
+  ]
+}

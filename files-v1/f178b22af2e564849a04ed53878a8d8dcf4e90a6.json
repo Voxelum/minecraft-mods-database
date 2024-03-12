@@ -1,0 +1,54 @@
+{
+  "name": "Fastload-3.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fastload",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "fastload-119-0-1-2-compat",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "fastload-1193-compat",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "fastload-1194-compat",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fastload_fapi_forward",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    }
+  ]
+}

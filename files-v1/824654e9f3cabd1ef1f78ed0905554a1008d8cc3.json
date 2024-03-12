@@ -1,0 +1,16 @@
+{
+  "name": "extendedcreativeinventory-1.18.2-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extendedcreativeinventory",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedcreativeinventory",
+      "version": "2.1"
+    }
+  ]
+}

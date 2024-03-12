@@ -1,0 +1,22 @@
+{
+  "name": "valkyrienskies-118-fabric-2.1.1-beta.3e00ea733a3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "valkyrienskies",
+      "version": "2.1.1-beta.3+e00ea733a3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.3.81"
+    }
+  ]
+}

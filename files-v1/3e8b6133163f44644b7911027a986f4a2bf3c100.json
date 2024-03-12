@@ -1,6 +1,12 @@
 {
   "name": "tesla-core-lib-1.12.2-1.0.15.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 254602,
+      "fileId": 2580052
+    }
+  ],
   "forge": [
     {
       "modId": "teslacorelib",

@@ -1,6 +1,18 @@
 {
   "name": "architects-palette-fabric-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ktECB2Rv",
+      "versionId": "yQiy67D1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487364,
+      "fileId": 4546035
+    }
+  ],
   "fabric": [
     {
       "modId": "architects_palette",

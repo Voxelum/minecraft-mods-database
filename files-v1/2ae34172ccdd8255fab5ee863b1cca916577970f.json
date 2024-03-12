@@ -1,6 +1,12 @@
 {
   "name": "chickensmod-1.18.2-1.0.31.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620563,
+      "fileId": 4519573
+    }
+  ],
   "forge": [
     {
       "modId": "chickens",

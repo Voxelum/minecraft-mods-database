@@ -1,0 +1,26 @@
+{
+  "name": "holograms-1.3.1+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "holograms",
+      "version": "1.3.1+1.18.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.9+1.18.2-rc1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "1.1.3+1.17.1"
+    },
+    {
+      "modId": "hologram-api",
+      "version": "0.2.1+1.18-pre5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

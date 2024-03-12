@@ -1,0 +1,30 @@
+{
+  "name": "allthetrims-3.2.5-fabric+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnsUKrap",
+      "versionId": "ZYg6661k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876154,
+      "fileId": 4731091
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "allthetrims",
+      "version": "3.2.5"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.10"
+    }
+  ]
+}

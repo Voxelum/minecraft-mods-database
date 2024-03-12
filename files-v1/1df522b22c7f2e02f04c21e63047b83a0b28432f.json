@@ -1,0 +1,46 @@
+{
+  "name": "atomic-b19-v1.18.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "atomic",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "seedcrackerx-api",
+      "version": "2.10.1"
+    },
+    {
+      "modId": "club_minnced_java-discord-rpc",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-binding",
+      "version": "1.82.2"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-lwjgl3",
+      "version": "1.82.2"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-linux",
+      "version": "1.82.2"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-linux-x86",
+      "version": "1.82.2"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-macos",
+      "version": "1.82.2"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-windows",
+      "version": "1.82.2"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-windows-x86",
+      "version": "1.82.2"
+    }
+  ]
+}

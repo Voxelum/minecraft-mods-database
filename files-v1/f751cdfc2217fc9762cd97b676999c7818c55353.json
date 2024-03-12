@@ -1,0 +1,22 @@
+{
+  "name": "mythquest-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9daSQ9Yq",
+      "versionId": "AwRDUZl5"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_mythquest",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_mythquest",
+      "version": "1.2"
+    }
+  ]
+}

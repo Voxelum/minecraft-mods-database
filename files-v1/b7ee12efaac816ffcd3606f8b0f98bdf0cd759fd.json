@@ -1,6 +1,12 @@
 {
   "name": "rocks-1.6.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 416283,
+      "fileId": 3837155
+    }
+  ],
   "fabric": [
     {
       "modId": "rocks",

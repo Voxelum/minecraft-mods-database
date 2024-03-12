@@ -1,0 +1,14 @@
+{
+  "name": "improvedsigns-1.3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "improved-signs",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

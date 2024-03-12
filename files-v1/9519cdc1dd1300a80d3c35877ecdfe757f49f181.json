@@ -1,0 +1,22 @@
+{
+  "name": "CTOV-Fabric-Forge-2.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "N9bzxzVo"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "2-8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "2.8"
+    }
+  ]
+}

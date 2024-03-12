@@ -1,0 +1,20 @@
+{
+  "name": "skinnedlanterns-1.2.0+build.12.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422527,
+      "fileId": 3586429
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinnedlanterns",
+      "version": "1.2.0+build.12"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "improvedsignediting-1.20.4-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "improvedsignediting",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "improvedsignediting",
+      "version": "1.1"
+    }
+  ]
+}

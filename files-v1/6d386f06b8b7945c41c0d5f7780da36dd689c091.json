@@ -1,0 +1,20 @@
+{
+  "name": "loadingscreentips-1.2.0+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9iE55lp5",
+      "versionId": "uV448QwH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "loadingscreentips",
+      "version": "1.2.0+1.18.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "[优化][实体方块优化]enhancedblockentities-0.5+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enhancedblockentities",
+      "version": "0.5+1.18"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.4"
+    }
+  ]
+}

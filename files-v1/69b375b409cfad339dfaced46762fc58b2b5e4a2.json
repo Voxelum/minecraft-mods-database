@@ -1,0 +1,16 @@
+{
+  "name": "pumpkillagersquest-1.18.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pumpkillagersquest",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pumpkillagersquest",
+      "version": "3.2"
+    }
+  ]
+}

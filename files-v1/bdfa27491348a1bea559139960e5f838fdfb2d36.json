@@ -1,0 +1,22 @@
+{
+  "name": "simplystatus-1.7.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplystatus",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230227"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    }
+  ]
+}

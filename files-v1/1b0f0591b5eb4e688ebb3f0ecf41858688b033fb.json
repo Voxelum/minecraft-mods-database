@@ -1,6 +1,12 @@
 {
   "name": "spark-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 3542217
+    }
+  ],
   "forge": [
     {
       "modId": "spark",

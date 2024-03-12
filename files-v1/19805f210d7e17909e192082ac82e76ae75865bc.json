@@ -1,0 +1,22 @@
+{
+  "name": "styled-nicknames-1.1.2+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "styled-nicknames",
+      "version": "1.1.2+1.19"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-beta.3+1.19"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.1.0+1.18"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

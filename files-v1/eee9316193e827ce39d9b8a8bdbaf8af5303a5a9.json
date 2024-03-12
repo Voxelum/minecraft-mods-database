@@ -1,0 +1,32 @@
+{
+  "name": "durabilityviewer-1.20.2-fabric0.89.1-1.10.5.jar",
+  "domain": "resourcepacks",
+  "modrinth": [
+    {
+      "projectId": "LTM1f0yY",
+      "versionId": "gWKtksGC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "durabilityviewer",
+      "version": "1.20.2-fabric0.89.1-1.10.5"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.4+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    }
+  ]
+}

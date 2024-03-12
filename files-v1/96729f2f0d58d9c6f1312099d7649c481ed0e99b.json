@@ -1,0 +1,22 @@
+{
+  "name": "unsaddle-0.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "unsaddle",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "unsaddle-core",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "unsaddle-compat-1-15",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "unsaddle-compat-1-16",
+      "version": "0.2.1"
+    }
+  ]
+}

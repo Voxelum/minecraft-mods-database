@@ -1,0 +1,24 @@
+{
+  "name": "post-materia-1.0.0-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 609705,
+      "fileId": 3745265
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "postmateria",
+      "version": "1.0.0-1.18.2"
+    },
+    {
+      "modId": "fiblib",
+      "version": "1.3.1+1.18.2"
+    },
+    {
+      "modId": "world-data",
+      "version": "1.0.3-1.18.2"
+    }
+  ]
+}

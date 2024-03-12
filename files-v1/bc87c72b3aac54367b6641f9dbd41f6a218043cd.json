@@ -1,6 +1,18 @@
 {
   "name": "zerocore-1.12.2-0.1.2.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rHpb85Mf",
+      "versionId": "BM8zU1AX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247921,
+      "fileId": 3194743
+    }
+  ],
   "forge": [
     {
       "modId": "zerocore",

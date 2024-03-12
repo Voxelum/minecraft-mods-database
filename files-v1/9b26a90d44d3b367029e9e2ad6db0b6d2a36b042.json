@@ -1,0 +1,16 @@
+{
+  "name": "watermedia-1.3.43.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "watermedia",
+      "version": "1.3.43"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watermedia",
+      "version": "1.3.43"
+    }
+  ]
+}

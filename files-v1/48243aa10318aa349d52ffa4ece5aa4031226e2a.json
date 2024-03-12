@@ -1,0 +1,34 @@
+{
+  "name": "[辅助-Masa-Gadget]MasaGadget-3.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "masa_gadget_mod",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "masa_gadget_mod-1_14_4",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "masa_gadget_mod-1_15_2",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "masa_gadget_mod-1_16_5",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "masa_gadget_mod-1_17_1",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "masa_gadget_mod-1_18_2",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19",
+      "version": "3.0.0"
+    }
+  ]
+}

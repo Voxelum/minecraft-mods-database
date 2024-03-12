@@ -1,0 +1,26 @@
+{
+  "name": "reinforced-shulker-boxes-2.5.2+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xlOwuSdN",
+      "versionId": "zDj1Rcv9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529874,
+      "fileId": 4948927
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reinfshulker",
+      "version": "2.5.2+1.20"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "3.1.3+1.20"
+    }
+  ]
+}

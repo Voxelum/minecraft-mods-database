@@ -1,0 +1,10 @@
+{
+  "name": "CreepAndCrop.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "realmrpg_creep",
+      "version": "1.0.1"
+    }
+  ]
+}

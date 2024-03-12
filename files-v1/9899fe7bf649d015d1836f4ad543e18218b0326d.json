@@ -1,0 +1,20 @@
+{
+  "name": "Amplifier Nether 1.0.1 ~ Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 552176,
+      "fileId": 3550743
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amplified_nether",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "seedfix",
+      "version": "1.0.0"
+    }
+  ]
+}

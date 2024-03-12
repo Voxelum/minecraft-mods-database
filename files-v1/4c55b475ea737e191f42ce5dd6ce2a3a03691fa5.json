@@ -1,6 +1,18 @@
 {
   "name": "MekanismTools-1.16.5-10.1.2.457.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tqQpq1lt",
+      "versionId": "tPG7WKTD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268567,
+      "fileId": 3659392
+    }
+  ],
   "forge": [
     {
       "modId": "mekanismtools",

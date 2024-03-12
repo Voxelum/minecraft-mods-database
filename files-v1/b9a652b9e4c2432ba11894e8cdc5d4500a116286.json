@@ -1,0 +1,10 @@
+{
+  "name": "Francium-Beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-dimensions-api-v1",
+      "version": "2.1.42+7a428ya8fd"
+    }
+  ]
+}

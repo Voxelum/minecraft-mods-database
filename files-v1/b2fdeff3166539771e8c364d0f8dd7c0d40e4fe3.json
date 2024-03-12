@@ -1,0 +1,16 @@
+{
+  "name": "justmobheads-1.18.2-7.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "justmobheads",
+      "version": "7.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "justmobheads",
+      "version": "7.4"
+    }
+  ]
+}

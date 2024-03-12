@@ -1,0 +1,16 @@
+{
+  "name": "funky-flora-1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_funky_flora",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_funky_flora",
+      "version": "1.5"
+    }
+  ]
+}

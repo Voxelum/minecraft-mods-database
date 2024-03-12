@@ -1,0 +1,28 @@
+{
+  "name": "ctov-2.9.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "mL9oaPkZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 4521179
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "2.9.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "2.9.4"
+    }
+  ]
+}

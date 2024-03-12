@@ -1,0 +1,16 @@
+{
+  "name": "BlockySiege-5.2.0-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "blocky_siege",
+      "version": "4.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blocky_siege",
+      "version": "4.0.0"
+    }
+  ]
+}

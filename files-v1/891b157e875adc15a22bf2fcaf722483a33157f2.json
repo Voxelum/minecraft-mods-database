@@ -1,0 +1,16 @@
+{
+  "name": "doubledoors-1.18.2-5.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "doubledoors",
+      "version": "5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doubledoors",
+      "version": "5.1"
+    }
+  ]
+}

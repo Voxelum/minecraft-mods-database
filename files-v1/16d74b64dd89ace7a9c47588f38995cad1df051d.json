@@ -1,6 +1,18 @@
 {
   "name": "TTIGRAAS_BETA_v.1.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QuI1PKt5",
+      "versionId": "J7VkERKs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373693,
+      "fileId": 3475520
+    }
+  ],
   "forge": [
     {
       "modId": "ttigraas",

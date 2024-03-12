@@ -1,0 +1,10 @@
+{
+  "name": "piratesdoom-1.0.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "piratesdoom",
+      "version": "1.0.0"
+    }
+  ]
+}

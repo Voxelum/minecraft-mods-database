@@ -1,0 +1,16 @@
+{
+  "name": "bucolicorigins-3.9.2 [FABRIC].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bucolicorigins",
+      "version": "3.9.2 [FABRIC]"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bucolicorigins",
+      "version": "3.9.2 [FABRIC]"
+    }
+  ]
+}

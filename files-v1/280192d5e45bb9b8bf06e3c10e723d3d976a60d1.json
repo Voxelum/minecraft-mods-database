@@ -1,0 +1,64 @@
+{
+  "name": "create-fabric-0.5.0g-796+1.19.2.jar.crdownload",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create-fabric-0.5.0g-796+1.19.2.jar.crdownload",
+      "version": ""
+    },
+    {
+      "modId": "create-fabric-0.5.0g-796+1.19.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create",
+      "version": "0.5.0g-796+1.19.2"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.623+1.19.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.6"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.1.44-MC1.19.2"
+    },
+    {
+      "modId": "flywheel",
+      "version": "0.6.8-1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "milk",
+      "version": "1.0.51"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.19"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    }
+  ]
+}

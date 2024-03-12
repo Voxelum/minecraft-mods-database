@@ -1,6 +1,12 @@
 {
   "name": "artifacts-7.0.3+fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401236,
+      "fileId": 3756730
+    }
+  ],
   "fabric": [
     {
       "modId": "artifacts",

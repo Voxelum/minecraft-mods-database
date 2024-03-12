@@ -1,6 +1,18 @@
 {
   "name": "extradisks-1.16.4-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tlo2tahX",
+      "versionId": "vKFQt8lV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 351491,
+      "fileId": 3328131
+    }
+  ],
   "forge": [
     {
       "modId": "extradisks",

@@ -1,0 +1,26 @@
+{
+  "name": "MapFrontiers-1.20.2-2.6.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 366783,
+      "fileId": 4978652
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.6.0beta1"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.4-1.20.2"
+    }
+  ]
+}

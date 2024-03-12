@@ -1,0 +1,14 @@
+{
+  "name": "table_top_craft-1.19-2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "table_top_craft",
+      "version": "1.19-2.1.0"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

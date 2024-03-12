@@ -1,0 +1,42 @@
+{
+  "name": "CommandGUIButtons-all-2.2.1+build.185+3ad23a8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mgbuttons",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_16_5",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_17_1",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_18_2",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_19_2",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_19_3",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_19_4",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_20_1",
+      "version": "2.2.1+build.185+3ad23a8"
+    },
+    {
+      "modId": "mgbuttons-1_20_2",
+      "version": "2.2.1+build.185+3ad23a8"
+    }
+  ]
+}

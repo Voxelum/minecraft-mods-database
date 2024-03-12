@@ -1,0 +1,22 @@
+{
+  "name": "tiered-1.1.1-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tiered",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.0.0+1.18.2"
+    },
+    {
+      "modId": "autotag",
+      "version": "1.1.0"
+    }
+  ]
+}

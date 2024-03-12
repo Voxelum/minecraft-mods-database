@@ -1,6 +1,12 @@
 {
   "name": "gravestone-1.10.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 238551,
+      "fileId": 2744766
+    }
+  ],
   "forge": [
     {
       "modId": "gravestone",

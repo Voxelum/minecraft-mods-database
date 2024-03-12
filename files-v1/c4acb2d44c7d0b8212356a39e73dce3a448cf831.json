@@ -1,0 +1,16 @@
+{
+  "name": "amethyst-cutting-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "amethyst_cutting_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amethyst_cutting_mr",
+      "version": "1.0"
+    }
+  ]
+}

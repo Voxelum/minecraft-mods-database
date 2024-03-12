@@ -1,0 +1,14 @@
+{
+  "name": "HealthOverlay-1.19.2-7.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "healthoverlay",
+      "version": "7.1.1"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

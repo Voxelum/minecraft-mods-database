@@ -1,6 +1,12 @@
 {
   "name": "mob-captains-v2.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7tKn1fLd",
+      "versionId": "kD4h9ccY"
+    }
+  ],
   "forge": [
     {
       "modId": "mob_captains_mr",

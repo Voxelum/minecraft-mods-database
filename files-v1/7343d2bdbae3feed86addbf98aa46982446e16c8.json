@@ -1,6 +1,18 @@
 {
   "name": "dustrial-decor-fabric-0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3UOoqLkR",
+      "versionId": "azDhjt31"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 592067,
+      "fileId": 3686697
+    }
+  ],
   "fabric": [
     {
       "modId": "dustrial_decor",

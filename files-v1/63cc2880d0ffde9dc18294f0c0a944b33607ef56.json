@@ -1,0 +1,14 @@
+{
+  "name": "snow-pig-1.18.1-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "snowpig",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "dawn",
+      "version": "3.2.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "panorama_screens-1.0+fabric+mc1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4k0QM1rC",
+      "versionId": "1sv66aTk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854176,
+      "fileId": 4989309
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "panorama_screens",
+      "version": "1.0+fabric+mc1.20.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "urlmusicdiscs-1.1.0+1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "urlmusicdiscs",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    }
+  ]
+}

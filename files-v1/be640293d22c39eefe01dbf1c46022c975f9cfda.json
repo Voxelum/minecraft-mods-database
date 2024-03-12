@@ -1,6 +1,18 @@
 {
   "name": "RoughlyEnoughProfessions-fabric-1.19.2-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V8XJ8f5f",
+      "versionId": "ifWiwS2Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597988,
+      "fileId": 4427279
+    }
+  ],
   "fabric": [
     {
       "modId": "roughlyenoughprofessions",

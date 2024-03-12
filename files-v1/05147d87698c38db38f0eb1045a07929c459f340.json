@@ -1,0 +1,26 @@
+{
+  "name": "[机械动力：喷气背包] create_jetpack-fabric-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "UVXtwBop"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_jetpack",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "flightlib",
+      "version": "2.0.0"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ServerReplay-1.0.3+mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qCvSZ8ra",
+      "versionId": "CefR8OH6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "server-replay",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_github_replaymod_replaystudio",
+      "version": "6cd39b0874"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Highlighter-1.20.2-fabric-1.1.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cVNW5lr6",
+      "versionId": "IQhlGx7m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541578,
+      "fileId": 4938119
+    }
+  ],
+  "forge": [
+    {
+      "modId": "highlighter",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "highlighter",
+      "version": "1.1.9"
+    }
+  ]
+}

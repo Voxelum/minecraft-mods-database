@@ -1,0 +1,14 @@
+{
+  "name": "deeperdarker-FABRIC-1.0.1b-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "deeperdarker",
+      "version": "0.0.1"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta52-1.19"
+    }
+  ]
+}

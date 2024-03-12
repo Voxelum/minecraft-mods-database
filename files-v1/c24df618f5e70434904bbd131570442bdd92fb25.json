@@ -1,0 +1,24 @@
+{
+  "name": "TooManyOrigins-1.1.0+1.20.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xDjN28OB",
+      "versionId": "LrZlragz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanyorigins",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "apugli",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "wwfix",
+      "version": "1.0.0+hotfix.1"
+    }
+  ]
+}

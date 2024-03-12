@@ -1,0 +1,16 @@
+{
+  "name": "footprint-particles-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_footprint_particles",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_footprint_particles",
+      "version": "1"
+    }
+  ]
+}

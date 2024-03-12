@@ -1,6 +1,18 @@
 {
   "name": "charm-fabric-1.19.2-4.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pOQTcQmj",
+      "versionId": "nGnXDTky"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318872,
+      "fileId": 4000886
+    }
+  ],
   "fabric": [
     {
       "modId": "charm",

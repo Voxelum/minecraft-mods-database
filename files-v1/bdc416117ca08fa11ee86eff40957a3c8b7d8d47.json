@@ -1,6 +1,18 @@
 {
   "name": "theurgy-1.20.1-1.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uOVMgoil",
+      "versionId": "bd4YwTzI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430636,
+      "fileId": 4821075
+    }
+  ],
   "forge": [
     {
       "modId": "theurgy",

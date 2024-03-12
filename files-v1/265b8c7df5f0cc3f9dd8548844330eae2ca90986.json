@@ -1,0 +1,22 @@
+{
+  "name": "spwp-0.1.0+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spwp",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "owo",
+      "version": "0.11.2-pre.14+1.20"
+    },
+    {
+      "modId": "sqlib",
+      "version": "2.1.5"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.9.0"
+    }
+  ]
+}

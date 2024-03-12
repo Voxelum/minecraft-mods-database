@@ -1,0 +1,10 @@
+{
+  "name": "lyra-0.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lyra-addon",
+      "version": "0.6.0"
+    }
+  ]
+}

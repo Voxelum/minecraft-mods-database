@@ -1,0 +1,20 @@
+{
+  "name": "cloth-config-13.0.114-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "YFpDLLdu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloth-config",
+      "version": "13.0.114"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

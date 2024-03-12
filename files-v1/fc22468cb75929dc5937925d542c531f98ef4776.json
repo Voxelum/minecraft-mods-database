@@ -1,0 +1,16 @@
+{
+  "name": "Heroes_Beta_Forge_Fabric_V.1.1.42.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "heroes",
+      "version": "1.1.42"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "heroes",
+      "version": "1.1.42"
+    }
+  ]
+}

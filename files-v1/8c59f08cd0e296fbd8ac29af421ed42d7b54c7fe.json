@@ -1,6 +1,12 @@
 {
   "name": "cloth-config-11.0.98-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "dVpHBgHi"
+    }
+  ],
   "fabric": [
     {
       "modId": "cloth-config",

@@ -1,6 +1,18 @@
 {
   "name": "Tips-Forge-1.18.2-5.0.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AMCbgyVw",
+      "versionId": "NKwMW1O2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 306549,
+      "fileId": 4068904
+    }
+  ],
   "forge": [
     {
       "modId": "tipsmod",

@@ -1,6 +1,12 @@
 {
   "name": "crawl-0.10.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 314579,
+      "fileId": 3621981
+    }
+  ],
   "fabric": [
     {
       "modId": "crawl",

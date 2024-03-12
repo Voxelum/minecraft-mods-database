@@ -1,6 +1,18 @@
 {
   "name": "Female-Gender-Mod-forge-1.20.1-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bcOsQHnC",
+      "versionId": "hPgVwfmO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 481655,
+      "fileId": 4603538
+    }
+  ],
   "forge": [
     {
       "modId": "wildfire_gender",

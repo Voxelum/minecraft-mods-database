@@ -1,6 +1,12 @@
 {
   "name": "firmalife-0.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5bKeBHw2",
+      "versionId": "fZ6g9trN"
+    }
+  ],
   "forge": [
     {
       "modId": "firmalife",

@@ -1,0 +1,26 @@
+{
+  "name": "modernfix-fabric-5.13.0+mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "oJUG6agJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 5077297
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.13.0+mc1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

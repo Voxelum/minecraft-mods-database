@@ -1,0 +1,22 @@
+{
+  "name": "Terralith_v2.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 513688,
+      "fileId": 4001337
+    }
+  ],
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seedfix",
+      "version": "1.0.1"
+    }
+  ]
+}

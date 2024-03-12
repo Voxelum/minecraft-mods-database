@@ -1,6 +1,12 @@
 {
   "name": "biomeinfo.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fws7jX8r",
+      "versionId": "k0i3xWOz"
+    }
+  ],
   "fabric": [
     {
       "modId": "biomeinfo",

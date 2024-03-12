@@ -1,0 +1,16 @@
+{
+  "name": "jumpyboat-4.0-1.19.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "jumpyboat-4.0-1.19",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jumpyboat",
+      "version": "4.0-1.19"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "kubejs-fabric-2001.6.4-build.114.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 4948966
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "2001.6.4-build.114"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

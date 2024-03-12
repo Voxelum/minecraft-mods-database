@@ -1,0 +1,28 @@
+{
+  "name": "Towns-and-Towers-1.12.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DjLobEOy",
+      "versionId": "rEz4FYC2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 626761,
+      "fileId": 5001660
+    }
+  ],
+  "forge": [
+    {
+      "modId": "t_and_t",
+      "version": "1.12.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.12.0"
+    }
+  ]
+}

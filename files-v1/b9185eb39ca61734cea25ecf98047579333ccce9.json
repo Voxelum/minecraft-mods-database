@@ -1,0 +1,14 @@
+{
+  "name": "mcdw-8.1.0-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mcdw",
+      "version": "8.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

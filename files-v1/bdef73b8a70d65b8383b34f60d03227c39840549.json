@@ -1,6 +1,12 @@
 {
   "name": "carryon-forge-1.20.1-2.1.2.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 274259,
+      "fileId": 4729957
+    }
+  ],
   "forge": [
     {
       "modId": "carryon",

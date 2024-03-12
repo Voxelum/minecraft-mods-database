@@ -1,0 +1,32 @@
+{
+  "name": "Screencapper-1.18.2-1.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yzNFLSqx",
+      "versionId": "l7hGItYe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screencapper",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "com_mojang_brigadier",
+      "version": "1.0.18"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "222"
+    },
+    {
+      "modId": "elementa",
+      "version": "531"
+    },
+    {
+      "modId": "vigilance",
+      "version": "240"
+    }
+  ]
+}

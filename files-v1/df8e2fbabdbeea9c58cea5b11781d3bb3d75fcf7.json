@@ -1,6 +1,18 @@
 {
   "name": "wraith-harvestscythes-2.5.4+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TQyaHwzF",
+      "versionId": "bvYYiyj4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412225,
+      "fileId": 4026103
+    }
+  ],
   "fabric": [
     {
       "modId": "harvest_scythes",

@@ -1,0 +1,36 @@
+{
+  "name": "pswg-0.0.109+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9rBI0wQz",
+      "versionId": "kWJLedkg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pswg",
+      "version": "0.0.109+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.98"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.4.7+1.20"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.7.0"
+    }
+  ]
+}

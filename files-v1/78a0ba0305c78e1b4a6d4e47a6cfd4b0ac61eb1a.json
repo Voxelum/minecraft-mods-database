@@ -1,6 +1,12 @@
 {
   "name": "geysermod-1.16.5-1.0.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 386327,
+      "fileId": 3429343
+    }
+  ],
   "forge": [
     {
       "modId": "geysermod",

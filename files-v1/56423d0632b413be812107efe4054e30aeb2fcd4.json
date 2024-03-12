@@ -1,0 +1,24 @@
+{
+  "name": "custom-portals-3.3.0-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "38pHU3u5",
+      "versionId": "gHYPN7hl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customportals",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.3.0"
+    }
+  ]
+}

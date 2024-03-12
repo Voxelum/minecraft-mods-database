@@ -1,0 +1,18 @@
+{
+  "name": "Nitor-0.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nitormod",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "lodestone",
+      "version": "0.0.5+1.20.1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.8.0"
+    }
+  ]
+}

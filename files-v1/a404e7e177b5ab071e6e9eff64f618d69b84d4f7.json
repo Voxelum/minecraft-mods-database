@@ -1,6 +1,12 @@
 {
   "name": "Rrls-1.5.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZP7xHXtw",
+      "versionId": "Dk9Z1oFL"
+    }
+  ],
   "fabric": [
     {
       "modId": "rrls",

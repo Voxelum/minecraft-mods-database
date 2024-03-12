@@ -1,0 +1,68 @@
+{
+  "name": "twilightforest-fabric-1.19.2-4.2.299.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "twilightforest",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "twilightforest",
+      "version": "4.2.299"
+    },
+    {
+      "modId": "fabric-data-generation-api-v1",
+      "version": "5.1.8+a680b9b490"
+    },
+    {
+      "modId": "template",
+      "version": "2.0.547+1.19.2"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.22"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "here-be-no-dragons",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "javax_annotation_javax_annotation-api",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    }
+  ]
+}

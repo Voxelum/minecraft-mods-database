@@ -1,6 +1,18 @@
 {
   "name": "timecontrol-1.20.1-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mksh0eV4",
+      "versionId": "9JM4sJo2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303570,
+      "fileId": 4612856
+    }
+  ],
   "forge": [
     {
       "modId": "timecontrol",

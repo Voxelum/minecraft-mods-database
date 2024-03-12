@@ -1,0 +1,50 @@
+{
+  "name": "spectrum-1.6.12-1.19.2-leisure_time.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spectrum",
+      "version": "1.6.12-1.19.2-leisure_time"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.4.0+1.19.2"
+    },
+    {
+      "modId": "arrowhead",
+      "version": "1.2.0-1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.9.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

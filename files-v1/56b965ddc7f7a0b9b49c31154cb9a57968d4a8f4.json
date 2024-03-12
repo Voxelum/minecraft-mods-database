@@ -1,0 +1,30 @@
+{
+  "name": "bettertrims-2.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "98ytUvlc",
+      "versionId": "UStV1nrO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821752,
+      "fileId": 4874502
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettertrims",
+      "version": "2.0.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

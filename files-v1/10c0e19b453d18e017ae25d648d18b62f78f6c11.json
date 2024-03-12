@@ -1,0 +1,10 @@
+{
+  "name": "Patcher.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ChocoPatcher",
+      "version": "1.1"
+    }
+  ]
+}

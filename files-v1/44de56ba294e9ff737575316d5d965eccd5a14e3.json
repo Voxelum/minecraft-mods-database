@@ -1,0 +1,24 @@
+{
+  "name": "red-bits-1.13.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 403914,
+      "fileId": 3692322
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "redbits",
+      "version": "1.13.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    },
+    {
+      "modId": "interference",
+      "version": "1.3.9"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "improved_windows-v1.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "improved_windows",
+      "version": "${v1.0.1}"
+    }
+  ]
+}

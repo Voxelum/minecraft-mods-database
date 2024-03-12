@@ -1,0 +1,28 @@
+{
+  "name": "armor-stand-editor-1.3.2+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ef9ZREBZ",
+      "versionId": "tGALmMq1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armor-stand-editor",
+      "version": "1.3.2+1.18.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.0.1+1.18.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.9+1.18.2-rc1"
+    }
+  ]
+}

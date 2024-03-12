@@ -1,0 +1,10 @@
+{
+  "name": "child folder mods scaner.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "child-folder-mods-scaner",
+      "version": "1.16.5-1-1"
+    }
+  ]
+}

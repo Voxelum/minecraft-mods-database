@@ -1,0 +1,10 @@
+{
+  "name": "[自动打包]autopackager-1.5.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "autopackager",
+      "version": "1.5.7"
+    }
+  ]
+}

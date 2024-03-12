@@ -1,0 +1,42 @@
+{
+  "name": "[创世神]worldedit-mod-7.2.11.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225608,
+      "fileId": 3907136
+    }
+  ],
+  "forge": [
+    {
+      "modId": "worldedit",
+      "version": "7.2.11+c43a877"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldedit",
+      "version": "7.2.11+c43a877"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a395"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.1.5+0c17ea9695"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.26+9ff28f4095"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.1.0+33fbc73895"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.1+3082331495"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "minihud-fabric-1.19.2-0.23.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244260,
+      "fileId": 3923228
+    }
+  ],
   "fabric": [
     {
       "modId": "minihud",

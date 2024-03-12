@@ -1,0 +1,28 @@
+{
+  "name": "nonametag-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GLspMh4E",
+      "versionId": "dmceujYq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nonametag",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.22+9ff28f4057"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.2+9e7660c657"
+    }
+  ]
+}

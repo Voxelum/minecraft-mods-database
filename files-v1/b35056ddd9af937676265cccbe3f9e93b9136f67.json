@@ -1,0 +1,14 @@
+{
+  "name": "pantheonsent-1.0.0+1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pantheonsent",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "sherdsapi",
+      "version": "4.0.4"
+    }
+  ]
+}

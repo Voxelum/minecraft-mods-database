@@ -1,0 +1,16 @@
+{
+  "name": "persistentinventorysearch-1.20.1-1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.3"
+    }
+  ]
+}

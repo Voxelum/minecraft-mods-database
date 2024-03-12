@@ -1,6 +1,12 @@
 {
   "name": "wanderingcollector-1.2.1+mc1.20-pre5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "enYiOcBu",
+      "versionId": "STgaTh8X"
+    }
+  ],
   "fabric": [
     {
       "modId": "wandering_collector",

@@ -1,6 +1,18 @@
 {
   "name": "oculus-mc1.19.2-1.6.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GchcoXML",
+      "versionId": "Af4brqYV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581495,
+      "fileId": 4578731
+    }
+  ],
   "forge": [
     {
       "modId": "oculus",

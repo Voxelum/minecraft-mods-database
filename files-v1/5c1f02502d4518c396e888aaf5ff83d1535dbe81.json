@@ -1,0 +1,22 @@
+{
+  "name": "extractpoison-1.18.2-3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 344991,
+      "fileId": 4397633
+    }
+  ],
+  "forge": [
+    {
+      "modId": "extractpoison",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extractpoison",
+      "version": "3.1"
+    }
+  ]
+}

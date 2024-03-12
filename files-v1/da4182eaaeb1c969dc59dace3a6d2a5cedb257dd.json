@@ -1,0 +1,26 @@
+{
+  "name": "botarium-fabric-1.19.2-1.9.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u6LRnMa",
+      "versionId": "X9e4hjps"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704113,
+      "fileId": 5050541
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "botarium",
+      "version": "1.9.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

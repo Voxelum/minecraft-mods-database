@@ -1,0 +1,32 @@
+{
+  "name": "archon-0.6.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 575339,
+      "fileId": 5106498
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "archon",
+      "version": "0.6.1"
+    },
+    {
+      "modId": "saflib",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.3.0+1.19.2"
+    }
+  ]
+}

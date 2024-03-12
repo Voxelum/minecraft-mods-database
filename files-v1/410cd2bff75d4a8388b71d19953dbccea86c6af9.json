@@ -1,6 +1,12 @@
 {
   "name": "krypton-0.1.10-SNAPSHOT.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549394,
+      "fileId": 3819215
+    }
+  ],
   "forge": [
     {
       "modId": "krypton",

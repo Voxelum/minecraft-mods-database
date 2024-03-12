@@ -1,9 +1,19 @@
 {
   "name": "ScalableCatsForce-3.3.0-build-2-with-library.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zr0QMQMo",
+      "versionId": "TACX8JQC"
+    }
+  ],
   "forge": [
     {
       "modId": "ScalableCatsForce-3.3.0-build-2-with-library",
+      "version": ""
+    },
+    {
+      "modId": "ScalableCatsForce-3.3.0-build-2-with-library-forge-1.20.1",
       "version": ""
     }
   ]

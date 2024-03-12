@@ -1,6 +1,18 @@
 {
   "name": "tlc_forge-1.0.3-R-1.20.X.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FGlHZl7X",
+      "versionId": "hbZaVz0H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687118,
+      "fileId": 4614797
+    }
+  ],
   "forge": [
     {
       "modId": "tlc",

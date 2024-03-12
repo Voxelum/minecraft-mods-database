@@ -1,6 +1,12 @@
 {
   "name": "vanillaconfig-1.2.7+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vtYpD93u",
+      "versionId": "eaQSZDjj"
+    }
+  ],
   "fabric": [
     {
       "modId": "vanillaconfig",

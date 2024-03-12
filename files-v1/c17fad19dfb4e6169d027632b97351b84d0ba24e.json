@@ -1,0 +1,14 @@
+{
+  "name": "amberadditions-0.4-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "amberadditions",
+      "version": "0.4-1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

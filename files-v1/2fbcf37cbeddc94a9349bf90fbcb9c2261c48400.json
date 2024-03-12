@@ -1,0 +1,26 @@
+{
+  "name": "Debugify-1.20.3+1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QwxR6Gcd",
+      "versionId": "vJOKWGcy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 596224,
+      "fileId": 4930709
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "debugify",
+      "version": "1.20.3+1.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

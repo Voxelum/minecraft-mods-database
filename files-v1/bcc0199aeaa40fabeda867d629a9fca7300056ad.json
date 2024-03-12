@@ -1,6 +1,12 @@
 {
   "name": "modmenu-5.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 4159524
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

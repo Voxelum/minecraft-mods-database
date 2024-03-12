@@ -1,0 +1,14 @@
+{
+  "name": "upgradedechests-1.0.4-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "upgradedechests",
+      "version": "1.0.4-1.19"
+    },
+    {
+      "modId": "shulkerutils",
+      "version": "1.0.4-1.18"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "foamfix-0.6.3-law-1.8.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 278494,
+      "fileId": 2545191
+    }
+  ],
   "forge": [
     {
       "modId": "foamfix",

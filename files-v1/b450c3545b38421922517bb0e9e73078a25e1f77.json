@@ -1,0 +1,14 @@
+{
+  "name": "Fabric-1.19.2-It-s-Thirst-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "itsthirst",
+      "version": "1.0.1-1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

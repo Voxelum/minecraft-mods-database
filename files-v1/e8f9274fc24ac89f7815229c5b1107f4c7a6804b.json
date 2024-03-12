@@ -1,0 +1,10 @@
+{
+  "name": "custom-piglin-bartering-1.2.11+MC1.18.2-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "custom_piglin_bartering",
+      "version": "1.2.11"
+    }
+  ]
+}

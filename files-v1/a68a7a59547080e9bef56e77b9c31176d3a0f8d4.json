@@ -1,0 +1,26 @@
+{
+  "name": "spoornbountymobs-3.0.1-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spoornbountymobs",
+      "version": "3.0.1-1.19.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.3"
+    }
+  ]
+}

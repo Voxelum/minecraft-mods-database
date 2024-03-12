@@ -1,6 +1,12 @@
 {
   "name": "letsdo-meadow-fabric-1.2.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 821483,
+      "fileId": 4641937
+    }
+  ],
   "fabric": [
     {
       "modId": "meadow",

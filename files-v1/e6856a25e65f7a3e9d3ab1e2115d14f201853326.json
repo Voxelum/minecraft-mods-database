@@ -1,6 +1,12 @@
 {
   "name": "nbteditor.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Osk0m1G",
+      "versionId": "8QEsJhbp"
+    }
+  ],
   "fabric": [
     {
       "modId": "nbteditor",

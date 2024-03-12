@@ -1,0 +1,46 @@
+{
+  "name": "fastback-0.16.2+1.20.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fastback",
+      "version": "0.16.2+1.20.2-fabric"
+    },
+    {
+      "modId": "net_i2p_crypto_eddsa",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.1.0+1.20.2-rc2"
+    },
+    {
+      "modId": "org_apache_sshd_sshd-core",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "com_googlecode_javaewah_javaewah",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit_ssh_apache",
+      "version": "6.7.0.202309050840-r"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "packet_tweaker",
+      "version": "0.5.0+1.20.2-rc1"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.7.0.202309050840-r"
+    },
+    {
+      "modId": "org_apache_sshd_sshd-common",
+      "version": "2.10.0"
+    }
+  ]
+}

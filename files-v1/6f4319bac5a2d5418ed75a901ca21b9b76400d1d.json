@@ -1,6 +1,12 @@
 {
   "name": "cloth-config-9.1.104-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "8AMPotFw"
+    }
+  ],
   "forge": [
     {
       "modId": "cloth_config",

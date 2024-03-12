@@ -1,6 +1,18 @@
 {
   "name": "environmental-1.16.5-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OqtiAZcV",
+      "versionId": "wIxuVU9q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388992,
+      "fileId": 3561534
+    }
+  ],
   "forge": [
     {
       "modId": "environmental",

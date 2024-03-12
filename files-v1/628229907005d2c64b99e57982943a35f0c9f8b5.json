@@ -1,0 +1,14 @@
+{
+  "name": "rocks-1.5.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rocks",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.3.1"
+    }
+  ]
+}

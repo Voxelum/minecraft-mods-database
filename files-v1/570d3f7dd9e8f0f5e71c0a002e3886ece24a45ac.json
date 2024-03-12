@@ -1,0 +1,10 @@
+{
+  "name": "ThreeCore-1.16.5-3.2.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "threecore",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

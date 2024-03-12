@@ -1,6 +1,18 @@
 {
   "name": "twigs-forge-1.19.2-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RG50cUrX",
+      "versionId": "3vp46egv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 496913,
+      "fileId": 4533061
+    }
+  ],
   "forge": [
     {
       "modId": "twigs",

@@ -1,6 +1,12 @@
 {
   "name": "cadmus-fabric-1.20.1-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fEWKxVzh",
+      "versionId": "57nr7uAi"
+    }
+  ],
   "fabric": [
     {
       "modId": "cadmus",

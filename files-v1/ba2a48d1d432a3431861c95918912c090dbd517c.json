@@ -1,0 +1,26 @@
+{
+  "name": "DynamicSoundFilters-1.4.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JV2wFevs",
+      "versionId": "Y0y20qzb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 392101,
+      "fileId": 4956473
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamicsoundfilters",
+      "version": "1.4.0+1.20.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.1144185"
+    }
+  ]
+}

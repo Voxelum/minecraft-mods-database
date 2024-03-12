@@ -1,0 +1,16 @@
+{
+  "name": "Fastload-Reforged-1.1.1+1.19.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fastload",
+      "version": "1.1.1+1.19"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastload",
+      "version": "${version}"
+    }
+  ]
+}

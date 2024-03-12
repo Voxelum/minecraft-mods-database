@@ -1,0 +1,24 @@
+{
+  "name": "onsoulfire-1.18-1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394667,
+      "fileId": 3541865
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "onsoulfire",
+      "version": "1.18-1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.0"
+    }
+  ]
+}

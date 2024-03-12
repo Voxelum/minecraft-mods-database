@@ -1,6 +1,18 @@
 {
   "name": "quartz-elevator-2.2.5+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O9C0qdu8",
+      "versionId": "LMM8v3v2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442509,
+      "fileId": 4594937
+    }
+  ],
   "fabric": [
     {
       "modId": "quartzelv",

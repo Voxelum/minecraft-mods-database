@@ -1,0 +1,14 @@
+{
+  "name": "FABRICironfurnaces_1.16.52_fabric_2.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ironfurnaces",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.1"
+    }
+  ]
+}

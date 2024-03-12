@@ -1,0 +1,14 @@
+{
+  "name": "explosive-enhancement-1.0.1-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "explosiveenhancement",
+      "version": "1.0.1-1.19.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.1.0"
+    }
+  ]
+}

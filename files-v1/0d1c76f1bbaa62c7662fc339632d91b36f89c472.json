@@ -1,6 +1,18 @@
 {
   "name": "LibreExpFix-0.1-ALPHA.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qOQALrK4",
+      "versionId": "aP90jTOh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676174,
+      "fileId": 3987340
+    }
+  ],
   "fabric": [
     {
       "modId": "libreexpfix",

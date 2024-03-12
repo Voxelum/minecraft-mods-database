@@ -1,0 +1,28 @@
+{
+  "name": "[物品物理掉落] ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aT8BzaOj",
+      "versionId": "r83lVhj6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 258587,
+      "fileId": 4914117
+    }
+  ],
+  "forge": [
+    {
+      "modId": "itemphysic",
+      "version": "1.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

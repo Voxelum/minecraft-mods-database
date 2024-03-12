@@ -1,0 +1,10 @@
+{
+  "name": "CameraJavaPort.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "camera_port",
+      "version": "1.0"
+    }
+  ]
+}

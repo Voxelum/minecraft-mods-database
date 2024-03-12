@@ -1,6 +1,12 @@
 {
   "name": "ctov-byg-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d3JOyUGH",
+      "versionId": "at6H8vZ8"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_ctov_bygcompat",

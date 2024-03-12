@@ -1,6 +1,12 @@
 {
   "name": "tooltipfix-1.1.1-1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2RKFTmiB",
+      "versionId": "bc5v3KkT"
+    }
+  ],
   "fabric": [
     {
       "modId": "tooltipfix",

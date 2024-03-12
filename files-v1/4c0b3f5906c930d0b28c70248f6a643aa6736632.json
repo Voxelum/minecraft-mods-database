@@ -1,0 +1,24 @@
+{
+  "name": "durabilityviewer-1.19.1-fabric0.58.5-1.10.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LTM1f0yY",
+      "versionId": "CYhU3d5T"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "durabilityviewer",
+      "version": "1.19.1-fabric0.58.5-1.10.3"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.19"
+    }
+  ]
+}

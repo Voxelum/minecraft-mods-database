@@ -1,6 +1,12 @@
 {
   "name": "sodium-extra-0.4.27+mc1.20.1-build.110.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtjYWJkn",
+      "versionId": "UwpTYr4K"
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium-extra",

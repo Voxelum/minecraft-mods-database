@@ -1,0 +1,26 @@
+{
+  "name": "appliedenergistics2-10.1.0-beta.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223794,
+      "fileId": 3646160
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ae2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ae2",
+      "version": "10.1.0-beta.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

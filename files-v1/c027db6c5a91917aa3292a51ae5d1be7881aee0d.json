@@ -1,0 +1,22 @@
+{
+  "name": "TesseractAPI-1.16.5-0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 462718,
+      "fileId": 3672084
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tesseractapi",
+      "version": "1.16.5-0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tesseractapi",
+      "version": "${version}"
+    }
+  ]
+}

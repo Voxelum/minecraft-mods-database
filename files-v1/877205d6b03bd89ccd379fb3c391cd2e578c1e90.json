@@ -1,0 +1,14 @@
+{
+  "name": "kubejs-fabric-1902.6.1-build.370.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "1902.6.1-build.370"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ToLaserBlade-ExtraModels-0.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tlbexmodels",
+      "version": "0.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tlbexmodels",
+      "version": "0.0.3"
+    }
+  ]
+}

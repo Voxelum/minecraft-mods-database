@@ -1,0 +1,14 @@
+{
+  "name": "fmn-tree-chopper-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-tree-chopper",
+      "version": "0.8.10"
+    },
+    {
+      "modId": "fiber2cloth",
+      "version": "4.0.0"
+    }
+  ]
+}

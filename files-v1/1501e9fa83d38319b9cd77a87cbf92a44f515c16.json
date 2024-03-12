@@ -1,0 +1,16 @@
+{
+  "name": "rhino-1605.1.0-build.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "1605.1.0-build.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "1.7.13-build.23"
+    }
+  ]
+}

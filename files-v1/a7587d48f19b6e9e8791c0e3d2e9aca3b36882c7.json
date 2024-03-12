@@ -1,6 +1,18 @@
 {
   "name": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TmYVaklx",
+      "versionId": "4ZISyGrt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 222211,
+      "fileId": 2302312
+    }
+  ],
   "forge": [
     {
       "modId": "NotEnoughItems",

@@ -1,0 +1,14 @@
+{
+  "name": "qcraft-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "qcraft",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.3.1+1.18"
+    }
+  ]
+}

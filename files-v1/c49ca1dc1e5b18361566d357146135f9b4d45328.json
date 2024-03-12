@@ -1,6 +1,18 @@
 {
   "name": "DripSounds-1.18-0.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XOhqdyTf",
+      "versionId": "U6cFBqKR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390986,
+      "fileId": 3555718
+    }
+  ],
   "forge": [
     {
       "modId": "waterdripsound",

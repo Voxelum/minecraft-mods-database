@@ -1,0 +1,10 @@
+{
+  "name": "FDPClient-build.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fdpclient",
+      "version": "5.1.0"
+    }
+  ]
+}

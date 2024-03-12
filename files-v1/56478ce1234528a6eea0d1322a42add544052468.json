@@ -1,0 +1,10 @@
+{
+  "name": "mcr-v2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mrc",
+      "version": "1.0.0"
+    }
+  ]
+}

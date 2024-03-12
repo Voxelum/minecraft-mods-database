@@ -1,6 +1,18 @@
 {
   "name": "here-be-no-dragons-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WXDvMkR5",
+      "versionId": "Fi3C0IO5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 429291,
+      "fileId": 3147277
+    }
+  ],
   "fabric": [
     {
       "modId": "here-be-no-dragons",

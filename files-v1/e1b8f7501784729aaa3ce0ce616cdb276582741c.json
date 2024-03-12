@@ -1,0 +1,10 @@
+{
+  "name": "secretroomsmod-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "secretroomsmod",
+      "version": "4.7.1"
+    }
+  ]
+}

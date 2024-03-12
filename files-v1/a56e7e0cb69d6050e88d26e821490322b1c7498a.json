@@ -1,6 +1,12 @@
 {
   "name": "mythicupgrades-mc1.20.1-2.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 663567,
+      "fileId": 4739319
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicupgrades",

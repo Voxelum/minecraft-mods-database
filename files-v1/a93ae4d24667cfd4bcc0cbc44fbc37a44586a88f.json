@@ -1,0 +1,20 @@
+{
+  "name": "ftb-quests-fabric-1902.5.6-build.304.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 438496,
+      "fileId": 4779002
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbquests",
+      "version": "1902.5.6-build.304"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

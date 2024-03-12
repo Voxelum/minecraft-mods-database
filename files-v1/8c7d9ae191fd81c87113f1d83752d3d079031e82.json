@@ -1,0 +1,22 @@
+{
+  "name": "artis-recrafted-3.0.0+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "artis",
+      "version": "3.0.0+1.19.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.4.0+1.19"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.9.4"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "diet-fabric-2.1.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diet",
+      "version": "2.1.0+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.13+1.20.1"
+    }
+  ]
+}

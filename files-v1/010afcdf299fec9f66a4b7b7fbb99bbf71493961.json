@@ -1,0 +1,14 @@
+{
+  "name": "Blanket Client tweaks-1.0.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blanket-client-tweaks",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

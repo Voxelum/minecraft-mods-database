@@ -1,0 +1,30 @@
+{
+  "name": "PuzzlesLib-v3.5.8-1.18.2-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 495476,
+      "fileId": 4707478
+    }
+  ],
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "3.5.8"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.2.0"
+    }
+  ]
+}

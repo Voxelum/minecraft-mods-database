@@ -1,0 +1,30 @@
+{
+  "name": "hybrid-aquatic-1.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HH4FjUqN",
+      "versionId": "D5Nfrv9Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 834427,
+      "fileId": 5087508
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hybrid-aquatic",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

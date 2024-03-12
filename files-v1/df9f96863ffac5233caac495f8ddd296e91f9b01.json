@@ -1,0 +1,24 @@
+{
+  "name": "calibrated-1.2.1-hotfix.1+1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 823331,
+      "fileId": 4651241
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "calibrated",
+      "version": "1.2.1-hotfix.1+1.19.4"
+    },
+    {
+      "modId": "datacriteria",
+      "version": "1.0.1+1.19.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "structure-tools-1.0.10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 536984,
+      "fileId": 3600965
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "buildinggadgets",
+      "version": "1.0.10"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "4.0.0"
+    }
+  ]
+}

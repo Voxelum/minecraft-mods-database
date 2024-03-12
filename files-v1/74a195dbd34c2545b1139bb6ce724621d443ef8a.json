@@ -1,0 +1,28 @@
+{
+  "name": "trofers-1.19.2-3.1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "trofers",
+      "version": "1.19.2-3.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trofers",
+      "version": "1.19.2-3.1.1"
+    },
+    {
+      "modId": "fabric-data-generation-api-v1",
+      "version": "5.2.0+b598f4ac90"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.766+1.19.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.1.4"
+    }
+  ]
+}

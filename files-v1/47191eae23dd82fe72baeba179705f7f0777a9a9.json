@@ -1,0 +1,16 @@
+{
+  "name": "Steam_Rails-1.2.6+fabric-mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "railways",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.2.6+fabric-mc1.19.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "framevoidpatch-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rJAbxpMf",
+      "versionId": "oxPkcf4K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 709188,
+      "fileId": 4102778
+    }
+  ],
   "forge": [
     {
       "modId": "framevoidpatch",

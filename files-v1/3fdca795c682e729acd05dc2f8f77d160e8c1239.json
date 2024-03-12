@@ -1,0 +1,20 @@
+{
+  "name": "UniversalEnchants-v3.0.6-1.18.2-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 596515,
+      "fileId": 3728461
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "universalenchants",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "3.0.0"
+    }
+  ]
+}

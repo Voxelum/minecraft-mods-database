@@ -1,0 +1,28 @@
+{
+  "name": "Basket-Fabric 1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YfceStYb",
+      "versionId": "XhYA9K5i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 922456,
+      "fileId": 4824254
+    }
+  ],
+  "forge": [
+    {
+      "modId": "baskets",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "baskets",
+      "version": "1.0.0"
+    }
+  ]
+}

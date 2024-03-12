@@ -1,0 +1,20 @@
+{
+  "name": "memoryleakfix-fabric-pre1.17-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627566,
+      "fileId": 4465269
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "memoryleakfix",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

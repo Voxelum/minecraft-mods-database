@@ -1,0 +1,14 @@
+{
+  "name": "restart-server-1.2.0+mc1.19.x-1.20.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "restart-server",
+      "version": "1.2.0+mc1.19.x-1.20.x"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

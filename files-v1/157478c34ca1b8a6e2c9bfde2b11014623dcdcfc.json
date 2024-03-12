@@ -1,0 +1,24 @@
+{
+  "name": "BetterMineshafts-Fabric-1.16.4-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 373591,
+      "fileId": 3227926
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettermineshafts",
+      "version": "1.16.4-1.0.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.2"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "starterkit-1.20.4-5.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "5.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "5.3"
+    }
+  ]
+}

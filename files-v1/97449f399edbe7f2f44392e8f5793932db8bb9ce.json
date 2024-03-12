@@ -1,0 +1,14 @@
+{
+  "name": "DynamicSoundFilters-1.3.0-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamicsoundfilters",
+      "version": "1.3.0+1.19.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.0.93"
+    }
+  ]
+}

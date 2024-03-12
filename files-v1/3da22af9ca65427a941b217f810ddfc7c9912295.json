@@ -1,0 +1,24 @@
+{
+  "name": "byg-1.1.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391378,
+      "fileId": 3309656
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "byg",
+      "version": "1.1.8"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.15"
+    },
+    {
+      "modId": "tk_valoeghese_zoesteriaconfig",
+      "version": "1.3.6"
+    }
+  ]
+}

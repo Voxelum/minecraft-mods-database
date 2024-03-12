@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-factory-7.99.24.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 231309,
+      "fileId": 2702036
+    }
+  ],
   "forge": [
     {
       "modId": "buildcraftfactory",

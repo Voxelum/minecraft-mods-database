@@ -1,0 +1,16 @@
+{
+  "name": "Insane+tnt+1.20.1+version+1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "insanetnt",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "insanetnt",
+      "version": "1.0.1"
+    }
+  ]
+}

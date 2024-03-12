@@ -1,6 +1,18 @@
 {
   "name": "CorgiLib-fabric-1.20.1-4.0.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ziOp6EO8",
+      "versionId": "V022nKIb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693313,
+      "fileId": 4681372
+    }
+  ],
   "fabric": [
     {
       "modId": "corgilib",

@@ -1,0 +1,14 @@
+{
+  "name": "bubustein-money-mod-0.6.1+1.20.4+fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bubusteinmoneymod",
+      "version": "0.6.1+1.20.4+fabric"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.20.1-01"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "framework-fabric-1.19.2-0.6.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "framework",
+      "version": "0.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.2-GA"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

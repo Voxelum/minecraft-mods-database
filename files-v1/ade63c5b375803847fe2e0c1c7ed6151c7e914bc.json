@@ -1,0 +1,16 @@
+{
+  "name": "conduitspreventdrowned-1.19.2-3.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "conduitspreventdrowned",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conduitspreventdrowned",
+      "version": "3.6"
+    }
+  ]
+}

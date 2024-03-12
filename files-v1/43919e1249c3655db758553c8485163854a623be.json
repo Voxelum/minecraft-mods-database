@@ -1,6 +1,18 @@
 {
   "name": "dungeons_plus-1.19.2-1.3.1.jar.deactivation",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5fNJnSba",
+      "versionId": "eShjmutg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377794,
+      "fileId": 4489759
+    }
+  ],
   "forge": [
     {
       "modId": "dungeons_plus",

@@ -1,6 +1,18 @@
 {
   "name": "PigPen-Fabric-1.20.1-15.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2xZPITh8",
+      "versionId": "lhfkHQku"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396234,
+      "fileId": 4714774
+    }
+  ],
   "fabric": [
     {
       "modId": "pigpen",

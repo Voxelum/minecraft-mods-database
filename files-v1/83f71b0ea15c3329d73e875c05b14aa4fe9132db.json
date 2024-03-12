@@ -1,0 +1,28 @@
+{
+  "name": "frostiful-0.5.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 715248,
+      "fileId": 4807472
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frostiful",
+      "version": "0.5.7"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

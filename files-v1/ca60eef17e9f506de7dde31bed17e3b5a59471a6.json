@@ -1,0 +1,16 @@
+{
+  "name": "connectivity-fabric-1.19-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "connectivity",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "connectivity",
+      "version": "1.19-3.3"
+    }
+  ]
+}

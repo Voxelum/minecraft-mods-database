@@ -1,0 +1,14 @@
+{
+  "name": "netherchest-mc1.18-3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "netherchest",
+      "version": "3.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

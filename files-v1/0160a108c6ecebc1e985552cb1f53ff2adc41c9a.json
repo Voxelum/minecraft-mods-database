@@ -1,0 +1,10 @@
+{
+  "name": "replayMod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "replaymod",
+      "version": "2.5.1"
+    }
+  ]
+}

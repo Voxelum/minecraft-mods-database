@@ -1,0 +1,16 @@
+{
+  "name": "netherportalspread-1.20.4-8.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "netherportalspread",
+      "version": "8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherportalspread",
+      "version": "8.0"
+    }
+  ]
+}

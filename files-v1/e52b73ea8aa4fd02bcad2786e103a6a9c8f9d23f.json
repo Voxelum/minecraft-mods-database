@@ -1,0 +1,14 @@
+{
+  "name": "Не подтвержден 301491.crdownload",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "coordinatesdisplay",
+      "version": "7.0.0"
+    },
+    {
+      "modId": "boxlib",
+      "version": "9.2.0"
+    }
+  ]
+}

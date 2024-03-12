@@ -1,0 +1,10 @@
+{
+  "name": "colorfulhealthbar-0.0.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "colorfulhealthbar",
+      "version": "@VERSION@"
+    }
+  ]
+}

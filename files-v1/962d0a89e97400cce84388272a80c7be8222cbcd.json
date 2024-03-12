@@ -1,0 +1,14 @@
+{
+  "name": "touhouorigins-1.20.1-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "touhouorigins",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "apugli",
+      "version": "2.6.5+1.20.1-fabric"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Truly-Modular-Arsenal-1.3-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V4LaId7f",
+      "versionId": "aalVkBL7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "arsenal",
+      "version": "1.3"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "4.4.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "rpggods-19.2.2.jar.deactivation",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 601680,
+      "fileId": 4018407
+    }
+  ],
   "forge": [
     {
       "modId": "rpggods",

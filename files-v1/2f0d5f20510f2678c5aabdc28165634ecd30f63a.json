@@ -1,6 +1,12 @@
 {
   "name": "stacker-3.0.2-1.19.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 515415,
+      "fileId": 3918819
+    }
+  ],
   "fabric": [
     {
       "modId": "stacker",

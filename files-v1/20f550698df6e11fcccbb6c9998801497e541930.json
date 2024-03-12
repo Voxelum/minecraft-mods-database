@@ -1,6 +1,18 @@
 {
   "name": "backslot-1.2.11.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1H9ZkJwF",
+      "versionId": "oGKu1FXR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 402739,
+      "fileId": 4178153
+    }
+  ],
   "fabric": [
     {
       "modId": "backslot",

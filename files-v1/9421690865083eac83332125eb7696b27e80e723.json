@@ -1,6 +1,18 @@
 {
   "name": "dawn-5.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "meZK2DCX",
+      "versionId": "J6b05anw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399309,
+      "fileId": 4605278
+    }
+  ],
   "fabric": [
     {
       "modId": "dawn",

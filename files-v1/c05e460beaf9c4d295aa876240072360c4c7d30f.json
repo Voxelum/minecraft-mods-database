@@ -1,6 +1,12 @@
 {
   "name": "FastWorkbench-1.18.2-6.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 288885,
+      "fileId": 4030000
+    }
+  ],
   "forge": [
     {
       "modId": "fastbench",

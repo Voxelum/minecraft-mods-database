@@ -1,6 +1,12 @@
 {
   "name": "wmitaf-fabric-mc1.19-3.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mk6pNnsq",
+      "versionId": "cgSuov1n"
+    }
+  ],
   "fabric": [
     {
       "modId": "wmitaf",

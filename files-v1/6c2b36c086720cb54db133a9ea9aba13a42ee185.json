@@ -1,0 +1,14 @@
+{
+  "name": "tooltiptweaks-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tooltiptweaks",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.69"
+    }
+  ]
+}

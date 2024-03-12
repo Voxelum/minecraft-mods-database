@@ -1,0 +1,22 @@
+{
+  "name": "hexcasting-fabric-1.18.2-0.9.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hexcasting",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.1.0+1.18.095e8a6"
+    }
+  ]
+}

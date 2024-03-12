@@ -1,0 +1,22 @@
+{
+  "name": "[Universal]CTOV-v3-1-2-overriding.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 4028354
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "3.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "3.1.2"
+    }
+  ]
+}

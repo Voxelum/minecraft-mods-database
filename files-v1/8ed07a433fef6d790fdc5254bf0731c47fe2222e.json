@@ -1,6 +1,12 @@
 {
   "name": "API-midnightlib-forge-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "codAaoxh",
+      "versionId": "r9djZ2iR"
+    }
+  ],
   "forge": [
     {
       "modId": "midnightlib",

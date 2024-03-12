@@ -1,0 +1,16 @@
+{
+  "name": "chlorine-1.16.5-0.0.1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chlorine",
+      "version": "0.0.1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "${version}"
+    }
+  ]
+}

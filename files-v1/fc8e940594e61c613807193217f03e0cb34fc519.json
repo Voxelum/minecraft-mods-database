@@ -1,0 +1,10 @@
+{
+  "name": "vulcanite-1.5.3-mc1.12.x.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vulcanite",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

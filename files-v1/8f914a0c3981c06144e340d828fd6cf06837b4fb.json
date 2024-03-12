@@ -1,0 +1,10 @@
+{
+  "name": "BetterQuestingUnofficial-4.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterquesting",
+      "version": "@VERSION@"
+    }
+  ]
+}

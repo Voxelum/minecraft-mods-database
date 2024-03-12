@@ -1,0 +1,28 @@
+{
+  "name": "rootsclassic-1.20-1.2.1-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rootsclassic",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rootsclassic",
+      "version": "1.2.1-fabric"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.1087+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    }
+  ]
+}

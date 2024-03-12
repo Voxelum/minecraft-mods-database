@@ -1,0 +1,18 @@
+{
+  "name": "ilmusuenchantments-1.4.1+fabric_1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "musuen",
+      "version": "1.4.1+fabric_1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

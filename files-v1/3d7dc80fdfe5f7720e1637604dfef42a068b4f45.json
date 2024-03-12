@@ -1,0 +1,38 @@
+{
+  "name": "DeftuLib-1.18.2-1.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "deftulib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.9.3"
+    },
+    {
+      "modId": "com_squareup_okio_okio",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "242"
+    },
+    {
+      "modId": "elementa",
+      "version": "554"
+    },
+    {
+      "modId": "xyz_deftu_enhancedeventbus",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "xyz_deftu_deftils_deftils",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "2.9.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "bbs-1.20.1-0.1.3-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BSD4Ohjo",
+      "versionId": "hErmuAoB"
+    }
+  ],
   "forge": [
     {
       "modId": "bbs",

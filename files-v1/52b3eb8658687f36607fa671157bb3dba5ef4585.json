@@ -1,0 +1,16 @@
+{
+  "name": "hidehands-1.20.4-4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hidehands",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hidehands",
+      "version": "4.2"
+    }
+  ]
+}

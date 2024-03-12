@@ -1,0 +1,20 @@
+{
+  "name": "mobbossbars-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ck652JvZ",
+      "versionId": "fkL7mRA2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mobbossbars",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.1.0"
+    }
+  ]
+}

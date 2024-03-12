@@ -1,6 +1,12 @@
 {
   "name": "screenshot_viewer-1.2.1-fabric-mc1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "laNoi025",
+      "versionId": "jYEgmG9X"
+    }
+  ],
   "fabric": [
     {
       "modId": "screenshot_viewer",

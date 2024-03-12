@@ -1,0 +1,24 @@
+{
+  "name": "cem-0.7.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YOQCucah",
+      "versionId": "xlUWeQ8T"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cem",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.3.1"
+    }
+  ]
+}

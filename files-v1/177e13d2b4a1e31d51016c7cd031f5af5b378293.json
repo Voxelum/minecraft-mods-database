@@ -1,0 +1,20 @@
+{
+  "name": "cyti-1.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 564152,
+      "fileId": 3598312
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cyti",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

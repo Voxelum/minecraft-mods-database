@@ -1,6 +1,18 @@
 {
   "name": "heracles-forge-1.20.1-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lo90fZoB",
+      "versionId": "I9MyuVK3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845831,
+      "fileId": 4744364
+    }
+  ],
   "forge": [
     {
       "modId": "heracles",

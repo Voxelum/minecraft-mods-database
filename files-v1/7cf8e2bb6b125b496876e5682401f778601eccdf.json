@@ -1,0 +1,16 @@
+{
+  "name": "1.19.2forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fnaf_plushie_mod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fnaf_plushie_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

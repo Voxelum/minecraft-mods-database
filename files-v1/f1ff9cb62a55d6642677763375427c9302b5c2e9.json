@@ -1,6 +1,18 @@
 {
   "name": "totw_additions-1.1.0-1.18.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kzdWjLDh",
+      "versionId": "VCifCEik"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560091,
+      "fileId": 3579695
+    }
+  ],
   "fabric": [
     {
       "modId": "totw_additions",

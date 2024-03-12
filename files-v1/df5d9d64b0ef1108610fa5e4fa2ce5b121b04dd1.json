@@ -1,6 +1,12 @@
 {
   "name": "chesttracker-1.20.1-1.1.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ni4SrKmq",
+      "versionId": "XkahVDvE"
+    }
+  ],
   "fabric": [
     {
       "modId": "chesttracker",

@@ -1,0 +1,20 @@
+{
+  "name": "mostructures-1.2.0-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 378266,
+      "fileId": 3355499
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mostructures",
+      "version": "1.2.0-1.16.5"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

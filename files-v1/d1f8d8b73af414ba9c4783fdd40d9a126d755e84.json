@@ -1,0 +1,22 @@
+{
+  "name": "NotEnoughUpdates-2.1.1-Pre-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GGamhqbw",
+      "versionId": "LhKEtVl2"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "notenoughupdateserrordisplay",
+      "version": "2.1.1+Pre-4.f197b51"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughupdates",
+      "version": "2.1.1+Pre-4.f197b51"
+    }
+  ]
+}

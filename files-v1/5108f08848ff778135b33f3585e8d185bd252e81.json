@@ -1,0 +1,10 @@
+{
+  "name": "wandering_trapper-1.16.53-0.1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wandering_trapper",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

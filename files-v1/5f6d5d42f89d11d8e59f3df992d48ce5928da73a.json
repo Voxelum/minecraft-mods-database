@@ -1,6 +1,18 @@
 {
   "name": "Fastload-Reforged-mc1.19.2-3.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kCpssoSb",
+      "versionId": "nHeyxX0A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630620,
+      "fileId": 4706142
+    }
+  ],
   "forge": [
     {
       "modId": "fastload",

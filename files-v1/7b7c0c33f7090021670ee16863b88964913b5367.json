@@ -1,6 +1,18 @@
 {
   "name": "Trinkets-Mod-Fabric-Quilt-1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5aaWibi9",
+      "versionId": "tJ23Vcff"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341284,
+      "fileId": 4762647
+    }
+  ],
   "fabric": [
     {
       "modId": "trinkets",

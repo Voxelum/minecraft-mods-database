@@ -1,0 +1,10 @@
+{
+  "name": "server-hats-0.16.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "server-hats",
+      "version": "0.16"
+    }
+  ]
+}

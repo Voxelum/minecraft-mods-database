@@ -1,6 +1,18 @@
 {
   "name": "repurposed_structures_forge-3.4.4+1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QDNS5oAT",
+      "versionId": "rN4bpHcd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368293,
+      "fileId": 3527137
+    }
+  ],
   "forge": [
     {
       "modId": "repurposed_structures",

@@ -1,0 +1,28 @@
+{
+  "name": "bewitchmentplus-1.19-11.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 582588,
+      "fileId": 4554027
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bwplus",
+      "version": "1.19-11"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.6.0"
+    }
+  ]
+}

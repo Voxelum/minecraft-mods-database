@@ -1,0 +1,10 @@
+{
+  "name": "crater_lib (for simple_discord_rpc).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "craterlib",
+      "version": "1.0.1"
+    }
+  ]
+}

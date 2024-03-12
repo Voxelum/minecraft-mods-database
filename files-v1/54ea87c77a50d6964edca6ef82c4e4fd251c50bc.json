@@ -1,6 +1,12 @@
 {
   "name": "exordium-fabric-1.0.3-mc1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DynYZEae",
+      "versionId": "MaOM64pW"
+    }
+  ],
   "fabric": [
     {
       "modId": "exordium",

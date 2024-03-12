@@ -1,0 +1,24 @@
+{
+  "name": "mythicmetals-0.10.2-fix2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "MmFPRQET"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "enchant_giver",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "owo",
+      "version": "0.3.1"
+    }
+  ]
+}

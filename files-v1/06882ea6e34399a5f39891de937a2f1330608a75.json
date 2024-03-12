@@ -1,0 +1,34 @@
+{
+  "name": "wizards-1.0.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NkGaQMDA",
+      "versionId": "TN07TW2k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 734325,
+      "fileId": 5031488
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wizards",
+      "version": "1.0.5+1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "structure_pool_api",
+      "version": "1.0+1.20.1"
+    }
+  ]
+}

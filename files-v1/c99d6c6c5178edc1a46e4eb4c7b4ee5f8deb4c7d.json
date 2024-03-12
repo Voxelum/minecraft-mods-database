@@ -1,6 +1,18 @@
 {
   "name": "Tips-Fabric-1.19.2-8.0.27.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AMCbgyVw",
+      "versionId": "ut9B4vVP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 306549,
+      "fileId": 4277193
+    }
+  ],
   "fabric": [
     {
       "modId": "tipsmod",

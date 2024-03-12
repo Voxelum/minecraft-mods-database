@@ -1,6 +1,12 @@
 {
   "name": "Custom-Mob-Spawner-Mod-1.7.10.zip",
-  "domain": "mods",
+  "domain": "resourcepacks",
+  "curseforge": [
+    {
+      "projectId": 229261,
+      "fileId": 2232970
+    }
+  ],
   "forge": [
     {
       "modId": "CustomSpawner",

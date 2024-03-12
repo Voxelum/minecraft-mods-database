@@ -1,0 +1,10 @@
+{
+  "name": "Windows Keyboard Fixes-fabric-1.17-to-atleast-1.20-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "win_kb_fix",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "species-1.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s5d4P01r",
+      "versionId": "9ZfJNolt"
+    }
+  ],
   "fabric": [
     {
       "modId": "species",

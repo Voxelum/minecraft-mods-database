@@ -1,0 +1,18 @@
+{
+  "name": "immersive-portals-0.36(forMc1.15withFabric).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "0.36"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "2.14.1"
+    },
+    {
+      "modId": "modmenu",
+      "version": "1.10.2+build.32"
+    }
+  ]
+}

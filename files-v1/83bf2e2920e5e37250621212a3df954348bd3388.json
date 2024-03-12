@@ -1,0 +1,34 @@
+{
+  "name": "banhammer-0.9.1+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "banhammer",
+      "version": "0.9.1+1.20.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.44.1.0"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "8.2.0"
+    },
+    {
+      "modId": "org_postgresql_postgresql",
+      "version": "42.7.0"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.3.0+1.20.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    }
+  ]
+}

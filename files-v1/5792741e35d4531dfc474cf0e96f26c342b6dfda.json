@@ -1,0 +1,16 @@
+{
+  "name": "Fertilizer 1.19 Forge v.1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "better_bone_meal",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better_bone_meal",
+      "version": "1.0.0"
+    }
+  ]
+}

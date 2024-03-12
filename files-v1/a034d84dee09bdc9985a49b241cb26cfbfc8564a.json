@@ -1,6 +1,18 @@
 {
   "name": "appliedcooking-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BmMjyidG",
+      "versionId": "VwTKP4ii"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689579,
+      "fileId": 4708347
+    }
+  ],
   "forge": [
     {
       "modId": "appliedcooking",

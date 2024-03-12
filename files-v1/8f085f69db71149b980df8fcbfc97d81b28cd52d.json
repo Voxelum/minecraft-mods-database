@@ -1,6 +1,18 @@
 {
   "name": "createaddition-1.18.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kU1G12Nn",
+      "versionId": "XNoZrlnx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 439890,
+      "fileId": 4683727
+    }
+  ],
   "forge": [
     {
       "modId": "createaddition",

@@ -1,0 +1,22 @@
+{
+  "name": "nightvision-mod-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fLFueTjP",
+      "versionId": "hCflm5zW"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nightvision",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nightvision",
+      "version": "1.0.5"
+    }
+  ]
+}

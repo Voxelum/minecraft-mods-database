@@ -1,0 +1,16 @@
+{
+  "name": "cardinalboats_1.19_1.2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cardinalboats",
+      "version": "1.2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinalboats",
+      "version": "1.2.3"
+    }
+  ]
+}

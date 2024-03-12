@@ -1,6 +1,18 @@
 {
   "name": "[内存优化] memoryleakfix-forge-1.17+-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRjRiSSD",
+      "versionId": "lTJY9iYT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627566,
+      "fileId": 4465268
+    }
+  ],
   "forge": [
     {
       "modId": "memoryleakfix",

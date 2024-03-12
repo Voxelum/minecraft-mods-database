@@ -1,0 +1,16 @@
+{
+  "name": "peripheralworks-0.2.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "peripheralworks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peripheralworks",
+      "version": "0.2.10"
+    }
+  ]
+}

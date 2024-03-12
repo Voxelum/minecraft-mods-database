@@ -1,6 +1,12 @@
 {
   "name": "plasmovoice-fabric-1.19.1-1.2.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "3UIMooYI"
+    }
+  ],
   "fabric": [
     {
       "modId": "plasmo_voice",

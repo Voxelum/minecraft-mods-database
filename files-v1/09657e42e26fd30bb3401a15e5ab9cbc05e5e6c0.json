@@ -1,6 +1,18 @@
 {
   "name": "indium-1.0.2-alpha3+mc1.18.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Orvt0mRa",
+      "versionId": "Rxzic9a0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459496,
+      "fileId": 3667666
+    }
+  ],
   "fabric": [
     {
       "modId": "indium",

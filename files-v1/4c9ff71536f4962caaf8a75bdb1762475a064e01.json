@@ -1,6 +1,18 @@
 {
   "name": "konkrete_forge_1.6.1_MC_1.18-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J81TRJWm",
+      "versionId": "drdxtCrM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410295,
+      "fileId": 4514906
+    }
+  ],
   "forge": [
     {
       "modId": "konkrete",

@@ -1,0 +1,22 @@
+{
+  "name": "BetterAnvil-1.2.3+1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betteranvil",
+      "version": "1.2.3+1.19.4"
+    },
+    {
+      "modId": "com_github_mifmif_generex",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "dk_brics_automaton_automaton",
+      "version": "1.11-8"
+    },
+    {
+      "modId": "libgui",
+      "version": "7.0.0-rc.1+1.19.4"
+    }
+  ]
+}

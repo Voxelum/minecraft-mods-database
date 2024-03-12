@@ -1,0 +1,22 @@
+{
+  "name": "apotheosis-0.2.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "apotheosis",
+      "version": "0.2.6"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "1.1.0-beta+1.18.2-dev.5b3ee72"
+    }
+  ]
+}

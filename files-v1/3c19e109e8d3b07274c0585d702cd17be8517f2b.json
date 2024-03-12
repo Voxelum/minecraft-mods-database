@@ -1,0 +1,48 @@
+{
+  "name": "cesium-fabric+1.20.4-0.1.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2fspKUWt",
+      "versionId": "Vl4sGn0W"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cesium",
+      "version": "0.1.7"
+    },
+    {
+      "modId": "com_github_luben_zstd-jni",
+      "version": "1.5.5-11"
+    },
+    {
+      "modId": "org_lmdbjava_lmdbjava",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "com_github_jnr_jffi",
+      "version": "1.3.12"
+    },
+    {
+      "modId": "com_github_jnr_jffi_native",
+      "version": "1.3.12"
+    },
+    {
+      "modId": "com_github_jnr_jnr-a64asm",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_jnr_jnr-constants",
+      "version": "0.10.4"
+    },
+    {
+      "modId": "com_github_jnr_jnr-ffi",
+      "version": "2.2.15"
+    },
+    {
+      "modId": "com_github_jnr_jnr-x86asm",
+      "version": "1.0.2"
+    }
+  ]
+}

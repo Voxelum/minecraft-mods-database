@@ -1,6 +1,12 @@
 {
   "name": "lootbeams-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WfqS5LUm",
+      "versionId": "ud9Tn5wm"
+    }
+  ],
   "fabric": [
     {
       "modId": "lootbeams",

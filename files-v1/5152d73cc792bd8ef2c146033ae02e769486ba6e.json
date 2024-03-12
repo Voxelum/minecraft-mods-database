@@ -1,0 +1,10 @@
+{
+  "name": "Wurst-Client-v7.39.1-MC1.20.2-sources-dev.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wurst",
+      "version": "${version}"
+    }
+  ]
+}

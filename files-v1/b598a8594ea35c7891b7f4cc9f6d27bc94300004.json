@@ -1,6 +1,18 @@
 {
   "name": "slabsandstairs-1.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WWL04tjR",
+      "versionId": "iFkhp4ST"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645496,
+      "fileId": 4714821
+    }
+  ],
   "fabric": [
     {
       "modId": "slabsandstairs",

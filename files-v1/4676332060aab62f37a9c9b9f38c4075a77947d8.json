@@ -1,0 +1,16 @@
+{
+  "name": "infinite_origins_animals_v1.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "infinite_origins_animals_v1_5",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "infinite_origins_animals_v1_5",
+      "version": "1.0.0"
+    }
+  ]
+}

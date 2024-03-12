@@ -1,0 +1,30 @@
+{
+  "name": "blur-3.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "zzelzVhK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393563,
+      "fileId": 4968756
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.15.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

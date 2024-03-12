@@ -1,6 +1,12 @@
 {
   "name": "kubejs-mekanism-1605.1.2-build.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 418651,
+      "fileId": 3446472
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs_mekanism",

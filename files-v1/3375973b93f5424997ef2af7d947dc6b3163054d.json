@@ -1,6 +1,12 @@
 {
   "name": "graphutil-fabric-1.0.0-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cpBmCs66",
+      "versionId": "zmHteWGB"
+    }
+  ],
   "fabric": [
     {
       "modId": "graphutil",

@@ -1,0 +1,38 @@
+{
+  "name": "plasmovoice-fabric-1.19.2-2.0.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "CSntyyPo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 5028632
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.0.8"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    },
+    {
+      "modId": "com_google_inject_guice",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    }
+  ]
+}

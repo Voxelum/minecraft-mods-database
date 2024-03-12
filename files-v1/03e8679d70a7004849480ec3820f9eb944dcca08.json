@@ -1,0 +1,10 @@
+{
+  "name": "RefinedRelocation-mc1.10.2-2.1.27.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "refinedrelocation",
+      "version": "@VERSION@"
+    }
+  ]
+}

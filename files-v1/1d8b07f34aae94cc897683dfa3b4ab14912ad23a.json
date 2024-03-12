@@ -1,0 +1,42 @@
+{
+  "name": "【Xaero 小地图扩展】xaero-map-addition-0.2.75+f01c92f-dev.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "xaero_map_addition",
+      "version": "0.2.75+f01c92f-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_15_2",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_16_5",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_17_1",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_18_2",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_19_2",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_19_3",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_19_4",
+      "version": "0.2.74+4879973-dev"
+    },
+    {
+      "modId": "xaero_map_addition-1_20",
+      "version": "0.2.74+4879973-dev"
+    }
+  ]
+}

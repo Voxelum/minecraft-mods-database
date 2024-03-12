@@ -1,6 +1,12 @@
 {
   "name": "fast-chest-1.2+1.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 436038,
+      "fileId": 3222361
+    }
+  ],
   "fabric": [
     {
       "modId": "fastchest",

@@ -1,0 +1,66 @@
+{
+  "name": "webstreamer-1.2.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "webstreamer",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "io_lindstrom_m3u8-parser",
+      "version": "0.22"
+    },
+    {
+      "modId": "org_bytedeco_javacv",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_javacpp",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_javacpp_linux-arm64",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_javacpp_linux-x86_64",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_javacpp_macosx-arm64",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_javacpp_macosx-x86_64",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_javacpp_windows-x86_64",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_ffmpeg",
+      "version": "5.0-1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_ffmpeg_linux-arm64",
+      "version": "5.0-1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_ffmpeg_linux-x86_64",
+      "version": "5.0-1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_ffmpeg_macosx-arm64",
+      "version": "5.0-1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_ffmpeg_macosx-x86_64",
+      "version": "5.0-1.5.7"
+    },
+    {
+      "modId": "org_bytedeco_ffmpeg_windows-x86_64",
+      "version": "5.0-1.5.7"
+    }
+  ]
+}

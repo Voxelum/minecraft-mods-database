@@ -1,0 +1,10 @@
+{
+  "name": "pamhc2crops-1.16.3-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pamhc2crops",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "rubidium-0.6.2a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZqxOvjD",
+      "versionId": "Hlexif59"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574856,
+      "fileId": 4448157
+    }
+  ],
   "forge": [
     {
       "modId": "rubidium",

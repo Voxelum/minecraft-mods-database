@@ -1,0 +1,16 @@
+{
+  "name": "fire_extinguisher-fabric-1.20.1-6.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fire_extinguisher",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fire_extinguisher",
+      "version": "6.3.0"
+    }
+  ]
+}

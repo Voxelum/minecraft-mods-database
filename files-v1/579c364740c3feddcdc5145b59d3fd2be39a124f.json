@@ -1,0 +1,14 @@
+{
+  "name": "flan-1.19.2-1.8.4.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "flan",
+      "version": "1.19.2-1.8.4.1"
+    },
+    {
+      "modId": "rtree-3i-lite-fabric",
+      "version": "0.3.0"
+    }
+  ]
+}

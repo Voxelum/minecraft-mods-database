@@ -1,0 +1,20 @@
+{
+  "name": "wraith-alloy-forgery-2.0.19+1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhl28YkY",
+      "versionId": "5M7CC5jy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "alloy_forgery",
+      "version": "2.0.19+1.19.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "ServerBrowser-1.19.2-FORGE-1.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 825617,
+      "fileId": 4776185
+    }
+  ],
   "forge": [
     {
       "modId": "serverbrowser",

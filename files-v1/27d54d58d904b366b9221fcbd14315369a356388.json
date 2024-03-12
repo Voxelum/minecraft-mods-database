@@ -1,0 +1,20 @@
+{
+  "name": "linkart-5.4.1-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc4Mu9Zu",
+      "versionId": "TkPflWpl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "linkart",
+      "version": "5.4.1-1.20.2"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "3.0.0-1.19.2"
+    }
+  ]
+}

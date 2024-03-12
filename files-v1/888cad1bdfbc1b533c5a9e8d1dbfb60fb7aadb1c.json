@@ -1,0 +1,22 @@
+{
+  "name": "【小女仆汉化Limit小火柴】umu_little_maid-3.11a.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "umu_little_maid",
+      "version": "3.11a"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    }
+  ]
+}

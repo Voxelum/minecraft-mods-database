@@ -1,0 +1,38 @@
+{
+  "name": "EasyMagic-v3.3.0-1.18.2-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547471,
+      "fileId": 3671351
+    }
+  ],
+  "forge": [
+    {
+      "modId": "easymagic",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easymagic",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

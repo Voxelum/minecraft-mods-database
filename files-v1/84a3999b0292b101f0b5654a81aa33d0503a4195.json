@@ -1,0 +1,36 @@
+{
+  "name": "wired-redstone-0.4.19+1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 639871,
+      "fileId": 4619825
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wiredredstone",
+      "version": "0.4.19+1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "libmultipart_deps_container",
+      "version": "0.8.2"
+    },
+    {
+      "modId": "graphlib",
+      "version": "0.3.6+1.19.2"
+    },
+    {
+      "modId": "lmp-compat",
+      "version": "0.2.3+1.19.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TopkaAutoBuy_1.16.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "examplemod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

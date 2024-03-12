@@ -1,0 +1,22 @@
+{
+  "name": "NoFog-1.3.4_1.20.1-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 296468,
+      "fileId": 4601446
+    }
+  ],
+  "forge": [
+    {
+      "modId": "no_fog",
+      "version": "1.3.4+1.20.1-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_fog",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

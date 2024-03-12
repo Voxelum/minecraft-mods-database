@@ -1,0 +1,16 @@
+{
+  "name": "no-potion-offset-1.0.2 эфекты не сдвигают инвент.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "no-potion-offset",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no-potion-offset",
+      "version": "${version}"
+    }
+  ]
+}

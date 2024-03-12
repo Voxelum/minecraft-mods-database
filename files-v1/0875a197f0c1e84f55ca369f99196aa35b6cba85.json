@@ -1,0 +1,30 @@
+{
+  "name": "UnionLib-1.18.1-6.2.0-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 367806,
+      "fileId": 3695759
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unionlib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unionlib",
+      "version": "1.18.1-6.2.0-Fabric"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    }
+  ]
+}

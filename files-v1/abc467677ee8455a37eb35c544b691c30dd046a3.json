@@ -1,0 +1,22 @@
+{
+  "name": "tru.e-ending-v1.1.0b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MCnBYP0b",
+      "versionId": "ICaor2G2"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_limesplatus_ending",
+      "version": "1-v1.1.0a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_true_ending",
+      "version": "1-v1.1.0a"
+    }
+  ]
+}

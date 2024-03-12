@@ -1,6 +1,18 @@
 {
   "name": "YungsExtras-1.20-Fabric-4.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZYgyPyfq",
+      "versionId": "pfVTUz1L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 590993,
+      "fileId": 4769515
+    }
+  ],
   "fabric": [
     {
       "modId": "yungsextras",

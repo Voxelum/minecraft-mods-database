@@ -1,6 +1,12 @@
 {
   "name": "loose-litematica-0.1.0+build20230909.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "300p0LQz",
+      "versionId": "PnfmSKna"
+    }
+  ],
   "fabric": [
     {
       "modId": "loose-litematica",

@@ -1,0 +1,16 @@
+{
+  "name": "randomvillagenames-1.19.4-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "randomvillagenames",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randomvillagenames",
+      "version": "3.2"
+    }
+  ]
+}

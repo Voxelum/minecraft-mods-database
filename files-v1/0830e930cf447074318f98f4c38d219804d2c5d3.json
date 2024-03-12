@@ -1,0 +1,20 @@
+{
+  "name": "weeping-angels-fabric-1.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 449238,
+      "fileId": 3272251
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weeping_angels",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "oro_config",
+      "version": "1.2.0"
+    }
+  ]
+}

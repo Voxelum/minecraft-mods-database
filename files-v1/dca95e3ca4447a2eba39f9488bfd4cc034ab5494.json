@@ -1,6 +1,18 @@
 {
   "name": "exlinefurniture-forge-1.20.1-2.7.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CQ7pGNKT",
+      "versionId": "YxDo2BlX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504919,
+      "fileId": 4717723
+    }
+  ],
   "forge": [
     {
       "modId": "exlinefurniture",

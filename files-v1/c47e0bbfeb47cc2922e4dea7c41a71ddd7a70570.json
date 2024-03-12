@@ -1,6 +1,18 @@
 {
   "name": "BotanyPots-1.16.5-7.1.41.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U6BUTZ7K",
+      "versionId": "A2kF6L1y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353928,
+      "fileId": 4514691
+    }
+  ],
   "forge": [
     {
       "modId": "botanypots",

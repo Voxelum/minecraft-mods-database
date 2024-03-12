@@ -1,0 +1,24 @@
+{
+  "name": "dynamictrim-1.4.0-fabric+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 901658,
+      "fileId": 5022996
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamictrim",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

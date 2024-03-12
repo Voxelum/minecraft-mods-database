@@ -1,6 +1,18 @@
 {
   "name": "OuterEnd-0.2.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X8s97ySO",
+      "versionId": "oUS1BNVk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430404,
+      "fileId": 3404058
+    }
+  ],
   "forge": [
     {
       "modId": "outer_end",

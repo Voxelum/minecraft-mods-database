@@ -1,6 +1,12 @@
 {
   "name": "parry-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 293702,
+      "fileId": 3871696
+    }
+  ],
   "forge": [
     {
       "modId": "parry",

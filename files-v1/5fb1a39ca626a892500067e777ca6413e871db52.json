@@ -1,0 +1,20 @@
+{
+  "name": "chat_heads-0.10.25-fabric-1.20.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 407206,
+      "fileId": 4879792
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chat_heads",
+      "version": "0.10.25"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Craftify-1.20.1-1.13.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "craftify",
+      "version": "1.13.0"
+    },
+    {
+      "modId": "elementa",
+      "version": "590"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "277"
+    },
+    {
+      "modId": "vigilance",
+      "version": "284"
+    }
+  ]
+}

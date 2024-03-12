@@ -1,0 +1,14 @@
+{
+  "name": "Big Globe-3.12.0-MC1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bigglobe",
+      "version": "3.12.0"
+    },
+    {
+      "modId": "builderb0y_autocodec",
+      "version": "4.11.0"
+    }
+  ]
+}

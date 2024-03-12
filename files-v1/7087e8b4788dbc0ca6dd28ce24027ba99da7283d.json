@@ -1,0 +1,30 @@
+{
+  "name": "DeathFinder-v8.0.1-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wNxIBREV",
+      "versionId": "mqkYUele"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 327108,
+      "fileId": 4697788
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathfinder",
+      "version": "8.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "optigui-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JuksLGBQ",
+      "versionId": "KWUgM1Pm"
+    }
+  ],
   "fabric": [
     {
       "modId": "optigui",

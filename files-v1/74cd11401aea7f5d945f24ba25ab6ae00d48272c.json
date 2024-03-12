@@ -1,0 +1,20 @@
+{
+  "name": "Croptopia-1.17.1-FABRIC-1.7.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 415438,
+      "fileId": 3534385
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "croptopia",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "confabricate",
+      "version": "2.2.0-SNAPSHOT+4.1.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "sfcr-1.7.5-mc1.18.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sfcr",
+      "version": "1.7.5-mc1.18.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sfcr",
+      "version": "1.7.5-mc1.18.2"
+    }
+  ]
+}

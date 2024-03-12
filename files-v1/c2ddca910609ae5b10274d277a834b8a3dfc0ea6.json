@@ -1,0 +1,26 @@
+{
+  "name": "konkrete_fabric_1.8.0_MC_1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J81TRJWm",
+      "versionId": "ukp6rFnW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416797,
+      "fileId": 5028401
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "konkrete",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

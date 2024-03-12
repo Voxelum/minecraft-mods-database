@@ -1,0 +1,18 @@
+{
+  "name": "[C-地毯端AMS扩展]Carpet-AMS-Addition-mc1.20.1-v2.9.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "carpet-ams-addition",
+      "version": "2.9.2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

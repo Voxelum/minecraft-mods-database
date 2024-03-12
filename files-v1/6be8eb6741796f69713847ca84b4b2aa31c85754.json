@@ -1,0 +1,16 @@
+{
+  "name": "you-thief!-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_you_thief",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_you_thief",
+      "version": "3.2"
+    }
+  ]
+}

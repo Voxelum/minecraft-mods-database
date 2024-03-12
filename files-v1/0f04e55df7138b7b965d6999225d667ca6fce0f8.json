@@ -1,0 +1,18 @@
+{
+  "name": "golemancy-1.2.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "golemancy",
+      "version": "1.2.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "lios_overhauled_villages-1.18.2-1.20.4-v0.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "piqpXT8s",
+      "versionId": "W4XLInlR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 950005,
+      "fileId": 5076241
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lios_overhauled_villages",
+      "version": "0.0.3-1.18.2-1.20.4-Universal"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lios_overhauled_villages",
+      "version": "1.18.2-1.20.4-v0.0.3"
+    }
+  ]
+}

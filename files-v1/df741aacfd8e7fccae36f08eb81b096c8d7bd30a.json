@@ -1,0 +1,20 @@
+{
+  "name": "Exotelcraft-Fabric&Quilt-1.20.4-5.1.2-RELEASE.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b858VmqC",
+      "versionId": "lvnzdncu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exotelcraft",
+      "version": "5.1.2-RELEASE"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65-1.20.4"
+    }
+  ]
+}

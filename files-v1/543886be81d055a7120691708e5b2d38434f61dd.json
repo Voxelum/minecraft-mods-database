@@ -1,0 +1,40 @@
+{
+  "name": "oh-my-minecraft-client-0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oQgSAEhD",
+      "versionId": "dO81Jt1M"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ommc",
+      "version": "0.5"
+    },
+    {
+      "modId": "ommc-1_14_4",
+      "version": "0.5"
+    },
+    {
+      "modId": "ommc-1_15_2",
+      "version": "0.5"
+    },
+    {
+      "modId": "ommc-1_16_5",
+      "version": "0.5"
+    },
+    {
+      "modId": "ommc-1_17_1",
+      "version": "0.5"
+    },
+    {
+      "modId": "ommc-1_18_2",
+      "version": "0.5"
+    },
+    {
+      "modId": "ommc-1_19",
+      "version": "0.5"
+    }
+  ]
+}

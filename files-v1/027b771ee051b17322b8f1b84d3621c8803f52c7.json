@@ -1,6 +1,18 @@
 {
   "name": "farsighted-mobs-forge-1.1-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eEpWUjwq",
+      "versionId": "gCOowkr0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506624,
+      "fileId": 3984897
+    }
+  ],
   "forge": [
     {
       "modId": "farsightedmobs",

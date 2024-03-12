@@ -1,0 +1,20 @@
+{
+  "name": "goblin-traders-1.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534373,
+      "fileId": 3543200
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "goblintraders",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "thonkutil",
+      "version": "1.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "icarus-1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dw7M6XKW",
+      "versionId": "Z2pJmMe0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 428151,
+      "fileId": 4586587
+    }
+  ],
   "fabric": [
     {
       "modId": "icarus",

@@ -1,0 +1,16 @@
+{
+  "name": "StoneDontDiscriminate-1.20.1-FORGE-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sdd",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sdd",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "better-end-potato-edition-1.16.5-2.11.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 825357,
+      "fileId": 4971661
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterendforge",
+      "version": "${file.jarVersion}}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "thermal_integration-1.18.2-9.2.0.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ro7yiyD4",
+      "versionId": "ql1RhGvN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 626708,
+      "fileId": 4382885
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_integration",

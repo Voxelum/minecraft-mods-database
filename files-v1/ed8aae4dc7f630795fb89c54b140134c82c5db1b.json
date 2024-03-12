@@ -1,0 +1,42 @@
+{
+  "name": "Modern-Industrialization-1.6.18.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gov5Dboq",
+      "versionId": "1jgLuy1O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405388,
+      "fileId": 4962847
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modern_industrialization",
+      "version": "1.6.18"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.19.2-77-FABRIC"
+    },
+    {
+      "modId": "magna",
+      "version": "1.8.0-1.19"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.19"
+    }
+  ]
+}

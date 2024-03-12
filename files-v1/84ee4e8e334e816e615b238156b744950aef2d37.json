@@ -1,0 +1,16 @@
+{
+  "name": "dyeable-color-variants-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dyeable_colorvariants_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dyeable_colorvariants_mr",
+      "version": "1.0"
+    }
+  ]
+}

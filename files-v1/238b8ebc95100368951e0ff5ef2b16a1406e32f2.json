@@ -1,0 +1,28 @@
+{
+  "name": "no-telemetry-1.8.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hg77g4Pw",
+      "versionId": "tmHWmt1u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 530816,
+      "fileId": 4955753
+    }
+  ],
+  "forge": [
+    {
+      "modId": "no_telemetry",
+      "version": "1.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no-telemetry",
+      "version": "1.8.0"
+    }
+  ]
+}

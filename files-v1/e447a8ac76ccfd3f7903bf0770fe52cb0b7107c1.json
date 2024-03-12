@@ -1,0 +1,22 @@
+{
+  "name": "gravity-changer-1.3.0+mc1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gravity_changer_q",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.4.0"
+    }
+  ]
+}

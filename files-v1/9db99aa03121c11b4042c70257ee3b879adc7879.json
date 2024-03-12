@@ -1,0 +1,16 @@
+{
+  "name": "Ksyxis-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ksyxis",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ksyxis",
+      "version": "1.2.0"
+    }
+  ]
+}

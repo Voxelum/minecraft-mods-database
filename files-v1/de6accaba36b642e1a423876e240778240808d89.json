@@ -1,0 +1,20 @@
+{
+  "name": "The_Graveyard_1.1(FABRIC)_for_1.16.4-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 514468,
+      "fileId": 3516480
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "graveyard",
+      "version": "1.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

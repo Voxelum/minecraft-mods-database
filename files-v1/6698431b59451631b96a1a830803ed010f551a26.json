@@ -1,0 +1,14 @@
+{
+  "name": "meteor-rejects-addon-0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteor-rejects",
+      "version": "0.2"
+    },
+    {
+      "modId": "com_github_19misterx98_seedcrackerx_seedcrackerx-api",
+      "version": "master-SNAPSHOT"
+    }
+  ]
+}

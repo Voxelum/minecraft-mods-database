@@ -1,0 +1,28 @@
+{
+  "name": "healingcampfire-1.20.2-5.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kOuPUitF",
+      "versionId": "xIJKkSTJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342623,
+      "fileId": 4964771
+    }
+  ],
+  "forge": [
+    {
+      "modId": "healingcampfire",
+      "version": "5.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healingcampfire",
+      "version": "5.3"
+    }
+  ]
+}

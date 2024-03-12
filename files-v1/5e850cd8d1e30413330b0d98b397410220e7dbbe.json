@@ -1,0 +1,18 @@
+{
+  "name": "blockmeter_1.16.3_fabric0.20.2_1.5.4_beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blockmeter",
+      "version": "1.16.3-fabric0.20.2-1.5.4-beta"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    }
+  ]
+}

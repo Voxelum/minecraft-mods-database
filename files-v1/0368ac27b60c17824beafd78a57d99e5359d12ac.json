@@ -1,0 +1,26 @@
+{
+  "name": "create_enchantment_industry-1.2.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AEZO385x",
+      "versionId": "OyvrO5ih"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_enchantment_industry-1.2.13",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_enchantment_industry",
+      "version": "1.2.13"
+    },
+    {
+      "modId": "create_dragon_lib",
+      "version": "1.4.1"
+    }
+  ]
+}

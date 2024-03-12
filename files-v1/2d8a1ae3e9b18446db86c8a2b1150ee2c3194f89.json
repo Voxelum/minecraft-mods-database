@@ -1,0 +1,20 @@
+{
+  "name": "ArmorStatues-v8.0.3-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bbGCtEvb",
+      "versionId": "kexyNnBb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armorstatues",
+      "version": "8.0.3"
+    },
+    {
+      "modId": "puzzlesapi",
+      "version": "8.1.2"
+    }
+  ]
+}

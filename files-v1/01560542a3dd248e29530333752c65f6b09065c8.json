@@ -1,0 +1,14 @@
+{
+  "name": "Armorful-2.0.1+WWA_COMPAT.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorful",
+      "version": "2.0.1+WWA_COMPAT"
+    },
+    {
+      "modId": "static-content",
+      "version": "1.0.1-1.16.2"
+    }
+  ]
+}

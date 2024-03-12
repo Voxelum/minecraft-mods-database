@@ -1,6 +1,12 @@
 {
   "name": "naturalist-forge-1.1.1-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627986,
+      "fileId": 3930806
+    }
+  ],
   "forge": [
     {
       "modId": "naturalist",

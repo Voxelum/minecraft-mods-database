@@ -1,0 +1,20 @@
+{
+  "name": "audio_engine_tweaks-1.2.5-MC1.20.2 build 1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DZ81JNQ1",
+      "versionId": "AAGRLTe3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "audio_engine_tweaks",
+      "version": "1.2.5-MC1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

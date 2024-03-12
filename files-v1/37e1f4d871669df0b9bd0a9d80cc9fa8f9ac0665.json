@@ -1,6 +1,18 @@
 {
   "name": "AdvancementPlaques-1.12.2-1.4.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9NM0dXub",
+      "versionId": "3uNMYsgw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499826,
+      "fileId": 4528933
+    }
+  ],
   "forge": [
     {
       "modId": "advancementplaques",

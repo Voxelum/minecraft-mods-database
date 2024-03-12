@@ -1,0 +1,22 @@
+{
+  "name": "disable-ad-astra-oil-wells-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EuuIRUEF",
+      "versionId": "2HVdajc5"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_disable_adastraoilwells",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_disable_adastraoilwells",
+      "version": "1.0"
+    }
+  ]
+}

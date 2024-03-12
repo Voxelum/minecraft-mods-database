@@ -1,0 +1,20 @@
+{
+  "name": "malilib-fabric-1.14.4-0.10.0-dev.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 303119,
+      "fileId": 2744842
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.10.0-dev.20"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.1.1+7495ea2842"
+    }
+  ]
+}

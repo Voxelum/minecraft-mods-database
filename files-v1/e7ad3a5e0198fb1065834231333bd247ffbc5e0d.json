@@ -1,0 +1,26 @@
+{
+  "name": "createunlimited-0.5.1+mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jyG2CDff",
+      "versionId": "clcNjhzu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createunlimited",
+      "version": "0.5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createunlimited",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

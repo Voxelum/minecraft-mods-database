@@ -1,0 +1,20 @@
+{
+  "name": "[fabric-1.20]AllAnimeMusic-Client-2.6.12.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EOZTh8ff",
+      "versionId": "V6gcZorf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "allmusic_client",
+      "version": "2.6.10"
+    },
+    {
+      "modId": "org_gagravarr_vorbis-java-core",
+      "version": "0.8"
+    }
+  ]
+}

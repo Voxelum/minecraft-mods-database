@@ -1,6 +1,18 @@
 {
   "name": "rottencreatures-forge-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Zusp48B",
+      "versionId": "UZw1GeSC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 371033,
+      "fileId": 4063268
+    }
+  ],
   "forge": [
     {
       "modId": "rottencreatures",

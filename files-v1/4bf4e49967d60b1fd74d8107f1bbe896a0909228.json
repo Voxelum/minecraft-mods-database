@@ -1,6 +1,18 @@
 {
   "name": "SimpleCore-API-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mA7yWMPS",
+      "versionId": "bgjYJFZ1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 226136,
+      "fileId": 2629840
+    }
+  ],
   "forge": [
     {
       "modId": "simplecore",

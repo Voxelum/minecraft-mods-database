@@ -1,0 +1,20 @@
+{
+  "name": "grounded_origins-fabric-1.18.2-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 568199,
+      "fileId": 3853797
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grounded_origins",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "apugli",
+      "version": "1.6.2"
+    }
+  ]
+}

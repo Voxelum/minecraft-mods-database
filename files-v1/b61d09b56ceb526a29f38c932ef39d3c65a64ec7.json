@@ -1,0 +1,16 @@
+{
+  "name": "huskspawn-1.19.3-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "huskspawn",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "huskspawn",
+      "version": "3.3"
+    }
+  ]
+}

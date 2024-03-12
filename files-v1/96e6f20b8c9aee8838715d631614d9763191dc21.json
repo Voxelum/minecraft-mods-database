@@ -1,0 +1,26 @@
+{
+  "name": "create_enchantment_industry-beta-0.1.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AEZO385x",
+      "versionId": "4jrTQQ0v"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_enchantment_industry-beta-0.1.9",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_enchantment_industry",
+      "version": "beta-0.1.9"
+    },
+    {
+      "modId": "create_dragon_lib",
+      "version": "1.0.1"
+    }
+  ]
+}

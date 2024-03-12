@@ -1,0 +1,10 @@
+{
+  "name": "FTB_Quest_Lang_Gen.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ftbconv",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

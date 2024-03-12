@@ -1,0 +1,14 @@
+{
+  "name": "entity_texture_features_fabric_1.19.2-4.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entity_texture_features",
+      "version": "4.4.0"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.10"
+    }
+  ]
+}

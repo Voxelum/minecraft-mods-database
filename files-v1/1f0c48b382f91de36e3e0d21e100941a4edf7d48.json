@@ -1,0 +1,16 @@
+{
+  "name": "additionalpaintings_v110_FORGE_1_20_x.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rw_additionalpaintings",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rw_additionalpaintings",
+      "version": "1.1.0"
+    }
+  ]
+}

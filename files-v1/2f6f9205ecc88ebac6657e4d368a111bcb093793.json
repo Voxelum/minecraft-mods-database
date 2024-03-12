@@ -1,0 +1,24 @@
+{
+  "name": "Blaze-1.20.2-3d3c16b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xakOmmYI",
+      "versionId": "yngdfgIO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blaze-client",
+      "version": "3d3c16b"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    }
+  ]
+}

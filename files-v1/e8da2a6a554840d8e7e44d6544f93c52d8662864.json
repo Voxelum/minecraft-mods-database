@@ -1,0 +1,22 @@
+{
+  "name": "ChunkLoaders.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 402924,
+      "fileId": 4850872
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8+a"
+    }
+  ]
+}

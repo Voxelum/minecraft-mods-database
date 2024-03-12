@@ -1,6 +1,18 @@
 {
   "name": "runes-fabric-0.9.6+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lP9Yrr1E",
+      "versionId": "nrfgbVmW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 775518,
+      "fileId": 4426242
+    }
+  ],
   "fabric": [
     {
       "modId": "runes",

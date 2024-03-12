@@ -1,6 +1,18 @@
 {
   "name": "additionallanterns-1.0.4-forge-mc1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jXNvTKds",
+      "versionId": "GajELDah"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 501590,
+      "fileId": 4404212
+    }
+  ],
   "forge": [
     {
       "modId": "additionallanterns",

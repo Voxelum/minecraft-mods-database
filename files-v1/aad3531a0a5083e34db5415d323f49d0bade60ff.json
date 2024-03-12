@@ -1,0 +1,16 @@
+{
+  "name": "BetterFurnaces-1.20.1-1.0.3-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterfurnacesreforged",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterfurnacesreforged",
+      "version": "1.0.3"
+    }
+  ]
+}

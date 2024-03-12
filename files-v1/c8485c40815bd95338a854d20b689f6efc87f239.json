@@ -1,6 +1,18 @@
 {
   "name": "ResourcefulBees-1.16.5-0.10.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jcJ8MbSV",
+      "versionId": "7xs8qXnz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 384508,
+      "fileId": 3793389
+    }
+  ],
   "forge": [
     {
       "modId": "resourcefulbees",

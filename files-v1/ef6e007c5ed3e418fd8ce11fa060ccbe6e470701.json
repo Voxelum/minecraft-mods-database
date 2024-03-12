@@ -1,6 +1,18 @@
 {
   "name": "simplyswords-fabric-1.47.0-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bK3Ubu9p",
+      "versionId": "AY99tna8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659887,
+      "fileId": 4553235
+    }
+  ],
   "fabric": [
     {
       "modId": "simplyswords",

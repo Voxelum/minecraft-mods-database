@@ -1,6 +1,12 @@
 {
   "name": "create-renewable-ores-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dYMXOl0s",
+      "versionId": "yyGfx9wl"
+    }
+  ],
   "forge": [
     {
       "modId": "create_renewableores_mr",

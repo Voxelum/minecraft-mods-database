@@ -1,6 +1,18 @@
 {
   "name": "enhancedblockentities-0.4--1.16.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OVuFYfre",
+      "versionId": "HHqDCd5p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 452046,
+      "fileId": 3378154
+    }
+  ],
   "fabric": [
     {
       "modId": "enhancedblockentities",

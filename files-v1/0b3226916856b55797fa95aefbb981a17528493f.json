@@ -1,0 +1,24 @@
+{
+  "name": "fancymenu_fabric_3.1.2_MC_1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wq5SjeWM",
+      "versionId": "w1igT0Hz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fancymenu",
+      "version": "3.1.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_keksuccino_japng",
+      "version": "0.5.3"
+    }
+  ]
+}

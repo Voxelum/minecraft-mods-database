@@ -1,6 +1,18 @@
 {
   "name": "promenade-4.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GuE5FpvB",
+      "versionId": "A5YD9uS3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399648,
+      "fileId": 4794732
+    }
+  ],
   "fabric": [
     {
       "modId": "promenade",

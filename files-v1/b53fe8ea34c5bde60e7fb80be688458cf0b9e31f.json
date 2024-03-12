@@ -1,0 +1,14 @@
+{
+  "name": "stimber-1.4.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stimber",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "timber",
+      "version": "1.4.0"
+    }
+  ]
+}

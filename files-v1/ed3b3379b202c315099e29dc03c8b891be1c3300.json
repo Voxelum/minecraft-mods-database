@@ -1,0 +1,14 @@
+{
+  "name": "Liroth_R_1.3.5.8_1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "liroth",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta54-1.19"
+    }
+  ]
+}

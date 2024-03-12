@@ -1,6 +1,18 @@
 {
   "name": "smoothboot-fabric-1.16.5-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWumhS4T",
+      "versionId": "nPGcelzS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 415758,
+      "fileId": 3248104
+    }
+  ],
   "fabric": [
     {
       "modId": "smoothboot",

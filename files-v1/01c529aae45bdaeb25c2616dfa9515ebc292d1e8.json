@@ -1,6 +1,18 @@
 {
   "name": "SkyVillages-1.0.2.1-1.19.x-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mb68eIfx",
+      "versionId": "4pWaGbf7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 545483,
+      "fileId": 3865820
+    }
+  ],
   "fabric": [
     {
       "modId": "skyvillages",

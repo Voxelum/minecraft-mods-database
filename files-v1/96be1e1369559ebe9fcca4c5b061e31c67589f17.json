@@ -1,6 +1,18 @@
 {
   "name": "chickensshed-1.19.x-1.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cRJuLZ2D",
+      "versionId": "vB1cwvK9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282684,
+      "fileId": 4325636
+    }
+  ],
   "forge": [
     {
       "modId": "chickensshed",

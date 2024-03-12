@@ -1,0 +1,16 @@
+{
+  "name": "moveboats-1.19.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "moveboats",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moveboats",
+      "version": "3.2"
+    }
+  ]
+}

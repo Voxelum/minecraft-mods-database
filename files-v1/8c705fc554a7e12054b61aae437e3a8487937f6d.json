@@ -1,6 +1,18 @@
 {
   "name": "medieval_paintings-1.19.2-7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mfHP09ru",
+      "versionId": "58v7zcz9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585081,
+      "fileId": 4005894
+    }
+  ],
   "forge": [
     {
       "modId": "medieval_paintings",

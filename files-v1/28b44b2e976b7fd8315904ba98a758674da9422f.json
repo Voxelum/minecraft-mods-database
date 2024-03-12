@@ -1,6 +1,12 @@
 {
   "name": "InGameStats-1.1.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZhuQZavl",
+      "versionId": "pCl9FOuI"
+    }
+  ],
   "fabric": [
     {
       "modId": "ingamestats",

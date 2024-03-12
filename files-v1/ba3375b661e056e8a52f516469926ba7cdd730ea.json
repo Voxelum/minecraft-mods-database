@@ -1,0 +1,26 @@
+{
+  "name": "PetOwner-1.8.2-1.18-pre4+.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "petowner",
+      "version": "1.8.2-1.18-pre4+"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.1+b4f4f6cda3"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.7+3ac43d95a3"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.4.10+c15ca335a3"
+    },
+    {
+      "modId": "cloth-config-lite",
+      "version": "2.0.6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Galacticraft-5.0.0-prealpha+185.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "galacticraft",
+      "version": "5.0.0-prealpha+185"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    },
+    {
+      "modId": "dynamicdimensions",
+      "version": "0.6.0-pre+26"
+    },
+    {
+      "modId": "machinelib",
+      "version": "0.4.0+30"
+    },
+    {
+      "modId": "badpackets",
+      "version": "0.4.1"
+    }
+  ]
+}

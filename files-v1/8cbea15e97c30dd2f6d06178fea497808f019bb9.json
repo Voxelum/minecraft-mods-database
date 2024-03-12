@@ -1,6 +1,12 @@
 {
   "name": "bedrockify-1.9+mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "rg80ifk9"
+    }
+  ],
   "fabric": [
     {
       "modId": "bedrockify",

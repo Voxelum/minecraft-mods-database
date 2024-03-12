@@ -1,0 +1,16 @@
+{
+  "name": "Expanded Sculk Mod mc1.19.4 v1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "expanded_sculk_mod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expanded_sculk_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

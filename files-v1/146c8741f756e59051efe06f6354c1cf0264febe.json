@@ -1,0 +1,14 @@
+{
+  "name": "optifabric-1.13.25-patched6.temp.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "optifabric",
+      "version": "1.13.25"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

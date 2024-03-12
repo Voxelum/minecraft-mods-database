@@ -1,0 +1,16 @@
+{
+  "name": "luggage-1.3.2-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "luggage",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luggage",
+      "version": "1.3.2"
+    }
+  ]
+}

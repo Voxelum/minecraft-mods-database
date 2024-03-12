@@ -1,0 +1,20 @@
+{
+  "name": "itemflexer-1.1.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 421147,
+      "fileId": 3232297
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemflexer",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "microconfig",
+      "version": "1.1.0"
+    }
+  ]
+}

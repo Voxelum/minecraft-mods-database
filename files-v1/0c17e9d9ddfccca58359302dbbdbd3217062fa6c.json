@@ -1,0 +1,14 @@
+{
+  "name": "nicerportals-1.0.1+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nicerportals",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "roundalib",
+      "version": "0.2.1"
+    }
+  ]
+}

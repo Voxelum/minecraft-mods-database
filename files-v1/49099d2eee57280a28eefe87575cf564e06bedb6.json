@@ -1,0 +1,20 @@
+{
+  "name": "peepingcreepers-fabric-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408865,
+      "fileId": 3068274
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peepingcreepers",
+      "version": "1.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    }
+  ]
+}

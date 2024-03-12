@@ -1,0 +1,20 @@
+{
+  "name": "dummmmmmy-1.20-1.8.13-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Adega8YN",
+      "versionId": "sQU1xRdi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dummmmmmy",
+      "version": "1.20-1.8.13"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

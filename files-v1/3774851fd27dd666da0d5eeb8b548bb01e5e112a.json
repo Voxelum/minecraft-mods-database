@@ -1,0 +1,10 @@
+{
+  "name": "xycraft-1.4.7-0.10.18.zip",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "XyCraft",
+      "version": "@VERSION@"
+    }
+  ]
+}

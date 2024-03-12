@@ -1,0 +1,28 @@
+{
+  "name": "ctov-3.4-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "L6yQN8AJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 4932498
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "3.4-beta"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "3.4-beta"
+    }
+  ]
+}

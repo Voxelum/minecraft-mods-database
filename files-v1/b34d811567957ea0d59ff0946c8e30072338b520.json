@@ -1,0 +1,48 @@
+{
+  "name": "moremcmeta-1.20.1-4.4.6-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HFlxNpln",
+      "versionId": "ATkWMaYC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moremcmeta",
+      "version": "1.20.1-4.4.6"
+    },
+    {
+      "modId": "moremcmeta_gui_plugin",
+      "version": "1.20.1-1.0.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d77"
+    },
+    {
+      "modId": "moremcmeta_json_parser_plugin",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a77"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.20+b3afc78b77"
+    },
+    {
+      "modId": "moremcmeta_properties_parser_plugin",
+      "version": "1.20.1-1.1.4"
+    },
+    {
+      "modId": "moremcmeta_texture_plugin",
+      "version": "1.20.1-1.0.0"
+    },
+    {
+      "modId": "moremcmeta_animation_plugin",
+      "version": "1.20.1-1.0.2"
+    }
+  ]
+}

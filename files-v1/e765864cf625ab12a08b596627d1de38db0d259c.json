@@ -1,0 +1,18 @@
+{
+  "name": "tweakermore-mc1.19.3-v3.9.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakermore",
+      "version": "3.9.2"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0"
+    }
+  ]
+}

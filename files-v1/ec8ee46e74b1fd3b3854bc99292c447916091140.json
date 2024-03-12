@@ -1,0 +1,14 @@
+{
+  "name": "blossom-lib-2.5.1+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blossom-lib",
+      "version": "2.5.1+1.19"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.16+1.19"
+    }
+  ]
+}

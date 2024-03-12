@@ -1,6 +1,12 @@
 {
   "name": "dynamicassetgenerator-forge-1.20.1-4.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 577096,
+      "fileId": 4670363
+    }
+  ],
   "forge": [
     {
       "modId": "dynamic_asset_generator",

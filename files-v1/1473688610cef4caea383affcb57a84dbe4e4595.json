@@ -1,0 +1,66 @@
+{
+  "name": "easyauth-mc1.20.3-rc1-3.0.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "easyauth",
+      "version": "3.0.20"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.2.0+1.20.3-rc1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    },
+    {
+      "modId": "de_mkammerer_argon2-jvm",
+      "version": "2.11"
+    },
+    {
+      "modId": "de_mkammerer_argon2-jvm-nolibs",
+      "version": "2.11"
+    },
+    {
+      "modId": "at_favre_lib_bcrypt",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "at_favre_lib_bytes",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb-api",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-sync",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-core",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_mongodb_bson",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "8.2.0"
+    },
+    {
+      "modId": "net_java_dev_jna_jna",
+      "version": "5.13.0"
+    }
+  ]
+}

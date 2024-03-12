@@ -1,6 +1,18 @@
 {
   "name": "automobility-0.3+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rqIsPf9F",
+      "versionId": "MlJfRaGI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658286,
+      "fileId": 4085492
+    }
+  ],
   "fabric": [
     {
       "modId": "automobility",

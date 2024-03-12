@@ -1,0 +1,24 @@
+{
+  "name": "BetterTridents-v20.4.0-1.20.4-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 666941,
+      "fileId": 5048386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettertridents",
+      "version": "20.4.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    }
+  ]
+}

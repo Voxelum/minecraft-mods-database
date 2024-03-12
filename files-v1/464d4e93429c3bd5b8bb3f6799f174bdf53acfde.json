@@ -1,0 +1,26 @@
+{
+  "name": "diggusmaximus-1.5.8-1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S4LrRnI7",
+      "versionId": "Z3aldNMI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341888,
+      "fileId": 3885983
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diggusmaximus",
+      "version": "1.5.8-1.19"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.4.14-1.19"
+    }
+  ]
+}

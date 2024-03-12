@@ -1,6 +1,18 @@
 {
   "name": "chat_heads-0.10.20-fabric-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wb5oqrBJ",
+      "versionId": "CJCClsCd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 407206,
+      "fileId": 4691907
+    }
+  ],
   "fabric": [
     {
       "modId": "chat_heads",

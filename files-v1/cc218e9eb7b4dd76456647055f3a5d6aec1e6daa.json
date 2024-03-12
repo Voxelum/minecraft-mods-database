@@ -1,0 +1,18 @@
+{
+  "name": "tcdcommons-2.5+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tcdcommons",
+      "version": "2.4.1+1.19.3"
+    },
+    {
+      "modId": "architectury",
+      "version": "7.1.70"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.75.1+1.19.3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "okzoomer-5.0.0-beta.2+1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "okzoomer",
+      "version": "5.0.0-beta.2+1.17"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.2.1+1.17"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.2.0+1.17"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "trashcans-1.0.18-fabric-mc1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394535,
+      "fileId": 4606907
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trashcans",
+      "version": "1.0.18"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

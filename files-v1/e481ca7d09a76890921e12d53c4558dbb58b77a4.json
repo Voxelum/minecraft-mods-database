@@ -1,6 +1,12 @@
 {
   "name": "emicompat-2.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cK0i8gTV",
+      "versionId": "T2RoU5TJ"
+    }
+  ],
   "fabric": [
     {
       "modId": "emicompat",

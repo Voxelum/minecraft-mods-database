@@ -1,0 +1,20 @@
+{
+  "name": "fzzy_core-0.1.2+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LJ5wlCDr",
+      "versionId": "o5HyRhRQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_core",
+      "version": "0.1.2+1.19"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

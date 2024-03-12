@@ -1,6 +1,12 @@
 {
   "name": "inventorysorter-1.18-19.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 240633,
+      "fileId": 3543137
+    }
+  ],
   "forge": [
     {
       "modId": "inventorysorter",

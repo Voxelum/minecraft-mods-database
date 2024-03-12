@@ -1,0 +1,20 @@
+{
+  "name": "Farmersrespite-Fabric-2.3.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 811003,
+      "fileId": 4754429
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersrespite",
+      "version": "2.3.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

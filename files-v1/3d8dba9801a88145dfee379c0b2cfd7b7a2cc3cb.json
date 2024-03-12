@@ -1,0 +1,10 @@
+{
+  "name": "mafish-0.4-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tutorialmod",
+      "version": "0.4-1.20.1"
+    }
+  ]
+}

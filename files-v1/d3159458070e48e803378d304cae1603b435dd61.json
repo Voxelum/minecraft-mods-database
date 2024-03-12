@@ -1,0 +1,14 @@
+{
+  "name": "colormatic-2.2.7+mc.1.16.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "colormatic",
+      "version": "2.2.7+mc.1.16.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.2"
+    }
+  ]
+}

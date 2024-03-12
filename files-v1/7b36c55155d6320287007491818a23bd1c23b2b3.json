@@ -1,6 +1,18 @@
 {
   "name": "diggusmaximus-1.5.9-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S4LrRnI7",
+      "versionId": "ygAyNaax"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341888,
+      "fileId": 4597689
+    }
+  ],
   "fabric": [
     {
       "modId": "diggusmaximus",

@@ -1,0 +1,30 @@
+{
+  "name": "mouse-danmu-1.1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mouse-danmu",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "cn_liqing_blivedanmu_",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.14.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.14.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.14.0"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.3"
+    }
+  ]
+}

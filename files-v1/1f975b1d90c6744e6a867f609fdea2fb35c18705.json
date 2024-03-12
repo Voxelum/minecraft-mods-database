@@ -1,6 +1,12 @@
 {
   "name": "starlight-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560058,
+      "fileId": 3583654
+    }
+  ],
   "forge": [
     {
       "modId": "starlight",

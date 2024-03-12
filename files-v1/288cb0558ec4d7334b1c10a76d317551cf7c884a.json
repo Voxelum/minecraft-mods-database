@@ -1,0 +1,14 @@
+{
+  "name": "[masa前置]malilib-fabric-1.19.1-0.13.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.13.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.6+5f1a85e095"
+    }
+  ]
+}

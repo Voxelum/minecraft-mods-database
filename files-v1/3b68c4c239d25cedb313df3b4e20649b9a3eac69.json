@@ -1,6 +1,18 @@
 {
   "name": "exmachinis-1.19.2-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kETAhKGy",
+      "versionId": "m2nDnm4g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631523,
+      "fileId": 4332496
+    }
+  ],
   "forge": [
     {
       "modId": "exmachinis",

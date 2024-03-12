@@ -1,0 +1,16 @@
+{
+  "name": "SimpleDiscordLink-Combo-1.20-3.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sdlink",
+      "version": "3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sdlink",
+      "version": "3.0.0"
+    }
+  ]
+}

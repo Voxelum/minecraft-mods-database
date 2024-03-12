@@ -1,0 +1,18 @@
+{
+  "name": "minecells-1.5.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "1.5.8"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19"
+    }
+  ]
+}

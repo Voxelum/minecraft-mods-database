@@ -1,0 +1,24 @@
+{
+  "name": "TechReborn-5.0.11-beta.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 233564,
+      "fileId": 3517196
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "techreborn",
+      "version": "5.0.11-beta"
+    },
+    {
+      "modId": "reborncore",
+      "version": "5.0.11-beta"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

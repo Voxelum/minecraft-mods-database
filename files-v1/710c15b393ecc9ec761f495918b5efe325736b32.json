@@ -1,0 +1,14 @@
+{
+  "name": "victus-0.1.12+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "victus",
+      "version": "0.1.12+1.19"
+    },
+    {
+      "modId": "owo",
+      "version": "0.8.1+1.19"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "FrozenLib-1.2.6-Fabric+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9KawNmQc",
+      "versionId": "LO3Z2eNN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frozenlib",
+      "version": "1.2.6-Fabric+1.19.4"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "oxidized-1.8.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wOZRkmgG",
+      "versionId": "dH4eImYJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506426,
+      "fileId": 4598127
+    }
+  ],
   "fabric": [
     {
       "modId": "oxidized",

@@ -1,0 +1,16 @@
+{
+  "name": "YSNS-FFQ-1.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ysns",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ysns",
+      "version": "1.0.1"
+    }
+  ]
+}

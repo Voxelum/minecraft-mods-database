@@ -1,0 +1,26 @@
+{
+  "name": "whereisit-2.3.4+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCTyEqkn",
+      "versionId": "tXVegcrt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378036,
+      "fileId": 5061262
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "whereisit",
+      "version": "2.3.4+1.20.4"
+    },
+    {
+      "modId": "jackfredlib",
+      "version": "0.9.3+1.20.4"
+    }
+  ]
+}

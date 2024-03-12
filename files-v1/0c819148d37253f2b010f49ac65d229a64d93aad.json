@@ -1,0 +1,16 @@
+{
+  "name": "furnacerecycle-1.20.2-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "furnacerecycle",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "furnacerecycle",
+      "version": "2.2"
+    }
+  ]
+}

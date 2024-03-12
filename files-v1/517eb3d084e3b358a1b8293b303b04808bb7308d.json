@@ -1,6 +1,12 @@
 {
   "name": "noHurtCam-2.1.0-1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BFiJtNgD",
+      "versionId": "X1INOZTo"
+    }
+  ],
   "fabric": [
     {
       "modId": "nohurtcamplus",

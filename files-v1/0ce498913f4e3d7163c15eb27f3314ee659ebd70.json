@@ -1,0 +1,20 @@
+{
+  "name": "variantshields-2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 682987,
+      "fileId": 4941161
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantshields",
+      "version": "2.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

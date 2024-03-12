@@ -1,0 +1,20 @@
+{
+  "name": "euphonium-1.0.1+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XH8cnjHW",
+      "versionId": "O07ijkpp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "euphonium",
+      "version": "1.0.1+1.20"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.1.1+1.1.0-beta.3"
+    }
+  ]
+}

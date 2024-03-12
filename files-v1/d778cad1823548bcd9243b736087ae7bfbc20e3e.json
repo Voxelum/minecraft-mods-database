@@ -1,0 +1,22 @@
+{
+  "name": "starterstructure-1.19.2-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gi80Z09B",
+      "versionId": "PGOaFtd9"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterstructure",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterstructure",
+      "version": "3.4"
+    }
+  ]
+}

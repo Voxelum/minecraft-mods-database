@@ -1,6 +1,18 @@
 {
   "name": "puzzle-1.4.0-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3IuO68q1",
+      "versionId": "TM6dpuQ9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 563977,
+      "fileId": 3912555
+    }
+  ],
   "fabric": [
     {
       "modId": "puzzle",

@@ -1,0 +1,22 @@
+{
+  "name": "added_origins_forgefabric-V3.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 473864,
+      "fileId": 3817523
+    }
+  ],
+  "forge": [
+    {
+      "modId": "added_origins_mod",
+      "version": "V3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "added_origins_mod",
+      "version": "3.1.0"
+    }
+  ]
+}

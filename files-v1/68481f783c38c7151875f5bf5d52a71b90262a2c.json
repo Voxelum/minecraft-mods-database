@@ -1,0 +1,10 @@
+{
+  "name": "sort inventory.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sorthadded",
+      "version": "1.0.0"
+    }
+  ]
+}

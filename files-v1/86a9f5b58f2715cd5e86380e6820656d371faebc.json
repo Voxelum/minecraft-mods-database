@@ -1,0 +1,10 @@
+{
+  "name": "AllMusic-2.6.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "allmusic_client",
+      "version": "2.6.10"
+    }
+  ]
+}

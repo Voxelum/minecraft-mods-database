@@ -1,6 +1,12 @@
 {
   "name": "candyworld-1.1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 290844,
+      "fileId": 2859709
+    }
+  ],
   "forge": [
     {
       "modId": "candymod",

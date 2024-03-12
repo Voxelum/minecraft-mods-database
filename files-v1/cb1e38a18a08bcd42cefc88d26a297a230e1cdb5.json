@@ -1,0 +1,42 @@
+{
+  "name": "polydex-1.0.0-beta.2.2+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "polydex2",
+      "version": "1.0.0-beta.2.2+1.20.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.5.5+1.20.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.2.1+1.20.1"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.2.2+1.19.3"
+    },
+    {
+      "modId": "sidebar-api",
+      "version": "0.1.2+1.19.3"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "imst_n-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "imst_n",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imst_n",
+      "version": "1.0.0"
+    }
+  ]
+}

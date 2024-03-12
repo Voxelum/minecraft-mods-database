@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-1.20.1-6.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "8KFsMuyQ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "6.2"
+    }
+  ]
+}

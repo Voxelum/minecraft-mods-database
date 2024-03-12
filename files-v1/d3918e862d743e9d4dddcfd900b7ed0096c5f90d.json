@@ -1,6 +1,18 @@
 {
   "name": "universal_ores-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "68kWHuUF",
+      "versionId": "rbYMIYTX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 489884,
+      "fileId": 3902443
+    }
+  ],
   "fabric": [
     {
       "modId": "universal_ores",

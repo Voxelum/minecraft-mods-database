@@ -1,0 +1,14 @@
+{
+  "name": "Terra-fabric-6.4.3-BETA+ab60f14ff.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "terra",
+      "version": "6.4.3-BETA+ab60f14ff"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.8.4"
+    }
+  ]
+}

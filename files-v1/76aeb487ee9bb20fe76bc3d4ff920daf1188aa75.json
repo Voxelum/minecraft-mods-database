@@ -1,6 +1,18 @@
 {
   "name": "rubidium-mc1.20.1-0.7.0a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZqxOvjD",
+      "versionId": "KoZMxzwB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574856,
+      "fileId": 4684247
+    }
+  ],
   "forge": [
     {
       "modId": "rubidium",

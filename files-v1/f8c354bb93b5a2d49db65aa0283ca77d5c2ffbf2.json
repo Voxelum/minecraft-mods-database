@@ -1,0 +1,10 @@
+{
+  "name": "architecturecraft-1.12-3.108-patched.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "architecturecraft",
+      "version": "@VERSION@"
+    }
+  ]
+}

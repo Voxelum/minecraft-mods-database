@@ -1,6 +1,18 @@
 {
   "name": "invhud.fabric.1.19-3.4.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CEgQm5YJ",
+      "versionId": "wqKC4zUZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 357540,
+      "fileId": 4153723
+    }
+  ],
   "fabric": [
     {
       "modId": "inventoryhud",

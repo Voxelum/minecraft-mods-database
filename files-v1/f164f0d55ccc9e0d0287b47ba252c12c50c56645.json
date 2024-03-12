@@ -1,0 +1,10 @@
+{
+  "name": "Pyrotech Compat-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pyrotech_compat",
+      "version": "@VERSION@"
+    }
+  ]
+}

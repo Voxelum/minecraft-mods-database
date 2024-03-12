@@ -1,0 +1,22 @@
+{
+  "name": "Loyal Items 1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YhRug9vd",
+      "versionId": "P3yc2hik"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "loyal_items_mr",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "loyal_items_mr",
+      "version": "1.0.0"
+    }
+  ]
+}

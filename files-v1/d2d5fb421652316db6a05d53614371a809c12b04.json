@@ -1,0 +1,14 @@
+{
+  "name": "halplibe-3.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "halplibe",
+      "version": "3.2.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-lang3",
+      "version": "3.12.0"
+    }
+  ]
+}

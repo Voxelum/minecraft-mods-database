@@ -1,0 +1,14 @@
+{
+  "name": "wakes-0.1.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wakes",
+      "version": "0.1.8"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

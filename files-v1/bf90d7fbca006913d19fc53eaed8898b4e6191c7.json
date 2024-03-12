@@ -1,6 +1,18 @@
 {
   "name": "hourglass-1.19.1-1.2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1ZqmoFFP",
+      "versionId": "ZMHn5FFd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511172,
+      "fileId": 3935107
+    }
+  ],
   "forge": [
     {
       "modId": "hourglass",

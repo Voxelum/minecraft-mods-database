@@ -1,6 +1,12 @@
 {
   "name": "cosmetica-1.16.5-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9hF9QGp",
+      "versionId": "16HIMUtj"
+    }
+  ],
   "fabric": [
     {
       "modId": "cosmetica",

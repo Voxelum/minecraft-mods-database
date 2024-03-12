@@ -1,0 +1,28 @@
+{
+  "name": "chisels-and-bits-fabric-1.3.136.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 561059,
+      "fileId": 4459006
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chiselsandbits",
+      "version": "1.3.136"
+    },
+    {
+      "modId": "org_lz4_lz4-pure-java",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "scena",
+      "version": "1.0.97"
+    },
+    {
+      "modId": "saeculariacaudices",
+      "version": "1.0.15"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "City Craft-1.4.0-Fabric-1.17.x-1.18.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "citycraft",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.4.2+1.18.2"
+    }
+  ]
+}

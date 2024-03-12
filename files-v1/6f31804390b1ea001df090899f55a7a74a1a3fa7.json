@@ -1,6 +1,18 @@
 {
   "name": "spirit-forge-1.18.2-2.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b1LdOZlE",
+      "versionId": "PEhhc4aW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495509,
+      "fileId": 3931224
+    }
+  ],
   "forge": [
     {
       "modId": "spirit",

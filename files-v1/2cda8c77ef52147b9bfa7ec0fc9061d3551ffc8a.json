@@ -1,6 +1,18 @@
 {
   "name": "conjuring-1.0.26+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GriMtaoD",
+      "versionId": "GrBHP1v7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 422310,
+      "fileId": 4120815
+    }
+  ],
   "fabric": [
     {
       "modId": "conjuring",

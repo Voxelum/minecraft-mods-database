@@ -1,0 +1,22 @@
+{
+  "name": "spirit-walker-0.1.4+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spirit-walker",
+      "version": "0.1.4+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

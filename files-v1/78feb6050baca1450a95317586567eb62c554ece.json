@@ -1,0 +1,16 @@
+{
+  "name": "FrogLegs-v2.0.0-1.20.1-Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "froglegs",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "froglegs",
+      "version": "2.0.0"
+    }
+  ]
+}

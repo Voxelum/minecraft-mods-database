@@ -1,0 +1,16 @@
+{
+  "name": "mooshroomspawn-1.19.2-3.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.5"
+    }
+  ]
+}

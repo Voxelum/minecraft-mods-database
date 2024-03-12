@@ -1,6 +1,12 @@
 {
   "name": "exordium-fabric-1.0.2-mc1.19.2-hotfix.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DynYZEae",
+      "versionId": "2UOKWlBe"
+    }
+  ],
   "fabric": [
     {
       "modId": "exordium",

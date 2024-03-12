@@ -1,0 +1,20 @@
+{
+  "name": "Capes-1.4.4+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "89Wsn8GD",
+      "versionId": "ypD6A0Dz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "capes",
+      "version": "1.4.4+1.19"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

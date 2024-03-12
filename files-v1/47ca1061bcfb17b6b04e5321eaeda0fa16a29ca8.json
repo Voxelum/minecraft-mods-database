@@ -1,0 +1,22 @@
+{
+  "name": "unoriginal-datapack.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pp78cYOP",
+      "versionId": "HEKeeBfQ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unoriginal_mr",
+      "version": "1-datapack"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unoriginal_mr",
+      "version": "1-datapack"
+    }
+  ]
+}

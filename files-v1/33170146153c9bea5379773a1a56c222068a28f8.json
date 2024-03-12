@@ -1,0 +1,22 @@
+{
+  "name": "ToughAsNails-1.20.1-9.0.0.96.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ge1sOdFH",
+      "versionId": "40SuKdWl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246391,
+      "fileId": 4750298
+    }
+  ],
+  "forge": [
+    {
+      "modId": "toughasnails",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

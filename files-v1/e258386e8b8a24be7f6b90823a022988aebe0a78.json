@@ -1,6 +1,12 @@
 {
   "name": "soundphysics-fabric-1.19.2-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qyVF9oeo",
+      "versionId": "7P98uY0M"
+    }
+  ],
   "fabric": [
     {
       "modId": "sound_physics_remastered",

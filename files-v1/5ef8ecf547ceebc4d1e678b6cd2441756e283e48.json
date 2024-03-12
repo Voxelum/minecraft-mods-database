@@ -1,6 +1,12 @@
 {
   "name": "radium-0.7.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 570017,
+      "fileId": 3707226
+    }
+  ],
   "forge": [
     {
       "modId": "radium",

@@ -1,0 +1,14 @@
+{
+  "name": "vivecraft-1.19.2-0.0.13-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vivecraft",
+      "version": "1.19.2-0.0.13"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.6.1+aeb40ebe90"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "WorldEditCUI-1.19.2+01.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "worldeditcui",
+      "version": "1.19.2+01"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.12+93d8cb8290"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.22+aaaf9d3390"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.0+33ffe9ec90"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.5+c6af733c90"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.11.0+73145abb90"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.7.3+3e1ba48e90"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.27+93d8cb8290"
+    }
+  ]
+}

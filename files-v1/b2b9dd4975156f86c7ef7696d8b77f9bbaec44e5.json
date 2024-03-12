@@ -1,0 +1,20 @@
+{
+  "name": "chisel-1.4.4+1.18.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551763,
+      "fileId": 3578088
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chisel",
+      "version": "1.4.4"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.3.7"
+    }
+  ]
+}

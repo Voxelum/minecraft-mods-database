@@ -1,0 +1,52 @@
+{
+  "name": "mods-command-mc1.20.2-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PExmWQV8",
+      "versionId": "1KLm0roo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mods-command",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.10.0"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.34-SNAPSHOT"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.8.4"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-minecraft-extras",
+      "version": "1.8.4"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-yaml",
+      "version": "4.1.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "CreativeCore_FABRIC_v2.10.28_mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "jQhcsIZs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 4636842
+    }
+  ],
   "forge": [
     {
       "modId": "creativecore",

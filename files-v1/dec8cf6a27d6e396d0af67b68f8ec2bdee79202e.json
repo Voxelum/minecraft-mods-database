@@ -1,0 +1,20 @@
+{
+  "name": "repair_gems-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vsbg8JZL",
+      "versionId": "J0Mso7hY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "repair_gems",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

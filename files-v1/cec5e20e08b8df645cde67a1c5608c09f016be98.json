@@ -1,0 +1,16 @@
+{
+  "name": "campsite_structures-1.18.2-FABRIC-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "campsite_structures",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "campsite_structures",
+      "version": "1.0.3"
+    }
+  ]
+}

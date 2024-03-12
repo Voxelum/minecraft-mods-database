@@ -1,6 +1,12 @@
 {
   "name": "libIPN-fabric-1.19-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "onSQdWhM",
+      "versionId": "KN2S7BJS"
+    }
+  ],
   "fabric": [
     {
       "modId": "libipn",

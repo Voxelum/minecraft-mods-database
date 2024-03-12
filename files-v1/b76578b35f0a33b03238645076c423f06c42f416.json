@@ -1,0 +1,16 @@
+{
+  "name": "passiveshield-1.20.4-3.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "passiveshield",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "passiveshield",
+      "version": "3.4"
+    }
+  ]
+}

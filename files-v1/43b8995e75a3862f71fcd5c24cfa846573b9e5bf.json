@@ -1,0 +1,14 @@
+{
+  "name": "spoornarmorattributes-3.0-1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spoornarmorattributes",
+      "version": "3.0-1.20.1"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

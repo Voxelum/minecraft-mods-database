@@ -1,0 +1,16 @@
+{
+  "name": "compacthelpcommand-1.20.1-2.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "compacthelpcommand",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "compacthelpcommand",
+      "version": "2.4"
+    }
+  ]
+}

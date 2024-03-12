@@ -1,6 +1,12 @@
 {
   "name": "stg-1.12.2-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 264353,
+      "fileId": 2507975
+    }
+  ],
   "forge": [
     {
       "modId": "stg",

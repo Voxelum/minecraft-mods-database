@@ -1,6 +1,18 @@
 {
   "name": "imperishable-items-fabric-mc1.18.1-2.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NCd3V5jn",
+      "versionId": "It3QYLLn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538649,
+      "fileId": 3736938
+    }
+  ],
   "fabric": [
     {
       "modId": "imperishableitems",

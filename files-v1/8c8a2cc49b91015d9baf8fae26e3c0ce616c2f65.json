@@ -1,0 +1,30 @@
+{
+  "name": "dedicatedmcupnp-1.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dedicatedmcupnp",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_dataformat_jackson-dataformat-yaml",
+      "version": "2.12.4"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.12.4"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.12.4"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.12.4"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.29"
+    }
+  ]
+}

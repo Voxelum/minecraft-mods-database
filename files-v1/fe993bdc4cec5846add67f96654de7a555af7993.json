@@ -1,0 +1,14 @@
+{
+  "name": "stitched_snow_1.0.1_1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stitchedsnow",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

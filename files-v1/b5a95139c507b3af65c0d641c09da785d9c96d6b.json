@@ -1,6 +1,12 @@
 {
   "name": "DecoMod-fabric-1.20.1-1.0.2+blanketcon.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7wa9983j",
+      "versionId": "SB9IZq56"
+    }
+  ],
   "fabric": [
     {
       "modId": "decomod",

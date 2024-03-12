@@ -1,6 +1,18 @@
 {
   "name": "mythicupgrades-1.5.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ERH7cFoy",
+      "versionId": "BpnnQpkq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663567,
+      "fileId": 4388965
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicupgrades",

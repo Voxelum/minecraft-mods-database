@@ -1,0 +1,14 @@
+{
+  "name": "bedrock-miner-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bedrockminer",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.9+132c48c177"
+    }
+  ]
+}

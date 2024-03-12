@@ -1,0 +1,28 @@
+{
+  "name": "immersive-portals-1.4.11-mc1.18.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zJpHMkdD",
+      "versionId": "Vy2AI68l"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "1.4.11"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "1.4.11"
+    },
+    {
+      "modId": "q_misc_util",
+      "version": "1.4.11"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

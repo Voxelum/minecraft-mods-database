@@ -1,6 +1,12 @@
 {
   "name": "frame-0.26.2+1.19-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 580137,
+      "fileId": 4676254
+    }
+  ],
   "fabric": [
     {
       "modId": "frame",

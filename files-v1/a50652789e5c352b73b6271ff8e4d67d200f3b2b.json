@@ -1,0 +1,26 @@
+{
+  "name": "EuphoriaPatcher-0.2.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4H6sumDB",
+      "versionId": "3mld4BGc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915902,
+      "fileId": 4915124
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "euphoria_patcher",
+      "version": "0.2.0-fabric"
+    },
+    {
+      "modId": "io_sigpipe_jbsdiff",
+      "version": "1.0"
+    }
+  ]
+}

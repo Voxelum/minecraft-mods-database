@@ -1,0 +1,16 @@
+{
+  "name": "Custom-Fences-And-Walls-Mod-Forge-Fabric-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "customfence",
+      "version": "1-20-x"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customfence",
+      "version": "1-20-x"
+    }
+  ]
+}

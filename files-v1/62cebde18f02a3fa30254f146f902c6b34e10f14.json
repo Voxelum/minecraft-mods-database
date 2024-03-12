@@ -1,0 +1,14 @@
+{
+  "name": "diggusmaximus-1.2.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diggusmaximus",
+      "version": "1.2.10"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.0.0"
+    }
+  ]
+}

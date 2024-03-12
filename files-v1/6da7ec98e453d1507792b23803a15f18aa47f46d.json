@@ -1,0 +1,14 @@
+{
+  "name": "highlightunrestrictor-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "highlightunrestrictor",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.1.10+06c939b395"
+    }
+  ]
+}

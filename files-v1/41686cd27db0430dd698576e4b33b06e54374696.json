@@ -1,0 +1,14 @@
+{
+  "name": "chefs-delight-1.0.3-fabric-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chefsdelight",
+      "version": "1.0.3-fabric-1.18.2"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.18.2-01"
+    }
+  ]
+}

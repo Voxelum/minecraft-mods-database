@@ -1,6 +1,12 @@
 {
   "name": "exordium-fabric-1.2.1-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DynYZEae",
+      "versionId": "fROHV9gC"
+    }
+  ],
   "fabric": [
     {
       "modId": "exordium",

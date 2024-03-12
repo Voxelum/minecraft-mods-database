@@ -1,6 +1,12 @@
 {
   "name": "puzzle-1.4.0-1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3IuO68q1",
+      "versionId": "R9FfGWqP"
+    }
+  ],
   "fabric": [
     {
       "modId": "puzzle",

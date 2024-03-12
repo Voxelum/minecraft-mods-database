@@ -1,0 +1,26 @@
+{
+  "name": "tempad-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tempad",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.2.0+1.18"
+    },
+    {
+      "modId": "spruceui",
+      "version": "3.3.0+1.17"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.1"
+    }
+  ]
+}

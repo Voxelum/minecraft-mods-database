@@ -1,0 +1,20 @@
+{
+  "name": "shulkerboxslot-fabric-5.0.0+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R5T1RmWr",
+      "versionId": "QzQolXSL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shulkerboxslot",
+      "version": "5.0.0+1.19.4"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "allomancy-4.6.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mTS4CGDB",
+      "versionId": "87MqAkGy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256282,
+      "fileId": 4644250
+    }
+  ],
   "forge": [
     {
       "modId": "allomancy",

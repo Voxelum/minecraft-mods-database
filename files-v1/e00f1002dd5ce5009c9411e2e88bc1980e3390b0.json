@@ -1,6 +1,12 @@
 {
   "name": "MekFix-1.0.1-build.2+mc1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 700232,
+      "fileId": 4075939
+    }
+  ],
   "forge": [
     {
       "modId": "mekfix",

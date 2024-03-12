@@ -1,0 +1,18 @@
+{
+  "name": "player-events-2.3.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "player_events",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "player_events_api",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "1.1.3+1.17.1"
+    }
+  ]
+}

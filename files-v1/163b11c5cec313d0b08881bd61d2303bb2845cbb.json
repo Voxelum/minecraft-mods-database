@@ -1,0 +1,26 @@
+{
+  "name": "guardvillagers-2.0.9-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "59rkB3YY",
+      "versionId": "KHaX9b0a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 571503,
+      "fileId": 4942428
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guardvillagers",
+      "version": "2.0.9-1.20.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.1"
+    }
+  ]
+}

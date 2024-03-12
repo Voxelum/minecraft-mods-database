@@ -1,6 +1,18 @@
 {
   "name": "PresenceFootsteps-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rcTfTZr3",
+      "versionId": "31QS6G6Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334259,
+      "fileId": 3851656
+    }
+  ],
   "fabric": [
     {
       "modId": "presencefootsteps",

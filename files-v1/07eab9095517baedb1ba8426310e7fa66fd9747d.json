@@ -1,6 +1,18 @@
 {
   "name": "dynamic-fps-2.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "RgJGw0dO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 3419561
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamicfps",

@@ -1,0 +1,14 @@
+{
+  "name": "compound-origins-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "compound_origins",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.8.2+1.19"
+    }
+  ]
+}

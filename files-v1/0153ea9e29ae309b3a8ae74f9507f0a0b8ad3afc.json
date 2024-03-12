@@ -1,6 +1,12 @@
 {
   "name": "scriptor-0.6.6-1.21.1-sgd.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JyJgaOrk",
+      "versionId": "RY3es2NF"
+    }
+  ],
   "forge": [
     {
       "modId": "scriptor",

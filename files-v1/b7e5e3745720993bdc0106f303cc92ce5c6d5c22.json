@@ -1,0 +1,10 @@
+{
+  "name": "colour-my-servers-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cms",
+      "version": "1.0.3"
+    }
+  ]
+}

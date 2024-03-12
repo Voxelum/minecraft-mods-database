@@ -1,6 +1,12 @@
 {
   "name": "ctov-gazebo-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wE0hjz4k",
+      "versionId": "tDe5zXNn"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_ctov_gazebocompat",

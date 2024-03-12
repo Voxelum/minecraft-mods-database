@@ -1,0 +1,14 @@
+{
+  "name": "no-hurt-cam-1.18-1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "no-hurt-cam",
+      "version": "1.2"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20090211"
+    }
+  ]
+}

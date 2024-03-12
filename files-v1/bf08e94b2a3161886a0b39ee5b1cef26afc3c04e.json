@@ -1,0 +1,20 @@
+{
+  "name": "upc-0.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 859643,
+      "fileId": 4528618
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "upc",
+      "version": "0.0.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

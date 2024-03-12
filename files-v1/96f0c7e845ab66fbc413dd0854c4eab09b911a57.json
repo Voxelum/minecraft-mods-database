@@ -1,6 +1,12 @@
 {
   "name": "revive-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MGRhpQYp",
+      "versionId": "eW6ZYUVj"
+    }
+  ],
   "fabric": [
     {
       "modId": "revive",

@@ -1,0 +1,18 @@
+{
+  "name": "Too Many Players (1.19.2).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "toomanyplayers",
+      "version": "1.19-1.1.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

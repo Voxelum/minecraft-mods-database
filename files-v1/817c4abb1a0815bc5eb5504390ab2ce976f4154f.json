@@ -1,6 +1,12 @@
 {
   "name": "fsb-interop-1.3.2+mc1.20-build.36.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HpdHOPOp",
+      "versionId": "pA1F353z"
+    }
+  ],
   "fabric": [
     {
       "modId": "fsb-interop",

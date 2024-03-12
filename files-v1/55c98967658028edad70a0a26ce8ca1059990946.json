@@ -1,0 +1,30 @@
+{
+  "name": "aether-1.16.54-1.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "the_aether",
+      "version": "1.16.5-1.4.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.4.0+1.16.5"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.3+1.16"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta32-1.16"
+    },
+    {
+      "modId": "seedy-behavior",
+      "version": "1.0.1"
+    }
+  ]
+}

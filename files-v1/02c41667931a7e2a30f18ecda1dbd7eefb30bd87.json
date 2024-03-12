@@ -1,0 +1,26 @@
+{
+  "name": "sync-mc1.18-3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sync",
+      "version": "3.1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "smart-recipes",
+      "version": "0.2.0+1.18"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ecu-1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ecu",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ecu",
+      "version": "1.2.1"
+    }
+  ]
+}

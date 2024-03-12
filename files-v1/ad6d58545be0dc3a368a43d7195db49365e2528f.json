@@ -1,0 +1,14 @@
+{
+  "name": "CustomScoreboard-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "customscoreboard",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.0.2+1.20"
+    }
+  ]
+}

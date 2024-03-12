@@ -1,0 +1,14 @@
+{
+  "name": "naturalist-fabric-2.0.1-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "naturalist",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

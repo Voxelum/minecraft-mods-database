@@ -1,6 +1,18 @@
 {
   "name": "talkbubbles-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BUpChT1v",
+      "versionId": "AW6w70UA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532113,
+      "fileId": 4656316
+    }
+  ],
   "fabric": [
     {
       "modId": "talkbubbles",

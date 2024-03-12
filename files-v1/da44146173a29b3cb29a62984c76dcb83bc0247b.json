@@ -1,6 +1,12 @@
 {
   "name": "switchbow-1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 257820,
+      "fileId": 3018335
+    }
+  ],
   "forge": [
     {
       "modId": "switchbow",

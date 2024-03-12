@@ -1,0 +1,10 @@
+{
+  "name": "redirector-1.16.5-1.6.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "redirector",
+      "version": "1.16.5-1.6.0"
+    }
+  ]
+}

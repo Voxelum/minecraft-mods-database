@@ -1,6 +1,12 @@
 {
   "name": "PlayerAPI-1.12.1-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228969,
+      "fileId": 2501030
+    }
+  ],
   "forge": [
     {
       "modId": "PlayerAPI",

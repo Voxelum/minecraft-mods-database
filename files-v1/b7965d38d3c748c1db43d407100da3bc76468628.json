@@ -1,0 +1,14 @@
+{
+  "name": "caracal-1.19.2-2.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "aqupdcaracal",
+      "version": "1.19.2-2.0.2"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.1"
+    }
+  ]
+}

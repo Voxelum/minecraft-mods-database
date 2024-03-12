@@ -1,6 +1,12 @@
 {
   "name": "fastbench-1.18.1-3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 364531,
+      "fileId": 3579621
+    }
+  ],
   "fabric": [
     {
       "modId": "fastbench",

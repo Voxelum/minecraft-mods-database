@@ -1,0 +1,14 @@
+{
+  "name": "tropics-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tropics",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

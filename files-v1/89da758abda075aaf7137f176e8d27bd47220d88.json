@@ -1,0 +1,30 @@
+{
+  "name": "vivecraft-1.20.1-0.0.15-hotswitch-a5-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vivecraft",
+      "version": "1.20.1-0.0.15-hotswitch-a5"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-linux",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d82"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-windows",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-macos",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr",
+      "version": "3.3.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "stendhal-1.3.4-1.18.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stendhal",
+      "version": "1.3.4-1.18.x"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.3.1+1.18"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-friendly-structures-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "InKbRcdX",
+      "versionId": "vdys4smY"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vanilla_friendlystructures_mr",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanilla_friendlystructures_mr",
+      "version": "1.0.5"
+    }
+  ]
+}

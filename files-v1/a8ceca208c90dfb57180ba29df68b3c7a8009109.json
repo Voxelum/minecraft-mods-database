@@ -1,6 +1,18 @@
 {
   "name": "EnchantingInfuser-v4.2.2-1.19.2-Forge.jar.deactivation",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ePv85y52",
+      "versionId": "9UD54Pev"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551151,
+      "fileId": 4041213
+    }
+  ],
   "forge": [
     {
       "modId": "enchantinginfuser",

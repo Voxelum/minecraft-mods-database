@@ -1,0 +1,10 @@
+{
+  "name": "cta-1.12.2-1.2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cta",
+      "version": "@VERSION@"
+    }
+  ]
+}

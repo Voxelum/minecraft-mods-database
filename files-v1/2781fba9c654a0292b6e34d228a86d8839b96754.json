@@ -1,0 +1,16 @@
+{
+  "name": "softerhaybales-1.18.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "softerhaybales",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "softerhaybales",
+      "version": "3.0"
+    }
+  ]
+}

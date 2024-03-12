@@ -1,0 +1,22 @@
+{
+  "name": "harvestwithease-1.20.2-8.0.0.2-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 602171,
+      "fileId": 4925601
+    }
+  ],
+  "forge": [
+    {
+      "modId": "harvestwithease",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "harvestwithease",
+      "version": "8.0.0.2"
+    }
+  ]
+}

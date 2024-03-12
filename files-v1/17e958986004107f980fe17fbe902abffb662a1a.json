@@ -1,0 +1,10 @@
+{
+  "name": "[优化][实体渲染优化]EntityCulling-Fabric-1.3.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entityculling",
+      "version": "1.3.3"
+    }
+  ]
+}

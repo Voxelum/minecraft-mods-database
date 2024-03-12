@@ -1,6 +1,18 @@
 {
   "name": "the-conjurer-1.19.2-1.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "84MLqQxZ",
+      "versionId": "5YN0B5Hj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377798,
+      "fileId": 4069328
+    }
+  ],
   "forge": [
     {
       "modId": "conjurer_illager",

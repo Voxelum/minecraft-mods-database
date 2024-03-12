@@ -1,0 +1,24 @@
+{
+  "name": "youre-in-grave-danger-2.0.0-beta.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544912,
+      "fileId": 5090690
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yigd",
+      "version": "2.0.0-beta.8"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.1.1+1.20.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

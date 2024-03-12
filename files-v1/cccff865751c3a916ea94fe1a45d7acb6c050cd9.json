@@ -1,0 +1,24 @@
+{
+  "name": "phonos-0.2+1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 417003,
+      "fileId": 3580318
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "phonos",
+      "version": "0.2+1.18"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.2.0+1.18"
+    }
+  ]
+}

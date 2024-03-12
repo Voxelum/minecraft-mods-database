@@ -1,6 +1,12 @@
 {
   "name": "chime-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ubxU84eR",
+      "versionId": "dHkLtZ9C"
+    }
+  ],
   "fabric": [
     {
       "modId": "chime",

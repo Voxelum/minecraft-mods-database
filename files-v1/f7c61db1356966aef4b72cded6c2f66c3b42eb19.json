@@ -1,6 +1,18 @@
 {
   "name": "tellme-fabric-1.18.0-0.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ytk7UEym",
+      "versionId": "yuL9TPvy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225781,
+      "fileId": 3569162
+    }
+  ],
   "fabric": [
     {
       "modId": "tellme",

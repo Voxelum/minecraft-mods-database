@@ -1,0 +1,10 @@
+{
+  "name": "moyai-1.20-2.1.4-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moyai",
+      "version": "1.20-2.1.4"
+    }
+  ]
+}

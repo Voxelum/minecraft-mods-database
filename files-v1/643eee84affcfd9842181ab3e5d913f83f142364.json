@@ -1,6 +1,12 @@
 {
   "name": "Companion-1.18.1-fabric-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560280,
+      "fileId": 3652584
+    }
+  ],
   "fabric": [
     {
       "modId": "companion",

@@ -1,6 +1,18 @@
 {
   "name": "oauth-1.1.15-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K8pn1qHf",
+      "versionId": "WnKBQryy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 513857,
+      "fileId": 4518842
+    }
+  ],
   "forge": [
     {
       "modId": "oauth",

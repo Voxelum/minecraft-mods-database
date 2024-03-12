@@ -1,6 +1,12 @@
 {
   "name": "fsb-interop-1.1.4+mc1.19.3-build.30.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HpdHOPOp",
+      "versionId": "kvoqBDF3"
+    }
+  ],
   "fabric": [
     {
       "modId": "fsb-interop",

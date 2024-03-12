@@ -1,6 +1,18 @@
 {
   "name": "environmentz-2.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TggYmc6t",
+      "versionId": "bP9IhOAM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410224,
+      "fileId": 4549077
+    }
+  ],
   "fabric": [
     {
       "modId": "environmentz",

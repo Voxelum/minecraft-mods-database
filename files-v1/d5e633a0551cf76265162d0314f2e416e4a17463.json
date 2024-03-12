@@ -1,6 +1,18 @@
 {
   "name": "Ad-Astra-Giselle-Addon-forge-1.19.2-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XQDxCBVw",
+      "versionId": "AAFvT96m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 714958,
+      "fileId": 4819640
+    }
+  ],
   "forge": [
     {
       "modId": "ad_astra_giselle_addon",

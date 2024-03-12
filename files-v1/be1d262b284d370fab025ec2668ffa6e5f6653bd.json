@@ -1,0 +1,34 @@
+{
+  "name": "andromeda-1.5.1-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "andromeda",
+      "version": "1.5.1-1.19.2"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "3.0.0-1.19.2"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "3.0.0-1.19.2"
+    },
+    {
+      "modId": "dark-matter-content",
+      "version": "3.0.0-1.19.2"
+    },
+    {
+      "modId": "dark-matter-crash-handler",
+      "version": "3.0.0-1.19.2"
+    },
+    {
+      "modId": "dark-matter-mirage",
+      "version": "3.0.0-1.19.2"
+    },
+    {
+      "modId": "dark-matter-glitter",
+      "version": "3.0.0-1.19.2"
+    }
+  ]
+}

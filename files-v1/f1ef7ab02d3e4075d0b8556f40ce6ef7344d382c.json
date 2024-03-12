@@ -1,6 +1,12 @@
 {
   "name": "PaperDoll-v8.0.0-1.20.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hD0W2Wde",
+      "versionId": "m32rknsl"
+    }
+  ],
   "fabric": [
     {
       "modId": "paperdoll",

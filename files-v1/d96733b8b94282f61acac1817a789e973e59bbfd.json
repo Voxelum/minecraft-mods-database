@@ -1,0 +1,16 @@
+{
+  "name": "Craftable Totem Of Undying (1.18.2).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "craftable_totem_of_undying",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftable_totem_of_undying",
+      "version": "1.0.0"
+    }
+  ]
+}

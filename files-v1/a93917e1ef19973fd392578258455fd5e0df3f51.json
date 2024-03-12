@@ -1,6 +1,12 @@
 {
   "name": "balm-fabric-2.4.3+0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 500525,
+      "fileId": 3658027
+    }
+  ],
   "fabric": [
     {
       "modId": "balm-fabric",

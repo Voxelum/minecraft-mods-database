@@ -1,0 +1,22 @@
+{
+  "name": "Lefty_crash1.0_1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lefty-crash",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.15.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.15.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.15.3"
+    }
+  ]
+}

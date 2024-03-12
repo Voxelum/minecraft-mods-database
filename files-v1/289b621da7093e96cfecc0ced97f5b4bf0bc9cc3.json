@@ -1,6 +1,12 @@
 {
   "name": "wthit-fabric-8.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6AQIaxuO",
+      "versionId": "mP7qjxyj"
+    }
+  ],
   "fabric": [
     {
       "modId": "wthit",

@@ -1,6 +1,12 @@
 {
   "name": "stoneholm-1.4.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 460336,
+      "fileId": 3819692
+    }
+  ],
   "fabric": [
     {
       "modId": "stoneholm",

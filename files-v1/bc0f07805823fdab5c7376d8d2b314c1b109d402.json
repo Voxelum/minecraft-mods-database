@@ -1,6 +1,18 @@
 {
   "name": "cloth-config-6.2.62-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "d1D40LRO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348521,
+      "fileId": 3782775
+    }
+  ],
   "fabric": [
     {
       "modId": "cloth-config",

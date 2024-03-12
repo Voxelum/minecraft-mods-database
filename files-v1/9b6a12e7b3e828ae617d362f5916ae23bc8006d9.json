@@ -1,0 +1,10 @@
+{
+  "name": "FastChest.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moarfps",
+      "version": "1.2.1"
+    }
+  ]
+}

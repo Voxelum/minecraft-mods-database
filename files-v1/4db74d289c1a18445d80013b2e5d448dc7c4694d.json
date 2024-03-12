@@ -1,0 +1,14 @@
+{
+  "name": "LotTweaks-mc1.19.2-fabric-2.3.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lottweaks",
+      "version": "2.3.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

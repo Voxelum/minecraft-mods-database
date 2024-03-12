@@ -1,6 +1,12 @@
 {
   "name": "torohealth-1.18-forge-2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 245733,
+      "fileId": 3556931
+    }
+  ],
   "forge": [
     {
       "modId": "torohealth",

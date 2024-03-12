@@ -1,0 +1,36 @@
+{
+  "name": "ConquestRefabricated-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ConquestRefabricated-1.1.0",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conquest",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.1.1175+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.1.1175+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ElevatorMod-1.12.2-1.3.13.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250832,
+      "fileId": 2844791
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elevatorid",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

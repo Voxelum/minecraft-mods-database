@@ -1,0 +1,14 @@
+{
+  "name": "techutils-0.3.0-beta.4+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "techutils",
+      "version": "0.3.0-beta.4+1.19.3"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.3.0+1.19.3"
+    }
+  ]
+}

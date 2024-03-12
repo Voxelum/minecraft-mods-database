@@ -1,0 +1,24 @@
+{
+  "name": "CorgiLib-fabric-1.20.1-4.0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ziOp6EO8",
+      "versionId": "xYihdm6D"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "corgilib",
+      "version": "4.0.1.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    }
+  ]
+}

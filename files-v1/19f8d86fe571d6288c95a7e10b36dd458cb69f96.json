@@ -1,6 +1,18 @@
 {
   "name": "netherdungeons-1.1.0-alpha2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m9Ae6Puo",
+      "versionId": "uRUJGVeR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815130,
+      "fileId": 4711131
+    }
+  ],
   "forge": [
     {
       "modId": "netherdungeons",

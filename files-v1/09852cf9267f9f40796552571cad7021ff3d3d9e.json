@@ -1,6 +1,18 @@
 {
   "name": "Ksyxis-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ecVyZ49",
+      "versionId": "uEeD9JQx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 537533,
+      "fileId": 3502167
+    }
+  ],
   "fabric": [
     {
       "modId": "ksyxis",

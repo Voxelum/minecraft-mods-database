@@ -1,0 +1,10 @@
+{
+  "name": "[消除合成冲突]NoMoreRecipeConflict-1.7.10-0.3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "recipehandler",
+      "version": "1.7.10"
+    }
+  ]
+}

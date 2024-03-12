@@ -1,0 +1,20 @@
+{
+  "name": "mcda-1.5.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 426206,
+      "fileId": 3336876
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcda",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

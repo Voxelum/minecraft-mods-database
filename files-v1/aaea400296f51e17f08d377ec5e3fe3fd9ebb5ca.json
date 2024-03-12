@@ -1,4 +1,20 @@
 {
-  "name": "Bare+Bones+1.20 (3).zip",
-  "domain": "resourcepacks"
+  "name": "Bare Bones 1.20.zip",
+  "domain": "resourcepacks",
+  "modrinth": [
+    {
+      "projectId": "rox3U8B6",
+      "versionId": "s3lwqPHV"
+    },
+    {
+      "projectId": "mCcqKjty",
+      "versionId": "qSH4VzRy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 327786,
+      "fileId": 4574076
+    }
+  ]
 }

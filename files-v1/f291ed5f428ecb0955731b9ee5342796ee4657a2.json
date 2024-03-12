@@ -1,0 +1,10 @@
+{
+  "name": "shards.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shards",
+      "version": "1.0"
+    }
+  ]
+}

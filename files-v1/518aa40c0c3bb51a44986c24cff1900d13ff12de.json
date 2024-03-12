@@ -1,6 +1,12 @@
 {
   "name": "trims-expanded-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e05g5n8a",
+      "versionId": "3xKvqomn"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_trims_expanded",

@@ -1,0 +1,34 @@
+{
+  "name": "TheFirstCity-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mrbeastbossfight50k",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "satin",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "org_apiguardian_apiguardian-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.1.0"
+    }
+  ]
+}

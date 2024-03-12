@@ -1,6 +1,12 @@
 {
   "name": "DisableMobReplacement-1.0.0-ExceptVillagers.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 898888,
+      "fileId": 4725489
+    }
+  ],
   "forge": [
     {
       "modId": "disablemobreplacement",

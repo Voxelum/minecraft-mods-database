@@ -1,6 +1,12 @@
 {
   "name": "artifacts-forge-9.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 4706567
+    }
+  ],
   "forge": [
     {
       "modId": "artifacts",

@@ -1,0 +1,24 @@
+{
+  "name": "PerspectiveModRedux-0.0.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 280647,
+      "fileId": 2981602
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "perspectivemod",
+      "version": "0.0.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "2.14.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "2.2.0"
+    }
+  ]
+}

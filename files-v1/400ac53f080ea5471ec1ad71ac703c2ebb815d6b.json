@@ -1,0 +1,18 @@
+{
+  "name": "Armor-Curve-Fabric-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorcurve",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    },
+    {
+      "modId": "com_udojava_evalex",
+      "version": "2.7"
+    }
+  ]
+}

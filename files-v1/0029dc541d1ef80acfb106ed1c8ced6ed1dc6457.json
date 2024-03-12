@@ -1,0 +1,30 @@
+{
+  "name": "UnionLib-1.19.2-10.2.2-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EkkPwdCY",
+      "versionId": "mcUiiUoD"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unionlib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unionlib",
+      "version": "1.19.2-10.2.2-Fabric"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

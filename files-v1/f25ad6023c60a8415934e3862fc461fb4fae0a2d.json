@@ -1,0 +1,14 @@
+{
+  "name": "baritone-1.20.4-20240126.214906-1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "baritone-meteor",
+      "version": "1.20.4-SNAPSHOT"
+    },
+    {
+      "modId": "dev_babbaj_nether-pathfinder",
+      "version": "1.4.1"
+    }
+  ]
+}

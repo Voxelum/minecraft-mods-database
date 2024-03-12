@@ -1,0 +1,24 @@
+{
+  "name": "ledger-1.2.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 491137,
+      "fileId": 4572696
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ledger",
+      "version": "1.2.8"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0-beta.2+1.19.4-pre2"
+    }
+  ]
+}

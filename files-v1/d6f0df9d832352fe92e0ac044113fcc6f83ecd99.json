@@ -1,6 +1,18 @@
 {
   "name": "azure-paxels-1.20.1-1.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sUlkLN1E",
+      "versionId": "hGevtm5N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858703,
+      "fileId": 4729583
+    }
+  ],
   "fabric": [
     {
       "modId": "azure-paxels",

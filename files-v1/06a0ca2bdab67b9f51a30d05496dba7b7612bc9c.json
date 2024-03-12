@@ -1,6 +1,18 @@
 {
   "name": "snowundertrees-1.18.2-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q3vyMuj2",
+      "versionId": "FIcm7YRC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353942,
+      "fileId": 4390069
+    }
+  ],
   "forge": [
     {
       "modId": "snowundertrees",

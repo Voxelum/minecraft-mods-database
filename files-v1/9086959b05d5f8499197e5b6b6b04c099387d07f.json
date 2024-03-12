@@ -1,0 +1,16 @@
+{
+  "name": "Immersive Vehicles Vanity-1.16.5-2.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tU8tzINi",
+      "versionId": "kGwUqktt"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ivv",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

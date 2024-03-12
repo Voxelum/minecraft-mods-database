@@ -1,6 +1,18 @@
 {
   "name": "architectury-8.2.89-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "6bcAfgt2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 4633040
+    }
+  ],
   "fabric": [
     {
       "modId": "architectury",

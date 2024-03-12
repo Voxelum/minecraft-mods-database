@@ -1,6 +1,12 @@
 {
   "name": "Tails-1.12-1.10.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223584,
+      "fileId": 2445532
+    }
+  ],
   "forge": [
     {
       "modId": "tails",

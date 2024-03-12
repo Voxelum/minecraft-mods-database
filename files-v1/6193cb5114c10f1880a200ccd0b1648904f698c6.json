@@ -1,0 +1,22 @@
+{
+  "name": "instant-village-building-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 938986,
+      "fileId": 4871770
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_instant_villagebuilding",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_instant_villagebuilding",
+      "version": "1.1"
+    }
+  ]
+}

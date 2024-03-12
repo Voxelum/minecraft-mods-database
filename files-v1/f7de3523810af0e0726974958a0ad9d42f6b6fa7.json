@@ -1,6 +1,18 @@
 {
   "name": "bygonenether-1.3.2-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kt3BLgXB",
+      "versionId": "YTpOHHAx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576124,
+      "fileId": 4747441
+    }
+  ],
   "forge": [
     {
       "modId": "bygonenether",

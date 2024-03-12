@@ -1,0 +1,20 @@
+{
+  "name": "winterly-0.5.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 552628,
+      "fileId": 3652731
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "winterly",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "goosik-config",
+      "version": "0.2.0"
+    }
+  ]
+}

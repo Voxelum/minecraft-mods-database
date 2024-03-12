@@ -1,0 +1,38 @@
+{
+  "name": "gtceu-fabric-1.19.2-1.0.19.b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7tG215v7",
+      "versionId": "QRh4twJz"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "gtceu",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gtceu",
+      "version": "1.0.19.b"
+    },
+    {
+      "modId": "ldlib",
+      "version": "1.0.22"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.1.58-MC1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    },
+    {
+      "modId": "configuration",
+      "version": "2.1.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "enchantment-lore-1.3.0-b1+MC1.19.1-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enchantment_lore",
+      "version": "1.3.0-b1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    }
+  ]
+}

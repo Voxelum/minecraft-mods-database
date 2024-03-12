@@ -1,0 +1,20 @@
+{
+  "name": "Capes-1.2.2+1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408481,
+      "fileId": 3543238
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "capes",
+      "version": "1.2.2+1.18"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    }
+  ]
+}

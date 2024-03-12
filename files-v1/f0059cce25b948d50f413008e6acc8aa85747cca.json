@@ -1,0 +1,22 @@
+{
+  "name": "Joban-Client-Mod-1.19.2-1.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lQqKCDhg",
+      "versionId": "3iTM5zFY"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "jsblock",
+      "version": "1.2.2+mc1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jsblock",
+      "version": "1.2.2+mc1.19.2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "[凋零收割者]TheMorbidReborn-1.7.10-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "morbid",
+      "version": "${version}"
+    }
+  ]
+}

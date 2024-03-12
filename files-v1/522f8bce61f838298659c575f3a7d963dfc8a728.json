@@ -1,0 +1,16 @@
+{
+  "name": "WWOO-FABRIC-FORGE-QUILT-2.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wwoo_forge",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wwoo",
+      "version": "2.0.0"
+    }
+  ]
+}

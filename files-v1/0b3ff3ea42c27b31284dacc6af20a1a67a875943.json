@@ -1,6 +1,18 @@
 {
   "name": "BarteringStation-v4.0.3-1.19.2-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EOig9U0j",
+      "versionId": "xiH2XGVy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666940,
+      "fileId": 4067998
+    }
+  ],
   "forge": [
     {
       "modId": "barteringstation",

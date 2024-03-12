@@ -1,0 +1,30 @@
+{
+  "name": "DynamicSurroundings-RemasteredFabric-1.19-0.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4TSI7dRt",
+      "versionId": "taoK2TUO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662374,
+      "fileId": 4064653
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dsurround",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "org_openjdk_nashorn_nashorn-core",
+      "version": "15.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.73"
+    }
+  ]
+}

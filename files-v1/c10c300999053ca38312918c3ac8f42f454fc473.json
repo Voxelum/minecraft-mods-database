@@ -1,0 +1,16 @@
+{
+  "name": "handoveryouritems-1.19.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "handoveryouritems",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "handoveryouritems",
+      "version": "3.2"
+    }
+  ]
+}

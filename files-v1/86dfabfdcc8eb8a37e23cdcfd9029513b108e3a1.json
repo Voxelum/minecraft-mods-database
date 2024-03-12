@@ -1,6 +1,18 @@
 {
   "name": "wirelesschargers-1.0.9-forge-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCk7Sfz8",
+      "versionId": "vDdC537s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 510656,
+      "fileId": 4591907
+    }
+  ],
   "forge": [
     {
       "modId": "wirelesschargers",

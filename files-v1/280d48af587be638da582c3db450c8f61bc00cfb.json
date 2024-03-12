@@ -1,6 +1,18 @@
 {
   "name": "caracal-1.20-2.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mLNfkt6W",
+      "versionId": "Ne6ur7It"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486505,
+      "fileId": 4620361
+    }
+  ],
   "fabric": [
     {
       "modId": "aqupdcaracal",

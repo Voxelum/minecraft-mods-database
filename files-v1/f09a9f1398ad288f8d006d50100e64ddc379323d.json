@@ -1,0 +1,20 @@
+{
+  "name": "snow-under-trees-fabric-1.1.0+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XVnUIUAQ",
+      "versionId": "X3GeLDV2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snowundertrees",
+      "version": "1.1.0+1.19.4"
+    },
+    {
+      "modId": "owo",
+      "version": "0.10.3+1.19.4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nutritiousmilk-1.20.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nutritiousmilk",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nutritiousmilk",
+      "version": "3.3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "simple-rpc-1.16.5-2.1.2-all.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "simple-rpc",
+      "version": "1.16.5-${version}"
+    }
+  ]
+}

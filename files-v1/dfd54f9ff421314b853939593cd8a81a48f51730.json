@@ -1,6 +1,12 @@
 {
   "name": "InvMove-1.19-0.8.3-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "REfW2AEX",
+      "versionId": "1uJ8OF0p"
+    }
+  ],
   "fabric": [
     {
       "modId": "invmove",

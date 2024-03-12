@@ -1,6 +1,12 @@
 {
   "name": "emitrades-forge-1.2.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j2HhbEE7",
+      "versionId": "TDLTXwrz"
+    }
+  ],
   "forge": [
     {
       "modId": "emitrades",

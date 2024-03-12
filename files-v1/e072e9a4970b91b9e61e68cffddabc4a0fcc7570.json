@@ -1,6 +1,18 @@
 {
   "name": "secondchanceforge-1.18.2-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H6rTJkIn",
+      "versionId": "BQW1HMxu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 509239,
+      "fileId": 3832230
+    }
+  ],
   "forge": [
     {
       "modId": "secondchanceforge",

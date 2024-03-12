@@ -1,0 +1,22 @@
+{
+  "name": "polymer-all-0.2.25+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "polymer-all",
+      "version": "0.2.25+1.19.2"
+    },
+    {
+      "modId": "polymer",
+      "version": "0.2.25+1.19.2"
+    },
+    {
+      "modId": "polymer-blocks-ext",
+      "version": "0.1.0-alpha.9+1.19.2"
+    },
+    {
+      "modId": "polymer-autohost",
+      "version": "0.1.4+1.19.2"
+    }
+  ]
+}

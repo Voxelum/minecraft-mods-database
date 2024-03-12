@@ -1,6 +1,18 @@
 {
   "name": "status-effect-bars-1.0.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x02cBj9Y",
+      "versionId": "LA3OYeBL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615459,
+      "fileId": 3801375
+    }
+  ],
   "fabric": [
     {
       "modId": "status-effect-bars",

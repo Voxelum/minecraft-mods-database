@@ -1,0 +1,20 @@
+{
+  "name": "konkrete_fabric_1.9.2_MC_1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J81TRJWm",
+      "versionId": "4W5krUSZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "konkrete",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

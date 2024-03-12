@@ -1,0 +1,26 @@
+{
+  "name": "epicknightsnmages-0.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "26nL5g7F",
+      "versionId": "V5RpEuTJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968006,
+      "fileId": 5065363
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "epicknightsnmages",
+      "version": "0.0.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

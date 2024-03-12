@@ -1,0 +1,28 @@
+{
+  "name": "[Universal]CTOV-v2-9-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "wP8LFpoA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 4000676
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "2.9.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "2.9.2"
+    }
+  ]
+}

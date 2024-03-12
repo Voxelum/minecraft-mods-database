@@ -1,0 +1,20 @@
+{
+  "name": "autoclicker-rinf-1.19.2-1.0.0R.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HxpkMeaf",
+      "versionId": "Y9GtEqmU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoclicker-rinf",
+      "version": "1.19.2-1.0.0R"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.3.0+1.19"
+    }
+  ]
+}

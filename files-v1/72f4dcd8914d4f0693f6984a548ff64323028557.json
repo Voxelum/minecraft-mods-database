@@ -1,0 +1,14 @@
+{
+  "name": "m0nkeypr0grammer-reinforced-shulker-boxes-2.5.1+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reinfshulker",
+      "version": "2.5.1+1.20"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "3.1.2+1.20"
+    }
+  ]
+}

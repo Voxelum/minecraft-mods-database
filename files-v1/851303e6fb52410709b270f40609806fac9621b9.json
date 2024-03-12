@@ -1,6 +1,18 @@
 {
   "name": "autumnity-1.19.2-4.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cRh6MJ6n",
+      "versionId": "zukiG2Xb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 365045,
+      "fileId": 4776187
+    }
+  ],
   "forge": [
     {
       "modId": "autumnity",

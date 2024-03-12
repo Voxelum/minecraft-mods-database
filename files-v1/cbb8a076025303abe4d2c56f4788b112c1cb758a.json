@@ -1,0 +1,16 @@
+{
+  "name": "villager-transportation-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_villager_transportation",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_villager_transportation",
+      "version": "1.2"
+    }
+  ]
+}

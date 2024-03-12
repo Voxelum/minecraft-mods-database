@@ -1,0 +1,16 @@
+{
+  "name": "Nimble-1.16.2-0.3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 311927,
+      "fileId": 3397163
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nimble",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

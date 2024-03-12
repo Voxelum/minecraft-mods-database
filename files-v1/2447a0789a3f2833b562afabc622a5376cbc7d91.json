@@ -1,0 +1,20 @@
+{
+  "name": "splasher-1.18-4.0.4-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4yIZUuyx",
+      "versionId": "qbeB27l7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "splasher",
+      "version": "4.0.4-beta"
+    },
+    {
+      "modId": "com_github_krlite_pierced",
+      "version": "v1.2"
+    }
+  ]
+}

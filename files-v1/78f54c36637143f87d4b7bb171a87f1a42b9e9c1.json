@@ -1,6 +1,12 @@
 {
   "name": "reroll-1.4.0-1.18.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401753,
+      "fileId": 3575083
+    }
+  ],
   "fabric": [
     {
       "modId": "reroll",

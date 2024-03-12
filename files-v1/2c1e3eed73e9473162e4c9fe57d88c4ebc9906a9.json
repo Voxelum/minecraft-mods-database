@@ -1,0 +1,16 @@
+{
+  "name": "followersteleporttoo-1.18.2-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "followersteleporttoo",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "followersteleporttoo",
+      "version": "2.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "do_a_barrel_roll-fabric-3.5.2+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": "3.5.2+1.20.1"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.6.0+1.20.1-minus"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

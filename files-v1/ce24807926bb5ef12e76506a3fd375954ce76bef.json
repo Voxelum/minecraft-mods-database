@@ -1,0 +1,26 @@
+{
+  "name": "pickyourpoison-1.0.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pickyourpoison",
+      "version": "1.0.9"
+    },
+    {
+      "modId": "satin",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20211205"
+    }
+  ]
+}

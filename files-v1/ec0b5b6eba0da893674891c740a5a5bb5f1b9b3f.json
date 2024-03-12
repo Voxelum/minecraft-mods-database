@@ -1,0 +1,28 @@
+{
+  "name": "zenith-0.3.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620928,
+      "fileId": 3917956
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "1.2.421-beta+1.18.2-dev.b8d195a"
+    }
+  ]
+}

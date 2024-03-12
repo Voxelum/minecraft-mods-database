@@ -1,0 +1,14 @@
+{
+  "name": "geckolib-fabric-1.19-3.1.38.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "geckolib3",
+      "version": "3.1.38"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

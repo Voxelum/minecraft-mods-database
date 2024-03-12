@@ -1,0 +1,14 @@
+{
+  "name": "TechReborn-1.16-3.8.4+build.236.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "techreborn",
+      "version": "3.8.4+build.236"
+    },
+    {
+      "modId": "reborncore",
+      "version": "4.7.3+build.136"
+    }
+  ]
+}

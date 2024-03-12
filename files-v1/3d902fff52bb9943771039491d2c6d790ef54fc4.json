@@ -1,6 +1,18 @@
 {
   "name": "Mimic-forge-1.18.2-1.1.32.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ePo6jqBP",
+      "versionId": "6FNsM2dC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 475842,
+      "fileId": 3936688
+    }
+  ],
   "forge": [
     {
       "modId": "mimic",

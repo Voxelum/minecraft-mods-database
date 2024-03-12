@@ -1,0 +1,16 @@
+{
+  "name": "cobblemon-fortune-able-evo-stones-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cobblemon_fortuneableevostones_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemon_fortuneableevostones_mr",
+      "version": "1.0"
+    }
+  ]
+}

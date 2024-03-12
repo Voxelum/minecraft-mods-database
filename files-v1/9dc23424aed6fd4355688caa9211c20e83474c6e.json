@@ -1,0 +1,26 @@
+{
+  "name": "elytratrims-1.4.5+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "UftAzqfE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 5014131
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.4.1"
+    }
+  ]
+}

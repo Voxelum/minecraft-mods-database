@@ -1,0 +1,26 @@
+{
+  "name": "PresenceFootsteps-r29+1.16.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rcTfTZr3",
+      "versionId": "BEtLdX9C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334259,
+      "fileId": 3153246
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "presencefootsteps",
+      "version": "r29+1.16.4"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.7-1.16.2"
+    }
+  ]
+}

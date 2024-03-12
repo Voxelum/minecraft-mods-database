@@ -1,6 +1,12 @@
 {
   "name": "friendsandfoes-forge-mc1.20.1-1.9.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BOCJKD49",
+      "versionId": "vIZoONDG"
+    }
+  ],
   "forge": [
     {
       "modId": "friendsandfoes",

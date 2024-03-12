@@ -1,0 +1,32 @@
+{
+  "name": "lilylib-0.1.0-beta.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T7JGtCNH",
+      "versionId": "JOaU11h1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lilylib",
+      "version": "0.1.0-beta.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.13.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.13.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.13.3"
+    }
+  ]
+}

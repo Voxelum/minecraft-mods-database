@@ -1,6 +1,18 @@
 {
   "name": "CollisionDamage-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Beuf2Hfh",
+      "versionId": "77CPkUTK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 494559,
+      "fileId": 4442257
+    }
+  ],
   "forge": [
     {
       "modId": "collisiondamage",

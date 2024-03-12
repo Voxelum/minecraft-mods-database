@@ -1,6 +1,18 @@
 {
   "name": "lifesteal-6.0.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YX0eip4b",
+      "versionId": "1YcMS4Oj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645185,
+      "fileId": 4583403
+    }
+  ],
   "forge": [
     {
       "modId": "lifesteal",

@@ -1,0 +1,40 @@
+{
+  "name": "translater-1.5.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394823,
+      "fileId": 3734230
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "translater",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "libjf-config-v0",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "libjf-translate-v1",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "libjf-unsafe-v0",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "libjf-base",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "io_gitlab_jfronny_gson",
+      "version": "2.9.0.2022.4.2.19.45.43"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.9+d7c144a860"
+    }
+  ]
+}

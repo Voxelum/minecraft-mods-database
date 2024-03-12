@@ -1,0 +1,16 @@
+{
+  "name": "ships-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_ships",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ships",
+      "version": "1.1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "randompatches-1.16.1-0.0.0.5-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 396245,
+      "fileId": 3014929
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randompatches",
+      "version": "1.16.1-0.0.0.5-fabric"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_github_therandomlabs_trlutils-config",
+      "version": "master-SNAPSHOT"
+    },
+    {
+      "modId": "com_github_therandomlabs_trlutils-fabric",
+      "version": "1.16-SNAPSHOT"
+    }
+  ]
+}

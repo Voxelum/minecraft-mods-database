@@ -1,0 +1,24 @@
+{
+  "name": "earlygame-1.16.x-1.0.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 410298,
+      "fileId": 3418819
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "earlygame",
+      "version": "1.16.x-1.0.4"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.0-unstable"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.7.0-unstable"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "CraftTweaker-fabric-1.18.1-9.0.78.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crafttweaker",
+      "version": "9.0.78"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.28.0-GA"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "[火花] spark-1.10.42-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spark",
+      "version": "1.10.42"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

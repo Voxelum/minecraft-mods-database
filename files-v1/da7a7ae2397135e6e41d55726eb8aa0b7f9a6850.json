@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-core-7.99.24.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 231305,
+      "fileId": 2702033
+    }
+  ],
   "forge": [
     {
       "modId": "buildcraftcore",

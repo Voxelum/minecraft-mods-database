@@ -1,0 +1,10 @@
+{
+  "name": "create-addon-v5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_addon",
+      "version": "1.0.0"
+    }
+  ]
+}

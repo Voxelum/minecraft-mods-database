@@ -1,0 +1,10 @@
+{
+  "name": "Bamboo-Blocks-1.15.2-1.4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bambooblocks",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

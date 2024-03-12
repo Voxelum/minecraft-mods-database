@@ -1,0 +1,16 @@
+{
+  "name": "Project_MMO-1.12-3.45.1523.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 353935,
+      "fileId": 4819293
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pmmo",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "Life Steal Enchant 1.4.0 - 1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 508712,
+      "fileId": 3844128
+    }
+  ],
   "forge": [
     {
       "modId": "life_steal_enchantment",

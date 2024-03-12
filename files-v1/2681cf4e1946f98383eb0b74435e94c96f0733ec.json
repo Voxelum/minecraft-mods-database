@@ -1,0 +1,14 @@
+{
+  "name": "MineMenu-fabric-1.20.4-1.13.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minemenu",
+      "version": "1.13.1"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.5-1.20.4"
+    }
+  ]
+}

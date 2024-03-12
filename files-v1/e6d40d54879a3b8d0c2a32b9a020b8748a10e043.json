@@ -1,0 +1,16 @@
+{
+  "name": "Immersive-Vehicles-1.16.5-22.13.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 286703,
+      "fileId": 5068595
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mts",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

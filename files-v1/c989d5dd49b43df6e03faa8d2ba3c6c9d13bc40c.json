@@ -1,6 +1,18 @@
 {
   "name": "xptome-1.18.2-2.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AnpW69o3",
+      "versionId": "GKI6CZqd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344787,
+      "fileId": 4061119
+    }
+  ],
   "forge": [
     {
       "modId": "xpbook",

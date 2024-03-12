@@ -1,0 +1,16 @@
+{
+  "name": "currentgamemusictrack-1.20.4-1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "currentgamemusictrack",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "currentgamemusictrack",
+      "version": "1.4"
+    }
+  ]
+}

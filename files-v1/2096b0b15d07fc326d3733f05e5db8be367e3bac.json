@@ -1,0 +1,20 @@
+{
+  "name": "watut-fabric-1.16.5-1.0.14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtB5mHky",
+      "versionId": "VTlIWZCY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watut",
+      "version": "1.16.5-1.0.14"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "1.0.2"
+    }
+  ]
+}

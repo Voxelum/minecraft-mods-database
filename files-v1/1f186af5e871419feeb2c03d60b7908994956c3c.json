@@ -1,6 +1,18 @@
 {
   "name": "comforts-forge-1.16.5-4.0.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SaCpeal4",
+      "versionId": "hQP0wrCY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 276951,
+      "fileId": 3681503
+    }
+  ],
   "forge": [
     {
       "modId": "comforts",

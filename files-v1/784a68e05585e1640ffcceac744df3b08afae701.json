@@ -1,6 +1,18 @@
 {
   "name": "letmedespawn-forge-1.16-1.0.2a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE2FN5qn",
+      "versionId": "yxrgBOmL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663477,
+      "fileId": 4025350
+    }
+  ],
   "forge": [
     {
       "modId": "letmedespawn",

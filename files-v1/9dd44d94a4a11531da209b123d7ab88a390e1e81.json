@@ -1,0 +1,20 @@
+{
+  "name": "excavatedvariants-fabriquilt-1.20.4-4.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IZaMGxb0",
+      "versionId": "Waff3tuU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "excavated_variants",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "defaultresources",
+      "version": "3.2.1"
+    }
+  ]
+}

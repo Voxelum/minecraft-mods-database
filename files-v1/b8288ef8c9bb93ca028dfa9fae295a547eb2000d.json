@@ -1,0 +1,54 @@
+{
+  "name": "TweakMyClient-all-3.6.416+d193e20-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakmyclient",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_14_4",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_15_2",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_16_5",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_17_1",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_18_2",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_19_2",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_19_3",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_19_4",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_20_1",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_20_2",
+      "version": "3.6.416+d193e20-beta"
+    },
+    {
+      "modId": "tweakmyclient-1_20_4",
+      "version": "3.6.416+d193e20-beta"
+    }
+  ]
+}

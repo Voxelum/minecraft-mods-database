@@ -1,0 +1,22 @@
+{
+  "name": "sheets-1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a1OnavKf",
+      "versionId": "6bZyOfAr"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_sheets",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_sheets",
+      "version": "1.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "cullleaves-fabric-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNxdLCoP",
+      "versionId": "EqasvEFc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423254,
+      "fileId": 4103096
+    }
+  ],
   "fabric": [
     {
       "modId": "cullleaves",

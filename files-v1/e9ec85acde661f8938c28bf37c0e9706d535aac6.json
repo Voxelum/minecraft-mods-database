@@ -1,0 +1,22 @@
+{
+  "name": "custom-planes-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "apPWR9Ak",
+      "versionId": "gGSgtMN1"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "custom_planes_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custom_planes_mr",
+      "version": "1.0"
+    }
+  ]
+}

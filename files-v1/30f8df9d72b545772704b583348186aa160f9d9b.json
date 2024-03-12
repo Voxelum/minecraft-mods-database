@@ -1,0 +1,10 @@
+{
+  "name": "customlan-1.18.1-18.1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lan",
+      "version": "18.1.2"
+    }
+  ]
+}

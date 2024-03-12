@@ -1,0 +1,22 @@
+{
+  "name": "MysticalAgriculture-Refabricated-1.19.2-2.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mysticalagriculture",
+      "version": "2.0.5"
+    },
+    {
+      "modId": "magna",
+      "version": "1.8.0-1.19.2"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.19.2-77-FABRIC"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.1027+1.19.2"
+    }
+  ]
+}

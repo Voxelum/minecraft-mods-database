@@ -1,6 +1,12 @@
 {
   "name": "Searchables.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fuuu3xnx",
+      "versionId": "kt5hkP9b"
+    }
+  ],
   "fabric": [
     {
       "modId": "searchables",

@@ -1,0 +1,22 @@
+{
+  "name": "hit-the-dummy-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1iWHuzOM",
+      "versionId": "BykBG5ye"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_hit_thedummy",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_hit_thedummy",
+      "version": "1.0"
+    }
+  ]
+}

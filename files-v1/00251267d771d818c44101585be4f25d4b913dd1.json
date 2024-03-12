@@ -1,0 +1,34 @@
+{
+  "name": "midnightcontrols-1.7.1+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bXX9h73M",
+      "versionId": "flDrm4to"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621768,
+      "fileId": 4054105
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "midnightcontrols",
+      "version": "1.7.1+1.19"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.0.0+1.19"
+    },
+    {
+      "modId": "org_aperlambda_lambdajcommon",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.6.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "simplegenerators-1.12.2-2.0.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8LufaXAH",
+      "versionId": "vrmjyq43"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246010,
+      "fileId": 2694397
+    }
+  ],
   "forge": [
     {
       "modId": "simplegenerators",

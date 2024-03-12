@@ -1,0 +1,10 @@
+{
+  "name": "Bountiful Baubles-1.14.4-0.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bountifulbaubles",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

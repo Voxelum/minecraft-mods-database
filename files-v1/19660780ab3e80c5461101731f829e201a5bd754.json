@@ -1,0 +1,16 @@
+{
+  "name": "BetterEnderModFORGE-10.3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterendermod",
+      "version": "5.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterendermod",
+      "version": "5.8.0"
+    }
+  ]
+}

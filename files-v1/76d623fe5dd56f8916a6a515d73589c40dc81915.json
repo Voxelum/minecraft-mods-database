@@ -1,0 +1,16 @@
+{
+  "name": "HigherWorldDeeperOceans-1.19.x.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "higherworlddeeperocean",
+      "version": "0.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "higherworlddeeperocean",
+      "version": "0.0.2"
+    }
+  ]
+}

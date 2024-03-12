@@ -1,0 +1,10 @@
+{
+  "name": "实体渲染机制优化EntityCulling.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "entity_culling",
+      "version": "2.0.5"
+    }
+  ]
+}

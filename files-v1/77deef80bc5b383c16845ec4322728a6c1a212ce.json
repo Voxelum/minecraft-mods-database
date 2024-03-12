@@ -1,0 +1,44 @@
+{
+  "name": "graves-2.2.0+1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yn9u3ypm",
+      "versionId": "tZK8jOeV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "universal-graves",
+      "version": "2.2.0+1.19.3"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.0+1.19.3"
+    },
+    {
+      "modId": "hologram-api",
+      "version": "0.2.3+1.19.3"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-pre.2+1.19.3"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.3.0-rc.2+1.19.3-rc3"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.18+1.19.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

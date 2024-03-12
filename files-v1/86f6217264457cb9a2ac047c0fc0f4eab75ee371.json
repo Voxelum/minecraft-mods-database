@@ -1,6 +1,12 @@
 {
   "name": "xModWeCUI.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242932,
+      "fileId": 2390420
+    }
+  ],
   "forge": [
     {
       "modId": "WorldEditCuiFe",

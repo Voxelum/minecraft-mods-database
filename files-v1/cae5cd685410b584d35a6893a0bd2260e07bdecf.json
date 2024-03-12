@@ -1,0 +1,16 @@
+{
+  "name": "snowballsfreezemobs-1.20.1-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "snowballsfreezemobs",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snowballsfreezemobs",
+      "version": "3.2"
+    }
+  ]
+}

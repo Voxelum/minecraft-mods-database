@@ -1,0 +1,18 @@
+{
+  "name": "raisedclouds-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "raisedclouds",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.0-unstable"
+    }
+  ]
+}

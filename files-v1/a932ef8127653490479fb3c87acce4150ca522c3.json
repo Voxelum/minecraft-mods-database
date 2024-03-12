@@ -1,6 +1,18 @@
 {
   "name": "ezzoom-1.16.4-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UFFkmZv6",
+      "versionId": "JzSnlwjE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 422719,
+      "fileId": 3128797
+    }
+  ],
   "forge": [
     {
       "modId": "ezzoom",

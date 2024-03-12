@@ -1,0 +1,26 @@
+{
+  "name": "Estrogen-3.0.4+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HhIJW8n1",
+      "versionId": "JTf9Uidx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850410,
+      "fileId": 4937701
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "estrogen",
+      "version": "3.0.4+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

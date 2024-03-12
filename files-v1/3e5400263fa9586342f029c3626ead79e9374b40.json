@@ -1,0 +1,16 @@
+{
+  "name": "[输入法冲突修复] IMBlocker.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.0-alpha"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.0-alpha"
+    }
+  ]
+}

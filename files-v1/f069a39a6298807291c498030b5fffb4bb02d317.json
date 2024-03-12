@@ -1,0 +1,10 @@
+{
+  "name": "NEIAddons-1.13.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "NEIAddons",
+      "version": "GRADLETOKEN_VERSION"
+    }
+  ]
+}

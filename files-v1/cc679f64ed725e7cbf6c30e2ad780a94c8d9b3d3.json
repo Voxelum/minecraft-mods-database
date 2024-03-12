@@ -1,0 +1,22 @@
+{
+  "name": "[玩法-植物魔法]Botania-1.18.2-435-FABRIC.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "botania",
+      "version": "1.18.2-435-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

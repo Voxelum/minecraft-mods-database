@@ -1,0 +1,14 @@
+{
+  "name": "altoclef-1.20.1-beta2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "altoclef",
+      "version": "1.20.1-beta2"
+    },
+    {
+      "modId": "baritone-meteor",
+      "version": "1.20.1-beta1"
+    }
+  ]
+}

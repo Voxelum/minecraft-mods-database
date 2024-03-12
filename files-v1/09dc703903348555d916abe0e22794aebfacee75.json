@@ -1,6 +1,18 @@
 {
   "name": "spookybats-fabric-1.20.1-0.5.0-BETA.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNIKP4CT",
+      "versionId": "HH8vVGvU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915336,
+      "fileId": 4819790
+    }
+  ],
   "fabric": [
     {
       "modId": "spookybats",

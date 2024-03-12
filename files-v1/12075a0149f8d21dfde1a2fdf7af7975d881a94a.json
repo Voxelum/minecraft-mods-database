@@ -1,0 +1,14 @@
+{
+  "name": "Pehkui-3.2.2+1.14.4-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "3.2.2+1.14.4-1.19"
+    },
+    {
+      "modId": "kanos_config",
+      "version": "0.2.0+1.14.4-1.19"
+    }
+  ]
+}

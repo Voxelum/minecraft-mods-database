@@ -1,0 +1,20 @@
+{
+  "name": "DiagonalWindows-v8.1.2-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oOi0CKes",
+      "versionId": "jtLdyrOM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diagonalwindows",
+      "version": "8.1.2"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "8.0.2"
+    }
+  ]
+}

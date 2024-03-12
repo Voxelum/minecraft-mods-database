@@ -1,0 +1,16 @@
+{
+  "name": "inventorytotem-1.20.4-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.1"
+    }
+  ]
+}

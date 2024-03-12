@@ -1,0 +1,16 @@
+{
+  "name": "moss-ruins-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_moss_ruins",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_moss_ruins",
+      "version": "1"
+    }
+  ]
+}

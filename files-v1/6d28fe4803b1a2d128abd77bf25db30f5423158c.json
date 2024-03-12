@@ -1,0 +1,20 @@
+{
+  "name": "glore-1.20.x-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "glore",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glore",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

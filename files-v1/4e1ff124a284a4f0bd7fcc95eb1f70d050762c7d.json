@@ -1,0 +1,16 @@
+{
+  "name": "【玩家掉头】players-drop-heads-15.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "players_dropheads_mr",
+      "version": "15.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "players_dropheads_mr",
+      "version": "15.1"
+    }
+  ]
+}

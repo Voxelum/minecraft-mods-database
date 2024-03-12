@@ -1,6 +1,18 @@
 {
   "name": "AkashicTome-1.5-20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JBthPdnp",
+      "versionId": "9PQPN6MH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250577,
+      "fileId": 3740180
+    }
+  ],
   "forge": [
     {
       "modId": "akashictome",

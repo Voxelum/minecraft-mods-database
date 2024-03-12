@@ -1,10 +1,20 @@
 {
   "name": "CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 268704,
+      "fileId": 2661859
+    }
+  ],
   "forge": [
     {
       "modId": "craftstudioapi",
       "version": "1.0.0"
+    },
+    {
+      "modId": "craftstudioapi",
+      "version": "1.0.1"
     }
   ]
 }

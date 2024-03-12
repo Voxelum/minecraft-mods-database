@@ -1,0 +1,24 @@
+{
+  "name": "chatheads-0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EM2ioiwa",
+      "versionId": "Jbqeby8x"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatheads",
+      "version": "0.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.7.4+1.20.4"
+    }
+  ]
+}

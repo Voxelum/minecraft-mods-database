@@ -1,0 +1,24 @@
+{
+  "name": "dark-enchanting-1.0.0+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 473553,
+      "fileId": 3777836
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dark-enchanting",
+      "version": "1.0.0+1.18.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.4.0+1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

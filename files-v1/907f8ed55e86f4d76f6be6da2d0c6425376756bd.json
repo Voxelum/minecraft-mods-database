@@ -1,0 +1,20 @@
+{
+  "name": "ironfurnaces-1.18-3.0.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318036,
+      "fileId": 3556167
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironfurnaces",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

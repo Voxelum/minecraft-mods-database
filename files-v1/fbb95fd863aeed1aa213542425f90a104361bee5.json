@@ -1,0 +1,10 @@
+{
+  "name": "LaunchGui-1.9.4-2.0.3-23-client.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "launchgui",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "modernfix-fabric-5.7.1+mc1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.7.1+mc1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

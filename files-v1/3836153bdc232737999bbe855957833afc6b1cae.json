@@ -1,6 +1,12 @@
 {
   "name": "rotten-1.4.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6EdNfDXb",
+      "versionId": "CFYSl0sm"
+    }
+  ],
   "fabric": [
     {
       "modId": "rotten",

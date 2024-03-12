@@ -1,0 +1,10 @@
+{
+  "name": "PymTech-1.16.4-2.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pymtech",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

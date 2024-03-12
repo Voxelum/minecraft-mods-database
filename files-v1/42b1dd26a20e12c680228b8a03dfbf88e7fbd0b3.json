@@ -1,6 +1,18 @@
 {
   "name": "rubidium-0.2.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZqxOvjD",
+      "versionId": "JEoSJNGo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574856,
+      "fileId": 3949659
+    }
+  ],
   "forge": [
     {
       "modId": "rubidium",

@@ -1,0 +1,38 @@
+{
+  "name": "mantle-mod-1.20.2-fabric-0.1.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mantle",
+      "version": "0.1.9"
+    },
+    {
+      "modId": "xyz_deftu_enhancedeventbus",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.10.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp-sse",
+      "version": "4.10.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.3"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "316"
+    },
+    {
+      "modId": "elementa",
+      "version": "612"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "salhack-github-2.05-release.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lunatriuscore",
+      "version": "${version}"
+    }
+  ]
+}

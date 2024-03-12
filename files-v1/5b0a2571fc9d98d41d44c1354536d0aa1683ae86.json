@@ -1,0 +1,22 @@
+{
+  "name": "veinminer-1.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OhduvhIc",
+      "versionId": "bHmDs51u"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_veinminer",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_veinminer",
+      "version": "1.2.1"
+    }
+  ]
+}

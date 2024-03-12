@@ -1,6 +1,12 @@
 {
   "name": "vanish-1.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 676275,
+      "fileId": 4374183
+    }
+  ],
   "fabric": [
     {
       "modId": "melius-vanish",

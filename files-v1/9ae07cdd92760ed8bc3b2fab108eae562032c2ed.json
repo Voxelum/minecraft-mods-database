@@ -1,0 +1,16 @@
+{
+  "name": "TugkanDeMan-s-Weaponry-Fabric-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "twm",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "twm",
+      "version": "1.0.0"
+    }
+  ]
+}

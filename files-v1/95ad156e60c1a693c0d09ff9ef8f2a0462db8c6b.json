@@ -1,0 +1,20 @@
+{
+  "name": "ChatImage-1.1.13+1.20.1+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zhVN1dvW",
+      "versionId": "O7jhG0vk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatimage",
+      "version": "1.1.13+1.20.1+fabric"
+    },
+    {
+      "modId": "io_github_kituin_chatimagecode",
+      "version": "0.5.5"
+    }
+  ]
+}

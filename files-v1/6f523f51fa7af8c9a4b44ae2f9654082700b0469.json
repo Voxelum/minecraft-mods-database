@@ -1,0 +1,20 @@
+{
+  "name": "malilib-fabric-1.19.3-0.14.1-pre.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "vEQ2PjZV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.14.1-pre.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.2+f6c919d672"
+    }
+  ]
+}

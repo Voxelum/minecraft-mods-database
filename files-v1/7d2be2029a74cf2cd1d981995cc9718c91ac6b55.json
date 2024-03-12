@@ -1,6 +1,12 @@
 {
   "name": "bottleyourxp-1.20.1-3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bG2afBot",
+      "versionId": "c4XKG3Vq"
+    }
+  ],
   "forge": [
     {
       "modId": "bottleyourxp",

@@ -1,0 +1,22 @@
+{
+  "name": "modmenu-2.0.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "2.0.10"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b44633d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.7+b7ab61213d"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.4+198a96213d"
+    }
+  ]
+}

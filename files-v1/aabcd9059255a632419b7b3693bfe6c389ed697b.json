@@ -1,0 +1,22 @@
+{
+  "name": "dragon-mount-datapack-2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Qpj1K7w0",
+      "versionId": "4cniU4TE"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_dragon_mountdatapack",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dragon_mountdatapack",
+      "version": "2.1"
+    }
+  ]
+}

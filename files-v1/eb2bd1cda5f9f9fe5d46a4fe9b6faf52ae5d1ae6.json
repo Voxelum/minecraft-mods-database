@@ -1,6 +1,12 @@
 {
   "name": "LuckPerms-Fabric-5.4.66.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vebnzrzj",
+      "versionId": "Ws97yOyp"
+    }
+  ],
   "fabric": [
     {
       "modId": "luckperms",

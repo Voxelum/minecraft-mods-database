@@ -1,0 +1,14 @@
+{
+  "name": "BBOutlineReloaded-2.6-1.19.4-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bbor",
+      "version": "2.6-1.19.4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    }
+  ]
+}

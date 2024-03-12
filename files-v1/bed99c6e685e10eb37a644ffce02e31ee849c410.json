@@ -1,6 +1,12 @@
 {
   "name": "resourcefullib-1.1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1hIVOrD",
+      "versionId": "DtRLheCF"
+    }
+  ],
   "fabric": [
     {
       "modId": "resourcefullib",

@@ -1,0 +1,16 @@
+{
+  "name": "Voodoo-Fabric-1.19.1-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "voodoo",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "voodoo",
+      "version": "1.19.1-1.0.3"
+    }
+  ]
+}

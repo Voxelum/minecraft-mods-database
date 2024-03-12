@@ -1,6 +1,18 @@
 {
   "name": "aquatictorches-1.18-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yJR377od",
+      "versionId": "aTgN8qxS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 563637,
+      "fileId": 3598497
+    }
+  ],
   "forge": [
     {
       "modId": "aquatictorches",

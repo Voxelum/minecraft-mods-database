@@ -1,6 +1,12 @@
 {
   "name": "levelz-1.4.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EFtixeiF",
+      "versionId": "2Z4uv615"
+    }
+  ],
   "fabric": [
     {
       "modId": "levelz",

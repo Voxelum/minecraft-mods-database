@@ -1,0 +1,16 @@
+{
+  "name": "Lampcrafting1.0.5_fabric_minecraft1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lampcrafting",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lampcrafting",
+      "version": "1.0.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "grappling_hook_mod-1.16.5-v13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hGWjTxOA",
+      "versionId": "3ntNLsPo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238911,
+      "fileId": 3795232
+    }
+  ],
   "forge": [
     {
       "modId": "grapplemod",

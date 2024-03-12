@@ -1,6 +1,12 @@
 {
   "name": "DeathCompass-0.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 290702,
+      "fileId": 2555077
+    }
+  ],
   "forge": [
     {
       "modId": "death_compass",

@@ -1,0 +1,10 @@
+{
+  "name": "EnchantIcon-Fabric-1.20.1-1.0.4-7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enchant_icon",
+      "version": "${version}"
+    }
+  ]
+}

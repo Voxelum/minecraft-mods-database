@@ -1,0 +1,16 @@
+{
+  "name": "weakerspiderwebs-1.18.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "weakerspiderwebs",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weakerspiderwebs",
+      "version": "3.3"
+    }
+  ]
+}

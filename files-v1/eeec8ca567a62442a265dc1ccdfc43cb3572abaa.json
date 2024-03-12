@@ -1,6 +1,18 @@
 {
   "name": "champions-forge-1.16.5-2.0.1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlKc4JEx",
+      "versionId": "rPxYplWO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 307152,
+      "fileId": 4297614
+    }
+  ],
   "forge": [
     {
       "modId": "champions",

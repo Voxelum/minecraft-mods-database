@@ -1,6 +1,18 @@
 {
   "name": "HealthOverlay-1.18.2-6.3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wQfMUdZT",
+      "versionId": "Y82SyuUN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368223,
+      "fileId": 3932280
+    }
+  ],
   "forge": [
     {
       "modId": "healthoverlay",

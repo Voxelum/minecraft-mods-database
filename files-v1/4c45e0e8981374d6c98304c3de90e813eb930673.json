@@ -1,6 +1,12 @@
 {
   "name": "ferritecore-5.1.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uXXizFIs",
+      "versionId": "GHcKib6J"
+    }
+  ],
   "fabric": [
     {
       "modId": "ferritecore",

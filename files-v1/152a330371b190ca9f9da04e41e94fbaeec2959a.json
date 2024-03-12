@@ -1,0 +1,34 @@
+{
+  "name": "FabriZoom-1.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabrizoom",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-extra-kotlin",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "com_google_guava_guava",
+      "version": "31.1-jre"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.12"
+    }
+  ]
+}

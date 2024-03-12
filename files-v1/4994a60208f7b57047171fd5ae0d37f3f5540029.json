@@ -1,6 +1,18 @@
 {
   "name": "NuclearCraft-2.18zzz-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eZvzLNgK",
+      "versionId": "XfIgK6cz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 226254,
+      "fileId": 3784145
+    }
+  ],
   "forge": [
     {
       "modId": "nuclearcraft",

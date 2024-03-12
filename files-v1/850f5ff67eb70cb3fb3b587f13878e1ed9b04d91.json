@@ -1,0 +1,20 @@
+{
+  "name": "Debugify-2.6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QwxR6Gcd",
+      "versionId": "W2UIVXCp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "debugify",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    }
+  ]
+}

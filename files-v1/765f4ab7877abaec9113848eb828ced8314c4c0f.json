@@ -1,6 +1,12 @@
 {
   "name": "ForgeNBTEdit-universal-1.0.0.test.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 381388,
+      "fileId": 2949679
+    }
+  ],
   "forge": [
     {
       "modId": "NBTEdit",

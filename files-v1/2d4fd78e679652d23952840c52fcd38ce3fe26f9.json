@@ -1,6 +1,12 @@
 {
   "name": "redstonepen-1.16.5-1.0.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DwE83ioX",
+      "versionId": "TmPoQUBE"
+    }
+  ],
   "forge": [
     {
       "modId": "redstonepen",

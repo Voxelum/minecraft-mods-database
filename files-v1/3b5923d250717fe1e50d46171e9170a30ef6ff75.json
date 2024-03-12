@@ -1,0 +1,26 @@
+{
+  "name": "atlantis-2021.9.21-1.16.5-1.0.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 355418,
+      "fileId": 3467439
+    }
+  ],
+  "forge": [
+    {
+      "modId": "atlantis",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "atlantis",
+      "version": "2020.1.7-1.16.4-1.0.0-fabric"
+    },
+    {
+      "modId": "openworlds",
+      "version": "1.0.1"
+    }
+  ]
+}

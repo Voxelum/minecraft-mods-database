@@ -1,0 +1,16 @@
+{
+  "name": "upgradable-backpack-v10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_upgradable_backpack",
+      "version": "1-v10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_upgradable_backpack",
+      "version": "1-v10"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "magitekmechs-fabric-MC1.19.2-1.0.15.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mtmechs",
+      "version": "1.0.14"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

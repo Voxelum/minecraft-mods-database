@@ -1,0 +1,18 @@
+{
+  "name": "Ares-2.8-1.16.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ares",
+      "version": "2.8"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.3.1+facf3bbf95"
+    },
+    {
+      "modId": "fabritone",
+      "version": "1.6.2"
+    }
+  ]
+}

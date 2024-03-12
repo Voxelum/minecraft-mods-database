@@ -1,0 +1,20 @@
+{
+  "name": "GrowableOres-1.7.0-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XGvP5TBn",
+      "versionId": "sHSQCwlX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "growable_ores",
+      "version": "1.7.0-1.20.1-Fabric"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

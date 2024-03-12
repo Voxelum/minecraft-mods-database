@@ -1,0 +1,20 @@
+{
+  "name": "fightorflight-0.4.11-12.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 846207,
+      "fileId": 4487318
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fightorflight",
+      "version": "0.4.11-12"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.10.3+1.19.4"
+    }
+  ]
+}

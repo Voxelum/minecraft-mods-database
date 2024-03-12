@@ -1,0 +1,16 @@
+{
+  "name": "Book Of Experience 3.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "book-of-experience",
+      "version": "3.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "book-of-experience",
+      "version": "3.1.0"
+    }
+  ]
+}

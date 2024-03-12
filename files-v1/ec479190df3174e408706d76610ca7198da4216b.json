@@ -1,6 +1,12 @@
 {
   "name": "spell_engine-0.10.0+1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 807653,
+      "fileId": 4780874
+    }
+  ],
   "fabric": [
     {
       "modId": "spell_engine",

@@ -1,0 +1,15 @@
+{
+  "name": "createendertransmission-2.0.6-1.18.2-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createendertransmission"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createendertransmission",
+      "version": "2.0.6-1.18.2-fabric"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "FABRIC-Croparia-4.3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250235,
+      "fileId": 4745299
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "croparia",
+      "version": "4.3.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.10"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.4.0+1.20.0"
+    }
+  ]
+}

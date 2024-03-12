@@ -1,6 +1,12 @@
 {
   "name": "servertick-mc1.18-1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 402240,
+      "fileId": 3542454
+    }
+  ],
   "fabric": [
     {
       "modId": "servertick",

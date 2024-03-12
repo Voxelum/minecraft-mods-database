@@ -1,6 +1,12 @@
 {
   "name": "infusion-table-mod-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 531783,
+      "fileId": 3566189
+    }
+  ],
   "fabric": [
     {
       "modId": "infusion_table",

@@ -1,0 +1,14 @@
+{
+  "name": "kronhud-1.1.1-beta-1.16.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kronhud",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "polish",
+      "version": "1.0.3"
+    }
+  ]
+}

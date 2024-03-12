@@ -1,0 +1,14 @@
+{
+  "name": "mysticalnature-1.8.5-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mysticalcrops",
+      "version": "1.8.5-1.18.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.4.2+1.18.2"
+    }
+  ]
+}

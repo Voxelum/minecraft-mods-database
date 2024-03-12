@@ -1,6 +1,12 @@
 {
   "name": "auditory-0.0.4-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1LjfkWOR",
+      "versionId": "Sz9YgtT5"
+    }
+  ],
   "fabric": [
     {
       "modId": "auditory",

@@ -1,6 +1,18 @@
 {
   "name": "autotag-2.0.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8FdYDHF5",
+      "versionId": "VoyNngbb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618433,
+      "fileId": 3989400
+    }
+  ],
   "fabric": [
     {
       "modId": "autotag-convention",

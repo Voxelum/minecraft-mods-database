@@ -1,0 +1,16 @@
+{
+  "name": "caves__canyons-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_caves__canyons",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_caves__canyons",
+      "version": "1.2"
+    }
+  ]
+}

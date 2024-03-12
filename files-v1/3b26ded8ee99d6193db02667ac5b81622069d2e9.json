@@ -1,0 +1,32 @@
+{
+  "name": "elytratrims-fabric-2.0.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "QfSL9w6K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 5120615
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytra-trims",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

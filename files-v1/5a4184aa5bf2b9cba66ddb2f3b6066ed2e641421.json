@@ -1,0 +1,14 @@
+{
+  "name": "isometric-renders-0.2.12+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "isometric-renders",
+      "version": "0.2.12+1.18"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.2.6+1.18"
+    }
+  ]
+}

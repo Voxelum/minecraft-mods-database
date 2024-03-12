@@ -1,0 +1,20 @@
+{
+  "name": "cristellib-fabric-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cl223EMc",
+      "versionId": "HocdgthH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cristellib",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

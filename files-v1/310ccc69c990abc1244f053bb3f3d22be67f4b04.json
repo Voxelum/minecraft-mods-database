@@ -1,6 +1,18 @@
 {
   "name": "elytra-trims-extensions-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5edtQ4at",
+      "versionId": "XaNgVkaS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876856,
+      "fileId": 4721651
+    }
+  ],
   "fabric": [
     {
       "modId": "elytra-trims-extensions",

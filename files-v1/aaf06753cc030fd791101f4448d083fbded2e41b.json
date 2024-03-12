@@ -1,0 +1,22 @@
+{
+  "name": "Audino-1.2.1+1.18.2_fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9VVoLur5",
+      "versionId": "2Q8dqUfV"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "audino",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "audino",
+      "version": "1.2.1+1.18.2_fabric"
+    }
+  ]
+}

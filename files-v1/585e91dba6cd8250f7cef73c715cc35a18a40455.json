@@ -1,0 +1,28 @@
+{
+  "name": "gardenofglass-1.12.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u9tsjkut",
+      "versionId": "BqJPkPin"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232502,
+      "fileId": 4900395
+    }
+  ],
+  "forge": [
+    {
+      "modId": "gardenofglass",
+      "version": "1.12"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gardenofglass",
+      "version": "1.12"
+    }
+  ]
+}

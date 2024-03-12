@@ -1,0 +1,16 @@
+{
+  "name": "AmbientSounds_FORGE_v5.3.2_mc1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

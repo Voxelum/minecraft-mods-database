@@ -1,6 +1,12 @@
 {
   "name": "keybind_fix-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 640307,
+      "fileId": 3860971
+    }
+  ],
   "fabric": [
     {
       "modId": "keybind_fix",

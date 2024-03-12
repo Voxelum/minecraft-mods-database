@@ -1,6 +1,12 @@
 {
   "name": "e4mc-4.0.0+1.19.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qANg5Jrr",
+      "versionId": "EaPCW4md"
+    }
+  ],
   "fabric": [
     {
       "modId": "e4mc_minecraft",

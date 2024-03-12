@@ -1,0 +1,14 @@
+{
+  "name": "nbt-viewer-3.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nbtviewer",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.0+1.20"
+    }
+  ]
+}

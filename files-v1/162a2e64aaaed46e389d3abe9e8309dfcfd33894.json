@@ -1,0 +1,16 @@
+{
+  "name": "broke-pillagers-0.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_broke_pillagers",
+      "version": "0.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_broke_pillagers",
+      "version": "0.0.1"
+    }
+  ]
+}

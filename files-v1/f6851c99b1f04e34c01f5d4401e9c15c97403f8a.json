@@ -1,0 +1,20 @@
+{
+  "name": "piercingpaxels-1.0.12.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHkzYDn7",
+      "versionId": "Pw1MWIuM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "piercingpaxels",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

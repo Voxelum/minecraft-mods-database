@@ -1,0 +1,22 @@
+{
+  "name": "dragonfight-fabric-1.18.2-2.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523327,
+      "fileId": 3843635
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dragonfight",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dragonfight",
+      "version": "1.18.2-2.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "vivecraft-1.19.2-1.0.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGoQDPN5",
+      "versionId": "KtOSPp6N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667903,
+      "fileId": 4684112
+    }
+  ],
   "fabric": [
     {
       "modId": "vivecraft",

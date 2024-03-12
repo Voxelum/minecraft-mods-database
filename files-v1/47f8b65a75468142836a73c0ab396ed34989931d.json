@@ -1,0 +1,22 @@
+{
+  "name": "SereneSeasons-1.18.2-7.0.0.15.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0bNACJD",
+      "versionId": "k8G3p1jL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291874,
+      "fileId": 3804257
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sereneseasons",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

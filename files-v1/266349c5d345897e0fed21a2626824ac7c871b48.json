@@ -1,0 +1,46 @@
+{
+  "name": "traverse-6.0.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "traverse",
+      "version": "6.0.6"
+    },
+    {
+      "modId": "traverse-client",
+      "version": "6.0.6"
+    },
+    {
+      "modId": "traverse-common",
+      "version": "6.0.6"
+    },
+    {
+      "modId": "traverse-worldgen",
+      "version": "6.0.6"
+    },
+    {
+      "modId": "terraform-biome-remapper-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "terraform-config-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "terrablender",
+      "version": "2.0.1.128"
+    }
+  ]
+}

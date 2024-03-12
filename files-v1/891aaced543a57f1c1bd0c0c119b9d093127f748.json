@@ -1,0 +1,10 @@
+{
+  "name": "modularmovements-1.1.1f.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "modularmovements",
+      "version": "${version}"
+    }
+  ]
+}

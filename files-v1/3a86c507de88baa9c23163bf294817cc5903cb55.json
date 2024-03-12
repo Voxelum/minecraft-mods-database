@@ -1,0 +1,14 @@
+{
+  "name": "weighted-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "weighted",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.627+1.19.2"
+    }
+  ]
+}

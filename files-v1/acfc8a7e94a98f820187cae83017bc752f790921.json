@@ -1,0 +1,16 @@
+{
+  "name": "Patchouli手册-1.18.1-61.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "patchouli",
+      "version": "1.18.1-61"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "${version}"
+    }
+  ]
+}

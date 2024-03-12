@@ -1,0 +1,20 @@
+{
+  "name": "BetterDungeons-Fabric-1.16.5-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 525586,
+      "fileId": 3455078
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterdungeons",
+      "version": "1.16.5-1.0.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.19"
+    }
+  ]
+}

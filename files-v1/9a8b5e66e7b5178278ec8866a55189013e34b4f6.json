@@ -1,0 +1,24 @@
+{
+  "name": "fabrictailor-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g8w1NapE",
+      "versionId": "vosWnCNv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabrictailor",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

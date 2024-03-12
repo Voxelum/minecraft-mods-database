@@ -1,0 +1,14 @@
+{
+  "name": "zombie_apocalypse-0.2.2-1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zombie_apocalypse",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

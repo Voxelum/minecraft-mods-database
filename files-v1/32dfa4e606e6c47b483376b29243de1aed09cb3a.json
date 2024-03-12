@@ -1,0 +1,18 @@
+{
+  "name": "woof-3.0.0-1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "woof",
+      "version": "3.0.0-1.18"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.7"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Controlify-1.4.4+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "1.4.4+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "org_hid4java_hid4java",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "dev_isxander_sdl2-jni",
+      "version": "2.26.5-24"
+    },
+    {
+      "modId": "org_quiltmc_quilt-json5",
+      "version": "1.0.3"
+    }
+  ]
+}

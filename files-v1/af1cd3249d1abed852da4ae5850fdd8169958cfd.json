@@ -1,0 +1,30 @@
+{
+  "name": "redbits-1.16.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "redbits-common",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "redbits",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "redbits",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "redbits",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "redbits",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "redbits",
+      "version": "1.16.1"
+    }
+  ]
+}

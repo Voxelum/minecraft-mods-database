@@ -1,0 +1,16 @@
+{
+  "name": "skeletonhorsespawn-1.19.2-3.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "skeletonhorsespawn",
+      "version": "3.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skeletonhorsespawn",
+      "version": "3.8"
+    }
+  ]
+}

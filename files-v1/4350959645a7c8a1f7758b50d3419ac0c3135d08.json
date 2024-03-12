@@ -1,0 +1,26 @@
+{
+  "name": "statuseffecttimer-1.2.0+1.20.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T9FDHbY5",
+      "versionId": "DmFWEKhc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 484738,
+      "fileId": 5045244
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "statuseffecttimer",
+      "version": "1.2.0+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

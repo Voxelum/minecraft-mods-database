@@ -1,6 +1,18 @@
 {
   "name": "WI-Zoom-1.4-MC1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o7DitHWP",
+      "versionId": "G95e71N3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349630,
+      "fileId": 3921702
+    }
+  ],
   "fabric": [
     {
       "modId": "wi_zoom",

@@ -1,0 +1,70 @@
+{
+  "name": "megane-4.1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "megane",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "megane-applied-energistics-2",
+      "version": "4.1.4+8.3.0-alpha.1"
+    },
+    {
+      "modId": "megane-art-of-alchemy",
+      "version": "4.1.4+1.0.0-rc4-1.16.4"
+    },
+    {
+      "modId": "megane-astromine",
+      "version": "4.1.4+1.11.4-fabric-1.16.3"
+    },
+    {
+      "modId": "megane-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "megane-fabric-furnaces",
+      "version": "4.1.4+1.3.3-1.16.4"
+    },
+    {
+      "modId": "megane-fast-transfer-lib",
+      "version": "4.1.4+0.3.1"
+    },
+    {
+      "modId": "megane-industrial-revolution",
+      "version": "4.1.4+1.8.13-BETA"
+    },
+    {
+      "modId": "megane-kibe",
+      "version": "4.1.4+1.6.6-BETA"
+    },
+    {
+      "modId": "megane-lib-block-attributes",
+      "version": "4.1.4+0.8.7"
+    },
+    {
+      "modId": "megane-modern-industrialization-3",
+      "version": "4.1.4+0.3.17"
+    },
+    {
+      "modId": "megane-modern-industrialization-4",
+      "version": "4.1.4+0.4.0-alpha.11"
+    },
+    {
+      "modId": "megane-runtime",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "megane-team-reborn-energy",
+      "version": "4.1.4+0.1.0"
+    },
+    {
+      "modId": "megane-tech-reborn",
+      "version": "4.1.4+3.8.2-build.220"
+    },
+    {
+      "modId": "megane-vanilla",
+      "version": "4.1.4+1.16.5"
+    }
+  ]
+}

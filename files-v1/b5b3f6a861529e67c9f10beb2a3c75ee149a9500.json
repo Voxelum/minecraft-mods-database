@@ -1,0 +1,28 @@
+{
+  "name": "angling-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yxfPh2QX",
+      "versionId": "XcxqhCbn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "angling",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

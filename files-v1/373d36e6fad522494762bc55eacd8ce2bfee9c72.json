@@ -1,0 +1,28 @@
+{
+  "name": "healingcampfire-1.20.4-5.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kOuPUitF",
+      "versionId": "waXIEFAB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342623,
+      "fileId": 4964773
+    }
+  ],
+  "forge": [
+    {
+      "modId": "healingcampfire",
+      "version": "5.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healingcampfire",
+      "version": "5.3"
+    }
+  ]
+}

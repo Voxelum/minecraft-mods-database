@@ -1,0 +1,20 @@
+{
+  "name": "Configurable-mc1.20.1-v1.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HlpEBg3R",
+      "versionId": "bvpQ3K9S"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurable",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "1.2.1"
+    }
+  ]
+}

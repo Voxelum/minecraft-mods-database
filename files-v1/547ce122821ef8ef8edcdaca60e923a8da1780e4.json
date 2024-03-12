@@ -1,0 +1,14 @@
+{
+  "name": "hollowwoods-fabric-1.2.7+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hollowwoods",
+      "version": "1.2.7"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

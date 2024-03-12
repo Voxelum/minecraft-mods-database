@@ -1,6 +1,18 @@
 {
   "name": "revelationary-1.3.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eXrl5E3G",
+      "versionId": "2d9fuEjc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656526,
+      "fileId": 4492955
+    }
+  ],
   "fabric": [
     {
       "modId": "revelationary",

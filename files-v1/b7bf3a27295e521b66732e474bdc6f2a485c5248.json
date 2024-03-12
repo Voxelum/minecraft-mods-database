@@ -1,0 +1,16 @@
+{
+  "name": "cryingportals-1.18.2-2.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cryingportals",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cryingportals",
+      "version": "2.4"
+    }
+  ]
+}

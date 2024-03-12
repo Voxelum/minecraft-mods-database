@@ -1,0 +1,16 @@
+{
+  "name": "surfacelushcaves_FORGE_1_20_1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rw_surface_lush_caves",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rw_surface_lush_caves",
+      "version": "1.0.0"
+    }
+  ]
+}

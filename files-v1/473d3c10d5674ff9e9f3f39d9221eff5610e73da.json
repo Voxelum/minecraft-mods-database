@@ -1,6 +1,12 @@
 {
   "name": "geckolib-forge-1.20-4.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 4573048
+    }
+  ],
   "forge": [
     {
       "modId": "geckolib",

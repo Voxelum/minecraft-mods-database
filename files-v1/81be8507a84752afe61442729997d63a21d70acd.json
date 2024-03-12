@@ -1,0 +1,10 @@
+{
+  "name": "MiniCoal2-1.14.4-0.0.1-universal.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "minicoal2",
+      "version": "{{version}}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "endportalrecipe-1.19.4-5.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "endportalrecipe",
+      "version": "5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "endportalrecipe",
+      "version": "5.0"
+    }
+  ]
+}

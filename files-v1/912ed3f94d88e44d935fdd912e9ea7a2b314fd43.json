@@ -1,0 +1,10 @@
+{
+  "name": "ResourceChickens-1.16.5-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "resourcechickens",
+      "version": "${resourcechickens_version}"
+    }
+  ]
+}

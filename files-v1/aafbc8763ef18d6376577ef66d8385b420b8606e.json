@@ -1,0 +1,10 @@
+{
+  "name": "Morph-o-Tool-1.0-2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "Morphtool",
+      "version": "GRADLE:VERSION-GRADLE:BUILD"
+    }
+  ]
+}

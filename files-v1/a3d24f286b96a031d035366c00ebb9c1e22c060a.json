@@ -1,0 +1,10 @@
+{
+  "name": "foamfix-0.6.3-anarchy-1.8.x.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

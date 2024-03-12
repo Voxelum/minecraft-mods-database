@@ -1,0 +1,22 @@
+{
+  "name": "origins-player-scale-3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9JpuntRB",
+      "versionId": "byyfD2zZ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_origins_playerscale",
+      "version": "3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_origins_playerscale",
+      "version": "3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Galosphere-1.18.2-1.2.1-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "galosphere",
+      "version": "1.18.2-1.2.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

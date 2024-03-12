@@ -1,0 +1,28 @@
+{
+  "name": "eldritch-mobs-1.10.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 392015,
+      "fileId": 3682368
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eldritch_mobs",
+      "version": "1.10.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Shield_Overhaul-FABRIC-MC1.20.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XGoaJBjR",
+      "versionId": "R5qYUydy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637870,
+      "fileId": 4766698
+    }
+  ],
   "fabric": [
     {
       "modId": "shield_overhaul",

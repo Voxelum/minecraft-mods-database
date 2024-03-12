@@ -1,0 +1,14 @@
+{
+  "name": "FractalPortals_Fabric-1.18.2-1.5.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fractalportals",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta50-1.18"
+    }
+  ]
+}

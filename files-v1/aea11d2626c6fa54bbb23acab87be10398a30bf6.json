@@ -1,0 +1,14 @@
+{
+  "name": "clientcommands-2.7.11.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "clientcommands",
+      "version": "2.7.11"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.4.3"
+    }
+  ]
+}

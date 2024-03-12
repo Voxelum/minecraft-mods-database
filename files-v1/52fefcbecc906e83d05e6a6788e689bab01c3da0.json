@@ -1,6 +1,18 @@
 {
   "name": "opac-fabric-create-support-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T4Cv5iZq",
+      "versionId": "UmKySKmr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 650095,
+      "fileId": 4610263
+    }
+  ],
   "fabric": [
     {
       "modId": "opaccreatesupport",

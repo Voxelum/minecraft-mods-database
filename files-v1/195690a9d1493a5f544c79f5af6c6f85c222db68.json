@@ -1,0 +1,14 @@
+{
+  "name": "dehydration-1.1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dehydration",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.15"
+    }
+  ]
+}

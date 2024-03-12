@@ -1,6 +1,18 @@
 {
   "name": "another_furniture-fabric-1.2.2-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ulloLmqG",
+      "versionId": "358zJFc2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610492,
+      "fileId": 4034016
+    }
+  ],
   "fabric": [
     {
       "modId": "another_furniture",

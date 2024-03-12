@@ -1,0 +1,24 @@
+{
+  "name": "pling-1.3.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 365521,
+      "fileId": 3153778
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pling",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

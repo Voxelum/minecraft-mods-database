@@ -1,0 +1,22 @@
+{
+  "name": "autotools-1.9-fabric-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autotools",
+      "version": "1.9"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.30+7abfd51577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da77"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.21+b3afc78b77"
+    }
+  ]
+}

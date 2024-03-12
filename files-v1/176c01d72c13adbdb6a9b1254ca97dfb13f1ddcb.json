@@ -1,0 +1,18 @@
+{
+  "name": "[only for infinity-reborn]LibGui-5.4.2+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "libgui",
+      "version": "5.4.2+1.18.2"
+    },
+    {
+      "modId": "jankson",
+      "version": "4.0.0+j1.2.0"
+    },
+    {
+      "modId": "libninepatch",
+      "version": "1.1.0"
+    }
+  ]
+}

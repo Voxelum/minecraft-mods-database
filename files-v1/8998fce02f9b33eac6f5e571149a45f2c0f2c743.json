@@ -1,6 +1,18 @@
 {
   "name": "jumpboat-1.18.2-0.1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z6clHfIZ",
+      "versionId": "GWbHz162"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 542110,
+      "fileId": 3682173
+    }
+  ],
   "forge": [
     {
       "modId": "jumpboat",

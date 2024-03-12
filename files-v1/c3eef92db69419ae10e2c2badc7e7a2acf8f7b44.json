@@ -1,6 +1,18 @@
 {
   "name": "item-model-fix-1.0.3+1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B3HO5V57",
+      "versionId": "HTrmf7Mo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399798,
+      "fileId": 3573933
+    }
+  ],
   "fabric": [
     {
       "modId": "itemmodelfix",

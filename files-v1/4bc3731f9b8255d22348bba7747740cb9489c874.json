@@ -1,0 +1,28 @@
+{
+  "name": "chunkloaders-1.2.8a-forge-mc1.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t1VgucWo",
+      "versionId": "D9ED6hSW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 402924,
+      "fileId": 4850855
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8+a"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "AttributeFix-Fabric-1.19.2-17.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lOOpEntO",
+      "versionId": "7lsA3k7C"
+    }
+  ],
   "fabric": [
     {
       "modId": "attributefix",

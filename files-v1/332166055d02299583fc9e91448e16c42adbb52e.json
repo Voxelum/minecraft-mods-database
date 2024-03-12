@@ -1,0 +1,10 @@
+{
+  "name": "goodall-1.1.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "goodall",
+      "version": "1.1.1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "mythicmetals-0.15.5+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "FqtPErJi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.15.5+1.19"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.7.3+1.19"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    }
+  ]
+}

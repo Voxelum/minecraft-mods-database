@@ -1,0 +1,14 @@
+{
+  "name": "RoughlyEnoughItems-13.0.679.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "13.0.679"
+    },
+    {
+      "modId": "error_notifier",
+      "version": "1.0.9"
+    }
+  ]
+}

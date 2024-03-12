@@ -1,6 +1,12 @@
 {
   "name": "citadel-2.4.1-1.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 331936,
+      "fileId": 4579078
+    }
+  ],
   "forge": [
     {
       "modId": "citadel",

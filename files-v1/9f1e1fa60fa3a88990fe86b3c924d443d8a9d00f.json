@@ -1,0 +1,20 @@
+{
+  "name": "rswires-4.12.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 286328,
+      "fileId": 3662439
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rswires",
+      "version": "4.12.0"
+    },
+    {
+      "modId": "hctm-base",
+      "version": "3.7.0"
+    }
+  ]
+}

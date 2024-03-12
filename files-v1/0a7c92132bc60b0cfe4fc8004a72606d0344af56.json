@@ -1,0 +1,18 @@
+{
+  "name": "[only for infinity-reborn]Gobber2-Fabric-1.18.2-2.5.88.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gobber2",
+      "version": "2.5.80"
+    },
+    {
+      "modId": "pugh_lib",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.2.7"
+    }
+  ]
+}

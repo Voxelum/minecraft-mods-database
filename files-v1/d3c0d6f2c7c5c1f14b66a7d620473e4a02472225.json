@@ -1,0 +1,16 @@
+{
+  "name": "quickpaths-1.19.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "quickpaths",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickpaths",
+      "version": "3.2"
+    }
+  ]
+}

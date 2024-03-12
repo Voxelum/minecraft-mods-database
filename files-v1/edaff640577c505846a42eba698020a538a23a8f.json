@@ -1,6 +1,12 @@
 {
   "name": "flatbedrock-1.2.0-build.2+mc1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 398623,
+      "fileId": 3438815
+    }
+  ],
   "forge": [
     {
       "modId": "flatbedrock",

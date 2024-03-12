@@ -1,6 +1,18 @@
 {
   "name": "Hephaestus-1.18.2-3.5.2.155.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sdSn3wvy",
+      "versionId": "hEFa9Ofs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667894,
+      "fileId": 4061933
+    }
+  ],
   "forge": [
     {
       "modId": "tconstruct",

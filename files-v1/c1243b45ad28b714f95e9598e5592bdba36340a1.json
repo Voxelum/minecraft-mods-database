@@ -1,6 +1,12 @@
 {
   "name": "AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DyTvM1dv",
+      "versionId": "nmf6Pzbc"
+    }
+  ],
   "fabric": [
     {
       "modId": "ambientenvironment",

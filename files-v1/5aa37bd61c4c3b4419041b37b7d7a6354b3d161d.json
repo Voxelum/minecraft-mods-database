@@ -1,0 +1,28 @@
+{
+  "name": "MerchantMarkers-1.20.1-fabric-1.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AGhiJWsU",
+      "versionId": "9JD3inri"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 554836,
+      "fileId": 4750053
+    }
+  ],
+  "forge": [
+    {
+      "modId": "merchantmarkers",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "merchantmarkers",
+      "version": "1.3.1"
+    }
+  ]
+}

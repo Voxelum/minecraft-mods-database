@@ -1,0 +1,20 @@
+{
+  "name": "flan-1.20.1-1.8.11-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 404578,
+      "fileId": 4920922
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flan",
+      "version": "1.20.1-1.8.11"
+    },
+    {
+      "modId": "rtree-3i-lite-fabric",
+      "version": "0.3.0"
+    }
+  ]
+}

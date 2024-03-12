@@ -1,0 +1,28 @@
+{
+  "name": "eggolib-1.20-1.9.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uFJODQCA",
+      "versionId": "we85d3Ov"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eggolib",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "breathinglib",
+      "version": "1.0.4"
+    }
+  ]
+}

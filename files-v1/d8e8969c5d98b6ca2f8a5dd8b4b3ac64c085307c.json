@@ -1,0 +1,16 @@
+{
+  "name": "hashs-falcons-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hashs_falcons_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hashs_falcons_mr",
+      "version": "1.0"
+    }
+  ]
+}

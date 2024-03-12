@@ -1,0 +1,14 @@
+{
+  "name": "capsey-archeology-1.19.2-0.2.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "archeology",
+      "version": "0.2.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.6.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "villagerfix-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K2YWwbQ8",
+      "versionId": "5ioRptrI"
+    }
+  ],
   "fabric": [
     {
       "modId": "villagerfix",

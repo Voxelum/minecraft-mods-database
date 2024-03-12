@@ -1,0 +1,16 @@
+{
+  "name": "pv-addon-priority-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pv_addon_priority",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pv-addon-priority",
+      "version": "1.0.0"
+    }
+  ]
+}

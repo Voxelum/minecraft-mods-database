@@ -1,0 +1,16 @@
+{
+  "name": "BuildGuide-1.18.2-0.3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "buildguide",
+      "version": "0.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "buildguide",
+      "version": "0.3.3"
+    }
+  ]
+}

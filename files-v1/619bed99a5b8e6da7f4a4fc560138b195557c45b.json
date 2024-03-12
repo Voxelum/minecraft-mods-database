@@ -1,0 +1,20 @@
+{
+  "name": "friendsandfoes-fabric-mc1.19.2-1.5.10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551364,
+      "fileId": 3974658
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "1.5.10"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    }
+  ]
+}

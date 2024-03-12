@@ -1,6 +1,18 @@
 {
   "name": "FpsReducer2-fabric-1.19.2-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iZ10HXDj",
+      "versionId": "PzNcUmMG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 280294,
+      "fileId": 3931334
+    }
+  ],
   "fabric": [
     {
       "modId": "fpsreducer",

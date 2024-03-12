@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-refresh-1.4.19a.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gWO6Zqey",
+      "versionId": "HT6gTdM1"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_vanilla_refresh",
+      "version": "1.4.19a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vanilla_refresh",
+      "version": "1.4.19a"
+    }
+  ]
+}

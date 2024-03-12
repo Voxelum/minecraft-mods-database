@@ -1,0 +1,16 @@
+{
+  "name": "FallingTree-1.18.2-3.5.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fallingtree",
+      "version": "3.5.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fallingtree",
+      "version": "3.5.4"
+    }
+  ]
+}

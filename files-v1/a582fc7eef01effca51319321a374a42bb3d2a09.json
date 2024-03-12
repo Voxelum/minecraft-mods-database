@@ -1,0 +1,20 @@
+{
+  "name": "DamageVignette-2.0.2-fabric+mc1.20.x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TsEhjL6r",
+      "versionId": "v4mzKp20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "damagevignette",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

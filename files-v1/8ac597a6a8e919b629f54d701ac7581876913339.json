@@ -1,0 +1,16 @@
+{
+  "name": "keystrokeshippo-3.1-1.12.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qBYjphri",
+      "versionId": "L8IE9B1m"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "keystrokeshippo",
+      "version": "${version}"
+    }
+  ]
+}

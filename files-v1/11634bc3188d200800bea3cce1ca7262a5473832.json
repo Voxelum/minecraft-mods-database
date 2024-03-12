@@ -1,0 +1,16 @@
+{
+  "name": "flowerseeds-1.16.5-1.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 445955,
+      "fileId": 3296781
+    }
+  ],
+  "forge": [
+    {
+      "modId": "flowerseeds",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aquamirae Mod EXTRA Music 1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 542360,
+      "fileId": 4374860
+    }
+  ],
+  "forge": [
+    {
+      "modId": "aquamiraemusicmod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

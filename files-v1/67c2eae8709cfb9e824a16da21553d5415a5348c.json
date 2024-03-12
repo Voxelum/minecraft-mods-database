@@ -1,0 +1,10 @@
+{
+  "name": "[清除掉落物]item kill-1.16.5-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "itme_kill",
+      "version": "1.0.0"
+    }
+  ]
+}

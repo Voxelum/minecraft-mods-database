@@ -1,6 +1,12 @@
 {
   "name": "RallyHealth-fabric-1.19.2-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 290282,
+      "fileId": 4328234
+    }
+  ],
   "fabric": [
     {
       "modId": "rallyhealth",

@@ -1,6 +1,18 @@
 {
   "name": "caelus-forge-1.16.5-2.1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "40FYwb4z",
+      "versionId": "mCcOcJC8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308989,
+      "fileId": 3522094
+    }
+  ],
   "forge": [
     {
       "modId": "caelus",

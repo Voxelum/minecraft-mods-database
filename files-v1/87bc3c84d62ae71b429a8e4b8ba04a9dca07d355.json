@@ -1,6 +1,12 @@
 {
   "name": "evs-betterend-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 606906,
+      "fileId": 3740541
+    }
+  ],
   "fabric": [
     {
       "modId": "evs-betterend",

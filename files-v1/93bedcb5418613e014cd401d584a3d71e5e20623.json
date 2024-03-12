@@ -1,0 +1,26 @@
+{
+  "name": "nicer-skies-1.3.0+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gsJ6q45e",
+      "versionId": "rqUnNZqs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 736884,
+      "fileId": 4758884
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nicer-skies",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.30+b0bc9a6790"
+    }
+  ]
+}

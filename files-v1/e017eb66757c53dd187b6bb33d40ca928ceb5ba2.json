@@ -1,6 +1,18 @@
 {
   "name": "vitalize-fabric-1.19.2-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JOlyQnh1",
+      "versionId": "dDLXan9i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659274,
+      "fileId": 4102436
+    }
+  ],
   "fabric": [
     {
       "modId": "vitalize",

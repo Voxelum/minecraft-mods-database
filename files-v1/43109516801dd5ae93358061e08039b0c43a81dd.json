@@ -1,0 +1,26 @@
+{
+  "name": "crawl-0.12.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H1JOVjhn",
+      "versionId": "LudUeZca"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 314579,
+      "fileId": 4840607
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crawl",
+      "version": "0.12.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

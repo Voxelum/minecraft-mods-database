@@ -1,0 +1,16 @@
+{
+  "name": "svm_powers_mod_1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_svm_powers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_svm_powers",
+      "version": "1"
+    }
+  ]
+}

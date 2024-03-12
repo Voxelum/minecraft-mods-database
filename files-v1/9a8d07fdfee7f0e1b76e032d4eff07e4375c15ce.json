@@ -1,0 +1,10 @@
+{
+  "name": "Create-Cobblemon-Fabric-v0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "create_cobblemon_compat",
+      "version": "0.2"
+    }
+  ]
+}

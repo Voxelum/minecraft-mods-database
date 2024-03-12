@@ -1,6 +1,12 @@
 {
   "name": "creategoggles-1.19.2-0.5.5.e-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L1RT5SJc",
+      "versionId": "zqk0VU4g"
+    }
+  ],
   "forge": [
     {
       "modId": "creategoggles",

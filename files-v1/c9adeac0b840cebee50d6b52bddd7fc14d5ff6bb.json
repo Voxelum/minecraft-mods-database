@@ -1,0 +1,14 @@
+{
+  "name": "iammusicplayer-fabric-mc1.20-3.22.0-alpha.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iammusicplayer",
+      "version": "3.22.0-alpha.2"
+    },
+    {
+      "modId": "special-model-loader",
+      "version": "1.2.0"
+    }
+  ]
+}

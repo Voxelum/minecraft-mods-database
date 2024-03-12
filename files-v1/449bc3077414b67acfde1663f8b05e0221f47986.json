@@ -1,0 +1,14 @@
+{
+  "name": "memoryleakfix-fabric-1.17+-1.0.0-beta.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "memoryleakfix",
+      "version": "1.0.0-beta.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.5"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lavaluckyutil_ver_5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lavaluckyblockutil",
+      "version": "1.0.0"
+    }
+  ]
+}

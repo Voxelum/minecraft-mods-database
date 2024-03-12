@@ -1,6 +1,12 @@
 {
   "name": "WR-CBE-1.7.10-1.4.1.9-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229314,
+      "fileId": 2233235
+    }
+  ],
   "forge": [
     {
       "modId": "WR-CBE|Core",

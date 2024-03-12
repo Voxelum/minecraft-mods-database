@@ -1,0 +1,212 @@
+{
+  "name": "fabric-api-0.92.1+1.20.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P7dR8mSH",
+      "versionId": "5ngsQlW8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabric-api",
+      "version": "0.92.1+1.20.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.36+3434862f5c"
+    },
+    {
+      "modId": "fabric-api-lookup-api-v1",
+      "version": "1.6.46+3434862f5c"
+    },
+    {
+      "modId": "fabric-biome-api-v1",
+      "version": "13.0.16+3434862f5c"
+    },
+    {
+      "modId": "fabric-block-api-v1",
+      "version": "1.0.15+3434862f5c"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.4+3434862f5c"
+    },
+    {
+      "modId": "fabric-blockrenderlayer-v1",
+      "version": "1.1.46+3434862f5c"
+    },
+    {
+      "modId": "fabric-client-tags-api-v1",
+      "version": "1.1.7+3434862f5c"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.20+3434862f5c"
+    },
+    {
+      "modId": "fabric-content-registries-v0",
+      "version": "6.0.0+3434862f5c"
+    },
+    {
+      "modId": "fabric-convention-tags-v1",
+      "version": "1.5.10+3434862f5c"
+    },
+    {
+      "modId": "fabric-crash-report-info-v1",
+      "version": "0.2.23+3434862f5c"
+    },
+    {
+      "modId": "fabric-data-generation-api-v1",
+      "version": "14.0.1+3434862f5c"
+    },
+    {
+      "modId": "fabric-dimensions-v1",
+      "version": "2.1.61+3434862f5c"
+    },
+    {
+      "modId": "fabric-entity-events-v1",
+      "version": "1.5.29+3434862f5c"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.7.0+18c9eaa45c"
+    },
+    {
+      "modId": "fabric-game-rule-api-v1",
+      "version": "1.0.46+3434862f5c"
+    },
+    {
+      "modId": "fabric-item-api-v1",
+      "version": "3.0.0+3434862f5c"
+    },
+    {
+      "modId": "fabric-item-group-api-v1",
+      "version": "4.0.21+3434862f5c"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.41+3434862f5c"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.30+3434862f5c"
+    },
+    {
+      "modId": "fabric-loot-api-v2",
+      "version": "2.1.5+3434862f5c"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "6.0.5+3434862f5c"
+    },
+    {
+      "modId": "fabric-mining-level-api-v1",
+      "version": "2.1.60+3434862f5c"
+    },
+    {
+      "modId": "fabric-model-loading-api-v1",
+      "version": "1.0.8+3434862f5c"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.1.4+d89921fb5c"
+    },
+    {
+      "modId": "fabric-object-builder-api-v1",
+      "version": "13.0.9+ae41f5ec5c"
+    },
+    {
+      "modId": "fabric-particles-v1",
+      "version": "1.1.7+3434862f5c"
+    },
+    {
+      "modId": "fabric-recipe-api-v1",
+      "version": "2.0.17+3434862f5c"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "4.0.15+3434862f5c"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "3.2.4+3434862f5c"
+    },
+    {
+      "modId": "fabric-renderer-indigo",
+      "version": "1.5.4+3434862f5c"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.0.33+3434862f5c"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "3.0.13+3434862f5c"
+    },
+    {
+      "modId": "fabric-resource-conditions-api-v1",
+      "version": "2.3.14+3434862f5c"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.16+3434862f5c"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.17+3434862f5c"
+    },
+    {
+      "modId": "fabric-screen-handler-api-v1",
+      "version": "1.3.52+3434862f5c"
+    },
+    {
+      "modId": "fabric-sound-api-v1",
+      "version": "1.0.17+3434862f5c"
+    },
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "4.0.7+3434862f5c"
+    },
+    {
+      "modId": "fabric-transitive-access-wideners-v1",
+      "version": "6.0.0+3434862f5c"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.2.41+f71b366f5c"
+    },
+    {
+      "modId": "fabric-commands-v0",
+      "version": "0.2.58+df3654b35c"
+    },
+    {
+      "modId": "fabric-containers-v0",
+      "version": "0.1.83+df3654b35c"
+    },
+    {
+      "modId": "fabric-events-lifecycle-v0",
+      "version": "0.2.72+df3654b35c"
+    },
+    {
+      "modId": "fabric-keybindings-v0",
+      "version": "0.2.39+df3654b35c"
+    },
+    {
+      "modId": "fabric-models-v0",
+      "version": "0.4.7+9386d8a75c"
+    },
+    {
+      "modId": "fabric-renderer-registries-v1",
+      "version": "3.2.51+df3654b35c"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.42+73761d2e5c"
+    },
+    {
+      "modId": "fabric-rendering-v0",
+      "version": "1.1.54+df3654b35c"
+    }
+  ]
+}

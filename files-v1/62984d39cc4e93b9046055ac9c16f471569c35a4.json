@@ -1,6 +1,12 @@
 {
   "name": "mysticaloaktree-1.18.2-1.0-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 691002,
+      "fileId": 4070368
+    }
+  ],
   "fabric": [
     {
       "modId": "mysticaloaktree",

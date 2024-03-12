@@ -1,6 +1,18 @@
 {
   "name": "logical_zoom-0.0.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8bOImuGU",
+      "versionId": "fuHwFiAG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356461,
+      "fileId": 3919920
+    }
+  ],
   "fabric": [
     {
       "modId": "logical_zoom",

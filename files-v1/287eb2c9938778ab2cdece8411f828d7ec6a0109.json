@@ -1,0 +1,24 @@
+{
+  "name": "ImmediatelyFast-Fabric-1.2.10+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "3sz82ybY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.2.10+1.19.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.2"
+    }
+  ]
+}

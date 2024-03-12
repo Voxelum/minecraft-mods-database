@@ -1,0 +1,36 @@
+{
+  "name": "Immersive-Portals-Mod-Fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zJpHMkdD",
+      "versionId": "gHkU8koW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "3.2.5"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "3.2.5"
+    },
+    {
+      "modId": "q_misc_util",
+      "version": "3.2.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "dimension_data_fix",
+      "version": "2.0.0"
+    }
+  ]
+}

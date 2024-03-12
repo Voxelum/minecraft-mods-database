@@ -1,0 +1,40 @@
+{
+  "name": "MutantMonsters-v8.0.7-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "derP0ten",
+      "versionId": "GEdQkhpr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852665,
+      "fileId": 5107401
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mutantmonsters",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mutantmonsters",
+      "version": "8.0.7"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "7.0.1"
+    }
+  ]
+}

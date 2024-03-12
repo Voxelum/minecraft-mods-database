@@ -1,6 +1,12 @@
 {
   "name": "obfuscate-0.4.1-1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 289380,
+      "fileId": 2912288
+    }
+  ],
   "forge": [
     {
       "modId": "obfuscate",

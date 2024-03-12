@@ -1,6 +1,12 @@
 {
   "name": "nice-1.12-0.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 255038,
+      "fileId": 2660161
+    }
+  ],
   "forge": [
     {
       "modId": "nice",

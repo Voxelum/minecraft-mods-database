@@ -1,0 +1,14 @@
+{
+  "name": "dawn-3.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dawn",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "veinmining-fabric-1.2.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRAPbNyF",
+      "versionId": "daF6eTE3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431611,
+      "fileId": 4592820
+    }
+  ],
   "fabric": [
     {
       "modId": "veinmining",

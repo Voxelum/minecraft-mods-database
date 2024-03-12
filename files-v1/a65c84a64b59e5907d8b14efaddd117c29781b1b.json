@@ -1,0 +1,14 @@
+{
+  "name": "LoTAS1.20.1-2.1.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lotas",
+      "version": "2.1.3"
+    },
+    {
+      "modId": "com_google_code_findbugs_annotations",
+      "version": "3.0.1u2"
+    }
+  ]
+}

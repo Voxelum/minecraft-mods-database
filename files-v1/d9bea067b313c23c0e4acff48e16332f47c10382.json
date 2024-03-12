@@ -1,6 +1,12 @@
 {
   "name": "dashloader-5.0.0-alpha.13+1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZfQ3kTvR",
+      "versionId": "BUJc3mxs"
+    }
+  ],
   "fabric": [
     {
       "modId": "dashloader",

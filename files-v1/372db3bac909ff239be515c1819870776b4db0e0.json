@@ -1,0 +1,18 @@
+{
+  "name": "BetterTotemOfUndying-Fabric-1.19.2-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "better_totem_of_undying",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

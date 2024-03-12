@@ -1,6 +1,12 @@
 {
   "name": "elytra_trinket-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wk57PrDM",
+      "versionId": "rzIxotxo"
+    }
+  ],
   "fabric": [
     {
       "modId": "elytra_trinket",

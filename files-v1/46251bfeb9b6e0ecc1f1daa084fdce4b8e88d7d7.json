@@ -1,6 +1,12 @@
 {
   "name": "another_overworld_1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 842515,
+      "fileId": 4459438
+    }
+  ],
   "forge": [
     {
       "modId": "another_overworld",

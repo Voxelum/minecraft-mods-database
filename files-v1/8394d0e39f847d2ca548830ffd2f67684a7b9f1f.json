@@ -1,6 +1,18 @@
 {
   "name": "Patchouli-1.18.1-65-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "OUi0L7mI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393236,
+      "fileId": 3630726
+    }
+  ],
   "fabric": [
     {
       "modId": "patchouli",

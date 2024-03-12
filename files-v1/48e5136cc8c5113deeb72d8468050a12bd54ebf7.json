@@ -1,0 +1,20 @@
+{
+  "name": "owo-lib-0.10.6+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ccKDOlHs",
+      "versionId": "beTZr7PG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "owo",
+      "version": "0.10.6+1.19.4"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

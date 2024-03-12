@@ -1,0 +1,16 @@
+{
+  "name": "morezombievillagers-1.18.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "morezombievillagers",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morezombievillagers",
+      "version": "3.3"
+    }
+  ]
+}

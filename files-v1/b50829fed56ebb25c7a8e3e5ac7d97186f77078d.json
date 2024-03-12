@@ -1,6 +1,18 @@
 {
   "name": "nofade-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WwT5TcIT",
+      "versionId": "sWcDcWMC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 452768,
+      "fileId": 3228523
+    }
+  ],
   "fabric": [
     {
       "modId": "nofade",

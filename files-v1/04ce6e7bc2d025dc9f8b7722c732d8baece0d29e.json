@@ -1,6 +1,12 @@
 {
   "name": "talkbubbles-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BUpChT1v",
+      "versionId": "N5rg1YeQ"
+    }
+  ],
   "fabric": [
     {
       "modId": "talkbubbles",

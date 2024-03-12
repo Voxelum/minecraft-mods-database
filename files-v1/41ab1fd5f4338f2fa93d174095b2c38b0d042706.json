@@ -1,0 +1,16 @@
+{
+  "name": "lootintegrations-fabric-1.18.2-1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lootintegrations",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations",
+      "version": "1.18.2-1.5"
+    }
+  ]
+}

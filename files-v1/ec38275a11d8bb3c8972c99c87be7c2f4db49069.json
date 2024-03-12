@@ -1,0 +1,20 @@
+{
+  "name": "IronChests-1.7.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7mHyGgvW",
+      "versionId": "HpF3VKwq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironchests",
+      "version": "1.7.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    }
+  ]
+}

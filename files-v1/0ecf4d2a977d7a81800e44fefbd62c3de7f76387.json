@@ -1,6 +1,12 @@
 {
   "name": "cloth-config-5.3.58-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 319057,
+      "fileId": 3641134
+    }
+  ],
   "fabric": [
     {
       "modId": "cloth-config2",

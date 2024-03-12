@@ -1,0 +1,48 @@
+{
+  "name": "HorseBuff-1.20-2.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IrrG0G8l",
+      "versionId": "20xITMg4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "horsebuff",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a27"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.33+b3afc78b27"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.20+b3afc78b27"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "2.2.6+b3afc78b27"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.6+b3afc78b27"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d27"
+    }
+  ]
+}

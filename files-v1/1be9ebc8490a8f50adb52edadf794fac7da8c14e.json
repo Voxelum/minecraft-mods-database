@@ -1,6 +1,12 @@
 {
   "name": "corpse-1.16.5-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 316582,
+      "fileId": 3338002
+    }
+  ],
   "forge": [
     {
       "modId": "corpse",

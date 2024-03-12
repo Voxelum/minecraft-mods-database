@@ -1,0 +1,46 @@
+{
+  "name": "【masa全家桶】MasaGadget-3.2.308+2c7a07f-stable.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "masa_gadget_mod",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_14_4",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_15_2",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_16_5",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_17_1",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_18_2",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_2",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_3",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_19_4",
+      "version": "3.2.308+2c7a07f-stable"
+    },
+    {
+      "modId": "masa_gadget_mod-1_20",
+      "version": "3.2.308+2c7a07f-stable"
+    }
+  ]
+}

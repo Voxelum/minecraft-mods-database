@@ -1,6 +1,18 @@
 {
   "name": "charm_fixer-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wofAHCXj",
+      "versionId": "nvh4XPN9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 700906,
+      "fileId": 4081618
+    }
+  ],
   "fabric": [
     {
       "modId": "charm_fixer",

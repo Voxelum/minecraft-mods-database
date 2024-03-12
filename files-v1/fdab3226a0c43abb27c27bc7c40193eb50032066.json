@@ -1,6 +1,12 @@
 {
   "name": "SmartBrainLib-fabric-1.19.2-1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PuyPazRT",
+      "versionId": "61jQHgGB"
+    }
+  ],
   "fabric": [
     {
       "modId": "smartbrainlib",

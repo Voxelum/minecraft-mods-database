@@ -1,6 +1,12 @@
 {
   "name": "collective-fabric-1.18.x-4.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 526606,
+      "fileId": 3654799
+    }
+  ],
   "fabric": [
     {
       "modId": "collective-fabric",

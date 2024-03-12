@@ -1,0 +1,22 @@
+{
+  "name": "blur-forge-3.1.1-mc1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 823106,
+      "fileId": 4906395
+    }
+  ],
+  "forge": [
+    {
+      "modId": "blur",
+      "version": "3.1.1+mc1.18.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "$version"
+    }
+  ]
+}

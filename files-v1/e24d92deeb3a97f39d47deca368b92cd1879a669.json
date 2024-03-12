@@ -1,9 +1,25 @@
 {
   "name": "yesstevemodel-1.20-fabric-release-1.1.5-hotfix-2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "86xjpqqS",
+      "versionId": "WclHJJxj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 784675,
+      "fileId": 4702502
+    }
+  ],
   "forge": [
     {
       "modId": "yesstevemodel-1.20-fabric-release-1.1.5-hotfix-2",
+      "version": ""
+    },
+    {
+      "modId": "yesstevemodel-1.20-fabric-release-1.1.5-hotfix-2 (1)",
       "version": ""
     }
   ],

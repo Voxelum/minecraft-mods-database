@@ -1,0 +1,38 @@
+{
+  "name": "cosmetica-1.20.4-1.2.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9hF9QGp",
+      "versionId": "HNRBmXaG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581009,
+      "fileId": 5006679
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cosmetica",
+      "version": "1.2.7"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.35+78d798af4f"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.15+78d798af4f"
+    },
+    {
+      "modId": "sulphate",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "com_github_cosmetica-cc_cosmeticadotjava",
+      "version": "1.11.2"
+    }
+  ]
+}

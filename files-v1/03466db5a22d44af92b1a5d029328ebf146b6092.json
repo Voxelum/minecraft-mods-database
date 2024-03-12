@@ -1,6 +1,18 @@
 {
   "name": "HammerLib-1.12.2-2.0.6.32.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PlkSuVtM",
+      "versionId": "Lq9syePn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247401,
+      "fileId": 3611193
+    }
+  ],
   "forge": [
     {
       "modId": "hammercore",

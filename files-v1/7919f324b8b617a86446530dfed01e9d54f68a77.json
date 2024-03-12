@@ -1,0 +1,14 @@
+{
+  "name": "lootbags-fabric-1.19.2-1.1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lootbags",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "1.1.14"
+    }
+  ]
+}

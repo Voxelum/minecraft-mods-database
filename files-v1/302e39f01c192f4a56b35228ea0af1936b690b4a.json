@@ -1,0 +1,24 @@
+{
+  "name": "MysticalAgriculture-Refabricated-1.16.5-1.1.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 473200,
+      "fileId": 3362276
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mysticalagriculture",
+      "version": "1.1.7"
+    },
+    {
+      "modId": "magna",
+      "version": "1.5.1-1.16.5"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

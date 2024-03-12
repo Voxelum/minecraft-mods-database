@@ -1,6 +1,12 @@
 {
   "name": "architectury-10.0.8-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "RbSwgJzj"
+    }
+  ],
   "forge": [
     {
       "modId": "architectury",

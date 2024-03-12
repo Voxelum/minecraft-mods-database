@@ -1,6 +1,12 @@
 {
   "name": "gravestone-1.20.1-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RYtXKJPr",
+      "versionId": "RHJuIsAQ"
+    }
+  ],
   "forge": [
     {
       "modId": "gravestone",

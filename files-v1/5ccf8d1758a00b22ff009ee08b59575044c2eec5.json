@@ -1,0 +1,16 @@
+{
+  "name": "village_nullifier-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_village_nullifier",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_village_nullifier",
+      "version": "1.0.3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "vanilla-hammers-3.0.3-1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanilla-hammers",
+      "version": "3.0.3-1.16.5"
+    },
+    {
+      "modId": "magna",
+      "version": "1.5.3-1.16.5"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    },
+    {
+      "modId": "static-content",
+      "version": "1.0.1-1.16.2"
+    },
+    {
+      "modId": "maybe-data",
+      "version": "1.0.0-1.16.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "AutoLoginCommand-2.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autologincommand",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "crossversion",
+      "version": "0.1.0-pre7"
+    }
+  ]
+}

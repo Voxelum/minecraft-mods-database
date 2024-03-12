@@ -1,6 +1,12 @@
 {
   "name": "voidtotem-fabric-1.18.1-1.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456137,
+      "fileId": 3680832
+    }
+  ],
   "fabric": [
     {
       "modId": "voidtotem",

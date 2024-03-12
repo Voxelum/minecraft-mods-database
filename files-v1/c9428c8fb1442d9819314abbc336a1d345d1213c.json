@@ -1,0 +1,16 @@
+{
+  "name": "betterlily.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterlily",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterlily",
+      "version": "1.1.0"
+    }
+  ]
+}

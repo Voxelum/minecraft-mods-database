@@ -1,6 +1,18 @@
 {
   "name": "upgradednetherite-1.18.2-4.3.0.1-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7seKMZeT",
+      "versionId": "D37wnI6p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400085,
+      "fileId": 4496089
+    }
+  ],
   "forge": [
     {
       "modId": "upgradednetherite",

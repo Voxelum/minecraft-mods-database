@@ -1,0 +1,14 @@
+{
+  "name": "autorun-1.19.X-0.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autorun",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.69"
+    }
+  ]
+}

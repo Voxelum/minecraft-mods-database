@@ -1,0 +1,14 @@
+{
+  "name": "[显示][苹果皮]appleskin-fabric-mc1.18-2.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "appleskin",
+      "version": "mc1.18-2.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

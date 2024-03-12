@@ -1,0 +1,28 @@
+{
+  "name": "DashLoader-4.1.3-for-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZfQ3kTvR",
+      "versionId": "oDlgxjWQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dashloader",
+      "version": "4.1.3+1.18"
+    },
+    {
+      "modId": "dev_quantumfusion_hyphen",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "dev_quantumfusion_taski",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_luben_zstd-jni",
+      "version": "1.5.2-2"
+    }
+  ]
+}

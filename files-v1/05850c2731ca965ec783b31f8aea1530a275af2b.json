@@ -1,6 +1,12 @@
 {
   "name": "copperhopper-0.0.12+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mTI5Xg5F",
+      "versionId": "x6yf3o0b"
+    }
+  ],
   "fabric": [
     {
       "modId": "copperhopper",

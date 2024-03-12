@@ -1,6 +1,12 @@
 {
   "name": "flywheel-forge-1.18.2-0.6.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 486392,
+      "fileId": 3934664
+    }
+  ],
   "forge": [
     {
       "modId": "flywheel",

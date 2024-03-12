@@ -1,6 +1,12 @@
 {
   "name": "ad_astra-fabric-1.19.2-1.12.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3ufwT9JF",
+      "versionId": "8WPZ1i4p"
+    }
+  ],
   "fabric": [
     {
       "modId": "ad_astra",

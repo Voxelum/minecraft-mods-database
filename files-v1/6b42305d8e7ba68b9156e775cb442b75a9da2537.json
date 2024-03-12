@@ -1,6 +1,18 @@
 {
   "name": "More-Planets-1.12.2-2.3.2-GC4.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fogahytq",
+      "versionId": "2JgLZvRU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 261990,
+      "fileId": 4429472
+    }
+  ],
   "forge": [
     {
       "modId": "moreplanets",

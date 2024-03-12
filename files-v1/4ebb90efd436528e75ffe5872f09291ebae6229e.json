@@ -1,6 +1,18 @@
 {
   "name": "[fabric 1.20] options-profiles-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DnyS3EEW",
+      "versionId": "k0wIuRnS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 853719,
+      "fileId": 4590294
+    }
+  ],
   "fabric": [
     {
       "modId": "options-profiles",

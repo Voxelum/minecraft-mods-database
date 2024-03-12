@@ -1,6 +1,12 @@
 {
   "name": "chisel-1.4.8+1.19.3+continuity-inside.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551763,
+      "fileId": 4325250
+    }
+  ],
   "fabric": [
     {
       "modId": "chisel",

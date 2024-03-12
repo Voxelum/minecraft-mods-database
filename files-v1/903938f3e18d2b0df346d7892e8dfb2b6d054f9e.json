@@ -1,0 +1,16 @@
+{
+  "name": "ecu-1.3.0-legacy.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ecu",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ecu",
+      "version": "1.3.0"
+    }
+  ]
+}

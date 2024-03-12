@@ -1,6 +1,12 @@
 {
   "name": "Bookshelf-Forge-1.18.2-13.2.50.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228525,
+      "fileId": 3961347
+    }
+  ],
   "forge": [
     {
       "modId": "bookshelf",

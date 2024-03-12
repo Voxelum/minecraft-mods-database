@@ -1,0 +1,16 @@
+{
+  "name": "larger-ore-veins-deluxe-v0.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_larger_oreveinsdeluxe",
+      "version": "1-v0.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_larger_oreveinsdeluxe",
+      "version": "1-v0.2.1"
+    }
+  ]
+}

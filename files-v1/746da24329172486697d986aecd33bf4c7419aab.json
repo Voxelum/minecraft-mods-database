@@ -1,0 +1,10 @@
+{
+  "name": "mod5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": "2.10.7"
+    }
+  ]
+}

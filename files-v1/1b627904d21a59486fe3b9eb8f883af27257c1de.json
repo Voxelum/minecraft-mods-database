@@ -1,0 +1,18 @@
+{
+  "name": "antighost-1.16.4-fabric0.25.1-1.1.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "antighost",
+      "version": "1.16.4-fabric0.25.1-1.1.3"
+    },
+    {
+      "modId": "cotton-client-commands",
+      "version": "1.0.1+1.16-rc1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.2"
+    }
+  ]
+}

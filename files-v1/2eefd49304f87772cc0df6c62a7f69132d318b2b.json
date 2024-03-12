@@ -1,6 +1,12 @@
 {
   "name": "medievalweapons-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C37HUu02",
+      "versionId": "w6bZUlwr"
+    }
+  ],
   "fabric": [
     {
       "modId": "medievalweapons",

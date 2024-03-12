@@ -1,0 +1,16 @@
+{
+  "name": "tinkerers-statures-1.1.0+1.19.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tinkerers_statures",
+      "version": "1.1.0+1.19"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tinkerers-statures",
+      "version": "1.1.0+1.19"
+    }
+  ]
+}

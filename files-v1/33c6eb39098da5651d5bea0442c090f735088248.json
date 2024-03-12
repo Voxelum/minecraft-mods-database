@@ -1,6 +1,12 @@
 {
   "name": "trimeffects-1.0.3-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 870275,
+      "fileId": 4791686
+    }
+  ],
   "fabric": [
     {
       "modId": "trimeffects",

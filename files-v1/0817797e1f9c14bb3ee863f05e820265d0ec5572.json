@@ -1,0 +1,32 @@
+{
+  "name": "Alchemistry-1.19.2-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "Alchemistry-1.19.2-1.0.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "alchemistry",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.1.2"
+    }
+  ]
+}

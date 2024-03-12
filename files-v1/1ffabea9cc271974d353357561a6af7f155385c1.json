@@ -1,9 +1,23 @@
 {
   "name": "create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ysHf2zCJ",
+      "versionId": "Z7Vvonpy"
+    }
+  ],
   "forge": [
     {
       "modId": "create-sodium-fix-0.5.1-d-build.5+mc1.20.1",
+      "version": ""
+    },
+    {
+      "modId": "create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar.d",
+      "version": ""
+    },
+    {
+      "modId": "create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar.disabled",
       "version": ""
     }
   ],

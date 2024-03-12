@@ -1,0 +1,24 @@
+{
+  "name": "moderate-loading-screen-1.2.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RCjGlCDj",
+      "versionId": "2sM7WaLc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moderate-loading-screen",
+      "version": "1.2.1+1.20.1"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    }
+  ]
+}

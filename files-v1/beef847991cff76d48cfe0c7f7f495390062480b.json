@@ -1,0 +1,14 @@
+{
+  "name": "entity-texture-features-[1.18.0-1]-2.4.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entity_texture_features",
+      "version": "2.4.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "mountable.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cj8jrU7n",
+      "versionId": "FB77FTsq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemounts",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rswires-4.13.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rswires",
+      "version": "4.13.0"
+    },
+    {
+      "modId": "hctm-base",
+      "version": "3.8.0"
+    }
+  ]
+}

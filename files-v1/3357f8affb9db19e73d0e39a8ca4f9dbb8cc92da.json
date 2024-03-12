@@ -1,6 +1,18 @@
 {
   "name": "SplashAnimation-0.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "deWGErtm",
+      "versionId": "PD7SC1yE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 289953,
+      "fileId": 2680269
+    }
+  ],
   "forge": [
     {
       "modId": "MiniCoremod",

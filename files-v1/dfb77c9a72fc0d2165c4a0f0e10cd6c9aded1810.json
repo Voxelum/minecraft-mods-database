@@ -1,0 +1,14 @@
+{
+  "name": "【人鱼】mermod-fabric-2.41.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mermod",
+      "version": "2.41"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

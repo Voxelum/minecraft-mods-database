@@ -1,0 +1,20 @@
+{
+  "name": "ExtraDoors-1.8.2-1.16.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 341066,
+      "fileId": 3154835
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extradoors",
+      "version": "1.8.2-1.16.2"
+    },
+    {
+      "modId": "programmerartinjector",
+      "version": "1.2.1"
+    }
+  ]
+}

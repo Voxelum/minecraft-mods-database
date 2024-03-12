@@ -1,0 +1,18 @@
+{
+  "name": "tdnf_mc116_2.1.128.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "trees-do-not-float",
+      "version": "2.1.128"
+    },
+    {
+      "modId": "jankson",
+      "version": "3.0.1+j1.2.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bleachhack-1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bleachhack",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "com_github_bleachdev_discordipc",
+      "version": "1dca11fce3"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-common",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-native-common",
+      "version": "2.2.1"
+    }
+  ]
+}

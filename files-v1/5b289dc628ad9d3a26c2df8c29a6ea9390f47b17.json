@@ -1,0 +1,22 @@
+{
+  "name": "realisticfirespread-1.19-2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "realisticfirespread",
+      "version": "1.19-2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TmTmc-OresAndMore-1.20.1-1.0.16.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tmtmcoresandmore",
+      "version": "1.0.16"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tmtmcoresandmore",
+      "version": "1.0.16"
+    }
+  ]
+}

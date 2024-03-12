@@ -1,6 +1,18 @@
 {
   "name": "owo-lib-0.5.2+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ccKDOlHs",
+      "versionId": "i8cpzMnQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532610,
+      "fileId": 3646495
+    }
+  ],
   "fabric": [
     {
       "modId": "owo",

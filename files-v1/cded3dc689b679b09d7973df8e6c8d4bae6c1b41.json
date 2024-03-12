@@ -1,6 +1,12 @@
 {
   "name": "libIPN-forge-1.20-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "onSQdWhM",
+      "versionId": "9nOJu1y9"
+    }
+  ],
   "forge": [
     {
       "modId": "libipn",

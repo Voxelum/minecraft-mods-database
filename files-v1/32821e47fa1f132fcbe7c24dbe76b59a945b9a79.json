@@ -1,0 +1,10 @@
+{
+  "name": "gokiStats-1.2.5.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "gokistats",
+      "version": "@version@"
+    }
+  ]
+}

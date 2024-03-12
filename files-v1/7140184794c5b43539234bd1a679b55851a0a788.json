@@ -1,0 +1,14 @@
+{
+  "name": "jecharacters-fabric-1.16.5-4.3.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jecharacters",
+      "version": "1.16.5-4.3.10"
+    },
+    {
+      "modId": "com_github_towdium_pinin",
+      "version": "1.5.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "shulkercharm-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shulkercharm",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    }
+  ]
+}

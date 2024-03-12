@@ -1,6 +1,12 @@
 {
   "name": "rpgstats-4.5.0+1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 389800,
+      "fileId": 4291799
+    }
+  ],
   "fabric": [
     {
       "modId": "rpgstats",

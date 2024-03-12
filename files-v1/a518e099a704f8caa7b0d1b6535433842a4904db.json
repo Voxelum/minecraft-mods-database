@@ -1,6 +1,18 @@
 {
   "name": "chefs-delight-1.0.2-forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pvcsfne4",
+      "versionId": "CwV7mj5e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 832983,
+      "fileId": 4517363
+    }
+  ],
   "forge": [
     {
       "modId": "chefsdelight",

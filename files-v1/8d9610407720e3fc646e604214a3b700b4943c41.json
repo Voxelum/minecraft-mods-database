@@ -1,6 +1,18 @@
 {
   "name": "trade-cycling-fabric-1.20.1-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qpPoAL6m",
+      "versionId": "9Vwmj6aI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570431,
+      "fileId": 4680049
+    }
+  ],
   "fabric": [
     {
       "modId": "trade_cycling",

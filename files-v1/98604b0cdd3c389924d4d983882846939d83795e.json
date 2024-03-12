@@ -1,0 +1,14 @@
+{
+  "name": "uselessreptile-0.5.0-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "uselessreptile",
+      "version": "0.5.0-1.20.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

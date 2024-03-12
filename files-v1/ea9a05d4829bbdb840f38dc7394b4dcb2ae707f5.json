@@ -1,0 +1,22 @@
+{
+  "name": "Impersonate-2.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "impersonate",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.2"
+    }
+  ]
+}

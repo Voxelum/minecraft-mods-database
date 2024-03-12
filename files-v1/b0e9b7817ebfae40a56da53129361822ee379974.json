@@ -1,6 +1,18 @@
 {
   "name": "pluto-mc1.19.2-0.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I2K4u1Q7",
+      "versionId": "7JnXMAAf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682881,
+      "fileId": 4469704
+    }
+  ],
   "forge": [
     {
       "modId": "pluto",

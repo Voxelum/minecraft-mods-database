@@ -1,6 +1,18 @@
 {
   "name": "environmentaltech-1.12.2-2.0.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dGdhZiPO",
+      "versionId": "k48mmbV0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245453,
+      "fileId": 2691536
+    }
+  ],
   "forge": [
     {
       "modId": "environmentaltech",

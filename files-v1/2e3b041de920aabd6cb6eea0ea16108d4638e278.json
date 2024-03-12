@@ -1,0 +1,52 @@
+{
+  "name": "embeddium-fabric-0.3.7+mc24w09a.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sk9rgfiA",
+      "versionId": "Jms8wfZJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "embeddium",
+      "version": "0.3.7+mc24w09a"
+    },
+    {
+      "modId": "sodium",
+      "version": "0.5.8"
+    },
+    {
+      "modId": "indium",
+      "version": "1.99.99"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.38+80f8cf5162"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.6+80f8cf5162"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.0+6e2af44262"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.44+73761d2e62"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.22+109a837c62"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "3.2.7+03be9f1d62"
+    },
+    {
+      "modId": "fabric-renderer-indigo",
+      "version": "1.5.7+80f8cf5162"
+    }
+  ]
+}

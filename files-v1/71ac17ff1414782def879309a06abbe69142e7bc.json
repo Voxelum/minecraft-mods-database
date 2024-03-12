@@ -1,0 +1,20 @@
+{
+  "name": "appliedenergistics2-11.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ae2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ae2",
+      "version": "11.0.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

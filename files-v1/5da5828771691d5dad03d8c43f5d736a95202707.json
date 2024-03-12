@@ -1,0 +1,20 @@
+{
+  "name": "dummmmmmy-1.20-1.8.14-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225738,
+      "fileId": 5051317
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dummmmmmy",
+      "version": "1.20-1.8.14"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

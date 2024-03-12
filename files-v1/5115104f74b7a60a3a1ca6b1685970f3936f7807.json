@@ -1,0 +1,22 @@
+{
+  "name": "simple-portal-gun-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gVhqix1z",
+      "versionId": "plns303I"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_simple_portalgun",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_simple_portalgun",
+      "version": "2.0.0"
+    }
+  ]
+}

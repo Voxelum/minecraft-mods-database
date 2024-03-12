@@ -1,6 +1,12 @@
 {
   "name": "cullclouds-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WoKBoi0o",
+      "versionId": "IznPBwjd"
+    }
+  ],
   "fabric": [
     {
       "modId": "cullclouds",

@@ -1,0 +1,18 @@
+{
+  "name": "Guithium-0.0.5-SNAPSHOT.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "guithium",
+      "version": "0.0.5-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.10.1"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-gson",
+      "version": "4.14.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 272671,
+      "fileId": 2687354
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tcomplement",
+      "version": "${version}"
+    }
+  ]
+}

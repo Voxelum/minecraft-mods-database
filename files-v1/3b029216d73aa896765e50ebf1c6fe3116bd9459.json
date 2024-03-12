@@ -1,0 +1,16 @@
+{
+  "name": "TreeChop-1.20.1-fabric-0.18.7b.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "treechop",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treechop",
+      "version": "0.18.7b"
+    }
+  ]
+}

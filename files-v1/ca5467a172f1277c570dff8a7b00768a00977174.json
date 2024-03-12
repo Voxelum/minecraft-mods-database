@@ -1,6 +1,12 @@
 {
   "name": "Ping-1.18-1.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 222967,
+      "fileId": 3544622
+    }
+  ],
   "forge": [
     {
       "modId": "ping",

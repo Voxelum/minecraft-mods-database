@@ -1,6 +1,12 @@
 {
   "name": "chemlib-1.18.2-2.0.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 340666,
+      "fileId": 4770566
+    }
+  ],
   "forge": [
     {
       "modId": "chemlib",

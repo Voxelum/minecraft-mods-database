@@ -1,0 +1,10 @@
+{
+  "name": "primallib-v1.1.60-mc1.12.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "primallib",
+      "version": "{@version}"
+    }
+  ]
+}

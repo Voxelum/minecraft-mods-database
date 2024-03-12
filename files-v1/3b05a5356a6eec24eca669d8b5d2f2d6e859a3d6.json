@@ -1,0 +1,16 @@
+{
+  "name": "edibles-1.20.4-4.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "edibles",
+      "version": "4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "edibles",
+      "version": "4.3"
+    }
+  ]
+}

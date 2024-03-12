@@ -1,0 +1,16 @@
+{
+  "name": "panda-temple-V1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_panda_temple",
+      "version": "1-V1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_panda_temple",
+      "version": "1-V1"
+    }
+  ]
+}

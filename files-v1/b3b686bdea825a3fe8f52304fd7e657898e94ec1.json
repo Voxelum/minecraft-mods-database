@@ -1,0 +1,14 @@
+{
+  "name": "coordinates_display.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "coordinatesdisplay",
+      "version": "4.0.3+hoplite"
+    },
+    {
+      "modId": "boxlib",
+      "version": "5.4.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "artis-recrafted-2.2.0+1.18.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 574404,
+      "fileId": 3681015
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artis",
+      "version": "2.2.0+1.18.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.2.0+1.18"
+    },
+    {
+      "modId": "nbtcrafting",
+      "version": "2.1.0+mc1.18-pre1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.4"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "darkmining-1.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 733039,
+      "fileId": 4343876
+    }
+  ],
   "fabric": [
     {
       "modId": "darkmining",

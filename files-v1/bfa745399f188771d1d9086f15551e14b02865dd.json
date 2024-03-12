@@ -1,0 +1,20 @@
+{
+  "name": "BasicShields-1.4.1-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ePPW8VRb",
+      "versionId": "fk6BV41B"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "basicshields",
+      "version": "1.4.1-1.20.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

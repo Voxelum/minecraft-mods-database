@@ -1,0 +1,16 @@
+{
+  "name": "nofeathertrample-1.20.4-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nofeathertrample",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nofeathertrample",
+      "version": "1.2"
+    }
+  ]
+}

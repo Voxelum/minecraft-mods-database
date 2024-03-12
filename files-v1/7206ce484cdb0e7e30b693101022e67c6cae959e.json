@@ -1,0 +1,60 @@
+{
+  "name": "ViaFabric-0.4.12+54-main.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlKdE5VK",
+      "versionId": "9snTv2mt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabric",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc114",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc115",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc116",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc117",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc118",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc119",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc120",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viafabric-mc18",
+      "version": "0.4.12+54-main"
+    },
+    {
+      "modId": "viaversion",
+      "version": "4.9.3-SNAPSHOT"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    },
+    {
+      "modId": "cotton-client-commands",
+      "version": "1.1.0+1.15.2"
+    }
+  ]
+}

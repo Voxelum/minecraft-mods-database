@@ -1,0 +1,36 @@
+{
+  "name": "MineFortress-RTS-Mod-Fabric-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lcUdtArI",
+      "versionId": "XKDe6j1e"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minefortress",
+      "version": "1.9.1-beta"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "automatone",
+      "version": "1.0.6+minefortress"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.7+minefortress"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.7+minefortress"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.7+minefortress"
+    }
+  ]
+}

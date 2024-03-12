@@ -1,0 +1,16 @@
+{
+  "name": "enchantingcommands-1.19.3-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enchantingcommands",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantingcommands",
+      "version": "3.0"
+    }
+  ]
+}

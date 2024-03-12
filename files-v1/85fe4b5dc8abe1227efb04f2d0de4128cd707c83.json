@@ -1,0 +1,10 @@
+{
+  "name": "显示血跟耐久.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "huds",
+      "version": "#VERSION#"
+    }
+  ]
+}

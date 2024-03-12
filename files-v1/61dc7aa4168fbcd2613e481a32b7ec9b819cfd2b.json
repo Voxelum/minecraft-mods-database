@@ -1,0 +1,20 @@
+{
+  "name": "betterstats-3.8.1+fabric-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667464,
+      "fileId": 5104337
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterstats",
+      "version": "3.8.1+fabric-1.20.1"
+    },
+    {
+      "modId": "tcdcommons",
+      "version": "3.8.1+fabric-1.20.1"
+    }
+  ]
+}

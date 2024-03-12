@@ -1,0 +1,14 @@
+{
+  "name": "extendedbookshelves-2.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extendedbookshelves",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "moretags",
+      "version": "3.0.4"
+    }
+  ]
+}

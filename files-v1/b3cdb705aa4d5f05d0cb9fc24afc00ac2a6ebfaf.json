@@ -1,6 +1,18 @@
 {
   "name": "farmingforblockheads-forge-1.18.2-10.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WJZr8JU",
+      "versionId": "XNKtDVzw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 261924,
+      "fileId": 3830914
+    }
+  ],
   "forge": [
     {
       "modId": "farmingforblockheads",

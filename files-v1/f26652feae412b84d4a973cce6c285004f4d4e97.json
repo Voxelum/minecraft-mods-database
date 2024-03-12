@@ -1,0 +1,14 @@
+{
+  "name": "tempad-fabric-1.19.2-1.4.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tempad",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

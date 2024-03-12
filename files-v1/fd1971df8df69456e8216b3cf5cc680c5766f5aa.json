@@ -1,0 +1,16 @@
+{
+  "name": "keepmysoiltilled-1.20.2-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "keepmysoiltilled",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "keepmysoiltilled",
+      "version": "2.2"
+    }
+  ]
+}

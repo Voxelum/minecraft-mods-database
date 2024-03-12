@@ -1,6 +1,12 @@
 {
   "name": "netherdepthsupgrade-fabric-3.1.0-1.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 670011,
+      "fileId": 4690799
+    }
+  ],
   "fabric": [
     {
       "modId": "netherdepthsupgrade",

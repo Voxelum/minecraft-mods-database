@@ -1,0 +1,16 @@
+{
+  "name": "configurablefurnaceburntime-1.18.2-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "configurablefurnaceburntime",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurablefurnaceburntime",
+      "version": "2.1"
+    }
+  ]
+}

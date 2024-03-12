@@ -1,0 +1,10 @@
+{
+  "name": "moonlight-1.20-2.7.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moonlight",
+      "version": "1.20-2.7.0"
+    }
+  ]
+}

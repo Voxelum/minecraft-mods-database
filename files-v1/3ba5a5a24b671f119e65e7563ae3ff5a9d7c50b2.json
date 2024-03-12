@@ -1,6 +1,18 @@
 {
   "name": "architects-palette-fabric-2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ktECB2Rv",
+      "versionId": "8HKRaX27"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487364,
+      "fileId": 3838886
+    }
+  ],
   "fabric": [
     {
       "modId": "architects_palette",

@@ -1,0 +1,14 @@
+{
+  "name": "towns_and_towers_fabric-1.10.1a+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

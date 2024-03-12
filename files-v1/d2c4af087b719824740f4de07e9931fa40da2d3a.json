@@ -1,6 +1,12 @@
 {
   "name": "x-enchant-1.18-8.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 432957,
+      "fileId": 3770673
+    }
+  ],
   "fabric": [
     {
       "modId": "x-enchant",

@@ -1,0 +1,24 @@
+{
+  "name": "HangGlider-v6.0.1-1.19.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uHWrqYcS",
+      "versionId": "WkG6K7nP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hangglider",
+      "version": "6.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    }
+  ]
+}

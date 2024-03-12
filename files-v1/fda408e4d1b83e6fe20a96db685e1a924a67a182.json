@@ -1,6 +1,18 @@
 {
   "name": "bambooeverything-1.16.5-1.0.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cpRkny9R",
+      "versionId": "QMnWTJkE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 331723,
+      "fileId": 3537099
+    }
+  ],
   "forge": [
     {
       "modId": "bambooeverything",

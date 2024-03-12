@@ -1,0 +1,10 @@
+{
+  "name": "World_of_Exile-1.16.5-1.4.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "world_of_exile",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

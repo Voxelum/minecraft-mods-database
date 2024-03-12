@@ -1,6 +1,12 @@
 {
   "name": "promenade-4.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GuE5FpvB",
+      "versionId": "F17sFUaS"
+    }
+  ],
   "fabric": [
     {
       "modId": "promenade",

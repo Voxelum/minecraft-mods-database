@@ -1,0 +1,18 @@
+{
+  "name": "chat-utils-1.7.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chat-utils",
+      "version": "1.7.5"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-legacy",
+      "version": "4.12.0"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.5.1"
+    }
+  ]
+}

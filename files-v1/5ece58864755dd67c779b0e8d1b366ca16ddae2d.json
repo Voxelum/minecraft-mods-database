@@ -1,6 +1,12 @@
 {
   "name": "cullleaves-fabric-3.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNxdLCoP",
+      "versionId": "jAdt9S90"
+    }
+  ],
   "fabric": [
     {
       "modId": "cullleaves",

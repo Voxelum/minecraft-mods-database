@@ -1,0 +1,28 @@
+{
+  "name": "impersonate-2.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 360333,
+      "fileId": 3632763
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "impersonate",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.0"
+    }
+  ]
+}

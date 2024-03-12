@@ -1,0 +1,22 @@
+{
+  "name": "mcwifipnp-1.5.6-1.16.5-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 450250,
+      "fileId": 3821888
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.5.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.5.6"
+    }
+  ]
+}

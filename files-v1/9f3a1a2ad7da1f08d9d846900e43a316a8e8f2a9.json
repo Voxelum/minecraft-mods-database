@@ -1,0 +1,24 @@
+{
+  "name": "mobz-2.4.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 336554,
+      "fileId": 3215284
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mobz",
+      "version": "2.4.6"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

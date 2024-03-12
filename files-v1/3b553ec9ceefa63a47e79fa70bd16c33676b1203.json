@@ -1,6 +1,12 @@
 {
   "name": "ctov-friends-and-foes-compat-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kawJN2LZ",
+      "versionId": "BbKorFuj"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_ctov_friendsandfoescompat",

@@ -1,0 +1,20 @@
+{
+  "name": "[平滑物品栏]Fabric-1.19-SmoothSwapping-0.4.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ydZic5r4",
+      "versionId": "5ASWObso"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothswapping",
+      "version": "0.4.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

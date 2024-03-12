@@ -1,0 +1,14 @@
+{
+  "name": "playeranimationrework-0.1.0+mc1.20.x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "player-animation-rework",
+      "version": "0.1.0+mc1.20.x"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

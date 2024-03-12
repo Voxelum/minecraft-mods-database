@@ -1,6 +1,18 @@
 {
   "name": "campanion-3.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y2Rds0HS",
+      "versionId": "yeEpI0UT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373138,
+      "fileId": 3767612
+    }
+  ],
   "fabric": [
     {
       "modId": "campanion",

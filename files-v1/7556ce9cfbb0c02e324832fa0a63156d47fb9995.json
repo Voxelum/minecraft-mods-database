@@ -1,0 +1,10 @@
+{
+  "name": "ASP + GS Patcher.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ChocoPatcher",
+      "version": "1.2"
+    }
+  ]
+}

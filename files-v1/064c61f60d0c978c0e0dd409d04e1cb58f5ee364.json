@@ -1,0 +1,16 @@
+{
+  "name": "ViaVersion[跨版本模组] (1).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "viabackwards",
+      "version": "3.3.0-20w45a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viabackwards",
+      "version": "3.3.0-20w45a"
+    }
+  ]
+}

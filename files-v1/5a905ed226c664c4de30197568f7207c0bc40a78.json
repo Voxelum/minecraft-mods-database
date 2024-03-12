@@ -1,0 +1,22 @@
+{
+  "name": "ctov-waystone-compat-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "70yluNSI",
+      "versionId": "dhfJy800"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov_waystonecompat_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov_waystonecompat_mr",
+      "version": "1.0"
+    }
+  ]
+}

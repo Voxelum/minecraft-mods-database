@@ -1,0 +1,16 @@
+{
+  "name": "preciseblockplacing-1.071.16.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "preciseblockplacing",
+      "version": "1.07"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "preciseblockplacing",
+      "version": "1.07"
+    }
+  ]
+}

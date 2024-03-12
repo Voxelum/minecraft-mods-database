@@ -1,6 +1,12 @@
 {
   "name": "rpg-origins-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2x88uc2n",
+      "versionId": "WjiBrj6q"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_rpg_origins",

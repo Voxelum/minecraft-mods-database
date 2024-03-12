@@ -1,0 +1,20 @@
+{
+  "name": "KronHUD-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uDMPYwAN",
+      "versionId": "ZBzByixl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kronhud",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "polish",
+      "version": "1.0.3"
+    }
+  ]
+}

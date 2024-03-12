@@ -1,0 +1,10 @@
+{
+  "name": "Bssentials-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bssentials",
+      "version": "3.x"
+    }
+  ]
+}

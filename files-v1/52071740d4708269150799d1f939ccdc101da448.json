@@ -1,0 +1,16 @@
+{
+  "name": "kawatts-cheaper-lanterns-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_kawatts_cheaperlanterns",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_kawatts_cheaperlanterns",
+      "version": "1.0"
+    }
+  ]
+}

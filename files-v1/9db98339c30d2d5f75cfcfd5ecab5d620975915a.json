@@ -1,0 +1,16 @@
+{
+  "name": "mcef-1.18.2-2.0.1-7.1.2022-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "forgecef",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgecef",
+      "version": "1.0.0"
+    }
+  ]
+}

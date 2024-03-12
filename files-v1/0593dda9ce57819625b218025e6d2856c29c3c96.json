@@ -1,6 +1,18 @@
 {
   "name": "DiagonalFences-v4.2.6-1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKARgflD",
+      "versionId": "H6bV8m5B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 458048,
+      "fileId": 4658719
+    }
+  ],
   "fabric": [
     {
       "modId": "diagonalfences",

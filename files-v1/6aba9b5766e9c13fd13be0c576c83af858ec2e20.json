@@ -1,0 +1,14 @@
+{
+  "name": "[这就是石粒！] rocks-1.7.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rocks",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

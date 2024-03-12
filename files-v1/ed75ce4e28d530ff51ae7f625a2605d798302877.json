@@ -1,6 +1,18 @@
 {
   "name": "animal_feeding_trough-1.0.3+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRFWnJ87",
+      "versionId": "OUspyt2Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 445838,
+      "fileId": 4606793
+    }
+  ],
   "forge": [
     {
       "modId": "animal_feeding_trough",

@@ -1,0 +1,10 @@
+{
+  "name": "lithium-1.16.1-backport-fabric-0.6.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lithium",
+      "version": "0.6.6"
+    }
+  ]
+}

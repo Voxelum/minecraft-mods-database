@@ -1,0 +1,28 @@
+{
+  "name": "minecraft-comes-alive-7.5.12+1.19.2-universal.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1W98a849",
+      "versionId": "iR2SMGfC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535291,
+      "fileId": 5068036
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mca",
+      "version": "7.5.12+1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mca",
+      "version": "7.5.12+1.19.2"
+    }
+  ]
+}

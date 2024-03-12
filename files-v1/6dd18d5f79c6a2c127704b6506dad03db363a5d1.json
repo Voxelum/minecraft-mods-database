@@ -1,0 +1,24 @@
+{
+  "name": "chesttracker-1.16.5-0.8.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ni4SrKmq",
+      "versionId": "HlMWaExZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chesttracker",
+      "version": "0.8.13"
+    },
+    {
+      "modId": "whereisit",
+      "version": "1.11.7"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Modern-Industrialization-1.0.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 405388,
+      "fileId": 3646911
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modern_industrialization",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "fabric-resource-conditions-api-v1",
+      "version": "1.0.0+abf02f7665"
+    },
+    {
+      "modId": "fabric-tool-attribute-api-v1",
+      "version": "1.4.0-modified-technici4n+ea42e1b365"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.3.10"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.18-60-FABRIC-SNAPSHOT"
+    },
+    {
+      "modId": "cloth-armor-api-v1",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "cloth-common-events-v1",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    },
+    {
+      "modId": "magna",
+      "version": "1.7.0-1.18-pre1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.4.0"
+    }
+  ]
+}

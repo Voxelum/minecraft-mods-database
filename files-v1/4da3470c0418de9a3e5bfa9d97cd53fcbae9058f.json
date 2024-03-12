@@ -1,0 +1,16 @@
+{
+  "name": "tpa-1.2.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tpa",
+      "version": "1.2.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tpa",
+      "version": "1.0.0"
+    }
+  ]
+}

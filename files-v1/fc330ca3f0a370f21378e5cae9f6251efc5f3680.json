@@ -1,0 +1,16 @@
+{
+  "name": "randomsheepcolours-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "randomsheepcolours",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randomsheepcolours",
+      "version": "3.3"
+    }
+  ]
+}

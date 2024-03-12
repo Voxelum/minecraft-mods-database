@@ -1,0 +1,30 @@
+{
+  "name": "DarkKore-0.3.0-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "darkkore",
+      "version": "0.3.0-1.19"
+    },
+    {
+      "modId": "com_github_darkkronicle_konstruct_addons",
+      "version": "2.0.3-build1"
+    },
+    {
+      "modId": "com_github_darkkronicle_konstruct_core",
+      "version": "2.0.3-build1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_json",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    }
+  ]
+}

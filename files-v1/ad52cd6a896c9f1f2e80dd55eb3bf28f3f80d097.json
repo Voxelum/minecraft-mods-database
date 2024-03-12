@@ -1,0 +1,16 @@
+{
+  "name": "sanguine-0.4.0-1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_sanguine",
+      "version": "0.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_sanguine",
+      "version": "0.4.0"
+    }
+  ]
+}

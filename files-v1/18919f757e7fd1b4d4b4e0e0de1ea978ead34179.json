@@ -1,6 +1,18 @@
 {
   "name": "Quark-3.2-358.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qnQsVE2z",
+      "versionId": "e4xifKGM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 243121,
+      "fileId": 3840125
+    }
+  ],
   "forge": [
     {
       "modId": "quark",

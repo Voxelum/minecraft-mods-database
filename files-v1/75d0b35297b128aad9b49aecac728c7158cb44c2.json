@@ -1,0 +1,14 @@
+{
+  "name": "RebornCore-1.16-4.7.2+build.132.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reborncore",
+      "version": "4.7.2+build.132"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.1"
+    }
+  ]
+}

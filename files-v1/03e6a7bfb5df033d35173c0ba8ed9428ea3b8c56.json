@@ -1,0 +1,10 @@
+{
+  "name": "legacymc-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "legacy",
+      "version": "1.2.0"
+    }
+  ]
+}

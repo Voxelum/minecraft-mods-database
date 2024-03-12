@@ -1,0 +1,10 @@
+{
+  "name": "breeze-mod-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "breeze_mob_mod",
+      "version": "1.1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Ryoamiclights-0.1.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "reCfnRvJ",
+      "versionId": "1erCetvG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 913587,
+      "fileId": 4755840
+    }
+  ],
   "forge": [
     {
       "modId": "lambdynlights",

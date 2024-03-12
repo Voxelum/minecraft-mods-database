@@ -1,0 +1,24 @@
+{
+  "name": "HWGMod-1.16.5-1.0.30.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SPMW1tzD",
+      "versionId": "eCEDj8GO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hwg",
+      "version": "1.0.30"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    },
+    {
+      "modId": "nbtcrafting",
+      "version": "2.2.0-alpha.2+mc1.16.4"
+    }
+  ]
+}

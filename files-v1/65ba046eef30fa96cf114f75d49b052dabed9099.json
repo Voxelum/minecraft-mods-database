@@ -1,0 +1,10 @@
+{
+  "name": "rpgz-0.5.0.1-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rpgz",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

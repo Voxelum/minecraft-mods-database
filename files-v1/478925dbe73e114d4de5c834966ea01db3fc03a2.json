@@ -1,0 +1,20 @@
+{
+  "name": "gate-of-babylon-1.7.0-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 407500,
+      "fileId": 3740903
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gateofbabylon",
+      "version": "1.7.0-1.18.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

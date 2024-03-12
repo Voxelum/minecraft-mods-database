@@ -1,6 +1,18 @@
 {
   "name": "BadMobs-1.19.2-16.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2NEKo1EX",
+      "versionId": "QgXMG9ZH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233258,
+      "fileId": 4057652
+    }
+  ],
   "forge": [
     {
       "modId": "badmobs",

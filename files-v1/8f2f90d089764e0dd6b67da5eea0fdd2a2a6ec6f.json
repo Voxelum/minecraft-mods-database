@@ -1,0 +1,34 @@
+{
+  "name": "valkyrienskies-119-2.1.2-beta.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V5ujR2yw",
+      "versionId": "QAj7h3vU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 258371,
+      "fileId": 4994897
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "valkyrienskies",
+      "version": "2.1.2-beta.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.3.103"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "emotecraft-for-MC1.18.2-2.2.7-b.build.47-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.2.7-b.build.47"
+    },
+    {
+      "modId": "player-animator",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "2.1.3-test2"
+    }
+  ]
+}

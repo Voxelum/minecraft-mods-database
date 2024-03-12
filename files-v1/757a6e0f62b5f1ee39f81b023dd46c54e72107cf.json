@@ -1,0 +1,14 @@
+{
+  "name": "tcdcommons-2.6+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tcdcommons",
+      "version": "2.6+1.19.3"
+    },
+    {
+      "modId": "architectury",
+      "version": "7.1.78"
+    }
+  ]
+}

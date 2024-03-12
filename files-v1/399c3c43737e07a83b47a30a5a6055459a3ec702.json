@@ -1,0 +1,22 @@
+{
+  "name": "fastfood1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DBaPKfyW",
+      "versionId": "uIKfxd1T"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cbrmods_fastfood",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cbrmods_fastfood",
+      "version": "1.0.0"
+    }
+  ]
+}

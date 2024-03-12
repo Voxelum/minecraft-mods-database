@@ -1,0 +1,28 @@
+{
+  "name": "betterstats-2.10.1+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667464,
+      "fileId": 4598673
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterstats",
+      "version": "2.10.1+1.20.1"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.83.1+1.20.1"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.0.8"
+    },
+    {
+      "modId": "tcdcommons",
+      "version": "2.10-alpha.1+1.20.1"
+    }
+  ]
+}

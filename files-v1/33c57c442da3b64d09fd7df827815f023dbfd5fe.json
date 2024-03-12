@@ -1,6 +1,12 @@
 {
   "name": "customportalapi-0.0.1-forge-1.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621463,
+      "fileId": 4704980
+    }
+  ],
   "forge": [
     {
       "modId": "customportalapi",

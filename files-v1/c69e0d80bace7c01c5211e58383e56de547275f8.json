@@ -1,0 +1,14 @@
+{
+  "name": "nexus-frame-1.0.8+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nexusframe",
+      "version": "1.0.8+1.20"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.5.0-rc.3+1.20"
+    }
+  ]
+}

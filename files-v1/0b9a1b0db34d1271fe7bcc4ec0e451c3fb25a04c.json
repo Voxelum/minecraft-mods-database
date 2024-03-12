@@ -1,0 +1,36 @@
+{
+  "name": "coroutil-fabric-1.20.1-1.3.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rLLJ1OZM",
+      "versionId": "7tRnsYkP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237749,
+      "fileId": 5110802
+    }
+  ],
+  "forge": [
+    {
+      "modId": "coroutil",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coroutil",
+      "version": "1.20.1-1.3.7"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.83.0+1.20.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

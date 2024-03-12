@@ -1,6 +1,12 @@
 {
   "name": "modmenu-3.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "d86kV6wd"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

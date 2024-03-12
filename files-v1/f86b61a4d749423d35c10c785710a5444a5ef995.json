@@ -1,0 +1,20 @@
+{
+  "name": "cave_dust-1.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jawg7zT1",
+      "versionId": "fXpkDYlu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cavedust",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.16.0+1.20.2"
+    }
+  ]
+}

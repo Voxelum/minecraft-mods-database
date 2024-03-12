@@ -1,6 +1,18 @@
 {
   "name": "valkyrielib-1.12.2-2.0.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "58d5Rm2F",
+      "versionId": "FeARGLGL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245480,
+      "fileId": 2691542
+    }
+  ],
   "forge": [
     {
       "modId": "universalmodifiers",

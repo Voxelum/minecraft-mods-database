@@ -1,6 +1,18 @@
 {
   "name": "infinityeditor-0.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWewB8io",
+      "versionId": "cP7U0fMe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 290958,
+      "fileId": 3802759
+    }
+  ],
   "forge": [
     {
       "modId": "infinityeditor",

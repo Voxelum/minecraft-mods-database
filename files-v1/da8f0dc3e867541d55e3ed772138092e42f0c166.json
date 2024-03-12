@@ -1,0 +1,14 @@
+{
+  "name": "【狼铠】pet-armor-1.2.2-1.20.X.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pet-armor",
+      "version": "1.2.2-1.20.X"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    }
+  ]
+}

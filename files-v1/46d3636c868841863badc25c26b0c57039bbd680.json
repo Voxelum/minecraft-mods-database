@@ -1,0 +1,36 @@
+{
+  "name": "SimplyStatus-2.1.0-alpha.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6kYGBz0X",
+      "versionId": "ljv7a17c"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplystatus",
+      "version": "2.1.0-alpha.3"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    },
+    {
+      "modId": "com_jagrosh_discordipc_discordipc",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230618"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

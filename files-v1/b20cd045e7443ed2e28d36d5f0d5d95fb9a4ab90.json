@@ -1,0 +1,26 @@
+{
+  "name": "InventorySorter-1.9.0-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ibSyLAz",
+      "versionId": "MO3Q3zs2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325471,
+      "fileId": 5066467
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorysorter",
+      "version": "1.9.0-1.20.4"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.8-1.20.4"
+    }
+  ]
+}

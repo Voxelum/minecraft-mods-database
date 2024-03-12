@@ -1,0 +1,14 @@
+{
+  "name": "reinforced-chests-2.1.2+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reinfchest",
+      "version": "2.1.2+1.19"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "3.0.2+1.19"
+    }
+  ]
+}

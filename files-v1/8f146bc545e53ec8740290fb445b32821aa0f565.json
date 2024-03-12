@@ -1,0 +1,14 @@
+{
+  "name": "theimpossiblelibrary-1.19.2-fabric-0.3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "theimpossiblelibrary",
+      "version": "1.19.2-fabric-0.3.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

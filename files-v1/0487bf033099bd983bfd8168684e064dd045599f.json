@@ -1,0 +1,26 @@
+{
+  "name": "zipfstmp2167400023069900556.tmp",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "318"
+    },
+    {
+      "modId": "elementa",
+      "version": "614"
+    },
+    {
+      "modId": "vigilance",
+      "version": "295"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    }
+  ]
+}

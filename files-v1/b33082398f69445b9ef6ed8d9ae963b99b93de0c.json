@@ -1,0 +1,22 @@
+{
+  "name": "Create-Cobblemon-Forge-v0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tOucrGJ4",
+      "versionId": "Fw5dfGdH"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_cobblemon",
+      "version": "0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_cobblemon",
+      "version": "0.3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "authme-1.17-1.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

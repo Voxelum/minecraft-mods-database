@@ -1,6 +1,12 @@
 {
   "name": "enchanted-1.16.5-1.2.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560363,
+      "fileId": 4030760
+    }
+  ],
   "forge": [
     {
       "modId": "enchanted",

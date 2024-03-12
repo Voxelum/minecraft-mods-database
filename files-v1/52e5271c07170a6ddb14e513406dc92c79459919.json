@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-silicon-7.99.24.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 231311,
+      "fileId": 2702037
+    }
+  ],
   "forge": [
     {
       "modId": "buildcraftsilicon",

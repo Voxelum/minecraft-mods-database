@@ -1,0 +1,20 @@
+{
+  "name": "shetiphiancore-[fabric]-1.18-1.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 536603,
+      "fileId": 3648776
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shetiphiancore",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "myron",
+      "version": "1.6.2+1.18.1"
+    }
+  ]
+}

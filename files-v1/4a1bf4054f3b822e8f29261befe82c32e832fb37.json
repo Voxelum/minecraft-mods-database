@@ -1,0 +1,84 @@
+{
+  "name": "bitsandchisels-2.6.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 420709,
+      "fileId": 3592089
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bitsandchisels",
+      "version": "2.6.4"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "0.8.5+3ac43d9514"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.11+3ac43d9514"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "0.4.9+3ac43d9514"
+    },
+    {
+      "modId": "fabric-item-groups-v0",
+      "version": "0.3.3+3ac43d9514"
+    },
+    {
+      "modId": "fabric-object-builder-api-v1",
+      "version": "1.10.13+3ac43d9514"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.10.3+6b21378a14"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.18+3ac43d9514"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.1+b4f4f6cd14"
+    },
+    {
+      "modId": "fabric-models-v0",
+      "version": "0.3.3+3ac43d9514"
+    },
+    {
+      "modId": "fabric-renderer-indigo",
+      "version": "0.4.12+3ac43d9514"
+    },
+    {
+      "modId": "fabric-entity-events-v1",
+      "version": "1.4.5+6b21378a14"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.15+3ac43d9514"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.3+d154e2c614"
+    },
+    {
+      "modId": "fabric-tool-attribute-api-v1",
+      "version": "1.3.4+7de09f5514"
+    },
+    {
+      "modId": "fabric-tag-extensions-v0",
+      "version": "1.2.5+3ac43d9514"
+    },
+    {
+      "modId": "fabric-mining-level-api-v1",
+      "version": "1.0.3+3ac43d9514"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.2.3"
+    }
+  ]
+}

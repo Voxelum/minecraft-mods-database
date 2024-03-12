@@ -1,6 +1,12 @@
 {
   "name": "kleeslabs-fabric-1.19.2-12.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7uh75ruZ",
+      "versionId": "McrMZkIV"
+    }
+  ],
   "fabric": [
     {
       "modId": "kleeslabs",

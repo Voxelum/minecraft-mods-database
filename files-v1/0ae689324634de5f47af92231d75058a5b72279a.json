@@ -1,0 +1,32 @@
+{
+  "name": "mod_sets-intermediary-1.4.6+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b313lC4Y",
+      "versionId": "FOqSS3Gt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mod_sets",
+      "version": "1.4.6+1.20.1"
+    },
+    {
+      "modId": "modsets_config_",
+      "version": "1.4.6+1.20.1"
+    },
+    {
+      "modId": "modsets_ingame_",
+      "version": "1.4.6+1.20.1"
+    },
+    {
+      "modId": "kinecraft_serialization",
+      "version": "1.1.8-fabric"
+    },
+    {
+      "modId": "preloading_tricks",
+      "version": "1.0.6"
+    }
+  ]
+}

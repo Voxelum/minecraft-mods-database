@@ -1,6 +1,12 @@
 {
   "name": "cem-0.7.3-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YOQCucah",
+      "versionId": "JlpuBMAJ"
+    }
+  ],
   "fabric": [
     {
       "modId": "cem",

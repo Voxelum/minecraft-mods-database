@@ -1,0 +1,40 @@
+{
+  "name": "traverse-3.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308777,
+      "fileId": 3209771
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "traverse",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "terraform-biome-builder-api-v1",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "terraform-config-api-v1",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "terraform-overworld-biome-extensions-api-v1",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "1.0.2"
+    }
+  ]
+}

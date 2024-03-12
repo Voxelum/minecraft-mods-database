@@ -1,6 +1,18 @@
 {
   "name": "Forgematica-0.1.0-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dCKRaeBC",
+      "versionId": "wl1s5bz0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912441,
+      "fileId": 4749361
+    }
+  ],
   "forge": [
     {
       "modId": "litematica",

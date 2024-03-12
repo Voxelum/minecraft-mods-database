@@ -1,0 +1,22 @@
+{
+  "name": "nbc-all-2.0-1.20+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hQNz0rXp",
+      "versionId": "dpLjGp7N"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nbc_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nbc_mr",
+      "version": "1.0"
+    }
+  ]
+}

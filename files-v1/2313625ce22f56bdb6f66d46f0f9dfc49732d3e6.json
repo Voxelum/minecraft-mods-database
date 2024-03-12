@@ -1,0 +1,10 @@
+{
+  "name": "SereneSeasons-1.19.2-8.1.0.21.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sereneseasons",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

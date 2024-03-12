@@ -1,6 +1,18 @@
 {
   "name": "InitialInventory-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L4ZloL5E",
+      "versionId": "YQpko79k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 253230,
+      "fileId": 2465617
+    }
+  ],
   "forge": [
     {
       "modId": "initialinventory",

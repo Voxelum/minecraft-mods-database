@@ -1,6 +1,18 @@
 {
   "name": "antiquewaystones-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EPteDGlY",
+      "versionId": "6ZvuXtyF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438668,
+      "fileId": 3292295
+    }
+  ],
   "forge": [
     {
       "modId": "antiquewaystones",

@@ -1,0 +1,16 @@
+{
+  "name": "Patchouli-1.17.1-57.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "patchouli",
+      "version": "1.17.1-57"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "${version}"
+    }
+  ]
+}

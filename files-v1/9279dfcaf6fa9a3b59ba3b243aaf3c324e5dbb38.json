@@ -1,6 +1,18 @@
 {
   "name": "borderless-mining-1.0.6+1.16.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYq5qkSL",
+      "versionId": "oI4ntekL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310205,
+      "fileId": 3033277
+    }
+  ],
   "fabric": [
     {
       "modId": "borderlessmining",

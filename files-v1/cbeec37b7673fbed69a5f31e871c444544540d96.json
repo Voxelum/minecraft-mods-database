@@ -1,0 +1,26 @@
+{
+  "name": "bedrockwaters-1.7.7+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3WAUHe3k",
+      "versionId": "xuDuAUJ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396568,
+      "fileId": 4597727
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockwaters",
+      "version": "1.7.7+1.20.1"
+    },
+    {
+      "modId": "carrotconfig",
+      "version": "1.0.3+1.20.1"
+    }
+  ]
+}

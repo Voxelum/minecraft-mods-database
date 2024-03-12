@@ -1,6 +1,12 @@
 {
   "name": "smoothboot-forge-1.15.2-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 420913,
+      "fileId": 3224248
+    }
+  ],
   "forge": [
     {
       "modId": "smoothboot",

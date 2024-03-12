@@ -1,0 +1,10 @@
+{
+  "name": "OreExcavation-1.6.147.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "oreexcavation",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "curioofundying-forge-1.16.5-5.2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5GyyYkp",
+      "versionId": "iyi2WClS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316873,
+      "fileId": 3308969
+    }
+  ],
   "forge": [
     {
       "modId": "curioofundying",

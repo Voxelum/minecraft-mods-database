@@ -1,6 +1,18 @@
 {
   "name": "xp_obelisk_additions-0.1.9-r+1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYywajl8",
+      "versionId": "myRdkQrI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659264,
+      "fileId": 4476859
+    }
+  ],
   "fabric": [
     {
       "modId": "xps_additions",

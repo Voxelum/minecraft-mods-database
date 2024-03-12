@@ -1,0 +1,10 @@
+{
+  "name": "spawn_group_config-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mob_spawn_restrictor",
+      "version": "1.0.3"
+    }
+  ]
+}

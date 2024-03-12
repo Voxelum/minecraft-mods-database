@@ -1,6 +1,12 @@
 {
   "name": "archon-0.5.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 575339,
+      "fileId": 4767550
+    }
+  ],
   "fabric": [
     {
       "modId": "archon",

@@ -1,0 +1,20 @@
+{
+  "name": "lightest-lamps-fabric-1.0.0-beta.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 533661,
+      "fileId": 3636237
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightestlamp",
+      "version": "1.0.0-beta"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "Mercurius-1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242838,
+      "fileId": 2481890
+    }
+  ],
   "forge": [
     {
       "modId": "mercurius",

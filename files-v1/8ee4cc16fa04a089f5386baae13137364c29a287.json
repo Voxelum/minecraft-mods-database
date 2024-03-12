@@ -1,4 +1,16 @@
 {
   "name": "kotlinforforge-4.3.0-all.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ordsPcFz",
+      "versionId": "CZYJI3gh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 351264,
+      "fileId": 4578885
+    }
+  ]
 }

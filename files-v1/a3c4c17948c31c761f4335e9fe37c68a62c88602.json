@@ -1,0 +1,20 @@
+{
+  "name": "customfov-fabric-1.3.1-1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uZAcFHLd",
+      "versionId": "OliQBzG6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customfov",
+      "version": "1.3.1-1.16.5"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.10.13"
+    }
+  ]
+}

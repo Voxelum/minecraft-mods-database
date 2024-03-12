@@ -1,6 +1,18 @@
 {
   "name": "modmenu-5.1.0-beta.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "RtaGQNyd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 4401053
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

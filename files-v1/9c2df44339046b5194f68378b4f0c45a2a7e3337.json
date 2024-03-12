@@ -1,6 +1,18 @@
 {
   "name": "BetterPingDisplay-1.18.2-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZvaHbwoZ",
+      "versionId": "Y7aTWxaD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292038,
+      "fileId": 3735839
+    }
+  ],
   "forge": [
     {
       "modId": "betterpingdisplay",

@@ -1,0 +1,14 @@
+{
+  "name": "Geyser-Fabric.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "geyser-fabric",
+      "version": "2.2.2-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

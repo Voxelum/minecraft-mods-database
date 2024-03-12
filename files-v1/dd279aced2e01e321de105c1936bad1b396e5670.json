@@ -1,0 +1,10 @@
+{
+  "name": "mvw-1.7.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mvw",
+      "version": "1.16.X-1.6.1"
+    }
+  ]
+}

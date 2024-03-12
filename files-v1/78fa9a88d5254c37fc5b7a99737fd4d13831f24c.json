@@ -1,0 +1,22 @@
+{
+  "name": "balanced-weapons-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dD3Ehzqi",
+      "versionId": "15uDPuLG"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_balanced_weapons",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_balanced_weapons",
+      "version": "1.0.0"
+    }
+  ]
+}

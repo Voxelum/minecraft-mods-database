@@ -1,6 +1,12 @@
 {
   "name": "Edibleflesh.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 846072,
+      "fileId": 4474078
+    }
+  ],
   "forge": [
     {
       "modId": "mob_food",

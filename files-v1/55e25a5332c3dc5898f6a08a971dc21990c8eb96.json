@@ -1,6 +1,18 @@
 {
   "name": "EnderIO-1.12.2-5.3.70.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "49ZofO4f",
+      "versionId": "Ju6pPR9V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 64578,
+      "fileId": 3328811
+    }
+  ],
   "forge": [
     {
       "modId": "enderio",

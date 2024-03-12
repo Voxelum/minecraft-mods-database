@@ -1,6 +1,18 @@
 {
   "name": "badpackets-fabric-0.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ftdbN0KK",
+      "versionId": "vH59yR5Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615134,
+      "fileId": 4073848
+    }
+  ],
   "fabric": [
     {
       "modId": "badpackets",

@@ -1,0 +1,14 @@
+{
+  "name": "DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "defaultworldgenerator",
+      "version": "0.1-b13"
+    },
+    {
+      "modId": "defaultworldgenerator",
+      "version": "1.7.10-0.1-b13"
+    }
+  ]
+}

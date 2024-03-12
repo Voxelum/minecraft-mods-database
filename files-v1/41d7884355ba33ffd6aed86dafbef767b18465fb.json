@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-robotics-7.99.24.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 231313,
+      "fileId": 2702039
+    }
+  ],
   "forge": [
     {
       "modId": "buildcraftrobotics",

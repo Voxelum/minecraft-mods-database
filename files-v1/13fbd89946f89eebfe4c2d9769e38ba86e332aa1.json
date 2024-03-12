@@ -1,6 +1,18 @@
 {
   "name": "kubejsadditions-forge-4.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZemjxZb",
+      "versionId": "Gy1HpL0n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594387,
+      "fileId": 4815452
+    }
+  ],
   "forge": [
     {
       "modId": "kubejsadditions",

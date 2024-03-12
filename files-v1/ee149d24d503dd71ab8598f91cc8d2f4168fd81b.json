@@ -1,0 +1,32 @@
+{
+  "name": "Terralith_1.18.2_v2.2.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8oi3bsk5",
+      "versionId": "6DoFR4md"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 513688,
+      "fileId": 4940614
+    }
+  ],
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "2.2.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith_loader",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "terralith",
+      "version": "2.2.6"
+    }
+  ]
+}

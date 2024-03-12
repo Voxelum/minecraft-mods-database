@@ -1,0 +1,10 @@
+{
+  "name": "backtothefuture-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "backtothefuture",
+      "version": "1.0"
+    }
+  ]
+}

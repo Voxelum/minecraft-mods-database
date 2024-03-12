@@ -1,6 +1,18 @@
 {
   "name": "SkyblockBuilder-1.18.2-3.3.25.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "por2AZc5",
+      "versionId": "Vvhv9KtS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446691,
+      "fileId": 3932317
+    }
+  ],
   "forge": [
     {
       "modId": "skyblockbuilder",

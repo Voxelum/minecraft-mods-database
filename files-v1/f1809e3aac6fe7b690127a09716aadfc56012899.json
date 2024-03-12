@@ -1,6 +1,18 @@
 {
   "name": "async-locator-forge-1.19.2-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rkN8aqci",
+      "versionId": "8vNUDsod"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 625069,
+      "fileId": 4593926
+    }
+  ],
   "forge": [
     {
       "modId": "asynclocator",

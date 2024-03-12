@@ -1,0 +1,16 @@
+{
+  "name": "mcwifipnp-1.6.2-1.19.2-quilt.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcwifipnp",
+      "version": "1.6.2"
+    }
+  ]
+}

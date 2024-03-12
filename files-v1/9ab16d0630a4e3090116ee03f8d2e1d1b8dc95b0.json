@@ -1,0 +1,16 @@
+{
+  "name": "F18V1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "effect_gems",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "effect_gems",
+      "version": "1.0.0"
+    }
+  ]
+}

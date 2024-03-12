@@ -1,0 +1,10 @@
+{
+  "name": "disableEnderChests.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "disableenderchests",
+      "version": "1.0.0"
+    }
+  ]
+}

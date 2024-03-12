@@ -1,0 +1,26 @@
+{
+  "name": "carryon-fabric-1.19.2-2.1.1.22.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "joEfVgkn",
+      "versionId": "SgeYUS6n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 274259,
+      "fileId": 4882495
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carryon",
+      "version": "2.1.1.22"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "rflux-1.12-0.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250207,
+      "fileId": 2704416
+    }
+  ],
   "forge": [
     {
       "modId": "rflux",

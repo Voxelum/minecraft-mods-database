@@ -1,6 +1,18 @@
 {
   "name": "capes-1.5.2+1.19.3-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "89Wsn8GD",
+      "versionId": "kXfWiNN7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 408481,
+      "fileId": 4441151
+    }
+  ],
   "fabric": [
     {
       "modId": "capes",

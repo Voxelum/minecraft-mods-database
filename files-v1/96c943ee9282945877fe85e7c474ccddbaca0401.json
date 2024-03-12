@@ -1,6 +1,18 @@
 {
   "name": "cem-0.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YOQCucah",
+      "versionId": "pobVcvCg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 477078,
+      "fileId": 3821136
+    }
+  ],
   "fabric": [
     {
       "modId": "cem",

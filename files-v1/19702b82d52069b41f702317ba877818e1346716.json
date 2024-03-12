@@ -1,6 +1,18 @@
 {
   "name": "hexcasting-fabric-1.19.2-0.10.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nTW3yKrm",
+      "versionId": "IbghSN93"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 569849,
+      "fileId": 4132955
+    }
+  ],
   "fabric": [
     {
       "modId": "hexcasting",

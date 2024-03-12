@@ -1,0 +1,40 @@
+{
+  "name": "fabricated_zoomer-5.0.0-beta.12+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 902823,
+      "fileId": 4706437
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ok_zoomer",
+      "version": "5.0.0-beta.12+1.20.1"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.7.0+1.20.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "org_quiltmc_quilt-config",
+      "version": "1.1.0-beta.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    }
+  ]
+}

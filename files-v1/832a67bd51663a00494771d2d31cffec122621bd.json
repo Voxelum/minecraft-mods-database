@@ -1,6 +1,18 @@
 {
   "name": "soulslike-weaponry-0.9.9.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oX6SohLj",
+      "versionId": "hOVG4wCW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632066,
+      "fileId": 4529934
+    }
+  ],
   "fabric": [
     {
       "modId": "soulsweapons",

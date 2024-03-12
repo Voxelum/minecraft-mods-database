@@ -1,0 +1,26 @@
+{
+  "name": "dummmmmmy-1.20-1.8.10-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Adega8YN",
+      "versionId": "8gDpcYEM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225738,
+      "fileId": 4874831
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dummmmmmy",
+      "version": "1.20-1.8.10"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

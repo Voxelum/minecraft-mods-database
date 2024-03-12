@@ -1,0 +1,16 @@
+{
+  "name": "Infinity-Water-Bucket-Fabric-1.12.2-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nNMXZUPi",
+      "versionId": "slBOyNrr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "infinitywaterbucket",
+      "version": "${version}"
+    }
+  ]
+}

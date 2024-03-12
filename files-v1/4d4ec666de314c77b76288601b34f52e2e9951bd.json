@@ -1,0 +1,20 @@
+{
+  "name": "authme-mc1.18.1-2.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 356643,
+      "fileId": 3569439
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

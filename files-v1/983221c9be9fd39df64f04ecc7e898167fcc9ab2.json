@@ -1,0 +1,16 @@
+{
+  "name": "Cinderscapes-Reforged-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cinderscapes",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cinderscapes",
+      "version": "${version}"
+    }
+  ]
+}

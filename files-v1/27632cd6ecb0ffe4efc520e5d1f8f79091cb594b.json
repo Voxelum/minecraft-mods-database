@@ -1,6 +1,12 @@
 {
   "name": "handcrafted-forge-1.20-2.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pJmCFF0p",
+      "versionId": "M0X2ttRF"
+    }
+  ],
   "forge": [
     {
       "modId": "handcrafted",

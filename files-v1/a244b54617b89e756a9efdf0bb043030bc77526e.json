@@ -1,0 +1,20 @@
+{
+  "name": "extraalchemy-fabric-1.20.4-1.11.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 247357,
+      "fileId": 5065083
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraalchemy",
+      "version": "1.11.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

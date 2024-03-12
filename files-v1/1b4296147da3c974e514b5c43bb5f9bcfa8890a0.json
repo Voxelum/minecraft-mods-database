@@ -1,0 +1,22 @@
+{
+  "name": "disable-enderman-picking-up-blocks-main-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ec6K5FYS",
+      "versionId": "fZSoEtFW"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "disable_enderman_picking_up_blocks",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "disable_enderman_picking_up_blocks",
+      "version": "1.2"
+    }
+  ]
+}

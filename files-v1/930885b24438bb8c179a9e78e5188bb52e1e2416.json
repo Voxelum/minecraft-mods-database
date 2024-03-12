@@ -1,6 +1,12 @@
 {
   "name": "cloth-api-3.2.64.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317121,
+      "fileId": 3668284
+    }
+  ],
   "fabric": [
     {
       "modId": "cloth-api",

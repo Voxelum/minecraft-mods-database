@@ -1,0 +1,26 @@
+{
+  "name": "bettercombat-fabric-1.8.3+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "1mMMpsqV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639842,
+      "fileId": 4861800
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercombat",
+      "version": "1.8.3+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

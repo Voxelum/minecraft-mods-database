@@ -1,6 +1,18 @@
 {
   "name": "totw_additions-1.2.3-1.19.x-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kzdWjLDh",
+      "versionId": "dk4fHUkn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560091,
+      "fileId": 3857363
+    }
+  ],
   "forge": [
     {
       "modId": "totw_additions",

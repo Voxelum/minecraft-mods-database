@@ -1,0 +1,24 @@
+{
+  "name": "winterly-fabric-0.10.1+1.20.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 552628,
+      "fileId": 5054025
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "winterly",
+      "version": "0.10.1+1.20.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.4.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "FarmersDelight-1.20.1-1.2.2a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R2OftAxM",
+      "versionId": "9N99D1CJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398521,
+      "fileId": 4638874
+    }
+  ],
   "forge": [
     {
       "modId": "farmersdelight",

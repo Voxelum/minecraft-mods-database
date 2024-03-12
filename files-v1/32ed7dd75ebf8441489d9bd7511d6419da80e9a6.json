@@ -1,0 +1,16 @@
+{
+  "name": "zombiehorsespawn-1.18.2-4.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "zombiehorsespawn",
+      "version": "4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombiehorsespawn",
+      "version": "4.3"
+    }
+  ]
+}

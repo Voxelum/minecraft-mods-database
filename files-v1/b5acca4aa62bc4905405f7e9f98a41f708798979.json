@@ -1,0 +1,32 @@
+{
+  "name": "optifabric-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 400308,
+      "fileId": 3024031
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optifabric",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.0"
+    },
+    {
+      "modId": "org_zeroturnaround_zt-zip",
+      "version": "1.14"
+    },
+    {
+      "modId": "org_slf4j_slf4j-simple",
+      "version": "1.7.30"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "1.7.30"
+    }
+  ]
+}

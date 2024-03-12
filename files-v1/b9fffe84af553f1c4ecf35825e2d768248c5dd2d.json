@@ -1,6 +1,12 @@
 {
   "name": "movingworld-1.12-6.353-full.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 230495,
+      "fileId": 3007966
+    }
+  ],
   "forge": [
     {
       "modId": "movingworld",

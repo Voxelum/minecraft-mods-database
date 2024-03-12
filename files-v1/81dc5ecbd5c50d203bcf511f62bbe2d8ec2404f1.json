@@ -1,0 +1,16 @@
+{
+  "name": "dragonfire-0.6.12.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 520783,
+      "fileId": 3723124
+    }
+  ],
+  "forge": [
+    {
+      "modId": "geckolib3",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

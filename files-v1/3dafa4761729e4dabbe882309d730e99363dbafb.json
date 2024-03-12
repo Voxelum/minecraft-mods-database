@@ -1,6 +1,18 @@
 {
   "name": "deathbackup-1.18.2-3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ot5JFxuv",
+      "versionId": "WYGqxDpq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411571,
+      "fileId": 4328883
+    }
+  ],
   "forge": [
     {
       "modId": "deathbackup",

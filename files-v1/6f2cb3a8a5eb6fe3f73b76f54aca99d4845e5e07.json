@@ -1,6 +1,12 @@
 {
   "name": "clientcommands-2.7.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7Coz83fv",
+      "versionId": "s1KDzDpX"
+    }
+  ],
   "fabric": [
     {
       "modId": "clientcommands",

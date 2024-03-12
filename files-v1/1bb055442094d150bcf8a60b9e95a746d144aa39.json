@@ -1,0 +1,28 @@
+{
+  "name": "EssentialClient-1.20.4-1.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sH0dfrKf",
+      "versionId": "Dkvu3Aod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "essential-client",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.7.10"
+    },
+    {
+      "modId": "com_github_senseiwells_arucas",
+      "version": "239610d1ce"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

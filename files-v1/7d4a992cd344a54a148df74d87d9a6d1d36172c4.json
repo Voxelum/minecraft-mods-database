@@ -1,0 +1,16 @@
+{
+  "name": "ultris-5.6.7g.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ultris_mr",
+      "version": "5.6.7g"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ultris_mr",
+      "version": "5.6.7g"
+    }
+  ]
+}

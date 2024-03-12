@@ -1,6 +1,18 @@
 {
   "name": "fabrishot-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qsfQtE9",
+      "versionId": "YyQfKVvE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404870,
+      "fileId": 3271155
+    }
+  ],
   "fabric": [
     {
       "modId": "fabrishot",

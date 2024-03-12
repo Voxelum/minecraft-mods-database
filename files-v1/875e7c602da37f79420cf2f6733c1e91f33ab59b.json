@@ -1,0 +1,10 @@
+{
+  "name": "PotionCore-1.2_beta_for_1.7.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "potioncore",
+      "version": "@VERSION@"
+    }
+  ]
+}

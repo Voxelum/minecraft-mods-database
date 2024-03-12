@@ -1,0 +1,168 @@
+{
+  "name": "ornithe-standard-libraries-0.13.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EHGtwpJv",
+      "versionId": "OEKzrS2d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "osl",
+      "version": "0.13.3"
+    },
+    {
+      "modId": "osl-core",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "osl-branding",
+      "version": "0.2.3+mc1.3-pre-07261249-mc1.5.2"
+    },
+    {
+      "modId": "osl-branding",
+      "version": "0.2.3+mc1.7.10-pre1-mc1.7.10-pre2"
+    },
+    {
+      "modId": "osl-branding",
+      "version": "0.2.3+mc1.7.10-pre3-mc1.7.10"
+    },
+    {
+      "modId": "osl-branding",
+      "version": "0.2.3+mc13w16a-04192037-mc1.7.9"
+    },
+    {
+      "modId": "osl-branding",
+      "version": "0.2.3+mc14w02a-mc14w29b"
+    },
+    {
+      "modId": "osl-branding",
+      "version": "0.2.3+mc14w30a-mc16w05a"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc1.3-pre-07261249-mc1.5.2"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc13w16a-04192037-mc1.6.4"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc13w41a-mc1.7.10"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc14w04b-1554-mc14w26c"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc14w27a-mc15w39c"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc15w40a-mc1.12.2"
+    },
+    {
+      "modId": "osl-config",
+      "version": "0.4.2+mc17w43a-mc1.13.2"
+    },
+    {
+      "modId": "osl-entrypoints",
+      "version": "0.4.2+mc1.3-pre-07261249-mc1.5.2"
+    },
+    {
+      "modId": "osl-entrypoints",
+      "version": "0.4.2+mc13w16a-04192037-mc1.14.4"
+    },
+    {
+      "modId": "osl-keybinds",
+      "version": "0.1.2+mc1.3.1-mc1.5.2"
+    },
+    {
+      "modId": "osl-keybinds",
+      "version": "0.1.2+mc13w16a-04192037-mc1.6.4"
+    },
+    {
+      "modId": "osl-keybinds",
+      "version": "0.1.2+mc13w36a-09051446-mc17w15a"
+    },
+    {
+      "modId": "osl-keybinds",
+      "version": "0.1.2+mc17w16a-mc1.12.2"
+    },
+    {
+      "modId": "osl-keybinds",
+      "version": "0.1.2+mc17w43a-mc1.14.4"
+    },
+    {
+      "modId": "osl-lifecycle-events",
+      "version": "0.5.2+mc1.3-pre-07261249-mc1.5.2"
+    },
+    {
+      "modId": "osl-lifecycle-events",
+      "version": "0.5.2+mc13w16a-04192037-mc1.6.4"
+    },
+    {
+      "modId": "osl-lifecycle-events",
+      "version": "0.5.2+mc13w36a-09051446-mc1.13"
+    },
+    {
+      "modId": "osl-lifecycle-events",
+      "version": "0.5.2+mc18w30a-mc18w50a"
+    },
+    {
+      "modId": "osl-lifecycle-events",
+      "version": "0.5.2+mc19w04a-mc1.14.4"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc1.13-pre4-mc18w30b"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc1.3-pre-07261249-mc1.5.2"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc13w16a-04192037-mc13w39b"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc13w41a-mc14w20b"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc14w21a-mc14w30c"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc14w31a-mc1.13-pre2"
+    },
+    {
+      "modId": "osl-networking",
+      "version": "0.6.4+mc18w31a-mc1.14.4"
+    },
+    {
+      "modId": "osl-resource-loader",
+      "version": "0.4.3+mc1.3-pre-07261249-mc13w07a"
+    },
+    {
+      "modId": "osl-resource-loader",
+      "version": "0.4.3+mc13w09a-mc1.5.2"
+    },
+    {
+      "modId": "osl-resource-loader",
+      "version": "0.4.3+mc13w26a-mc1.12.2"
+    },
+    {
+      "modId": "osl-resource-loader",
+      "version": "0.4.3+mc17w43a-mc19w07a"
+    },
+    {
+      "modId": "osl-resource-loader",
+      "version": "0.4.3+mc19w08a-mc1.14.4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "SolarPanels-1.0.0+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "solar_panels",
+      "version": "1.0.0+1.19.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

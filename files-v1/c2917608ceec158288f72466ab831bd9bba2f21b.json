@@ -1,0 +1,26 @@
+{
+  "name": "holograms-1.5.2+1.20-legacy-edition.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "holograms",
+      "version": "1.5.2+1.20-legacy-edition"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "hologram-api",
+      "version": "0.2.4+1.20"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

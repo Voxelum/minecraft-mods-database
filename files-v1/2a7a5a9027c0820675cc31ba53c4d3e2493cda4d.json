@@ -1,0 +1,22 @@
+{
+  "name": "firefliesfabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 942162,
+      "fileId": 4925312
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ambiance",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ambiance",
+      "version": "1.0.0"
+    }
+  ]
+}

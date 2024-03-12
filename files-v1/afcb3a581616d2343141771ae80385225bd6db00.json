@@ -1,0 +1,24 @@
+{
+  "name": "simple-rpc-fabric-1.19.x-3.2.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 4776476
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple-rpc",
+      "version": "3.2.4"
+    },
+    {
+      "modId": "com_hypherionmc_rpcsdk",
+      "version": "1.0"
+    },
+    {
+      "modId": "me_hypherionmc_simplerpc_simple-rpc-common",
+      "version": "4.2.21"
+    }
+  ]
+}

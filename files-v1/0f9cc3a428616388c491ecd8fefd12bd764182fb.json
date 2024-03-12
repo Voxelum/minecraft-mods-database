@@ -1,0 +1,16 @@
+{
+  "name": "grassseeds-1.19.4-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "grassseeds",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grassseeds",
+      "version": "3.0"
+    }
+  ]
+}

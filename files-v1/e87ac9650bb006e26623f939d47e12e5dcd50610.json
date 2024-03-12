@@ -1,0 +1,28 @@
+{
+  "name": "comforts-fabric-6.3.5+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 276951,
+      "fileId": 5068861
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "6.3.5+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.15+1.20.1"
+    }
+  ]
+}

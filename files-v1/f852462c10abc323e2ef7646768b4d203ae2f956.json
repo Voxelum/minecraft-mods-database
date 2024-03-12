@@ -1,0 +1,30 @@
+{
+  "name": "【禁用举报】NoChatReports-FABRIC-1.19.4-v2.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nochatreports",
+      "version": "1.19.4-v2.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.23+9ff28bced8"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.21+4e68ac5bd8"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.44+8c25edb4d8"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "2.0.2+ae0966bad8"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.9+711cde8ad8"
+    }
+  ]
+}

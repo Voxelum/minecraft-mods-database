@@ -1,0 +1,14 @@
+{
+  "name": "[fabric-1.20]AllMusic-2.6.8.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "allmusic_client",
+      "version": "2.6.8"
+    },
+    {
+      "modId": "org_gagravarr_vorbis-java-core",
+      "version": "0.8"
+    }
+  ]
+}

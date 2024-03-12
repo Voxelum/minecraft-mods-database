@@ -1,0 +1,24 @@
+{
+  "name": "mru-0.1.5+1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 669659,
+      "fileId": 4460743
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mru",
+      "version": "0.1.5+1.19.2"
+    },
+    {
+      "modId": "com_sksamuel_scrimage_scrimage-core",
+      "version": "4.0.31"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    }
+  ]
+}

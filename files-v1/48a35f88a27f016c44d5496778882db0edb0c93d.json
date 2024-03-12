@@ -1,0 +1,20 @@
+{
+  "name": "knowledges-1.18-1.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kdZNMv3G",
+      "versionId": "s6yi3mGI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "knowledges",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "com_github_krlite_pierced",
+      "version": "v1.2"
+    }
+  ]
+}

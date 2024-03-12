@@ -1,0 +1,16 @@
+{
+  "name": "more-mobs-1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "more_mobs_mr",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_mobs_mr",
+      "version": "1.4"
+    }
+  ]
+}

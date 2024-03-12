@@ -1,0 +1,16 @@
+{
+  "name": "configurableextramobdrops-1.18.2-3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "configurableextramobdrops",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurableextramobdrops",
+      "version": "3.0"
+    }
+  ]
+}

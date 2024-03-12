@@ -1,0 +1,20 @@
+{
+  "name": "TeamCapes-fabric-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 941141,
+      "fileId": 4888386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "team_capes",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

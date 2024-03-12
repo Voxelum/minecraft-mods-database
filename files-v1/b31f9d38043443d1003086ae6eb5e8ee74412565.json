@@ -1,6 +1,12 @@
 {
   "name": "zombified-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 501250,
+      "fileId": 3556654
+    }
+  ],
   "fabric": [
     {
       "modId": "zombified",

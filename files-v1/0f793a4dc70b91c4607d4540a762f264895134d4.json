@@ -1,0 +1,16 @@
+{
+  "name": "extendedgears-2.1.0-1.18.2-0.5.1.c-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extendedgears",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedgears",
+      "version": "2.1.0-1.18.2-0.5.1.c-fabric"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "[功能][自动第三人称视角]auto_third_person-1.18-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "auto_third_person",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "nacl",
+      "version": "0.9.3"
+    }
+  ]
+}

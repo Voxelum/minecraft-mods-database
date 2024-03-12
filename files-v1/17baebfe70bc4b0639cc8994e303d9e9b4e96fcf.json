@@ -1,10 +1,16 @@
 {
   "name": "BSL_v8.2.04.zip",
-  "domain": "shaderpacks",
+  "domain": "resourcepacks",
   "modrinth": [
     {
       "projectId": "Q1vvjJYV",
       "versionId": "P1eZktJ3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 322506,
+      "fileId": 4573995
     }
   ]
 }

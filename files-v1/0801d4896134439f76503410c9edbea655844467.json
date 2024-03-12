@@ -1,0 +1,20 @@
+{
+  "name": "XaeroPlus-Fabric-1.20.4-3-WM1.37.5-MM23.9.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "NYLDlvrE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeroplus",
+      "version": "1.20.4"
+    },
+    {
+      "modId": "net_lenni0451_lambdaevents",
+      "version": "2.4.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "replaymod-1.19.2-2.6.12.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "1.19.2-2.6.12"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.13+0d0f210290"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.8.1+0d0f210290"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.23+aaaf9d3390"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.8+3b1d070f90"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "AdvancedReborn-1.18.2-1.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ir8okcEA",
+      "versionId": "dBYydUAQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advanced_reborn",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.4.0"
+    }
+  ]
+}

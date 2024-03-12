@@ -1,6 +1,12 @@
 {
   "name": "stables-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422794,
+      "fileId": 3221143
+    }
+  ],
   "forge": [
     {
       "modId": "stables",

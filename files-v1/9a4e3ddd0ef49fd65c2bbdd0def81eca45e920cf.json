@@ -1,6 +1,12 @@
 {
   "name": "supplementaries-1.19.2-2.3.20-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "J3r1J6t6"
+    }
+  ],
   "fabric": [
     {
       "modId": "supplementaries",

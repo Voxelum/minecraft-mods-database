@@ -1,6 +1,12 @@
 {
   "name": "fabric-language-scala-1.1.0+scala.2.13.6-fat.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 309275,
+      "fileId": 3392902
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-language-scala",

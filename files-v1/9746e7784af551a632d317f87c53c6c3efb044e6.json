@@ -1,0 +1,14 @@
+{
+  "name": "resourcefullib-fabric-1.19.3-1.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "resourcefullib",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_teamresourceful_yabn",
+      "version": "1.0.1"
+    }
+  ]
+}

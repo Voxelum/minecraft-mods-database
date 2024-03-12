@@ -1,0 +1,16 @@
+{
+  "name": "PureDiscsRelic-v1.0.0-1.18.2-Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "purediscsrelic",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "purediscsrelic",
+      "version": "1.0.0"
+    }
+  ]
+}

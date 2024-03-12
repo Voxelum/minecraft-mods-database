@@ -1,6 +1,18 @@
 {
   "name": "libertyvillagers-2.0.0+forge+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "264clomZ",
+      "versionId": "W2VnNxmi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 700485,
+      "fileId": 4738904
+    }
+  ],
   "forge": [
     {
       "modId": "libertyvillagers",

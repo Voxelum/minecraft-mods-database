@@ -1,0 +1,20 @@
+{
+  "name": "mythicupgrades-2.4.2+mc1.20.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 663567,
+      "fileId": 5058581
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicupgrades",
+      "version": "2.4.2+mc1.20.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.3+1.20.3"
+    }
+  ]
+}

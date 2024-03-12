@@ -1,0 +1,26 @@
+{
+  "name": "gravestones-v1.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ssUbhMkL",
+      "versionId": "DoolHsey"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373595,
+      "fileId": 4041681
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gravestones",
+      "version": "v1.13"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

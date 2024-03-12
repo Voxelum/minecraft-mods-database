@@ -1,6 +1,12 @@
 {
   "name": "ducky-mod-1.12.2-0.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 280133,
+      "fileId": 2645082
+    }
+  ],
   "forge": [
     {
       "modId": "duckymod",

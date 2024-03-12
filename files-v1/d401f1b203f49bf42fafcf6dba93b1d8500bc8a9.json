@@ -1,6 +1,18 @@
 {
   "name": "cc-tweaked-1.16.5-1.99.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gu7yAYhd",
+      "versionId": "HOWrWufQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282001,
+      "fileId": 3559365
+    }
+  ],
   "forge": [
     {
       "modId": "computercraft",

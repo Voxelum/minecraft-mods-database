@@ -1,0 +1,20 @@
+{
+  "name": "convenientnametags-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eUsHC1iS",
+      "versionId": "HHgPc9X0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "convenientnametags",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19"
+    }
+  ]
+}

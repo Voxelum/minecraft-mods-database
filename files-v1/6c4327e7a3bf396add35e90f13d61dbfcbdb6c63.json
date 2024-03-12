@@ -1,6 +1,12 @@
 {
   "name": "toomanyplayers-1.20-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPVN4aiJ",
+      "versionId": "81qnKqhC"
+    }
+  ],
   "fabric": [
     {
       "modId": "toomanyplayers",

@@ -1,0 +1,10 @@
+{
+  "name": "CraftPresence-1.15.2-1.6.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "craftpresence",
+      "version": "property(class java.lang.String, provider(?))"
+    }
+  ]
+}

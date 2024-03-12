@@ -1,0 +1,16 @@
+{
+  "name": "bottleyourxp-1.20.4-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bottleyourxp",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bottleyourxp",
+      "version": "3.3"
+    }
+  ]
+}

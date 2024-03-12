@@ -1,0 +1,10 @@
+{
+  "name": "addon - litematica-fabric-1.19-0.11.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "litematica",
+      "version": "0.11.3"
+    }
+  ]
+}

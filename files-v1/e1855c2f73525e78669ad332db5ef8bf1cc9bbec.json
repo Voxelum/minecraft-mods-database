@@ -1,0 +1,14 @@
+{
+  "name": "useful-brush-0.1.0+mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "useful_brush",
+      "version": "0.1.0+mc1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

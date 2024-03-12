@@ -1,6 +1,12 @@
 {
   "name": "viafabric-0.4.10+40-main.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlKdE5VK",
+      "versionId": "j15sFcP7"
+    }
+  ],
   "fabric": [
     {
       "modId": "viafabric",

@@ -1,0 +1,20 @@
+{
+  "name": "morevillagers-FABRIC-1.18.2-3.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 486080,
+      "fileId": 3699183
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morevillagers-fabric",
+      "version": "3.2.0-SNAPSHOT"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

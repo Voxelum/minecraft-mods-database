@@ -1,0 +1,10 @@
+{
+  "name": "levelup2-1.5.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "levelup2",
+      "version": "${version}"
+    }
+  ]
+}

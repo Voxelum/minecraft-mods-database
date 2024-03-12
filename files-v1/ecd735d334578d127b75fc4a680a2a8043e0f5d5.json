@@ -7,10 +7,20 @@
       "versionId": "Hz9R6dqB"
     }
   ],
+  "curseforge": [
+    {
+      "projectId": 239197,
+      "fileId": 2838720
+    }
+  ],
   "forge": [
     {
       "modId": "MineTweaker3",
       "version": "3.1.0"
+    },
+    {
+      "modId": "MineTweaker3",
+      "version": "1.7.10-3.1.0"
     }
   ]
 }

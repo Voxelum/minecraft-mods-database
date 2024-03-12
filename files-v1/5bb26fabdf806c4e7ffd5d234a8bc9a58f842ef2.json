@@ -1,0 +1,14 @@
+{
+  "name": "infinitybuttons-4.0.1-mc1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "infinitybuttons",
+      "version": "4.0.1-mc1.18.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

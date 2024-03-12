@@ -1,0 +1,16 @@
+{
+  "name": "ItemPhysic_FORGE_v1.6.4_mc1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "itemphysic",
+      "version": "1.6.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemphysic",
+      "version": "${version}"
+    }
+  ]
+}

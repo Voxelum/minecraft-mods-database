@@ -1,0 +1,16 @@
+{
+  "name": "varied-village-sizes-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_varied_villagesizes",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_varied_villagesizes",
+      "version": "1.0"
+    }
+  ]
+}

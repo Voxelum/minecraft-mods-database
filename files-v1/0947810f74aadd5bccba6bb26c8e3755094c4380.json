@@ -1,6 +1,12 @@
 {
   "name": "pipez-1.19.2-1.1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 443900,
+      "fileId": 4713644
+    }
+  ],
   "forge": [
     {
       "modId": "pipez",

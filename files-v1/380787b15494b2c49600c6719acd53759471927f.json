@@ -1,6 +1,18 @@
 {
   "name": "Modern-Industrialization-1.7.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gov5Dboq",
+      "versionId": "RWdXZNT1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405388,
+      "fileId": 4775647
+    }
+  ],
   "fabric": [
     {
       "modId": "modern_industrialization",

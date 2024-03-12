@@ -1,6 +1,12 @@
 {
   "name": "betterfpsdist-fabric-1.18-1.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 582640,
+      "fileId": 3768225
+    }
+  ],
   "forge": [
     {
       "modId": "betterfpsdist",

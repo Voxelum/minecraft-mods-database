@@ -1,0 +1,28 @@
+{
+  "name": "mooshroomspawn-1.20.1-3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gx3OPAlS",
+      "versionId": "vFOlG8jo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325013,
+      "fileId": 4964339
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.5"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "extremesoundmuffler-3.30_fabric-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extremesoundmuffler",
+      "version": "3.31_fabric-1.18.2"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

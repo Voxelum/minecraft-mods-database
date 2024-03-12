@@ -1,6 +1,18 @@
 {
   "name": "trulytreasures-fabric-1.18.1-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YUTKRI5S",
+      "versionId": "Zqtx8cTl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508348,
+      "fileId": 3579380
+    }
+  ],
   "fabric": [
     {
       "modId": "trulytreasures",

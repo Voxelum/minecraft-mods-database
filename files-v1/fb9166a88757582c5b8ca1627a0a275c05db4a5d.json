@@ -1,6 +1,18 @@
 {
   "name": "krypton-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fQEb0iXm",
+      "versionId": "Tncui9tU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 428912,
+      "fileId": 4440087
+    }
+  ],
   "fabric": [
     {
       "modId": "krypton",

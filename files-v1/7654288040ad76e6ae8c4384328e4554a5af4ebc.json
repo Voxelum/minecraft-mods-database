@@ -1,0 +1,26 @@
+{
+  "name": "clockwork-1.18.2-0.1.2-fabric-3958f2e647.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 807792,
+      "fileId": 5069207
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vs_clockwork",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vs_clockwork",
+      "version": "1.18.2-0.1.2-fabric-3958f2e647"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

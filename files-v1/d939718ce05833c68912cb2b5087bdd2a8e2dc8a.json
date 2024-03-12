@@ -1,6 +1,12 @@
 {
   "name": "fabric-language-kotlin-1.10.9+kotlin.1.9.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308769,
+      "fileId": 4718458
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-language-kotlin",

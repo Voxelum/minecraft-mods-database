@@ -1,6 +1,18 @@
 {
   "name": "victus-0.1.7+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sy5mAKPK",
+      "versionId": "H2VPy3b3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 534492,
+      "fileId": 3642317
+    }
+  ],
   "fabric": [
     {
       "modId": "victus",

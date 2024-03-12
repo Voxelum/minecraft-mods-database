@@ -1,0 +1,10 @@
+{
+  "name": "[前置]Iceberg-1.19-fabric-1.0.38.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iceberg",
+      "version": "1.0.38"
+    }
+  ]
+}

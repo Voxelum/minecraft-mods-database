@@ -1,0 +1,18 @@
+{
+  "name": "immersive_weathering-1.18.2-3.0.3-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "immersive_weathering",
+      "version": "1.18.2-1.18.2-3.0.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.62"
+    },
+    {
+      "modId": "modmenu",
+      "version": "3.2.3"
+    }
+  ]
+}

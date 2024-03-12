@@ -1,0 +1,88 @@
+{
+  "name": "megane-8.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZNk5S5U6",
+      "versionId": "AWDmjM9a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "megane",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-alloy-forgery",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-api",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-applied-energistics-2",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-create",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-deep-mob-learning-simulacrum",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-extra-generators",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-fabric-transfer",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-industrial-revolution",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-kibe",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-luggage",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-modern-dynamics",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-powah",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-reborn-core",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-reborn-energy",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-runtime",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-tech-reborn",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-vanilla",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "megane-wireless-networks",
+      "version": "8.4.0"
+    }
+  ]
+}

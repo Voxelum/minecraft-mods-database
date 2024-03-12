@@ -1,0 +1,20 @@
+{
+  "name": "SimpleCopperPipes-1.20.1-1.16.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9r4ZkgSN",
+      "versionId": "RMObPif0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple_copper_pipes",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.5.2-Fabric+1.20.1"
+    }
+  ]
+}

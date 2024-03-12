@@ -1,0 +1,60 @@
+{
+  "name": "Cardinal-Components-API-2.8.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318449,
+      "fileId": 3312678
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-util",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+c88702897d"
+    },
+    {
+      "modId": "fabric-networking-v0",
+      "version": "0.3.2+ca58154a7d"
+    }
+  ]
+}

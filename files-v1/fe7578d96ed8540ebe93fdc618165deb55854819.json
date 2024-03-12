@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-1.19.2-6.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 5146170
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "6.2"
+    }
+  ]
+}

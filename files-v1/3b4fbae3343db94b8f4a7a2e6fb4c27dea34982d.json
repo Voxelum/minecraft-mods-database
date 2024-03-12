@@ -1,0 +1,16 @@
+{
+  "name": "CustomPlayerModels-1.18-0.6.13a.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cpm",
+      "version": "0.6.13a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpm",
+      "version": "-"
+    }
+  ]
+}

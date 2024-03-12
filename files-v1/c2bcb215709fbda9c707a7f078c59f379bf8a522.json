@@ -1,0 +1,14 @@
+{
+  "name": "bettershields-1.0.1+mc1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bettershields",
+      "version": "1.0.1+mc1.20.2"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.37+f4b7e42403"
+    }
+  ]
+}

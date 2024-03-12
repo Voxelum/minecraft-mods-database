@@ -1,0 +1,14 @@
+{
+  "name": "starteritems-1.5.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "starteritems",
+      "version": "1.5.4"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

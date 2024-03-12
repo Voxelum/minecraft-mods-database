@@ -1,6 +1,18 @@
 {
   "name": "phosphor-fabric-mc1.19.x-0.8.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hEOCdOgW",
+      "versionId": "Di0Jgej2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 372124,
+      "fileId": 3832074
+    }
+  ],
   "fabric": [
     {
       "modId": "phosphor",

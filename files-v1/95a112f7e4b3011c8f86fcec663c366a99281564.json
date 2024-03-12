@@ -1,0 +1,10 @@
+{
+  "name": "palapass-prod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "palapass",
+      "version": "0.1"
+    }
+  ]
+}

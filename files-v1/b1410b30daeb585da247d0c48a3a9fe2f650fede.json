@@ -1,6 +1,18 @@
 {
   "name": "Origins-1.19.2-1.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BeIrqZR",
+      "versionId": "FxSutbg1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391943,
+      "fileId": 4044263
+    }
+  ],
   "fabric": [
     {
       "modId": "origins",

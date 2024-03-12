@@ -1,6 +1,18 @@
 {
   "name": "infinitylib-2.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRSROPyx",
+      "versionId": "fM30vJrH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 251396,
+      "fileId": 3883932
+    }
+  ],
   "forge": [
     {
       "modId": "infinitylib",

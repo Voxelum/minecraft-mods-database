@@ -1,6 +1,18 @@
 {
   "name": "MindfulDarkness-v4.0.9-1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pzCY6C3e",
+      "versionId": "FXjG2oJj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852669,
+      "fileId": 4568427
+    }
+  ],
   "fabric": [
     {
       "modId": "mindfuldarkness",

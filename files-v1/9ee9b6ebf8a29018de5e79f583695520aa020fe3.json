@@ -1,6 +1,18 @@
 {
   "name": "right_click_get_crops-1.18.2-1.4.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "phrqJM0N",
+      "versionId": "CF6Tp5WI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552442,
+      "fileId": 4121232
+    }
+  ],
   "forge": [
     {
       "modId": "right_click_get_crops",

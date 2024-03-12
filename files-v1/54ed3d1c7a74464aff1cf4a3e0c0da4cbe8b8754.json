@@ -1,0 +1,20 @@
+{
+  "name": "campanion-1.3.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 373138,
+      "fileId": 3212558
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "campanion",
+      "version": "1.3.5"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.0.1"
+    }
+  ]
+}

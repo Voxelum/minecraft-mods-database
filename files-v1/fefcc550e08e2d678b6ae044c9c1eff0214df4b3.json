@@ -1,0 +1,16 @@
+{
+  "name": "Statement-4.2.7+1.20.1-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "statement",
+      "version": "4.2.7+1.20.1-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "statement",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

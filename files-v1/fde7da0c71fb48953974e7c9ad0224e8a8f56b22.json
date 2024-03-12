@@ -1,0 +1,16 @@
+{
+  "name": "realisticbees-1.19.2-3.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "realisticbees",
+      "version": "3.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "realisticbees",
+      "version": "3.8"
+    }
+  ]
+}

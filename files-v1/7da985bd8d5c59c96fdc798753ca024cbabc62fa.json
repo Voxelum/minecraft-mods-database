@@ -1,0 +1,20 @@
+{
+  "name": "picturesign-1.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 533897,
+      "fileId": 3837060
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "picturesign",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

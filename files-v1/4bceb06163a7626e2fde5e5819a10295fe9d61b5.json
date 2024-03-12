@@ -1,0 +1,32 @@
+{
+  "name": "BypassAnvilRestriction-1.0.7+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 662045,
+      "fileId": 4704402
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bypass_anvil_restriction",
+      "version": "1.0.7+1.20.1"
+    },
+    {
+      "modId": "ch_skyfy_tomlconfiglib_toml-config-lib",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "io_github_microutils_kotlin-logging-jvm",
+      "version": "3.0.5"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt-jvm",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm",
+      "version": "1.5.0"
+    }
+  ]
+}

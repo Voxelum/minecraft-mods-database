@@ -1,0 +1,24 @@
+{
+  "name": "heracles-fabric-1.20.1-1.1.9.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 845831,
+      "fileId": 5076940
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "heracles",
+      "version": "1.1.9"
+    },
+    {
+      "modId": "hermes",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

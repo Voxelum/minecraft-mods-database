@@ -1,6 +1,12 @@
 {
   "name": "duckling-2.0.8-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jkb861Ih",
+      "versionId": "XKN23z0I"
+    }
+  ],
   "fabric": [
     {
       "modId": "duckling",

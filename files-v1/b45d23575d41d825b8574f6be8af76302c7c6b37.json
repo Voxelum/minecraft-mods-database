@@ -1,6 +1,18 @@
 {
   "name": "SimpleRPC-fabric-1.20-3.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "Ys6d1BN4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 4776530
+    }
+  ],
   "fabric": [
     {
       "modId": "simple-rpc",

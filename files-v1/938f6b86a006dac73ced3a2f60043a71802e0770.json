@@ -1,0 +1,22 @@
+{
+  "name": "modelfix-1.3-universal.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QdG47OkI",
+      "versionId": "aZZZrtpR"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "modelfix",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modelfix",
+      "version": "1.0"
+    }
+  ]
+}

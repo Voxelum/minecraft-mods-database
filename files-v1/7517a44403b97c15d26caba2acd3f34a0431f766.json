@@ -1,0 +1,26 @@
+{
+  "name": "rpgz-0.6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pWpEhhT7",
+      "versionId": "HVFJeuv7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404828,
+      "fileId": 4886846
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpgz",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

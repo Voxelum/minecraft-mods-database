@@ -1,0 +1,10 @@
+{
+  "name": "pamhc2foodcore-1.14.4-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pamhc2foodcore",
+      "version": "${version}"
+    }
+  ]
+}

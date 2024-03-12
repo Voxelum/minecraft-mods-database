@@ -1,0 +1,20 @@
+{
+  "name": "cullleaves-fabric-3.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNxdLCoP",
+      "versionId": "OgI2Yf72"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

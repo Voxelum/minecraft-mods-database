@@ -1,0 +1,14 @@
+{
+  "name": "[功能][告示牌图书编辑页面优化]stendhal-1.2.0-1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stendhal",
+      "version": "1.2.0-1.18"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.0.0-beta.2+1.18-rc1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "chipped-1.16.5-1.2.1-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456956,
+      "fileId": 3717506
+    }
+  ],
   "forge": [
     {
       "modId": "chipped",

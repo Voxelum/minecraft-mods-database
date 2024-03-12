@@ -1,0 +1,32 @@
+{
+  "name": "PetOwner-1.8.0-1.16.5+.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401859,
+      "fileId": 3286751
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "petowner",
+      "version": "1.8.0-1.16.5+"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.1+9354966b7d"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.4+9354966b7d"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.1+ca58154a7d"
+    },
+    {
+      "modId": "cloth-config-lite",
+      "version": "1.0.4"
+    }
+  ]
+}

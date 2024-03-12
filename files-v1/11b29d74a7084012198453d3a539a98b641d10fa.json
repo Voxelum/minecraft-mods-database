@@ -1,6 +1,12 @@
 {
   "name": "modmenu-7.0.0-beta.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "EuNUYds8"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

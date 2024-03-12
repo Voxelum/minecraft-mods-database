@@ -1,0 +1,20 @@
+{
+  "name": "water-resistance-potion-1.1.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oXj4ct3c",
+      "versionId": "y3QV65P8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hwr",
+      "version": "1.1.0+1.20.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    }
+  ]
+}

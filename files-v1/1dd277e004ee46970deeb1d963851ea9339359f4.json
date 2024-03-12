@@ -1,0 +1,16 @@
+{
+  "name": "fixedanvilrepaircost-1.19.2-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fixedanvilrepaircost",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fixedanvilrepaircost",
+      "version": "3.1"
+    }
+  ]
+}

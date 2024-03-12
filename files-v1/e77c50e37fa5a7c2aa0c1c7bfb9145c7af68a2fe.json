@@ -1,0 +1,18 @@
+{
+  "name": "dark-enchanting-1.0.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dark-enchanting",
+      "version": "1.0.2+1.19.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.4.0+1.19"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

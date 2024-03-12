@@ -1,0 +1,28 @@
+{
+  "name": "decentbiomes 1.20.1 forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5y9Y5ow1",
+      "versionId": "HsPXgRwI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969912,
+      "fileId": 5115006
+    }
+  ],
+  "forge": [
+    {
+      "modId": "decent_biomes",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decent_biomes",
+      "version": "1.0.0"
+    }
+  ]
+}

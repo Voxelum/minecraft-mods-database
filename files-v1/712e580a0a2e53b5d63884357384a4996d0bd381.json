@@ -1,6 +1,18 @@
 {
   "name": "bettertrims-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "98ytUvlc",
+      "versionId": "7wDxGv34"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821752,
+      "fileId": 4708118
+    }
+  ],
   "fabric": [
     {
       "modId": "bettertrims",

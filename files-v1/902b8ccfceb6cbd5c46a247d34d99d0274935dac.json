@@ -1,0 +1,14 @@
+{
+  "name": "now-playing-fabric-1.4.4-blanketcon.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "now-playing",
+      "version": "1.4.4-blanketcon"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

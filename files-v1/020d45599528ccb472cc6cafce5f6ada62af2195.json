@@ -1,0 +1,24 @@
+{
+  "name": "stepup-1.20.4-fabric0.91.2-1.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 355753,
+      "fileId": 4963382
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stepup",
+      "version": "1.20.4-fabric0.91.2-1.3"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.4+1.20"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

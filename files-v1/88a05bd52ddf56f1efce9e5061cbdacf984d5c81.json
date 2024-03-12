@@ -1,6 +1,18 @@
 {
   "name": "jei-1.17.1-8.3.1.1002.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "opG3j70F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 4351306
+    }
+  ],
   "forge": [
     {
       "modId": "jei",

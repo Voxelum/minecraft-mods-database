@@ -1,0 +1,10 @@
+{
+  "name": "update-me-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "update-me",
+      "version": "1.1"
+    }
+  ]
+}

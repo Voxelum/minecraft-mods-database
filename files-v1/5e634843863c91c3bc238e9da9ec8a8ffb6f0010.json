@@ -1,0 +1,20 @@
+{
+  "name": "extrarecords-3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 458019,
+      "fileId": 3657828
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extrarecords",
+      "version": "3.2"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.4"
+    }
+  ]
+}

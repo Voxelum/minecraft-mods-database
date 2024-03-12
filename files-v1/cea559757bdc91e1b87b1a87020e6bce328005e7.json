@@ -1,6 +1,12 @@
 {
   "name": "Mimic.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 287288,
+      "fileId": 2530527
+    }
+  ],
   "forge": [
     {
       "modId": "mimic",

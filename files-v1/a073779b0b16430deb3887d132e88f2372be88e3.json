@@ -1,0 +1,44 @@
+{
+  "name": "cinderscapes-3.0.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391429,
+      "fileId": 4852718
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cinderscapes",
+      "version": "3.0.7"
+    },
+    {
+      "modId": "cinderscapes-client",
+      "version": "3.0.7"
+    },
+    {
+      "modId": "cinderscapes-common",
+      "version": "3.0.7"
+    },
+    {
+      "modId": "cinderscapes-worldgen",
+      "version": "3.0.7"
+    },
+    {
+      "modId": "terraform-biome-remapper-api-v1",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.0.75"
+    }
+  ]
+}

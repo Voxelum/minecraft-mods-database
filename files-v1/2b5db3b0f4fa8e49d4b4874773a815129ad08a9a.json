@@ -1,0 +1,14 @@
+{
+  "name": "crunchy-crunchy-advancements-1.5.2+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crunchy-crunchy-advancements",
+      "version": "1.5.2+1.19.3"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.1.0+1.1.0-beta.3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "dynamiccrosshair-5.0+1.18.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamiccrosshair",
+      "version": "5.0+1.18.2"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "1.6.3+f4563ac860"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.4+d7c144a860"
+    }
+  ]
+}

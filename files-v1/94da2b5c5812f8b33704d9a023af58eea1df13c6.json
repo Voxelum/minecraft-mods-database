@@ -1,0 +1,10 @@
+{
+  "name": "simplefluidtanks-1.12.2-1.7.1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "simplefluidtanks",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SmoothScrollingEverywhere-3.0.3-unstable.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 325861,
+      "fileId": 2963760
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothscrollingeverywhere",
+      "version": "3.0.3-unstable"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.4.0-unstable"
+    }
+  ]
+}

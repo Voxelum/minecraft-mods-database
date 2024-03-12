@@ -1,0 +1,14 @@
+{
+  "name": "fabric-fasterfurnaces-mod-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fasterfurnaces",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "oro_config",
+      "version": "3.1.0"
+    }
+  ]
+}

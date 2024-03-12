@@ -1,0 +1,22 @@
+{
+  "name": "crittersandcompanions-fabric-1.19.2-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yd4wb5wZ",
+      "versionId": "9uGd3P6f"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "crittersandcompanions",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crittersandcompanions",
+      "version": "1.19.2-2.0.1"
+    }
+  ]
+}

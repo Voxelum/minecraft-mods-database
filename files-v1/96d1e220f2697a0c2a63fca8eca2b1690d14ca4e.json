@@ -1,0 +1,20 @@
+{
+  "name": "charmofundying-fabric-6.5.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5GyyYkp",
+      "versionId": "bRynnjen"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmofundying",
+      "version": "6.5.0+1.20.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.15+1.20.1"
+    }
+  ]
+}

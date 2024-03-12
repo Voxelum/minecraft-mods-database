@@ -1,0 +1,20 @@
+{
+  "name": "MapFrontiers-1.20.1-2.6.0beta2-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.1-1.20.1"
+    }
+  ]
+}

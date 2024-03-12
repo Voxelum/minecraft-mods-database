@@ -1,0 +1,16 @@
+{
+  "name": "immersive-portals-2.5.4-mc1.19.3-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "immersive_portals",
+      "version": "2.5.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "9.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "armorstands-1.3.1+1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorstands",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

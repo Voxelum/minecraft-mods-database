@@ -1,0 +1,22 @@
+{
+  "name": "adapter-origin-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qM4qYVYB",
+      "versionId": "hMUPQH1T"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_adapter_origin",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_adapter_origin",
+      "version": "1.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "villagernames-1.19.2-5.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villagernames",
+      "version": "5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "5.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "scuba-gear-1.16.5-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OeM72JOF",
+      "versionId": "1PmwBI6C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399090,
+      "fileId": 3243305
+    }
+  ],
   "forge": [
     {
       "modId": "scuba_gear",

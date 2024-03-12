@@ -1,0 +1,16 @@
+{
+  "name": "Dynamic+Trees-1.16.5-0.10.5-sources.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vdjF5PL5",
+      "versionId": "xfRW8BpS"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dynamictrees",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "bendy-lib-forge-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aRnIEV0F",
+      "versionId": "df4Yfl6J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623373,
+      "fileId": 4550371
+    }
+  ],
   "forge": [
     {
       "modId": "bendylib",

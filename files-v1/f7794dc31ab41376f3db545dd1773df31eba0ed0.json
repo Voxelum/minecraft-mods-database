@@ -1,6 +1,18 @@
 {
   "name": "promenade-2.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GuE5FpvB",
+      "versionId": "uZy48sdY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399648,
+      "fileId": 3922988
+    }
+  ],
   "fabric": [
     {
       "modId": "promenade",

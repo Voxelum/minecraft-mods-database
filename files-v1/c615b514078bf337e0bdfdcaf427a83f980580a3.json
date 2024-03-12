@@ -1,0 +1,26 @@
+{
+  "name": "arrp-0.8.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "USLVyT7V",
+      "versionId": "L4ojkbl8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463113,
+      "fileId": 5018841
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.8.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a77"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cmdkeybind-1.6.0-1.19.X.temp.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cmdkeybind",
+      "version": "1.6.0-1.19"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.4.14-1.19"
+    }
+  ]
+}

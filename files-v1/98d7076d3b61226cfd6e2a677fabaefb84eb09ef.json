@@ -1,6 +1,12 @@
 {
   "name": "ridehud-1.2.4+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fws3jl2f",
+      "versionId": "DSHFWDyQ"
+    }
+  ],
   "fabric": [
     {
       "modId": "ridehud",

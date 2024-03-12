@@ -1,0 +1,16 @@
+{
+  "name": "overworldpiglins-1.20.4-1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "overworldpiglins",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "overworldpiglins",
+      "version": "1.4"
+    }
+  ]
+}

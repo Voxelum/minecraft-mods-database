@@ -1,6 +1,12 @@
 {
   "name": "serversleep-datapack.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cw8IlnGM",
+      "versionId": "2LFCQnd1"
+    }
+  ],
   "forge": [
     {
       "modId": "serversleep_mr",

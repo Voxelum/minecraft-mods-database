@@ -1,0 +1,30 @@
+{
+  "name": "styled-sidebars-1.1.0+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "styled-sidebars",
+      "version": "1.1.0+1.20"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.1.2+1.20"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.2.2+1.19.3"
+    },
+    {
+      "modId": "sidebar-api",
+      "version": "0.1.2+1.19.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "InertiaAntiCheat-1.0.0-PRE_RELEASE.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ljWczies",
+      "versionId": "R9pnS0j2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inertiaanticheat",
+      "version": "1.0.0-PRE_RELEASE"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

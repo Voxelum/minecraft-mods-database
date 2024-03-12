@@ -1,6 +1,18 @@
 {
   "name": "YungsBridges-1.19.2-Forge-3.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ht4BfYp6",
+      "versionId": "rgVgefNE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 536660,
+      "fileId": 4031233
+    }
+  ],
   "forge": [
     {
       "modId": "yungsbridges",

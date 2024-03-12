@@ -1,0 +1,20 @@
+{
+  "name": "AdditionalAdditions-5.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 508556,
+      "fileId": 3831352
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "additionaladditions",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0-beta.5+1.19-pre1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "radon-0.8.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4AiJdRfV",
+      "versionId": "nswAOup6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 596879,
+      "fileId": 3822783
+    }
+  ],
   "forge": [
     {
       "modId": "radon",

@@ -1,0 +1,14 @@
+{
+  "name": "wuhu-client-1.19.4-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wuhu-client",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_belerweb_pinyin4j",
+      "version": "2.5.1"
+    }
+  ]
+}

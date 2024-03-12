@@ -1,0 +1,14 @@
+{
+  "name": "Truly-Modular-Archery-1.2-1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "archery",
+      "version": "1.2"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "4.4.2"
+    }
+  ]
+}

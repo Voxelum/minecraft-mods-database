@@ -1,0 +1,20 @@
+{
+  "name": "bedrockify-1.5.1+mc1.19.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "4gC2qvJG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.5.1+mc1.19.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.73"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "palladium-4.0.6+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lt2zd42r",
+      "versionId": "dbOU0PA8"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "palladium",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "palladium",
+      "version": "4.0.6"
+    },
+    {
+      "modId": "palladiumcore",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

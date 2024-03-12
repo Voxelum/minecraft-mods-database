@@ -1,6 +1,18 @@
 {
   "name": "spartanfire_rlcraft-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gaQ0NzqC",
+      "versionId": "KXleygBH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676392,
+      "fileId": 4434589
+    }
+  ],
   "forge": [
     {
       "modId": "spartanfire",

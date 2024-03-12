@@ -1,0 +1,28 @@
+{
+  "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DjLobEOy",
+      "versionId": "7ZwnSrVW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 626761,
+      "fileId": 4923828
+    }
+  ],
+  "forge": [
+    {
+      "modId": "t_and_t",
+      "version": "1.10.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.12"
+    }
+  ]
+}

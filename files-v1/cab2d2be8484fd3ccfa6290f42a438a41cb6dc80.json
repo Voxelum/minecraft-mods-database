@@ -1,0 +1,18 @@
+{
+  "name": "portalgun-1.2.6-mc1.16.5-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "portalgun",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "0.99"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    }
+  ]
+}

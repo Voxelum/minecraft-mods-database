@@ -1,6 +1,18 @@
 {
   "name": "smarterfarmers-1.19.2-1.7.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh6ZOMvp",
+      "versionId": "LcvwAmSH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491290,
+      "fileId": 4381339
+    }
+  ],
   "fabric": [
     {
       "modId": "smarterfarmers",

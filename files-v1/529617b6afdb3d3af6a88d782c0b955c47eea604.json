@@ -1,0 +1,10 @@
+{
+  "name": "ArachnidRancher1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spiderfarm",
+      "version": "1.4"
+    }
+  ]
+}

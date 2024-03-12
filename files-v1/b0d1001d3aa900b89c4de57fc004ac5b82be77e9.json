@@ -1,0 +1,16 @@
+{
+  "name": "limbo-dimension-datapack-2.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_limbo_dimensiondatapack",
+      "version": "2.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_limbo_dimensiondatapack",
+      "version": "2.9"
+    }
+  ]
+}

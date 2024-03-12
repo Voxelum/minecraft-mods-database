@@ -1,0 +1,20 @@
+{
+  "name": "Ruthenium-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rpagUnQI",
+      "versionId": "wvCyJANW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ruthenium",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230618"
+    }
+  ]
+}

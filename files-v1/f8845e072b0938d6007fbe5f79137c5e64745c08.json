@@ -1,0 +1,10 @@
+{
+  "name": "walper-addon-0.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walper-addon",
+      "version": "0.1.0"
+    }
+  ]
+}

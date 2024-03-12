@@ -1,0 +1,22 @@
+{
+  "name": "origins-plus-plus-2.0-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 602828,
+      "fileId": 4371254
+    }
+  ],
+  "forge": [
+    {
+      "modId": "origins_plus_plus",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins-plus-plus",
+      "version": "2.0"
+    }
+  ]
+}

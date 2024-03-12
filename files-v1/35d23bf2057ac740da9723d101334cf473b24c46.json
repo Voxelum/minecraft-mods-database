@@ -1,0 +1,14 @@
+{
+  "name": "bclib-3.0.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "3.0.9"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "1.1.2"
+    }
+  ]
+}

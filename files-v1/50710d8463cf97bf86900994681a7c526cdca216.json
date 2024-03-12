@@ -1,0 +1,20 @@
+{
+  "name": "diggusmaximus-1.6.0mc1.20.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 977886,
+      "fileId": 5127034
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diggusmaximus",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.9-1.20.4"
+    }
+  ]
+}

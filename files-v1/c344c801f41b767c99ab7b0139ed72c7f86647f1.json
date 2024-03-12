@@ -1,6 +1,18 @@
 {
   "name": "unsafe-world-random-access-detector-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MsGuTgPJ",
+      "versionId": "8QhgubMQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821683,
+      "fileId": 4410962
+    }
+  ],
   "fabric": [
     {
       "modId": "unsafe-world-random-access-detector",

@@ -1,0 +1,18 @@
+{
+  "name": "denseores-1.2.2+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "denseores",
+      "version": "1.2.2+1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "omega-config-gui",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

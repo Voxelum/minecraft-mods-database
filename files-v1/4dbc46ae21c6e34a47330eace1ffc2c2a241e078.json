@@ -1,6 +1,18 @@
 {
   "name": "create_crystal_clear-0.2.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h7QgiH72",
+      "versionId": "YEuo20pc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 669724,
+      "fileId": 4554249
+    }
+  ],
   "forge": [
     {
       "modId": "create_crystal_clear",

@@ -1,6 +1,18 @@
 {
   "name": "silent-lib-1.18.2-6.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BQhuHQo4",
+      "versionId": "QsIvPSJA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242998,
+      "fileId": 3708359
+    }
+  ],
   "forge": [
     {
       "modId": "silentlib",

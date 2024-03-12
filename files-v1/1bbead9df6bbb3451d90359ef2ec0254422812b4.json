@@ -1,0 +1,20 @@
+{
+  "name": "Mambience-5.3.0-1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317590,
+      "fileId": 4438921
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mambience",
+      "version": "5.3.0+1.19.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.95"
+    }
+  ]
+}

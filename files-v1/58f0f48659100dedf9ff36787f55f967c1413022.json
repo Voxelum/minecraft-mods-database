@@ -1,6 +1,18 @@
 {
   "name": "plushables-fabric-mc1.20.1+1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bpUgmHBo",
+      "versionId": "ki6fSsh4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318603,
+      "fileId": 4748574
+    }
+  ],
   "fabric": [
     {
       "modId": "plushables",

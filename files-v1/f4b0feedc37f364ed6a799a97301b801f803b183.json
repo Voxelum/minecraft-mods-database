@@ -1,0 +1,14 @@
+{
+  "name": "simple-hud-utilities-2.5.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simple_utilities",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    }
+  ]
+}

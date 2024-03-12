@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-refresh-1.4.16e.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gWO6Zqey",
+      "versionId": "rYLj6IXD"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_vanilla_refresh",
+      "version": "1.4.16e"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vanilla_refresh",
+      "version": "1.4.16e"
+    }
+  ]
+}

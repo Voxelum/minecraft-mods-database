@@ -1,6 +1,18 @@
 {
   "name": "architectury-9.1.10-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "8tNf9Wq9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 4633047
+    }
+  ],
   "fabric": [
     {
       "modId": "architectury",

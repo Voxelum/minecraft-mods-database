@@ -1,0 +1,28 @@
+{
+  "name": "curios-fabric-0.0.13-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394941,
+      "fileId": 3233941
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "curios",
+      "version": "0.0.13-1.16.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.7.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.7.2"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "2.7.2"
+    }
+  ]
+}

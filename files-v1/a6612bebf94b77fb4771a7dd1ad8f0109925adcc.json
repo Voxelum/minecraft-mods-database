@@ -1,0 +1,10 @@
+{
+  "name": "Alex's+Mobs+Music+Mod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "peepomod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

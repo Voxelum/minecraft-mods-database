@@ -1,0 +1,14 @@
+{
+  "name": "[功能][更好的村民交易]easiervillagertrading-1.18-fabric0.43.1-1.5.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "easiervillagertrading",
+      "version": "1.18-fabric0.43.1-1.5.4"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.18"
+    }
+  ]
+}

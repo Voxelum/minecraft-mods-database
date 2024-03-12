@@ -1,0 +1,16 @@
+{
+  "name": "CGM-Unofficial-1.4.9+Forge+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 945471,
+      "fileId": 5082458
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cgm",
+      "version": "${file.jarVersion}}"
+    }
+  ]
+}

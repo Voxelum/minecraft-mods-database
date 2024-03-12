@@ -1,6 +1,18 @@
 {
   "name": "archers_paradox-1.16.5-1.5.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "euzGeN6k",
+      "versionId": "aBO88RG7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353399,
+      "fileId": 3788882
+    }
+  ],
   "forge": [
     {
       "modId": "archers_paradox",

@@ -1,0 +1,36 @@
+{
+  "name": "xaero-map-addition-0.2.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CTIW5eos",
+      "versionId": "Ws9TlK9W"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaero_map_addition",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "xaero_map_addition-1_15_2",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "xaero_map_addition-1_16_5",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "xaero_map_addition-1_17_1",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "xaero_map_addition-1_18_2",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "xaero_map_addition-1_19",
+      "version": "0.2.3"
+    }
+  ]
+}

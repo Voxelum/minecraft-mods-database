@@ -1,6 +1,12 @@
 {
   "name": "suggestion-tweaker-1.19.1-1.4.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBLj38R0",
+      "versionId": "rcntiesv"
+    }
+  ],
   "fabric": [
     {
       "modId": "suggestion_tweaker",

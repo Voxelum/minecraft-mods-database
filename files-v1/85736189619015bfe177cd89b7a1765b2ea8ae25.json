@@ -1,0 +1,28 @@
+{
+  "name": "mcde-1.5.4.1-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iwkcspV8",
+      "versionId": "zgGBWe5T"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcde",
+      "version": "1.5.4.1-1.19.2"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "com_hrakaroo_glob",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

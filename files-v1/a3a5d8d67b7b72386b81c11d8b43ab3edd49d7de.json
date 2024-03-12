@@ -1,0 +1,14 @@
+{
+  "name": "mocolors-1.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mocolors",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.0+1.20"
+    }
+  ]
+}

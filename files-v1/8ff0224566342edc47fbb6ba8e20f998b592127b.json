@@ -1,0 +1,16 @@
+{
+  "name": "create-mod-trims-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_create_modtrims",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_create_modtrims",
+      "version": "1.0.0"
+    }
+  ]
+}

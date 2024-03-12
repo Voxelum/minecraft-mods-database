@@ -1,6 +1,18 @@
 {
   "name": "entityculling-forge-1.6.2-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "374z4jcq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448233,
+      "fileId": 4573621
+    }
+  ],
   "forge": [
     {
       "modId": "entityculling",

@@ -1,0 +1,18 @@
+{
+  "name": "Carpet-AMS-Addition-mc1.20.2-v2.16.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "carpet-ams-addition",
+      "version": "2.16.2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "villagernames-1.19.4-5.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gqRXDo8B",
+      "versionId": "68oV9M4s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345854,
+      "fileId": 4438989
+    }
+  ],
+  "forge": [
+    {
+      "modId": "villagernames",
+      "version": "5.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "5.2"
+    }
+  ]
+}

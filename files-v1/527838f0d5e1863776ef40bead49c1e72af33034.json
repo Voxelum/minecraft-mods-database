@@ -1,0 +1,16 @@
+{
+  "name": "respawningshulkers-1.20.4-3.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "respawningshulkers",
+      "version": "3.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "respawningshulkers",
+      "version": "3.7"
+    }
+  ]
+}

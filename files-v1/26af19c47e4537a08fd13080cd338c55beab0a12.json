@@ -1,6 +1,12 @@
 {
   "name": "herdspanic-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U64ZYLjC",
+      "versionId": "mCDiJJHc"
+    }
+  ],
   "fabric": [
     {
       "modId": "herdspanic",

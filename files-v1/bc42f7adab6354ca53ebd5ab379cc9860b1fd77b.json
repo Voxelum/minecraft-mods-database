@@ -1,0 +1,14 @@
+{
+  "name": "itemfavorites-1.0.4+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "itemfavorites",
+      "version": "1.0.4+1.20.1"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.3-1.20"
+    }
+  ]
+}

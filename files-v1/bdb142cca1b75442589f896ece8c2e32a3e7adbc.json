@@ -1,0 +1,26 @@
+{
+  "name": "LuckPerms-Fabric-5.4.109.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vebnzrzj",
+      "versionId": "jo7yK6ip"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431733,
+      "fileId": 4933888
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luckperms",
+      "version": "5.4.109"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

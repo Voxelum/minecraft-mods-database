@@ -1,6 +1,12 @@
 {
   "name": "combat-enchantments-2.14.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 517947,
+      "fileId": 3921649
+    }
+  ],
   "fabric": [
     {
       "modId": "cenchants",

@@ -1,6 +1,18 @@
 {
   "name": "saturn-mc1.18.2-0.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2eT495vq",
+      "versionId": "JXNyz1Wl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 670986,
+      "fileId": 4513258
+    }
+  ],
   "forge": [
     {
       "modId": "saturn",

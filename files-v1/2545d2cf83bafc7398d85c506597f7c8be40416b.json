@@ -1,0 +1,10 @@
+{
+  "name": "StevesCarts-1.12-2.4.6.36.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "stevescarts",
+      "version": "${version}"
+    }
+  ]
+}

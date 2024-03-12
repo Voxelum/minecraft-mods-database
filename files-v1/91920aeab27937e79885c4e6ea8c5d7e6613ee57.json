@@ -1,6 +1,18 @@
 {
   "name": "xp_storage-1.5.3+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4RdRpt7i",
+      "versionId": "W1oKvY0T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403434,
+      "fileId": 4704165
+    }
+  ],
   "fabric": [
     {
       "modId": "xp_storage",

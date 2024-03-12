@@ -1,0 +1,32 @@
+{
+  "name": "theoneprobe-fabric-1.18-5.0.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "theoneprobe",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "theoneprobe",
+      "version": "1.18-5.0.6"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

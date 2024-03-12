@@ -1,0 +1,24 @@
+{
+  "name": "HUDTweaks-1.1.1-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ks4IAiYz",
+      "versionId": "pdblA1PC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hudtweaks",
+      "version": "1.1.1-beta"
+    },
+    {
+      "modId": "hudtweaks-apihelper",
+      "version": "1.1.1-beta"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.6+12865e780e"
+    }
+  ]
+}

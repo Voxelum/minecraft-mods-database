@@ -1,6 +1,18 @@
 {
   "name": "jumpoverfences-fabric-1.19.2-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4HeIHvIP",
+      "versionId": "5dRaDFbs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423421,
+      "fileId": 3974481
+    }
+  ],
   "fabric": [
     {
       "modId": "jumpoverfences",

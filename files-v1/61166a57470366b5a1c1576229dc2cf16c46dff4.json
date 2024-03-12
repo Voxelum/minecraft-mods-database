@@ -1,0 +1,16 @@
+{
+  "name": "themissingvillages-2.0.0-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "themissingvillages",
+      "version": "2.0.0-1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "themissingvillages",
+      "version": "2.0.0"
+    }
+  ]
+}

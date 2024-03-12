@@ -1,6 +1,12 @@
 {
   "name": "Kiwi-1.19.1-fabric-8.3.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549404,
+      "fileId": 4652563
+    }
+  ],
   "fabric": [
     {
       "modId": "kiwi",

@@ -1,6 +1,12 @@
 {
   "name": "badpackets-fabric-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ftdbN0KK",
+      "versionId": "R4VZLscL"
+    }
+  ],
   "fabric": [
     {
       "modId": "badpackets",

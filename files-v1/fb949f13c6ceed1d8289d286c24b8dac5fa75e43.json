@@ -1,0 +1,58 @@
+{
+  "name": "[only for infinity-reborn]spectrum-1.6.4-1.18.2-infinity-reborn.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spectrum",
+      "version": "1.6.4-1.18.2-leisure_time"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.0.0+1.18.2"
+    },
+    {
+      "modId": "arrowhead",
+      "version": "1.0-SNAPSHOT"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "bannerpp",
+      "version": "2.0.6-teb.1+mc.1.18.2"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.8.1+1.18.2"
+    },
+    {
+      "modId": "programmerartinjector",
+      "version": "1.2.1"
+    }
+  ]
+}

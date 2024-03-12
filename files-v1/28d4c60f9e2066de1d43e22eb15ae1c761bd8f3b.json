@@ -1,6 +1,12 @@
 {
   "name": "ctov-3.3.5b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "7LYJgioY"
+    }
+  ],
   "forge": [
     {
       "modId": "ctov",

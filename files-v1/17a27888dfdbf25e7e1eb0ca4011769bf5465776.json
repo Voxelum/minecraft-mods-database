@@ -1,0 +1,28 @@
+{
+  "name": "bobby-2.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 409301,
+      "fileId": 3590923
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bobby",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.0+cf39a74318"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.4+cf39a74318"
+    },
+    {
+      "modId": "confabricate",
+      "version": "2.1.0-SNAPSHOT+4.1.1"
+    }
+  ]
+}

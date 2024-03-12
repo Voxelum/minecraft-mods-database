@@ -1,0 +1,22 @@
+{
+  "name": "archon-0.3.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "archon",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

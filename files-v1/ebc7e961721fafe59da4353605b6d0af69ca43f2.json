@@ -1,0 +1,14 @@
+{
+  "name": "grounded_origins-fabric-1.19.2-1.2.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "grounded_origins",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "apugli",
+      "version": "1.9.3+1.19-fabric"
+    }
+  ]
+}

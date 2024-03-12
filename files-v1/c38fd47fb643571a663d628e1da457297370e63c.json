@@ -1,0 +1,26 @@
+{
+  "name": "fsit-v1.5.1-1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fsit",
+      "version": "v1.5.1-1.20.2"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.6.10+b1792f7da0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.0.11+bff13c85a0"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.16+b1792f7da0"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "4.0.6+b1792f7da0"
+    }
+  ]
+}

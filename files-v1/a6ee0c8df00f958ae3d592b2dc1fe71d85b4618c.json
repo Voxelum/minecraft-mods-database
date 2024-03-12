@@ -1,0 +1,14 @@
+{
+  "name": "spell_engine-fabric-0.9.16+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spell_engine",
+      "version": "0.9.16+1.19"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

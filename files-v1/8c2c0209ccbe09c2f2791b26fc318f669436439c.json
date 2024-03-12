@@ -1,6 +1,12 @@
 {
   "name": "ColdSweat-2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uXhSmPjd",
+      "versionId": "fkRKOzcn"
+    }
+  ],
   "forge": [
     {
       "modId": "cold_sweat",

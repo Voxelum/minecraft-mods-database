@@ -1,0 +1,26 @@
+{
+  "name": "batsgalore-fabric-1.20.1-1.1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 915336,
+      "fileId": 4982486
+    }
+  ],
+  "forge": [
+    {
+      "modId": "batsgalore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "batsgalore",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

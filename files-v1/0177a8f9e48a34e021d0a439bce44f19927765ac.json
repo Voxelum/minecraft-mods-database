@@ -1,0 +1,16 @@
+{
+  "name": "HitDelayFix.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 948121,
+      "fileId": 4941719
+    }
+  ],
+  "forge": [
+    {
+      "modId": "MixinLoader",
+      "version": ""
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "oeintegration-2.3.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 270305,
+      "fileId": 2617198
+    }
+  ],
   "forge": [
     {
       "modId": "oeintegration",

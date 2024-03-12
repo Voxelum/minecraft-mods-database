@@ -1,0 +1,10 @@
+{
+  "name": "sodium-fabric-mc1.20-0.4.10+build.27-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "${version}"
+    }
+  ]
+}

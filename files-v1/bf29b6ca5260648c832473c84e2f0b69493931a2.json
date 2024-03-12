@@ -1,0 +1,16 @@
+{
+  "name": "Emojicord-1.12.2-1.1.1.39-universal.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 349107,
+      "fileId": 2972941
+    }
+  ],
+  "forge": [
+    {
+      "modId": "emojicord",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "enchantments-plus-fabric-1.2.1+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kfr0BQO9",
+      "versionId": "RWP9FYbs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantmentsplus",
+      "version": "1.2.1+1.19.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

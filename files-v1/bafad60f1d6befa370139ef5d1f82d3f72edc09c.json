@@ -1,6 +1,12 @@
 {
   "name": "darkspawn-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 825607,
+      "fileId": 4391948
+    }
+  ],
   "fabric": [
     {
       "modId": "darkspawn",

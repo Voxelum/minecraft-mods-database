@@ -1,6 +1,12 @@
 {
   "name": "ctov-villagers-plus-compat-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UiaFErsS",
+      "versionId": "JsH6Gt4b"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_ctov_villagerspluscompat",

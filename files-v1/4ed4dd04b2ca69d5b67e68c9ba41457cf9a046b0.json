@@ -1,0 +1,24 @@
+{
+  "name": "mcdw-3.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 407311,
+      "fileId": 3336866
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcdw",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "enchant_giver",
+      "version": "1.0.3"
+    }
+  ]
+}

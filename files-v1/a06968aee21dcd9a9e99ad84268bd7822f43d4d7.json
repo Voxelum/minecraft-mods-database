@@ -1,0 +1,14 @@
+{
+  "name": "[辅助-Carpet-plusls]plusls-carpet-addition-1.18.2-0.2.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pca",
+      "version": "0.2.5"
+    },
+    {
+      "modId": "multiconnect-api",
+      "version": "1.5.10"
+    }
+  ]
+}

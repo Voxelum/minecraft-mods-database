@@ -1,0 +1,20 @@
+{
+  "name": "variantlecterns-1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 959319,
+      "fileId": 5023619
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantlecterns",
+      "version": "1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

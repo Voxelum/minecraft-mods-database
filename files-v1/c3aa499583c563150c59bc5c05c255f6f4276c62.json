@@ -1,0 +1,10 @@
+{
+  "name": "muchmoremodcompat-na.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "muchmoremodcompat",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "betterfpsdist-fabric-1.19.2-3.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 582640,
+      "fileId": 4878313
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterfpsdist",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterfpsdist",
+      "version": "1.19.2-3.7"
+    }
+  ]
+}

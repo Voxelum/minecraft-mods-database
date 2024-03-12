@@ -1,0 +1,10 @@
+{
+  "name": "WithoutAWallpaper-1.16.5-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "withoutawallpaper",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

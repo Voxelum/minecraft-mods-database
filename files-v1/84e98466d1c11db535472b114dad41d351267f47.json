@@ -1,0 +1,16 @@
+{
+  "name": "OfflineMultiplayer-forge+fabric-1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "offline_multiplayer",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "offline_multiplayer",
+      "version": "1.2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "charms-mod-1.12.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ch",
+      "version": "0.9"
+    }
+  ]
+}

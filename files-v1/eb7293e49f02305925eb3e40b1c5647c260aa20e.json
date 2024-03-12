@@ -1,0 +1,14 @@
+{
+  "name": "smallstairs-fabric-1.1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "smallstairs",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.3"
+    }
+  ]
+}

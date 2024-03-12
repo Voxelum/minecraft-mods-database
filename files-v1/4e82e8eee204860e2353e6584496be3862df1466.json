@@ -1,0 +1,22 @@
+{
+  "name": "htm-1.1.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "htm",
+      "version": "1.1.9"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0-beta.2+1.19.4-pre2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

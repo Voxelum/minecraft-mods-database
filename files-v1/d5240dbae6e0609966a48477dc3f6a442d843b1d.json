@@ -1,0 +1,14 @@
+{
+  "name": "lemclienthelper-0.0.13-1.19 (1).jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lemclienthelper",
+      "version": "0.0.13-1.19"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.0-1.19"
+    }
+  ]
+}

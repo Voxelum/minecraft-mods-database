@@ -1,6 +1,18 @@
 {
   "name": "Incendium_1.18.2_v5.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZVzW5oNS",
+      "versionId": "QzTAZ3vy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 591388,
+      "fileId": 4559075
+    }
+  ],
   "forge": [
     {
       "modId": "incendium",

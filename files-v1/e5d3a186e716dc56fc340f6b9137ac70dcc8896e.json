@@ -1,0 +1,10 @@
+{
+  "name": "promo.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "storymod",
+      "version": "1.0"
+    }
+  ]
+}

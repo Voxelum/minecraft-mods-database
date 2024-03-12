@@ -1,0 +1,10 @@
+{
+  "name": "ElectricalAge-1.14.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "Eln",
+      "version": "@VERSION@"
+    }
+  ]
+}

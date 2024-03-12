@@ -1,0 +1,10 @@
+{
+  "name": "SimpleGrinder-1.150.R1122.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "simplegrinder",
+      "version": "@VERSION@"
+    }
+  ]
+}

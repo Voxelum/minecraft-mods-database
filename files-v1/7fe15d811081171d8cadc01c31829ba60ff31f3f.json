@@ -1,0 +1,16 @@
+{
+  "name": "better_resource_pack_sorting-mc1.20-1.0.0-build.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "better_resource_pack_sorting",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better_resource_pack_sorting",
+      "version": "1.0.0"
+    }
+  ]
+}

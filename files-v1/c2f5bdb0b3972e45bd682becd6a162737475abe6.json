@@ -1,6 +1,18 @@
 {
   "name": "dragonloot-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EldwHO4Z",
+      "versionId": "u2AwD5fw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 424480,
+      "fileId": 3951137
+    }
+  ],
   "fabric": [
     {
       "modId": "dragonloot",

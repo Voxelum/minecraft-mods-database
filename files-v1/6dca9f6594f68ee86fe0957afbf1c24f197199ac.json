@@ -1,0 +1,20 @@
+{
+  "name": "create_jetpack-fabric-3.2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_jetpack",
+      "version": "3.2.3"
+    },
+    {
+      "modId": "flightlib",
+      "version": "1.1.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "spoornweaponattributes-5.0-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9P0keNSa",
+      "versionId": "JzKnDTG7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spoornweaponattributes",
+      "version": "5.0-1.20.1"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

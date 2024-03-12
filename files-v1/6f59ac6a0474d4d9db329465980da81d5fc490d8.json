@@ -1,0 +1,16 @@
+{
+  "name": "logical-dye-mixing-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_logical_dyemixing",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_logical_dyemixing",
+      "version": "1.0.0"
+    }
+  ]
+}

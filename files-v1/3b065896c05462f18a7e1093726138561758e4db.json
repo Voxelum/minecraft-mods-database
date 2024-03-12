@@ -1,0 +1,14 @@
+{
+  "name": "lambdynamiclights-fabric-1.2.2+1.15.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "1.2.2+1.15.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "1.4.1"
+    }
+  ]
+}

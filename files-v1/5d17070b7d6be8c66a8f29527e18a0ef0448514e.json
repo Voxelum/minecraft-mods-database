@@ -1,6 +1,12 @@
 {
   "name": "cleancut-1.18-4.0-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 392805,
+      "fileId": 3549604
+    }
+  ],
   "fabric": [
     {
       "modId": "cleancut",

@@ -1,6 +1,12 @@
 {
   "name": "Cucumber-1.20.1-7.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rw1NrDzF",
+      "versionId": "FmDdsCOS"
+    }
+  ],
   "forge": [
     {
       "modId": "cucumber",

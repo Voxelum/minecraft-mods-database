@@ -1,6 +1,12 @@
 {
   "name": "nbttooltip-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G0GDoyVf",
+      "versionId": "JUXXOa5B"
+    }
+  ],
   "fabric": [
     {
       "modId": "nbttooltip",

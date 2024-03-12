@@ -1,0 +1,28 @@
+{
+  "name": "SimpleRPC-fabric-1.16.5-3.2.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "CVFe8y8d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple-rpc",
+      "version": "3.2.3"
+    },
+    {
+      "modId": "com_hypherionmc_rpcsdk",
+      "version": "1.0"
+    },
+    {
+      "modId": "net_java_dev_jna_jna",
+      "version": "5.11.0"
+    },
+    {
+      "modId": "me_hypherionmc_simplerpc_simple-rpc-common",
+      "version": "4.2.20"
+    }
+  ]
+}

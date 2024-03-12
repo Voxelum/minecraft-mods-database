@@ -1,0 +1,14 @@
+{
+  "name": "BetterAnvil-1.2.1+1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betteranvil",
+      "version": "1.2.1+1.19.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "7.0.0-rc.1+1.19.4"
+    }
+  ]
+}

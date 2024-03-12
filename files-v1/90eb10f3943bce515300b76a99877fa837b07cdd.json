@@ -1,0 +1,16 @@
+{
+  "name": "Elemental-Alignment-1.1.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ea",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ea",
+      "version": "1.0.0"
+    }
+  ]
+}

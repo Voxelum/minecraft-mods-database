@@ -1,0 +1,28 @@
+{
+  "name": "Adorn-1.14.1+1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 320215,
+      "fileId": 3332780
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adorn",
+      "version": "1.14.1+1.16.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.3+1.16.5"
+    },
+    {
+      "modId": "jankson",
+      "version": "3.0.1+j1.2.0"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

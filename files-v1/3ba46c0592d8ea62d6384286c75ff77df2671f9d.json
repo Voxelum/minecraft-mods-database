@@ -1,0 +1,14 @@
+{
+  "name": "fallingtrees-0.10-fabric-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fallingtrees",
+      "version": "0.10"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    }
+  ]
+}

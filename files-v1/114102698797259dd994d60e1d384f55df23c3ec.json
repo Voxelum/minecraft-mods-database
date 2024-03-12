@@ -1,6 +1,12 @@
 {
   "name": "mc1.19-enchanted-vertical-slabs-1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TG1cHkRf",
+      "versionId": "PUgytpqh"
+    }
+  ],
   "fabric": [
     {
       "modId": "enchanted-vertical-slabs",

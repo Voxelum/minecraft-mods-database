@@ -1,0 +1,20 @@
+{
+  "name": "AdditionalAdditions-6.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R4TvILfj",
+      "versionId": "wtzsqCUk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "additionaladditions",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.2+1.20.2"
+    }
+  ]
+}

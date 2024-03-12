@@ -1,0 +1,16 @@
+{
+  "name": "feather-fabric-1.18.2-1.0.0-SNAPSHOT.temp.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "feather",
+      "version": "${channel}/${githash}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feather",
+      "version": "release/8caff7d2"
+    }
+  ]
+}

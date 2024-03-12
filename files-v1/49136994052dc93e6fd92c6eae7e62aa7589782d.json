@@ -1,0 +1,14 @@
+{
+  "name": "turtlechargingstation-1.4.0-1.20-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "turtlechargingstation",
+      "version": "1.4.0-1.20"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

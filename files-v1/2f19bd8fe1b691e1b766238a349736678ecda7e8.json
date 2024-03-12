@@ -1,0 +1,20 @@
+{
+  "name": "variantcomposters-2.3.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 661180,
+      "fileId": 4912594
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantcomposters",
+      "version": "2.3.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

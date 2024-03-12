@@ -1,0 +1,10 @@
+{
+  "name": "lowkey.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "TcpNoDelayMod",
+      "version": "1.0"
+    }
+  ]
+}

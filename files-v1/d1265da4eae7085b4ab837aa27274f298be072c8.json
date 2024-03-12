@@ -1,6 +1,12 @@
 {
   "name": "fabric-seasons-2.2.1+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KJe6y9Eu",
+      "versionId": "QlPte8FN"
+    }
+  ],
   "fabric": [
     {
       "modId": "seasons",

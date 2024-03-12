@@ -1,6 +1,12 @@
 {
   "name": "skybox-loader-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 830322,
+      "fileId": 4553196
+    }
+  ],
   "forge": [
     {
       "modId": "skybox",

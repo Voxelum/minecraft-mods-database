@@ -1,0 +1,16 @@
+{
+  "name": "wi-zoom-v1.0-MC1.12.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wi-zoom",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wi-zoom",
+      "version": "v1.0-MC1.14.4"
+    }
+  ]
+}

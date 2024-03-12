@@ -1,0 +1,10 @@
+{
+  "name": "nohurtcam.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hurtanimationremover-port",
+      "version": "1.0"
+    }
+  ]
+}

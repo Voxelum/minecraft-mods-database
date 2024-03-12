@@ -1,6 +1,18 @@
 {
   "name": "BetterF3-1.2.5-Fabric-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8shC1gFX",
+      "versionId": "EWqUNavR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401648,
+      "fileId": 3798366
+    }
+  ],
   "fabric": [
     {
       "modId": "betterf3",

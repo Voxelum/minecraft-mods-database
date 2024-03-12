@@ -1,6 +1,18 @@
 {
   "name": "fabric-end-remastered-5.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZJTGwAND",
+      "versionId": "CYis3W3g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 515523,
+      "fileId": 4614813
+    }
+  ],
   "fabric": [
     {
       "modId": "endrem",

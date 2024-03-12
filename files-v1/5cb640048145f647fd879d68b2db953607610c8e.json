@@ -1,6 +1,18 @@
 {
   "name": "better-trim-tooltips-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WMoUFmXc",
+      "versionId": "azD5oArr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868132,
+      "fileId": 4579455
+    }
+  ],
   "fabric": [
     {
       "modId": "better-trim-tooltips",

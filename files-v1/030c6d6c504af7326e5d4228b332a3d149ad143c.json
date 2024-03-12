@@ -1,6 +1,12 @@
 {
   "name": "sleepwarp-2.0.0+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OPvzuqtZ",
+      "versionId": "qQz3TTeH"
+    }
+  ],
   "fabric": [
     {
       "modId": "sleepwarp",

@@ -1,0 +1,16 @@
+{
+  "name": "CBandB-1.6v1.18.2FORGE.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createbufferandbeams",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createbufferandbeams",
+      "version": "1.0"
+    }
+  ]
+}

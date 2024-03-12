@@ -1,6 +1,18 @@
 {
   "name": "friendsandfoes-beekeeperhut-fabric-mc1.20-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kt4RVKEd",
+      "versionId": "aPlZhLQ1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711899,
+      "fileId": 4579686
+    }
+  ],
   "fabric": [
     {
       "modId": "beekeeperhut",

@@ -1,0 +1,22 @@
+{
+  "name": "nether-3.0-3.51.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NN2zkde6",
+      "versionId": "UH6Y80SO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_nether_30",
+      "version": "3.51"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_nether_30",
+      "version": "3.51"
+    }
+  ]
+}

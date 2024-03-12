@@ -1,6 +1,12 @@
 {
   "name": "cm-seed-finder-mod-0.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RXf06G9Z",
+      "versionId": "PClNbp7k"
+    }
+  ],
   "fabric": [
     {
       "modId": "cm-seed-finder-mod",

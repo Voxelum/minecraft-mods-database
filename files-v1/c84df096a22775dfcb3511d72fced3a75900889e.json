@@ -1,0 +1,16 @@
+{
+  "name": "Melon's Dungeons [1.6.3].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "melons_dungeons_blocks",
+      "version": "1.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "melons_dungeons_blocks",
+      "version": "1.0.0"
+    }
+  ]
+}

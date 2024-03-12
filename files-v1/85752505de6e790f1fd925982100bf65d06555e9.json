@@ -1,0 +1,10 @@
+{
+  "name": "Liroth_R_1.3.5.8_1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "liroth",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

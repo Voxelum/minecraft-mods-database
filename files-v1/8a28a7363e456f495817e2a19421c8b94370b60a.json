@@ -1,0 +1,18 @@
+{
+  "name": "[显示][潜影盒工具提示]shulkerboxtooltip-3.0.5+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shulkerboxtooltip",
+      "version": "3.0.5+1.18"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.45"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

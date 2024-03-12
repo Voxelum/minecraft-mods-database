@@ -1,6 +1,18 @@
 {
   "name": "custom-fog-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2JyZgJxC",
+      "versionId": "5d9uLeRx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398774,
+      "fileId": 3298609
+    }
+  ],
   "fabric": [
     {
       "modId": "custom-fog",

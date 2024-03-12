@@ -1,6 +1,18 @@
 {
   "name": "rottencreatures-fabric-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Zusp48B",
+      "versionId": "VKRq0OQo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 371033,
+      "fileId": 4063269
+    }
+  ],
   "fabric": [
     {
       "modId": "rottencreatures",

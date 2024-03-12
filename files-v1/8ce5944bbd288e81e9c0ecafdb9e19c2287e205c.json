@@ -1,6 +1,12 @@
 {
   "name": "mcw-bridges-1.0.6-mc1.15.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 351725,
+      "fileId": 3378575
+    }
+  ],
   "forge": [
     {
       "modId": "mcwbridges",

@@ -1,6 +1,18 @@
 {
   "name": "boosted-brightness-2.1.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Abyk2Hrg",
+      "versionId": "tEL5CmDz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 386460,
+      "fileId": 3831519
+    }
+  ],
   "fabric": [
     {
       "modId": "boostedbrightness",

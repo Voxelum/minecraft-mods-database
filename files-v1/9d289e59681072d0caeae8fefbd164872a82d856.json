@@ -1,6 +1,12 @@
 {
   "name": "entityculling-fabric-1.6.1-mc1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "AdkBUIRs"
+    }
+  ],
   "fabric": [
     {
       "modId": "entityculling",

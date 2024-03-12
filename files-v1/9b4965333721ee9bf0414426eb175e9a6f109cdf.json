@@ -1,0 +1,10 @@
+{
+  "name": "Pam's BoneCraft 1.14.4-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bonecraft",
+      "version": "${version}"
+    }
+  ]
+}

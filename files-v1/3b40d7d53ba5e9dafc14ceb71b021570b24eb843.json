@@ -1,6 +1,12 @@
 {
   "name": "WorldBook-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 310710,
+      "fileId": 2656879
+    }
+  ],
   "forge": [
     {
       "modId": "worldbook",

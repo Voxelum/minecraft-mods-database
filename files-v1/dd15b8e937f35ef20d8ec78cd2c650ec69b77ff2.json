@@ -1,0 +1,20 @@
+{
+  "name": "bedrockwaters-1.8.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3WAUHe3k",
+      "versionId": "7dSRspYR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockwaters",
+      "version": "1.8.0+1.20.1"
+    },
+    {
+      "modId": "carrotconfig",
+      "version": "1.1.2+1.20.1"
+    }
+  ]
+}

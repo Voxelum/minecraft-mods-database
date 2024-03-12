@@ -1,0 +1,20 @@
+{
+  "name": "authme-mc1.19-4.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yjgIrBjZ",
+      "versionId": "7elC7cMX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.65"
+    }
+  ]
+}

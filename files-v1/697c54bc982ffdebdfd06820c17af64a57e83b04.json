@@ -1,0 +1,24 @@
+{
+  "name": "vitalize-fabric-1.19.2-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JOlyQnh1",
+      "versionId": "RyYGFvjm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vitalize",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "botarium",
+      "version": "1.7.6"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "1.1.14"
+    }
+  ]
+}

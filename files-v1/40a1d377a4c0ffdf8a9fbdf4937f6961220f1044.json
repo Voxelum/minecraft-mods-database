@@ -1,0 +1,22 @@
+{
+  "name": "fairy-origin-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "itPC3Rsw",
+      "versionId": "7EEEMMFp"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_fairy_origin",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_fairy_origin",
+      "version": "2.0.0"
+    }
+  ]
+}

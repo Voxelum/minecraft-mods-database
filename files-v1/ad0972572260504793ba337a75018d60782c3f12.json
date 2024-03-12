@@ -1,0 +1,16 @@
+{
+  "name": "manic-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "manic_mr",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "manic_mr",
+      "version": "1.0.3"
+    }
+  ]
+}

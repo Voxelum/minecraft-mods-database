@@ -1,0 +1,14 @@
+{
+  "name": "blockus-2.7.12+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blockus",
+      "version": "2.7.12+1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.2"
+    }
+  ]
+}

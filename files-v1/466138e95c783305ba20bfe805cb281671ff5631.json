@@ -1,0 +1,10 @@
+{
+  "name": "FeederHelmet-14.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "feederhelmet",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Mute-2.0.1-build.11+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DqmgBVPB",
+      "versionId": "9o23W6p6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 625183,
+      "fileId": 4680870
+    }
+  ],
   "forge": [
     {
       "modId": "mute",

@@ -1,0 +1,20 @@
+{
+  "name": "easiervillagertrading-1.20.4-fabric0.91.2-1.5.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 261605,
+      "fileId": 4963302
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easiervillagertrading",
+      "version": "1.20.4-fabric0.91.2-1.5.4"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.4+1.20"
+    }
+  ]
+}

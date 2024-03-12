@@ -1,0 +1,38 @@
+{
+  "name": "taterzens-1.11.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE972Kux",
+      "versionId": "Zm1WFvdX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446499,
+      "fileId": 4166436
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "taterzens",
+      "version": "1.11.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.16+1.19"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.0+1.19.3"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

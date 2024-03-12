@@ -1,0 +1,24 @@
+{
+  "name": "chunksfadein-v1.0.4-1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaNmzvA8",
+      "versionId": "93ILsQAj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunksfadein",
+      "version": "1.0.4-1.19.4"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

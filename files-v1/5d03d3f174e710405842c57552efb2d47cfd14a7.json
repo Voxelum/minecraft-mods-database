@@ -1,0 +1,10 @@
+{
+  "name": "questionablyimmersive-1.12.2-0.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "questionablyimmersive",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ClimateControl-0.8.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "climatecontrol",
+      "version": "0.6.beta60"
+    },
+    {
+      "modId": "climatecontrol",
+      "version": "0.8.1"
+    }
+  ]
+}

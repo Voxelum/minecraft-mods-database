@@ -1,0 +1,94 @@
+{
+  "name": "zenith_attributes-0.0.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zenith_attributes",
+      "version": "0.0.6"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_client_events",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.1.1102+1.20-entity-refactor"
+    },
+    {
+      "modId": "porting_lib_mixin_extensions",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_registries",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.1.1127+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "projectile_damage",
+      "version": "3.2.2+1.20.1"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.4.0+1.20.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.10"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.0.2"
+    }
+  ]
+}

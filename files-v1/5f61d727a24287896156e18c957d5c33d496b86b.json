@@ -1,0 +1,16 @@
+{
+  "name": "MoreCommands-4.0_1.17.1-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "morecommands",
+      "version": "4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morecommands",
+      "version": "4.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TriggerHappy-v1.0.4-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XKZVYHER",
+      "versionId": "4W0etJbO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "triggerhappy",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

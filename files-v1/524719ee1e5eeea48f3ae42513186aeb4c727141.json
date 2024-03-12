@@ -1,0 +1,10 @@
+{
+  "name": "modpack-update-checker-1.19.2-fabric-0.7.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modpack-update-checker",
+      "version": "0.7.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TinkersComplement-1.12.2-0.2.3b.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 272671,
+      "fileId": 2546782
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tcomplement",
+      "version": "${version}"
+    }
+  ]
+}

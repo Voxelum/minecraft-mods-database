@@ -1,0 +1,10 @@
+{
+  "name": "fermiumasm-5.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "normalasm",
+      "version": "5.20"
+    }
+  ]
+}

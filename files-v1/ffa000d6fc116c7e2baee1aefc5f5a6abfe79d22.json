@@ -1,6 +1,18 @@
 {
   "name": "SimpleDiscordRichPresence-forge-3.0.4-build.28+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SCAopByd",
+      "versionId": "HDcnY4gh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334853,
+      "fileId": 4377079
+    }
+  ],
   "forge": [
     {
       "modId": "sdrp",

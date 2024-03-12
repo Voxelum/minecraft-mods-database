@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-comes-alive-7.4.5+1.18.2-universal.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mca",
+      "version": "7.4.5+1.18.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mca",
+      "version": "7.4.5+1.18.2"
+    }
+  ]
+}

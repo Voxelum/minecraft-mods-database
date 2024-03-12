@@ -1,6 +1,18 @@
 {
   "name": "mcwfencesbop-1.19.2-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tanquv9C",
+      "versionId": "mkZ9aMqU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 605641,
+      "fileId": 3926879
+    }
+  ],
   "forge": [
     {
       "modId": "mcwfencesbop",

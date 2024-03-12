@@ -1,0 +1,14 @@
+{
+  "name": "[1.18.2-fabric]-Epic-Knights-7.11.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "magistuarmory",
+      "version": "7.11"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "debugify-2.1.0-fabric-1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "debugify",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.10"
+    }
+  ]
+}

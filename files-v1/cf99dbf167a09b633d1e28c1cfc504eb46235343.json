@@ -1,6 +1,18 @@
 {
   "name": "winterly-0.8.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CEvDfomf",
+      "versionId": "IypDP2YU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552628,
+      "fileId": 4391025
+    }
+  ],
   "fabric": [
     {
       "modId": "winterly",

@@ -1,0 +1,24 @@
+{
+  "name": "Cucumber-Refabricated-1.19.2-1.0.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cucumber",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cucumber",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.1027+1.19.2"
+    }
+  ]
+}

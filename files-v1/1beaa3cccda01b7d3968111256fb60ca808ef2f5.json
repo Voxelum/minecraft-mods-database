@@ -1,6 +1,18 @@
 {
   "name": "playerplates-forge-3.0.4+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ADYYN3JG",
+      "versionId": "cmduNnRh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 311645,
+      "fileId": 4710720
+    }
+  ],
   "forge": [
     {
       "modId": "playerplates",

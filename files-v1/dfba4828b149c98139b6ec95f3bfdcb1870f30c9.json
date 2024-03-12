@@ -1,6 +1,12 @@
 {
   "name": "angling-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yxfPh2QX",
+      "versionId": "TB30h6E2"
+    }
+  ],
   "fabric": [
     {
       "modId": "angling",

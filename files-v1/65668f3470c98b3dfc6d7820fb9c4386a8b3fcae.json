@@ -1,0 +1,14 @@
+{
+  "name": "denseores-1.2.3+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "denseores",
+      "version": "1.2.3+1.19"
+    },
+    {
+      "modId": "yet-another-config-lib",
+      "version": "1.6.0"
+    }
+  ]
+}

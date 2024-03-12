@@ -1,6 +1,18 @@
 {
   "name": "observable-4.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VYRu7qmG",
+      "versionId": "OEL5iDIN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 509575,
+      "fileId": 4736487
+    }
+  ],
   "fabric": [
     {
       "modId": "observable",

@@ -1,6 +1,12 @@
 {
   "name": "NetherUpdateBackport-1.12.2(1.0.1).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 384529,
+      "fileId": 3140835
+    }
+  ],
   "forge": [
     {
       "modId": "netherbackport",

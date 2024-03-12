@@ -1,0 +1,20 @@
+{
+  "name": "autoattack-mc1_19_4-v1_3_3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AUfWGrm6",
+      "versionId": "gkXpzL8c"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoattack",
+      "version": "1.3.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.2.1"
+    }
+  ]
+}

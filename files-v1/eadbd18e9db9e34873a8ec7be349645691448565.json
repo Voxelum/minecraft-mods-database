@@ -1,0 +1,20 @@
+{
+  "name": "cristellib-1.1.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 856996,
+      "fileId": 4645735
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cristellib",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "scarpet-graphics-0.1.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "scarpet-graphics",
+      "version": "0.1.5"
+    },
+    {
+      "modId": "org_processing_core",
+      "version": "3.3.7"
+    }
+  ]
+}

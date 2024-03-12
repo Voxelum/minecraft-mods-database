@@ -1,0 +1,22 @@
+{
+  "name": "ProgressiveBossesFabric-1.19.2-U2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "progressivebosses",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.0.1"
+    }
+  ]
+}

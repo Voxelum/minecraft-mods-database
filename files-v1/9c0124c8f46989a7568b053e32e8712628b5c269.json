@@ -1,0 +1,24 @@
+{
+  "name": "walljump-1.20.4-1.1.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oUoetxfR",
+      "versionId": "GxxgO1ZT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "walljump",
+      "version": "1.20.4-1.1.4-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "5.2.0-fabric"
+    },
+    {
+      "modId": "keybindfixtxf",
+      "version": "1.0.0"
+    }
+  ]
+}

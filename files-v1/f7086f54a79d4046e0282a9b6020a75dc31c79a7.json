@@ -1,0 +1,24 @@
+{
+  "name": "RemoveHud 1.3b4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MiPOIx6b",
+      "versionId": "P35KKPgA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "removehud",
+      "version": "1.3b4"
+    },
+    {
+      "modId": "modmenu",
+      "version": "9.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.114"
+    }
+  ]
+}

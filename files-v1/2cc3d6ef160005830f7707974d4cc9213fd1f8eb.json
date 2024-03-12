@@ -1,6 +1,12 @@
 {
   "name": "capabilityadapter-1.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 281657,
+      "fileId": 3196507
+    }
+  ],
   "forge": [
     {
       "modId": "rf-capability-adapter",

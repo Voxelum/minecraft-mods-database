@@ -1,0 +1,26 @@
+{
+  "name": "create_jetpack-fabric-4.1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 655608,
+      "fileId": 5140822
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_jetpack",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "flightlib",
+      "version": "2.1.0"
+    }
+  ]
+}

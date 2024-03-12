@@ -1,6 +1,18 @@
 {
   "name": "foodeffecttooltips-1.0.1+forge-1.20.jar.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aetFpEaA",
+      "versionId": "TsYbvAMF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 776426,
+      "fileId": 4602215
+    }
+  ],
   "forge": [
     {
       "modId": "foodeffecttooltips",

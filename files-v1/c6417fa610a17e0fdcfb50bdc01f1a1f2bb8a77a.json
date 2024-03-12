@@ -1,0 +1,20 @@
+{
+  "name": "IronChest-1.0+fabric-1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DWmWnJgJ",
+      "versionId": "ojn4JDqq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironchest",
+      "version": "1.0.0+fabric-1.16.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.4.0+1.16.5"
+    }
+  ]
+}

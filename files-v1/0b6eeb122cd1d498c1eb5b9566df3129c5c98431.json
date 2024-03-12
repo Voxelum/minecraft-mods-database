@@ -1,0 +1,16 @@
+{
+  "name": "SereneSeasons-1.19-8.0.0.19.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 291874,
+      "fileId": 3871432
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sereneseasons",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

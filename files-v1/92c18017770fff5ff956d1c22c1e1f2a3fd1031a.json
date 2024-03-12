@@ -1,6 +1,18 @@
 {
   "name": "MouseTweaks-fabric-mc1.19.4-2.24.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aC3cM3Vq",
+      "versionId": "sjDYaHEo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 60089,
+      "fileId": 4440210
+    }
+  ],
   "fabric": [
     {
       "modId": "mousetweaks",

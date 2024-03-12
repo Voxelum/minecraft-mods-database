@@ -1,6 +1,18 @@
 {
   "name": "snowyspirit-1.19.2-2.1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UiFDlI7w",
+      "versionId": "BBVMNOdb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566142,
+      "fileId": 4734122
+    }
+  ],
   "forge": [
     {
       "modId": "snowyspirit",

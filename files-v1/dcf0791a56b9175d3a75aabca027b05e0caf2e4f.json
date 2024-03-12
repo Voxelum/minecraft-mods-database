@@ -1,0 +1,26 @@
+{
+  "name": "MapFrontiers-1.20.4-2.6.0beta1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hWlsli6y",
+      "versionId": "DwWOOpmC"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.5-1.20.4"
+    }
+  ]
+}

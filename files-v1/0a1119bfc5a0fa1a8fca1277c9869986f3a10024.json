@@ -1,6 +1,12 @@
 {
   "name": "Jade-1.19.3-fabric-9.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nvQzSEkH",
+      "versionId": "HIL9jJQF"
+    }
+  ],
   "fabric": [
     {
       "modId": "jade",

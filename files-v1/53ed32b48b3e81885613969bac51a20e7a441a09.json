@@ -1,0 +1,14 @@
+{
+  "name": "shallowswimming-1.20.1-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shallowswimming",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "fastcraft-1.25.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242677,
+      "fileId": 2522249
+    }
+  ],
   "forge": [
     {
       "modId": "fc-dummy",

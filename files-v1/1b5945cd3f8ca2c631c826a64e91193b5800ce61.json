@@ -1,0 +1,32 @@
+{
+  "name": "FPS-fabric-1.0+1.17.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 515238,
+      "fileId": 3424884
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fpsdisplay",
+      "version": "1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b44633d"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.4+a02b44633d"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.4.4+a02b44633d"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

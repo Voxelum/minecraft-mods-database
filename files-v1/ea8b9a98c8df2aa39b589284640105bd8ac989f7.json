@@ -1,6 +1,12 @@
 {
   "name": "betterchat-1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 363860,
+      "fileId": 3249065
+    }
+  ],
   "forge": [
     {
       "modId": "betterchat",

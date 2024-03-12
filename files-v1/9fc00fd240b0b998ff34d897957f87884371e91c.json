@@ -1,0 +1,14 @@
+{
+  "name": "[NPC变体] npc-variety-1.19.2-2.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "npcvariety",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.1.77"
+    }
+  ]
+}

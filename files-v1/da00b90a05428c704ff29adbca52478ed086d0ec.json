@@ -1,0 +1,20 @@
+{
+  "name": "chatanimation-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DnNYdJsx",
+      "versionId": "hn2TlcOt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatanimation",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

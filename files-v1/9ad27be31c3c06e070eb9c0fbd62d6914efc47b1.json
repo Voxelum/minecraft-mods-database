@@ -1,6 +1,12 @@
 {
   "name": "Modpack Configuration Checker-1.12.2-v1.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 292992,
+      "fileId": 2675938
+    }
+  ],
   "forge": [
     {
       "modId": "concheckrmd",

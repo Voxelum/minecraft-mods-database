@@ -1,6 +1,18 @@
 {
   "name": "extendedgears-2.1.0-1.19.2-0.5.1.c-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qO4lsa4Y",
+      "versionId": "QU0bMLcY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 739973,
+      "fileId": 4751255
+    }
+  ],
   "forge": [
     {
       "modId": "extendedgears",

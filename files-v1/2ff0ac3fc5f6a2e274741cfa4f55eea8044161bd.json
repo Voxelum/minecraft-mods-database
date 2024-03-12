@@ -1,0 +1,14 @@
+{
+  "name": "[显示][进度信息]advancementinfo-1.18-fabric0.43.1-1.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "advancementinfo",
+      "version": "1.18-fabric0.43.1-1.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

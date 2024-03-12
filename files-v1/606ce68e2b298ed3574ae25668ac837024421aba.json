@@ -1,0 +1,14 @@
+{
+  "name": "aftershock-connector-1.20.1-0.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "aftershock",
+      "version": "0.0.5"
+    },
+    {
+      "modId": "azurelib",
+      "version": "1.0.25"
+    }
+  ]
+}

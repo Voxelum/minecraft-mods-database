@@ -1,0 +1,24 @@
+{
+  "name": "extrasounds-2.0.1+1.17.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uPWCQrVL",
+      "versionId": "2SYeeShj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extrasounds",
+      "version": "2.0.1+1.17"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "4.2.1+1.17.1"
+    }
+  ]
+}

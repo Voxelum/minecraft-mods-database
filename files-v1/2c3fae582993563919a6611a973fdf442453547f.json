@@ -1,6 +1,18 @@
 {
   "name": "gardenofglass-1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u9tsjkut",
+      "versionId": "JiMwkrSJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232502,
+      "fileId": 3936581
+    }
+  ],
   "forge": [
     {
       "modId": "gardenofglass",

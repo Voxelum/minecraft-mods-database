@@ -1,0 +1,20 @@
+{
+  "name": "c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VSNURh3q",
+      "versionId": "4FLwGDDE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "c2me",
+      "version": "0.2.0+alpha.5.0"
+    },
+    {
+      "modId": "hlandbukkit_c2me-fabric_ver_1_17_libs_",
+      "version": "0.2.0+alpha.5.0"
+    }
+  ]
+}

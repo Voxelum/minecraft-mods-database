@@ -1,0 +1,18 @@
+{
+  "name": "twitchchat-0.14.5b.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "twitchchat",
+      "version": "0.14.5b"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "com_github_pircbotx_pircbotx",
+      "version": "c47a15b"
+    }
+  ]
+}

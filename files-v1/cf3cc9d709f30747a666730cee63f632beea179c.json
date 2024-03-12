@@ -1,0 +1,16 @@
+{
+  "name": "lasermod-0.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ujdlssKG",
+      "versionId": "XjYc9gjv"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "examplemod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

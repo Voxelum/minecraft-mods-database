@@ -1,6 +1,18 @@
 {
   "name": "Just A Raft Mod-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AXNDNPpm",
+      "versionId": "Gw4ixFSM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 274350,
+      "fileId": 2550876
+    }
+  ],
   "forge": [
     {
       "modId": "jarm",

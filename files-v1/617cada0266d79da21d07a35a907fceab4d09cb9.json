@@ -1,6 +1,18 @@
 {
   "name": "MoGuns-1.9.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tFkFJ8qg",
+      "versionId": "GkoyGsI0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 530863,
+      "fileId": 4311734
+    }
+  ],
   "forge": [
     {
       "modId": "moguns",

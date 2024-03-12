@@ -1,0 +1,14 @@
+{
+  "name": "environmentz-1.3.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "environmentz",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.8.0"
+    }
+  ]
+}

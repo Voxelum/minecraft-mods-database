@@ -1,0 +1,30 @@
+{
+  "name": "vanity-fabric-2.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kEcg2xYc",
+      "versionId": "1ZjYPj7B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548155,
+      "fileId": 5144724
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanity",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.23"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

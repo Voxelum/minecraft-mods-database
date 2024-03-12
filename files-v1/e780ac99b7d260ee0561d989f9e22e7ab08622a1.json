@@ -1,6 +1,18 @@
 {
   "name": "fabric-seasons-terraformers-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x38mKXbF",
+      "versionId": "ygNAnYqt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860990,
+      "fileId": 4533733
+    }
+  ],
   "fabric": [
     {
       "modId": "seasonsterraformerscompat",

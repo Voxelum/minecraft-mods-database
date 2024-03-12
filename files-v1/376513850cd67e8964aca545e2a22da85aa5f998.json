@@ -1,0 +1,10 @@
+{
+  "name": "muffins-slimegolem-1.19.x-1.1.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "slimegolem",
+      "version": "1.1.1"
+    }
+  ]
+}

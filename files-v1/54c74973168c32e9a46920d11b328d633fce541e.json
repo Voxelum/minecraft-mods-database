@@ -1,6 +1,12 @@
 {
   "name": "headshot-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 538264,
+      "fileId": 3501178
+    }
+  ],
   "forge": [
     {
       "modId": "headshot",

@@ -1,6 +1,12 @@
 {
   "name": "default-server-properties-1.0.1-build.10+mc1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 676811,
+      "fileId": 4377553
+    }
+  ],
   "forge": [
     {
       "modId": "dsp",

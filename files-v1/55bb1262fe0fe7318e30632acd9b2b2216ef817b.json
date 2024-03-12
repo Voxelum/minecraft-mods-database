@@ -1,0 +1,26 @@
+{
+  "name": "modonomicon-1.20.1-fabric-1.39.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modonomicon",
+      "version": "1.39.0"
+    },
+    {
+      "modId": "org_commonmark_commonmark",
+      "version": "0.18.2"
+    },
+    {
+      "modId": "org_commonmark_commonmark-ext-gfm-strikethrough",
+      "version": "0.18.2"
+    },
+    {
+      "modId": "org_commonmark_commonmark-ext-ins",
+      "version": "0.18.2"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "extrakeybinds-0.4.0+1.17-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extrakeybinds",
+      "version": "0.4.0+1.17-1.19.2"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.6.0"
+    }
+  ]
+}

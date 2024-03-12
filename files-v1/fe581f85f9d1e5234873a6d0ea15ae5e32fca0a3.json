@@ -1,0 +1,28 @@
+{
+  "name": "superbsteeds-1.20-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UIZkbR3j",
+      "versionId": "jvLe6y4v"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "superbsteeds",
+      "version": "1.20-1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

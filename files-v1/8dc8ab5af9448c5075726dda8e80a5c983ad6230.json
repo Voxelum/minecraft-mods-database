@@ -1,0 +1,22 @@
+{
+  "name": "avm_fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kew4TBtI",
+      "versionId": "q6Bh3M0W"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "avm",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "avm",
+      "version": "1.0.0"
+    }
+  ]
+}

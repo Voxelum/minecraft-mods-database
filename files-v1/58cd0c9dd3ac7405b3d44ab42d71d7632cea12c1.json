@@ -1,0 +1,10 @@
+{
+  "name": "minecolonies-universal-1.10.2-0.9.7587.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "minecolonies",
+      "version": "@VERSION@"
+    }
+  ]
+}

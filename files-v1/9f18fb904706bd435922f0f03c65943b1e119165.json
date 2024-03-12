@@ -1,0 +1,16 @@
+{
+  "name": "bft-2.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_bft",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bft",
+      "version": "2.0.0"
+    }
+  ]
+}

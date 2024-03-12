@@ -1,0 +1,20 @@
+{
+  "name": "now-playing-fabric-1.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eNF4Bfla",
+      "versionId": "8kxnJ0In"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "now-playing",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.0.75"
+    }
+  ]
+}

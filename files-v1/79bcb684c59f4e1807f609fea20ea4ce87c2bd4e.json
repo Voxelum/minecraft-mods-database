@@ -1,0 +1,16 @@
+{
+  "name": "setworldspawnpoint-1.18.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.2"
+    }
+  ]
+}

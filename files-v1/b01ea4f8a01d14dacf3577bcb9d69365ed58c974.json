@@ -1,0 +1,20 @@
+{
+  "name": "DarkModeEverywhere-1.20.1-1.2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "darkmodeeverywhere",
+      "version": "1.20.1-1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkmodeeverywhere",
+      "version": "1.20.1-1.2.2"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.1.1108+1.20"
+    }
+  ]
+}

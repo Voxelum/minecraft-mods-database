@@ -1,0 +1,24 @@
+{
+  "name": "Earth2Java-1.7.1+1.16.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 398022,
+      "fileId": 3310364
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "earthtojavamobs",
+      "version": "1.7.1+1.16.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

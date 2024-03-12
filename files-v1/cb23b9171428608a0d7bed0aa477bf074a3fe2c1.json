@@ -1,0 +1,26 @@
+{
+  "name": "zenith-1.0.2-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TLZe11Uj",
+      "versionId": "q2Wq7Ew7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 620928,
+      "fileId": 5061647
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "1.0.2-1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

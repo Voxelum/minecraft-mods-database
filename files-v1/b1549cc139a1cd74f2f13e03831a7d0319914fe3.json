@@ -1,6 +1,12 @@
 {
   "name": "Harvest-1.12-1.2.8-25.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 240783,
+      "fileId": 2897811
+    }
+  ],
   "forge": [
     {
       "modId": "harvest",

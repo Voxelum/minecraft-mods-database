@@ -1,0 +1,14 @@
+{
+  "name": "HibernalHerbs-fabric-1.20.1-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hibernalherbs",
+      "version": "1.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "RoughlyEnoughTrades-1.19-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRDQqMfX",
+      "versionId": "CdXT6NYx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 664356,
+      "fileId": 3963321
+    }
+  ],
   "fabric": [
     {
       "modId": "roughly_enough_trades",

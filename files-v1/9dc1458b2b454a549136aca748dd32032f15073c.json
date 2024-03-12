@@ -1,0 +1,16 @@
+{
+  "name": "pv-addon-groups-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pv_addon_groups",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pv-addon-groups",
+      "version": "1.0.3"
+    }
+  ]
+}

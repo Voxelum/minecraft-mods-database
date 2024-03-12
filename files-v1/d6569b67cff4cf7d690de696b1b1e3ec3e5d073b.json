@@ -1,0 +1,20 @@
+{
+  "name": "origins-plus-0.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pN5hiahr",
+      "versionId": "dtM63MEn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "originsplus",
+      "version": "0.0.2"
+    },
+    {
+      "modId": "satin",
+      "version": "1.5.1"
+    }
+  ]
+}

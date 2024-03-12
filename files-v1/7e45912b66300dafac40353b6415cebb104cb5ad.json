@@ -1,0 +1,24 @@
+{
+  "name": "TerraBlender-fabric-1.19.1-2.0.0.122.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565956,
+      "fileId": 3920543
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrablender",
+      "version": "2.0.0.122"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    }
+  ]
+}

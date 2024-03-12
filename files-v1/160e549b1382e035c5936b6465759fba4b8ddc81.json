@@ -1,0 +1,20 @@
+{
+  "name": "nbttooltip-1.7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G0GDoyVf",
+      "versionId": "TzVW5LLN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nbttooltip",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.0.94"
+    }
+  ]
+}

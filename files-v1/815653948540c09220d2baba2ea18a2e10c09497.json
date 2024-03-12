@@ -1,0 +1,30 @@
+{
+  "name": "vinery-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1DWmBJVA",
+      "versionId": "cLYVl6S1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704465,
+      "fileId": 4326313
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vinery",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "frame-tabbed-item-groups-v0",
+      "version": "0.2.4+0aca9b56a9"
+    }
+  ]
+}

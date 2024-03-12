@@ -1,0 +1,16 @@
+{
+  "name": "missiles-0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_missiles",
+      "version": "0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_missiles",
+      "version": "0.2"
+    }
+  ]
+}

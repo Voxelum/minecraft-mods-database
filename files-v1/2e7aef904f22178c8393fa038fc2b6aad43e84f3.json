@@ -1,0 +1,198 @@
+{
+  "name": "legacy-fabric-api-1.9.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "legacy-fabric-api",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "legacy-fabric-api-base",
+      "version": "1.1.0+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-api-base",
+      "version": "1.1.0+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-api-base-common",
+      "version": "1.1.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v1",
+      "version": "1.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v2",
+      "version": "1.0.1+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v2",
+      "version": "1.0.1+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-command-api-v2",
+      "version": "1.0.1+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-crash-report-info-v1",
+      "version": "1.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1",
+      "version": "1.0.0+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1",
+      "version": "1.0.0+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1",
+      "version": "1.0.0+1.9.4+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-entity-events-v1-common",
+      "version": "1.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-gamerule-api-v1",
+      "version": "1.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-item-groups-v1",
+      "version": "2.0.0+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-item-groups-v1",
+      "version": "2.0.0+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-item-groups-v1-common",
+      "version": "2.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-keybinding-api-v1",
+      "version": "1.0.1+1.12.2+8b01b57c"
+    },
+    {
+      "modId": "legacy-fabric-keybinding-api-v1",
+      "version": "1.0.1+1.7.10+8b01b57c"
+    },
+    {
+      "modId": "legacy-fabric-keybinding-api-v1",
+      "version": "1.0.1+1.8.9+8b01b57c"
+    },
+    {
+      "modId": "legacy-fabric-keybinding-api-v1-common",
+      "version": "1.0.1+8b01b57c"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1",
+      "version": "1.0.1+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1",
+      "version": "1.0.1+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1",
+      "version": "1.0.1+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-lifecycle-events-v1-common",
+      "version": "1.0.1+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-logger-api-v1",
+      "version": "1.0.4+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1",
+      "version": "2.0.0+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1",
+      "version": "2.0.0+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1",
+      "version": "2.0.0+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-networking-api-v1-common",
+      "version": "2.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-permissions-api-v1",
+      "version": "1.0.1+1.8.9+6be689d3"
+    },
+    {
+      "modId": "legacy-fabric-permissions-api-v1-common",
+      "version": "1.0.1+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.10.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.8+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1",
+      "version": "2.1.0+1.9.4+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-registry-sync-api-v1-common",
+      "version": "2.1.0+81f98336"
+    },
+    {
+      "modId": "legacy-fabric-rendering-api-v1",
+      "version": "1.0.0+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-rendering-api-v1",
+      "version": "1.0.0+1.8.9+81f98336"
+    },
+    {
+      "modId": "legacy-fabric-rendering-api-v1-common",
+      "version": "1.0.0+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.1+1.10.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.1+1.12.2+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.1+1.7.10+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.1+1.8+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1",
+      "version": "2.1.1+1.8.9+450251e1"
+    },
+    {
+      "modId": "legacy-fabric-resource-loader-v1-common",
+      "version": "2.1.1+81f98336"
+    }
+  ]
+}

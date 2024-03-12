@@ -1,0 +1,22 @@
+{
+  "name": "cheaper-maps-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZLppFg51",
+      "versionId": "ftV4dSLa"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_cheaper_maps",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_cheaper_maps",
+      "version": "1.0"
+    }
+  ]
+}

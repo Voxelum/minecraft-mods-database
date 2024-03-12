@@ -1,0 +1,20 @@
+{
+  "name": "garnished-1.5.1-hotfix-2+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6e2SlzR4",
+      "versionId": "t75a5Yu1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "garnished",
+      "version": "1.5.1-hotfix-2+1.19.2"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "4.2.0"
+    }
+  ]
+}

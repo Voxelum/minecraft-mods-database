@@ -1,6 +1,12 @@
 {
   "name": "pling-1.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 365521,
+      "fileId": 3550632
+    }
+  ],
   "fabric": [
     {
       "modId": "pling",

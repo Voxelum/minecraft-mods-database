@@ -1,6 +1,18 @@
 {
   "name": "simplevillagers-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uRSeGBg3",
+      "versionId": "qRjA8cMT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 582149,
+      "fileId": 4573667
+    }
+  ],
   "fabric": [
     {
       "modId": "simplevillagers",

@@ -1,6 +1,18 @@
 {
   "name": "bendy-lib-fabric-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aRnIEV0F",
+      "versionId": "lXlRe0jH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623373,
+      "fileId": 3930019
+    }
+  ],
   "fabric": [
     {
       "modId": "bendy-lib",

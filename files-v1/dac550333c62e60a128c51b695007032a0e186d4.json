@@ -1,0 +1,20 @@
+{
+  "name": "Neat-1.19.4-34-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ins7SzzR",
+      "versionId": "M0SMQVo7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neat",
+      "version": "1.19.4-34-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Simple Coin.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "coins",
+      "version": "1.0.0"
+    }
+  ]
+}

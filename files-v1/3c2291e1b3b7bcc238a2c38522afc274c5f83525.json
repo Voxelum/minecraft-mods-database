@@ -1,6 +1,18 @@
 {
   "name": "cc-restitched-1.100.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eldBwa5V",
+      "versionId": "FbQHIk33"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 462672,
+      "fileId": 3838648
+    }
+  ],
   "fabric": [
     {
       "modId": "computercraft",

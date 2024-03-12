@@ -1,0 +1,22 @@
+{
+  "name": "Simple-Xray-Mod-Fabric-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301609,
+      "fileId": 3420133
+    }
+  ],
+  "forge": [
+    {
+      "modId": "atianxray",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xray",
+      "version": "1.0.6"
+    }
+  ]
+}

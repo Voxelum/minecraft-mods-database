@@ -1,0 +1,24 @@
+{
+  "name": "chicken-nerf-1.0.18+MC1.20-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KoP5DUTS",
+      "versionId": "EUCo79f3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chicken_nerf",
+      "version": "1.0.18"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

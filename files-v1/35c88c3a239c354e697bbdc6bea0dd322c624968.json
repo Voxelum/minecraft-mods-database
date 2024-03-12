@@ -1,0 +1,16 @@
+{
+  "name": "configurabledespawntimer-1.19.2-3.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "configurabledespawntimer",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurabledespawntimer",
+      "version": "3.4"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "worldborder-1.20.1-4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nN96GjON",
+      "versionId": "wc2HzCTx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348093,
+      "fileId": 4851301
+    }
+  ],
+  "forge": [
+    {
+      "modId": "worldborder",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldborder",
+      "version": "4.2"
+    }
+  ]
+}

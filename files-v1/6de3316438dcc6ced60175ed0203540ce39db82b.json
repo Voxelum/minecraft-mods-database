@@ -1,0 +1,20 @@
+{
+  "name": "mcci-companion-5.0.0-alpha.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yF4Uptui",
+      "versionId": "kwGLZM7H"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "companion",
+      "version": "5.0.0-alpha.5"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.9.5+kotlin.1.8.22"
+    }
+  ]
+}

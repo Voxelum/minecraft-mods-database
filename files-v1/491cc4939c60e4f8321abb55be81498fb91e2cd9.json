@@ -1,0 +1,14 @@
+{
+  "name": "owo-lib-0.10.3+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "owo",
+      "version": "0.10.3+1.19.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

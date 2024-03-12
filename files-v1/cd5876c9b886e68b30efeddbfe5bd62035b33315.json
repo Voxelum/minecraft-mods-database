@@ -1,0 +1,52 @@
+{
+  "name": "Professions-1.19.2-FABRIC-1.0.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 607057,
+      "fileId": 4564466
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "professions",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.11"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "octo-economy-api",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.0.1"
+    }
+  ]
+}

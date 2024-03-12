@@ -1,0 +1,14 @@
+{
+  "name": "invisframes-2.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "invisframes",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "tf_ssf_sfort_ini_sf-ini",
+      "version": "1"
+    }
+  ]
+}

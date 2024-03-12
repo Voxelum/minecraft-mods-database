@@ -1,0 +1,10 @@
+{
+  "name": "Killer Pacman.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pacman",
+      "version": "1.0.7"
+    }
+  ]
+}

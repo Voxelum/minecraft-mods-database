@@ -1,6 +1,18 @@
 {
   "name": "oculus-1.5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GchcoXML",
+      "versionId": "mGoSRprD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581495,
+      "fileId": 4451905
+    }
+  ],
   "forge": [
     {
       "modId": "oculus",

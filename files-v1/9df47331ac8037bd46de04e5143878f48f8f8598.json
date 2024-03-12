@@ -1,6 +1,12 @@
 {
   "name": "charms-1.18.2-1.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 420955,
+      "fileId": 3770462
+    }
+  ],
   "forge": [
     {
       "modId": "charms",

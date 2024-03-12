@@ -1,0 +1,14 @@
+{
+  "name": "net.leafenzo.squashed-v1.0.2+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "squashed",
+      "version": "v1.0.2+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

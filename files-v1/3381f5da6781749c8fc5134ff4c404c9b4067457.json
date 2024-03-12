@@ -1,0 +1,142 @@
+{
+  "name": "viafabricplus-3.0.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rIC2XJV4",
+      "versionId": "Y8rSEWgC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 830604,
+      "fileId": 5034603
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabricplus",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "com_viaversion_viaversion-common",
+      "version": "4.10.0-23w51b-SNAPSHOT"
+    },
+    {
+      "modId": "com_viaversion_viabackwards-common",
+      "version": "4.10.0-23w51b-SNAPSHOT"
+    },
+    {
+      "modId": "net_raphimc_vialegacy",
+      "version": "2.2.22-SNAPSHOT"
+    },
+    {
+      "modId": "net_raphimc_viaaprilfools",
+      "version": "2.0.11-SNAPSHOT"
+    },
+    {
+      "modId": "net_raphimc_viabedrock",
+      "version": "0.0.4-SNAPSHOT"
+    },
+    {
+      "modId": "net_lenni0451_mcstructs-bedrock_text",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "net_lenni0451_mcstructs-bedrock_forms",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_vdurmont_semver4j",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb-api",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_lz4_lz4-pure-java",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "net_raphimc_vialoader",
+      "version": "2.2.13-SNAPSHOT"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    },
+    {
+      "modId": "net_raphimc_minecraftauth",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "io_jsonwebtoken_jjwt-impl",
+      "version": "0.12.3"
+    },
+    {
+      "modId": "io_jsonwebtoken_jjwt-api",
+      "version": "0.12.3"
+    },
+    {
+      "modId": "io_jsonwebtoken_jjwt-gson",
+      "version": "0.12.3"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "net_lenni0451_mcping",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "org_cloudburstmc_netty_netty-transport-raknet",
+      "version": "1.0.0.CR1-SNAPSHOT"
+    },
+    {
+      "modId": "net_jodah_expiringmap",
+      "version": "0.5.10"
+    },
+    {
+      "modId": "de_florianmichael_classic4j",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.36+78d798af4f"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.16+78d798af4f"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.1.5+b7e146354f"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.20+78d798af4f"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.30+78d798af4f"
+    },
+    {
+      "modId": "fabric-particles-v1",
+      "version": "1.1.7+78d798af4f"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "4.0.16+78d798af4f"
+    }
+  ]
+}

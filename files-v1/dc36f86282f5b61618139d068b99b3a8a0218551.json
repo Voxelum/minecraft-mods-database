@@ -1,6 +1,18 @@
 {
   "name": "cccbridge-mc1.19.2-forge-v1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fXt291FO",
+      "versionId": "48CSf0v7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656214,
+      "fileId": 4632363
+    }
+  ],
   "forge": [
     {
       "modId": "cccbridge",

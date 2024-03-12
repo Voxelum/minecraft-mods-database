@@ -1,6 +1,18 @@
 {
   "name": "notenoughanimations-fabric-1.6.4-mc1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPCX6s5C",
+      "versionId": "XFJeh7MA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433760,
+      "fileId": 4556111
+    }
+  ],
   "fabric": [
     {
       "modId": "notenoughanimations",

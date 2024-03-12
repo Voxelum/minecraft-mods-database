@@ -1,0 +1,20 @@
+{
+  "name": "variantbarrels-3.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 576766,
+      "fileId": 5023614
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantbarrels",
+      "version": "3.4.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

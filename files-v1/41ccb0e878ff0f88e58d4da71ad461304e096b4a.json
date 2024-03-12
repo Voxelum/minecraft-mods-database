@@ -1,0 +1,20 @@
+{
+  "name": "Sodium Foge (Halogen).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "seedfix_forge",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.0.8"
+    },
+    {
+      "modId": "seedfix",
+      "version": "1.0.0"
+    }
+  ]
+}

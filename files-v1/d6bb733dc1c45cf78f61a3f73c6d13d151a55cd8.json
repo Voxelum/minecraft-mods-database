@@ -1,6 +1,12 @@
 {
   "name": "Tumbleweed-fabric-1.19-0.5.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 245028,
+      "fileId": 3929970
+    }
+  ],
   "fabric": [
     {
       "modId": "tumbleweed",

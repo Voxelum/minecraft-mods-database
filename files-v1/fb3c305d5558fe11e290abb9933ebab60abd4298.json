@@ -1,6 +1,12 @@
 {
   "name": "botarium-fabric-1.20.1-2.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 704113,
+      "fileId": 4672474
+    }
+  ],
   "fabric": [
     {
       "modId": "botarium",

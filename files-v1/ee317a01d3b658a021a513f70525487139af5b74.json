@@ -1,0 +1,30 @@
+{
+  "name": "Screencapper-1.3.0+1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "screencapper",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.9.3"
+    },
+    {
+      "modId": "ca_weblite_java-objc-bridge",
+      "version": "1.2"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "283"
+    },
+    {
+      "modId": "elementa",
+      "version": "600"
+    },
+    {
+      "modId": "vigilance",
+      "version": "288"
+    }
+  ]
+}

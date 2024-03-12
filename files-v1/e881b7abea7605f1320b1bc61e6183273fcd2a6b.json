@@ -1,0 +1,34 @@
+{
+  "name": "HQM-1.18.1-5.9.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hardcorequesting",
+      "version": "1.18.1-5.9.1"
+    },
+    {
+      "modId": "org_jetbrains_annotations",
+      "version": "19.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

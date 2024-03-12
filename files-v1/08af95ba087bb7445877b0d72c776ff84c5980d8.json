@@ -1,6 +1,12 @@
 {
   "name": "CommonCapabilities-1.12.2-2.4.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 247007,
+      "fileId": 2920804
+    }
+  ],
   "forge": [
     {
       "modId": "commoncapabilities",

@@ -1,0 +1,32 @@
+{
+  "name": "enhancedcraft-1.4.3+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JRK1PEfm",
+      "versionId": "uNf839xN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedcraft",
+      "version": "1.4.3+1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "modmenu",
+      "version": "7.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    }
+  ]
+}

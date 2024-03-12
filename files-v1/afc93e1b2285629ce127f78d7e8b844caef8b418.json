@@ -1,6 +1,12 @@
 {
   "name": "bclib-2.3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BgNRHReB",
+      "versionId": "xSXBLwfQ"
+    }
+  ],
   "fabric": [
     {
       "modId": "bclib",

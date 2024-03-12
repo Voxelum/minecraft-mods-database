@@ -1,0 +1,26 @@
+{
+  "name": "tiered-1.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z6sMEexp",
+      "versionId": "ZF0HKlbd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615948,
+      "fileId": 5126416
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tiered",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

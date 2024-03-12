@@ -1,0 +1,14 @@
+{
+  "name": "potionvapes-1.0.2-1.19.2-FABRIC.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "potionvapes",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "4.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "grind-enchantments-3.1.2+23w31a.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WC4UgDcZ",
+      "versionId": "HwskbxUV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grindenchantments",
+      "version": "3.1.2+23w31a"
+    },
+    {
+      "modId": "codec-config-api",
+      "version": "1.0.2+1.19.3"
+    }
+  ]
+}

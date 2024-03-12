@@ -1,0 +1,10 @@
+{
+  "name": "genesis-1.19-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "genesis",
+      "version": "1.19.2-1.0.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "fsb-interop-1.3.6+mc1.20.1-build.50.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HpdHOPOp",
+      "versionId": "JRvZ5VhS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 697845,
+      "fileId": 4797428
+    }
+  ],
   "fabric": [
     {
       "modId": "fsb-interop",

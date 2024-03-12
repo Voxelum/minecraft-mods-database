@@ -1,6 +1,12 @@
 {
   "name": "packed-inventory-0.2.2+1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 641196,
+      "fileId": 3916749
+    }
+  ],
   "fabric": [
     {
       "modId": "packed-inventory",

@@ -1,0 +1,10 @@
+{
+  "name": "[1.12.2]+VersionChecker-1.4.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "versionchecker",
+      "version": "@VERSION@"
+    }
+  ]
+}

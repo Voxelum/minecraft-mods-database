@@ -1,6 +1,18 @@
 {
   "name": "Jade-1.20-fabric-11.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nvQzSEkH",
+      "versionId": "OPfSqApE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324717,
+      "fileId": 4768565
+    }
+  ],
   "fabric": [
     {
       "modId": "jade",

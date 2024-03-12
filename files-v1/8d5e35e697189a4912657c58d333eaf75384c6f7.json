@@ -1,6 +1,18 @@
 {
   "name": "stalwart-dungeons-1.18.2-1.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BCLngNKp",
+      "versionId": "2IottLR9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 474817,
+      "fileId": 4499652
+    }
+  ],
   "forge": [
     {
       "modId": "stalwart_dungeons",

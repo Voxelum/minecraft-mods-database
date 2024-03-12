@@ -1,0 +1,28 @@
+{
+  "name": "AxolotlClient-3.0.6+1.8.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p2rxzX0q",
+      "versionId": "EpBQmzkD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "axolotlclient",
+      "version": "3.0.6+1.8.9"
+    },
+    {
+      "modId": "axolotlclient-common",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "axolotlclientconfig",
+      "version": "2.1.13+1.8.9"
+    },
+    {
+      "modId": "search-in-resources",
+      "version": "1.0.1"
+    }
+  ]
+}

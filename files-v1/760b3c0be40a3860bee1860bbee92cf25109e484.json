@@ -1,0 +1,10 @@
+{
+  "name": "screenshot-to-clipboard-1.0.7-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "screenshotclipboard",
+      "version": "1.0.7"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "amethyst_core-1.4.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbOpZw7q",
+      "versionId": "L0fUUZZf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639888,
+      "fileId": 4812122
+    }
+  ],
   "fabric": [
     {
       "modId": "amethyst_core",

@@ -1,0 +1,30 @@
+{
+  "name": "completeconfig-2.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "completeconfig",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "coat",
+      "version": "1.0.0-beta.19+mc1.19.3"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "completeconfig-gui-coat",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "completeconfig-gui-yacl",
+      "version": "2.3.0"
+    }
+  ]
+}

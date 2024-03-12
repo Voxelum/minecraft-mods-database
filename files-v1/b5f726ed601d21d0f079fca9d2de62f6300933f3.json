@@ -1,6 +1,18 @@
 {
   "name": "things-0.2.15+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VzAGdu9D",
+      "versionId": "e2ysxVmj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456151,
+      "fileId": 3663069
+    }
+  ],
   "fabric": [
     {
       "modId": "things",

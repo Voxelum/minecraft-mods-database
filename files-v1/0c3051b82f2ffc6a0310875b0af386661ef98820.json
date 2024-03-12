@@ -1,0 +1,10 @@
+{
+  "name": "coins-mod-1.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "coins",
+      "version": "1.5"
+    }
+  ]
+}

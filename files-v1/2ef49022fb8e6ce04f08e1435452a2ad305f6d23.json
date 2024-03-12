@@ -1,0 +1,20 @@
+{
+  "name": "rare-ice-0.2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rare-ice",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rare-ice",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "cloth-dynamic-registry-api-v1",
+      "version": "1.2.1"
+    }
+  ]
+}

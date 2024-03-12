@@ -1,0 +1,16 @@
+{
+  "name": "spellbound-weapons-v4.0.1g.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spellbound_weapons_mr",
+      "version": "4.0.1d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spellbound_weapons_mr",
+      "version": "4.0.1g"
+    }
+  ]
+}

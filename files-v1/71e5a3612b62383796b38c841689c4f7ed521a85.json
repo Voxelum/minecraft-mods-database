@@ -1,0 +1,20 @@
+{
+  "name": "no-nether-portal-overlay-1.0.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 486338,
+      "fileId": 4596200
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_nether_portal_overlay",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

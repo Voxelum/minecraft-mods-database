@@ -1,0 +1,24 @@
+{
+  "name": "TerraBlender-fabric-1.19.4-2.3.0.22.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kkmrDlKT",
+      "versionId": "qQWxMxU7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrablender",
+      "version": "2.3.0.22"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    }
+  ]
+}

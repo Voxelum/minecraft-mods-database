@@ -1,6 +1,12 @@
 {
   "name": "WeaponMasterMulti.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qi1sj2da",
+      "versionId": "16qDv2hy"
+    }
+  ],
   "forge": [
     {
       "modId": "weaponmaster",

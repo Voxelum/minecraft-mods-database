@@ -1,6 +1,12 @@
 {
   "name": "chorus-links-1.9.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JGFBGEcL",
+      "versionId": "7noBni4q"
+    }
+  ],
   "fabric": [
     {
       "modId": "chorus_links",

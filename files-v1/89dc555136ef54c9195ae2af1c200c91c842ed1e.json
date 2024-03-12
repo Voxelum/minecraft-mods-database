@@ -1,6 +1,18 @@
 {
   "name": "Pehkui-3.3.0+1.14.4-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "wBi86WOn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 3776710
+    }
+  ],
   "fabric": [
     {
       "modId": "pehkui",

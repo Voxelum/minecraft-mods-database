@@ -1,6 +1,12 @@
 {
   "name": "bbs-1.0.2-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 630342,
+      "fileId": 3819687
+    }
+  ],
   "forge": [
     {
       "modId": "bbs",

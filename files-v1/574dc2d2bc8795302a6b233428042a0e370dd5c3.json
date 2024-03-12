@@ -1,0 +1,24 @@
+{
+  "name": "crimson-moon-2.3.0-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 380356,
+      "fileId": 3784588
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crimsonmoon",
+      "version": "2.3.0-1.18.2"
+    },
+    {
+      "modId": "world-data",
+      "version": "1.0.3-1.18.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

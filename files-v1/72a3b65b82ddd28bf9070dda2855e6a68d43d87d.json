@@ -1,0 +1,14 @@
+{
+  "name": "lookinsharp-fabric-1.20.1-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lookinsharp",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.1"
+    }
+  ]
+}

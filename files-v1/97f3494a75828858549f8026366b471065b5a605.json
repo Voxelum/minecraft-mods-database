@@ -1,0 +1,16 @@
+{
+  "name": "automaticdoors-1.18.2-4.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "automaticdoors",
+      "version": "4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "automaticdoors",
+      "version": "4.0"
+    }
+  ]
+}

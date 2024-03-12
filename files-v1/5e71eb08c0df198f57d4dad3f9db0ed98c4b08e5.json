@@ -1,0 +1,14 @@
+{
+  "name": "seamless-loading-screen-2.0.3+1.19.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seamless_loading_screen",
+      "version": "2.0.3+1.19.2"
+    },
+    {
+      "modId": "satin",
+      "version": "1.9.0"
+    }
+  ]
+}

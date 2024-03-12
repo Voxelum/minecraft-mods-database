@@ -1,0 +1,16 @@
+{
+  "name": "Mo'ZombiesWave-Fabric-1.16.5-0.1.0-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mozombies_wave",
+      "version": "0.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mozombies_wave",
+      "version": "1.16.5-0.1.0"
+    }
+  ]
+}

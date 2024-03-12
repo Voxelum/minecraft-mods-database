@@ -1,0 +1,20 @@
+{
+  "name": "cultural-delights-fabric-0.14.12+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Gy8sTXS",
+      "versionId": "bfK7P3Ja"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "culturaldelights",
+      "version": "0.14.12+1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

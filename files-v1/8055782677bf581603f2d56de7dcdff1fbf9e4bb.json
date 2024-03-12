@@ -1,6 +1,12 @@
 {
   "name": "experiencebottler-1.19+build.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Uq7u1hDy",
+      "versionId": "ESr9djU1"
+    }
+  ],
   "fabric": [
     {
       "modId": "experiencebottler",

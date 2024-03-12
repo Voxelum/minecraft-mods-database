@@ -1,0 +1,22 @@
+{
+  "name": "emissive-plugin-1.20.4-2.0.4-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moremcmeta_emissive_plugin",
+      "version": "1.20.4-2.0.4"
+    },
+    {
+      "modId": "fabric-renderer-indigo",
+      "version": "1.5.2+2034447c32"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "3.2.2+2034447c32"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.34+f31bf88132"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bloomful-1.15.2-1.4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bloomful",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

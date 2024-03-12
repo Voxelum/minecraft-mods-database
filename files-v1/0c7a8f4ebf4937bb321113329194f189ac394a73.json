@@ -1,0 +1,16 @@
+{
+  "name": "u_desert-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "u_desert",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "u_desert",
+      "version": "1.0.0"
+    }
+  ]
+}

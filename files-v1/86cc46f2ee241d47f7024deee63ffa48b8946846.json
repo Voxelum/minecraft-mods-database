@@ -1,0 +1,10 @@
+{
+  "name": "tutorial-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tutorial",
+      "version": "1.0"
+    }
+  ]
+}

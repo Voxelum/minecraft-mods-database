@@ -1,0 +1,28 @@
+{
+  "name": "FABRIC - TARDIS Refined v1-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tardis_refined",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tardis_refined",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.1.4"
+    }
+  ]
+}

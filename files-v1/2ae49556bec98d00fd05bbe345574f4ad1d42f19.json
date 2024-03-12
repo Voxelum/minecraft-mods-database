@@ -1,0 +1,16 @@
+{
+  "name": "notenoughanimations-forge-1.7.0-mc1.19.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "notenoughanimations",
+      "version": "1.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughanimations",
+      "version": "1.7.0"
+    }
+  ]
+}

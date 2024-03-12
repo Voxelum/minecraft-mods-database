@@ -1,0 +1,22 @@
+{
+  "name": "atlantis-2022.9.4-1.19.2-1.0.3-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eWBCjGUN",
+      "versionId": "jllfgnWZ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "atlantis",
+      "version": "2022.8.31-1.19.2-1.0.1-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "atlantis",
+      "version": "2022.9.4-1.19.2-1.0.3-forge"
+    }
+  ]
+}

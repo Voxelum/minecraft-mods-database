@@ -1,0 +1,10 @@
+{
+  "name": "pamhc2trees-1.15.2-1.0.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pamhc2trees",
+      "version": "${version}"
+    }
+  ]
+}

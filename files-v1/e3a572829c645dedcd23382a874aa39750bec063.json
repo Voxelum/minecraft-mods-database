@@ -1,0 +1,14 @@
+{
+  "name": "raknetify-fabric-0.1.0+alpha.5.114-all.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "raknetify",
+      "version": "0.1.0+alpha.5.114"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

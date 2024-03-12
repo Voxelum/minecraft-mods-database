@@ -1,6 +1,18 @@
 {
   "name": "treeharvester-1.20.1-8.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "abooMhox",
+      "versionId": "c2klaSgQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367178,
+      "fileId": 4597584
+    }
+  ],
   "forge": [
     {
       "modId": "treeharvester",

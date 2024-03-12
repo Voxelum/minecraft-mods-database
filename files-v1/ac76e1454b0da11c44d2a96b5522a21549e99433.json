@@ -1,0 +1,10 @@
+{
+  "name": "tamedsummon-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tamedsummon",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

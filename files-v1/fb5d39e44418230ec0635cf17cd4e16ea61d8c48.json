@@ -1,0 +1,22 @@
+{
+  "name": "FarmersDelightTFC-1.0.5-forge-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 951750,
+      "fileId": 5060588
+    }
+  ],
+  "forge": [
+    {
+      "modId": "farmersdelight_tfc",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight_tfc",
+      "version": "1.0.0"
+    }
+  ]
+}

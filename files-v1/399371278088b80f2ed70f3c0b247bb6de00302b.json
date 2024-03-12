@@ -1,0 +1,16 @@
+{
+  "name": "OpticManager_FORGE_v1.3.0_mc1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "opticmanager",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "opticmanager",
+      "version": "${version}"
+    }
+  ]
+}

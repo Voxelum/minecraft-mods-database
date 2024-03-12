@@ -1,0 +1,48 @@
+{
+  "name": "Tierify-FABRIC-1.20.1-1.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 974356,
+      "fileId": 5111351
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tiered",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.15.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.15.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.15.2"
+    },
+    {
+      "modId": "libz",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "autotag",
+      "version": "2.0.2+1.20"
+    },
+    {
+      "modId": "autotag-convention",
+      "version": "2.0.2+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

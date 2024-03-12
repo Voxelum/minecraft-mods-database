@@ -1,6 +1,12 @@
 {
   "name": "simplefog-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Glp1bwYc",
+      "versionId": "2NINyQSm"
+    }
+  ],
   "fabric": [
     {
       "modId": "simplefog",

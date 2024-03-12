@@ -1,6 +1,18 @@
 {
   "name": "findme-1.16.3-2.2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rEuzehyH",
+      "versionId": "lEAgLEtt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291936,
+      "fileId": 3586951
+    }
+  ],
   "forge": [
     {
       "modId": "findme",

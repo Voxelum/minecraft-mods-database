@@ -1,0 +1,10 @@
+{
+  "name": "CGM-Unofficial-1.4.7+Forge+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cgm",
+      "version": "${file.jarVersion}}"
+    }
+  ]
+}

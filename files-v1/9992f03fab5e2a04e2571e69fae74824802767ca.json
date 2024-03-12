@@ -1,6 +1,18 @@
 {
   "name": "mythicmetals-decorations-0.5.2+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wtv23AFN",
+      "versionId": "ykdOPLwB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552128,
+      "fileId": 4377086
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicmetals_decorations",

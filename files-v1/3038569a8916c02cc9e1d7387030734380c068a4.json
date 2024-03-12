@@ -1,6 +1,18 @@
 {
   "name": "mobsunscreen-1.18.1-3.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rWSwwjTs",
+      "versionId": "gUWWx6HU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 298408,
+      "fileId": 3566858
+    }
+  ],
   "forge": [
     {
       "modId": "mobsunscreen",

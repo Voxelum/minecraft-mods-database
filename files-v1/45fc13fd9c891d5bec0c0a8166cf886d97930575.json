@@ -1,0 +1,10 @@
+{
+  "name": "itemscroller-fabric-1.19.3-craftfix-1.2.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "itemscroller",
+      "version": "craftfix-1.2.6"
+    }
+  ]
+}

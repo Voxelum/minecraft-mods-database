@@ -1,0 +1,16 @@
+{
+  "name": "[自然音效] AmbientSounds_FORGE_v5.3.5_mc1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

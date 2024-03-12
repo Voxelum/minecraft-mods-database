@@ -1,0 +1,22 @@
+{
+  "name": "webdisplays-1.3.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 654478,
+      "fileId": 4579369
+    }
+  ],
+  "forge": [
+    {
+      "modId": "webdisplays",
+      "version": "1.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "webdisplays",
+      "version": "${version}"
+    }
+  ]
+}

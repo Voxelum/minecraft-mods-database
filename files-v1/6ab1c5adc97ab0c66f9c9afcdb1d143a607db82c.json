@@ -1,0 +1,14 @@
+{
+  "name": "lithium-fabric-mc1.16.4-0.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lithium",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "lithium-api",
+      "version": "0.6.0"
+    }
+  ]
+}

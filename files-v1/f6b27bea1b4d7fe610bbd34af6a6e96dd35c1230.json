@@ -1,0 +1,20 @@
+{
+  "name": "baritone-api-fabric-1.10.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621192,
+      "fileId": 5013445
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "baritone",
+      "version": "1.10.2"
+    },
+    {
+      "modId": "dev_babbaj_nether-pathfinder",
+      "version": "1.4.1"
+    }
+  ]
+}

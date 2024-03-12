@@ -1,6 +1,18 @@
 {
   "name": "ToolStats-Fabric-1.18.1-8.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vuGFx44e",
+      "versionId": "7JHycVZC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377109,
+      "fileId": 3668167
+    }
+  ],
   "fabric": [
     {
       "modId": "toolstats",

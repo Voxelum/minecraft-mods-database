@@ -1,0 +1,20 @@
+{
+  "name": "ive-spoken-1.18-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OidSa416",
+      "versionId": "YKFP1SMB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ive-spoken",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_krlite_pierced",
+      "version": "v1.2"
+    }
+  ]
+}
