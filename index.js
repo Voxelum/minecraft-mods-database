@@ -2,10 +2,6 @@ const { BlobServiceClient } = require("@azure/storage-blob");
 const fs = require("fs/promises");
 const { createHash } = require("crypto");
 
-const connectionString = process.env.AZURE_STORAGE_CONNECTION_STRING;
-
-const client = BlobServiceClient.fromConnectionString(connectionString);
-
 async function streamToBuffer(readableStream) {
   return new Promise((resolve, reject) => {
     const chunks = [];
@@ -18,11 +14,8 @@ async function streamToBuffer(readableStream) {
     readableStream.on("error", reject);
   });
 }
-const events = client.getContainerClient("am-appevents");
-const blobs = events.listBlobsFlat({ includeTags: true });
-
 const parseIfExist = (v) => (v ? JSON.parse(v) : undefined);
-const process = async (blob) => {
+const handle = async (blob) => {
   try {
     const blobClient = events.getBlobClient(blob.name);
     const resp = await blobClient.download();
@@ -136,11 +129,17 @@ const process = async (blob) => {
 };
 
 async function main() {
+  const connectionString = process.env.AZURE_STORAGE_CONNECTION_STRING;
+  const client = BlobServiceClient.fromConnectionString(connectionString);
+
+  const events = client.getContainerClient("am-appevents");
+  const blobs = events.listBlobsFlat({ includeTags: true });
+
   const batch = [];
   for await (const blob of blobs) {
     batch.push(blob);
     if (batch.length === 32) {
-      await Promise.all(batch.map(process));
+      await Promise.all(batch.map(handle));
       batch.length = 0;
     }
   }
