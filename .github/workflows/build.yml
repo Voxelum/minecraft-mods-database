@@ -22,7 +22,7 @@ jobs:
           BUILD_NUMBER: ${{ github.run_number }}
       - name: Draft Release
         id: create_release
-        uses: voxelum/create-release@xmcl
+        uses: voxelum/create-release@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
