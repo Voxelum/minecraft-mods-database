@@ -16,7 +16,7 @@ jobs:
           node-version: '18'
       - name: Install dependencies
         run: pnpm install
-      - name: Harvest
+      - name: Build Database
         run: node ./build.js
         env:
           BUILD_NUMBER: ${{ github.run_number }}

@@ -1,5 +1,5 @@
 CREATE TABLE metadata (
-    version INTEGER NOT NULL;
+    version INTEGER NOT NULL
 );
 
 CREATE TABLE project_mapping (
