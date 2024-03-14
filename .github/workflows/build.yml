@@ -1,4 +1,4 @@
-name: Harvest
+name: Build
 
 on:
   workflow_dispatch:
