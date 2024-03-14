@@ -1,17 +1,21 @@
 const Database = require('better-sqlite3')
 const fs = require('fs')
+const { resolve } = require('path')
 const buildNumber = process.env.BUILD_NUMBER
 
 const migrateScript = fs.readFileSync('./migrate.sql', 'utf-8')
-if (fs.existsSync('./build/db.sqlite')) {
-  fs.unlinkSync('./build/db.sqlite')
+const dbPath = resolve(__dirname, './build/db.sqlite')
+if (fs.existsSync(dbPath)) {
+  fs.unlinkSync(dbPath)
 }
-const db = new Database('./build/db.sqlite')
+const db = new Database(dbPath)
 db.exec(migrateScript)
 
 db.prepare('INSERT INTO metadata (version) VALUES (?)').run(buildNumber || 0)
 
 const files = fs.readdirSync('./files-v1')
+
+console.log(`Detect ${files.length} files`)
 const mapping = {}
 const start = Date.now()
 for (const fileName of files) {
@@ -56,3 +60,5 @@ for (const [modrinth, curseforge] of Object.entries(mapping)) {
 }
 
 console.log('Time:', Math.floor((Date.now() - start) / 1000))
+const stat = fs.statSync(dbPath)
+console.log('Size:', Math.floor(stat.size / 1024 / 1024), 'MB')
