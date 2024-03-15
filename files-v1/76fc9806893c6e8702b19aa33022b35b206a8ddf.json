@@ -1,6 +1,12 @@
 {
   "name": "update-me-1.0b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9xIIYjBA",
+      "versionId": "8fKYScx5"
+    }
+  ],
   "fabric": [
     {
       "modId": "update-me",

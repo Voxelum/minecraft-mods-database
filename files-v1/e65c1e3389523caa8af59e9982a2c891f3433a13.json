@@ -1,0 +1,20 @@
+{
+  "name": "LuckyBlockOnlyWorld+v1.0.0.jar.disabled",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523856,
+      "fileId": 3481813
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luckyblockonlyworld",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "seedy-behavior",
+      "version": "1.0.0+1.16"
+    }
+  ]
+}

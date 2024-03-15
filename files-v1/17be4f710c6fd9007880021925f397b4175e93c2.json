@@ -1,0 +1,14 @@
+{
+  "name": "walksy-shield-fixes-1.20x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shieldfixes",
+      "version": "1.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

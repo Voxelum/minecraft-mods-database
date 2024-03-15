@@ -1,0 +1,30 @@
+{
+  "name": "TrajectoryFabric_1.16.4_1.0.13.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "trajectoryfabric",
+      "version": "1.0.13"
+    },
+    {
+      "modId": "cotton-client-commands",
+      "version": "1.0.1+1.16-rc1"
+    },
+    {
+      "modId": "cloth-api",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_json",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    }
+  ]
+}

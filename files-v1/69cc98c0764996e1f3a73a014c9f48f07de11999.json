@@ -1,0 +1,34 @@
+{
+  "name": "ArmorSoundTweak-6.0.0-fabric.jar.980f6f.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorsoundtweak",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a3a9"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.1.0+33fbc738a9"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.4+db8596f1a9"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "morevillagers-fabric-1.19-4.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "morevillagers",
+      "version": "4.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

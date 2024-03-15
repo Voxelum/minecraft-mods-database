@@ -1,0 +1,18 @@
+{
+  "name": "Dont-Disappear-On-Me-1.0.1-mc1.14.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dontdisappear",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "1.8"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "1.2.6"
+    }
+  ]
+}

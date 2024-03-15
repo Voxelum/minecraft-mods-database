@@ -1,6 +1,12 @@
 {
   "name": "bountiful-7.0.21.20.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BpwWFOVM",
+      "versionId": "2KAmOHQt"
+    }
+  ],
   "fabric": [
     {
       "modId": "bountiful",

@@ -1,0 +1,10 @@
+{
+  "name": "largefluidtank-fabric-20.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fluidtank",
+      "version": "20.2.0"
+    }
+  ]
+}

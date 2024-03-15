@@ -1,6 +1,12 @@
 {
   "name": "CameraJavaPort.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fmWrNxMj",
+      "versionId": "wEOqTUEZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "camera_port",

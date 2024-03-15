@@ -1,6 +1,12 @@
 {
   "name": "treasure-bags-1.20.1-1.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRj2OOTf",
+      "versionId": "WvbpJpwP"
+    }
+  ],
   "forge": [
     {
       "modId": "treasurebags",

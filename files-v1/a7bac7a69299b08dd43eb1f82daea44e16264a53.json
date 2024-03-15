@@ -1,0 +1,24 @@
+{
+  "name": "seedmapper-1.5.18.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C4GbEnuY",
+      "versionId": "WMSmEg8W"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seedmapper",
+      "version": "1.5.18"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.7"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "1.2.1"
+    }
+  ]
+}

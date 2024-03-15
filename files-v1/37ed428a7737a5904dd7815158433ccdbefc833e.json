@@ -1,6 +1,12 @@
 {
   "name": "soundphysics-forge-1.19.4-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 535489,
+      "fileId": 4721568
+    }
+  ],
   "forge": [
     {
       "modId": "sound_physics_remastered",

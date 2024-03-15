@@ -1,6 +1,12 @@
 {
   "name": "moremusic-0.1.5+1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dGBEUH8l",
+      "versionId": "yqPej1LZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "moremusic",

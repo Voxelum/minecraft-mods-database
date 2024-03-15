@@ -1,0 +1,18 @@
+{
+  "name": "isometric-renders-0.4.4+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "isometric-renders",
+      "version": "0.4.4+1.20"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.3.0+1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

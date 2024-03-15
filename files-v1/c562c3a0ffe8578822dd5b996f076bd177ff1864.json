@@ -1,0 +1,10 @@
+{
+  "name": "SkinShuffle-1.1.0+1.20.4-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "skinshuffle",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "betterimpaling-2.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m8MF21pg",
+      "versionId": "LddPGMVB"
+    }
+  ],
   "fabric": [
     {
       "modId": "betterimpaling",

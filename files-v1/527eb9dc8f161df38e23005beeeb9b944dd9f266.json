@@ -1,0 +1,20 @@
+{
+  "name": "(Fabric)SculkHorn-1.20.2-1.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BfFhIqA7",
+      "versionId": "J3gMFvwf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sculkhornid",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.3+1.20.2"
+    }
+  ]
+}

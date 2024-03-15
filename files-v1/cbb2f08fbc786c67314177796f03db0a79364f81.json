@@ -1,0 +1,10 @@
+{
+  "name": "cobblemon-unchained-1.4-fabric-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cobblemon_chaining",
+      "version": "1.4-fabric-1.0.3"
+    }
+  ]
+}

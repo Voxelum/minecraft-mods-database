@@ -1,0 +1,24 @@
+{
+  "name": "anti-shadow-patch-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a2CiPRW8",
+      "versionId": "JXTTzfMr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antishadowpatch",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

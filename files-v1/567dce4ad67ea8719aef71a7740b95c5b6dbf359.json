@@ -1,6 +1,12 @@
 {
   "name": "viner-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pJWTXnch",
+      "versionId": "gQKwrrAS"
+    }
+  ],
   "forge": [
     {
       "modId": "viner",

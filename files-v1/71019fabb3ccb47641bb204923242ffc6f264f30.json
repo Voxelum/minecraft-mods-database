@@ -1,6 +1,12 @@
 {
   "name": "removehud-1.3b2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MiPOIx6b",
+      "versionId": "ci9ghzTq"
+    }
+  ],
   "fabric": [
     {
       "modId": "removehud",

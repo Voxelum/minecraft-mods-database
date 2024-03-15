@@ -1,6 +1,18 @@
 {
   "name": "mcw-paintings-1.0.4fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "okE6QVAY",
+      "versionId": "aSwSLjZX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438116,
+      "fileId": 3923001
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwpaintings",

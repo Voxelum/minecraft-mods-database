@@ -1,6 +1,12 @@
 {
   "name": "auto-clicker-fabric-1.20.2-1.9.0-build.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r8axuw4u",
+      "versionId": "eDg88ZGC"
+    }
+  ],
   "fabric": [
     {
       "modId": "autoclicker-fabric",

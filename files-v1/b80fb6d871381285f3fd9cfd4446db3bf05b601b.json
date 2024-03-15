@@ -1,6 +1,12 @@
 {
   "name": "norecipebook-3.0+1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TvL1V8O5",
+      "versionId": "je4Q15eZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "norecipebook",

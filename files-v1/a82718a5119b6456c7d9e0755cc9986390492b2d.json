@@ -1,0 +1,20 @@
+{
+  "name": "removedrecipes-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7ddtNxrR",
+      "versionId": "xBEWrpnm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "removedrecipes",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "copper-horns",
+      "version": "1.0.2"
+    }
+  ]
+}

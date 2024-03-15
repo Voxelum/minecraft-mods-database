@@ -1,0 +1,14 @@
+{
+  "name": "betterstats-3.3+fabric-1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterstats",
+      "version": "3.3+fabric-1.20.2"
+    },
+    {
+      "modId": "tcdcommons",
+      "version": "3.3+fabric-1.20.2"
+    }
+  ]
+}

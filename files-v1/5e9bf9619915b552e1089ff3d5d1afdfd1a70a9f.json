@@ -1,6 +1,12 @@
 {
   "name": "InitialInventory-forge-1.19.2-7.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 253230,
+      "fileId": 4612571
+    }
+  ],
   "forge": [
     {
       "modId": "initialinventory",
