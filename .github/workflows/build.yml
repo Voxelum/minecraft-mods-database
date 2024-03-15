@@ -26,9 +26,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.run_number }}
-          release_name: Version ${{ github.run_number }}
+          tag_name: v${{ github.run_number }}
+          release_name: v${{ github.run_number }}
           draft: false
           prerelease: false
-          body: "New release!"
+          body: v${{ github.run_number }}
           asset_dir_path: ./build

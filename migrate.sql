@@ -4,8 +4,7 @@ CREATE TABLE metadata (
 
 CREATE TABLE project_mapping (
     curseforge_project INTEGER NOT NULL,
-    modrinth_project TEXT NOT NULL,
-    PRIMARY KEY (curseforge_project, modrinth_project)
+    modrinth_project TEXT NOT NULL
 );
 
 CREATE TABLE file (
@@ -17,28 +16,24 @@ CREATE TABLE file (
 CREATE TABLE modrinth_version (
     sha1 TEXT NOT NULL,
     project TEXT NOT NULL,
-    version TEXT NOT NULL,
-    PRIMARY KEY (sha1, project, version)
+    version TEXT NOT NULL
 );
 
 CREATE TABLE curseforge_file (
     sha1 TEXT NOT NULL,
     project INTEGER NOT NULL,
-    file INTEGER NOT NULL,
-    PRIMARY KEY (sha1, project, file)
+    file INTEGER NOT NULL
 );
 
 CREATE TABLE forge_mod (
     sha1 TEXT NOT NULL,
     id TEXT NOT NULL,
-    version TEXT NOT NULL,
-    PRIMARY KEY (sha1, id, version)
+    version TEXT NOT NULL
 );
 
 CREATE TABLE fabric_mod (
     sha1 TEXT NOT NULL,
     id TEXT NOT NULL,
-    version TEXT NOT NULL,
-    PRIMARY KEY (sha1, id, version)
+    version TEXT NOT NULL
 );
 

@@ -45,8 +45,12 @@ for (const fileName of files) {
       for (const forge of content.forge || []) {
         insertForge.run(sha1, forge.modId, forge.version ?? "")
       }
+      const existed = new Set()
       for (const fabric of content.fabric || []) {
-        insertFabric.run(sha1, fabric.modId, fabric.version ?? "")
+        if (!existed.has(fabric.modId)) {
+          insertFabric.run(sha1, fabric.modId, fabric.version ?? "")
+          existed.add(fabric.modId)
+        }
       }
     })(content)
   } catch (e) {
@@ -62,3 +66,8 @@ for (const [modrinth, curseforge] of Object.entries(mapping)) {
 console.log('Time:', Math.floor((Date.now() - start) / 1000))
 const stat = fs.statSync(dbPath)
 console.log('Size:', Math.floor(stat.size / 1024 / 1024), 'MB')
+const sha1 = require('crypto').createHash('sha1')
+  .update(fs.readFileSync(dbPath))
+  .digest('hex')
+console.log('SHA1:', sha1)
+fs.writeFileSync('./build/db.sha1', sha1)
