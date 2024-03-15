@@ -18,4 +18,4 @@ Each file under the folder `files-v1` is named by the file content sha1. It stor
 
 - [x] Working script to harvest stored json data
 - [ ] Corn job to run harvest script in a comfortable interval
-- [ ] Add script and release pipeline to build the sqlite database
+- [x] Add script and release pipeline to build the sqlite database
