@@ -1,0 +1,14 @@
+{
+  "name": "expandeddelight-0.3.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "expandeddelight",
+      "version": "0.3.0.3"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

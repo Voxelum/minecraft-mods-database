@@ -1,0 +1,30 @@
+{
+  "name": "banhammer-0.7.1+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "banhammer",
+      "version": "0.7.1+1.20.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "8.0.31"
+    },
+    {
+      "modId": "org_postgresql_postgresql",
+      "version": "42.5.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    }
+  ]
+}

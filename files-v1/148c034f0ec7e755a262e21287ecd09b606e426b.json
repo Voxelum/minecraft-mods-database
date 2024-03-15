@@ -1,0 +1,14 @@
+{
+  "name": "RebornCore-5.8.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reborncore",
+      "version": "5.8.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

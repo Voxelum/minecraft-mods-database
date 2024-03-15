@@ -1,0 +1,22 @@
+{
+  "name": "CustomClientDNS-mc1.20.4-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "customclientdns",
+      "version": "1.1"
+    },
+    {
+      "modId": "dnsjava_dnsjava",
+      "version": "3.5.2"
+    },
+    {
+      "modId": "commons-validator_commons-validator",
+      "version": "1.7"
+    },
+    {
+      "modId": "org_bspfsystems_yamlconfiguration",
+      "version": "1.4.0"
+    }
+  ]
+}

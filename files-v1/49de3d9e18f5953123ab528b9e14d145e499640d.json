@@ -1,0 +1,14 @@
+{
+  "name": "naiy-1.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "naiy",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "createchunkloading-1.3.0-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 494206,
+      "fileId": 4120425
+    }
+  ],
   "fabric": [
     {
       "modId": "createchunkloading",

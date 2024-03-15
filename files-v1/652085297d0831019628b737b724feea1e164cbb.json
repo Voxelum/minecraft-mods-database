@@ -1,0 +1,22 @@
+{
+  "name": "Elytra Swap (для 1.16.5 - 1.16.2).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "elytra_swap",
+      "version": "2.2.0-1.16.2"
+    },
+    {
+      "modId": "jankson",
+      "version": "3.0.1+j1.2.0"
+    },
+    {
+      "modId": "cotton-logging",
+      "version": "1.0.0-rc.4"
+    },
+    {
+      "modId": "cotton-config",
+      "version": "1.0.0-rc.7"
+    }
+  ]
+}

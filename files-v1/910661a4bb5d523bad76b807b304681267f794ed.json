@@ -1,0 +1,14 @@
+{
+  "name": "vanity-fabric-1.20.4-3.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanity",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.4.9"
+    }
+  ]
+}

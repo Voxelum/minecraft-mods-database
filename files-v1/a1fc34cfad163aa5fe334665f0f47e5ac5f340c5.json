@@ -1,6 +1,12 @@
 {
   "name": "sfcr-1.7.6-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hoop89kN",
+      "versionId": "KiFYezDU"
+    }
+  ],
   "forge": [
     {
       "modId": "sfcr",

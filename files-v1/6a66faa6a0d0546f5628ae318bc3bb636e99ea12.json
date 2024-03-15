@@ -1,0 +1,22 @@
+{
+  "name": "peek-1.20.2-1.1.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "peek",
+      "version": "1.20.2-1.1.9"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.32+fce67b3203"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+86b1264503"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.0.6+69e331e303"
+    }
+  ]
+}

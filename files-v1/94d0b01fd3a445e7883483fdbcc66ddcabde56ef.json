@@ -1,0 +1,16 @@
+{
+  "name": "HopoBetterMineshaft-[1.20.2-1.20.4]-1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hopo",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobettermineshaft",
+      "version": "1.2.1"
+    }
+  ]
+}

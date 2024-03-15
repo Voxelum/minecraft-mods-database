@@ -1,6 +1,12 @@
 {
   "name": "notbedder-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u0NMVJCb",
+      "versionId": "g4knwyKZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "oldbeds",

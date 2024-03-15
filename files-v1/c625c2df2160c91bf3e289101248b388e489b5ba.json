@@ -1,0 +1,28 @@
+{
+  "name": "perspective-1.2.0+1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6CTGnrNg",
+      "versionId": "8JRIpGI4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "perspective",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-simplelibs",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_mclegoman_releasetypeutils",
+      "version": "2.1.0"
+    }
+  ]
+}

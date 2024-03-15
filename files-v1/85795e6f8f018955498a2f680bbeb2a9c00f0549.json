@@ -1,0 +1,10 @@
+{
+  "name": "create-gun-mod-v1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cgm",
+      "version": "1.2.6"
+    }
+  ]
+}

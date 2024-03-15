@@ -1,0 +1,24 @@
+{
+  "name": "AlinLib-1.0.0-rc.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UU7VUYKE",
+      "versionId": "EdPBoglc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "alinlib",
+      "version": "1.0.0-rc.1"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20231013"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

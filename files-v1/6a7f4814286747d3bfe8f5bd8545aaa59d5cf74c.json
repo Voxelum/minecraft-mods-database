@@ -1,6 +1,12 @@
 {
   "name": "attack_through_grass-1.0.2+1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OKM2WWl3",
+      "versionId": "3He8fKJR"
+    }
+  ],
   "fabric": [
     {
       "modId": "attack_through_grass",

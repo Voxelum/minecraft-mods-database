@@ -1,6 +1,12 @@
 {
   "name": "dynamiccrosshair-7.4+1.20.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZcR9weSm",
+      "versionId": "yl7hdLYl"
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamiccrosshair",

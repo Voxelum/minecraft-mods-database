@@ -1,6 +1,12 @@
 {
   "name": "seamless-2.1.1-fabric-1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rhyHyQke",
+      "versionId": "a4vWApsb"
+    }
+  ],
   "fabric": [
     {
       "modId": "seamless",

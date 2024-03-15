@@ -1,0 +1,30 @@
+{
+  "name": "scalable-cats-force-fabric-2.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kotori_scala",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_scala-lang_scala3-library_3",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "org_scala-lang_scala-library",
+      "version": "2.13.10"
+    },
+    {
+      "modId": "org_typelevel_cats-core_3",
+      "version": "2.9.1-kotori"
+    },
+    {
+      "modId": "org_typelevel_cats-kernel_3",
+      "version": "2.9.1-kotori"
+    },
+    {
+      "modId": "org_typelevel_cats-free_3",
+      "version": "2.9.1-kotori"
+    }
+  ]
+}

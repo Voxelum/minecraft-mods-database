@@ -1,0 +1,22 @@
+{
+  "name": "lavender-0.1.4+1.20.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lavender",
+      "version": "0.1.4+1.20.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.4+1.20.3"
+    },
+    {
+      "modId": "lavender-md",
+      "version": "0.1.0-pre.4+1.20.2"
+    },
+    {
+      "modId": "lavender-md-owo-ui",
+      "version": "0.1.0-pre.4+1.20.2"
+    }
+  ]
+}

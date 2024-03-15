@@ -1,0 +1,30 @@
+{
+  "name": "navine-3.2.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "navine-client",
+      "version": "3.2.7+b2"
+    },
+    {
+      "modId": "eu_bycing_net-api-minified",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.9.0"
+    },
+    {
+      "modId": "renderer",
+      "version": "1.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.14"
+    }
+  ]
+}

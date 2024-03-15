@@ -1,6 +1,12 @@
 {
   "name": "particle-rain-2.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrikgvxm",
+      "versionId": "8VGNnkMc"
+    }
+  ],
   "fabric": [
     {
       "modId": "particlerain",

@@ -1,0 +1,14 @@
+{
+  "name": "block-entity-extended-rendering-3.0.0 (1).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "block-entity-extended-rendering",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

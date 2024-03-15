@@ -1,0 +1,14 @@
+{
+  "name": "modmenu-1.7.17+build.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "1.7.17+build.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.1.3+b02deb0042"
+    }
+  ]
+}

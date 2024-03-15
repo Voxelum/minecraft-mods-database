@@ -1,6 +1,12 @@
 {
   "name": "now-playing-fabric-1.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eNF4Bfla",
+      "versionId": "9DEmxPSC"
+    }
+  ],
   "fabric": [
     {
       "modId": "now-playing",

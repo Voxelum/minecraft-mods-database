@@ -1,0 +1,28 @@
+{
+  "name": "aaron-mod-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "axe0DxiW",
+      "versionId": "ED2dGUKB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aaron-mod",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "me_nullicorn_nedit",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.3.1+1.20.4"
+    },
+    {
+      "modId": "com_github_cbyrneee_betterinject",
+      "version": "0.1.3"
+    }
+  ]
+}

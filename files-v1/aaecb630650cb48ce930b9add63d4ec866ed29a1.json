@@ -1,0 +1,16 @@
+{
+  "name": "RestoreChatLinks-1.19.3-0.2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "restorechatlinks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "restorechatlinks",
+      "version": "1.19.3-0.2.3"
+    }
+  ]
+}

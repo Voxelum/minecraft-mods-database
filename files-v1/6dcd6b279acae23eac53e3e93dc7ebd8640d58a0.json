@@ -1,6 +1,12 @@
 {
   "name": "portabletables-forge-1.20.1-2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n7CI2ifG",
+      "versionId": "8sr66kFX"
+    }
+  ],
   "forge": [
     {
       "modId": "portable_tables",

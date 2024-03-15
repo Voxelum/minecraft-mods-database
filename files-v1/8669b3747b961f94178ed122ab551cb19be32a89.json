@@ -1,0 +1,14 @@
+{
+  "name": "statuseffecttimer-1.2.01.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "statuseffecttimer",
+      "version": "1.2.0+1.19"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

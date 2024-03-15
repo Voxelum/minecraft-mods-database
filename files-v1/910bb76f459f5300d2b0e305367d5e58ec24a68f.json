@@ -1,0 +1,20 @@
+{
+  "name": "energizedpower-1.20.1-1.7.6-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 782147,
+      "fileId": 4620896
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "energizedpower",
+      "version": "1.20.1-1.7.6-fabric"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

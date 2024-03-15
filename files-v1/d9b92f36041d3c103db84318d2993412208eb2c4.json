@@ -1,6 +1,12 @@
 {
   "name": "stack-to-nearby-chests-mc1.20.2-0.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HtGckJVc",
+      "versionId": "JstX0NHW"
+    }
+  ],
   "fabric": [
     {
       "modId": "stack-to-nearby-chests",

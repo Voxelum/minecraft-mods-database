@@ -1,6 +1,12 @@
 {
   "name": "StonyCliffs-v1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "boFjx9eY",
+      "versionId": "TsopYVcU"
+    }
+  ],
   "forge": [
     {
       "modId": "stonycliffs",

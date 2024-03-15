@@ -1,6 +1,12 @@
 {
   "name": "dynamic-fire-overlay-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8qTXCUq0",
+      "versionId": "8G0kYsED"
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamic-fire-overlay",

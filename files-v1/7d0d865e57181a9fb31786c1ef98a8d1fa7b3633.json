@@ -1,6 +1,12 @@
 {
   "name": "caves__canyons-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uMcyUgtO",
+      "versionId": "AovRyC6Z"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_caves__canyons",

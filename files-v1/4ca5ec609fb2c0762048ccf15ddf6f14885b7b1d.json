@@ -1,0 +1,16 @@
+{
+  "name": "letsdo-addon-structures-1.7.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "letsdoaddonstructures",
+      "version": "1.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "letsdoaddon-structures",
+      "version": "1.7.0"
+    }
+  ]
+}

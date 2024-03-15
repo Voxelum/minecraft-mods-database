@@ -1,0 +1,22 @@
+{
+  "name": "psychedelicraft-1.7.51.20.1 — копия.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "psychedelicraft",
+      "version": "1.7.5+1.20.1"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.15.1"
+    },
+    {
+      "modId": "fabwork",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.0-beta.1"
+    }
+  ]
+}

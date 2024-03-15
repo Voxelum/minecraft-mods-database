@@ -1,6 +1,12 @@
 {
   "name": "EE_Create_Addon-1.0.1-build.5+mc1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 809271,
+      "fileId": 4442217
+    }
+  ],
   "forge": [
     {
       "modId": "ee_create_addon",

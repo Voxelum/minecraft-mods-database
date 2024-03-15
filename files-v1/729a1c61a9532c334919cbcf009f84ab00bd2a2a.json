@@ -1,0 +1,22 @@
+{
+  "name": "hearths-v1.0.0-mc1.19.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 880814,
+      "fileId": 4619495
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hearths",
+      "version": "1.0.0-mc1.19.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hearths",
+      "version": "v1.0.0-mc1.19.4"
+    }
+  ]
+}

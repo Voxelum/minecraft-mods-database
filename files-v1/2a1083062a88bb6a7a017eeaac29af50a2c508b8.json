@@ -1,6 +1,12 @@
 {
   "name": "ssamod-0.7-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJJxUT16",
+      "versionId": "4SnP2JLB"
+    }
+  ],
   "forge": [
     {
       "modId": "ssamod",

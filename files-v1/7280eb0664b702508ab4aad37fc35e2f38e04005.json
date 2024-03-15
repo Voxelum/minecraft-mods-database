@@ -1,6 +1,12 @@
 {
   "name": "platforms-forge-1.19.0-1.10.2.02.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244786,
+      "fileId": 4577340
+    }
+  ],
   "forge": [
     {
       "modId": "platforms",
