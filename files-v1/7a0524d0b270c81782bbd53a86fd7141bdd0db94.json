@@ -1,6 +1,12 @@
 {
   "name": "subterrestrial-forge-1.20-2.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UiVm8hgI",
+      "versionId": "5GBRiLZ8"
+    }
+  ],
   "forge": [
     {
       "modId": "subterrestrial",

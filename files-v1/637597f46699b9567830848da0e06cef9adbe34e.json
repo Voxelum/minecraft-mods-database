@@ -1,6 +1,12 @@
 {
   "name": "ctov-wares-compat-1.0.a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ikXYiASk",
+      "versionId": "xKo2GMHk"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_ctov_warescompat",

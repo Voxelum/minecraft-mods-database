@@ -1,6 +1,12 @@
 {
   "name": "findme-3.1.0-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 291936,
+      "fileId": 3910004
+    }
+  ],
   "fabric": [
     {
       "modId": "findme",

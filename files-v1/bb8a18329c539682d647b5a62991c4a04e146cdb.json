@@ -1,0 +1,20 @@
+{
+  "name": "bottled_allays-1.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wo8tonYh",
+      "versionId": "Og0bWZSt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bottled_allays",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.5+1.20.1"
+    }
+  ]
+}

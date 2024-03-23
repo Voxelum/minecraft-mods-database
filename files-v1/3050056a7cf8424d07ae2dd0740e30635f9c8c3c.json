@@ -1,6 +1,18 @@
 {
   "name": "BHMenu-Forge-1.19.2-2.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yWSAtnfH",
+      "versionId": "mwTGtLLd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585546,
+      "fileId": 4528907
+    }
+  ],
   "forge": [
     {
       "modId": "bhmenu",

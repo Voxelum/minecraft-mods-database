@@ -1,0 +1,10 @@
+{
+  "name": "modmanager-1.2.3+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modmanager",
+      "version": "1.2.3+1.18"
+    }
+  ]
+}

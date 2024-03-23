@@ -1,0 +1,32 @@
+{
+  "name": "Controlify-1.1.0+1.19.4-fabric-1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOUdJVEm",
+      "versionId": "4eYmOLUb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "1.1.0+1.19.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "org_hid4java_hid4java",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "dev_isxander_sdl2-jni",
+      "version": "2.26.4-4"
+    },
+    {
+      "modId": "org_quiltmc_quilt-json5",
+      "version": "1.0.3"
+    }
+  ]
+}

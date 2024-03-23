@@ -1,6 +1,12 @@
 {
   "name": "minetogether-forge-1.19.2-6.2.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 267172,
+      "fileId": 5075807
+    }
+  ],
   "forge": [
     {
       "modId": "minetogether",

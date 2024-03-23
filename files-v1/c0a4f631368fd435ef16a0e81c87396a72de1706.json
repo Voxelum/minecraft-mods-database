@@ -1,0 +1,22 @@
+{
+  "name": "easy-commands-fabric-v1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tnWUYYq4",
+      "versionId": "ZHrl4fPu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "easy_commands",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easy_commands",
+      "version": "1.0.0"
+    }
+  ]
+}

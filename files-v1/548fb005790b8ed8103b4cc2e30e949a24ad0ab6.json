@@ -1,0 +1,16 @@
+{
+  "name": "spidersproducewebs-1.19.4-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spidersproducewebs",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spidersproducewebs",
+      "version": "3.1"
+    }
+  ]
+}

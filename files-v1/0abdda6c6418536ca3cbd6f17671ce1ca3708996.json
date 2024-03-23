@@ -1,0 +1,14 @@
+{
+  "name": "CoordinatesDisplay-9.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "coordinatesdisplay",
+      "version": "9.0.0"
+    },
+    {
+      "modId": "boxlib",
+      "version": "11.1.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "kubejsadditions-fabric-4.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZemjxZb",
+      "versionId": "JnFkPXyk"
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejsadditions",

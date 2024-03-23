@@ -1,0 +1,24 @@
+{
+  "name": "quickshulker-1.3.10-1.19.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 362669,
+      "fileId": 4171682
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickshulker",
+      "version": "1.3.10-1.19.3"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.1-1.19.3"
+    },
+    {
+      "modId": "shulkerutils",
+      "version": "1.0.4-1.19"
+    }
+  ]
+}

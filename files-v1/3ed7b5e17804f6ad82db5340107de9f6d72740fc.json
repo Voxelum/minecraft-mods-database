@@ -1,6 +1,18 @@
 {
   "name": "Actually Useful Stonecutter-4.0.2 mc 1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Bt7CLf1",
+      "versionId": "BYVNdf5m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394424,
+      "fileId": 4074593
+    }
+  ],
   "forge": [
     {
       "modId": "actuallyusefulstonecutter",

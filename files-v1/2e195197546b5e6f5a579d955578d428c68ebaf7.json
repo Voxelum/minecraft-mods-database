@@ -1,0 +1,22 @@
+{
+  "name": "craftedcore-3.2.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "craftedcore",
+      "version": "3.2.2"
+    },
+    {
+      "modId": "org_apache_httpcomponents_client5_httpclient5",
+      "version": "5.3.1"
+    },
+    {
+      "modId": "org_apache_httpcomponents_core5_httpcore5-h2",
+      "version": "5.2.4"
+    },
+    {
+      "modId": "org_apache_httpcomponents_core5_httpcore5",
+      "version": "5.2.4"
+    }
+  ]
+}

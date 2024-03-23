@@ -1,0 +1,14 @@
+{
+  "name": "camp-fires-cook-mobs-1.2.11+MC1.20-1.20.1.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "camp_fires_cook_mobs",
+      "version": "1.2.11"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

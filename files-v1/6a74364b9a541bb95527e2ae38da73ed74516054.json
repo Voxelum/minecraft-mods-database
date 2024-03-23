@@ -1,0 +1,16 @@
+{
+  "name": "guifollowers-1.19.4-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "guifollowers",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guifollowers",
+      "version": "3.2"
+    }
+  ]
+}

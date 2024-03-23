@@ -1,0 +1,14 @@
+{
+  "name": "portable-crafting-2.2.1+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "portable-crafting",
+      "version": "2.2.1+1.19.3"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.2.0+1.2.0-beta.5"
+    }
+  ]
+}

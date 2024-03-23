@@ -1,6 +1,12 @@
 {
   "name": "BowInfinityFix-1.19.x-fabric-2.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 224713,
+      "fileId": 3859566
+    }
+  ],
   "fabric": [
     {
       "modId": "bowinfinityfix",

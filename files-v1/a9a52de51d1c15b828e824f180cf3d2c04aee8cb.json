@@ -1,0 +1,10 @@
+{
+  "name": "RUN.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "help",
+      "version": "1.0.0"
+    }
+  ]
+}

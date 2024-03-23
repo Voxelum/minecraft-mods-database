@@ -1,6 +1,12 @@
 {
   "name": "javd-fabric-4.0.1-build.2+mc1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 370890,
+      "fileId": 4035526
+    }
+  ],
   "fabric": [
     {
       "modId": "javd",

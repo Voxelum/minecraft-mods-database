@@ -1,10 +1,16 @@
 {
   "name": "ComplementaryUnbound_r5.0.zip",
-  "domain": "resourcepacks",
+  "domain": "shaderpacks",
   "modrinth": [
     {
       "projectId": "R6NEzAwj",
       "versionId": "B1208PyS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 385587,
+      "fileId": 4744391
     }
   ]
 }

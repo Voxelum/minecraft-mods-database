@@ -1,6 +1,12 @@
 {
   "name": "mcw-bridges-2.1.0-mc1.19.2fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GURcjz8O",
+      "versionId": "Qc9tzEck"
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwbridges",

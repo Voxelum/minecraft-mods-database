@@ -1,6 +1,12 @@
 {
   "name": "riverredux-0.3.0+fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 380548,
+      "fileId": 3921830
+    }
+  ],
   "fabric": [
     {
       "modId": "riverredux",

@@ -1,0 +1,14 @@
+{
+  "name": "customblockoverlay-1.0+build.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "customblockoverlay",
+      "version": "1.0+build.1"
+    },
+    {
+      "modId": "com_github_carleslc_simple-yaml_simple-yaml",
+      "version": "1.8.4"
+    }
+  ]
+}

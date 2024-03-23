@@ -1,6 +1,12 @@
 {
   "name": "Quad-1.1.1+1.20.4-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7jzrCiK0",
+      "versionId": "rcPc3fDc"
+    }
+  ],
   "fabric": [
     {
       "modId": "quad",

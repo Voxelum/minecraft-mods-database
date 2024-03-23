@@ -1,0 +1,24 @@
+{
+  "name": "amethyst_core-1.4.9+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 639888,
+      "fileId": 5180030
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amethyst_core",
+      "version": "1.4.9+1.20.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fzzy_config",
+      "version": "0.1.2+1.20.1"
+    }
+  ]
+}

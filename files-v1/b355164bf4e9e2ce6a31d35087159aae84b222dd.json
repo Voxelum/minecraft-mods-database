@@ -1,0 +1,10 @@
+{
+  "name": "paladins-fabric-0.9.4+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "paladins",
+      "version": "0.9.4+1.19.2"
+    }
+  ]
+}

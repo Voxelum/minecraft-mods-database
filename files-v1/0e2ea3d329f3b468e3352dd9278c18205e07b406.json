@@ -1,0 +1,22 @@
+{
+  "name": "vc_gliders-1.0.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vc_gliders",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "palladiumcore",
+      "version": "1.19.2-1.2.3.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

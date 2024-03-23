@@ -1,0 +1,16 @@
+{
+  "name": "darcenos-minecarts-slower.1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_darcenos_minecarts",
+      "version": "1-slower.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_darcenos_minecarts",
+      "version": "1-slower.1.2"
+    }
+  ]
+}

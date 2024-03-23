@@ -1,0 +1,16 @@
+{
+  "name": "setworldspawnpoint-1.19.4-3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.1"
+    }
+  ]
+}

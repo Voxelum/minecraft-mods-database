@@ -1,0 +1,28 @@
+{
+  "name": "enchantingtweaks-1.20.2-1.2.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MpaVRj3r",
+      "versionId": "FhJAJH0m"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantingtweaks",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+86b12645a0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.0.6+69e331e3a0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.32+fce67b32a0"
+    }
+  ]
+}

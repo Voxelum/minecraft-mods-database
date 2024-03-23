@@ -1,6 +1,12 @@
 {
   "name": "elytrahud-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pWQYLnss",
+      "versionId": "peQxn2iF"
+    }
+  ],
   "fabric": [
     {
       "modId": "elytrahud",

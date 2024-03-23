@@ -1,6 +1,12 @@
 {
   "name": "mvs-4.1-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OQAgZMH1",
+      "versionId": "6kTxDtOT"
+    }
+  ],
   "fabric": [
     {
       "modId": "mvs",

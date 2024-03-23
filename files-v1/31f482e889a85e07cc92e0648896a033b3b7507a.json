@@ -1,0 +1,26 @@
+{
+  "name": "numismatic-overhaul-0.2.14+1.20.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "numismatic-overhaul",
+      "version": "0.2.14+1.20.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.5+1.20.3"
+    }
+  ]
+}

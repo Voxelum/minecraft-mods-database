@@ -1,6 +1,12 @@
 {
   "name": "vanilla-refresh-1.4.17c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gWO6Zqey",
+      "versionId": "5SuTHcmu"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_vanilla_refresh",

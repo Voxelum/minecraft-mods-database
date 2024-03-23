@@ -1,6 +1,12 @@
 {
   "name": "midnightlib-fabric-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "codAaoxh",
+      "versionId": "61U935Ys"
+    }
+  ],
   "fabric": [
     {
       "modId": "midnightlib",

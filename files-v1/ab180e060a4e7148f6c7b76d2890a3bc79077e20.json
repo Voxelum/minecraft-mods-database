@@ -1,6 +1,12 @@
 {
   "name": "nohotbarlooping-1.1.1-1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HmJkmcXO",
+      "versionId": "r0XGZla3"
+    }
+  ],
   "fabric": [
     {
       "modId": "nohotbarlooping",

@@ -1,0 +1,20 @@
+{
+  "name": "wicked-paintings-1.4.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AooPgPdp",
+      "versionId": "iGtzIvKU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wicked-paintings",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.0+1.20"
+    }
+  ]
+}

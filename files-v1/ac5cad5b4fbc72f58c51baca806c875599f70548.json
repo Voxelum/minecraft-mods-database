@@ -1,0 +1,10 @@
+{
+  "name": "deepslatetweaks-1.2-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deepslatetweaks",
+      "version": "${1.2}"
+    }
+  ]
+}

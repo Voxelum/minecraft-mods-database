@@ -1,0 +1,16 @@
+{
+  "name": "jumploader-2.1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "jumploader",
+      "version": "2.1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jumploader",
+      "version": "2.1.3"
+    }
+  ]
+}

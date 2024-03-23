@@ -1,6 +1,12 @@
 {
   "name": "raised-fabric-1.18.2-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCQRBEiR",
+      "versionId": "rRKRAkPC"
+    }
+  ],
   "fabric": [
     {
       "modId": "raised",

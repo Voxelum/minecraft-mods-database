@@ -1,0 +1,16 @@
+{
+  "name": "Anti-Mob-Farm-1.16.5-1.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 398782,
+      "fileId": 3513888
+    }
+  ],
+  "forge": [
+    {
+      "modId": "anti_mob_farm",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

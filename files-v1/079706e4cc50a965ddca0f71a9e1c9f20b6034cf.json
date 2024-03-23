@@ -1,0 +1,18 @@
+{
+  "name": "【masa扩展】tweakermore-mc1.20.1-v3.13.1+build.570.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakermore",
+      "version": "3.13.1+build.570"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

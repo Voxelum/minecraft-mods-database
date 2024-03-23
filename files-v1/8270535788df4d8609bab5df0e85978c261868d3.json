@@ -1,0 +1,16 @@
+{
+  "name": "Boss Music Mod 1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 501159,
+      "fileId": 5135202
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bossmusicmod",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

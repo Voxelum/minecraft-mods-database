@@ -1,6 +1,12 @@
 {
   "name": "sodium-extra-0.4.19+mc1.19.3-build.101.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 447673,
+      "fileId": 4514937
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium-extra",

@@ -1,6 +1,12 @@
 {
   "name": "caelum-1.20.1-2.0.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xkw3TXqP",
+      "versionId": "7JGuqBG4"
+    }
+  ],
   "forge": [
     {
       "modId": "caelum",

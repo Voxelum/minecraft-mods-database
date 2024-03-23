@@ -1,6 +1,12 @@
 {
   "name": "sodium-extra-0.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtjYWJkn",
+      "versionId": "NjwlXlbU"
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium-extra",

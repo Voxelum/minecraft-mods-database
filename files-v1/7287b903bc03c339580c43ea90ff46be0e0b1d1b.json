@@ -1,6 +1,12 @@
 {
   "name": "pyrofrost-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z4DmLNR1",
+      "versionId": "zKRT073G"
+    }
+  ],
   "fabric": [
     {
       "modId": "pyrofrost",

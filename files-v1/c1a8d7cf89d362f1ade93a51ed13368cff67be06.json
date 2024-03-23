@@ -1,0 +1,16 @@
+{
+  "name": "creativeblockreplacer-1.20.1-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "creativeblockreplacer",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativeblockreplacer",
+      "version": "2.2"
+    }
+  ]
+}

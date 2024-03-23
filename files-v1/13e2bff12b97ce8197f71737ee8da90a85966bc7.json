@@ -1,6 +1,12 @@
 {
   "name": "ToastManager-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 662724,
+      "fileId": 3953164
+    }
+  ],
   "forge": [
     {
       "modId": "\r\n\r\nToast Manager (Fabric only)\r\n\r\nIf you are seeing this error, you have tried to install Toast Manager on Forge.\r\nToast Manager only supports the Fabric modloader.  Instead try Toast Manager, which supports Forge.\r\n\r\n\r\n",

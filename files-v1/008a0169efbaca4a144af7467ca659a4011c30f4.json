@@ -1,6 +1,12 @@
 {
   "name": "create-fabric-0.5.1-f-build.1335+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xbc0uyRg",
+      "versionId": "A8R3Be5A"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 624165,
@@ -10,6 +16,18 @@
   "forge": [
     {
       "modId": "create-fabric-0.5.1-f-build.1335+mc1.20.1",
+      "version": ""
+    },
+    {
+      "modId": "Create Fabric 0.5.1 build 1335",
+      "version": ""
+    },
+    {
+      "modId": "create-fabric-0.5.1-f-build.1335-mc1.20.1",
+      "version": ""
+    },
+    {
+      "modId": "create-fabric-0.5.1-f-build.1335+mc1.20.1.jar.disabled",
       "version": ""
     }
   ],

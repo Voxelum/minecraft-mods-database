@@ -1,0 +1,20 @@
+{
+  "name": "blockmeter-1.8-HEAD.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oGU9LXKC",
+      "versionId": "44UvyHZl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockmeter",
+      "version": "1.8"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.0.94"
+    }
+  ]
+}

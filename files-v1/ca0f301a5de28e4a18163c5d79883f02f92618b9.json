@@ -1,0 +1,20 @@
+{
+  "name": "CyanSetHome-0.1.5+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9auOqb3o",
+      "versionId": "XxXvJPNQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cyansh",
+      "version": "0.1.5+1.20.4"
+    },
+    {
+      "modId": "cyanlib",
+      "version": "0.4.2+1.20.4"
+    }
+  ]
+}

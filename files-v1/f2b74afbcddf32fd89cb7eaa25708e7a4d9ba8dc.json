@@ -1,6 +1,12 @@
 {
   "name": "profundis-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aucz7XCt",
+      "versionId": "PyaRCgYQ"
+    }
+  ],
   "fabric": [
     {
       "modId": "profundis",

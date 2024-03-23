@@ -1,0 +1,14 @@
+{
+  "name": "qualitysounds-1.0.0-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "qualitysounds",
+      "version": "1.0.0-1.19.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.1.104"
+    }
+  ]
+}

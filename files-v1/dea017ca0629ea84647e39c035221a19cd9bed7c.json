@@ -1,6 +1,12 @@
 {
   "name": "CapeJS-1.0.0-1.19.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 911145,
+      "fileId": 4743409
+    }
+  ],
   "fabric": [
     {
       "modId": "capejs",

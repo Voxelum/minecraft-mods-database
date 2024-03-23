@@ -1,0 +1,16 @@
+{
+  "name": "stonecobbling-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_stonecobbling",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_stonecobbling",
+      "version": "1"
+    }
+  ]
+}

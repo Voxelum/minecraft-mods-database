@@ -1,0 +1,24 @@
+{
+  "name": "tweakermore-mc1.20.4-v3.17.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GBeCx05I",
+      "versionId": "PjDnwVEc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tweakermore",
+      "version": "3.17.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

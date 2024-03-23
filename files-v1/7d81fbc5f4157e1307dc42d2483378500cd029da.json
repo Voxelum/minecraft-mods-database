@@ -1,0 +1,14 @@
+{
+  "name": "Chromatic-1.1.0.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chromatic",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "org_jglr_jchroma_jchroma_",
+      "version": "0.1"
+    }
+  ]
+}

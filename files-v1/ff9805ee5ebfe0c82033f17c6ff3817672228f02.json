@@ -1,0 +1,10 @@
+{
+  "name": "disable-elytra-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "disableelytra",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "dynamic-fps-3.4.2+minecraft-1.16.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "r8rpH64x"
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamic_fps",

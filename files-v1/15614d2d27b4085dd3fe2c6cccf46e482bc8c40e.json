@@ -1,6 +1,12 @@
 {
   "name": "tooltip-scroll-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wySVd6d8",
+      "versionId": "kfDo2ktt"
+    }
+  ],
   "fabric": [
     {
       "modId": "tooltipscroll",

@@ -1,0 +1,24 @@
+{
+  "name": "NetherCoords v2.0.0 for 1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KHwGUCPn",
+      "versionId": "LNqfOOtT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nether-coords",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.6.1"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.4.2"
+    }
+  ]
+}

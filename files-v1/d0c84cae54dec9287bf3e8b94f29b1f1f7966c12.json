@@ -1,6 +1,12 @@
 {
   "name": "archbows-1.1.9-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "64a2C8ie",
+      "versionId": "oaWo8oBL"
+    }
+  ],
   "forge": [
     {
       "modId": "archbows",

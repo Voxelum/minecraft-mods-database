@@ -1,0 +1,14 @@
+{
+  "name": "spark-1.9.36-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spark",
+      "version": "1.9.36"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

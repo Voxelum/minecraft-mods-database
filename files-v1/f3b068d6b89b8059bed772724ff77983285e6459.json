@@ -1,0 +1,14 @@
+{
+  "name": "black-powder-1.16.5-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "black-powder",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "multi_item_lib",
+      "version": "1.3.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lockdown-1.12.1-7.0.1-universal.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lockdown",
+      "version": "${mod_version}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "mssw-fabric-2.4.0+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bdBzXqbS",
+      "versionId": "KFoS6drW"
+    }
+  ],
   "fabric": [
     {
       "modId": "more_slabs_stairs_and_walls",

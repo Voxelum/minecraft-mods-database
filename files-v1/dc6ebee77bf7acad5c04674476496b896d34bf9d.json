@@ -1,0 +1,16 @@
+{
+  "name": "mine-treasure-1.2.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mine_treasure_mr",
+      "version": "1.2.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mine_treasure_mr",
+      "version": "1.2.7"
+    }
+  ]
+}

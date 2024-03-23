@@ -1,0 +1,22 @@
+{
+  "name": "hybrid-beta-0.10.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jmx5kJiS",
+      "versionId": "uu3b0cET"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hybrid_beta_mr",
+      "version": "0.10.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hybrid_beta_mr",
+      "version": "0.10.1"
+    }
+  ]
+}

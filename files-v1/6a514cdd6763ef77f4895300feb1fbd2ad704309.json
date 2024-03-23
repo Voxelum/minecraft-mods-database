@@ -1,6 +1,12 @@
 {
   "name": "polytone-1.20.4-1.14.6-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "p4Tx9dRW"
+    }
+  ],
   "fabric": [
     {
       "modId": "polytone",

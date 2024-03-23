@@ -1,6 +1,12 @@
 {
   "name": "things-0.3.4+1.20.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VzAGdu9D",
+      "versionId": "FjkRTLT9"
+    }
+  ],
   "fabric": [
     {
       "modId": "things",

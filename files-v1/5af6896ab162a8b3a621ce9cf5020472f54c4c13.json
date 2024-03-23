@@ -1,6 +1,12 @@
 {
   "name": "skykid-0.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cQwz6Ez4",
+      "versionId": "7UFqlujH"
+    }
+  ],
   "fabric": [
     {
       "modId": "skykid",

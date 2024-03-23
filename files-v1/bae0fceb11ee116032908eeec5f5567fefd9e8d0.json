@@ -1,0 +1,16 @@
+{
+  "name": "u_team_core-fabric-1.20.4-5.3.0.272.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "uteamcore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uteamcore",
+      "version": "5.3.0.272"
+    }
+  ]
+}

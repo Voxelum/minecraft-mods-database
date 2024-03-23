@@ -1,0 +1,14 @@
+{
+  "name": "bleachhack-0_15_2-1_16_5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bleachhack",
+      "version": "1.16.5"
+    },
+    {
+      "modId": "com_github_vatuu_discord-rpc",
+      "version": "1.6.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "noHurtCam-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oxuLaIL0",
+      "versionId": "LJM71CBC"
+    }
+  ],
   "fabric": [
     {
       "modId": "nohurtcam",

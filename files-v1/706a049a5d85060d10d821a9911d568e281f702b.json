@@ -1,0 +1,30 @@
+{
+  "name": "Steam_Rails-1.5.3+fabric-mc1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 5169738
+    }
+  ],
+  "forge": [
+    {
+      "modId": "railways",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.5.3+fabric-mc1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

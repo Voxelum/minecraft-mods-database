@@ -1,6 +1,12 @@
 {
   "name": "eso-forge-1.20.1-1.1.1-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CxaV51ez",
+      "versionId": "T9aKDlLH"
+    }
+  ],
   "forge": [
     {
       "modId": "enchanting_system_overhaul",

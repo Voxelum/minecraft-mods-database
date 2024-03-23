@@ -1,6 +1,12 @@
 {
   "name": "morediscs-1.20.2-32-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pXYChc1a",
+      "versionId": "3RCaXU3R"
+    }
+  ],
   "fabric": [
     {
       "modId": "morediscs",

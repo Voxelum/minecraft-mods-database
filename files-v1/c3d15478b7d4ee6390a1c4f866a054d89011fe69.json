@@ -1,0 +1,14 @@
+{
+  "name": "FoggyBorder-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "foggyborder",
+      "version": "1.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

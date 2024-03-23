@@ -1,0 +1,24 @@
+{
+  "name": "liberty-villagers-mod-1.0.14+fabric+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "264clomZ",
+      "versionId": "iNmM5SVi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libertyvillagers",
+      "version": "1.0.14+fabric+1.20.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    }
+  ]
+}

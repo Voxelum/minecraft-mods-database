@@ -1,6 +1,12 @@
 {
   "name": "auto_crouch-mc1.20.4-1.0.1-build.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OcVQsnUW",
+      "versionId": "l4uZTQCQ"
+    }
+  ],
   "forge": [
     {
       "modId": "auto_crouch",

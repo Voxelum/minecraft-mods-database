@@ -1,0 +1,14 @@
+{
+  "name": "azurelib-fabric-1.19.4-1.0.12.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "azurelib",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

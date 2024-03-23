@@ -1,6 +1,12 @@
 {
   "name": "pettable-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PFVwk20g",
+      "versionId": "PXgMRzTt"
+    }
+  ],
   "fabric": [
     {
       "modId": "pettable",

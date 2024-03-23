@@ -1,0 +1,18 @@
+{
+  "name": "moreculling-1.19.1-0.12.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "1.19.1-0.12.4"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.74"
+    }
+  ]
+}

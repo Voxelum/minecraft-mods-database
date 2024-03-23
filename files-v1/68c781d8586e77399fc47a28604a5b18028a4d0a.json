@@ -1,6 +1,12 @@
 {
   "name": "lavender-0.1.4+1.20.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D5h9NKNI",
+      "versionId": "avEynasE"
+    }
+  ],
   "fabric": [
     {
       "modId": "lavender",

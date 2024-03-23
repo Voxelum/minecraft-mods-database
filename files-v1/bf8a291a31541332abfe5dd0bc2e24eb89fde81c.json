@@ -1,6 +1,12 @@
 {
   "name": "freecam-modrinth-1.1.6+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XeEZ3fK2",
+      "versionId": "yjLgFQ4M"
+    }
+  ],
   "fabric": [
     {
       "modId": "freecam",

@@ -1,6 +1,12 @@
 {
   "name": "liolib-forge-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 973100,
+      "fileId": 5104922
+    }
+  ],
   "forge": [
     {
       "modId": "liolib",

@@ -1,6 +1,12 @@
 {
   "name": "walksy-shield-fixes-1.20x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c9Zx84fF",
+      "versionId": "MBm7D64R"
+    }
+  ],
   "fabric": [
     {
       "modId": "shieldfixes",

@@ -1,0 +1,14 @@
+{
+  "name": "blackhole-1.0.1+1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blackhole",
+      "version": "1.0.1+1.16.5"
+    },
+    {
+      "modId": "myron",
+      "version": "1.5.1"
+    }
+  ]
+}

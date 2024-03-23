@@ -1,0 +1,38 @@
+{
+  "name": "gobber2-fabric_1.16.5-2.3.79.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gobber2",
+      "version": "2.3.79"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta32-1.16"
+    },
+    {
+      "modId": "pugh_lib",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "2.8.2"
+    }
+  ]
+}

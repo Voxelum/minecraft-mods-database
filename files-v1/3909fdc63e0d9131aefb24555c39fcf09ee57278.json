@@ -1,0 +1,22 @@
+{
+  "name": "weaponleveling-1.18.2-2.1.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IuFgFiGE",
+      "versionId": "rSpOXJPM"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "0.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weaponleveling",
+      "version": "1.18.2-2.1.1"
+    }
+  ]
+}

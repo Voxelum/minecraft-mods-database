@@ -1,6 +1,12 @@
 {
   "name": "cammies-minecart-tweaks-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D2gIe1ZY",
+      "versionId": "Ib2ALthv"
+    }
+  ],
   "fabric": [
     {
       "modId": "minecarttweaks",

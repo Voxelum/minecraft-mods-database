@@ -1,6 +1,12 @@
 {
   "name": "wherearemytms-2.1.1+1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vFNJtZsv",
+      "versionId": "rP3lr6Bd"
+    }
+  ],
   "fabric": [
     {
       "modId": "wherearemytms",

@@ -1,6 +1,12 @@
 {
   "name": "pandalib-0.1-fabric-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mEEGbEIu",
+      "versionId": "PhYESCw9"
+    }
+  ],
   "fabric": [
     {
       "modId": "pandalib",

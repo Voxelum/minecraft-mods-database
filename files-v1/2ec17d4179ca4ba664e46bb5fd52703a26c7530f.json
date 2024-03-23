@@ -1,6 +1,12 @@
 {
   "name": "ZombieHorseSpawn.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "owDBGfRd",
+      "versionId": "yjCyCCkN"
+    }
+  ],
   "forge": [
     {
       "modId": "zombiehorsespawn",

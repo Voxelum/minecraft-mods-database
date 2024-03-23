@@ -1,6 +1,12 @@
 {
   "name": "YouDied-1.20-3.0.0.17-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QgxY6tZf",
+      "versionId": "TZY9CbPg"
+    }
+  ],
   "fabric": [
     {
       "modId": "you_died",
