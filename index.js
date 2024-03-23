@@ -46,6 +46,7 @@ async function main() {
           const { name, sha1, domain, modrinth, curseforge, forge, fabric } =
             e.Properties;
           const localFile = `./files-v1/${sha1}.json`;
+          if (!sha1) continue;
           const localContent = await fs
             .readFile(localFile, "utf-8")
             .then(JSON.parse)

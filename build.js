@@ -80,19 +80,19 @@ for (let i = 0; i < entries.length; ++i) {
   write32BitsIntegersToUint8Array(curseforge, buffer.slice(i * 12 + 8, i * 12 + 12))
 }
 
-const writeBase58ToUint8Array = (base58Input, buffer) => {
+function writeBase58ToUint8Array (base58Input, buffer) {
   // base58 input's length is 8
-  const alphabet = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+  const alphabet = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
   for (let i = 0; i < 8; i++) {
     const value = alphabet.indexOf(base58Input[i])
     if (value === -1) {
-      throw new Error('Invalid base58 input')
+      throw new Error('Invalid base58 input ' + base58Input + ' at ' + i + 'th position' + ' value: ' + base58Input[i] + ' is not in the alphabet')
     }
     buffer[i] = value
   }
 }
 
-const write32BitsIntegersToUint8Array = (input, buffer) => {
+function write32BitsIntegersToUint8Array (input, buffer) {
   for (let i = 0; i < 4; i++) {
     buffer[i] = (input >> (i * 8)) & 0xff
   }
