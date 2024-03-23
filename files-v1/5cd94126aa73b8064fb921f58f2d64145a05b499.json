@@ -1,6 +1,12 @@
 {
   "name": "woot-1.16.5-1.0.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244049,
+      "fileId": 3383734
+    }
+  ],
   "forge": [
     {
       "modId": "woot",

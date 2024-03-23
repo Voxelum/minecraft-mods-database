@@ -1,0 +1,10 @@
+{
+  "name": "[不冲突] not-mutually-exlusive-forge-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nme",
+      "version": "1.19.2"
+    }
+  ]
+}

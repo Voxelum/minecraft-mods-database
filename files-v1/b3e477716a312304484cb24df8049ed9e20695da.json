@@ -1,6 +1,12 @@
 {
   "name": "bobby-4.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M08ruV16",
+      "versionId": "f3RZXi7U"
+    }
+  ],
   "fabric": [
     {
       "modId": "bobby",

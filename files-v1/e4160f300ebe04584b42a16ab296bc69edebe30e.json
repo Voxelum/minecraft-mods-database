@@ -1,6 +1,12 @@
 {
   "name": "special-mobs-v9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TWv3uKXX",
+      "versionId": "lA0BYUnV"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_special_mobs",

@@ -1,6 +1,12 @@
 {
   "name": "betteraddserver-1.0.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s4DtR8IM",
+      "versionId": "O4Hl3eA5"
+    }
+  ],
   "fabric": [
     {
       "modId": "betteraddserver",

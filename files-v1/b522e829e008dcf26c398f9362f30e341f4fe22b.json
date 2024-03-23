@@ -1,0 +1,14 @@
+{
+  "name": "DiagonalWalls-v20.4.0-1.20.4-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diagonalwalls",
+      "version": "20.4.0"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "20.4.2"
+    }
+  ]
+}

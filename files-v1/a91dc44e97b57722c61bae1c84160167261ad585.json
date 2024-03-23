@@ -1,6 +1,12 @@
 {
   "name": "botarium-forge-1.20.4-3.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u6LRnMa",
+      "versionId": "eR9yLHBR"
+    }
+  ],
   "forge": [
     {
       "modId": "botarium",

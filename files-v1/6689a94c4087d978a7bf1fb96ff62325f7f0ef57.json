@@ -1,6 +1,12 @@
 {
   "name": "TierTagger-1.7.2+mc1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dpkYdLu5",
+      "versionId": "zGNgPvFI"
+    }
+  ],
   "fabric": [
     {
       "modId": "tier-tagger",

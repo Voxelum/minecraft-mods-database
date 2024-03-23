@@ -1,6 +1,12 @@
 {
   "name": "ServerAddressSpaceFix-0.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NJGSUuLp",
+      "versionId": "SW63YTVs"
+    }
+  ],
   "fabric": [
     {
       "modId": "twd-sasf",

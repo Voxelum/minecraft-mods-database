@@ -1,6 +1,12 @@
 {
   "name": "tardis.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 290247,
+      "fileId": 2903453
+    }
+  ],
   "forge": [
     {
       "modId": "tardis",

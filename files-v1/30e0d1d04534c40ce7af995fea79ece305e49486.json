@@ -1,0 +1,14 @@
+{
+  "name": "VoicesOfWynn-MC.1.20.2-v1.7.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wynnvp",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.0.0+1.20.2"
+    }
+  ]
+}

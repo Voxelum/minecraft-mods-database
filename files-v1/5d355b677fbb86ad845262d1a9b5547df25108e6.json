@@ -1,6 +1,12 @@
 {
   "name": "plushie-mod-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hsOK0gUP",
+      "versionId": "vtGxmITE"
+    }
+  ],
   "fabric": [
     {
       "modId": "plushies",

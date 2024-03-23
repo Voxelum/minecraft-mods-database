@@ -1,0 +1,14 @@
+{
+  "name": "Essential Dependencies.jar.cc16f9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    }
+  ]
+}

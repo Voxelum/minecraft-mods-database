@@ -1,0 +1,14 @@
+{
+  "name": "randomblockplacement-1.19.1-fabric0.58.5-1.1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "randomblockplacement",
+      "version": "1.19.1-fabric0.58.5-1.1.4"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    }
+  ]
+}

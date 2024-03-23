@@ -1,0 +1,14 @@
+{
+  "name": "amethyst-gravity-reattracted-2.0.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "amethystgravity",
+      "version": "2.0.0+1.20.1"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.5.2+1.20.1-minus"
+    }
+  ]
+}

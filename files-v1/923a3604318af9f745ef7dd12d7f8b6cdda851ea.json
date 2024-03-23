@@ -1,0 +1,22 @@
+{
+  "name": "walper-addon-0.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walper-addon",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "org_luaj_luaj-jse",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "com_github_labystudio_java-spotify-api",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "renderer",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "packmger-fabric-1.20.1-v0.1.0-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnXXblTR",
+      "versionId": "7aWOB8rc"
+    }
+  ],
   "fabric": [
     {
       "modId": "packmger",

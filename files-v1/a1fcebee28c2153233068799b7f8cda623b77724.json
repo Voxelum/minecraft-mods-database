@@ -1,0 +1,14 @@
+{
+  "name": "cit-1.0.0+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "citresewn",
+      "version": "1.0.0+1.20.4"
+    },
+    {
+      "modId": "citresewn-defaults",
+      "version": "1.0.0+1.20.4"
+    }
+  ]
+}

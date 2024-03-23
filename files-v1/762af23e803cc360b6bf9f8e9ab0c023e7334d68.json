@@ -1,6 +1,12 @@
 {
   "name": "libjf-3.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKwQAwke",
+      "versionId": "iCk0kj45"
+    }
+  ],
   "fabric": [
     {
       "modId": "libjf",

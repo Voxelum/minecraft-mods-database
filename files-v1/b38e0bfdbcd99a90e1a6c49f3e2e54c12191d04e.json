@@ -1,0 +1,22 @@
+{
+  "name": "player-search-1.0.0+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "player-search",
+      "version": "1.0.0+1.20"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "com_googlecode_json-simple_json-simple",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "com_konghq_unirest-java_standalone",
+      "version": "3.11.09"
+    }
+  ]
+}

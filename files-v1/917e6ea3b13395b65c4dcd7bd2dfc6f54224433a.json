@@ -1,6 +1,12 @@
 {
   "name": "Cobbreeding-fabric-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ItmVb4zY",
+      "versionId": "GWzVjxWa"
+    }
+  ],
   "fabric": [
     {
       "modId": "cobbreeding",

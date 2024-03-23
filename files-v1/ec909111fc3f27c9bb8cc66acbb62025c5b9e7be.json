@@ -1,0 +1,14 @@
+{
+  "name": "imbued_gear-0.3.4+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "imbued_gear",
+      "version": "0.3.4+1.20.1"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.7.0"
+    }
+  ]
+}

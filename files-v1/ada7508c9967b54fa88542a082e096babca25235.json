@@ -1,6 +1,12 @@
 {
   "name": "ridingmousefix-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kwS02byl",
+      "versionId": "IocX87m3"
+    }
+  ],
   "fabric": [
     {
       "modId": "ridingmousefix",

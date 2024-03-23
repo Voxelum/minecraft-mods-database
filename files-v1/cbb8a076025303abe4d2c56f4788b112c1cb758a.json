@@ -1,6 +1,12 @@
 {
   "name": "villager-transportation-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vLUPqRLH",
+      "versionId": "bcmtgsIt"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_villager_transportation",

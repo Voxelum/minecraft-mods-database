@@ -1,0 +1,18 @@
+{
+  "name": "Essential Dependencies.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "elementa",
+      "version": "629"
+    },
+    {
+      "modId": "vigilance",
+      "version": "295"
+    }
+  ]
+}

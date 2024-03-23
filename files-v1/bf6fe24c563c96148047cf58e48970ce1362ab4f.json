@@ -1,0 +1,16 @@
+{
+  "name": "youritemsaresafe-1.20.1-4.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "youritemsaresafe",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "youritemsaresafe",
+      "version": "4.2"
+    }
+  ]
+}

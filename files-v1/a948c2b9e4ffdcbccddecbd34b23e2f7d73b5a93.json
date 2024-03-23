@@ -1,0 +1,22 @@
+{
+  "name": "superbsteeds-1.20-3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "superbsteeds",
+      "version": "1.20-3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

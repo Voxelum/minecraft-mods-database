@@ -1,6 +1,12 @@
 {
   "name": "mod_sets-fabric-intermediary-1.3.7+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b313lC4Y",
+      "versionId": "xK0NuoxF"
+    }
+  ],
   "fabric": [
     {
       "modId": "mod_sets",

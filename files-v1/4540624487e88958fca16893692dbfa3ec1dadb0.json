@@ -1,0 +1,10 @@
+{
+  "name": "dragonfire-0.6.29-httyd.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "geckolib3",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

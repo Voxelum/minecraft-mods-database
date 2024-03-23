@@ -1,6 +1,12 @@
 {
   "name": "Eugene's Whistle 1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kdPyFGUG",
+      "versionId": "VktJxHjz"
+    }
+  ],
   "fabric": [
     {
       "modId": "eugenes_horse_whistle",

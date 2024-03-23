@@ -1,6 +1,12 @@
 {
   "name": "bedrockify-1.4.1+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "vcPnNfV8"
+    }
+  ],
   "fabric": [
     {
       "modId": "bedrockify",

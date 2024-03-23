@@ -1,0 +1,22 @@
+{
+  "name": "edf-remastered-4.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HQsBdHGd",
+      "versionId": "odonCDcA"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "edf_remastered_mr",
+      "version": "4.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "edf_remastered_mr",
+      "version": "4.1.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "wiretap-1.20.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q3tICGpu",
+      "versionId": "uTtVzTDf"
+    }
+  ],
   "fabric": [
     {
       "modId": "wiretap",

@@ -1,6 +1,12 @@
 {
   "name": "piseks-craftable-saddle-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PamPmbXh",
+      "versionId": "sZpA6Rei"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_piseks_craftablesaddle",

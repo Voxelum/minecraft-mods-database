@@ -1,6 +1,12 @@
 {
   "name": "toolleveling-fabric-1.19.2-1.4.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565322,
+      "fileId": 4018721
+    }
+  ],
   "fabric": [
     {
       "modId": "toolleveling",

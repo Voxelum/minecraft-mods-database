@@ -1,0 +1,16 @@
+{
+  "name": "car-traffic-generator-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "car_trafficgenerator_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "car_trafficgenerator_mr",
+      "version": "1.0"
+    }
+  ]
+}

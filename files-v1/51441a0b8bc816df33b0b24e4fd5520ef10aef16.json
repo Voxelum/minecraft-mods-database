@@ -1,6 +1,12 @@
 {
   "name": "recipebookispain.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "etNS9OnA",
+      "versionId": "VUF1fC4K"
+    }
+  ],
   "fabric": [
     {
       "modId": "recipe-book-is-pain",

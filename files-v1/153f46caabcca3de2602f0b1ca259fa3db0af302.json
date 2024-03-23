@@ -1,0 +1,20 @@
+{
+  "name": "ait-1.0.4-1.20.1-release.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZMP9ZjB9",
+      "versionId": "3H0Pm1Jl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ait",
+      "version": "1.0.4-1.20.1-release"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    }
+  ]
+}

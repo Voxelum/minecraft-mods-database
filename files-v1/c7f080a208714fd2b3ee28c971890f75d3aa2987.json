@@ -1,0 +1,16 @@
+{
+  "name": "cliffs-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_cliffs",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_cliffs",
+      "version": "1.0"
+    }
+  ]
+}

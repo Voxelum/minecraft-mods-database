@@ -1,0 +1,16 @@
+{
+  "name": "hiddenrecipebook-1.19.2-4.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hiddenrecipebook",
+      "version": "4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hiddenrecipebook",
+      "version": "4.0"
+    }
+  ]
+}

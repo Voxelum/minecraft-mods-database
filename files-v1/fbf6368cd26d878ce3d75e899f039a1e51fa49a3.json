@@ -1,6 +1,12 @@
 {
   "name": "entityculling-forge-mc1.18-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "mlP64Wt9"
+    }
+  ],
   "forge": [
     {
       "modId": "entityculling",

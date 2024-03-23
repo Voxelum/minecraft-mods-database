@@ -1,0 +1,18 @@
+{
+  "name": "packet-logger-1.6.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "packetlogger",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.10.3+1.19.4"
+    }
+  ]
+}

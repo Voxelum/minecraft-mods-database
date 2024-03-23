@@ -1,6 +1,12 @@
 {
   "name": "fabric-quarry-1.19.2-1.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 511254,
+      "fileId": 4167321
+    }
+  ],
   "fabric": [
     {
       "modId": "quarrymod",

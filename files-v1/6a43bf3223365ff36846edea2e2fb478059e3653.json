@@ -1,0 +1,52 @@
+{
+  "name": "terramine-1.7.0+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WbwMfRsz",
+      "versionId": "x2ItCCOf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terramine",
+      "version": "1.7.0+1.18.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "expandability",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.4.2+1.18.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

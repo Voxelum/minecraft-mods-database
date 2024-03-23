@@ -1,0 +1,16 @@
+{
+  "name": "magicvibedecorations-HALLOWEEN 1.8.0 1.19.2 forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "magic_vibe_decorations",
+      "version": "1.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magic_vibe_decorations",
+      "version": "1.7.0"
+    }
+  ]
+}

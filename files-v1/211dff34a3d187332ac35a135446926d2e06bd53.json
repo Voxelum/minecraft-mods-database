@@ -1,6 +1,12 @@
 {
   "name": "brb-1.10.0+1.20.0-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vWIaVOTE",
+      "versionId": "YTf1OYmI"
+    }
+  ],
   "forge": [
     {
       "modId": "brb",

@@ -1,6 +1,12 @@
 {
   "name": "YungsBetterMineshafts-1.20-Fabric-4.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HjmxVlSr",
+      "versionId": "McprBxTA"
+    }
+  ],
   "fabric": [
     {
       "modId": "bettermineshafts",

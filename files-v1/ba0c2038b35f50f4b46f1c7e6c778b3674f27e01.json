@@ -1,0 +1,10 @@
+{
+  "name": "waypoint-mod-1.0.0-full.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "waypoint-mod",
+      "version": "1.0"
+    }
+  ]
+}

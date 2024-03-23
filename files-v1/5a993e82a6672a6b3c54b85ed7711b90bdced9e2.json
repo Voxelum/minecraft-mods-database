@@ -1,0 +1,14 @@
+{
+  "name": "chatwalk-1.0.2.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chatwalk",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

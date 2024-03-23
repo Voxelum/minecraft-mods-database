@@ -1,0 +1,14 @@
+{
+  "name": "SolarPanels-1.0.0+1.20-1.20.1.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "solar_panels",
+      "version": "1.0.0+1.20-1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

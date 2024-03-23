@@ -1,0 +1,26 @@
+{
+  "name": "WilderWild-2.0-Fabric+1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "2.0-Fabric+1.19.4"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.2.1-Fabric+1.19.4"
+    },
+    {
+      "modId": "brushextender",
+      "version": "1.0.0-Fabric+1.19.4-unstable"
+    },
+    {
+      "modId": "nbtcrafting",
+      "version": "2.2.3+mc1.19.4-pre1"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.0.0+1.17"
+    }
+  ]
+}

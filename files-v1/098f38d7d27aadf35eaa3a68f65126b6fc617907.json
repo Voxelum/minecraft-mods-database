@@ -1,0 +1,28 @@
+{
+  "name": "zume-0.17.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o6qsdrrQ",
+      "versionId": "RasOoR0k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927564,
+      "fileId": 5180895
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zume",
+      "version": "0.17.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zume",
+      "version": "0.17.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fastload+1.19.4-2.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fastload",
+      "version": "2.7"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    }
+  ]
+}

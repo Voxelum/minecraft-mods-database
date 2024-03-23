@@ -1,6 +1,12 @@
 {
   "name": "guarding-2.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aV1COQ7a",
+      "versionId": "zz7EL9j5"
+    }
+  ],
   "fabric": [
     {
       "modId": "guarding",

@@ -1,0 +1,34 @@
+{
+  "name": "particle-moths-1.0.1+1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "particlemoths",
+      "version": "1.0.1+1.19"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a395"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.1.0+33fbc73895"
+    },
+    {
+      "modId": "fabric-particles-v1",
+      "version": "1.0.8+dc39553a95"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "0.9.21+23c4cfef95"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.1+3082331495"
+    },
+    {
+      "modId": "cactusconfig",
+      "version": "1.2.2+1.19"
+    }
+  ]
+}

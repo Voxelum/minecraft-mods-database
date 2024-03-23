@@ -1,6 +1,12 @@
 {
   "name": "collective-1.19.3-6.55.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "w1vSb4TN"
+    }
+  ],
   "forge": [
     {
       "modId": "collective",

@@ -1,6 +1,12 @@
 {
   "name": "LavaClearView-1.20.1-fabric-7.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bvBMEY9d",
+      "versionId": "E3vChPsg"
+    }
+  ],
   "fabric": [
     {
       "modId": "clearview",

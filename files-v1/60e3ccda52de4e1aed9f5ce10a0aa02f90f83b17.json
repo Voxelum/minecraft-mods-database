@@ -1,6 +1,12 @@
 {
   "name": "vanilla-hammers-3.5.0-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317756,
+      "fileId": 4031460
+    }
+  ],
   "fabric": [
     {
       "modId": "vanilla-hammers",

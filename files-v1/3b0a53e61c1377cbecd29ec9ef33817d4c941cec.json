@@ -1,6 +1,12 @@
 {
   "name": "Nitor-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AqVfGqcr",
+      "versionId": "6OpsOOkT"
+    }
+  ],
   "fabric": [
     {
       "modId": "nitormod",

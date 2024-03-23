@@ -1,0 +1,26 @@
+{
+  "name": "sliceanddice-fabric-3.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GmjmRQ0A",
+      "versionId": "ZgvbijiO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sliceanddice",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sliceanddice",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

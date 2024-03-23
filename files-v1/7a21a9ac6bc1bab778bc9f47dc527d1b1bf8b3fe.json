@@ -1,0 +1,18 @@
+{
+  "name": "slime-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "slime",
+      "version": "1.1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.0-rc.3+1.20"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "litematica-printer-all-2.4 20240226.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "litematica-printer",
+      "version": "2.4+20240226"
+    },
+    {
+      "modId": "litematica-printer-1_18_2",
+      "version": "2.4+20240226"
+    },
+    {
+      "modId": "litematica-printer-1_19_4",
+      "version": "2.4+20240226"
+    },
+    {
+      "modId": "litematica-printer-1_20_1",
+      "version": "2.4+20240226"
+    },
+    {
+      "modId": "litematica-printer-1_20_2",
+      "version": "2.4+20240226"
+    },
+    {
+      "modId": "litematica-printer-1_20_4",
+      "version": "2.4+20240226"
+    }
+  ]
+}

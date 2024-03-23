@@ -1,6 +1,18 @@
 {
   "name": "environmentalmaterials-1.12.2-1.0.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OvTbUzJG",
+      "versionId": "4eLLpzP8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 278825,
+      "fileId": 2691535
+    }
+  ],
   "forge": [
     {
       "modId": "environmentalmaterials",

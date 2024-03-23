@@ -1,0 +1,20 @@
+{
+  "name": "YungsExtras-1.20-Fabric-4.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZYgyPyfq",
+      "versionId": "jDmHcs7q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yungsextras",
+      "version": "1.20-Fabric-4.0.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

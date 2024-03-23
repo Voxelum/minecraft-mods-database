@@ -1,0 +1,16 @@
+{
+  "name": "bottledair-1.20.1-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bottledair",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bottledair",
+      "version": "2.1"
+    }
+  ]
+}

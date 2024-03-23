@@ -1,0 +1,68 @@
+{
+  "name": "megane-fabric-19.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408118,
+      "fileId": 5174180
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "megane",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-alloy-forgery",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-applied-energistics-2",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-create",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-deep-mob-learning-simulacrum",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-extra-generators",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-industrial-revolution",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-kibe",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-luggage",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-modern-dynamics",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-powah",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-reborn-core",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-tech-reborn",
+      "version": "19.2.2"
+    },
+    {
+      "modId": "megane-wireless-networks",
+      "version": "19.2.2"
+    }
+  ]
+}

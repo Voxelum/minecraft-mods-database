@@ -1,0 +1,24 @@
+{
+  "name": "optigui-2.3.0-alpha.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JuksLGBQ",
+      "versionId": "cGrREnKA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optigui",
+      "version": "2.3.0-alpha.2"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.11.0"
+    },
+    {
+      "modId": "org_ini4j_ini4j",
+      "version": "0.5.4"
+    }
+  ]
+}

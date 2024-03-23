@@ -1,6 +1,12 @@
 {
   "name": "movingelevators-1.4.5-fabric-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9KZOe6HD",
+      "versionId": "60Au29eq"
+    }
+  ],
   "fabric": [
     {
       "modId": "movingelevators",

@@ -1,0 +1,16 @@
+{
+  "name": "justmobheads-1.19.2-7.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "justmobheads",
+      "version": "7.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "justmobheads",
+      "version": "7.6"
+    }
+  ]
+}

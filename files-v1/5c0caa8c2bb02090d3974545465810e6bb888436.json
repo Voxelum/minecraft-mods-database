@@ -1,0 +1,22 @@
+{
+  "name": "mod_sets-fabric-intermediary-1.2.2+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mod_sets",
+      "version": "1.2.2+1.19.2"
+    },
+    {
+      "modId": "modsets_common_",
+      "version": "1.2.2+1.19.2"
+    },
+    {
+      "modId": "kinecraft_serialization",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "settingdust_modsets_common_game_game",
+      "version": "1.2.2+1.19.2"
+    }
+  ]
+}

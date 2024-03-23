@@ -1,0 +1,20 @@
+{
+  "name": "enhancermod-1.4.1.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VoW4Rmxx",
+      "versionId": "62f6ub6n"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancermod",
+      "version": "1.4.1.1-1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

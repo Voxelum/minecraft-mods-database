@@ -1,0 +1,26 @@
+{
+  "name": "advanced-hud-fabric-2.0.7+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "advancedhud",
+      "version": "2.0.7+1.20.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.36+78d798af4f"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.41+78d798af4f"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.0+a67ffb5d4f"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

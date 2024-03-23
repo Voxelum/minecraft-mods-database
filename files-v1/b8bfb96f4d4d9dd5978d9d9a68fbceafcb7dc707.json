@@ -1,0 +1,24 @@
+{
+  "name": "Veinminer-2.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OhduvhIc",
+      "versionId": "tlozt8mH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "veinminer",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "de_miraculixx_core_",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

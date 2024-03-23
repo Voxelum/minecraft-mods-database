@@ -1,0 +1,24 @@
+{
+  "name": "XaeroPlus-2.1+fabric-1.20.1-WM1.37.8-MM23.9.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "F1PVMyTq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeroplus",
+      "version": "2.1"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.8"
+    },
+    {
+      "modId": "net_lenni0451_lambdaevents",
+      "version": "2.4.1"
+    }
+  ]
+}

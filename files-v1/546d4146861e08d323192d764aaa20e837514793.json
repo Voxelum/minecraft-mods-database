@@ -1,0 +1,14 @@
+{
+  "name": "mmode-fabric-1.19.4-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mmode",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-compress",
+      "version": "1.21"
+    }
+  ]
+}

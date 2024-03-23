@@ -1,0 +1,22 @@
+{
+  "name": "lan-extender-fabric-mc1.19-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lan_extender",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_alexdlaird_java-ngrok",
+      "version": "1.5.6"
+    },
+    {
+      "modId": "com_google_code_gson_gson",
+      "version": "2.9.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.30"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "arm-er-stands-0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_arm_erstands",
+      "version": "0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_arm_erstands",
+      "version": "0.1"
+    }
+  ]
+}

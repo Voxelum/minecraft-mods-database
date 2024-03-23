@@ -1,0 +1,16 @@
+{
+  "name": "useful-mobs-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_useful_mobs",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_useful_mobs",
+      "version": "2.2"
+    }
+  ]
+}

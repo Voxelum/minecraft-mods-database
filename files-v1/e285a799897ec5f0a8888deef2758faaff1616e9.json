@@ -1,0 +1,10 @@
+{
+  "name": "[额外玩家渲染] extraplayerrenderer-1.19.2-1.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extraplayerrenderer",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

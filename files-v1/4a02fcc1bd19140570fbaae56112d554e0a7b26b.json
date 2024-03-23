@@ -1,6 +1,12 @@
 {
   "name": "mastercutter-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DuUMFIfX",
+      "versionId": "Rrk1Nhoe"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_mastercutter",

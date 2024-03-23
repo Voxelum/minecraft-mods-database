@@ -1,6 +1,12 @@
 {
   "name": "totemcounter-1.2.4+mc1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T9R7YTnA",
+      "versionId": "GOBNuObS"
+    }
+  ],
   "fabric": [
     {
       "modId": "totemcounter",

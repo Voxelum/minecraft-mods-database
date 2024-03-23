@@ -1,6 +1,12 @@
 {
   "name": "SkeletonHorseSpawn.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZcqNoW8j",
+      "versionId": "WbrlBFBy"
+    }
+  ],
   "forge": [
     {
       "modId": "skeletonhorsespawn",

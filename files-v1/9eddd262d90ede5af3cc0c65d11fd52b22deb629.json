@@ -1,6 +1,12 @@
 {
   "name": "【泰拉魔镜】magicmirror-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1d2CrxHN",
+      "versionId": "hwcjoVWs"
+    }
+  ],
   "fabric": [
     {
       "modId": "magicmirror",

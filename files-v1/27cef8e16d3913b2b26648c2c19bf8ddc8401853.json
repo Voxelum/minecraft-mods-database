@@ -1,0 +1,36 @@
+{
+  "name": "PuzzlesLib-v4.4.2-1.19.2-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "4.4.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "basicweapons-fabric-mc1.20.4+1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc2Pektv",
+      "versionId": "zSdnkMN9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "basicweapons",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

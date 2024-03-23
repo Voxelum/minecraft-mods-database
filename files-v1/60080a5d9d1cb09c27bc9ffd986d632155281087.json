@@ -1,0 +1,10 @@
+{
+  "name": "psipherals-1.4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "psipherals",
+      "version": "${version}"
+    }
+  ]
+}

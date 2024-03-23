@@ -1,6 +1,12 @@
 {
   "name": "bettercombat-fabric-1.4.5+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "swcBOsdJ"
+    }
+  ],
   "fabric": [
     {
       "modId": "bettercombat",

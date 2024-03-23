@@ -1,6 +1,12 @@
 {
   "name": "topaddons-1.16.5-2.1.5-beta.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 247111,
+      "fileId": 3319050
+    }
+  ],
   "forge": [
     {
       "modId": "topaddons",

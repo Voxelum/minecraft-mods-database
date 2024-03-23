@@ -1,0 +1,14 @@
+{
+  "name": "lootboxes-0.1.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "loot_boxes",
+      "version": "0.1.9"
+    },
+    {
+      "modId": "interference",
+      "version": "1.7.0"
+    }
+  ]
+}

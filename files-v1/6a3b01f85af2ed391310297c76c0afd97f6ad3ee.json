@@ -1,0 +1,16 @@
+{
+  "name": "starterstructure-1.18.2-3.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "starterstructure",
+      "version": "3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterstructure",
+      "version": "3.2"
+    }
+  ]
+}

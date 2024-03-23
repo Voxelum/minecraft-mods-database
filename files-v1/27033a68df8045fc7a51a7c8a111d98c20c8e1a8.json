@@ -1,0 +1,14 @@
+{
+  "name": "StarrySkies-2.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "starry_skies",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

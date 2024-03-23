@@ -1,6 +1,12 @@
 {
   "name": "lanterns-belong-on-walls-1.6.11.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V1CFwy2A",
+      "versionId": "VYSqdYTO"
+    }
+  ],
   "fabric": [
     {
       "modId": "walllanterns",

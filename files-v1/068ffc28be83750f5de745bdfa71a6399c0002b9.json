@@ -1,0 +1,10 @@
+{
+  "name": "walkers-3.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walkers",
+      "version": "3.2"
+    }
+  ]
+}

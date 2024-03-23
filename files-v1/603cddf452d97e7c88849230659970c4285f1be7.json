@@ -1,0 +1,14 @@
+{
+  "name": "Variety_Aquatic-1.0.4.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "varietyaquatic",
+      "version": "1.0.4.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

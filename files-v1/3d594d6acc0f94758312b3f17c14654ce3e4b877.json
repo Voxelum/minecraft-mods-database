@@ -1,6 +1,12 @@
 {
   "name": "betterendcitiesbetterend-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DlcfxdlN",
+      "versionId": "EtaLjbuT"
+    }
+  ],
   "fabric": [
     {
       "modId": "simplemod",

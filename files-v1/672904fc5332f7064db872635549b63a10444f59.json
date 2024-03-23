@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-fps-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "XlBOTUIQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamicfps",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

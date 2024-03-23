@@ -1,6 +1,12 @@
 {
   "name": "modonomicon-1.20.1-fabric-1.55.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "692GClaE",
+      "versionId": "D9ulxENr"
+    }
+  ],
   "fabric": [
     {
       "modId": "modonomicon",

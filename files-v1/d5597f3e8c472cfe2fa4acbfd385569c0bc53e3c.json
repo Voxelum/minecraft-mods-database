@@ -1,6 +1,12 @@
 {
   "name": "geocluster-1.2.5+1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 863819,
+      "fileId": 4695987
+    }
+  ],
   "fabric": [
     {
       "modId": "geocluster",

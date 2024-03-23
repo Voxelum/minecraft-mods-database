@@ -1,6 +1,12 @@
 {
   "name": "victus-0.1.15+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sy5mAKPK",
+      "versionId": "RIgShusc"
+    }
+  ],
   "fabric": [
     {
       "modId": "victus",

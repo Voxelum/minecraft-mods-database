@@ -1,6 +1,12 @@
 {
   "name": "villager-transportation-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vLUPqRLH",
+      "versionId": "NJIAGCmX"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_villager_transportation",

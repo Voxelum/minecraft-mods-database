@@ -1,6 +1,12 @@
 {
   "name": "omnihopper-2.2.3+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i2u9r3li",
+      "versionId": "EI0DXyMn"
+    }
+  ],
   "fabric": [
     {
       "modId": "omnihopper",

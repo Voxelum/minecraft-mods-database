@@ -1,6 +1,12 @@
 {
   "name": "whatsthatslot.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7b5VoITI",
+      "versionId": "DomkrNR2"
+    }
+  ],
   "fabric": [
     {
       "modId": "whats_that_slot",

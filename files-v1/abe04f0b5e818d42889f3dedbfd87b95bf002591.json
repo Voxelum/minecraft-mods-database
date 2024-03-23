@@ -1,6 +1,12 @@
 {
   "name": "chatpatches-194.4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MOqt4Z5n",
+      "versionId": "mjlFxkfG"
+    }
+  ],
   "fabric": [
     {
       "modId": "chatpatches",
