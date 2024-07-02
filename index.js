@@ -126,7 +126,7 @@ async function main() {
             runtime: parseIfExist(props.runtime),
             java: parseIfExist(props.java),
           };
-          for (const k of record.runtime) {
+          for (const k in record.runtime) {
             if (!record.runtime[k]) {
               delete record.runtime[k];
             }
