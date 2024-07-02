@@ -1,0 +1,16 @@
+{
+  "name": "eeemod-2.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "eeemod",
+      "version": "2.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eeemod",
+      "version": "2.3.0"
+    }
+  ]
+}

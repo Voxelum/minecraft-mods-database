@@ -1,6 +1,12 @@
 {
   "name": "restApi-0.9-1.20.1-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPg0PTH3",
+      "versionId": "se6geBFR"
+    }
+  ],
   "forge": [
     {
       "modId": "restapi",

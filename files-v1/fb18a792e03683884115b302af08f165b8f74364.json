@@ -1,6 +1,12 @@
 {
   "name": "clickadv-fabric-3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 511733,
+      "fileId": 4512732
+    }
+  ],
   "forge": [
     {
       "modId": "clickadv",

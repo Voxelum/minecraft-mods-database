@@ -1,6 +1,12 @@
 {
   "name": "[真实物理] physics-mod-2.12.3-mc-1.18.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 442735,
+      "fileId": 4500460
+    }
+  ],
   "forge": [
     {
       "modId": "physicsmod",

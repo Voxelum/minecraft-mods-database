@@ -1,0 +1,34 @@
+{
+  "name": "Controlify-2.0.0-beta.3+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOUdJVEm",
+      "versionId": "im0SBR8Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835847,
+      "fileId": 5262217
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "2.0.0-beta.3+1.20.4"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.693c75e-36"
+    },
+    {
+      "modId": "org_hid4java_hid4java",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "org_quiltmc_quilt-json5",
+      "version": "1.0.3"
+    }
+  ]
+}

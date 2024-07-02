@@ -1,0 +1,50 @@
+{
+  "name": "forgero-fabric-0.11.12+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "forgero",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-core",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-fabric-core",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-common",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-fabric-compat",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-vanilla",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-extended",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-compat",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-structures",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "forgero-generator",
+      "version": "0.11.12+1.20.1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.8.0"
+    }
+  ]
+}

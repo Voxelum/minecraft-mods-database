@@ -1,0 +1,16 @@
+{
+  "name": "kobold-outposts-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_kobold_outposts",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_kobold_outposts",
+      "version": "1.1"
+    }
+  ]
+}

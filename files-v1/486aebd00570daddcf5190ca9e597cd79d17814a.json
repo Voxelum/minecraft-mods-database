@@ -1,6 +1,12 @@
 {
   "name": "guiclock-fabric_1.16.5-3.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g1yXisD2",
+      "versionId": "HFuz7Os6"
+    }
+  ],
   "fabric": [
     {
       "modId": "guiclock-fabric",

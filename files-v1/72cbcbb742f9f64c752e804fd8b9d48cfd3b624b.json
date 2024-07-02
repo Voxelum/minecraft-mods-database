@@ -1,6 +1,12 @@
 {
   "name": "emi-1.0.2+1.19.2+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fRiHVvU7",
+      "versionId": "NUdGBKhA"
+    }
+  ],
   "fabric": [
     {
       "modId": "emi",

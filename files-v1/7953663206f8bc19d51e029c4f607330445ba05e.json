@@ -1,6 +1,12 @@
 {
   "name": "cloudstorage-1.3.4-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZiATPR3I",
+      "versionId": "oBl3wMLG"
+    }
+  ],
   "forge": [
     {
       "modId": "cloudstorage",

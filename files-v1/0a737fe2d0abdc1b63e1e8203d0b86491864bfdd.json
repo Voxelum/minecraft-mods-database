@@ -1,6 +1,12 @@
 {
   "name": "switchy-inventories-1.8.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZLlbzi9I",
+      "versionId": "QfOTVDPG"
+    }
+  ],
   "fabric": [
     {
       "modId": "switchy-inventories",

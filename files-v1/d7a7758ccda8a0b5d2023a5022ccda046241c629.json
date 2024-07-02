@@ -1,0 +1,14 @@
+{
+  "name": "utility-belt-fabric-2.0.1+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "utility_belt",
+      "version": "2.0.1+1.20.4"
+    },
+    {
+      "modId": "baubly",
+      "version": "1.0.0"
+    }
+  ]
+}

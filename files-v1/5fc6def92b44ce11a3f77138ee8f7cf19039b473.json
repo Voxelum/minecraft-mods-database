@@ -1,0 +1,16 @@
+{
+  "name": "fabric-seasons-2.3+1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "seasons",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasons",
+      "version": "2.3+1.20"
+    }
+  ]
+}

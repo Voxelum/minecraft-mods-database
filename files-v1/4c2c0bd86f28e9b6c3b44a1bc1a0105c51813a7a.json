@@ -1,6 +1,12 @@
 {
   "name": "servertick-mc1.20-1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nEKRNLz9",
+      "versionId": "IOYJbkmQ"
+    }
+  ],
   "fabric": [
     {
       "modId": "servertick",

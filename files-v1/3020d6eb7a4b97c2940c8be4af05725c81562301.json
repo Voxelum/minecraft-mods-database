@@ -1,0 +1,24 @@
+{
+  "name": "conjuring-0.2.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422310,
+      "fileId": 3329635
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conjuring",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.16.4-50-FABRIC"
+    },
+    {
+      "modId": "owo",
+      "version": "0.1"
+    }
+  ]
+}

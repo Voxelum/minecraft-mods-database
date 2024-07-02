@@ -1,0 +1,14 @@
+{
+  "name": "more-statistics-mc1.20-v2.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "more-statistics",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d27"
+    }
+  ]
+}

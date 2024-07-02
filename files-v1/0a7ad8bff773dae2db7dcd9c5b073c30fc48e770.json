@@ -1,0 +1,42 @@
+{
+  "name": "vanilla_disable-mc1.20.1-3.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanilla_disable",
+      "version": "3.0.5"
+    },
+    {
+      "modId": "fabric-game-rule-api-v1",
+      "version": "1.0.38+b04edc7a77"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da77"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "2.2.220"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.7"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

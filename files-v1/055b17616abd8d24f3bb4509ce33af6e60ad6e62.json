@@ -1,0 +1,20 @@
+{
+  "name": "TravelersTitles-1.20-Fabric-4.0.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "travelerstitles",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelerstitles",
+      "version": "1.20-Fabric-4.0.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

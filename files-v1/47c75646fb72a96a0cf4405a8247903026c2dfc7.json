@@ -1,6 +1,18 @@
 {
   "name": "extra-mod-integrations-0.4.3+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bpRHnWUb",
+      "versionId": "YSn9Of5z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 739970,
+      "fileId": 5187502
+    }
+  ],
   "fabric": [
     {
       "modId": "extra-mod-integrations",

@@ -1,0 +1,24 @@
+{
+  "name": "hexcasting-fabric-1.19.2-0.10.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nTW3yKrm",
+      "versionId": "ZkmiVNeh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexcasting",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

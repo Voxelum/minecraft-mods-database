@@ -1,0 +1,16 @@
+{
+  "name": "Stratagems-forge-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "helldivers",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "helldivers",
+      "version": "1.0.0"
+    }
+  ]
+}

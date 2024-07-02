@@ -1,0 +1,14 @@
+{
+  "name": "DynamicTextures-0.3.0+sha.4a78ef0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamic-textures",
+      "version": "0.3.0+sha.4a78ef0"
+    },
+    {
+      "modId": "net_pearx_kasechange_kasechange-jvm",
+      "version": "1.4.1"
+    }
+  ]
+}

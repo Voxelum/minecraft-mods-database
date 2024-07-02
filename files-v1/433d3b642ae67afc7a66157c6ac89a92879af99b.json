@@ -1,0 +1,50 @@
+{
+  "name": "refinedstorage2-platform-fabric-2.0.0-milestone.2.11.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "refinedstorage2",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "refinedstorage2-core-api",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "refinedstorage2-resource-api",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "refinedstorage2-storage-api",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "refinedstorage2-network-api",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "refinedstorage2-network",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "refinedstorage2-grid-api",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "com_refinedmods_refinedstorage2_refinedstorage2-query-parser_",
+      "version": "2.0.0-milestone.2.11"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.0.96"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    }
+  ]
+}

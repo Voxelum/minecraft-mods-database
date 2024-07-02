@@ -1,0 +1,16 @@
+{
+  "name": "better-end-4.0.11_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterend",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterend",
+      "version": "4.0.11"
+    }
+  ]
+}

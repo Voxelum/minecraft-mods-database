@@ -1,0 +1,26 @@
+{
+  "name": "watut-fabric-1.20.1-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtB5mHky",
+      "versionId": "nbHfJbTd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945479,
+      "fileId": 5267721
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watut",
+      "version": "1.20.1-1.1.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

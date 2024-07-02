@@ -1,0 +1,14 @@
+{
+  "name": "NetherChested-v20.4.1-1.20.4-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "netherchested",
+      "version": "20.4.1"
+    },
+    {
+      "modId": "limitlesscontainers",
+      "version": "20.4.0"
+    }
+  ]
+}

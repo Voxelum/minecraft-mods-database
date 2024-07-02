@@ -1,0 +1,16 @@
+{
+  "name": "profundis-1.6.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "profundis",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "profundis",
+      "version": "1.6.2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "emogg-2.0.1+1.20.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 960437,
+      "fileId": 5141795
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emogg",
+      "version": "2.0.1+1.20.2"
+    },
+    {
+      "modId": "suggestions-api",
+      "version": "1.0.6+1.20-1.20.4-fabric"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cardinal-components-api-5.2.2$cardinal-components-item-5.2.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cardinal_components_item",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.2.2"
+    }
+  ]
+}

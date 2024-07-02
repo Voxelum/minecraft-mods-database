@@ -1,0 +1,28 @@
+{
+  "name": "zume-0.19.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o6qsdrrQ",
+      "versionId": "LvQuKwiD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927564,
+      "fileId": 5319768
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zume",
+      "version": "0.19.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zume",
+      "version": "0.19.0"
+    }
+  ]
+}

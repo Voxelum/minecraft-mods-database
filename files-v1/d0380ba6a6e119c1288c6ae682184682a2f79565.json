@@ -1,0 +1,16 @@
+{
+  "name": "CroptopiaAdditions-1.20.1-FORGE-2.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "croptopia_additions",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "croptopia_additions",
+      "version": "2.0.0"
+    }
+  ]
+}

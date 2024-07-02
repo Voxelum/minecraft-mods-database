@@ -1,6 +1,12 @@
 {
   "name": "ClothConfigAPI-Forge-1.19.3-v9.0.94.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 348521,
+      "fileId": 4147099
+    }
+  ],
   "forge": [
     {
       "modId": "cloth_config",

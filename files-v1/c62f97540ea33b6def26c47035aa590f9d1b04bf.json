@@ -1,0 +1,14 @@
+{
+  "name": "MiningDimensions_Fabric-1.20.1-1.6.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mining_dims",
+      "version": "1.6.4"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "compactmachines-4.5.0a-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "carryon",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "compactmachines",
+      "version": "${version}"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "1.2.466-beta+1.18.2-dev.0251f31"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "2.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "4.1.4"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "mods": [
+    "4c38d7b01660a27a98406767c613b3f28b6c9dfe",
+    "4a0744beb2246d93cb475d21a5a53faa556956e0",
+    "898794f5fe7051ce2c58c3c32e34d785fec7761d",
+    "f2bbb773f4213d36201b76820f206e2a6f213c0c",
+    "5537a4592773739e7279f3685445a84af49fde56",
+    "8455acc09b1d23bd898663e12c65033cbc016eb3",
+    "5cdad24baaac7c254e07205aef6052946f4a5246",
+    "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e",
+    "9e20b9ac6a068615355905b7e10f60d64acd0ccc",
+    "fc237a3cdf7cff71e222db8e14fa6d4546e2d000",
+    "9cbb8f3401160ec4422630bbf930208a898fe320",
+    "1e5ad7a619ca72824e7196403aae44ebb0a2468e",
+    "e20f396a937a09b686aa986c802643b9adbb311e",
+    "2b373ab4657fa06682957fbe5bd15f14381e4353",
+    "3e01e37697c90971cf36f25dc281ba0f96ccae18"
+  ],
+  "runtime": {
+    "minecraft": "1.20.4",
+    "fabricLoader": "0.15.7",
+    "labyMod": "4.1.25"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.10"
+  }
+}

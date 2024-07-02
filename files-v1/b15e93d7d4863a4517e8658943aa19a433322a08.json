@@ -1,0 +1,14 @@
+{
+  "name": "votifier-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "votifier",
+      "version": "1.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.2.0+1.20.3-rc1"
+    }
+  ]
+}

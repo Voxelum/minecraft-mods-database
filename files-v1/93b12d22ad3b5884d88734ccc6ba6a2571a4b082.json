@@ -1,0 +1,34 @@
+{
+  "name": "guardvillagers-2.0.7-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "guardvillagers",
+      "version": "2.0.7-1.20.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.1.1070+1.20"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1070+1.20"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.1.1070+1.20"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.1.1070+1.20"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.1.1070+1.20"
+    }
+  ]
+}

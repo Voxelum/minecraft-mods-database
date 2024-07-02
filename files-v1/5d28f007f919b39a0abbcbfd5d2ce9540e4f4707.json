@@ -1,0 +1,16 @@
+{
+  "name": "strayspawn-1.19.2-3.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "strayspawn",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "strayspawn",
+      "version": "3.4"
+    }
+  ]
+}

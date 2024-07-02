@@ -1,0 +1,14 @@
+{
+  "name": "FlectoneMix FeyTweaks.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "feytweaks",
+      "version": "1.19.4-1.2.6"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.2.1"
+    }
+  ]
+}

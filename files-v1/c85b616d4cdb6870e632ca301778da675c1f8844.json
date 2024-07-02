@@ -1,0 +1,20 @@
+{
+  "name": "ranged_weapon_api-1.1.1+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ranged_weapon_api",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ranged_weapon_api",
+      "version": "1.1.1+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

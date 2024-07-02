@@ -1,0 +1,10 @@
+{
+  "name": "JAGS-1.0.2-build.2+mc1.16.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "jags",
+      "version": "${version}"
+    }
+  ]
+}

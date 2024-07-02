@@ -1,0 +1,28 @@
+{
+  "name": "Botania-1.20.1-444-FABRIC.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 421839,
+      "fileId": 5346279
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "botania",
+      "version": "1.20.1-444-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    }
+  ]
+}

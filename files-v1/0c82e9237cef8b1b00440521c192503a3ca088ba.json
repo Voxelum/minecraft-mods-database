@@ -1,6 +1,12 @@
 {
   "name": "LibJF.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKwQAwke",
+      "versionId": "zaZal2SL"
+    }
+  ],
   "fabric": [
     {
       "modId": "libjf",

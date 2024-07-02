@@ -1,6 +1,12 @@
 {
   "name": "wthit-2.10.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6AQIaxuO",
+      "versionId": "jYlq21ZV"
+    }
+  ],
   "forge": [
     {
       "modId": "wthit",

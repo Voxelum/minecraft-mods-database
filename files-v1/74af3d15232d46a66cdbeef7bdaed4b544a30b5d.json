@@ -1,0 +1,38 @@
+{
+  "name": "cc-tweaked-1.20.1-fabric-1.111.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.111.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "cc_tweaked_cobalt",
+      "version": "0.9.3"
+    },
+    {
+      "modId": "com_jcraft_jzlib",
+      "version": "1.1.3"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.82"
+    },
+    {
+      "modId": "io_netty_netty-codec-socks",
+      "version": "4.1.82"
+    },
+    {
+      "modId": "io_netty_netty-handler-proxy",
+      "version": "4.1.82"
+    }
+  ]
+}

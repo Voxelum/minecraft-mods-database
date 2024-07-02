@@ -1,0 +1,14 @@
+{
+  "name": "create_bitterballen-0.0.80+1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "create_bic_bit",
+      "version": "0.0.80+1.20.1-fabric"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

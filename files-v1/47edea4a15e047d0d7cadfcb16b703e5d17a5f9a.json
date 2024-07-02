@@ -1,0 +1,14 @@
+{
+  "name": "TierTagger-1.6.1mc1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tier-tagger",
+      "version": "1.6.1+mc1.19.4"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.10+10ce000ff4"
+    }
+  ]
+}

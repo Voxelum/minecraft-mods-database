@@ -1,0 +1,32 @@
+{
+  "name": "fancyfountainpassage-3.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 322401,
+      "fileId": 3314279
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biom4st3rportal",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.7.13"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.7.13"
+    },
+    {
+      "modId": "coderecipes",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

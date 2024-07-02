@@ -1,0 +1,14 @@
+{
+  "name": "essentialaddons-1.20.1-1.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essentialaddons",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

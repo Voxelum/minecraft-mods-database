@@ -1,6 +1,12 @@
 {
   "name": "roguelike-1.7.10-1.5.0b.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 221585,
+      "fileId": 2294894
+    }
+  ],
   "forge": [
     {
       "modId": "Roguelike",

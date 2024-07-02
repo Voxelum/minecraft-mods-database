@@ -1,0 +1,16 @@
+{
+  "name": "decentbiomes-1.16.5-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "decent_biomes",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decent_biomes",
+      "version": "1.3.0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "zume-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o6qsdrrQ",
+      "versionId": "EDf05717"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zume",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zume",
+      "version": "1.0.0"
+    }
+  ]
+}

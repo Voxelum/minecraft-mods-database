@@ -1,6 +1,18 @@
 {
   "name": "NonConflictKeys-Forge-1.19.X-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XU9gCifV",
+      "versionId": "uQBmTzeZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864845,
+      "fileId": 4580489
+    }
+  ],
   "forge": [
     {
       "modId": "nckey",

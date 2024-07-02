@@ -1,0 +1,20 @@
+{
+  "name": "gamma-1.0.0+1.8-1.12.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w9Rov1Ld",
+      "versionId": "SemU8BCn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gamma",
+      "version": "1.0.0+1.8-1.12.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

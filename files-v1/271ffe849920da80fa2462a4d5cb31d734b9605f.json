@@ -1,0 +1,18 @@
+{
+  "name": "GravityChanger-0.7.10-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gravitychanger",
+      "version": "0.7.10"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

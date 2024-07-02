@@ -1,0 +1,10 @@
+{
+  "name": "bossbar-stack-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bossstack",
+      "version": "1.0.0"
+    }
+  ]
+}

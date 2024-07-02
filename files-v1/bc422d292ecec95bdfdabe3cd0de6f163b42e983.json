@@ -1,0 +1,10 @@
+{
+  "name": "letsdo-addon-compat-fabric-v1.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "letsdoaddon-compat",
+      "version": "1.4.1"
+    }
+  ]
+}

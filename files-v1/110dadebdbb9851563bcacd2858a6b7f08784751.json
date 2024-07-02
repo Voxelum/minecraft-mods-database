@@ -1,0 +1,16 @@
+{
+  "name": "Joban-Client-Mod-1.18.2-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "jsblock",
+      "version": "1.18.2-1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jsblock",
+      "version": "1.18.2-1.2.0"
+    }
+  ]
+}

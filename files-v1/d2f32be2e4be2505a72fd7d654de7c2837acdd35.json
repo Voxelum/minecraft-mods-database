@@ -1,0 +1,16 @@
+{
+  "name": "chickensshed-1.4.0-0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chickensshed",
+      "version": "1.4.0-0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chickensshed",
+      "version": "1.4.0-0"
+    }
+  ]
+}

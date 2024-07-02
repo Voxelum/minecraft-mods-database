@@ -1,0 +1,14 @@
+{
+  "name": "variantchests-1.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "variantchests",
+      "version": "1.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

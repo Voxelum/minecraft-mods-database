@@ -1,6 +1,12 @@
 {
   "name": "visuality-forge-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z13R7Et1",
+      "versionId": "L3CN3WAA"
+    }
+  ],
   "forge": [
     {
       "modId": "visuality",

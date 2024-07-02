@@ -1,0 +1,20 @@
+{
+  "name": "kubejs-fabric-1902.6.2-build.69.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 5268390
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "1902.6.2-build.69"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

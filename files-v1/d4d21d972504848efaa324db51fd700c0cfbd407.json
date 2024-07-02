@@ -1,0 +1,16 @@
+{
+  "name": "deeper_dark-3.0.2-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_deeper_dark",
+      "version": "3.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_deeper_dark",
+      "version": "3.0.2"
+    }
+  ]
+}

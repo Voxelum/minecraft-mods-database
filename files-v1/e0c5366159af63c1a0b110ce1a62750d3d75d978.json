@@ -1,0 +1,20 @@
+{
+  "name": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z9Ve58Ih",
+      "versionId": "6LPrzuB0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterjungletemples",
+      "version": "1.20-Fabric-2.0.5"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "respackopts-4.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TiF5QWZY",
+      "versionId": "8U9GGpeV"
+    }
+  ],
   "fabric": [
     {
       "modId": "respackopts",

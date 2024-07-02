@@ -1,6 +1,12 @@
 {
   "name": "modsetting-1.2.0-1.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534932,
+      "fileId": 3543194
+    }
+  ],
   "forge": [
     {
       "modId": "modsetting",

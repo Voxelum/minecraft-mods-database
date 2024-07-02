@@ -1,0 +1,22 @@
+{
+  "name": "recipes-plus-1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RWf9UJdD",
+      "versionId": "cWv1yVzi"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_recipes_plus",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_recipes_plus",
+      "version": "1.4"
+    }
+  ]
+}

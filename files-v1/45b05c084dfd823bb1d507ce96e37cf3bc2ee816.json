@@ -1,6 +1,12 @@
 {
   "name": "sound-board-server-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ct5OZmd8",
+      "versionId": "Kczmxgri"
+    }
+  ],
   "fabric": [
     {
       "modId": "soundboard",

@@ -1,0 +1,22 @@
+{
+  "name": "triggertpa-v1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Dov7uPp",
+      "versionId": "5dJGG4o1"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_triggertpa",
+      "version": "1-v1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_triggertpa",
+      "version": "1-v1"
+    }
+  ]
+}

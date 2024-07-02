@@ -1,6 +1,12 @@
 {
   "name": "openblockselevator-0.0.3-1.19.X.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v8XOAQUM",
+      "versionId": "ctKxfOu7"
+    }
+  ],
   "fabric": [
     {
       "modId": "openblocks",

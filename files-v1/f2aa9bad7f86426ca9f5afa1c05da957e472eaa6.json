@@ -1,0 +1,14 @@
+{
+  "name": "mcpings-1.0.0-alpha3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mcpings",
+      "version": "1.0.0-alpha3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

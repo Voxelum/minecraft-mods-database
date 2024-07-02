@@ -1,0 +1,16 @@
+{
+  "name": "soul-link-1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_soul_link",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_soul_link",
+      "version": "1.5"
+    }
+  ]
+}

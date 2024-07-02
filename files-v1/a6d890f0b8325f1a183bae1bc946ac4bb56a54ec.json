@@ -1,0 +1,20 @@
+{
+  "name": "flow-1.5.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eoxi2LJd",
+      "versionId": "Ag7cEvX9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flow",
+      "version": "1.5.0+1.20.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.2.1+1.20"
+    }
+  ]
+}

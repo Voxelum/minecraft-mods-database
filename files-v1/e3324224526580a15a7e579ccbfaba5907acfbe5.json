@@ -1,6 +1,12 @@
 {
   "name": "smcfix-1.16.5-0.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 974176,
+      "fileId": 5104161
+    }
+  ],
   "forge": [
     {
       "modId": "smcfix",

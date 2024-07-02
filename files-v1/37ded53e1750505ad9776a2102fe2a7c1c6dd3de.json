@@ -1,6 +1,12 @@
 {
   "name": "Too Many Players (1.19.2).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPVN4aiJ",
+      "versionId": "7oAQYocr"
+    }
+  ],
   "fabric": [
     {
       "modId": "toomanyplayers",

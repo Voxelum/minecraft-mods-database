@@ -1,0 +1,26 @@
+{
+  "name": "supplementaries-1.19.2-2.4.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "VQx7vGrB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412082,
+      "fileId": 5226669
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "supplementaries",
+      "version": "1.19.2-2.4.21"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

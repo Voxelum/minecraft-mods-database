@@ -1,0 +1,14 @@
+{
+  "name": "enderscape-0.4.1-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enderscape",
+      "version": "0.4.1-1.19.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

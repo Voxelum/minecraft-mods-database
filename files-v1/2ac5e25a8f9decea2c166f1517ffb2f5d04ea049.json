@@ -1,0 +1,52 @@
+{
+  "name": "polymorph-fabric-0.0.10-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 397434,
+      "fileId": 3215832
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "0.0.10-1.16.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.0+daa38b3d7d"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.1+ca58154a7d"
+    },
+    {
+      "modId": "fabric-networking-v0",
+      "version": "0.3.2+ca58154a7d"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.1+ca58154a7d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.2+ca58154a7d"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.0.10+ca58154a7d"
+    },
+    {
+      "modId": "fabric-commands-v0",
+      "version": "0.2.2+ca58154a7d"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.7.9"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "2.7.9"
+    }
+  ]
+}

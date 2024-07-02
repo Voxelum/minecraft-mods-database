@@ -1,0 +1,16 @@
+{
+  "name": "appliedenergistics2-fabric-15.2.0$energy-3.0.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "team_reborn_energy",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

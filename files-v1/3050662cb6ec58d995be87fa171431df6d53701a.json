@@ -1,6 +1,12 @@
 {
   "name": "spoornpacks-5.0-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "40ytxGF2",
+      "versionId": "NSN0Yoyz"
+    }
+  ],
   "fabric": [
     {
       "modId": "spoornpacks",

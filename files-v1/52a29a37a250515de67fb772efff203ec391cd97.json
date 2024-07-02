@@ -1,0 +1,14 @@
+{
+  "name": "XaeroPlus-Fabric-1.20.1-77-WM1.37.2-MM23.9.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "xaeroplus",
+      "version": "1.20.1"
+    },
+    {
+      "modId": "net_lenni0451_lambdaevents",
+      "version": "2.4.0"
+    }
+  ]
+}

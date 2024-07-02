@@ -1,0 +1,16 @@
+{
+  "name": "better-trees-1.8.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_better_trees",
+      "version": "1.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_better_trees",
+      "version": "1.8"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "sodium-fabric-0.5.8-snapshotmc24w13a-local.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "0.5.8-snapshot+mc24w13a-local"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.38+80f8cf51c0"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.6+80f8cf51c0"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.1+2c869dedc0"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.44+73761d2ec0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.0+e9d2a72bc0"
+    }
+  ]
+}

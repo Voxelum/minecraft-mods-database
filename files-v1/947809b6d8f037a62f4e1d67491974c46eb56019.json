@@ -1,0 +1,10 @@
+{
+  "name": "Omni_1.16.5_1.2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "omni",
+      "version": "${version}"
+    }
+  ]
+}

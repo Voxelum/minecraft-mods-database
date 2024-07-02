@@ -1,0 +1,20 @@
+{
+  "name": "EuphoriaPatcher-0.3.3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4H6sumDB",
+      "versionId": "fzozL8Lu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "euphoria_patcher",
+      "version": "0.3.3-fabric"
+    },
+    {
+      "modId": "io_sigpipe_jbsdiff",
+      "version": "1.0"
+    }
+  ]
+}

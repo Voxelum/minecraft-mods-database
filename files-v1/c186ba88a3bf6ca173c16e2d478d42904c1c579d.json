@@ -1,6 +1,12 @@
 {
   "name": "customlan-1.16.5-16.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 278964,
+      "fileId": 3396711
+    }
+  ],
   "forge": [
     {
       "modId": "lan",

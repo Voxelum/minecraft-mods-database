@@ -1,0 +1,36 @@
+{
+  "name": "minefortress-1.9.0-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lcUdtArI",
+      "versionId": "E8WAIUhk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minefortress",
+      "version": "1.9.0-beta"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "automatone",
+      "version": "1.0.5+minefortress"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.7+minefortress"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.7+minefortress"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.7+minefortress"
+    }
+  ]
+}

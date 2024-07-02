@@ -1,0 +1,10 @@
+{
+  "name": "polymorph-fabric-0.0.14-1.16.5-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "${version}"
+    }
+  ]
+}

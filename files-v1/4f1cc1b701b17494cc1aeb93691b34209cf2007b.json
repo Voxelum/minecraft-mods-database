@@ -1,6 +1,12 @@
 {
   "name": "lanannouncer-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eVUWDaxc",
+      "versionId": "ZKZr8EfM"
+    }
+  ],
   "fabric": [
     {
       "modId": "lanannouncer",

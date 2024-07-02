@@ -1,6 +1,12 @@
 {
   "name": "toolswap-1.16.2-1.3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L9JLNLqk",
+      "versionId": "jwmmulma"
+    }
+  ],
   "forge": [
     {
       "modId": "toolswap",

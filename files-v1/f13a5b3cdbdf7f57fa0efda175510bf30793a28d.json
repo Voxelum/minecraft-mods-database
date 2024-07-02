@@ -1,6 +1,12 @@
 {
   "name": "toms_storage-1.18.2-1.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XZNI4Cpy",
+      "versionId": "S9DsrxZO"
+    }
+  ],
   "forge": [
     {
       "modId": "toms_storage",

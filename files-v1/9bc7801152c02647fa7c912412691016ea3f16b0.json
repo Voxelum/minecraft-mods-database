@@ -1,6 +1,12 @@
 {
   "name": "wandering-bag-1.16.5-1.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 500434,
+      "fileId": 3633210
+    }
+  ],
   "forge": [
     {
       "modId": "wandering_bag",

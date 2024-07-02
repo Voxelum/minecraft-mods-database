@@ -1,0 +1,16 @@
+{
+  "name": "katters-structures-1.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_katters_structures",
+      "version": "1.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_katters_structures",
+      "version": "1.10"
+    }
+  ]
+}

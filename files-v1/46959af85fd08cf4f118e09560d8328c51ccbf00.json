@@ -1,0 +1,16 @@
+{
+  "name": "FarmersDelight-1.20.1-2.1.1-refabricated$base-2.3.4+1.20.1$porting_lib_entity-2.3.4+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "porting_lib_entity",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

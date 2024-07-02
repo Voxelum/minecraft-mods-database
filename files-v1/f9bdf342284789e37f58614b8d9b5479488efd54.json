@@ -1,6 +1,12 @@
 {
   "name": "impersonate-2.8.0-standalone.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 360333,
+      "fileId": 3987502
+    }
+  ],
   "fabric": [
     {
       "modId": "impersonate",

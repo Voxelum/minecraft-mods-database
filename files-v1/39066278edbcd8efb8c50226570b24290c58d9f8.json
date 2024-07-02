@@ -1,6 +1,12 @@
 {
   "name": "Born in a Barn 1.7.x-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WfPGKC8F",
+      "versionId": "t2p54yVF"
+    }
+  ],
   "forge": [
     {
       "modId": "Born in a Barn 1.7.x-1.1",
@@ -16,6 +22,10 @@
     },
     {
       "modId": "Born+in+a+Barn+1.7.x",
+      "version": ""
+    },
+    {
+      "modId": "borninabarn1.7.x",
       "version": ""
     }
   ]

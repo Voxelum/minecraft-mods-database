@@ -1,0 +1,14 @@
+{
+  "name": "disc_jockey-1.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "disc_jockey",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    }
+  ]
+}

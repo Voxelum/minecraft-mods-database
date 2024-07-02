@@ -1,0 +1,30 @@
+{
+  "name": "MutantMonsters-v7.0.0-1.20-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "derP0ten",
+      "versionId": "jxVJddUv"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mutantmonsters",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mutantmonsters",
+      "version": "7.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    }
+  ]
+}

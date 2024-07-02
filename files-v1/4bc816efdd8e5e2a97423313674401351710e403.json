@@ -1,0 +1,22 @@
+{
+  "name": "pehkui-3.8.21.20.1-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 5393101
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.8.2+1.20.1-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

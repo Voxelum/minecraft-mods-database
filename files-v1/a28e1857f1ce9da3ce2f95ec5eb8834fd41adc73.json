@@ -1,0 +1,16 @@
+{
+  "name": "rich-husk-mcmeta-4-26_1.13-1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rich_husk_mr",
+      "version": "1-mcmeta-8-26_1.18-1.20.4+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rich_husk_mr",
+      "version": "1-mcmeta-8-26_1.18-1.20.4+mod"
+    }
+  ]
+}

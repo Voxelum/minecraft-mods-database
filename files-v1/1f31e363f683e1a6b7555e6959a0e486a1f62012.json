@@ -1,6 +1,12 @@
 {
   "name": "chunkloaders-1.2.7-forge-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t1VgucWo",
+      "versionId": "aRtouEHl"
+    }
+  ],
   "forge": [
     {
       "modId": "chunkloaders",

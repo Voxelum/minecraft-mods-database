@@ -1,0 +1,16 @@
+{
+  "name": "better-deepslate-ore-drops-2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_better_deepslateoredrops",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_better_deepslateoredrops",
+      "version": "2"
+    }
+  ]
+}

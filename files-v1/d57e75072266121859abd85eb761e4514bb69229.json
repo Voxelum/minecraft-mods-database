@@ -1,0 +1,20 @@
+{
+  "name": "FarmersDelight-1.20.1-2.1.1-refabricated$registries-2.3.4+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "porting_lib_registries",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "porting_lib_registries",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

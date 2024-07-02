@@ -1,6 +1,12 @@
 {
   "name": "addon - modmenu-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "Tk7mCRX1"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

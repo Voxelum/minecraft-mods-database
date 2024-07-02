@@ -1,0 +1,22 @@
+{
+  "name": "blabber-1.4.3-mc1.20.1-standalone.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blabber",
+      "version": "1.4.3-mc1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

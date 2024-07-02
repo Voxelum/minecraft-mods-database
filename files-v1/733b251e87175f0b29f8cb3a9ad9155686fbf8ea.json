@@ -1,0 +1,24 @@
+{
+  "name": "do_a_barrel_roll-fabric-3.6.0+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": "3.6.0+1.20.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

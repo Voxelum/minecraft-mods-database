@@ -1,0 +1,30 @@
+{
+  "name": "TheManFromTheFog-1.1.1+fabric.mc.1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "118OmVLd",
+      "versionId": "kGS1Zgmu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "man",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "man",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "porting_lib_fake_players",
+      "version": "2.1.875+1.19.2"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.875+1.19.2"
+    }
+  ]
+}

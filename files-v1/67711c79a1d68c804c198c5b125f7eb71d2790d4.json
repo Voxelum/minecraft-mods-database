@@ -1,6 +1,12 @@
 {
   "name": "chronontech-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R0rrS80D",
+      "versionId": "SIi3Q4FJ"
+    }
+  ],
   "forge": [
     {
       "modId": "chronontech",

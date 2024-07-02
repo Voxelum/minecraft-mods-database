@@ -1,6 +1,12 @@
 {
   "name": "securecrops-1.0.4+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G89SpEyJ",
+      "versionId": "gjmUNhTN"
+    }
+  ],
   "fabric": [
     {
       "modId": "securecrops",

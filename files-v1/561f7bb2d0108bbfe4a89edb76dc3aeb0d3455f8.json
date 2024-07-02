@@ -1,6 +1,12 @@
 {
   "name": "ctov-croptopia-compat-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5cWrW4FI",
+      "versionId": "QczbqYz4"
+    }
+  ],
   "forge": [
     {
       "modId": "ctov_croptopiacompat_mr",

@@ -1,6 +1,12 @@
 {
   "name": "hatlist.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nHLxbmEC",
+      "versionId": "MXAKuoTr"
+    }
+  ],
   "fabric": [
     {
       "modId": "hatlist",

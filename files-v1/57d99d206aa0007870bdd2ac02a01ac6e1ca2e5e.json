@@ -1,0 +1,26 @@
+{
+  "name": "cc_vs-1.19.2-fabric-0.0.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cc_vs",
+      "version": "1.19.2-fabric-0.0.8"
+    },
+    {
+      "modId": "architectury",
+      "version": "6.3.49"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

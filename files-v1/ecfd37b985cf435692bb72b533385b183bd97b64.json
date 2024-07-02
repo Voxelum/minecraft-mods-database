@@ -1,0 +1,20 @@
+{
+  "name": "expandeddelight-0.3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620770,
+      "fileId": 5281271
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expandeddelight",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.4.0+1.20.1"
+    }
+  ]
+}

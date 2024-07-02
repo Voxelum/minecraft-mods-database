@@ -1,0 +1,22 @@
+{
+  "name": "world-host-0.4.11+1.20.6-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "world-host",
+      "version": "0.4.11"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "org_semver4j_semver4j",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.4+18de49c6b2"
+    }
+  ]
+}

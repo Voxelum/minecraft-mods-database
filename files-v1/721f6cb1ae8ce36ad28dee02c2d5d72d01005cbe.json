@@ -1,0 +1,14 @@
+{
+  "name": "spoiledz-1.0.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spoiledz",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "capsaicin",
+      "version": "1.1.0+mc1.19.3"
+    }
+  ]
+}

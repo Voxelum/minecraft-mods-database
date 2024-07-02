@@ -1,0 +1,42 @@
+{
+  "name": "dimdoors-5.3.3-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dimdoors",
+      "version": "5.3.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "com_flowpowered_flow-math",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "org_jgrapht_jgrapht-core",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_dimensionaldevelopment_poly2tri_java",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

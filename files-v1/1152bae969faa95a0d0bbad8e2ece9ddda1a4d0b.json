@@ -1,6 +1,12 @@
 {
   "name": "upgradedcore-1.16.5-1.0.0.3-release.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 566700,
+      "fileId": 3622769
+    }
+  ],
   "forge": [
     {
       "modId": "upgradedcore",

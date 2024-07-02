@@ -1,0 +1,14 @@
+{
+  "name": "nox-2.6.2+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nox",
+      "version": "2.6.2+1.20.1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.0+1.20"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "survivalisland-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PCWdPYQ6",
+      "versionId": "3XxwRJGG"
+    }
+  ],
   "fabric": [
     {
       "modId": "survivalisland",

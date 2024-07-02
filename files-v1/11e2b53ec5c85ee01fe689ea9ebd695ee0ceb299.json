@@ -1,0 +1,16 @@
+{
+  "name": "forge-medievalend-1.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "medievalend",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medievalend",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "rayon-1.2.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rayon",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "rayon-core",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "rayon-entity",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "rayon-particle",
+      "version": "1.2.3"
+    }
+  ]
+}

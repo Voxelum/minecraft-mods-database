@@ -1,6 +1,18 @@
 {
   "name": "suggestions-api-1.0.3+1.20-1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vLGDpLdc",
+      "versionId": "IJbS3vg9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960441,
+      "fileId": 5022245
+    }
+  ],
   "fabric": [
     {
       "modId": "suggestions-api",

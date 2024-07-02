@@ -1,0 +1,10 @@
+{
+  "name": "custom-default-world-preset-1.0.2+mc.1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "custom_default_world_preset",
+      "version": "1.0.2+mc.1.19.3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nmc-2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nmc",
+      "version": "2.1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "cc-tweaked-polymer-patch-1.109.6.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MfXTuV8J",
+      "versionId": "Zfj3fjwe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cc-tweaked-polymer-patch",
+      "version": "1.109.6.0+1.20.4"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.4.1+1.20.4"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.4.0+1.20.3"
+    },
+    {
+      "modId": "map-canvas-api",
+      "version": "0.2.2+1.19.4"
+    },
+    {
+      "modId": "factorytools",
+      "version": "0.1.8+1.20.4"
+    }
+  ]
+}

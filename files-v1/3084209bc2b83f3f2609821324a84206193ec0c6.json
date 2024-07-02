@@ -1,0 +1,24 @@
+{
+  "name": "golemancy-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 457403,
+      "fileId": 3245215
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "golemancy",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.7.11"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.7.11"
+    }
+  ]
+}

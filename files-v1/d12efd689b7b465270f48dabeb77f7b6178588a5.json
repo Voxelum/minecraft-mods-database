@@ -1,0 +1,32 @@
+{
+  "name": "mod_sets-1.7.2+sha.d472e7c.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mod_sets-1.7.2+sha.d472e7c",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mod_sets",
+      "version": "1.7.2+sha.d472e7c"
+    },
+    {
+      "modId": "settingdust_modsets_config_",
+      "version": "1.7.2+sha.d472e7c"
+    },
+    {
+      "modId": "settingdust_modsets_ingame_",
+      "version": "1.7.2+sha.d472e7c"
+    },
+    {
+      "modId": "kinecraft_serialization",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "preloading_tricks",
+      "version": "1.0.6"
+    }
+  ]
+}

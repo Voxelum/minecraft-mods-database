@@ -1,6 +1,12 @@
 {
   "name": "hexal-forge-1.18.2-0.1.13.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 824725,
+      "fileId": 4406961
+    }
+  ],
   "forge": [
     {
       "modId": "hexal",

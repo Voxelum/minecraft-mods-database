@@ -1,0 +1,16 @@
+{
+  "name": "sodium-extra-0.5.4+mc1.20.1-build.115$crowdin-translate-1.4+1.19.3_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "crowdin_translate",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

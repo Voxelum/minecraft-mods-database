@@ -1,6 +1,12 @@
 {
   "name": "blast-1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hrVBD9fd",
+      "versionId": "ojB3W9Gs"
+    }
+  ],
   "fabric": [
     {
       "modId": "blast",

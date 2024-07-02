@@ -1,0 +1,16 @@
+{
+  "name": "effect-randomizer-V1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_effect_randomizer",
+      "version": "1-V1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_effect_randomizer",
+      "version": "1-V1.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "canary-mc1.20(.1)-0.2.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 665658,
+      "fileId": 4588510
+    }
+  ],
   "forge": [
     {
       "modId": "canary",

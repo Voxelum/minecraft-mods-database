@@ -1,0 +1,16 @@
+{
+  "name": "peripheralium-0.4.21-1.18.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "peripheralium",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peripheralium",
+      "version": "0.4.21-1.18.2"
+    }
+  ]
+}

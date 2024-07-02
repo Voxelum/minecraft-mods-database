@@ -1,0 +1,20 @@
+{
+  "name": "enchantment-lore-1.1.1+MC1.16.1-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 430219,
+      "fileId": 3170735
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantment_lore",
+      "version": "1.1.1+MC1.16.1-1.16.5"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.2"
+    }
+  ]
+}

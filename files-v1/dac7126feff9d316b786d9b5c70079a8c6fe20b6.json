@@ -1,6 +1,18 @@
 {
   "name": "Totemic-forge-1.18.2-0.12.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GLffYJtD",
+      "versionId": "NtB1DYfI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237541,
+      "fileId": 4780368
+    }
+  ],
   "forge": [
     {
       "modId": "totemic",

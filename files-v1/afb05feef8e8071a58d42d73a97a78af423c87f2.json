@@ -1,6 +1,18 @@
 {
   "name": "occultism-1.20.1-1.123.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sbJh4AZw",
+      "versionId": "1AnM1jj7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361026,
+      "fileId": 5189577
+    }
+  ],
   "forge": [
     {
       "modId": "occultism",

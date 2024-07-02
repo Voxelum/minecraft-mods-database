@@ -1,0 +1,26 @@
+{
+  "name": "rpgstats-4.0.5+1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rpgstats",
+      "version": "4.0.5+1.16.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.24"
+    }
+  ]
+}

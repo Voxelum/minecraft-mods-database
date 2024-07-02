@@ -1,6 +1,12 @@
 {
   "name": "keepmysoiltilled-1.20.4-2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OC5Zubbe",
+      "versionId": "NsdWQLIi"
+    }
+  ],
   "forge": [
     {
       "modId": "keepmysoiltilled",

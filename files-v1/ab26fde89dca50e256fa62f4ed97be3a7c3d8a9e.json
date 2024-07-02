@@ -1,0 +1,20 @@
+{
+  "name": "YungsBetterDungeons-1.20-Fabric-4.0.4_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterdungeons",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterdungeons",
+      "version": "1.20-Fabric-4.0.4"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

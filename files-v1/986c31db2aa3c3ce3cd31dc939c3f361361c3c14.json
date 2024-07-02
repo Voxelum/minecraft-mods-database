@@ -1,0 +1,20 @@
+{
+  "name": "kubejsadditions-fabric-4.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZemjxZb",
+      "versionId": "pNo5FnBQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kubejsadditions",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

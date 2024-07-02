@@ -1,0 +1,24 @@
+{
+  "name": "headed-1.1.3-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bKHIGgPE",
+      "versionId": "oEncg6Hs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "headed",
+      "version": "1.1.3-1.20"
+    },
+    {
+      "modId": "paragon",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.2"
+    }
+  ]
+}

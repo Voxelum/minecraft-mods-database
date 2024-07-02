@@ -1,0 +1,14 @@
+{
+  "name": "levelz-1.4.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "levelz",
+      "version": "1.4.8"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.1+1.19"
+    }
+  ]
+}

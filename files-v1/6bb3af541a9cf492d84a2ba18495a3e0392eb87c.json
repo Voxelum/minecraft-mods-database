@@ -1,6 +1,12 @@
 {
   "name": "DripSounds-1.18-0.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T8MMXTpr",
+      "versionId": "X1y31oBo"
+    }
+  ],
   "fabric": [
     {
       "modId": "waterdripsound",

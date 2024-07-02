@@ -1,4 +1,16 @@
 {
   "name": "Adorn-4.3.0-1.19.4-forge.jar",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 438784,
+      "fileId": 4568554
+    }
+  ],
+  "forge": [
+    {
+      "modId": "adorn",
+      "version": "4.3.0+1.19.4"
+    }
+  ]
 }

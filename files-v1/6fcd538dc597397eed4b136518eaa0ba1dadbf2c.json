@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-torches-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AK1n0IqM",
+      "versionId": "hyBNIepV"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "4"
+    }
+  ]
+}

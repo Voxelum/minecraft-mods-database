@@ -1,0 +1,44 @@
+{
+  "name": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.76.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.76",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedcore",
+      "version": "0.5.109+mc1.20.1-SNAPSHOT-build.76"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

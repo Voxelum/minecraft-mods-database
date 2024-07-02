@@ -1,0 +1,14 @@
+{
+  "name": "frostiful-0.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "frostiful",
+      "version": "0.7"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

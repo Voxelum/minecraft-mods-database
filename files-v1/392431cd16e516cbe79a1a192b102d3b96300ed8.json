@@ -1,6 +1,12 @@
 {
   "name": "ownership-improved-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9HWjuuTb",
+      "versionId": "un3Flfdm"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_ownership_improved",

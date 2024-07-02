@@ -1,0 +1,10 @@
+{
+  "name": "canary-mc1.19.2-0.0.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "canary",
+      "version": "0.0.9"
+    }
+  ]
+}

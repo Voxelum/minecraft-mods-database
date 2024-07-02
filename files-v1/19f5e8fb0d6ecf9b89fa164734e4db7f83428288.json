@@ -1,0 +1,20 @@
+{
+  "name": "amethyst_core-1.5.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbOpZw7q",
+      "versionId": "t3Tks6iD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amethyst_core",
+      "version": "1.5.0+1.20.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

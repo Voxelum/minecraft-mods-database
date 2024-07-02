@@ -1,0 +1,28 @@
+{
+  "name": "telekinesis-fabric-2.3.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LLfA8jAD",
+      "versionId": "sdFHUt8K"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "telekinesis",
+      "version": "2.3.1-1.20.1"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.0.2"
+    }
+  ]
+}

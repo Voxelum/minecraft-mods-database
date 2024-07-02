@@ -1,0 +1,50 @@
+{
+  "name": "vivecraft-1.20.5-1.1.9-a2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vivecraft",
+      "version": "1.20.5-1.1.9-a2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432c0d"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.40+80f8cf510d"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.24+80f8cf510d"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.0.8+bd46f3a00d"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-windows",
+      "version": "3.3.3"
+    }
+  ]
+}

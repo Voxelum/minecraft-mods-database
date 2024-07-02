@@ -1,0 +1,16 @@
+{
+  "name": "nohostilesaroundcampfire-1.19.3-5.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "5.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "5.4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "extraalchemy-fabric-1.20.4-1.11.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extraalchemy",
+      "version": "1.11.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

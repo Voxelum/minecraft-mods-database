@@ -1,0 +1,56 @@
+{
+  "name": "optifabric-2.3.2+b1.7.3-1.14.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCvC00y3",
+      "versionId": "IwL0U13q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optifabric",
+      "version": "2.3.2+b1.7.3-1.14.4"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+1.13-1.13.2"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+1.14-1.14.4"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+1.3-1.5.2"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+1.6-1.7.10"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+1.8-1.12.2"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+b1.7.3"
+    },
+    {
+      "modId": "optifabric-mixin",
+      "version": "2.3.2+b1.8.1-1.2.5"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3.3"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "net_fabricmc_tiny-remapper",
+      "version": "0.10.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "automodpack-fabric-4.0.0-beta1-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k68glP2e",
+      "versionId": "1ZPaL1PB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "automodpack-bootstrap",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "automodpack",
+      "version": "4.0.0-beta1"
+    }
+  ]
+}

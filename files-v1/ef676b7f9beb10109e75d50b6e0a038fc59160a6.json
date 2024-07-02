@@ -1,0 +1,24 @@
+{
+  "name": "pistorder-mc1.20.4-v1.6.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lpin1bEg",
+      "versionId": "yD5yAurg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pistorder",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.15+78d798af4f"
+    }
+  ]
+}

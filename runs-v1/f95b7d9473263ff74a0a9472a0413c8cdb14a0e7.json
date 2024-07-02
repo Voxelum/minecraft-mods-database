@@ -1,0 +1,17 @@
+{
+  "mods": [
+    "f46fac830ae8e4e29e7f424210bd07c95885b5a9",
+    "56bcf4bcb80ed8701436f36d24be72fbec3f944f",
+    "85378e5a87d735c618e2df2f098fb696087b7063",
+    "4bb29e5ac74aebd71796081737888fc54a92ade6",
+    "706ca06384bd94061e620d6d260d7f4abc658246"
+  ],
+  "runtime": {
+    "minecraft": "1.16.5",
+    "forge": "36.2.42"
+  },
+  "java": {
+    "majorVersion": 8,
+    "version": "1.8.0_51"
+  }
+}

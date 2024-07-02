@@ -1,0 +1,14 @@
+{
+  "name": "picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "picturesign",
+      "version": "2.0.0-beta.1+unascribedtheora5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

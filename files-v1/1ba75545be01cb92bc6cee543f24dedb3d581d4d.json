@@ -1,6 +1,12 @@
 {
   "name": "enchantmenttransfer-0.0.6-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VLBJHtK0",
+      "versionId": "KpK6A6nq"
+    }
+  ],
   "forge": [
     {
       "modId": "enchantmenttransfer",

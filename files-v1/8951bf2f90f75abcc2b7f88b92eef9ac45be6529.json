@@ -1,0 +1,22 @@
+{
+  "name": "svm-jojo-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ui5u58DQ",
+      "versionId": "WWjzVnTW"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_svm_jojo",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_svm_jojo",
+      "version": "2"
+    }
+  ]
+}

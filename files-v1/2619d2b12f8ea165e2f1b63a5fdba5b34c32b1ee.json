@@ -1,0 +1,22 @@
+{
+  "name": "disable-ad-astra-meteors-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qlYwaNHX",
+      "versionId": "H3N1QhVs"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_disable_adastrameteors",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_disable_adastrameteors",
+      "version": "1.0"
+    }
+  ]
+}

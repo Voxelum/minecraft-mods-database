@@ -1,0 +1,16 @@
+{
+  "name": "camps_castles_carriages-2.3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_camps_castles_carriages",
+      "version": "2.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_camps_castles_carriages",
+      "version": "2.3.1"
+    }
+  ]
+}

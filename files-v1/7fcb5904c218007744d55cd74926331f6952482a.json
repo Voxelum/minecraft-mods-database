@@ -1,0 +1,14 @@
+{
+  "name": "On1Chest-Fabric-0.3+1.20.1.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "on1chest",
+      "version": "0.3+1.20.1"
+    },
+    {
+      "modId": "com_belerweb_pinyin4j",
+      "version": "2.5.1"
+    }
+  ]
+}

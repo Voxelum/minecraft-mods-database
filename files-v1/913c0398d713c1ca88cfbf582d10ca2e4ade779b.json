@@ -1,6 +1,12 @@
 {
   "name": "shinyhorses-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s6LHnDpR",
+      "versionId": "8lpiSNlo"
+    }
+  ],
   "fabric": [
     {
       "modId": "shinyhorses",

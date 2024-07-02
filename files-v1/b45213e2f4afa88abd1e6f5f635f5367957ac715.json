@@ -1,6 +1,12 @@
 {
   "name": "invoke-0.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xwHe8V3O",
+      "versionId": "EkEmKcEy"
+    }
+  ],
   "fabric": [
     {
       "modId": "invoke",

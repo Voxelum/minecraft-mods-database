@@ -1,0 +1,10 @@
+{
+  "name": "notifications-addon-0.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "notifications-addon",
+      "version": "0.20.1"
+    }
+  ]
+}

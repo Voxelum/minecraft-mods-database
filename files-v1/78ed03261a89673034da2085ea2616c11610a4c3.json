@@ -1,0 +1,30 @@
+{
+  "name": "resourcefullib-fabric-1.20.1-2.1.24.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1hIVOrD",
+      "versionId": "eHrhVCDK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570073,
+      "fileId": 5210241
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.24"
+    },
+    {
+      "modId": "com_teamresourceful_yabn",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_teamresourceful_bytecodecs",
+      "version": "1.0.2"
+    }
+  ]
+}

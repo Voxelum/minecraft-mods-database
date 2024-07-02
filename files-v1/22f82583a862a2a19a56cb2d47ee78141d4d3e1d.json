@@ -1,0 +1,14 @@
+{
+  "name": "walksyoptimizer-1.20x.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walksycrystaloptimizer",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

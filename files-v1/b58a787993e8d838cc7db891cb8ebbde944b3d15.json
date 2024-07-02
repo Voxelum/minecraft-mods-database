@@ -1,0 +1,20 @@
+{
+  "name": "appleskin-fabric-mc1.20.5-3.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EsAfCjCV",
+      "versionId": "FX8a9ln5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "appleskin",
+      "version": "3.0.2+mc1.20.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

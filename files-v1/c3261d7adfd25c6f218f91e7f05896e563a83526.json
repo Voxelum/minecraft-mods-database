@@ -1,6 +1,12 @@
 {
   "name": "BetterThanMending-fabric-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lvv4SHrK",
+      "versionId": "Tqw9rU6C"
+    }
+  ],
   "fabric": [
     {
       "modId": "betterthanmending",

@@ -1,6 +1,12 @@
 {
   "name": "e4mc-3.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 849519,
+      "fileId": 4499018
+    }
+  ],
   "fabric": [
     {
       "modId": "e4mc_minecraft",

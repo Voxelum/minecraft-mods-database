@@ -1,0 +1,20 @@
+{
+  "name": "backslot-1.2.15_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "backslot",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backslot",
+      "version": "1.2.15"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.5.0+mc1.20-pre1"
+    }
+  ]
+}

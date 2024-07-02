@@ -1,0 +1,34 @@
+{
+  "name": "sliceanddice-fabric-2.3.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 659674,
+      "fileId": 5269351
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sliceanddice",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sliceanddice",
+      "version": "2.3.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    }
+  ]
+}

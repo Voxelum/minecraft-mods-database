@@ -1,0 +1,16 @@
+{
+  "name": "AdvancementPlaques-1.20.6-fabric-1.6.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "advancementplaques",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancementplaques",
+      "version": "1.6.2"
+    }
+  ]
+}

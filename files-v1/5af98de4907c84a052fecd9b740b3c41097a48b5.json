@@ -1,0 +1,14 @@
+{
+  "name": "friendsandfoes-fabric-mc1.18.2-1.4.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

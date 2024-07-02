@@ -1,0 +1,14 @@
+{
+  "name": "stack-to-nearby-chests-mc1.20.6-0.5.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stack-to-nearby-chests",
+      "version": "0.5.7"
+    },
+    {
+      "modId": "libgui",
+      "version": "10.0.0+1.20.6"
+    }
+  ]
+}

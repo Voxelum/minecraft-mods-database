@@ -1,0 +1,20 @@
+{
+  "name": "Legacy4J-1.20.4-1.6.3c-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHvKJofA",
+      "versionId": "NddcnABr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy",
+      "version": "1.6.3c"
+    },
+    {
+      "modId": "io_github_libsdl4j_libsdl4j",
+      "version": "2.28.4-1.6"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "firefighting-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 298382,
+      "fileId": 3091847
+    }
+  ],
   "forge": [
     {
       "modId": "firefighting",

@@ -1,0 +1,16 @@
+{
+  "name": "nutritious_feast-1.7.1-neoforge-1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nutritious_feast",
+      "version": "1.7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanilla_food_plus",
+      "version": "1.0.0"
+    }
+  ]
+}

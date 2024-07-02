@@ -1,6 +1,12 @@
 {
   "name": "Retraining-fabric-1.19.2-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 543209,
+      "fileId": 4904585
+    }
+  ],
   "fabric": [
     {
       "modId": "retraining",

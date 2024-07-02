@@ -1,0 +1,16 @@
+{
+  "name": "Starter Kit-6.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "6.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "6.7"
+    }
+  ]
+}

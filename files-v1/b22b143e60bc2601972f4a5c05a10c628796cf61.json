@@ -1,0 +1,20 @@
+{
+  "name": "extrakeybinds-1.16.5-0.1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 474612,
+      "fileId": 3305920
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extrakeybinds",
+      "version": "1.16.5-0.1.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

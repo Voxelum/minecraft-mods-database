@@ -1,0 +1,16 @@
+{
+  "name": "fa2fomapper-4.0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fa2fomapper",
+      "version": "4.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fa2fomapper",
+      "version": "4.0.1"
+    }
+  ]
+}

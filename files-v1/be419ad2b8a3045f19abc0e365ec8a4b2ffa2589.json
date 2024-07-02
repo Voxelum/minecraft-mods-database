@@ -1,6 +1,12 @@
 {
   "name": "noxesium-0.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kw7Sm3Xf",
+      "versionId": "5QKzTtlI"
+    }
+  ],
   "fabric": [
     {
       "modId": "noxesium",

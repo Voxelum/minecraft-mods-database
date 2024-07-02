@@ -1,6 +1,12 @@
 {
   "name": "dailies-1.12.2-6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250529,
+      "fileId": 2523152
+    }
+  ],
   "forge": [
     {
       "modId": "dailies",

@@ -1,6 +1,12 @@
 {
   "name": "pipeblocker-fabric-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wlRUwo2y",
+      "versionId": "8D8WqGHL"
+    }
+  ],
   "fabric": [
     {
       "modId": "pipeblocker",

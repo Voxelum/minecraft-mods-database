@@ -1,0 +1,20 @@
+{
+  "name": "convenientdecor-0.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gMWAhU1n",
+      "versionId": "FNplTKFi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "convenientdecor",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.4.0+1.20.1"
+    }
+  ]
+}

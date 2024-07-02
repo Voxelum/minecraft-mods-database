@@ -1,0 +1,34 @@
+{
+  "name": "amethyst_imbuement-1.18.2-35.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "amethyst_imbuement",
+      "version": "1.18.2-35"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.18.2-67-FABRIC"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.18.2-01"
+    },
+    {
+      "modId": "amethyst_core",
+      "version": "0.4.0+1.18.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0"
+    }
+  ]
+}

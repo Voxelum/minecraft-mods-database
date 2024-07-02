@@ -1,0 +1,10 @@
+{
+  "name": "elytra-chestplate-swapper-1.1.0-MC1.16.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ecs",
+      "version": "1.1.0-MC1.16"
+    }
+  ]
+}

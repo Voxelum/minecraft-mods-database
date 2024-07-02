@@ -1,0 +1,16 @@
+{
+  "name": "deeperdarker-fabric-1.20-1.2.6$customportalapi-0.0.1-beta64-1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "customportalapi",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

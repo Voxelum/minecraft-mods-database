@@ -1,0 +1,22 @@
+{
+  "name": "NotEnoughUpdates-2.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GGamhqbw",
+      "versionId": "QcXPdm6V"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "notenoughupdateserrordisplay",
+      "version": "2.3.0+32ee0a75"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughupdates",
+      "version": "2.3.0+32ee0a75"
+    }
+  ]
+}

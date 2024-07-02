@@ -1,6 +1,12 @@
 {
   "name": "Iceberg-1.20.1-forge-1.1.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 520110,
+      "fileId": 4627133
+    }
+  ],
   "forge": [
     {
       "modId": "iceberg",

@@ -1,0 +1,22 @@
+{
+  "name": "ItemPhysic_FABRIC_v1.6.9_mc1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aT8BzaOj",
+      "versionId": "aIDOjfeY"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "itemphysic",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemphysic",
+      "version": "1.6.9"
+    }
+  ]
+}

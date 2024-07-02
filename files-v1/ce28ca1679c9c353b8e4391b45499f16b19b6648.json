@@ -1,6 +1,18 @@
 {
   "name": "ironfurnaces-1.20.1-4.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yPlaLxD1",
+      "versionId": "fGEswUMR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237664,
+      "fileId": 5159498
+    }
+  ],
   "forge": [
     {
       "modId": "ironfurnaces",

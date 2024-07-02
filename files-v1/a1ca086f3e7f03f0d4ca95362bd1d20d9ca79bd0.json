@@ -1,0 +1,14 @@
+{
+  "name": "great-scrollable-tooltips-13.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "great-scrollable-tooltips",
+      "version": "13.1.1"
+    },
+    {
+      "modId": "online_flowerinsnow_fnml_fnml4j-core",
+      "version": "1.0.3"
+    }
+  ]
+}

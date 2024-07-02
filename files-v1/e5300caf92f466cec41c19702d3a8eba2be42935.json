@@ -1,0 +1,20 @@
+{
+  "name": "MobRebirth-1.16.4-9.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 226212,
+      "fileId": 3131676
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mobrebirth",
+      "version": "9.0.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    }
+  ]
+}

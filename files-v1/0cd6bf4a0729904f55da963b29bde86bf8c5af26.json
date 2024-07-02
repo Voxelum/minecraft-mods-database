@@ -1,6 +1,12 @@
 {
   "name": "aspects-1.0.9-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xl0THQwg",
+      "versionId": "yM1rLv4e"
+    }
+  ],
   "fabric": [
     {
       "modId": "aspects",

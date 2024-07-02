@@ -1,6 +1,12 @@
 {
   "name": "earth2java-forge-1.10.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D2Q91keW",
+      "versionId": "5710465z"
+    }
+  ],
   "forge": [
     {
       "modId": "earthtojavamobs",

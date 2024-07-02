@@ -1,6 +1,12 @@
 {
   "name": "completeconfig-lib-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtqG8z1h",
+      "versionId": "qKEkyNth"
+    }
+  ],
   "fabric": [
     {
       "modId": "completeconfig",

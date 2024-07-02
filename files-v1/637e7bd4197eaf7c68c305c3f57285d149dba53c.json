@@ -1,0 +1,16 @@
+{
+  "name": "origins-plus-plus-1.7.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "origins_plus_plus",
+      "version": "1.7.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins-plus-plus",
+      "version": "1.7.2"
+    }
+  ]
+}

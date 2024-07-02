@@ -1,0 +1,16 @@
+{
+  "name": "YouDied-1.20-3.0.0.17-fabric_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "you_died",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "you_died",
+      "version": "3.0.0.17"
+    }
+  ]
+}

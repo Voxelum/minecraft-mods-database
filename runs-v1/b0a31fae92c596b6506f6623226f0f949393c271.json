@@ -1,0 +1,22 @@
+{
+  "mods": [
+    "52e527cd6a16b375a937f2e463b82834409af84d",
+    "858abf884131d30e6c9c8a51e226b1bc6b83318a",
+    "191b14e675f5e080bf0c045a955eda8b0e9300a7",
+    "290d7046eacfd04211639df7e474113570d7c579",
+    "74b567a2b23bf34cd37ee4c02059318f8cc702d7",
+    "4d60dd1720c7d917823f235621c5645583cad7f7",
+    "785e770ac4a91ed2b62d590a986f535478884daa",
+    "f36add9f8d874f6707b63e3eb417bd5d68c52c13",
+    "4080371d5ae769eb615d1f48ef02f64d479c413e",
+    "07a9aaa965a7749390090a73753caf13e3d14035"
+  ],
+  "runtime": {
+    "minecraft": "1.20.4",
+    "neoForged": "20.4.0-beta"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.8"
+  }
+}

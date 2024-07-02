@@ -1,0 +1,10 @@
+{
+  "name": "TFC_CarryOnStorage.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tfc_knapsacks",
+      "version": "1.0.0"
+    }
+  ]
+}

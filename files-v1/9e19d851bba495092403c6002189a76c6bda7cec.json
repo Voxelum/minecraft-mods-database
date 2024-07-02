@@ -1,0 +1,18 @@
+{
+  "name": "aaron-mod-1.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "aaron-mod",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "me_nullicorn_nedit",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.3.2+1.20.4"
+    }
+  ]
+}

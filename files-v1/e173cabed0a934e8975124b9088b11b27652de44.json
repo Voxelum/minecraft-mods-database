@@ -1,6 +1,18 @@
 {
   "name": "ArdaGrass-1.0-SNAPSHOT.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "90wM2vXN",
+      "versionId": "fnk0S4Dz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835546,
+      "fileId": 4429048
+    }
+  ],
   "fabric": [
     {
       "modId": "ardagrass",

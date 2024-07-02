@@ -1,6 +1,12 @@
 {
   "name": "bugtorch-1.2.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6su8A6OH",
+      "versionId": "V8NqviBX"
+    }
+  ],
   "forge": [
     {
       "modId": "bugtorch",

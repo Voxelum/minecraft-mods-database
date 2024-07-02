@@ -1,6 +1,12 @@
 {
   "name": "tellme-forge-1.16.4-0.9.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225781,
+      "fileId": 3155161
+    }
+  ],
   "forge": [
     {
       "modId": "tellme",

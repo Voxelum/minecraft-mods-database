@@ -1,0 +1,28 @@
+{
+  "name": "dynamiclights-v1.8.2-mc1.17x-1.20x-mod.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7YjclEGc",
+      "versionId": "Ely3MqGM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910095,
+      "fileId": 5372195
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dynamiclights",
+      "version": "1.8.2+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiclights",
+      "version": "1.8.2+mod"
+    }
+  ]
+}

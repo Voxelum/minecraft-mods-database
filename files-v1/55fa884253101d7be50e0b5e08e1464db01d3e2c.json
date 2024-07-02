@@ -1,0 +1,16 @@
+{
+  "name": "FDPClient-build.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "FDPClient",
+      "version": "Release"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.9.3"
+    }
+  ]
+}

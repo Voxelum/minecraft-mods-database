@@ -1,0 +1,14 @@
+{
+  "name": "jmx-mc116-1.21.182.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "json-model-extensions",
+      "version": "1.21.182"
+    },
+    {
+      "modId": "frex",
+      "version": "4.5.201"
+    }
+  ]
+}

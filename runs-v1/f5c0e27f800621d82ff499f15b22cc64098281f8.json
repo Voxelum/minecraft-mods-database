@@ -1,0 +1,20 @@
+{
+  "mods": [
+    "b11e18bb09f06c3f8028fa2c090072976fa326d0",
+    "3373057a5049e311557f8c9494b35ef2df88d984",
+    "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d",
+    "f669f899d707b9e9acf1c239b0ae6b2c8be95361",
+    "447ea5038e0a8189cc2b537cb956b8d42770af7c",
+    "d8a8a5a4f1289e9b4d65f9551c32fbdf56b4f162",
+    "ad0b96eddc7961e799b154251305a4ffd1cdad9a",
+    "75d8785b79cd2333f4d1d326da55ba5fc6372f8d"
+  ],
+  "runtime": {
+    "minecraft": "1.20",
+    "quiltLoader": "0.24.0"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.8"
+  }
+}

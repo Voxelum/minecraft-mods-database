@@ -1,0 +1,14 @@
+{
+  "name": "pandalib-0.2-fabric-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pandalib",
+      "version": "0.2"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    }
+  ]
+}

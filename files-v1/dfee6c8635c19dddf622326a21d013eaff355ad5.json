@@ -1,0 +1,28 @@
+{
+  "name": "Pehkui-3.8.0+1.16.5-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "OSy4tTWV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 5208222
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.8.0+1.16.5-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

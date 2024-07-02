@@ -1,0 +1,16 @@
+{
+  "name": "hearths-v1.0.0-mc1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hearths",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hearths",
+      "version": "1.0.0"
+    }
+  ]
+}

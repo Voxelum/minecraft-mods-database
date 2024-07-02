@@ -1,0 +1,14 @@
+{
+  "name": "xplus-autofish-1.0.0-fabric-1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "1.0.0-fabric-1.20.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.114"
+    }
+  ]
+}

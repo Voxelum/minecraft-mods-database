@@ -1,0 +1,20 @@
+{
+  "name": "egopackunobedition-1.19.2-1.1.1.-v2jar.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 737249,
+      "fileId": 4287640
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "egopack",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.627+1.19.2"
+    }
+  ]
+}

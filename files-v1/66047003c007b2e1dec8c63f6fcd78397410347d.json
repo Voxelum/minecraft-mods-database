@@ -1,0 +1,14 @@
+{
+  "name": "rpg-inventory-1.6.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rpginventory",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

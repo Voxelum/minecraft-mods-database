@@ -1,0 +1,18 @@
+{
+  "name": "letsdo-bloomingnature-fabric-1.0.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bloomingnature",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "doapi",
+      "version": "1.2.10"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

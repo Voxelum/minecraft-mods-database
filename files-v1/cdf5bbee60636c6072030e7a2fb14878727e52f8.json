@@ -1,0 +1,10 @@
+{
+  "name": "nar.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "narfanc",
+      "version": "1.0"
+    }
+  ]
+}

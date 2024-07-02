@@ -1,0 +1,24 @@
+{
+  "name": "emotecraft-for-MC1.20.4-2.4.0-a.f140890e-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "CUDCdgav"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.4.0-a.f140890e"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "1.0.2-rc1+1.20.4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "digitalitems-fabric-1.20.1-0.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "digitalitems",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "digitalitems",
+      "version": "0.3.0"
+    }
+  ]
+}

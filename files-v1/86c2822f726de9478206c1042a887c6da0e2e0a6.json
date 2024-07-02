@@ -1,6 +1,12 @@
 {
   "name": "ContainerSearch-1.1.0-Fabric-1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "quToUcuJ",
+      "versionId": "nyrsqVpn"
+    }
+  ],
   "fabric": [
     {
       "modId": "containersearch",

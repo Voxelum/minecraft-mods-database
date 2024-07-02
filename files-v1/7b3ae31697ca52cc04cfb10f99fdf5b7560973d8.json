@@ -1,0 +1,30 @@
+{
+  "name": "peculiar-pieces-1.2.17.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "peculiarpieces",
+      "version": "1.2.17"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Immersive Vehicles-1.16.5-22.15.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mts",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

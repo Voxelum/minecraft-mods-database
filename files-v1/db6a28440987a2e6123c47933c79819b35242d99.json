@@ -1,0 +1,14 @@
+{
+  "name": "noisium-fabric-2.2.0+mc1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "noisium",
+      "version": "2.2.0+mc1.21"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

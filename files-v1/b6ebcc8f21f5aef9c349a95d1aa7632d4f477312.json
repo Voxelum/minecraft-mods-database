@@ -1,0 +1,20 @@
+{
+  "name": "c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.96-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VSNURh3q",
+      "versionId": "yjCsfBzI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "c2me",
+      "version": "0.2.0+alpha.5.96"
+    },
+    {
+      "modId": "elativitymc_c2me-fabric_ver_1_18_libs_",
+      "version": "0.2.0+alpha.5.96"
+    }
+  ]
+}

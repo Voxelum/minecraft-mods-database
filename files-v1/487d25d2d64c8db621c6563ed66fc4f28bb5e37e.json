@@ -1,6 +1,12 @@
 {
   "name": "extshape-fabric-2.1.2-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tb7kCxSW",
+      "versionId": "pKlS3DgB"
+    }
+  ],
   "fabric": [
     {
       "modId": "extshape",

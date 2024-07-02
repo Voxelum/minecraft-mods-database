@@ -1,0 +1,14 @@
+{
+  "name": "The_Graveyard_2.8.1_(FABRIC)_for_1.19.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "graveyard",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.2-1.18.1"
+    }
+  ]
+}

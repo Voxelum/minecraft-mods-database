@@ -1,0 +1,14 @@
+{
+  "name": "kubejs-fabric-2001.6.4-build.136.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "2001.6.4-build.136"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

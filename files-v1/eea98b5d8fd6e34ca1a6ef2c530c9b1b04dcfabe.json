@@ -1,0 +1,26 @@
+{
+  "name": "PipePlus-1.20.1-1.1.4-fix.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pipeplus",
+      "version": "1.20.1-1.1.4-fix.1"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.14.0-pre.1"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.10.0-pre.2"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.11.0-pre.2"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

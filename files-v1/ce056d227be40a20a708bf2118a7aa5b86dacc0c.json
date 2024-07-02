@@ -1,6 +1,18 @@
 {
   "name": "YSNS-FFQ-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EjXcpmEA",
+      "versionId": "iqO3BQiY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628744,
+      "fileId": 4539466
+    }
+  ],
   "forge": [
     {
       "modId": "ysns",

@@ -1,6 +1,12 @@
 {
   "name": "ecologics-FABRIC-1.18.1-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 570463,
+      "fileId": 3698710
+    }
+  ],
   "fabric": [
     {
       "modId": "ecologics",

@@ -1,0 +1,26 @@
+{
+  "name": "simple-armor-hud-1.20.4-1.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tJflAtvJ",
+      "versionId": "isjYNkMv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 517757,
+      "fileId": 5178873
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple-armor-hud",
+      "version": "1.20.4-1.4.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.3+1.20.2"
+    }
+  ]
+}

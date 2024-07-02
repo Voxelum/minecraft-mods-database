@@ -1,0 +1,16 @@
+{
+  "name": "libIPN-fabric-1.20-4.0.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "libipn",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libipn",
+      "version": "4.0.2"
+    }
+  ]
+}

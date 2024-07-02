@@ -1,0 +1,16 @@
+{
+  "name": "passiveshield-1.19.2-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "passiveshield",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "passiveshield",
+      "version": "3.3"
+    }
+  ]
+}

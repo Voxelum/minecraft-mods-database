@@ -1,0 +1,16 @@
+{
+  "name": "ctrlq-fabric-mc1.19.3+-1.9_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ctrl_q",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctrl-q",
+      "version": "1.9"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "mods": [
+    "bdd6b8ac84b46ae56a3bbb761ce430c48e42e00d",
+    "8a4790a57a1139ee31c5113f9946c4c89cfe7179",
+    "daaa0a952273301117d3dc42bde68c6f1f60b318",
+    "4ebf5767f28d700583e8ee0e91eab118657101d2",
+    "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
+    "2ba4a6149362dbbf81288f393f0022ee9fb07302",
+    "2966f77f7cbc6c40c781bad5e12aaade5623c64a",
+    "1b7884c545556c4b693353ed4cff64aa29d8eb9c",
+    "0deaefc844f35113ed5db90d76b5bd0bd5a279df",
+    "f28b48e77d3e31b899b5dcddbc16b6b33c5fbf53",
+    "fc41d2febae832dd6e7df66ba37905b9641a3f88",
+    "19e0c11ee46e360daf5e9b2f3c8ea11a046e3b73",
+    "ca14ad7f15c33a2d673dd93cd86f2ce97f4e72b1",
+    "b24233f29c0ce4802c61ea8998e01e6e4580ae60",
+    "e68382cb8065919026b47090491bab92be13ee78",
+    "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf",
+    "f01bcf9adbaaeb5f6b185864c0b879e8e3923991",
+    "3373057a5049e311557f8c9494b35ef2df88d984"
+  ],
+  "runtime": {
+    "minecraft": "1.20.1",
+    "quiltLoader": "0.24.0"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.10"
+  }
+}

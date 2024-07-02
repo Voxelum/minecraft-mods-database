@@ -1,6 +1,12 @@
 {
   "name": "emi_loot-0.6.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qbbO7Jns",
+      "versionId": "odt1Mqrz"
+    }
+  ],
   "fabric": [
     {
       "modId": "emi_loot",

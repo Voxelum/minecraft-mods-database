@@ -1,0 +1,20 @@
+{
+  "name": "smallviewmodel-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NKxxmreJ",
+      "versionId": "pTLsLoRG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smallviewmodel",
+      "version": "1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

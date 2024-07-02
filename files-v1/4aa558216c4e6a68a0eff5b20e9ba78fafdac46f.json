@@ -1,0 +1,16 @@
+{
+  "name": "PickUpNotifier-v7.0.0-1.20-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pickupnotifier",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pickupnotifier",
+      "version": "7.0.0"
+    }
+  ]
+}

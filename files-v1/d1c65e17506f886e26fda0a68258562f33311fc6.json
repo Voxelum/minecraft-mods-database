@@ -1,6 +1,12 @@
 {
   "name": "litemoretica-1.2.5+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OYR5DMCo",
+      "versionId": "KdQ0blAk"
+    }
+  ],
   "fabric": [
     {
       "modId": "litemoretica",

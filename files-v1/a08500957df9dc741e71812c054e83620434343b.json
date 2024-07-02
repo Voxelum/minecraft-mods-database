@@ -1,0 +1,48 @@
+{
+  "name": "bewicompat-0.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ziPCqxX",
+      "versionId": "OyigwMGS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bewi-compat",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.19-75-FABRIC"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.73"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "pehkui",
+      "version": "3.3.3+1.14.4-1.19.1"
+    }
+  ]
+}

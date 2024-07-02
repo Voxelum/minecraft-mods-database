@@ -1,0 +1,16 @@
+{
+  "name": "resourcefulconfig-fabric-1.20.1-2.1.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "resourcefulconfig",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcefulconfig",
+      "version": "2.1.2"
+    }
+  ]
+}

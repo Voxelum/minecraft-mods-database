@@ -1,6 +1,12 @@
 {
   "name": "replayMod.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 543388,
+      "fileId": 3511769
+    }
+  ],
   "forge": [
     {
       "modId": "replaymod",

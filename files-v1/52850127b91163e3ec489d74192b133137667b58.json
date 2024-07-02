@@ -1,6 +1,12 @@
 {
   "name": "talentium-0.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a23o1xmu",
+      "versionId": "RdWWPZMo"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_talentium",

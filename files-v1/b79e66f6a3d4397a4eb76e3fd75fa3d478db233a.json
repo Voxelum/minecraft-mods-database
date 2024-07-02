@@ -1,0 +1,16 @@
+{
+  "name": "forge_wider_ender_chests-1.0.0-all.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wider_ender_chests",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wider_ender_chests",
+      "version": "1.0.0"
+    }
+  ]
+}

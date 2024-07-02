@@ -1,0 +1,32 @@
+{
+  "name": "click-translate-baidu-8.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jOAA7v5G",
+      "versionId": "OSZotdrx"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "click-translate-baidu",
+      "version": "8.3.0"
+    },
+    {
+      "modId": "cc_carm_lib_easyconfiguration-core",
+      "version": "3.9.1"
+    },
+    {
+      "modId": "cc_carm_lib_yamlcommentwriter",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "org_bspfsystems_yamlconfiguration",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "cc_carm_lib_easyconfiguration-yaml",
+      "version": "3.9.1"
+    }
+  ]
+}

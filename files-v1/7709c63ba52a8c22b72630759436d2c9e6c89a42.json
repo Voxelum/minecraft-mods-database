@@ -1,6 +1,12 @@
 {
   "name": "advancedchat-1.2-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OnDQctNr",
+      "versionId": "Unjr2LZL"
+    }
+  ],
   "fabric": [
     {
       "modId": "advanced-chat",

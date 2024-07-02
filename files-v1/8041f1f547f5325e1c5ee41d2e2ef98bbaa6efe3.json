@@ -1,0 +1,14 @@
+{
+  "name": "create_interactive-1192-fabric-1.0.1-beta.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "create_interactive",
+      "version": "1.0.1-beta.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

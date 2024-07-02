@@ -1,0 +1,26 @@
+{
+  "name": "Controlify-2.0.0-beta.6+1.20.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "2.0.0-beta.6+1.20.5"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.693c75e-36"
+    },
+    {
+      "modId": "org_hid4java_hid4java",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "org_quiltmc_parsers_gson",
+      "version": "0.3.0"
+    }
+  ]
+}

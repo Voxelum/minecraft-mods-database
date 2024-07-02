@@ -1,6 +1,12 @@
 {
   "name": "effective-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 556381,
+      "fileId": 3735265
+    }
+  ],
   "fabric": [
     {
       "modId": "effective",

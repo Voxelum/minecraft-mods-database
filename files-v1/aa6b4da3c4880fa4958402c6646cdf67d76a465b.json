@@ -1,0 +1,10 @@
+{
+  "name": "desiredservers-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "featuredservers",
+      "version": "1.0.1"
+    }
+  ]
+}

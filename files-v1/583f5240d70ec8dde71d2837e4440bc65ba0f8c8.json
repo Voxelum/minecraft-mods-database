@@ -1,0 +1,16 @@
+{
+  "name": "invis-item-frame-1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_invis_itemframe",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_invis_itemframe",
+      "version": "1"
+    }
+  ]
+}

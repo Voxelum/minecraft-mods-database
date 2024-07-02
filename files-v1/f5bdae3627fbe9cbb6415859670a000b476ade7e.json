@@ -1,0 +1,10 @@
+{
+  "name": "EntityCulling-1.6.2-mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entityculling-fabric",
+      "version": "1.6.2-mc1.20.1"
+    }
+  ]
+}

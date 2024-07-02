@@ -1,0 +1,28 @@
+{
+  "name": "onsoulfire-1.20-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HfTvoVqY",
+      "versionId": "3x2OkwU9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "onsoulfire",
+      "version": "1.20-2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

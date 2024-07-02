@@ -1,0 +1,20 @@
+{
+  "name": "Patchouli-1.20.1-84-FABRIC_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "patchouli",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-84-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

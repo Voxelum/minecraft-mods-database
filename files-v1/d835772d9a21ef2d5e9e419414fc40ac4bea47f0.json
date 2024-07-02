@@ -1,6 +1,12 @@
 {
   "name": "maptooltip-fabric-1.19.4-2.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 384852,
+      "fileId": 4500433
+    }
+  ],
   "fabric": [
     {
       "modId": "maptooltip",

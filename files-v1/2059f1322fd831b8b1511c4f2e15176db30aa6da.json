@@ -1,6 +1,12 @@
 {
   "name": "mythicmobs-1.3.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "avrKhvsK",
+      "versionId": "52HI5LbO"
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicmobs",

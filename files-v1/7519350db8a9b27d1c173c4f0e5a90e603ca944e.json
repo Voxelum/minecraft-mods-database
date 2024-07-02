@@ -1,0 +1,20 @@
+{
+  "name": "variantsandventures-mc1.20.1-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "variantsandventures",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantsandventures",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

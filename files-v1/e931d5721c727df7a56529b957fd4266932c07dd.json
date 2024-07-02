@@ -1,0 +1,22 @@
+{
+  "name": "libmultipart-all-0.7.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "libmultipart_deps_container",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.6.0"
+    }
+  ]
+}

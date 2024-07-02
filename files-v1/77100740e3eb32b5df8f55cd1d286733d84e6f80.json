@@ -1,6 +1,12 @@
 {
   "name": "littletweaks-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jfec64Yz",
+      "versionId": "CJMunQ1z"
+    }
+  ],
   "fabric": [
     {
       "modId": "littletweaks",

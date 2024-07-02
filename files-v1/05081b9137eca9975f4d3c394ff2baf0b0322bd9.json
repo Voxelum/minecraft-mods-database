@@ -1,6 +1,12 @@
 {
   "name": "battletowerslite.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 490893,
+      "fileId": 3368058
+    }
+  ],
   "forge": [
     {
       "modId": "battle_towers_reforged",

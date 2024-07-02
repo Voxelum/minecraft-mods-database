@@ -1,0 +1,22 @@
+{
+  "name": "animated-doors-1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EuloLapn",
+      "versionId": "atGIdc7s"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_animated_doors",
+      "version": "1.19"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_animated_doors",
+      "version": "1.19"
+    }
+  ]
+}

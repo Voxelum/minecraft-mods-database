@@ -1,6 +1,12 @@
 {
   "name": "tia-1.19.2-1.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wMkevcSR",
+      "versionId": "C5JsLyaK"
+    }
+  ],
   "forge": [
     {
       "modId": "tia",

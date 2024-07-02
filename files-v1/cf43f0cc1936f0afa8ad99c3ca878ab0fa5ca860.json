@@ -1,0 +1,20 @@
+{
+  "name": "bettertrims-2.3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 821752,
+      "fileId": 5286405
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettertrims",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

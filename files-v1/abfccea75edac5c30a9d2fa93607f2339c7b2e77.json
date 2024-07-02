@@ -1,6 +1,18 @@
 {
   "name": "witherstormmod-1.19.3-3.2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kWjNGDUH",
+      "versionId": "QyoE1NW1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621405,
+      "fileId": 4468076
+    }
+  ],
   "forge": [
     {
       "modId": "witherstormmod",

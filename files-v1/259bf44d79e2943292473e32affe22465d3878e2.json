@@ -1,6 +1,12 @@
 {
   "name": "auto-plant-crops-1.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnpfhLw4",
+      "versionId": "Q4Lj4j9N"
+    }
+  ],
   "fabric": [
     {
       "modId": "auto-plant-crops",

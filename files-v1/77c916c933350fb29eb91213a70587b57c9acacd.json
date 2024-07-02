@@ -1,6 +1,12 @@
 {
   "name": "custom-portals-3.2.0-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "38pHU3u5",
+      "versionId": "u0pGEz1N"
+    }
+  ],
   "fabric": [
     {
       "modId": "customportals",

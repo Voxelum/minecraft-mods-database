@@ -1,0 +1,10 @@
+{
+  "name": "fabric-language-kotlin-1.11.0+kotlin.2.0.0$kotlinx-coroutines-core-jvm-1.8.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm",
+      "version": "1.8.1"
+    }
+  ]
+}

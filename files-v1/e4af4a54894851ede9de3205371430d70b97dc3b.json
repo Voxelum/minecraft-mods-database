@@ -1,6 +1,12 @@
 {
   "name": "pickyourpoison-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EHjFQKek",
+      "versionId": "INN0iDW3"
+    }
+  ],
   "fabric": [
     {
       "modId": "pickyourpoison",

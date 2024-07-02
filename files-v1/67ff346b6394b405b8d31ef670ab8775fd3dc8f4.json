@@ -1,0 +1,20 @@
+{
+  "name": "somnus-fabric-0.0.11-1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 433538,
+      "fileId": 3218841
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "somnus",
+      "version": "0.0.11-1.16.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.1+9354966b7d"
+    }
+  ]
+}

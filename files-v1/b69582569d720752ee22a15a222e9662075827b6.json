@@ -1,6 +1,12 @@
 {
   "name": "Chunky-1.3.74.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fALzjamp",
+      "versionId": "MpJo7JH4"
+    }
+  ],
   "fabric": [
     {
       "modId": "chunky",

@@ -1,0 +1,14 @@
+{
+  "name": "Croptopia-1.18-FABRIC-1.7.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "croptopia",
+      "version": "1.7.3"
+    },
+    {
+      "modId": "confabricate",
+      "version": "2.2.0-SNAPSHOT+4.1.1"
+    }
+  ]
+}

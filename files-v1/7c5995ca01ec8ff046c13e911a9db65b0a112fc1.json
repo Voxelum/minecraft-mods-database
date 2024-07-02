@@ -1,6 +1,12 @@
 {
   "name": "mcw-trapdoors-1.1.2-mc1.19.2fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n2fvCDlM",
+      "versionId": "eYw4MsTq"
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwtrpdoors",

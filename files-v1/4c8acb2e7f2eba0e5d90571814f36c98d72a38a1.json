@@ -1,0 +1,16 @@
+{
+  "name": "kyubion-wanted-1.7.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_kyubion_wanted",
+      "version": "1.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_kyubion_wanted",
+      "version": "1.7"
+    }
+  ]
+}

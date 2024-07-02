@@ -1,0 +1,16 @@
+{
+  "name": "MoraksMedievalRacesV1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "morakmedievalraces",
+      "version": "1.2.0_Forge&Fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morakmedievalraces",
+      "version": "1.2.0"
+    }
+  ]
+}

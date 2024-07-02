@@ -1,0 +1,44 @@
+{
+  "name": "mythicmetals-0.19.8+1.20.1-hotfix_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mythicmetals",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.19.8+1.20.1-hotfix"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.7.3+1.20.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    }
+  ]
+}

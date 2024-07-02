@@ -1,0 +1,22 @@
+{
+  "name": "lithosphere-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iv9jp2k9",
+      "versionId": "VtCowAjU"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.0"
+    }
+  ]
+}

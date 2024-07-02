@@ -1,6 +1,12 @@
 {
   "name": "bettermounthud-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kqJFAPU9",
+      "versionId": "LY3JHymB"
+    }
+  ],
   "fabric": [
     {
       "modId": "bettermounthud",

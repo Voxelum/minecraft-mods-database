@@ -1,0 +1,40 @@
+{
+  "name": "Terra-fabric-6.3.0-BETA+0be7213ee.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FIlZB9L0",
+      "versionId": "8XNYFizX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terra",
+      "version": "6.3.0-BETA+0be7213ee"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.14+5da15ca1f4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.1+1e1fb126f4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.23+9ff28bcef4"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.5+e719b857f4"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.3.0+a6f3ccfaf4"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.8.0"
+    }
+  ]
+}

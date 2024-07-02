@@ -1,0 +1,10 @@
+{
+  "name": "inventorytabs-0.8.1-1.18.x-sources-dev.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "inventorytabs",
+      "version": "${version}"
+    }
+  ]
+}

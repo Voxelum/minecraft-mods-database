@@ -1,6 +1,18 @@
 {
   "name": "Apugli-2.4.9+1.18.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1qeWG44Y",
+      "versionId": "iAXNdAT9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 579886,
+      "fileId": 4615592
+    }
+  ],
   "forge": [
     {
       "modId": "apugli",

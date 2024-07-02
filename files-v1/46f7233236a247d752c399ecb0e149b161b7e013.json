@@ -1,0 +1,18 @@
+{
+  "name": "emotecraftGitPortBaget1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.4.0-a.80bf0068"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "1.0.2-rc1+1.20.4"
+    }
+  ]
+}

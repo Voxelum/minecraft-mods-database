@@ -1,6 +1,12 @@
 {
   "name": "suggestion-tweaker-1.20-1.5.1-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 615242,
+      "fileId": 4730113
+    }
+  ],
   "forge": [
     {
       "modId": "suggestion_tweaker",

@@ -1,0 +1,16 @@
+{
+  "name": "cardinal-components-api-5.2.2$cardinal-components-chunk-5.2.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cardinal_components_chunk",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    }
+  ]
+}

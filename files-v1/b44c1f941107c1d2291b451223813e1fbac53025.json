@@ -1,0 +1,18 @@
+{
+  "name": "spatialharvesters_Fabric_1.18.x-0.11.13c.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spatialharvesters",
+      "version": "0.11.13c"
+    },
+    {
+      "modId": "completeconfig",
+      "version": "1.3.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.1.0"
+    }
+  ]
+}

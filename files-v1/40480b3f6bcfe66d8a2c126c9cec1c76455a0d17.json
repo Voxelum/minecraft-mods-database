@@ -1,0 +1,26 @@
+{
+  "name": "crimson-moon-2.0.4-1.16.54.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crimsonmoon",
+      "version": "2.0.4-1.16.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.7.10"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "2.7.10"
+    },
+    {
+      "modId": "satin",
+      "version": "1.6.0-nightly.20w48a"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

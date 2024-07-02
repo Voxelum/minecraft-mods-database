@@ -1,0 +1,26 @@
+{
+  "name": "blur-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "sKz8uQeX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393563,
+      "fileId": 5310857
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.4"
+    }
+  ]
+}

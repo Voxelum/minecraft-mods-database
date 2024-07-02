@@ -1,0 +1,32 @@
+{
+  "name": "cc-restiched-1.96.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 462672,
+      "fileId": 3622561
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.96.3"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.26"
+    }
+  ]
+}

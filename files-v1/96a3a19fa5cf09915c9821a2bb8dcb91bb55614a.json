@@ -1,0 +1,22 @@
+{
+  "name": "ns-fd-rc-0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bJTRwh2l",
+      "versionId": "8nTfo8uu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ns_fdrc",
+      "version": "0.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ns_fdrc",
+      "version": "0.1.0"
+    }
+  ]
+}

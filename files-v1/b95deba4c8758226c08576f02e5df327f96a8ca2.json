@@ -1,6 +1,12 @@
 {
   "name": "xaeros-map-chest-tracker-integration-mc1.20.1-v1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XhOTBzVR",
+      "versionId": "KCpLdByr"
+    }
+  ],
   "fabric": [
     {
       "modId": "xaeros-map-chest-tracker-integration",

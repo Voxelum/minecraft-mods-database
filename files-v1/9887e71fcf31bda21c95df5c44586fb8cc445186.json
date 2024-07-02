@@ -1,0 +1,28 @@
+{
+  "name": "scarves-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vhY4Cys8",
+      "versionId": "CaAM3ZUJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scarves",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    },
+    {
+      "modId": "pride",
+      "version": "1.2.0+1.19"
+    }
+  ]
+}

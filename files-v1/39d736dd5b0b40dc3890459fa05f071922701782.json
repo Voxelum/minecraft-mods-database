@@ -1,0 +1,14 @@
+{
+  "name": "reinforced-barrels-2.0.1+1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reinfbarrel",
+      "version": "2.0.1+1.18.2"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "2.0.1+1.18.2"
+    }
+  ]
+}

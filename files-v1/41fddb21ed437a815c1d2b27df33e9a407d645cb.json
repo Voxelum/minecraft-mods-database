@@ -1,0 +1,20 @@
+{
+  "name": "Apugli-2.11.0-alpha.1+1.20.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1qeWG44Y",
+      "versionId": "CVWhbCVG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "apugli",
+      "version": "2.11.0-alpha.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

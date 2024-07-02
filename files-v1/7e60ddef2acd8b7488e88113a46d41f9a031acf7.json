@@ -1,6 +1,12 @@
 {
   "name": "calibrated-1.3.1-beta.11.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pUSRRdVF",
+      "versionId": "wtm7d282"
+    }
+  ],
   "fabric": [
     {
       "modId": "calibrated",

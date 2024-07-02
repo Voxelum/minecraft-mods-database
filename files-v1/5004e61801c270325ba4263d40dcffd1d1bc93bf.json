@@ -1,0 +1,38 @@
+{
+  "name": "silk-all-1.9.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "silk-all",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-commands",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-core",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-game",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-igui",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-nbt",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-network",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "silk-persistence",
+      "version": "1.9.2"
+    }
+  ]
+}

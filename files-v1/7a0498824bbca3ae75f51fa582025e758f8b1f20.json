@@ -1,0 +1,36 @@
+{
+  "name": "puzzle-1.6.3+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3IuO68q1",
+      "versionId": "2pBwdDy2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzle",
+      "version": "1.6.3+1.21"
+    },
+    {
+      "modId": "puzzle-base",
+      "version": "1.6.3+1.21"
+    },
+    {
+      "modId": "puzzle-gui",
+      "version": "1.6.3+1.21"
+    },
+    {
+      "modId": "puzzle-models",
+      "version": "1.6.3+1.21"
+    },
+    {
+      "modId": "puzzle-splashscreen",
+      "version": "1.6.3+1.21"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

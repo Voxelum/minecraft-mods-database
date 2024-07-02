@@ -1,0 +1,16 @@
+{
+  "name": "badpackets-fabric-0.4.3_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "badpackets",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "badpackets",
+      "version": "0.4.3"
+    }
+  ]
+}

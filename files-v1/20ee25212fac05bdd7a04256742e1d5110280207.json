@@ -1,0 +1,34 @@
+{
+  "name": "indrev-1.16.5-BETA-Hotfix.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "indrev",
+      "version": "1.16.5-BETA-Hotfix"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.1.1+1.20.1"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-80-FABRIC"
+    },
+    {
+      "modId": "magna",
+      "version": "${version}"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.19"
+    }
+  ]
+}

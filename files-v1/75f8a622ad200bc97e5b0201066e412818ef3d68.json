@@ -1,6 +1,12 @@
 {
   "name": "cmdkeybind-1.6.0-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h3r1moh7",
+      "versionId": "K7PcKM4C"
+    }
+  ],
   "fabric": [
     {
       "modId": "cmdkeybind",

@@ -1,0 +1,10 @@
+{
+  "name": "bbb-1.20.1-fabric-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bbb",
+      "version": "1.20.1-fabric-1.0.2"
+    }
+  ]
+}

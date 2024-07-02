@@ -1,6 +1,12 @@
 {
   "name": "kbpe-fabric-1.19.2-1.1-fixed.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 785166,
+      "fileId": 4579358
+    }
+  ],
   "fabric": [
     {
       "modId": "betteranimations",

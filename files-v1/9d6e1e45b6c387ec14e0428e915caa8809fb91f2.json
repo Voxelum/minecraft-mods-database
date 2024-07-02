@@ -1,0 +1,16 @@
+{
+  "name": "blossom-blade-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_blossom_blade",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_blossom_blade",
+      "version": "1.1"
+    }
+  ]
+}

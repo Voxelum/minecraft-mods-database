@@ -1,0 +1,20 @@
+{
+  "name": "YamatoGunMod-fabric-0.0.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WZoCbc26",
+      "versionId": "N5RVdCNY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ygm76",
+      "version": "0.0.10"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

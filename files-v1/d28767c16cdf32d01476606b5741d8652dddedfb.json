@@ -1,6 +1,12 @@
 {
   "name": "show_keybinds-2.0.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zaElPFa3",
+      "versionId": "8YiDAplS"
+    }
+  ],
   "fabric": [
     {
       "modId": "show_keybinds",

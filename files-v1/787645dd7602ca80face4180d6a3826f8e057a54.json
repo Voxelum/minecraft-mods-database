@@ -1,6 +1,12 @@
 {
   "name": "DefaultSettings-1.20.x-4.0.7-Forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318012,
+      "fileId": 5141086
+    }
+  ],
   "forge": [
     {
       "modId": "defaultsettings",

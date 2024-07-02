@@ -1,0 +1,50 @@
+{
+  "name": "enchantedshulkers-mc1.20.1-v1.2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vUi6HFie",
+      "versionId": "4YXMZuAk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 657667,
+      "fileId": 5155867
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantedshulkers",
+      "version": "1.2.4"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "io_hotmoka_toml4j",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    }
+  ]
+}

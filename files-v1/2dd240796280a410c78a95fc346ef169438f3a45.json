@@ -1,0 +1,20 @@
+{
+  "name": "polytone-1.20.6-1.19.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "9kokA8Wm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polytone",
+      "version": "1.20.6-1.19.1"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

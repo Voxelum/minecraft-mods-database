@@ -1,0 +1,18 @@
+{
+  "name": "tweakeroo-fabric-1.21-0.20.999-sakura.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakeroo",
+      "version": "0.20.999-sakura.8"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.1.0+686dcdce90"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.3+b559734490"
+    }
+  ]
+}

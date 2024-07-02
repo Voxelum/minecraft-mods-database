@@ -1,0 +1,26 @@
+{
+  "name": "sihywtcamd-1.10.1+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sihywtcamd",
+      "version": "1.10.1+1.20.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    }
+  ]
+}

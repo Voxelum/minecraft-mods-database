@@ -1,0 +1,20 @@
+{
+  "name": "autohud-6.6.2+1.20.4-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 623806,
+      "fileId": 5190912
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autohud",
+      "version": "6.6.2+1.20.4"
+    },
+    {
+      "modId": "yaclx",
+      "version": "1.11+1.20.2"
+    }
+  ]
+}

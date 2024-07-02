@@ -1,0 +1,16 @@
+{
+  "name": "Better-PvP-Fair-Play-Mod-Forge-1.19.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "xaerobetterpvpfair",
+      "version": "23.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaerodev",
+      "version": "${version}"
+    }
+  ]
+}

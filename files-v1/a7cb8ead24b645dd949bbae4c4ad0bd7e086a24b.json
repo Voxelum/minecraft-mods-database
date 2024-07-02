@@ -1,0 +1,16 @@
+{
+  "name": "better_christmas_chests-mc1.20-1.0.0-build.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "better_christmas_chests",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better_christmas_chests",
+      "version": "1.0.0"
+    }
+  ]
+}

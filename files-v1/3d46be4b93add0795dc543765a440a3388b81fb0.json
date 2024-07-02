@@ -1,6 +1,12 @@
 {
   "name": "amethyst-golem-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PG4IZfbi",
+      "versionId": "6vXcRrqp"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_amethyst_golem",

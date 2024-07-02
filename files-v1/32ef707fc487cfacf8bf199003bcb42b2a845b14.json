@@ -1,0 +1,32 @@
+{
+  "name": "skillful-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9wVvXS7V",
+      "versionId": "YWvTHCLi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skillful",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "calio",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.6.1"
+    }
+  ]
+}

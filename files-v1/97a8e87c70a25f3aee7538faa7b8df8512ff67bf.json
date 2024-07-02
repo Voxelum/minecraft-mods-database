@@ -1,0 +1,14 @@
+{
+  "name": "multiconnect-1.6-beta.26.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "multiconnect",
+      "version": "1.6-beta.26"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.2+f6c919d672"
+    }
+  ]
+}

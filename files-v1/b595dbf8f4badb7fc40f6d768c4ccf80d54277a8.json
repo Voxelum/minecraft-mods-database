@@ -1,0 +1,20 @@
+{
+  "name": "elytratrims-fabric-3.1.1+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "3.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

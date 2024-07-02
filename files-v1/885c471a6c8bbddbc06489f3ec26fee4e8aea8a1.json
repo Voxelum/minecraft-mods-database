@@ -1,0 +1,22 @@
+{
+  "name": "netherite-plus-mod-1.4.4-1.16.5-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "netherite_plus",
+      "version": "1.4.4-1.16.5"
+    },
+    {
+      "modId": "oro_config",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "multi_item_lib",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "architectury",
+      "version": "1.9.136"
+    }
+  ]
+}

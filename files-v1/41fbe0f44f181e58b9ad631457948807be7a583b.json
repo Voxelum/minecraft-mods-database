@@ -1,0 +1,28 @@
+{
+  "name": "SereneSeasons-fabric-1.20.4-9.3.0.25.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0bNACJD",
+      "versionId": "9QwOxxTJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sereneseasons",
+      "version": "9.3.0.25"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "net_jodah_typetools",
+      "version": "0.6.3"
+    }
+  ]
+}

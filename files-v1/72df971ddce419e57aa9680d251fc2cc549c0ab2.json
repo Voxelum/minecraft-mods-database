@@ -1,0 +1,16 @@
+{
+  "name": "archon-0.6.2$cardinal-components-base-5.2.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cardinal_components_base",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    }
+  ]
+}

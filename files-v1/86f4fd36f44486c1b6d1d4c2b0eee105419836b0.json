@@ -1,0 +1,16 @@
+{
+  "name": "blocky_siege-6.1.92-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "blocky_siege",
+      "version": "6.1.92"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blocky_siege",
+      "version": "4.0.0"
+    }
+  ]
+}

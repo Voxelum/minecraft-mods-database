@@ -1,6 +1,18 @@
 {
   "name": "lowfire-fabric-1.16.5-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gou1gmGj",
+      "versionId": "ucLAWkDM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405532,
+      "fileId": 3247271
+    }
+  ],
   "fabric": [
     {
       "modId": "lowfire",

@@ -1,0 +1,28 @@
+{
+  "name": "fabricautocrafter-1.0.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wbqioEpc",
+      "versionId": "rlmVtJ5y"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autocrafter",
+      "version": "1.0.16"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.8.0-beta.8+1.20.6"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.0+1.20.5-rc2"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    }
+  ]
+}

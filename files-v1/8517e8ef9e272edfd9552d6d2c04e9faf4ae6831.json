@@ -1,0 +1,36 @@
+{
+  "name": "polymorph-fabric-0.46.6+1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 397434,
+      "fileId": 5222153
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "0.46.6+1.19.2"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.12.8+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.0.2"
+    }
+  ]
+}

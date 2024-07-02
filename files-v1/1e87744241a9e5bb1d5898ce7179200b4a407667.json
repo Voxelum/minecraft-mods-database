@@ -1,6 +1,12 @@
 {
   "name": "furnish-23-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547069,
+      "fileId": 4510803
+    }
+  ],
   "fabric": [
     {
       "modId": "furnish",

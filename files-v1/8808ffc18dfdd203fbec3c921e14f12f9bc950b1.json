@@ -1,6 +1,12 @@
 {
   "name": "Methane - 1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkI4SefA",
+      "versionId": "8Ydn8qvV"
+    }
+  ],
   "fabric": [
     {
       "modId": "methane",

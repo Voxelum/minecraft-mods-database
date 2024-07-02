@@ -1,6 +1,12 @@
 {
   "name": "create_jetpack-forge-3.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "iDyvo2DK"
+    }
+  ],
   "forge": [
     {
       "modId": "create_jetpack",

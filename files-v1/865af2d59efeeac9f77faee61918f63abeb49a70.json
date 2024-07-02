@@ -1,0 +1,18 @@
+{
+  "name": "spelunker-1.4.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spelunker",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "tweed4_data",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "tweed4_data_hjson",
+      "version": "1.1.0"
+    }
+  ]
+}

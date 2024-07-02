@@ -1,0 +1,22 @@
+{
+  "name": "mavm-1.2.6-mc1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 498797,
+      "fileId": 5242620
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mavm",
+      "version": "1.2.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mavm",
+      "version": "1.2.6"
+    }
+  ]
+}

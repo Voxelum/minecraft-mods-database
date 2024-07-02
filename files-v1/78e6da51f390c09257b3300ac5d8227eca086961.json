@@ -1,0 +1,22 @@
+{
+  "name": "createdeco-1.2.7a-fabric-1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 509285,
+      "fileId": 3810882
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createdeco",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createdeco",
+      "version": "1.2.7a-fabric-1.18.2"
+    }
+  ]
+}

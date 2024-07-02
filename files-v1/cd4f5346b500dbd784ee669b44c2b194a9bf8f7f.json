@@ -1,6 +1,12 @@
 {
   "name": "global_packs-forge-1.18.2-1.12.4_forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRLPy2mk",
+      "versionId": "ktGh7bz0"
+    }
+  ],
   "forge": [
     {
       "modId": "globaldataandresourcepacks",

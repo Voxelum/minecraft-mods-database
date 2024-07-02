@@ -1,6 +1,12 @@
 {
   "name": "merenc-forge-1.12.x-v3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627101,
+      "fileId": 4656421
+    }
+  ],
   "forge": [
     {
       "modId": "merenc",

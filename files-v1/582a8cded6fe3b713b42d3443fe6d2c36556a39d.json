@@ -1,6 +1,12 @@
 {
   "name": "HWGMod-1.19.2-1.4.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SPMW1tzD",
+      "versionId": "3WNsTlxx"
+    }
+  ],
   "fabric": [
     {
       "modId": "hwg",

@@ -1,6 +1,12 @@
 {
   "name": "modmenu-10.0.0-alpha.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "mtTzRMV2"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

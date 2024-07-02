@@ -1,6 +1,12 @@
 {
   "name": "rstamina-1.4.1_mc-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mDy74M0S",
+      "versionId": "RIyJZ8S3"
+    }
+  ],
   "fabric": [
     {
       "modId": "rstamina",

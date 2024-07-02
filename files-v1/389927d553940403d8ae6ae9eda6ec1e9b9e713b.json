@@ -1,0 +1,22 @@
+{
+  "name": "copycats-1.1.0-mc1.19.2-fabric-dev.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UT2M39wf",
+      "versionId": "xTPwJSk1"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "copycats",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "copycats",
+      "version": "1.1.0-mc1.19.2-fabric"
+    }
+  ]
+}

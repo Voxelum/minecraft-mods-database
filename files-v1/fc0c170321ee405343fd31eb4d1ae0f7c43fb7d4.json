@@ -1,0 +1,16 @@
+{
+  "name": "dungeonnowloading-18.2-1.19.2.jar.cf6822.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dungeonnowloading",
+      "version": "18.2-1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dungeon_now_loading",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "TelePass-forge-1.20.1-2.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 341875,
+      "fileId": 5002726
+    }
+  ],
   "forge": [
     {
       "modId": "telepass",

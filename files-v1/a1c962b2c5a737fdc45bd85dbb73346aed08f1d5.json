@@ -1,0 +1,20 @@
+{
+  "name": "zombification-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W8YyQyz4",
+      "versionId": "sEptCJqM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombification",
+      "version": "1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.1"
+    }
+  ]
+}

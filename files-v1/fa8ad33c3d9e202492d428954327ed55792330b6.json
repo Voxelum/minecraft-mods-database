@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations-fabric-1.20.1-3.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 580689,
+      "fileId": 5349561
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations",
+      "version": "1.20.1-3.7"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "voicechat-forge-1.19.3-2.4.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9eGKb6K1",
+      "versionId": "2PSG3Ptd"
+    }
+  ],
   "forge": [
     {
       "modId": "voicechat",

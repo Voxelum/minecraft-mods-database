@@ -1,6 +1,12 @@
 {
   "name": "MoreCosmetics-Forge-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3JYl8URa",
+      "versionId": "sc4jRMZC"
+    }
+  ],
   "forge": [
     {
       "modId": "morecosmetics",

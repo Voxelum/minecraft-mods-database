@@ -1,0 +1,14 @@
+{
+  "mods": [
+    ""
+  ],
+  "runtime": {
+    "minecraft": "1.20.4",
+    "fabricLoader": "0.15.7",
+    "labyMod": "4.1.25"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.10"
+  }
+}

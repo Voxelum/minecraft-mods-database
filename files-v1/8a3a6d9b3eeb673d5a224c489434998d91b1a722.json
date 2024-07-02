@@ -1,6 +1,18 @@
 {
   "name": "clienttweaks-fabric-1.20.4-13.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vPNqo58Q",
+      "versionId": "ecFWvFOq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547692,
+      "fileId": 4991534
+    }
+  ],
   "fabric": [
     {
       "modId": "clienttweaks",

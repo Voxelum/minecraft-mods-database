@@ -1,6 +1,18 @@
 {
   "name": "celestisynth-1.20.1-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ocGk7mG",
+      "versionId": "TTsT38Ct"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 872712,
+      "fileId": 5116555
+    }
+  ],
   "forge": [
     {
       "modId": "celestisynth",

@@ -1,0 +1,16 @@
+{
+  "name": "dark-loading-screen-1.6.14_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dark_loading_screen",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dark-loading-screen",
+      "version": "1.6.14"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "dragonloot-1.0.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 424480,
+      "fileId": 3304678
+    }
+  ],
   "fabric": [
     {
       "modId": "dragonloot",

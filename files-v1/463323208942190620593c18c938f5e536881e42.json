@@ -1,6 +1,12 @@
 {
   "name": "autofish-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 892243,
+      "fileId": 4658631
+    }
+  ],
   "fabric": [
     {
       "modId": "autofish",

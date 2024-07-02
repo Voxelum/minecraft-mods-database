@@ -1,6 +1,12 @@
 {
   "name": "JadeAddons-1.19.2-fabric-3.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 656665,
+      "fileId": 4391260
+    }
+  ],
   "fabric": [
     {
       "modId": "jadeaddons",

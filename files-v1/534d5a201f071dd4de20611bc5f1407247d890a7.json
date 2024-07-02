@@ -1,0 +1,20 @@
+{
+  "name": "midas-hunger-1.3.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 436224,
+      "fileId": 3197136
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "midashunger",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

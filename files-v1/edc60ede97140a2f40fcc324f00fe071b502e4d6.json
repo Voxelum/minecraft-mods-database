@@ -1,6 +1,12 @@
 {
   "name": "firstperson-forge-2.3.4-mc1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H5XMjpHi",
+      "versionId": "q76s6vax"
+    }
+  ],
   "forge": [
     {
       "modId": "firstperson",

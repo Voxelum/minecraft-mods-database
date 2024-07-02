@@ -1,0 +1,28 @@
+{
+  "name": "stylish-occult-0.12.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "df4EzLrt",
+      "versionId": "RVufUPKY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stylish_occult",
+      "version": "0.12.0"
+    },
+    {
+      "modId": "interference",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.4.2+1.18.2"
+    },
+    {
+      "modId": "loot_boxes",
+      "version": "0.1.3"
+    }
+  ]
+}

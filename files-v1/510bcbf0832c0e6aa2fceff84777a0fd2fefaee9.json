@@ -1,0 +1,16 @@
+{
+  "name": "its-all-food-0.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_its_allfood",
+      "version": "0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_its_allfood",
+      "version": "0.1"
+    }
+  ]
+}

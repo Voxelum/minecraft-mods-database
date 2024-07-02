@@ -1,0 +1,14 @@
+{
+  "name": "WaterPlayer-2.0.0-beta.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "waterplayer",
+      "version": "2.0.0-beta.1"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "emi_loot-0.6.6+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "emi_loot",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emi_loot",
+      "version": "0.6.6+1.20.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "ctjs-2.2.0-1.8.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UiTVKucn",
+      "versionId": "xNSlYzXb"
+    }
+  ],
   "forge": [
     {
       "modId": "chattriggers",

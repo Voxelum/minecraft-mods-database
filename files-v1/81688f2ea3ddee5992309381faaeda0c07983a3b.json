@@ -1,6 +1,12 @@
 {
   "name": "screenshot-to-clipboard-1.0.7-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1KiJRrTg",
+      "versionId": "RUKPaOij"
+    }
+  ],
   "forge": [
     {
       "modId": "screenshotclipboard",

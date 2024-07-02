@@ -1,0 +1,14 @@
+{
+  "name": "boze.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "boze",
+      "version": "1.2"
+    },
+    {
+      "modId": "boze-api",
+      "version": "1.0.0"
+    }
+  ]
+}

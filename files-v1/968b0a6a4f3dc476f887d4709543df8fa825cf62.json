@@ -1,0 +1,16 @@
+{
+  "name": "omegamute-1.20.1-4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "omegamute",
+      "version": "4.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "omegamute",
+      "version": "4.1"
+    }
+  ]
+}

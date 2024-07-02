@@ -1,0 +1,46 @@
+{
+  "name": "better-fabric-console-mc1.20.2-1.1.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "better-fabric-console",
+      "version": "1.1.7"
+    },
+    {
+      "modId": "org_jline_jline",
+      "version": "3.23.0"
+    },
+    {
+      "modId": "org_jline_jline-terminal-jansi",
+      "version": "3.23.0"
+    },
+    {
+      "modId": "org_fusesource_jansi_jansi",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.10.0"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.4.2"
+    }
+  ]
+}

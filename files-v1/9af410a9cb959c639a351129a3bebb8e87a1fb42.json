@@ -1,0 +1,20 @@
+{
+  "name": "cloth-config-14.0.126-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "znhJLkCd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

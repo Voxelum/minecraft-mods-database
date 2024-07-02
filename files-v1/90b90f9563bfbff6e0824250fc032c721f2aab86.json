@@ -1,0 +1,18 @@
+{
+  "name": "Не подтвержден 669867.crdownload",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "crawling-mysteries",
+      "version": "0.0.2-1.20.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    }
+  ]
+}

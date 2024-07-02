@@ -1,6 +1,12 @@
 {
   "name": "ctintegration-1.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 435298,
+      "fileId": 3311656
+    }
+  ],
   "forge": [
     {
       "modId": "ctintegration",

@@ -1,0 +1,20 @@
+{
+  "name": "particular-1.0.3_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "particular",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particular",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

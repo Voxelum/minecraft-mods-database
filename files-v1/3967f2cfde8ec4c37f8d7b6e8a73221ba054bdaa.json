@@ -1,0 +1,14 @@
+{
+  "name": "agape_space_18-0.4.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "agape_space",
+      "version": "0.4.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.1"
+    }
+  ]
+}

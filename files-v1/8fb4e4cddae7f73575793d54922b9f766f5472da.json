@@ -1,0 +1,16 @@
+{
+  "name": "Applied-Botanics-fabric-1.5.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "appbot",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "appbot",
+      "version": "1.5.0"
+    }
+  ]
+}

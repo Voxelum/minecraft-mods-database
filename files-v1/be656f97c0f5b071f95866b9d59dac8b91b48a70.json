@@ -1,0 +1,14 @@
+{
+  "name": "shrek-fabric-1.20.1-1.1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shrek",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

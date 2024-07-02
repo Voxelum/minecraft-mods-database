@@ -1,0 +1,28 @@
+{
+  "name": "do-a-barrel-roll-3.3.7+1.19.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6FtRfnLg",
+      "versionId": "s4zNwCf2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": "3.3.7+1.19.4"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.5.0+1.20.1-minus"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

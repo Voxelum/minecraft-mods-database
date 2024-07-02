@@ -1,0 +1,14 @@
+{
+  "name": "Zoomify-2.14.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "2.14.0+1.20.1"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.5.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "walljump-connector-1.20.1-1.4.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "walljump",
+      "version": "1.4.4"
+    },
+    {
+      "modId": "org_aeonbits_owner_owner",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "keybind_fix",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    }
+  ]
+}

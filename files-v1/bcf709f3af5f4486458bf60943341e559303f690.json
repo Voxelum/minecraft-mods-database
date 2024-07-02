@@ -1,0 +1,36 @@
+{
+  "name": "eoe-BETA-1.19.2-0.13.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 854974,
+      "fileId": 5310973
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jcraft",
+      "version": "1.19.2-0.13.7"
+    },
+    {
+      "modId": "satin",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.2"
+    }
+  ]
+}

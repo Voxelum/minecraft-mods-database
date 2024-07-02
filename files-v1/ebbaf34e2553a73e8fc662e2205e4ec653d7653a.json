@@ -1,9 +1,19 @@
 {
   "name": "jmt_mcmt-1.16.5-0.22.87.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401447,
+      "fileId": 3457863
+    }
+  ],
   "forge": [
     {
       "modId": "jmt_mcmt-1.16.5-0.22.87",
+      "version": ""
+    },
+    {
+      "modId": "+jmt_mcmt-1.16.5-0.22.87",
       "version": ""
     }
   ]

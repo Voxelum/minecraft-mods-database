@@ -1,6 +1,12 @@
 {
   "name": "myrtrees-forge-1.0.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 546151,
+      "fileId": 3553611
+    }
+  ],
   "forge": [
     {
       "modId": "myrtrees",

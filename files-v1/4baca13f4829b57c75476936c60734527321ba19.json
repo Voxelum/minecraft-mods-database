@@ -1,0 +1,30 @@
+{
+  "name": "brewinandchewin-3.0.3+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e4G0uSdm",
+      "versionId": "KPe7wpZQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 807512,
+      "fileId": 5274093
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brewinandchewin",
+      "version": "3.0.3+1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

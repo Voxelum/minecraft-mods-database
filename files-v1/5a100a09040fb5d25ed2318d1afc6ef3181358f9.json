@@ -1,6 +1,18 @@
 {
   "name": "spyglass_improvements-1.2+mc1.18.x+forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z6ykjRlM",
+      "versionId": "ymAH9nkG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 571264,
+      "fileId": 3767303
+    }
+  ],
   "forge": [
     {
       "modId": "spyglass_improvements",

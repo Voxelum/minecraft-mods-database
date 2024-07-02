@@ -1,0 +1,20 @@
+{
+  "name": "spell_power-0.10.2+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spell_power",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spell_power",
+      "version": "0.10.2+1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

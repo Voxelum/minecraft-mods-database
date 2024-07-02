@@ -1,0 +1,28 @@
+{
+  "name": "HopoBetterRuinedPortals-[1.19-1.19.3]-1.3.3b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hIpLSyga",
+      "versionId": "kUn7JCSf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632624,
+      "fileId": 5137166
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hoporp",
+      "version": "1.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobetterruinedportal",
+      "version": "1.3.3"
+    }
+  ]
+}

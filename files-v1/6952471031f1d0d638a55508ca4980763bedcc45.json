@@ -1,0 +1,14 @@
+{
+  "name": "solar-apocalypse-1.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "solar_apocalypse",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

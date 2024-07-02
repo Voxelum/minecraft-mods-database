@@ -1,0 +1,10 @@
+{
+  "name": "librarian-trade-finder-1.2.3-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "librarian-trade-finder",
+      "version": "${version}"
+    }
+  ]
+}

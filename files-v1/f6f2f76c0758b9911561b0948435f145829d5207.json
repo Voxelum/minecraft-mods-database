@@ -1,6 +1,18 @@
 {
   "name": "woodenbucket-1.18.2-1.0.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xsNAEIke",
+      "versionId": "eRl01kdJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585328,
+      "fileId": 3794675
+    }
+  ],
   "forge": [
     {
       "modId": "woodenbucket",

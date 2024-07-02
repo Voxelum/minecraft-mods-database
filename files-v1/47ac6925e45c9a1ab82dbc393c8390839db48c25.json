@@ -1,0 +1,26 @@
+{
+  "name": "AestPack.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "aestpack",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230618"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

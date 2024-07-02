@@ -1,0 +1,20 @@
+{
+  "name": "Copycats-fabric.1.20.1-1.2.1.jar.disabled",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "copycats",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "copycats",
+      "version": "1.20.1-1.2.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

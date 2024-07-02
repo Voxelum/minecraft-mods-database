@@ -1,0 +1,16 @@
+{
+  "name": "archon-0.6.2$omega-config-base-1.3.0+1.19.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "omega_config",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "omega-config",
+      "version": "1.3.0+1.19.2"
+    }
+  ]
+}

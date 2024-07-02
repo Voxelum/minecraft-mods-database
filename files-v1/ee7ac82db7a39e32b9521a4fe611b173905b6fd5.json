@@ -1,4 +1,16 @@
 {
   "name": "devilfruits-forge-1.20.1-beta-1.4.jar",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 519999,
+      "fileId": 4982256
+    }
+  ],
+  "forge": [
+    {
+      "modId": "devilfruits",
+      "version": "1.4"
+    }
+  ]
 }

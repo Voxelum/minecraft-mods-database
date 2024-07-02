@@ -1,6 +1,12 @@
 {
   "name": "foamfix-0.6.3-anarchy-1.8.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jupr7Bf5",
+      "versionId": "YFM06Kn5"
+    }
+  ],
   "forge": [
     {
       "modId": "foamfix",

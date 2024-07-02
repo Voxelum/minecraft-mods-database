@@ -1,6 +1,12 @@
 {
   "name": "MCretector-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PvSdzQ3v",
+      "versionId": "a9REZ6OB"
+    }
+  ],
   "forge": [
     {
       "modId": "mcretector",

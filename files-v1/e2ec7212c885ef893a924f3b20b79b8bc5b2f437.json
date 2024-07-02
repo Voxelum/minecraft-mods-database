@@ -1,0 +1,80 @@
+{
+  "name": "create_power_loader-1.4.3-mc1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E9MuZ1zB",
+      "versionId": "Q5q7SSeu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 976304,
+      "fileId": 5192433
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_power_loader",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_power_loader",
+      "version": "1.4.3-mc1.20.1-fabric"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_client_events",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_brewing",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_chunk_loading",
+      "version": "2.3.0+1.20.1"
+    }
+  ]
+}

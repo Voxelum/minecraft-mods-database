@@ -1,0 +1,16 @@
+{
+  "name": "torchhit-1.19.2-6.0.1.0-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "torchhit",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "torchhit",
+      "version": "6.0.1.0"
+    }
+  ]
+}

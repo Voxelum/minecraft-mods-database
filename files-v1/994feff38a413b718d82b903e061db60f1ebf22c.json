@@ -1,0 +1,22 @@
+{
+  "name": "forgotten_temples-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1013307,
+      "fileId": 5315559
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgotten_temple",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgotten_temple",
+      "version": "1.0.0"
+    }
+  ]
+}

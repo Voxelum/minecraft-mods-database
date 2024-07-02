@@ -1,6 +1,12 @@
 {
   "name": "betterloot-1.0.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oJabiJYC",
+      "versionId": "AzYujDL3"
+    }
+  ],
   "fabric": [
     {
       "modId": "betterloot",

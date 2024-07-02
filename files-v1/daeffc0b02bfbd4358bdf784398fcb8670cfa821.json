@@ -1,0 +1,24 @@
+{
+  "name": "portalhexaddon-Fabric-1.19.2-0.5.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHdZ4gTh",
+      "versionId": "WjVMjjPd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "portalhexaddon",
+      "version": "0.5.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cicada-lib-0.7.2+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cicada",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cicada",
+      "version": "0.7.1+1.20.1"
+    }
+  ]
+}

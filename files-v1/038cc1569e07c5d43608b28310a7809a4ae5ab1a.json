@@ -1,0 +1,16 @@
+{
+  "name": "extendedclouds-1.2.2+1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "extendedclouds",
+      "version": "1.2.2+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedclouds",
+      "version": "1.2.2+1.20"
+    }
+  ]
+}

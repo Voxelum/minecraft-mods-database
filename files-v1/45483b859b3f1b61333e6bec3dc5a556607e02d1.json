@@ -1,6 +1,12 @@
 {
   "name": "Forgematica-0.1.7-mc1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dCKRaeBC",
+      "versionId": "3XizL61k"
+    }
+  ],
   "forge": [
     {
       "modId": "forgematica",

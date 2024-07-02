@@ -1,0 +1,16 @@
+{
+  "name": "chunkloaders-1.2.8a-fabric-mc1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chunkloaders",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunkloaders",
+      "version": "1.2.8+a"
+    }
+  ]
+}

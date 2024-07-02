@@ -1,0 +1,28 @@
+{
+  "name": "probejs-6.0.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585406,
+      "fileId": 5227391
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "probejs",
+      "version": "6.0.1"
+    },
+    {
+      "modId": "com_github_javaparser_javaparser-symbol-solver-core",
+      "version": "3.25.8"
+    },
+    {
+      "modId": "org_vineflower_vineflower",
+      "version": "1.9.3"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.6"
+    }
+  ]
+}

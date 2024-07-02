@@ -1,0 +1,20 @@
+{
+  "name": "bclib-21.0.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 495191,
+      "fileId": 5473628
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "21.0.2"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "21.0.2"
+    }
+  ]
+}

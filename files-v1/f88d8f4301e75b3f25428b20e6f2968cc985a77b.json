@@ -1,6 +1,18 @@
 {
   "name": "compacthelpcommand-1.20.1-2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XdiGl7ZL",
+      "versionId": "l4ff1td7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 515753,
+      "fileId": 5169072
+    }
+  ],
   "forge": [
     {
       "modId": "compacthelpcommand",

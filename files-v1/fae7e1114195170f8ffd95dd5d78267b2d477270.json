@@ -1,0 +1,20 @@
+{
+  "name": "simply-no-shading-6.1.6-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9gx5Xvc5",
+      "versionId": "umJCBrDs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simply-no-shading",
+      "version": "6.1.6-mc1.20.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.2+1.20"
+    }
+  ]
+}

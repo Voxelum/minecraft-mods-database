@@ -1,0 +1,44 @@
+{
+  "name": "figura-0.1.4+1.20.2-fabric-mc.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9gIPDom",
+      "versionId": "pWWzQ2T1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "figura",
+      "version": "0.1.4+1.20.2"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-core",
+      "version": "3.0.8-figura"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-jse",
+      "version": "3.0.8-figura"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.14"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.33+fce67b32a0"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.15+86b12645a0"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.38+f4b7e424a0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.11+86b12645a0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "toms_storage_fabric-1.18.2-1.5.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "toms_storage",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

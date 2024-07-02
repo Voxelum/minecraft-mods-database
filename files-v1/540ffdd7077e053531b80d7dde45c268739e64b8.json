@@ -1,0 +1,32 @@
+{
+  "name": "PuzzlesLib-v8.1.20-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QAGBst4M",
+      "versionId": "R9M0uem6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495476,
+      "fileId": 5373245
+    }
+  ],
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "8.1.20"
+    },
+    {
+      "modId": "puzzlesaccessapi",
+      "version": "8.0.7"
+    }
+  ]
+}

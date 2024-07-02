@@ -1,0 +1,22 @@
+{
+  "name": "Pehkui-3.8.0+1.18.2-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "que73KU8"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.8.0+1.18.2-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

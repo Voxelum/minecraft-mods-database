@@ -1,0 +1,16 @@
+{
+  "name": "MindfulDarkness-v7.0.0-1.20-Fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mindfuldarkness",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mindfuldarkness",
+      "version": "7.0.0"
+    }
+  ]
+}

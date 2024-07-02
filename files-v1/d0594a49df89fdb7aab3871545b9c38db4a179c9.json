@@ -1,6 +1,12 @@
 {
   "name": "car-1.2.11.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 267458,
+      "fileId": 2533993
+    }
+  ],
   "forge": [
     {
       "modId": "car",

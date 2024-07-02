@@ -1,0 +1,22 @@
+{
+  "name": "construction deco Forge 1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jv05qdpr",
+      "versionId": "afEqqVZE"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "construction_deco",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "construction_deco",
+      "version": "1.0"
+    }
+  ]
+}

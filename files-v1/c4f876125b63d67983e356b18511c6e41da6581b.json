@@ -1,0 +1,30 @@
+{
+  "name": "letsdo-API-fabric-1.2.9-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "u8VE5pSI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864599,
+      "fileId": 5205394
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doapi",
+      "version": "1.2.9"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

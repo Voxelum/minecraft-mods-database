@@ -1,6 +1,12 @@
 {
   "name": "wardentools-2.4.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KuQueJOG",
+      "versionId": "yGDo6XgE"
+    }
+  ],
   "fabric": [
     {
       "modId": "wardentools",

@@ -1,0 +1,14 @@
+{
+  "name": "AFKfish-0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.112"
+    }
+  ]
+}

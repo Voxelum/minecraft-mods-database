@@ -1,6 +1,12 @@
 {
   "name": "tombstone-4.0.0-2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 396902,
+      "fileId": 3010010
+    }
+  ],
   "forge": [
     {
       "modId": "tombstone",

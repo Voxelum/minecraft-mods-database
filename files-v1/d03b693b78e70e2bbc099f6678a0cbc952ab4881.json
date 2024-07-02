@@ -1,0 +1,28 @@
+{
+  "name": "moretools-1.1.0+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S6P4vaGq",
+      "versionId": "Wr8xdOs9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moretools",
+      "version": "1.1.0+1.20.4"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.7.6+1.20.4"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.7.6+1.20.4"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.7.6+1.20.4"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "megane-fabric-20.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "megane",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-alloy-forgery",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-applied-energistics-2",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-create",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-deep-mob-learning-simulacrum",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-industrial-revolution",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-kibe",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-modern-dynamics",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-powah",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-reborn-core",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-tech-reborn",
+      "version": "20.1.1"
+    },
+    {
+      "modId": "megane-wireless-networks",
+      "version": "20.1.1"
+    }
+  ]
+}
