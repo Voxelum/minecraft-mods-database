@@ -1,0 +1,16 @@
+{
+  "name": "dupecommand-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "arrivalsdupe",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "arrivalsdupe",
+      "version": "1.0.0"
+    }
+  ]
+}

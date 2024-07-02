@@ -1,0 +1,10 @@
+{
+  "name": "forgelin-1.8-0.1.1-1.0.0-beta-3595.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "Forgelin",
+      "version": "@VERSION@-@KOTLIN@"
+    }
+  ]
+}

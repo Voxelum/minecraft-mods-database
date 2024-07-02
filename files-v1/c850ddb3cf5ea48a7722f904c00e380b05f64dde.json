@@ -1,0 +1,16 @@
+{
+  "name": "visuality-0.7.1+1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "visuality",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "visuality",
+      "version": "0.7.1+1.20"
+    }
+  ]
+}

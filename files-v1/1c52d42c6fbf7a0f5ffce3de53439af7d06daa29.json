@@ -1,6 +1,12 @@
 {
   "name": "mvs-2.2.6-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OQAgZMH1",
+      "versionId": "CjHdqdL3"
+    }
+  ],
   "fabric": [
     {
       "modId": "mvs",

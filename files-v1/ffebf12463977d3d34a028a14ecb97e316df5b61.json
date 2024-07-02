@@ -1,6 +1,12 @@
 {
   "name": "grind-enchantments-3.1.2+1.20.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 379680,
+      "fileId": 4946423
+    }
+  ],
   "fabric": [
     {
       "modId": "grindenchantments",

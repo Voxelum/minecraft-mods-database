@@ -1,0 +1,16 @@
+{
+  "name": "MouseTweaks-fabric-mc1.20-2.26_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mousetweaks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mousetweaks",
+      "version": "2.26"
+    }
+  ]
+}

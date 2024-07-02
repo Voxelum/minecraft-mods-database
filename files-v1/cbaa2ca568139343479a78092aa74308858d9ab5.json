@@ -1,0 +1,14 @@
+{
+  "name": "tps-hud-1.2-SNAPSHOT.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tpshud",
+      "version": "1.2-SNAPSHOT"
+    },
+    {
+      "modId": "me_obsilabor_alert",
+      "version": "1.0.1"
+    }
+  ]
+}

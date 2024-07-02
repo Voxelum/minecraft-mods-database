@@ -1,0 +1,14 @@
+{
+  "name": "floodgate-fabric-2.2.0-SNAPSHOT+build.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "floodgate",
+      "version": "2.2.0-SNAPSHOT"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.8.4"
+    }
+  ]
+}

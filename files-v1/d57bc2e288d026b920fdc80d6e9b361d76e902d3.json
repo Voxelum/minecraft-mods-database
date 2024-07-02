@@ -1,0 +1,10 @@
+{
+  "name": "fabric-0.1.0-SNAPSHOT-v1_20_1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a82"
+    }
+  ]
+}

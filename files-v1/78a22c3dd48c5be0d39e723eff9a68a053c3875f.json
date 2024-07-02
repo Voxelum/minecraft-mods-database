@@ -1,6 +1,12 @@
 {
   "name": "PickBlockPro.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6kI7U1sT",
+      "versionId": "iKyyx1jP"
+    }
+  ],
   "fabric": [
     {
       "modId": "pickblockpro",

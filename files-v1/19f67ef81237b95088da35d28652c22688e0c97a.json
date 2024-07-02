@@ -1,6 +1,12 @@
 {
   "name": "modern-beta-fabric-6.4.1+1.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 410423,
+      "fileId": 4596369
+    }
+  ],
   "fabric": [
     {
       "modId": "modern_beta",

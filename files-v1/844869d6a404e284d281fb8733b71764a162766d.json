@@ -1,0 +1,14 @@
+{
+  "name": "moborigins-1.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moborigins",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    }
+  ]
+}

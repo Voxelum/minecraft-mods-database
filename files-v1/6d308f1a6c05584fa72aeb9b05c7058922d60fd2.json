@@ -1,0 +1,14 @@
+{
+  "name": "autopath-mc1.18.2-1.4.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autopath",
+      "version": "1.4.9"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

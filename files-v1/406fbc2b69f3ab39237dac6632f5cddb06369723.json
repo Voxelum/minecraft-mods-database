@@ -1,0 +1,20 @@
+{
+  "name": "mcrgb-0.2.4-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BSidqwQl",
+      "versionId": "OLs0AQuB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcrgb",
+      "version": "0.2.3-1.20.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.0.0+1.20.2"
+    }
+  ]
+}

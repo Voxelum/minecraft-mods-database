@@ -1,0 +1,14 @@
+{
+  "name": "zipfstmp6298667652851287962.tmp",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.19+kotlin.1.9.23"
+    }
+  ]
+}

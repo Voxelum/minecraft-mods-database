@@ -1,0 +1,10 @@
+{
+  "name": "torture-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "torture",
+      "version": "1.7.0"
+    }
+  ]
+}

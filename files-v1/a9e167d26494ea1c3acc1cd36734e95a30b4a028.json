@@ -1,0 +1,14 @@
+{
+  "name": "dash-2.0.0-1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dtdash",
+      "version": "2.0.0-1.19.2"
+    },
+    {
+      "modId": "sulphate",
+      "version": "1.1.1"
+    }
+  ]
+}

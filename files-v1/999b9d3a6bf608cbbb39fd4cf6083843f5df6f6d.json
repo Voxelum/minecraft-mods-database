@@ -1,0 +1,30 @@
+{
+  "name": "charm-fabric-1.20.1-6.0.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charm",
+      "version": "6.0.20"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "charmony_api",
+      "version": "6.7.0"
+    },
+    {
+      "modId": "charmony",
+      "version": "6.12.0"
+    }
+  ]
+}

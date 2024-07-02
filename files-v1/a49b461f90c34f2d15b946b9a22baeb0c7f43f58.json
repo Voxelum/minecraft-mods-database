@@ -1,0 +1,10 @@
+{
+  "name": "secret-rooms-1.0.0r-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "examplemod",
+      "version": "1.0.0r-1.18.2"
+    }
+  ]
+}

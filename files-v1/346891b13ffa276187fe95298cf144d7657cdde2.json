@@ -1,6 +1,12 @@
 {
   "name": "ToolStats-Fabric-1.20.1-16.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vuGFx44e",
+      "versionId": "5ERXSHbl"
+    }
+  ],
   "fabric": [
     {
       "modId": "toolstats",

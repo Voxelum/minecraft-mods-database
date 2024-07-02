@@ -1,6 +1,12 @@
 {
   "name": "emissive-plugin-1.20.4-2.0.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oQ0dIGZg",
+      "versionId": "3O6JiEx8"
+    }
+  ],
   "fabric": [
     {
       "modId": "moremcmeta_emissive_plugin",

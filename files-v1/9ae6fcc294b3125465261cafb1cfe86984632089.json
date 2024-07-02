@@ -1,6 +1,12 @@
 {
   "name": "expcaves-4.0.1-alpha-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RTR0Bmta",
+      "versionId": "x8018aOg"
+    }
+  ],
   "forge": [
     {
       "modId": "expcaves",

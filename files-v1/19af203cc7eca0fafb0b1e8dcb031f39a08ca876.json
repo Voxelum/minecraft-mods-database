@@ -1,0 +1,16 @@
+{
+  "name": "cloth-config-11.1.118-fabric$basic-math-0.6.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cloth_basic_math",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

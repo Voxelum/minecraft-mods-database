@@ -1,0 +1,20 @@
+{
+  "name": "balm-fabric-1.20.1-7.3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBAkmtvl",
+      "versionId": "de1sItvo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "balm-fabric",
+      "version": "7.3.4"
+    },
+    {
+      "modId": "kuma_api",
+      "version": "20.1.6"
+    }
+  ]
+}

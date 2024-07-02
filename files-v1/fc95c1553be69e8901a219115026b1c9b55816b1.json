@@ -1,0 +1,16 @@
+{
+  "name": "aas-1.19_1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "apollo",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "apollo",
+      "version": "1.2"
+    }
+  ]
+}

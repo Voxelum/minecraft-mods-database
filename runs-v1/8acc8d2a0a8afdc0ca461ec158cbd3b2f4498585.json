@@ -1,0 +1,19 @@
+{
+  "mods": [
+    "e4a57e3ff2939a1bbe47e57199e6d0488f376e34",
+    "d63752627bbc79d67e243ac5c074145993ec5e5d",
+    "20657c3fe30484a39b7a3da001ea7588cdb1fadc",
+    "470986f5e44b3c6ec5886077cb23847d11456092",
+    "538e6ffe246a6ceced2ec635848c21f0b1369390",
+    "db3894c00af9f0ea7a6b0faffccc168493314973",
+    "d59aabea92d77b720161e0926b9cdff53c8589b6"
+  ],
+  "runtime": {
+    "minecraft": "24w14potato",
+    "fabricLoader": "0.15.9"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.10"
+  }
+}

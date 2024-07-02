@@ -1,0 +1,14 @@
+{
+  "name": "wicked-paintings-1.4.1+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wicked-paintings",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.1+1.20.2"
+    }
+  ]
+}

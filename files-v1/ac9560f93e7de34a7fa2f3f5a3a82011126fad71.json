@@ -1,6 +1,12 @@
 {
   "name": "expandedstorage-10.2.2+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jCCPlP3c",
+      "versionId": "R3M171FU"
+    }
+  ],
   "forge": [
     {
       "modId": "expandedstorage",

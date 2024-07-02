@@ -1,0 +1,20 @@
+{
+  "name": "create_power_loader-1.5.3-mc1.20.1-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_power_loader",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_power_loader",
+      "version": "1.5.3-mc1.20.1-fabric"
+    },
+    {
+      "modId": "porting_lib_chunk_loading",
+      "version": "2.3.0+1.20.1"
+    }
+  ]
+}

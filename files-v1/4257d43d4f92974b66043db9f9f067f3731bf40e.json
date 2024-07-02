@@ -1,6 +1,12 @@
 {
   "name": "thermal_foundation-1.16.5-1.4.3.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 222880,
+      "fileId": 3621736
+    }
+  ],
   "forge": [
     {
       "modId": "thermal",

@@ -1,0 +1,16 @@
+{
+  "name": "vanity_invisible_armory-1.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vanity_invisible_armory",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanity_invisible_armory",
+      "version": "1.0.3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "wirelesschargers-1.0.9a-fabric-mc1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 510656,
+      "fileId": 5294262
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wirelesschargers",
+      "version": "1.0.9+a"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "player_animator",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

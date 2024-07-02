@@ -1,0 +1,40 @@
+{
+  "name": "sophisticatedcore-1.19.4-0.5.108-SNAPSHOT.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sophisticatedcore-1.19.4-0.5.108-SNAPSHOT.9",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedcore",
+      "version": "0.5.108-SNAPSHOT.9+mc1.19.4"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "6.0.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

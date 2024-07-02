@@ -1,0 +1,10 @@
+{
+  "name": "Menu.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "CustomMainMenu",
+      "version": "1.9.2"
+    }
+  ]
+}

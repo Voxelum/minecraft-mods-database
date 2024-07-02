@@ -1,6 +1,12 @@
 {
   "name": "configured-forge-1.20.4-2.2.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 457570,
+      "fileId": 5105022
+    }
+  ],
   "forge": [
     {
       "modId": "configured",

@@ -1,0 +1,10 @@
+{
+  "name": "terrarium-1.1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "earth",
+      "version": "1.1.2"
+    }
+  ]
+}

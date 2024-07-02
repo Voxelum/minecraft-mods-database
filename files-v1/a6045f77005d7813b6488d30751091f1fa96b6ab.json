@@ -1,6 +1,12 @@
 {
   "name": "serverpingerfixer-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iqK5uv72",
+      "versionId": "VSIi6KML"
+    }
+  ],
   "fabric": [
     {
       "modId": "serverpingerfixer",

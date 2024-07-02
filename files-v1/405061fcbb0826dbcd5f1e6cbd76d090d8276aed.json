@@ -1,0 +1,16 @@
+{
+  "name": "dark-waters-connector-1.20.1-0.0.22_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "darkwaters",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkwaters",
+      "version": "0.0.22"
+    }
+  ]
+}

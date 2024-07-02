@@ -1,0 +1,16 @@
+{
+  "name": "waystones-fabric-1.20-14.1.3_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "waystones",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "waystones",
+      "version": "14.1.3"
+    }
+  ]
+}

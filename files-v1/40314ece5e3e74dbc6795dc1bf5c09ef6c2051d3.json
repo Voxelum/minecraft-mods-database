@@ -1,0 +1,14 @@
+{
+  "name": "panorama_screens-1.0+fabric+mc1.19.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "panorama_screens",
+      "version": "1.0+fabric+mc1.19"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

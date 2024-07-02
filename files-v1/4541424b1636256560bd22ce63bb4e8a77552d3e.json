@@ -1,6 +1,12 @@
 {
   "name": "blockmeter-1.10.1-HEAD.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oGU9LXKC",
+      "versionId": "JGenKwMQ"
+    }
+  ],
   "fabric": [
     {
       "modId": "blockmeter",

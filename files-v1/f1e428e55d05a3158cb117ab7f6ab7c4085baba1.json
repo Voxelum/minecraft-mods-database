@@ -1,0 +1,28 @@
+{
+  "name": "witcher-class-mod-1.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4eW1c7Gj",
+      "versionId": "kNnKpDyI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "witcher-rpg",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    }
+  ]
+}

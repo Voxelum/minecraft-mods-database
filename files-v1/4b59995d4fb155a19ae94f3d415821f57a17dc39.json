@@ -1,6 +1,12 @@
 {
   "name": "tac-0.3.10.2-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hudztH4j",
+      "versionId": "hqaRxH2K"
+    }
+  ],
   "forge": [
     {
       "modId": "tac",

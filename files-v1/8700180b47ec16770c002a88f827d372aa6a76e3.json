@@ -1,0 +1,40 @@
+{
+  "name": "banhammer-0.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 460682,
+      "fileId": 3276166
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "banhammer",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "4.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-text-minimessage",
+      "version": "4.1.0-SNAPSHOT"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.34.0"
+    },
+    {
+      "modId": "mysql_mysql-connector-java",
+      "version": "8.0.23"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "0.3.0"
+    }
+  ]
+}

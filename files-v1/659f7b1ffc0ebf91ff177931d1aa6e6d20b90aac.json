@@ -1,6 +1,12 @@
 {
   "name": "largefluidtank-forge-20.7.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uMlJQMHT",
+      "versionId": "g5W1Cdiq"
+    }
+  ],
   "forge": [
     {
       "modId": "fluidtank",

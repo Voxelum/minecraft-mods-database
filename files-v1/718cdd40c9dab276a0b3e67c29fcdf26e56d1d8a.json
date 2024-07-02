@@ -1,0 +1,16 @@
+{
+  "name": "simplyswords-fabric-1.55.0-1.20.1$spruceui-5.0.0+1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "spruceui",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "autohud-4.3+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "temczoTQ",
+      "versionId": "dnvF9to0"
+    }
+  ],
   "fabric": [
     {
       "modId": "autohud",

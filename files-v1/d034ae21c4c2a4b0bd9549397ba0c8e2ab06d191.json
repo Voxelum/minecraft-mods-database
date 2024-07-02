@@ -1,0 +1,30 @@
+{
+  "name": "hybrid-aquatic-1.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HH4FjUqN",
+      "versionId": "is1AdiCw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 834427,
+      "fileId": 5275011
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hybrid-aquatic",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

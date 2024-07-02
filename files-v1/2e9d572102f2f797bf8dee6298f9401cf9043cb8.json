@@ -1,0 +1,28 @@
+{
+  "name": "presencium-FABRIC-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iNU1UQcw",
+      "versionId": "xczlOMIX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "presencium",
+      "version": "1.1"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230618"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    }
+  ]
+}

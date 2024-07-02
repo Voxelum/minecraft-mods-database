@@ -1,6 +1,18 @@
 {
   "name": "tac-release-0.3.13.2-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hudztH4j",
+      "versionId": "vwy0eppz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491264,
+      "fileId": 5194531
+    }
+  ],
   "forge": [
     {
       "modId": "tac",

@@ -1,0 +1,20 @@
+{
+  "name": "Ribbits-1.20.1-Fabric-3.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 622967,
+      "fileId": 5425425
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ribbits",
+      "version": "1.20.1-Fabric-3.0.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "spell_engine-0.14.3+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XvoWJaA2",
+      "versionId": "IQ3VkdyH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 807653,
+      "fileId": 5256233
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spell_engine",
+      "version": "0.14.3+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

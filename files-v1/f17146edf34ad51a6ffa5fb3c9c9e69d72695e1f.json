@@ -1,0 +1,16 @@
+{
+  "name": "hostile-mobs-improve-over-time-1.5.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_hostile_mobsimproveovertime",
+      "version": "1.5.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_hostile_mobsimproveovertime",
+      "version": "1.5.3"
+    }
+  ]
+}

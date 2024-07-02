@@ -1,6 +1,12 @@
 {
   "name": "queenbee.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523596,
+      "fileId": 3477058
+    }
+  ],
   "forge": [
     {
       "modId": "queen_bee",

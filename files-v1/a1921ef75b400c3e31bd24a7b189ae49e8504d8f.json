@@ -1,0 +1,14 @@
+{
+  "name": "collective-fabric-1.16.5-5.45.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "collective-fabric",
+      "version": "5.45"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

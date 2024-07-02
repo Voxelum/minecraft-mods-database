@@ -1,0 +1,16 @@
+{
+  "name": "More sleeps 1.19.2 - 1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "more_sleeps",
+      "version": "1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_sleeps",
+      "version": "1.3"
+    }
+  ]
+}

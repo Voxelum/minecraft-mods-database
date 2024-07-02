@@ -1,0 +1,14 @@
+{
+  "name": "endofminecraft-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "endofminecraft",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "simplelibrary",
+      "version": "2.1.0"
+    }
+  ]
+}

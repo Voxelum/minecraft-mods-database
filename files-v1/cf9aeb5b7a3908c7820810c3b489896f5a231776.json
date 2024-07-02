@@ -1,6 +1,18 @@
 {
   "name": "disguiselib-1.3.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BlRLr0FS",
+      "versionId": "gVDSGbtk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 449885,
+      "fileId": 4702475
+    }
+  ],
   "fabric": [
     {
       "modId": "disguiselib",

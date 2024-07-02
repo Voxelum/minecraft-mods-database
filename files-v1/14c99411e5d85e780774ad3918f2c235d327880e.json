@@ -1,6 +1,12 @@
 {
   "name": "ompd-1.12.2-3.1.1-76.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iKkuSxwb",
+      "versionId": "6pcgkvY0"
+    }
+  ],
   "forge": [
     {
       "modId": "ompd",

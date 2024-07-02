@@ -1,6 +1,12 @@
 {
   "name": "colormatic-2.3.1+mc.1.17.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V4IQxkZC",
+      "versionId": "yLkWjL0T"
+    }
+  ],
   "fabric": [
     {
       "modId": "colormatic",

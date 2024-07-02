@@ -1,6 +1,12 @@
 {
   "name": "eh1.2-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 899308,
+      "fileId": 5023161
+    }
+  ],
   "forge": [
     {
       "modId": "horde_hoard",

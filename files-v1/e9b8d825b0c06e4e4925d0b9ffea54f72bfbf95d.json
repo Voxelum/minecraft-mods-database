@@ -1,0 +1,10 @@
+{
+  "name": "FlectoneMix FastChest.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fastchest",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

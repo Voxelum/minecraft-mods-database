@@ -1,6 +1,12 @@
 {
   "name": "switcher-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9qFqyStE",
+      "versionId": "vKzeUPNT"
+    }
+  ],
   "fabric": [
     {
       "modId": "switcher",

@@ -1,0 +1,20 @@
+{
+  "name": "deathlog-0.3.2+1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TPAYeAOc",
+      "versionId": "7leIrcSH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathlog",
+      "version": "0.3.2+1.19.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.10.3+1.19.3"
+    }
+  ]
+}

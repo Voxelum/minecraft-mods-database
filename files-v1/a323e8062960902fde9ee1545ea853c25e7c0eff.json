@@ -1,6 +1,12 @@
 {
   "name": "visuality-0.5.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rI0hvYcd",
+      "versionId": "UoVjeQq9"
+    }
+  ],
   "fabric": [
     {
       "modId": "visuality",

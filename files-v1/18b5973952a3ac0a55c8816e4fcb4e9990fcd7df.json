@@ -1,0 +1,10 @@
+{
+  "name": "remove_base_origins_1.20+_Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "remove_base_origins",
+      "version": "1.0.1"
+    }
+  ]
+}

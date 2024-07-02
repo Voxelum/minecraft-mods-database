@@ -1,0 +1,20 @@
+{
+  "name": "optifabric-origins-2.1.1-mc1.15.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dbD5TonJ",
+      "versionId": "dFU2A3OW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optifabric-origins",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

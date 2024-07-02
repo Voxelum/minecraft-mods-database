@@ -1,6 +1,12 @@
 {
   "name": "desiredservers-fabric-1.19.2-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GDpe4LHD",
+      "versionId": "4F5sOpkI"
+    }
+  ],
   "fabric": [
     {
       "modId": "desiredservers",

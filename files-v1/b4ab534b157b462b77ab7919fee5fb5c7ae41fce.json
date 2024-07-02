@@ -1,0 +1,14 @@
+{
+  "name": "mystical_index-1.18.2-0.0.10.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mystical_index",
+      "version": "1.18.2-0.0.10"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.3.0"
+    }
+  ]
+}

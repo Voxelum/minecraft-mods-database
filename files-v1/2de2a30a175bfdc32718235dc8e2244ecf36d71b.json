@@ -1,0 +1,10 @@
+{
+  "name": "sparkshammers_1.12.2_1.8.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sparkshammers",
+      "version": "@VERSION@"
+    }
+  ]
+}

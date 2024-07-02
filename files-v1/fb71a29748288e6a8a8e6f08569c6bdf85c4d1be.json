@@ -1,0 +1,16 @@
+{
+  "name": "Just_CTGUI_0.0.7_release_1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "just_ctgui",
+      "version": "0.0.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "just_ctgui",
+      "version": "0.0.1_alpha_build_1"
+    }
+  ]
+}

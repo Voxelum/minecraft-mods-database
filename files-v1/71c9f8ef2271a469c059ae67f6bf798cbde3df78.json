@@ -1,6 +1,12 @@
 {
   "name": "autoattack-mc1.20.1-v1.3.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AUfWGrm6",
+      "versionId": "TsLGLXUr"
+    }
+  ],
   "fabric": [
     {
       "modId": "autoattack",

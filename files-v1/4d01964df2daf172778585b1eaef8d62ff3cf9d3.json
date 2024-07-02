@@ -1,0 +1,34 @@
+{
+  "name": "Zoomify-2.13.4+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w7ThoJFB",
+      "versionId": "VfWNmPC4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574741,
+      "fileId": 5324901
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "2.13.4+1.20.4"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "dev_isxander_settxi_settxi-core",
+      "version": "2.10.6"
+    },
+    {
+      "modId": "dev_isxander_settxi_settxi-kotlinx-serialization",
+      "version": "2.10.6"
+    }
+  ]
+}

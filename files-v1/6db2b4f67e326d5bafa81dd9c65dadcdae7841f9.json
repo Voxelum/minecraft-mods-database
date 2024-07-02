@@ -1,0 +1,36 @@
+{
+  "name": "projectjjk-1.0.2-1.20.4-fabric-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F1DelhsT",
+      "versionId": "oAcn83w7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "projectjjk",
+      "version": "1.0.2-1.20.4-fabric-beta"
+    },
+    {
+      "modId": "geckolib",
+      "version": "4.3.1"
+    },
+    {
+      "modId": "smartbrainlib",
+      "version": "1.13"
+    },
+    {
+      "modId": "satin",
+      "version": "1.16.0"
+    },
+    {
+      "modId": "dimlib",
+      "version": "1.0.2+mc1.20.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

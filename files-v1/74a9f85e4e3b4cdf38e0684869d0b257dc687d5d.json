@@ -1,0 +1,20 @@
+{
+  "name": "auditory-0.0.6-1.20.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UafsfA4K",
+      "versionId": "d52S8FSE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "auditory",
+      "version": "0.0.6-1.20.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.119"
+    }
+  ]
+}

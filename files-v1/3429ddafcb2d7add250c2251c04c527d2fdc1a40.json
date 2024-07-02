@@ -1,0 +1,20 @@
+{
+  "name": "flightassistant-2.1.0+mc1.20.x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CWqLEOPt",
+      "versionId": "SGsOHArv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flightassistant",
+      "version": "2.1.0+mc1.20.x"
+    },
+    {
+      "modId": "alternate-hudrendercallback",
+      "version": "0.1.3"
+    }
+  ]
+}

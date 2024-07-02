@@ -1,6 +1,12 @@
 {
   "name": "extractpoison-1.20.4-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S4eFpJFD",
+      "versionId": "hxgR9nMw"
+    }
+  ],
   "forge": [
     {
       "modId": "extractpoison",

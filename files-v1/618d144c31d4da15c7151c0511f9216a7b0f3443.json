@@ -1,0 +1,16 @@
+{
+  "name": "elytratrims-forge-3.1.2+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "3.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "3.1.2"
+    }
+  ]
+}

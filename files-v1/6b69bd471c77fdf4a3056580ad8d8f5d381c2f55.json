@@ -1,0 +1,16 @@
+{
+  "name": "warden-with-loot-1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_warden_withloot",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_warden_withloot",
+      "version": "1.2.1"
+    }
+  ]
+}

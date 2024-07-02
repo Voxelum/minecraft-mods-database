@@ -1,6 +1,12 @@
 {
   "name": "oculus-1.4.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 581495,
+      "fileId": 4110355
+    }
+  ],
   "forge": [
     {
       "modId": "oculus",

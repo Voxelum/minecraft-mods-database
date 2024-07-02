@@ -1,0 +1,28 @@
+{
+  "name": "Carpet-AMS-Addition-mc1.21-fabric-v2.44.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1002635,
+      "fileId": 5434842
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-ams-addition",
+      "version": "2.44.6"
+    },
+    {
+      "modId": "annotationtoolbox",
+      "version": "0.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "com_esotericsoftware_yamlbeans_yamlbeans",
+      "version": "1.17"
+    }
+  ]
+}

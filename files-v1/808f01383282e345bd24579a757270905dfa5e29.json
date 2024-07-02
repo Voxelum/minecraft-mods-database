@@ -1,0 +1,26 @@
+{
+  "name": "perspective-1.2.0-alpha.2+1.20.0-1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "perspective",
+      "version": "1.2.0-alpha.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "fabric-simplelibs",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_mclegoman_releasetypeutils",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

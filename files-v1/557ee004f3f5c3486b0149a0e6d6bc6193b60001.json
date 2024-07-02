@@ -1,0 +1,22 @@
+{
+  "name": "FabricXray-2.0.0-1.17.x.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301609,
+      "fileId": 3612078
+    }
+  ],
+  "forge": [
+    {
+      "modId": "atianxray",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xray",
+      "version": "2.0.0"
+    }
+  ]
+}

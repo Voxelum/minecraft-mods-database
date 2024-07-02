@@ -1,0 +1,20 @@
+{
+  "name": "extraspellattributes-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 941480,
+      "fileId": 5254342
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraspellattributes",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

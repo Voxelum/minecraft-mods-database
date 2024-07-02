@@ -1,6 +1,12 @@
 {
   "name": "workers-1.16.5-1.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 567450,
+      "fileId": 3732773
+    }
+  ],
   "forge": [
     {
       "modId": "workers",

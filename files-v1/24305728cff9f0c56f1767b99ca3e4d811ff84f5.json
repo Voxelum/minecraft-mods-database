@@ -1,6 +1,12 @@
 {
   "name": "ConfigurableKeepInventory-1.19.2-1.11.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 960027,
+      "fileId": 5026354
+    }
+  ],
   "forge": [
     {
       "modId": "keepinventory",

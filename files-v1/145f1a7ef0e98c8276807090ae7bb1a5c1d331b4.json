@@ -1,0 +1,10 @@
+{
+  "name": "AmnesiaBlocks-1.12.2-1.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "amnesiablocks",
+      "version": "@VERSION@"
+    }
+  ]
+}

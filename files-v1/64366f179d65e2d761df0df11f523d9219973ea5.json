@@ -1,0 +1,14 @@
+{
+  "name": "wiicustomorigins-1.16.5-13.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wiicustomorigins",
+      "version": "1.16.5-13"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

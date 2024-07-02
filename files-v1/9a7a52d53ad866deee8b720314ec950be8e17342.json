@@ -1,0 +1,24 @@
+{
+  "name": "Origins-1.20.2-1.12.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BeIrqZR",
+      "versionId": "8IXlk541"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "1.12.10"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.11.11"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

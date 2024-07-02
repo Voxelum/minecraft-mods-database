@@ -1,6 +1,12 @@
 {
   "name": "blastingraw-1.20.1-1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "URkDEaW4",
+      "versionId": "NhXkRNQS"
+    }
+  ],
   "fabric": [
     {
       "modId": "blastingraw",

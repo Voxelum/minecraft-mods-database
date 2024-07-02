@@ -1,0 +1,20 @@
+{
+  "name": "hexxy-dimensions-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P7dNk96I",
+      "versionId": "zphfCSoN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexxy-dimensions",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

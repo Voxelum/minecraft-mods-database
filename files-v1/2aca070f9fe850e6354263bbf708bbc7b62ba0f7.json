@@ -1,6 +1,12 @@
 {
   "name": "raised-forge-1.19.4-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCQRBEiR",
+      "versionId": "3Kq2ZkV2"
+    }
+  ],
   "forge": [
     {
       "modId": "raised",

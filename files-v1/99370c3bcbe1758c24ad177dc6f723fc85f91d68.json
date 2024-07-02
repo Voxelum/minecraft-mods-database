@@ -1,0 +1,44 @@
+{
+  "name": "Fabric-Discord-Link-0.9.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318315,
+      "fileId": 3336852
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fdlink",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fdlink_1_12_2",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fdlink_1_15_2",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fdlink_1_16",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fdlink_1_7_10",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fdlink_1_8_9",
+      "version": "0.9.4"
+    },
+    {
+      "modId": "fdlink_api",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "fdlink_common",
+      "version": "0.9.4"
+    }
+  ]
+}

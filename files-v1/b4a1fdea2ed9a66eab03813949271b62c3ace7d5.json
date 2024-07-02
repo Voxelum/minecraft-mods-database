@@ -1,0 +1,10 @@
+{
+  "name": "TFC-IE-Crossover-1.20.1-1.2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tfc_ie_addon",
+      "version": "1.2.1"
+    }
+  ]
+}

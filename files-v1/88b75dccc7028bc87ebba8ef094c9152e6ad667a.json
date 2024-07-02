@@ -1,0 +1,20 @@
+{
+  "name": "polylib-fabric-1900.0.3-build.144.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 576589,
+      "fileId": 5406378
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polylib",
+      "version": "1900.0.3-build.144"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

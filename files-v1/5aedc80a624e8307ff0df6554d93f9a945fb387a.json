@@ -1,6 +1,18 @@
 {
   "name": "taterzens-1.11.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE972Kux",
+      "versionId": "iznF8twF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446499,
+      "fileId": 4073927
+    }
+  ],
   "fabric": [
     {
       "modId": "taterzens",

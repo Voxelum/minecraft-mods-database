@@ -1,0 +1,20 @@
+{
+  "name": "loot-bag-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PTfj8UMQ",
+      "versionId": "g9FaJzF1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "loot-bag",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

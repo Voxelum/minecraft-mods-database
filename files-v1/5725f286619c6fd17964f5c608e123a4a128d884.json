@@ -1,6 +1,12 @@
 {
   "name": "DisableCustomWorldsAdvice-5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HdwRs3kc",
+      "versionId": "XAkpyJL8"
+    }
+  ],
   "fabric": [
     {
       "modId": "disable_custom_worlds_advice",

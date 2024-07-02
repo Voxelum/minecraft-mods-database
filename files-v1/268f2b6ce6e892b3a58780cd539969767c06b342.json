@@ -1,0 +1,24 @@
+{
+  "name": "xaeros-map-chest-tracker-integration-mc1.19.2-v1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XhOTBzVR",
+      "versionId": "fyxLOobO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeros-map-chest-tracker-integration",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

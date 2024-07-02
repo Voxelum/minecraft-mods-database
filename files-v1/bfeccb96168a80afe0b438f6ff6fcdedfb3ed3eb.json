@@ -1,0 +1,22 @@
+{
+  "name": "ornate_weaponry.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MfuSR2k8",
+      "versionId": "NRv8DEaT"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ornate_weaponry",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ornate_weaponry",
+      "version": "2.0.0"
+    }
+  ]
+}

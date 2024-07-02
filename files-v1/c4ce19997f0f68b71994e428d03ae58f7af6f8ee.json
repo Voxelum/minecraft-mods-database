@@ -1,0 +1,24 @@
+{
+  "name": "isometric-renders-0.4.4+1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M0aimenU",
+      "versionId": "q4c60uZA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "isometric-renders",
+      "version": "0.4.4+1.19.3"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.3.0+1.19.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19.3"
+    }
+  ]
+}

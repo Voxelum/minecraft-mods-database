@@ -1,0 +1,10 @@
+{
+  "name": "aotmc-addon-mod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "attack_on_titan",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "dimdoors-5.3.3-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b8Q0BxnV",
+      "versionId": "PEWQfgBu"
+    }
+  ],
   "forge": [
     {
       "modId": "dimdoors",

@@ -1,0 +1,14 @@
+{
+  "name": "picohud-1.5.3+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "picohud",
+      "version": "1.5.3+1.20"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.2.0+1.2.0-beta.5"
+    }
+  ]
+}

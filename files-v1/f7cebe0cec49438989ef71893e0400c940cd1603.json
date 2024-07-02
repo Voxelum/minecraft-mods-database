@@ -1,0 +1,20 @@
+{
+  "name": "fasterrandom-3.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RfFxanNh",
+      "versionId": "K6SFJTjP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "faster-random",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

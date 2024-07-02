@@ -1,6 +1,12 @@
 {
   "name": "gravestones-v1.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 373595,
+      "fileId": 3205463
+    }
+  ],
   "fabric": [
     {
       "modId": "gravestones",

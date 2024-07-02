@@ -1,0 +1,14 @@
+{
+  "name": "DiagonalFences-v20.4.1-1.20.4-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diagonalfences",
+      "version": "20.4.1"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "20.4.3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "memoryleakfix-fabric-pre1.17-1.1.5-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "memoryleakfix",
+      "version": "${version}"
+    }
+  ]
+}

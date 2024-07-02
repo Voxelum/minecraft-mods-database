@@ -1,0 +1,44 @@
+{
+  "name": "sophisticatedbackpacks-1.19.4-3.19.4-SNAPSHOT.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sophisticatedbackpacks-1.19.4-3.19.4-SNAPSHOT.4",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": "3.19.4-SNAPSHOT.4+mc1.19.4"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.1.2+1.19.4"
+    }
+  ]
+}

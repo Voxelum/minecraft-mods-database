@@ -1,6 +1,12 @@
 {
   "name": "modmenu-4.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "4dReZoTJ"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

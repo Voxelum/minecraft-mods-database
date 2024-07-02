@@ -1,0 +1,16 @@
+{
+  "name": "netherportalfix-fabric-1.20-13.0.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "netherportalfix",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherportalfix",
+      "version": "13.0.1"
+    }
+  ]
+}

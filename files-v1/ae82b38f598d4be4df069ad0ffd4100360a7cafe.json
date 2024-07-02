@@ -1,0 +1,58 @@
+{
+  "name": "mini_tardis-1.0.4+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mini_tardis",
+      "version": "1.0.4+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.6.0+1.20.1-minus"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.5.19+1.20.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "fantasy",
+      "version": "0.4.11+1.20-rc1"
+    },
+    {
+      "modId": "map-canvas-api",
+      "version": "0.2.2+1.19.4"
+    }
+  ]
+}

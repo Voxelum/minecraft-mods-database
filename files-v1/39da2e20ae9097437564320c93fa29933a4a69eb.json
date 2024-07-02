@@ -1,0 +1,20 @@
+{
+  "name": "DiagonalFences-v8.1.4-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKARgflD",
+      "versionId": "84fNDUkA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diagonalfences",
+      "version": "8.1.4"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "8.0.5"
+    }
+  ]
+}

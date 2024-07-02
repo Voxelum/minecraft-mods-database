@@ -1,6 +1,12 @@
 {
   "name": "catalogue-1.6.0-1.18.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 459701,
+      "fileId": 3559402
+    }
+  ],
   "forge": [
     {
       "modId": "catalogue",

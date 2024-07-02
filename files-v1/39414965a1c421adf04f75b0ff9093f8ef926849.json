@@ -1,6 +1,18 @@
 {
   "name": "gear_core-0.3.8+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t7eXC8r7",
+      "versionId": "I4jtbg7D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 825265,
+      "fileId": 5180041
+    }
+  ],
   "fabric": [
     {
       "modId": "gear_core",

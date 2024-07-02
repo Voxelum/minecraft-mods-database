@@ -1,0 +1,14 @@
+{
+  "name": "techreborn-player-ability-lib-compat-0.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "techreborn-player-ability-lib-compat",
+      "version": "0.0.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    }
+  ]
+}

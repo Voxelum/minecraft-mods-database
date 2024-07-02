@@ -1,0 +1,36 @@
+{
+  "name": "neruina-fabric-2.0.0-beta.7+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "neruina",
+      "version": "2.0.0-beta.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "org_kohsuke_github-api",
+      "version": "1.318"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "org_apache_maven_maven-artifact",
+      "version": "3.8.1"
+    }
+  ]
+}

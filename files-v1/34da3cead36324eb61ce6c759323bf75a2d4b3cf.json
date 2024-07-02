@@ -1,6 +1,12 @@
 {
   "name": "createaddition-fabric+1.19.2-20230211a.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 439890,
+      "fileId": 4391443
+    }
+  ],
   "forge": [
     {
       "modId": "createaddition",

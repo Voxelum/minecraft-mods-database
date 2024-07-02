@@ -1,0 +1,22 @@
+{
+  "name": "locki-0.6.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "locki",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

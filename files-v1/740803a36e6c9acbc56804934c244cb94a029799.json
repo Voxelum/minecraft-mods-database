@@ -1,0 +1,16 @@
+{
+  "name": "mobdropsrecipes_overworld-merged-1.20.4-2.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mobdropsrecipes_overworld",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mobdropsrecipes_overworld",
+      "version": "2.0.0"
+    }
+  ]
+}

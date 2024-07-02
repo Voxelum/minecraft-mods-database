@@ -1,0 +1,14 @@
+{
+  "name": "CEM - fabric0.7.1-1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cem",
+      "version": "0.7.1_S7_1.17"
+    },
+    {
+      "modId": "completeconfig",
+      "version": "1.0.0"
+    }
+  ]
+}

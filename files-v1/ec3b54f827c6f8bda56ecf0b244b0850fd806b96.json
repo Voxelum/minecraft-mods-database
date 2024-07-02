@@ -1,0 +1,16 @@
+{
+  "name": "vanity_aesthetic_armory-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vanity_aesthetic_armory",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanity_aesthetic_armory",
+      "version": "1.1.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "createrailwaysnavigator-0.5.3-beta-1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "createrailwaysnavigator",
+      "version": "0.5.3-beta-1.20.1-fabric"
+    },
+    {
+      "modId": "dragonlib",
+      "version": "1.20.1-2.1.8"
+    }
+  ]
+}

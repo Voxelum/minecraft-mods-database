@@ -1,6 +1,12 @@
 {
   "name": "portable-crafting-2.2.1+1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qmVRzDCY",
+      "versionId": "Vk4WePaR"
+    }
+  ],
   "fabric": [
     {
       "modId": "portable-crafting",

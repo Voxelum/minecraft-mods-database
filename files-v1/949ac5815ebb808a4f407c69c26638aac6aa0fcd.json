@@ -1,0 +1,14 @@
+{
+  "name": "bankstorage-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bankstorage",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

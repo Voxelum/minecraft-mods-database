@@ -1,0 +1,14 @@
+{
+  "name": "diggusmaximus-1.6.1+mc1.20.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "diggusmaximus",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.10+mc1.20.6"
+    }
+  ]
+}

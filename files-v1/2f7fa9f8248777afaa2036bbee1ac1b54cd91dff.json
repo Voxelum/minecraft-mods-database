@@ -1,0 +1,16 @@
+{
+  "name": "Icarus-Fabric-2.9.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "icarus",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "icarus",
+      "version": "2.9.0"
+    }
+  ]
+}

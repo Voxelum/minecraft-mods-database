@@ -1,0 +1,10 @@
+{
+  "name": "汉化的GC支持版本1.8-1.8.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "gc",
+      "version": "1.33"
+    }
+  ]
+}

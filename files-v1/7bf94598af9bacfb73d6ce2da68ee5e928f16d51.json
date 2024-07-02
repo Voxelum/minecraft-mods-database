@@ -1,0 +1,18 @@
+{
+  "name": "eldritch-mobs-1.11.6.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "eldritch_mobs",
+      "version": "1.11.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.0.0"
+    }
+  ]
+}

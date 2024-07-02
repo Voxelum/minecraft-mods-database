@@ -1,0 +1,16 @@
+{
+  "name": "wakes-0.2.4+1.20.1$satin-1.14.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "satin",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    }
+  ]
+}

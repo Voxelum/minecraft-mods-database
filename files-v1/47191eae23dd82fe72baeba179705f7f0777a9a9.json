@@ -1,6 +1,12 @@
 {
   "name": "Steam_Rails-1.2.6+fabric-mc1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 4512538
+    }
+  ],
   "forge": [
     {
       "modId": "railways",

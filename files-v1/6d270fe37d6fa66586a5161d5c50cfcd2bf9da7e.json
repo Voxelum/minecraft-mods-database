@@ -1,6 +1,18 @@
 {
   "name": "anti-xray-1.3.0-Forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sml2FMaA",
+      "versionId": "IqzGIQQ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560511,
+      "fileId": 4331672
+    }
+  ],
   "forge": [
     {
       "modId": "antixray",

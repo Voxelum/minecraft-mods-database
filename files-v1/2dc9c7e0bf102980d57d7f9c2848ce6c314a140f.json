@@ -1,0 +1,16 @@
+{
+  "name": "letsdoaddon-compat-1.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "letsdoaddon_compat",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "letsdoaddon-compat",
+      "version": "1.2.0"
+    }
+  ]
+}

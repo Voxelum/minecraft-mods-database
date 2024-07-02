@@ -1,6 +1,12 @@
 {
   "name": "PlayerHealthIndicators-1.1.0-1.19.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 591924,
+      "fileId": 4492819
+    }
+  ],
   "fabric": [
     {
       "modId": "healthindicators",

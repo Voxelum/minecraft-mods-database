@@ -1,0 +1,22 @@
+{
+  "name": "fadedwidgets-2.1.0-fabric1.20.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fadedwidgets",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_animation",
+      "version": "2.6.4-mc1.20"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_visual",
+      "version": "2.6.4-mc1.20"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_math",
+      "version": "2.6.4-mc1.20"
+    }
+  ]
+}

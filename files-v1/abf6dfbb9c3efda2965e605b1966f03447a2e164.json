@@ -1,0 +1,22 @@
+{
+  "name": "ItemPhysicLite_FABRIC_v1.6.0_mc1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OuyCgP8t",
+      "versionId": "e3TYKFhg"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "itemphysiclite",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemphysiclite",
+      "version": "1.6.0"
+    }
+  ]
+}

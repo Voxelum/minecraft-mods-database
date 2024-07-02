@@ -1,0 +1,24 @@
+{
+  "name": "litematica-fabric-1.20.6-0.18.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308892,
+      "fileId": 5450189
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "litematica",
+      "version": "0.18.0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.0.8+bd46f3a00d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432c0d"
+    }
+  ]
+}

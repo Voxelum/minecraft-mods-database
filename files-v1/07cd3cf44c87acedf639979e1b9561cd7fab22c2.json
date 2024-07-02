@@ -1,0 +1,14 @@
+{
+  "name": "Configurable-mc1.19.4-v1.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "configurable",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "AgriCraft Seed Fix 1.0.0 mc1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560962,
+      "fileId": 3840817
+    }
+  ],
   "forge": [
     {
       "modId": "agricraftseedfix",

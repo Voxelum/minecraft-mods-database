@@ -1,0 +1,14 @@
+{
+  "name": "mobfilter-0.4.1+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mobfilter",
+      "version": "0.4.1+1.20.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.1"
+    }
+  ]
+}

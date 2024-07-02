@@ -1,0 +1,22 @@
+{
+  "name": "simple-shopping-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DctgFA2i",
+      "versionId": "xmgMicE9"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_simple_shopping",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_simple_shopping",
+      "version": "1.1"
+    }
+  ]
+}

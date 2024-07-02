@@ -1,0 +1,80 @@
+{
+  "name": "FarmersDelight-1.20.1-2.1.1-refabricated$base-2.3.4+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "porting_lib_base",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_mixin_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

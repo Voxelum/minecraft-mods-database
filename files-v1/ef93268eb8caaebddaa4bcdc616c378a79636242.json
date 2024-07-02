@@ -1,0 +1,20 @@
+{
+  "name": "quartz-elevator-2.2.7+1.20.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 442509,
+      "fileId": 5312088
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quartzelv",
+      "version": "2.2.7+1.20.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

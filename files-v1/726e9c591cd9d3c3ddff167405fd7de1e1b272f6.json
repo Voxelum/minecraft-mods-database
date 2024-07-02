@@ -1,0 +1,10 @@
+{
+  "name": "hamsters-1.0.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hamsters",
+      "version": "1.0.1-fabric"
+    }
+  ]
+}

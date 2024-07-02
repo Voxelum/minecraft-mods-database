@@ -1,0 +1,20 @@
+{
+  "name": "a_good_place-1.20-1.2.3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BwPeriwJ",
+      "versionId": "q3Wwo5YN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "a_good_place",
+      "version": "1.20-1.2.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

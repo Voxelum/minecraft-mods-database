@@ -1,0 +1,24 @@
+{
+  "name": "CerbonsAPI-Fabric-1.20.1-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GkIc6rRo",
+      "versionId": "15NpMum1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cerbons_api",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "u_desert-1.2.1-1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "u_desert",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "u_desert",
+      "version": "1.2.1"
+    }
+  ]
+}

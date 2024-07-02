@@ -1,6 +1,12 @@
 {
   "name": "funky-flora-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UJibvFJR",
+      "versionId": "wOqIj0AL"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_funky_flora",

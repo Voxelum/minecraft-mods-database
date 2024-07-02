@@ -1,6 +1,12 @@
 {
   "name": "waypoint-mod-1.0.0-full.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1xJZA7Dw",
+      "versionId": "oDf2itch"
+    }
+  ],
   "fabric": [
     {
       "modId": "waypoint-mod",

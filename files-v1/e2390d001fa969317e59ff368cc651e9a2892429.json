@@ -1,0 +1,14 @@
+{
+  "name": "mclogs-fabric-1.4.1-1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mclogs",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "gs_mclo_api",
+      "version": "4.0.1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "chesttracker-2.4.3+1.20.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 397217,
+      "fileId": 5347404
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chesttracker",
+      "version": "2.4.3+1.20.4"
+    },
+    {
+      "modId": "whereisit",
+      "version": "2.4.1+1.20.4"
+    },
+    {
+      "modId": "searchables",
+      "version": "1.0.6"
+    }
+  ]
+}

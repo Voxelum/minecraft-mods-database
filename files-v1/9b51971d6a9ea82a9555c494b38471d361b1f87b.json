@@ -1,0 +1,16 @@
+{
+  "name": "discoveria-1.0.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_discoveria",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_discoveria",
+      "version": "1.0.2"
+    }
+  ]
+}

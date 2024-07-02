@@ -1,0 +1,28 @@
+{
+  "name": "FarmersDelight-1.20.1-2.1.1-refabricated$config-2.3.4+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "porting_lib_config",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    }
+  ]
+}

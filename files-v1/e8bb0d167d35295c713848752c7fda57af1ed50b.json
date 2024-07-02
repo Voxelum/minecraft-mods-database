@@ -1,6 +1,12 @@
 {
   "name": "numismatic-overhaul-0.2.2+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZXm8hVxN",
+      "versionId": "H7xIR63z"
+    }
+  ],
   "fabric": [
     {
       "modId": "numismatic-overhaul",

@@ -1,0 +1,36 @@
+{
+  "name": "iris-mc1.16.5-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 3347337
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.0.0-rc1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.2+ca58154a7d"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.4+9354966b7d"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.1+ca58154a7d"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.1+9354966b7d"
+    },
+    {
+      "modId": "sodium",
+      "version": "0.2.0+IRIS_rev.400af47"
+    }
+  ]
+}

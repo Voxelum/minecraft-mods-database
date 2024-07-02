@@ -1,6 +1,12 @@
 {
   "name": "tead-0.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wRWgSA19",
+      "versionId": "ymxq9pES"
+    }
+  ],
   "fabric": [
     {
       "modId": "tead",

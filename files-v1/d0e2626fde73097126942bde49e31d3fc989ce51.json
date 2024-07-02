@@ -1,0 +1,14 @@
+{
+  "name": "ArdaPaths-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ardapaths",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

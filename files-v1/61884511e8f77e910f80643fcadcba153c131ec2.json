@@ -1,6 +1,12 @@
 {
   "name": "splasher-1.18-4.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4yIZUuyx",
+      "versionId": "xFK34zzp"
+    }
+  ],
   "fabric": [
     {
       "modId": "splasher",

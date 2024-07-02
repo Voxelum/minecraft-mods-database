@@ -1,6 +1,12 @@
 {
   "name": "performant-1.15-3.16m.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 354143,
+      "fileId": 3160384
+    }
+  ],
   "forge": [
     {
       "modId": "performant",

@@ -1,0 +1,32 @@
+{
+  "name": "Copycats-fabric.1.20.1-1.2.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UT2M39wf",
+      "versionId": "jjhScGWs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968398,
+      "fileId": 5223591
+    }
+  ],
+  "forge": [
+    {
+      "modId": "copycats",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "copycats",
+      "version": "1.20.1-1.2.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

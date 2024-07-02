@@ -1,0 +1,20 @@
+{
+  "name": "fakefps-1.0-SNAPSHOT.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "URpbHsgN",
+      "versionId": "nJLV13xS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fakefps",
+      "version": "1.0-SNAPSHOT"
+    },
+    {
+      "modId": "me_carleslc_simple-yaml_simple-yaml",
+      "version": "1.8.2"
+    }
+  ]
+}

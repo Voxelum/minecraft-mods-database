@@ -1,0 +1,16 @@
+{
+  "name": "AlmostBedtime_v2.0-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "almost_bedtime",
+      "version": "2.0-1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "almost_bedtime",
+      "version": "2.0-1.19.2"
+    }
+  ]
+}

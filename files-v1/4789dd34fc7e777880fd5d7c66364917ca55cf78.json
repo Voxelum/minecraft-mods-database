@@ -1,0 +1,28 @@
+{
+  "name": "CrosshairBobbing-1.4-1.20.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "CrosshairBobbing-1.4-1.20.2",
+      "version": ""
+    },
+    {
+      "modId": "CrosshairBobbing-1.4",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xbob_modloader",
+      "version": "1.0"
+    },
+    {
+      "modId": "xbob_mixin",
+      "version": "1.4"
+    },
+    {
+      "modId": "xbob",
+      "version": "1.4"
+    }
+  ]
+}

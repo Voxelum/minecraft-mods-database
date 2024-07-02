@@ -1,0 +1,26 @@
+{
+  "name": "Dungeon Now Loading-fabric-1.20.1-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vZoqTqwv",
+      "versionId": "4ec709uf"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "multiloader",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dungeonnowloading",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

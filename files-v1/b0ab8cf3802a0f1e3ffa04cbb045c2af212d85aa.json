@@ -1,0 +1,14 @@
+{
+  "name": "customblockoverlay-1.20.4+build.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "customblockoverlay",
+      "version": "1.20.4+build.2"
+    },
+    {
+      "modId": "kianalibfabric",
+      "version": "1.0+build.1"
+    }
+  ]
+}

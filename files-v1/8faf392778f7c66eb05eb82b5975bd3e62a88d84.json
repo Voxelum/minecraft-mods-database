@@ -1,0 +1,16 @@
+{
+  "name": "do_a_barrel_roll-fabric-3.6.0+1.20.1$mixinsquared-fabric-0.1.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mixinsquared",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

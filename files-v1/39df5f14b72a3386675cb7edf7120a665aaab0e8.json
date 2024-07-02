@@ -1,6 +1,12 @@
 {
   "name": "Healer-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 554840,
+      "fileId": 4367893
+    }
+  ],
   "forge": [
     {
       "modId": "healer",

@@ -1,0 +1,16 @@
+{
+  "name": "stonecutter-damage-mcmeta-12-26_1.19.4-1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_stonecutter_damage",
+      "version": "1-mcmeta-12-26_1.19.4-1.20.4+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_stonecutter_damage",
+      "version": "1-mcmeta-12-26_1.19.4-1.20.4+mod"
+    }
+  ]
+}

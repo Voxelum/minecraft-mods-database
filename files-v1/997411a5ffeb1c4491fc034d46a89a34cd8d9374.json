@@ -1,0 +1,54 @@
+{
+  "name": "megane-6.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "megane",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "megane-applied-energistics-2",
+      "version": "6.1.1+10.0.0-alpha.1"
+    },
+    {
+      "modId": "megane-base",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "megane-fabric-transfer",
+      "version": "6.1.1+1.5.4-b4f4f6cda9"
+    },
+    {
+      "modId": "megane-kibe",
+      "version": "6.1.1+1.9.4-BETA-1.18"
+    },
+    {
+      "modId": "megane-lib-block-attributes",
+      "version": "6.1.1+0.10.0"
+    },
+    {
+      "modId": "megane-modern-industrialization",
+      "version": "6.1.1+1.0.0-alpha.02"
+    },
+    {
+      "modId": "megane-reborn-core",
+      "version": "6.1.1+5.1.0-beta.2"
+    },
+    {
+      "modId": "megane-runtime",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "megane-team-reborn-energy",
+      "version": "6.1.1+2.0.0-beta1"
+    },
+    {
+      "modId": "megane-tech-reborn",
+      "version": "6.1.1+5.1.0-beta.2"
+    },
+    {
+      "modId": "megane-vanilla",
+      "version": "6.1.1+1.18"
+    }
+  ]
+}

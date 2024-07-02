@@ -1,0 +1,20 @@
+{
+  "name": "createaddition+1.18.2-20220914a.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createaddition",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createaddition",
+      "version": "${version}"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

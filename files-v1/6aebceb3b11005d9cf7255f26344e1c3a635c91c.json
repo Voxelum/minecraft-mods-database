@@ -1,0 +1,36 @@
+{
+  "name": "Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "AJ3IGl3n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 5331298
+    }
+  ],
+  "forge": [
+    {
+      "modId": "railways",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.6.4+fabric-mc1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

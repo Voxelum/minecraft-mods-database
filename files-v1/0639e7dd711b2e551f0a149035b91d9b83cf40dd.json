@@ -1,0 +1,14 @@
+{
+  "name": "modernfix-fabric-5.18.1+mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.18.1+mc1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

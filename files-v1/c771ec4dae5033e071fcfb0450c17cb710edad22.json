@@ -1,0 +1,16 @@
+{
+  "name": "warp-portals-1.3.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_warp_portals",
+      "version": "1.3.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_warp_portals",
+      "version": "1.3.10"
+    }
+  ]
+}

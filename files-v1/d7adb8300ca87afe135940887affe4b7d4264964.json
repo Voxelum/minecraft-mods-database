@@ -1,0 +1,16 @@
+{
+  "name": "amethyst_imbuement-1.20.1-19.4$conditional-mixin-v0.3.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "conditional_mixin",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    }
+  ]
+}

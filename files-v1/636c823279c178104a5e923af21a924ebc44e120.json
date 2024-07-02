@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrationaddonyung-fabric-1.18-1.20.1-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1012211,
+      "fileId": 5312203
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrationaddonyung",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrationaddonyung",
+      "version": "1.18-1.20.1-1.1"
+    }
+  ]
+}

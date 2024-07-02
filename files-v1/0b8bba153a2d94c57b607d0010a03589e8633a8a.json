@@ -1,0 +1,10 @@
+{
+  "name": "jex-client-mod-fabric-1_18_2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jex",
+      "version": "0.6.2"
+    }
+  ]
+}

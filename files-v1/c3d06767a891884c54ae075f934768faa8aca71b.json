@@ -1,0 +1,26 @@
+{
+  "name": "bettercombat-fabric-1.8.6+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "DpMdn6Pf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639842,
+      "fileId": 5268541
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercombat",
+      "version": "1.8.6+1.20.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

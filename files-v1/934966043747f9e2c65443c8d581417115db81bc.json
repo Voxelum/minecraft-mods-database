@@ -1,0 +1,20 @@
+{
+  "name": "Photonic-0.1.1-OPEN-BETA.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MNlxJdtO",
+      "versionId": "fxhTGTsq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "photonics",
+      "version": "0.1.1-OPEN-BETA"
+    },
+    {
+      "modId": "at_redi_raytracing",
+      "version": "1.0-SNAPSHOT"
+    }
+  ]
+}

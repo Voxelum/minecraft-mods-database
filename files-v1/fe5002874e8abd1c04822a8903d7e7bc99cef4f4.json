@@ -1,6 +1,12 @@
 {
   "name": "trinkets-2.6.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 341284,
+      "fileId": 3100959
+    }
+  ],
   "fabric": [
     {
       "modId": "trinkets",

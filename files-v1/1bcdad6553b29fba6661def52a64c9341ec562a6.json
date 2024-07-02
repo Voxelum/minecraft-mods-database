@@ -1,0 +1,26 @@
+{
+  "name": "Coffee-Client-Fabric-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "coffee",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a27"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d27"
+    },
+    {
+      "modId": "renderer",
+      "version": "1.0"
+    },
+    {
+      "modId": "baritone",
+      "version": "1.10.1"
+    }
+  ]
+}

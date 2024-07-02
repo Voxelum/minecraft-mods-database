@@ -1,0 +1,22 @@
+{
+  "name": "[All Loader]Extra Recipe-2.3-26.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7AXsRqp1",
+      "versionId": "nOoP5LyU"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "extra_recipe",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extra_recipe",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BuildGuide-1.20-0.4.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.1"
+    }
+  ]
+}

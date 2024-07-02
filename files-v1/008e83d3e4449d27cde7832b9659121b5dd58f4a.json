@@ -1,0 +1,16 @@
+{
+  "name": "unwrecked-ships-plus-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "unwrecked_ships",
+      "version": "1.0.0-1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unwrecked_ships",
+      "version": "1.0.0-1.20"
+    }
+  ]
+}

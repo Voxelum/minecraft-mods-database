@@ -1,6 +1,12 @@
 {
   "name": "simple-rpc-1.18.2-3.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "iFAycxSk"
+    }
+  ],
   "forge": [
     {
       "modId": "simplerpc",

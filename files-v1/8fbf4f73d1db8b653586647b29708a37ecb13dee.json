@@ -1,0 +1,24 @@
+{
+  "name": "davespotioneering-fabric-1.19.2-1.1.10.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "davespotioneering",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modid",
+      "version": "fabric-1.19.2-1.1.10"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

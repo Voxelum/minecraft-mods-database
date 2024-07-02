@@ -1,0 +1,16 @@
+{
+  "name": "TFMsRFTL.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tfms_rotten_flesh_to_leather",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tfms_rotten_flesh_to_leather",
+      "version": "1.0"
+    }
+  ]
+}

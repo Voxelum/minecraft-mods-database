@@ -1,0 +1,14 @@
+{
+  "name": "shaketweaks-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "shaketweaks",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

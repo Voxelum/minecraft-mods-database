@@ -1,0 +1,10 @@
+{
+  "name": "theorcs-fabric-1.20.x-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "theorcs",
+      "version": "fabric-1.20.x-1.0"
+    }
+  ]
+}

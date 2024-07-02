@@ -1,0 +1,24 @@
+{
+  "name": "FabricWarps-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 433362,
+      "fileId": 3333924
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricwarps",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "2.8.3"
+    }
+  ]
+}

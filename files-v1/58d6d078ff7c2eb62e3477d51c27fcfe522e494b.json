@@ -1,0 +1,16 @@
+{
+  "name": "ctlib-latest.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ctlib",
+      "version": "0.1.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctlib",
+      "version": "0.1.7"
+    }
+  ]
+}

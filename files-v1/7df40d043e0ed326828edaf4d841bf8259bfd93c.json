@@ -1,6 +1,12 @@
 {
   "name": "[村民交易编辑] villedit-1.4dp.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g2D95XS4",
+      "versionId": "Pv6nFONt"
+    }
+  ],
   "forge": [
     {
       "modId": "villedit_mr",

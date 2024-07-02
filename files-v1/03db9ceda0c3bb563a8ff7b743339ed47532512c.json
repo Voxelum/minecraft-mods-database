@@ -1,0 +1,20 @@
+{
+  "name": "poltergeist-1.16.5-0.0.3b.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 481253,
+      "fileId": 3326112
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "poltergeist",
+      "version": "1.16.5-0.0.2b"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

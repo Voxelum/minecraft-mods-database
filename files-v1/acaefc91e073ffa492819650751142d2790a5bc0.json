@@ -1,0 +1,22 @@
+{
+  "name": "turtlematic-0.6.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 618288,
+      "fileId": 5318769
+    }
+  ],
+  "forge": [
+    {
+      "modId": "turtlematic",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "turtlematic",
+      "version": "0.6.0"
+    }
+  ]
+}

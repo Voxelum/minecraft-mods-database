@@ -1,6 +1,12 @@
 {
   "name": "StarrySkies-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BrgaSWzF",
+      "versionId": "A22HWwme"
+    }
+  ],
   "fabric": [
     {
       "modId": "starry_skies",

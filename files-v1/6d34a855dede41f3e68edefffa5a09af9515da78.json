@@ -1,0 +1,28 @@
+{
+  "name": "caves__canyons-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uMcyUgtO",
+      "versionId": "zcPwqsTR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938767,
+      "fileId": 5054231
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_caves__canyons",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_caves__canyons",
+      "version": "1.1"
+    }
+  ]
+}

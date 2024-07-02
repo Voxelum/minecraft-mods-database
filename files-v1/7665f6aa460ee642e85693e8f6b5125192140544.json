@@ -1,0 +1,40 @@
+{
+  "name": "cloudsolutions-fabric-1.20.1-0.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cloudsolutions",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloudsolutions",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.43.0.0"
+    },
+    {
+      "modId": "io_javalin_javalin",
+      "version": "5.6.2"
+    },
+    {
+      "modId": "io_javalin_javalin-rendering",
+      "version": "5.6.2"
+    },
+    {
+      "modId": "com_mitchellbosecke_pebble",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "com_timgroup_java-statsd-client",
+      "version": "3.0.2"
+    }
+  ]
+}

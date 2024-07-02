@@ -1,6 +1,12 @@
 {
   "name": "superbsteeds-1.20-3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UIZkbR3j",
+      "versionId": "rt3JrBEP"
+    }
+  ],
   "fabric": [
     {
       "modId": "superbsteeds",

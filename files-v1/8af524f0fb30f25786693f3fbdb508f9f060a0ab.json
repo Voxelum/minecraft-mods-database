@@ -1,0 +1,16 @@
+{
+  "name": "SimpleRPC-Universal-3.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "simplerpc",
+      "version": "3.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplerpc",
+      "version": "3.3.0"
+    }
+  ]
+}

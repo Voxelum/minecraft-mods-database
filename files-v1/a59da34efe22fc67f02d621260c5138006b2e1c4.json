@@ -1,0 +1,36 @@
+{
+  "name": "playerex-3.3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o5GUN4b1",
+      "versionId": "XLNCgOs6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "playerex",
+      "version": "3.3.5"
+    },
+    {
+      "modId": "opc",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-beta.7+1.19"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

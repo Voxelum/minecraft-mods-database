@@ -1,6 +1,12 @@
 {
   "name": "viavanillaplus-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OrMOpGTu",
+      "versionId": "yX6g4D8V"
+    }
+  ],
   "fabric": [
     {
       "modId": "viavanillaplus",

@@ -1,0 +1,34 @@
+{
+  "name": "mods-command-mc1.16.5-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mods-command",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "cloud-v1",
+      "version": "1.5.0-SNAPSHOT"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-minecraft-extras",
+      "version": "1.5.0-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "4.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "confabricate",
+      "version": "2.0.3+4.0.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-yaml",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.29-SNAPSHOT"
+    }
+  ]
+}

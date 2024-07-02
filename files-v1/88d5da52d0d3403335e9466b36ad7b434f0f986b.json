@@ -1,0 +1,28 @@
+{
+  "name": "darkrites-1.16.5-2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 463952,
+      "fileId": 3273971
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkrites",
+      "version": "1.16.5-2"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.2.1"
+    }
+  ]
+}

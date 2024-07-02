@@ -1,6 +1,18 @@
 {
   "name": "kubejs-fabric-2001.6.4-build.138.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "blhoxfHJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 5120835
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejs",

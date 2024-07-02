@@ -1,6 +1,12 @@
 {
   "name": "squatgrow-forge-5.3.0+mc1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 515698,
+      "fileId": 5150173
+    }
+  ],
   "forge": [
     {
       "modId": "squatgrow",

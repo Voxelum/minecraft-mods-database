@@ -1,0 +1,16 @@
+{
+  "name": "Cozy_home-3.0.2-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cozy_home",
+      "version": "3.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cozy_home",
+      "version": "1.0.0"
+    }
+  ]
+}

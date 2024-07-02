@@ -1,0 +1,18 @@
+{
+  "name": "totemcounter-1.0.0+mc1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "totemcounter",
+      "version": "1.0.0+mc1.19.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.8.1+0d0f210290"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.23+aaaf9d3390"
+    }
+  ]
+}

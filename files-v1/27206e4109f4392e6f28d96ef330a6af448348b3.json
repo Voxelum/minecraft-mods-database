@@ -1,6 +1,12 @@
 {
   "name": "WaterPlayer-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wDF3M2aD",
+      "versionId": "MZGNjPkc"
+    }
+  ],
   "fabric": [
     {
       "modId": "waterplayer",

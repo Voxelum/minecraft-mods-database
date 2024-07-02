@@ -1,0 +1,10 @@
+{
+  "name": "make_bubbles_pop-0.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "make_bubbles_pop",
+      "version": "${file.jarVersion}-forge"
+    }
+  ]
+}

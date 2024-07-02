@@ -1,6 +1,18 @@
 {
   "name": "ccshops-0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9CUu68EQ",
+      "versionId": "mTCrg0Ga"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901020,
+      "fileId": 4691696
+    }
+  ],
   "forge": [
     {
       "modId": "ccshops",

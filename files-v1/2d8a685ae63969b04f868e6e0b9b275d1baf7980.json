@@ -1,0 +1,22 @@
+{
+  "name": "simple-portal-gun-mc1.20.4-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gVhqix1z",
+      "versionId": "sJD2ahyV"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_simple_portalgun",
+      "version": "1-mc1.20.4-2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_simple_portalgun",
+      "version": "1-mc1.20.4-2.0.0"
+    }
+  ]
+}

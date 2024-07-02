@@ -1,0 +1,15 @@
+{
+  "mods": [
+    "ed19fb6b1ce3ff6e0c732e97c11cfa7661a46993",
+    "9937c623014c93cbbeaa7d29a2c16ff60abf77dd"
+  ],
+  "runtime": {
+    "minecraft": "1.16.5",
+    "forge": "36.2.42",
+    "labyMod": "4.1.25"
+  },
+  "java": {
+    "majorVersion": 8,
+    "version": "1.8.0_301"
+  }
+}

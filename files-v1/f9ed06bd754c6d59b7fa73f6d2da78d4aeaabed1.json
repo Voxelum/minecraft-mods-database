@@ -1,0 +1,14 @@
+{
+  "name": "chunksfadein-v2.0.10-1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chunksfadein",
+      "version": "2.0.10-1.19.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

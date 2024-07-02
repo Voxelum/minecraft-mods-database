@@ -1,0 +1,10 @@
+{
+  "name": "MachineMod-1.12.2-1.1-Pre-ALPHA-Build-298.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "machinemod",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "connected-doors-1.2+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3KwAcCSv",
+      "versionId": "tnuNyIy1"
+    }
+  ],
   "fabric": [
     {
       "modId": "connected-doors",

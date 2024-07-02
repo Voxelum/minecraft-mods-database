@@ -1,0 +1,22 @@
+{
+  "name": "medievalorigins-6.3.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "medievalorigins",
+      "version": "6.3.0+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "autotag",
+      "version": "2.0.2+1.20"
+    },
+    {
+      "modId": "apugli",
+      "version": "2.10.1+1.20.1-fabric"
+    }
+  ]
+}

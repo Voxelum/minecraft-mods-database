@@ -1,0 +1,16 @@
+{
+  "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bendy_lib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bendy-lib",
+      "version": "4.0.0"
+    }
+  ]
+}

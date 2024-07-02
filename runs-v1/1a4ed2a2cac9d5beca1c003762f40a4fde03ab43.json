@@ -1,0 +1,14 @@
+{
+  "mods": [
+    "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
+    "2f5afc2f63f84275986a93d87c755e656d3b9bd3"
+  ],
+  "runtime": {
+    "minecraft": "1.16.5",
+    "quiltLoader": "0.24.0"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.8"
+  }
+}

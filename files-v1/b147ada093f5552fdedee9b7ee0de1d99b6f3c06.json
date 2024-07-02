@@ -1,6 +1,12 @@
 {
   "name": "assetmover-2.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 571482,
+      "fileId": 4430763
+    }
+  ],
   "forge": [
     {
       "modId": "assetmover",

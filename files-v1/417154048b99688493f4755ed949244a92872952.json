@@ -1,0 +1,16 @@
+{
+  "name": "endless-city-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_endless_city",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_endless_city",
+      "version": "1.0.0"
+    }
+  ]
+}

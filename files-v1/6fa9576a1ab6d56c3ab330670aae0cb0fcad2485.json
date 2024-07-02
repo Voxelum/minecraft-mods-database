@@ -1,0 +1,26 @@
+{
+  "name": "autoattack-mc1.20.4-v1.3.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AUfWGrm6",
+      "versionId": "sNRanBRl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686783,
+      "fileId": 4969531
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoattack",
+      "version": "1.3.7"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

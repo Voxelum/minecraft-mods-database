@@ -1,0 +1,16 @@
+{
+  "name": "multiple_server_lists-mc1.20-1.0.0-build.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "multiple_server_lists",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "multiple_server_lists",
+      "version": "1.0.0"
+    }
+  ]
+}

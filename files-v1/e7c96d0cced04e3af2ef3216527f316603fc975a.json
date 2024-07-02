@@ -1,0 +1,16 @@
+{
+  "name": "lazydfu-0.1.3_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "lazydfu",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lazydfu",
+      "version": "0.1.3"
+    }
+  ]
+}

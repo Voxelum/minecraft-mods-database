@@ -1,0 +1,16 @@
+{
+  "name": "Loqui-0.2.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "loqui",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "loqui",
+      "version": "0.2.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "RoughlyEnoughItems-9.1.695-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 5256165
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "9.1.695"
+    },
+    {
+      "modId": "error_notifier",
+      "version": "1.0.9"
+    }
+  ]
+}

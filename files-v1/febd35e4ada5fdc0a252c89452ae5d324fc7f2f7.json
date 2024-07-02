@@ -1,6 +1,12 @@
 {
   "name": "createaddition-fabric+1.20.1-1.2.1c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kU1G12Nn",
+      "versionId": "sf4kfWdG"
+    }
+  ],
   "forge": [
     {
       "modId": "createaddition",

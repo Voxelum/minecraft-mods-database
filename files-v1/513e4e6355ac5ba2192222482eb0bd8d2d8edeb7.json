@@ -1,6 +1,12 @@
 {
   "name": "modmenu-1.16.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 3268909
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

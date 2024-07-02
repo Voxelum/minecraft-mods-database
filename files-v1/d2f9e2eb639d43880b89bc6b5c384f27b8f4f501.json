@@ -1,0 +1,20 @@
+{
+  "name": "quick-menu-1.2.3-1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "quickmenu",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickmenu",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

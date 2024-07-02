@@ -1,0 +1,20 @@
+{
+  "name": "immersive_aircraft-0.7.9+1.19.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3HZvrj6",
+      "versionId": "E2qukg9u"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_aircraft",
+      "version": "0.7.9+1.19.2"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "5.2.1"
+    }
+  ]
+}

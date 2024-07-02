@@ -1,0 +1,16 @@
+{
+  "name": "fanshadecake-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fanshapecake",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fan_cake",
+      "version": "${version}"
+    }
+  ]
+}

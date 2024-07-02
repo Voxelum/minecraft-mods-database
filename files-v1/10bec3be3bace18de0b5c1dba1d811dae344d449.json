@@ -1,0 +1,20 @@
+{
+  "name": "dynamic-music-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 430824,
+      "fileId": 3314549
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynmus",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    }
+  ]
+}

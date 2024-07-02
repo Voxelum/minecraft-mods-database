@@ -1,6 +1,12 @@
 {
   "name": "beautifiedchatserver-1.20.1-2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C00Y5Ci9",
+      "versionId": "IdeOjtae"
+    }
+  ],
   "forge": [
     {
       "modId": "beautifiedchatserver",

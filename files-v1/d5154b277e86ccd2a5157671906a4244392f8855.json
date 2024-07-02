@@ -1,0 +1,16 @@
+{
+  "name": "enderite-upgrade-v5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_enderite_upgrade",
+      "version": "1-v5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_enderite_upgrade",
+      "version": "1-v5"
+    }
+  ]
+}

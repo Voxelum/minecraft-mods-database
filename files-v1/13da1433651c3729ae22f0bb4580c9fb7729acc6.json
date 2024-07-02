@@ -1,0 +1,24 @@
+{
+  "name": "NamePain-1.3.1 Fabric-1.16.x.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 366263,
+      "fileId": 3096930
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "namepain",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    }
+  ]
+}

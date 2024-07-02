@@ -1,0 +1,142 @@
+{
+  "name": "Geyser-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "geyser-fabric",
+      "version": "2.2.2-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "org_geysermc_geyser_common",
+      "version": "2.2.2-SNAPSHOT"
+    },
+    {
+      "modId": "org_geysermc_geyser_api",
+      "version": "2.2.2-SNAPSHOT"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_dataformat_jackson-dataformat-yaml",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "org_cloudburstmc_block-state-updater",
+      "version": "1.20.70-20240303.125052-2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "org_geysermc_api_base-api",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "org_geysermc_event_events",
+      "version": "1.1-SNAPSHOT"
+    },
+    {
+      "modId": "org_geysermc_cumulus_cumulus",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-json-legacy-impl",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-json",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-legacy",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-plain",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-api",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-nbt",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-key",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-gson",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "org_cloudburstmc_math_immutable",
+      "version": "2.0"
+    },
+    {
+      "modId": "net_bytebuddy_byte-buddy",
+      "version": "1.14.9"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    },
+    {
+      "modId": "com_nukkitx_natives",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "org_bitbucket_b_c_jose4j",
+      "version": "0.9.3"
+    },
+    {
+      "modId": "io_airlift_aircompressor",
+      "version": "0.25"
+    },
+    {
+      "modId": "com_github_steveice10_opennbt",
+      "version": "1.6"
+    },
+    {
+      "modId": "org_cloudburstmc_math_api",
+      "version": "2.0"
+    },
+    {
+      "modId": "org_lanternpowered_lmbda",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "net_jodah_expiringmap",
+      "version": "0.5.10"
+    },
+    {
+      "modId": "net_kyori_option",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "net_kyori_examination-string",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "net_kyori_examination-api",
+      "version": "1.3.0"
+    }
+  ]
+}

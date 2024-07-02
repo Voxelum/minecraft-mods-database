@@ -1,6 +1,12 @@
 {
   "name": "realistic-campfires-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZEMQmiVU",
+      "versionId": "dFn7ySkV"
+    }
+  ],
   "fabric": [
     {
       "modId": "realistic-campfires",

@@ -1,0 +1,22 @@
+{
+  "name": "elytratrims-forge-2.1.2+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "9hsVtQPw"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "2.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytra-trims",
+      "version": "2.1.2"
+    }
+  ]
+}

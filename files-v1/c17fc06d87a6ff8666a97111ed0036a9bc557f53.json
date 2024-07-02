@@ -1,0 +1,16 @@
+{
+  "name": "Craftable Spawner and Spawn Eggs (1.20.1 H version).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "craftable_spawner",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftable_spawner",
+      "version": "1.0.0"
+    }
+  ]
+}

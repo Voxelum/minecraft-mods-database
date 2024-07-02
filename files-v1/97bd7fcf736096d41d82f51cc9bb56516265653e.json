@@ -1,0 +1,14 @@
+{
+  "name": "myloot-2.1.4-1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "myloot",
+      "version": "2.1.4-1.18"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

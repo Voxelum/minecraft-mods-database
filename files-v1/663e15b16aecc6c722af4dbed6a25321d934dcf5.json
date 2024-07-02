@@ -1,0 +1,20 @@
+{
+  "name": "geyser-fabric-2.2.0-SNAPSHOT+build.262.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wKkoqHrH",
+      "versionId": "nB69Bnkh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geyser-fabric",
+      "version": "2.2.0-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

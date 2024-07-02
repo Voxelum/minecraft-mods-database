@@ -1,0 +1,36 @@
+{
+  "name": "Steam_Rails-1.4.8+fabric-mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "9bvNSNFf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 5169750
+    }
+  ],
+  "forge": [
+    {
+      "modId": "railways",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.4.8+fabric-mc1.18.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

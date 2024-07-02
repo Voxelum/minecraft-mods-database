@@ -1,0 +1,25 @@
+{
+  "name": "devices-merged-0.5.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YDa5wT4H",
+      "versionId": "yYRBKPhJ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "devices_forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "devices-fabric",
+      "version": "1"
+    },
+    {
+      "modId": "devices",
+      "version": "0.5.0.1"
+    }
+  ]
+}

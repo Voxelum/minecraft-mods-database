@@ -1,6 +1,12 @@
 {
   "name": "dwdsb-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wA5VlakK",
+      "versionId": "81lNR5xI"
+    }
+  ],
   "fabric": [
     {
       "modId": "dwdsb",

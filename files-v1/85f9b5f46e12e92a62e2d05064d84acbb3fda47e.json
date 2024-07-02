@@ -1,0 +1,14 @@
+{
+  "name": "UnlimitedBannerLayers-1.1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "unlimitedbannerlayers",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "automodpack-mod.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "automodpack",
+      "version": "4.0.0-beta1"
+    }
+  ]
+}

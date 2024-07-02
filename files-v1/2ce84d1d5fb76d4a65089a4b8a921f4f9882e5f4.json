@@ -1,0 +1,14 @@
+{
+  "name": "nounknownlogs-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nounknownlogs",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

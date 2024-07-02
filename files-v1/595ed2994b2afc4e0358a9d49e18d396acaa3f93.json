@@ -1,0 +1,16 @@
+{
+  "name": "better-nether-9.0.10_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betternether",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betternether",
+      "version": "9.0.10"
+    }
+  ]
+}

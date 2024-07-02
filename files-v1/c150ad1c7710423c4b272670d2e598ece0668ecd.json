@@ -1,6 +1,12 @@
 {
   "name": "mcinstanceloader-2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cUtsYbG5",
+      "versionId": "ett5hobb"
+    }
+  ],
   "forge": [
     {
       "modId": "mcinstanceloader",

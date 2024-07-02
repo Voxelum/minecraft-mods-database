@@ -1,6 +1,18 @@
 {
   "name": "forge_hard_mode-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RDTgXmUU",
+      "versionId": "dDxb1nSp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958870,
+      "fileId": 5012587
+    }
+  ],
   "forge": [
     {
       "modId": "hardm",

@@ -1,0 +1,10 @@
+{
+  "name": "Custom Model.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "custom_model_api",
+      "version": "1.0"
+    }
+  ]
+}

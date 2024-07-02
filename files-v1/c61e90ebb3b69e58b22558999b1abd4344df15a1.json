@@ -1,0 +1,16 @@
+{
+  "name": "neruina-forge-2.0.0-beta.10+1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "neruina",
+      "version": "2.0.0-beta.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "2.0.0-beta.10"
+    }
+  ]
+}

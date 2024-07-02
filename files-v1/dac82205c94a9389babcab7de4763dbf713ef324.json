@@ -1,0 +1,16 @@
+{
+  "name": "villager-hats-1.6.11.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villager_hats",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villager-hats",
+      "version": "1.6.1+1.20"
+    }
+  ]
+}

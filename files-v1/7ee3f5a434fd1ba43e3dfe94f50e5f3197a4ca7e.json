@@ -1,0 +1,28 @@
+{
+  "name": "spudcasting-0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NyJ5XpN9",
+      "versionId": "DzbZMKH9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spudcasting",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.39+80f8cf51bb"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.7.5+109a837cbb"
+    },
+    {
+      "modId": "fabric-item-api-v1",
+      "version": "6.0.1+9b3069f6bb"
+    }
+  ]
+}

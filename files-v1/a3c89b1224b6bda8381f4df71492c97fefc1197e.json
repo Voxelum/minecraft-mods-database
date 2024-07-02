@@ -1,6 +1,12 @@
 {
   "name": "RecipeCooldown-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7LEWYKTV",
+      "versionId": "oe5KEgWu"
+    }
+  ],
   "fabric": [
     {
       "modId": "recipecooldown",

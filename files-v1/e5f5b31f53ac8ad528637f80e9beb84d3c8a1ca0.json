@@ -1,0 +1,36 @@
+{
+  "name": "zenith-1.1.6-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TLZe11Uj",
+      "versionId": "xC39zQUU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "1.1.6-1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

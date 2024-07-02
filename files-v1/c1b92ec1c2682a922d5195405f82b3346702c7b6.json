@@ -1,0 +1,14 @@
+{
+  "name": "hardcover-1.0.0+fabric-mc1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hardcover",
+      "version": "1.0.0+fabric-mc1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

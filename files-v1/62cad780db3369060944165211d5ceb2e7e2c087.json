@@ -1,0 +1,16 @@
+{
+  "name": "reevesfurniture-1.1605-forge-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "reevesfurniture",
+      "version": "1.1605"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reevesfurniture",
+      "version": "1.1304"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pointblank_recipes-raygun.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pointblank_recipes",
+      "version": "1.0.0"
+    }
+  ]
+}

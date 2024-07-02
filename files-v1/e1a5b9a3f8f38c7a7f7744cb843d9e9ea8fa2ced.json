@@ -1,0 +1,22 @@
+{
+  "name": "sculk_depths-1.20.4-0.0.10-b.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sculk_depths",
+      "version": "1.20.4-0.0.10-b"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20.4"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.12.3"
+    }
+  ]
+}

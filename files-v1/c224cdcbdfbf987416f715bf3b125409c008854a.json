@@ -1,0 +1,24 @@
+{
+  "name": "dracomelette-1.16.5-1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 321836,
+      "fileId": 3169790
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dracomelette",
+      "version": "1.16.5-1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.2"
+    }
+  ]
+}

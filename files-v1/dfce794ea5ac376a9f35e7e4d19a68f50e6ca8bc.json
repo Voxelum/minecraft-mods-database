@@ -1,6 +1,12 @@
 {
   "name": "forgery-3.4.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B3Eg0WhA",
+      "versionId": "djIE3XPP"
+    }
+  ],
   "forge": [
     {
       "modId": "fabrication",

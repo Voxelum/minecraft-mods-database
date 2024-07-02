@@ -1,0 +1,28 @@
+{
+  "name": "Annotated-DI-Fabric-4.0.1+1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RAXqYPH1",
+      "versionId": "bnNY6E2c"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "annotateddi",
+      "version": "4.0.1+1.16.5"
+    },
+    {
+      "modId": "com_google_inject_guice",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    }
+  ]
+}

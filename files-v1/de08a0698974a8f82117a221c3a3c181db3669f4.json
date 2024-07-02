@@ -1,0 +1,20 @@
+{
+  "name": "victus-0.1.3+1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sy5mAKPK",
+      "versionId": "zDyQhRmm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "victus",
+      "version": "0.1.3+1.16.5"
+    },
+    {
+      "modId": "owo",
+      "version": "0.1"
+    }
+  ]
+}

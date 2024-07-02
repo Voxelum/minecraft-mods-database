@@ -1,0 +1,10 @@
+{
+  "name": "OriginsExtraKeybinds.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extrakeybinds",
+      "version": "0.2.0"
+    }
+  ]
+}

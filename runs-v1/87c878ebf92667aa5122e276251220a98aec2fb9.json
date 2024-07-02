@@ -1,0 +1,20 @@
+{
+  "mods": [
+    "92fcbc49d41a4d1b2038b469154a4c36e3934e36",
+    "8a4b7f0d6e569370a73402eeda57418f456968d8",
+    "a52918a500ff421180a1cbd1a0cabee712134ec4",
+    "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96",
+    "1a431d34991d51998f9971c4291bac2d58eaa154",
+    "738be989fe1818065ad0bbe5515b54690b0ee442",
+    "8e89e0d04b7fa7e151fdb26b9e7945464685f745",
+    "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+  ],
+  "runtime": {
+    "minecraft": "1.20.1",
+    "forge": "47.2.21"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.8"
+  }
+}

@@ -1,6 +1,12 @@
 {
   "name": "StackablePotions.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 599436,
+      "fileId": 4627634
+    }
+  ],
   "forge": [
     {
       "modId": "stackablepotions",

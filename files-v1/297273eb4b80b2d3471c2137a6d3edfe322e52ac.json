@@ -1,6 +1,12 @@
 {
   "name": "healthindicatortxf-1.19.2-1.1.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N56hoqkq",
+      "versionId": "kr6wYzJM"
+    }
+  ],
   "fabric": [
     {
       "modId": "healthindicatortxf",

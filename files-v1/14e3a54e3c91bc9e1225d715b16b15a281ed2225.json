@@ -1,0 +1,16 @@
+{
+  "name": "tooltipfix-1.1.1-1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tooltipfix",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tooltipfix",
+      "version": "1.1.1-1.20"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "unloadedactivity-v0.5.3+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "unloadedactivity",
+      "version": "v0.5.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "banner-flags-2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_banner_flags",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_banner_flags",
+      "version": "2.2"
+    }
+  ]
+}

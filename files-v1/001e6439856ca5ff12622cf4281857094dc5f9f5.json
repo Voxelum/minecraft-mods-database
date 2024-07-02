@@ -1,0 +1,20 @@
+{
+  "name": "itemalchemy-0.8.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cfQx2fbQ",
+      "versionId": "UygFcuAP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemalchemy",
+      "version": "0.8.7"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "trashslot-fabric-1.20.4-16.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vRYk0bv7",
+      "versionId": "KtMApssr"
+    }
+  ],
   "fabric": [
     {
       "modId": "trashslot",

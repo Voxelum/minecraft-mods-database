@@ -1,0 +1,21 @@
+{
+  "mods": [
+    "332db9675de67c5f84b1b0e4f398b5fbe9b6ed56",
+    "2d3189a051e5bdd19a42b7eba1b03bb5c1b28aff",
+    "fd011557b484f764367b9bc9d93e22a5ab2051d1",
+    "d82e9d326b9d40904edb189077fabe0f5f47557a",
+    "ab2118b1ed23444d6decf081e0295e4c679af6c2",
+    "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
+    "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+    "2f1e299ea659e588ee383918b3dc1f702f0c2030"
+  ],
+  "runtime": {
+    "minecraft": "1.12.2",
+    "forge": "14.23.5.2859",
+    "labyMod": "4.1.22"
+  },
+  "java": {
+    "majorVersion": 8,
+    "version": "1.8.0_351"
+  }
+}

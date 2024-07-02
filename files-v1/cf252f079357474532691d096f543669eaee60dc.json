@@ -1,6 +1,18 @@
 {
   "name": "xaeros_minimap_24.0.2_fabric_1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bokaNcj",
+      "versionId": "HR0G2gSQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 263420,
+      "fileId": 5191822
+    }
+  ],
   "fabric": [
     {
       "modId": "xaerominimap",

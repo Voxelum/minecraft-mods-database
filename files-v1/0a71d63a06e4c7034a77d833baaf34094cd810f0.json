@@ -1,0 +1,26 @@
+{
+  "name": "Mixed Ore 1.19.2 1.1.1[fabric].jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 830035,
+      "fileId": 4467024
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mixed_ore",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mixed_ore",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.627+1.19.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "fm_audio_extension_fabric_1.1.2_MC_1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pFgXNvCD",
+      "versionId": "CzLlCf02"
+    }
+  ],
   "fabric": [
     {
       "modId": "fmextension_audio",

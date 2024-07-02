@@ -1,6 +1,12 @@
 {
   "name": "knives_construct-1.18.2-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UaAydapd",
+      "versionId": "QAfhPYTA"
+    }
+  ],
   "forge": [
     {
       "modId": "knives_construct",

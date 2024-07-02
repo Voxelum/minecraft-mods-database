@@ -1,0 +1,26 @@
+{
+  "name": "WaterPlayer-1.1.0-beta.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "waterplayer",
+      "version": "1.1.0-beta.4"
+    },
+    {
+      "modId": "com_jagrosh_discordipc_discordipc",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-common",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-native-common",
+      "version": "2.7.0"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "animatica-0.4+1.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PRN43VSY",
+      "versionId": "BLd2HXCa"
+    }
+  ],
   "fabric": [
     {
       "modId": "animatica",

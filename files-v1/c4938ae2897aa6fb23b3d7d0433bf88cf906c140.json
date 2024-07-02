@@ -1,0 +1,16 @@
+{
+  "name": "passiveendermen-1.18.2-4.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "passiveendermen",
+      "version": "4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "passiveendermen",
+      "version": "4.3"
+    }
+  ]
+}

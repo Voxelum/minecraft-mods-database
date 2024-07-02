@@ -1,0 +1,20 @@
+{
+  "name": "Pehkui-3.8.1+1.14.4-1.20.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 5374194
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "3.8.1+1.14.4-1.20.6"
+    },
+    {
+      "modId": "kanos_config",
+      "version": "0.4.1+1.14.4-1.19.4"
+    }
+  ]
+}

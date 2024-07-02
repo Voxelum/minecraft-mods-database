@@ -1,0 +1,14 @@
+{
+  "name": "iris-mc1.20.1-1.6.17.jar.0cd800.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.6.17"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    }
+  ]
+}

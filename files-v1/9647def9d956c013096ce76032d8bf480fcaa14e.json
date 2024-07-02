@@ -1,0 +1,20 @@
+{
+  "name": "immersive_guns-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fQWA1WGg",
+      "versionId": "Gh5xsBlX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_guns",
+      "version": "1.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "turtlematic-0.5.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "turtlematic",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "turtlematic",
+      "version": "0.5.4"
+    }
+  ]
+}

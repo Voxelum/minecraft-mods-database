@@ -1,0 +1,16 @@
+{
+  "name": "extraspellattributes-1.2.2$mixinextras-fabric-0.2.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

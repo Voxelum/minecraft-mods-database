@@ -1,6 +1,12 @@
 {
   "name": "yet-another-config-lib-fabric-2.5.0+1.19.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 4506708
+    }
+  ],
   "fabric": [
     {
       "modId": "yet_another_config_lib",

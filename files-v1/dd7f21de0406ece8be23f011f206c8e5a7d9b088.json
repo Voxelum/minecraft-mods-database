@@ -1,6 +1,12 @@
 {
   "name": "numeralping-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XLd8Sh64",
+      "versionId": "W2er4vCn"
+    }
+  ],
   "fabric": [
     {
       "modId": "numeralping",

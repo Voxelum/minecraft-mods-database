@@ -1,0 +1,14 @@
+{
+  "name": "discontinuous-beacon-beams-1.1.9+MC1.20-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "discontinuous_beacon_beams",
+      "version": "1.1.9"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

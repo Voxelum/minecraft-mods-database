@@ -1,0 +1,14 @@
+{
+  "name": "reinforced-shulker-boxes-2.2.0+1.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reinfshulker",
+      "version": "2.2.0+1.18"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "3.0.3+1.18"
+    }
+  ]
+}

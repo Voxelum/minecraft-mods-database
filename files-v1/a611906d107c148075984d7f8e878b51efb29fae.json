@@ -1,6 +1,18 @@
 {
   "name": "TConstruct-1.18.2-3.7.1.155.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rxIIYO6c",
+      "versionId": "4U8Td4Sc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 74072,
+      "fileId": 5148042
+    }
+  ],
   "forge": [
     {
       "modId": "tconstruct",

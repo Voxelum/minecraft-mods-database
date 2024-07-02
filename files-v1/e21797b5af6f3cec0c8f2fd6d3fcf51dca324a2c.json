@@ -1,6 +1,12 @@
 {
   "name": "create_trimmed.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zvaHXgQz",
+      "versionId": "Uwi3mNBj"
+    }
+  ],
   "forge": [
     {
       "modId": "create_trimmed",

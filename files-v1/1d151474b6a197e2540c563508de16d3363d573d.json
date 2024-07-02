@@ -1,6 +1,18 @@
 {
   "name": "addonTraderNPC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "78ZQG4Et",
+      "versionId": "gRw25odj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550916,
+      "fileId": 3825962
+    }
+  ],
   "fabric": [
     {
       "modId": "tradernpcs",

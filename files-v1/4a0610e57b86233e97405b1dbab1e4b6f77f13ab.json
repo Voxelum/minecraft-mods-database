@@ -1,6 +1,12 @@
 {
   "name": "glassbreaker-fabric-1.4.0+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vY7Ka6pe",
+      "versionId": "cy6fXKfy"
+    }
+  ],
   "fabric": [
     {
       "modId": "glassbreaker",

@@ -1,0 +1,20 @@
+{
+  "name": "gcyr-fabric-1.20.1-0.1.3-aa.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4VJrCEMZ",
+      "versionId": "xdZskl4p"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gcyr",
+      "version": "0.1.3-aa"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

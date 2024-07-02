@@ -1,0 +1,14 @@
+{
+  "name": "未确认 26035.crdownload",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stack-to-nearby-chests",
+      "version": "0.5.8"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.2+1.20"
+    }
+  ]
+}

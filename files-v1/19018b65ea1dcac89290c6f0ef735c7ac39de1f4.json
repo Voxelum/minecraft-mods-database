@@ -1,0 +1,20 @@
+{
+  "name": "balm-fabric-1.20.1-7.3.4_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "balm_fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "balm-fabric",
+      "version": "7.3.4"
+    },
+    {
+      "modId": "kuma_api",
+      "version": "20.1.6"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "zume-0.18.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "zume",
+      "version": "0.18.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zume",
+      "version": "0.18.1"
+    }
+  ]
+}

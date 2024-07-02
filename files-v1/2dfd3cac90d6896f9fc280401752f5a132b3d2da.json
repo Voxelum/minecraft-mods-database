@@ -1,0 +1,24 @@
+{
+  "name": "scorchful-0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SZQ5qcdn",
+      "versionId": "iyfBHKZI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scorchful",
+      "version": "0.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

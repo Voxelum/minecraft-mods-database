@@ -1,6 +1,12 @@
 {
   "name": "cherry-villages-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xtpwas3W",
+      "versionId": "Obp28yI0"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_cherry_villages",

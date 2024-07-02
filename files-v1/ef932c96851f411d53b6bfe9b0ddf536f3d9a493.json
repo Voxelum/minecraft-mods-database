@@ -1,0 +1,10 @@
+{
+  "name": "flighthud-1.17.1-fabric-7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "flighthud",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "persistentparrots-1.0+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "persistent_parrots",
+      "version": "1.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.5"
+    }
+  ]
+}

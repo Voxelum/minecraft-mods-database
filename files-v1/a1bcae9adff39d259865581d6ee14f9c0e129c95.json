@@ -1,0 +1,20 @@
+{
+  "name": "confogurable-fabric-1.20.1-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GJZMhTIP",
+      "versionId": "B6bASgCV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "confogurable",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

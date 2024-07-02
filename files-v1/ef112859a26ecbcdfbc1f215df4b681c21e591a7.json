@@ -1,6 +1,18 @@
 {
   "name": "do-a-barrel-roll-2.6.2+1.18.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6FtRfnLg",
+      "versionId": "eE2kjsho"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663658,
+      "fileId": 4385167
+    }
+  ],
   "fabric": [
     {
       "modId": "do_a_barrel_roll",

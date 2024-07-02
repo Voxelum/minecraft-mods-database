@@ -1,6 +1,18 @@
 {
   "name": "monolib-fabric-1.20.4-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9leXt4A5",
+      "versionId": "5GalSR2d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968432,
+      "fileId": 5106408
+    }
+  ],
   "fabric": [
     {
       "modId": "monolib",

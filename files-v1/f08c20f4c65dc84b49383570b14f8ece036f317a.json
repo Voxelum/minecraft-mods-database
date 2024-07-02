@@ -1,0 +1,16 @@
+{
+  "name": "cardinal-components-api-5.2.2$cardinal-components-scoreboard-5.2.2_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cardinal_components_scoreboard",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "5.2.2"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "hexal-fabric-1.19.2-0.2.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aBVJ6Q36",
+      "versionId": "m7Bxvj56"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 824725,
+      "fileId": 5099159
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexal",
+      "version": "0.2.19"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "cardinal-components",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    },
+    {
+      "modId": "lib39-core",
+      "version": "1.5.0-pre2+1.19.2"
+    },
+    {
+      "modId": "lib39-phantom",
+      "version": "1.5.0-pre2+1.19.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "trashbinmod-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EHB0xD6E",
+      "versionId": "x0fE4LZE"
+    }
+  ],
   "forge": [
     {
       "modId": "trashbinmod",

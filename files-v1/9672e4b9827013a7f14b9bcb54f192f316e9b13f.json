@@ -1,0 +1,28 @@
+{
+  "name": "u_desert-1.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ThFWvdF1",
+      "versionId": "aTZR6emc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960356,
+      "fileId": 5220315
+    }
+  ],
+  "forge": [
+    {
+      "modId": "u_desert",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "u_desert",
+      "version": "1.3.0"
+    }
+  ]
+}

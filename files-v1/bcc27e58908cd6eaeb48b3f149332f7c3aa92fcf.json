@@ -1,0 +1,20 @@
+{
+  "name": "bclib-3.0.10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 495191,
+      "fileId": 4607159
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "3.0.10"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "1.1.3"
+    }
+  ]
+}

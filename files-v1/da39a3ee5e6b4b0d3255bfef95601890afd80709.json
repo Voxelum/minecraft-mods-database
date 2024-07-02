@@ -1,6 +1,6 @@
 {
   "name": "Morpheus-1.16.5-4.2.70.jar",
-  "domain": "shaderpacks",
+  "domain": "resourcepacks",
   "modrinth": [
     {
       "projectId": "yNL1NF5j",
@@ -35,6 +35,18 @@
     {
       "modId": "berriespp",
       "version": "1.5.6"
+    },
+    {
+      "modId": "toofast",
+      "version": "0.0.1.2"
+    },
+    {
+      "modId": "mininggadgets",
+      "version": "1.15.6"
+    },
+    {
+      "modId": "quarkoddities",
+      "version": "1.20.1"
     }
   ],
   "fabric": [
@@ -109,6 +121,14 @@
     {
       "modId": "createchunkloading",
       "version": "1.6.0"
+    },
+    {
+      "modId": "lengthyladders",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "dynview",
+      "version": "1.20.1-3.2"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "silentscreenshots-2.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "silentscreenshots",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "silentscreenshots",
+      "version": "2.1"
+    }
+  ]
+}

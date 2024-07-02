@@ -1,0 +1,14 @@
+{
+  "name": "naturalist-fabric-4.0.1-1.20.1-minusbyterfly3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "naturalist",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

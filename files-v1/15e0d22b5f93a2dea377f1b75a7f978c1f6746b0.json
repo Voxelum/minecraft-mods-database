@@ -1,0 +1,16 @@
+{
+  "name": "improved-inchling-origin-2.1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_improved_inchlingorigin",
+      "version": "2.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_improved_inchlingorigin",
+      "version": "2.1.1"
+    }
+  ]
+}

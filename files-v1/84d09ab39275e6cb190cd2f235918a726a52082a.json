@@ -1,0 +1,14 @@
+{
+  "name": "leawind_third_person-v2.0.8-beta.4-mc1.20.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "leawind_third_person",
+      "version": "2.0.8-beta.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

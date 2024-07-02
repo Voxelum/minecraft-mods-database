@@ -1,0 +1,14 @@
+{
+  "name": "magic-lanterns-1.4.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "magic_lanterns",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

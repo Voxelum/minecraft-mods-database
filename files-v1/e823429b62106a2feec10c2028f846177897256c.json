@@ -1,6 +1,12 @@
 {
   "name": "ChatBridge-1.20.1-1.3FE.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GyQOl17p",
+      "versionId": "kpItzA7O"
+    }
+  ],
   "forge": [
     {
       "modId": "chatbridge",

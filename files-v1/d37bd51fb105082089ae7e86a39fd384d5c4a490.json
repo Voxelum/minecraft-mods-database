@@ -1,6 +1,12 @@
 {
   "name": "beautifiedchatclient-1.20.4-2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mtIxmNw5",
+      "versionId": "pbD5CJb4"
+    }
+  ],
   "forge": [
     {
       "modId": "beautifiedchatclient",

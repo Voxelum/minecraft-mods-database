@@ -1,0 +1,10 @@
+{
+  "name": "EndRespawnAnchorMod.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "end_respawn_anchor",
+      "version": "1.0.0"
+    }
+  ]
+}

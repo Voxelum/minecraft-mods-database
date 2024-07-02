@@ -1,0 +1,14 @@
+{
+  "name": "createutilities-0.3.01.18.2-1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "createutilities",
+      "version": "0.3.0+1.18.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

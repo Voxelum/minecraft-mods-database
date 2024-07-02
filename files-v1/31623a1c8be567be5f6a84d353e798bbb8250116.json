@@ -1,0 +1,42 @@
+{
+  "name": "seedcrackerX-0.2.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seedcrackerx",
+      "version": "0.2.7"
+    },
+    {
+      "modId": "com_github_kaptainwutax_mathutils",
+      "version": "6c2d50eacad0241ff76119e6e703b70bac4b4bce"
+    },
+    {
+      "modId": "com_github_kaptainwutax_seedutils",
+      "version": "0de70bc772fef95d8acfa6991e7278ee53a8b46c"
+    },
+    {
+      "modId": "com_github_kaptainwutax_featureutils",
+      "version": "0bd98a8dd892ff8d7292bcf5545f79a91a5eecca"
+    },
+    {
+      "modId": "com_github_kaptainwutax_biomeutils",
+      "version": "62b374f2def7e09240447aceeb12a0a601b59a2b"
+    },
+    {
+      "modId": "com_github_kaptainwutax_chunkrandomreversal",
+      "version": "209eefb8ed2bd097e3c55d3934ba508b664443da"
+    },
+    {
+      "modId": "com_github_kaptainwutax_latticg",
+      "version": "b2a338f7bd765dcd184136c2245ea5765b75edf8"
+    },
+    {
+      "modId": "com_seedfinding_latticg",
+      "version": "1.05"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    }
+  ]
+}

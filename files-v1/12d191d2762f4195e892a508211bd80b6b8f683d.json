@@ -1,0 +1,16 @@
+{
+  "name": "Overworld Netherite ore 2.3 1.20.1 Forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "overworld_netherite_ore",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherite_ore_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

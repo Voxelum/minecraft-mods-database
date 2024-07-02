@@ -1,0 +1,26 @@
+{
+  "name": "vaultpatcher-all-1.4.0+1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NLV0Mnpu",
+      "versionId": "uNa8iX2O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967052,
+      "fileId": 5095219
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vaultpatcher",
+      "version": "1.4.0+1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

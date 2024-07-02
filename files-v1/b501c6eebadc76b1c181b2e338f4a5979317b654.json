@@ -1,6 +1,12 @@
 {
   "name": "JSON-Paintings-v1.2-mc1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 688489,
+      "fileId": 4063223
+    }
+  ],
   "forge": [
     {
       "modId": "jsonpaintings",

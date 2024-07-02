@@ -1,0 +1,14 @@
+{
+  "name": "API-surveyor-0.5.01.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "surveyor",
+      "version": "0.5.0+1.20"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.1.1+1.1.0-beta.3"
+    }
+  ]
+}

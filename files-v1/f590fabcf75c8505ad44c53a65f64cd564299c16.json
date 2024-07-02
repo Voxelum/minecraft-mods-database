@@ -1,0 +1,50 @@
+{
+  "name": "Plethora-Fabric-1.10.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "plethora",
+      "version": "1.10.5"
+    },
+    {
+      "modId": "sc-library",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "4.0.65"
+    },
+    {
+      "modId": "modmenu",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    }
+  ]
+}

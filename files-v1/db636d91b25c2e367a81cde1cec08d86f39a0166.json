@@ -1,0 +1,20 @@
+{
+  "name": "mclmaf2024-1.0.1potato.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HHUWTI5h",
+      "versionId": "1Lc66Yh6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mclmaf2024",
+      "version": "1.0.1potato.1"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.96.14+24w14potato"
+    }
+  ]
+}

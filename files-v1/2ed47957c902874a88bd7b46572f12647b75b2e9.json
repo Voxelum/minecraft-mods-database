@@ -1,6 +1,12 @@
 {
   "name": "requiem-1.7.12.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 265729,
+      "fileId": 3342473
+    }
+  ],
   "fabric": [
     {
       "modId": "requiem",

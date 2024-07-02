@@ -1,6 +1,12 @@
 {
   "name": "UnionLib-1.20.1-10.2.5-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EkkPwdCY",
+      "versionId": "HfJSSt5U"
+    }
+  ],
   "forge": [
     {
       "modId": "unionlib",

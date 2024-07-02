@@ -1,0 +1,14 @@
+{
+  "name": "winterly-0.9.2+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "winterly",
+      "version": "0.9.2+1.20"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "SculkHornMod-fabric-1.20.4-2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sculkhornid",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sculkhornid",
+      "version": "2.0"
+    }
+  ]
+}

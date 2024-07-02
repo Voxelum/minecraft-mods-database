@@ -1,0 +1,10 @@
+{
+  "name": "mmoparties-2.3.3.1.16.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mmoparties",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tnt-timer-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AihRqJiY",
+      "versionId": "T7B4hUVa"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_tnt_timer",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_tnt_timer",
+      "version": "2"
+    }
+  ]
+}

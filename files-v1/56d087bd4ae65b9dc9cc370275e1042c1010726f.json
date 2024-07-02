@@ -1,0 +1,16 @@
+{
+  "name": "deathbackup-1.20.6-3.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deathbackup",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathbackup",
+      "version": "3.3"
+    }
+  ]
+}

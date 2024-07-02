@@ -1,0 +1,10 @@
+{
+  "name": "fabric-lifecycle-events-v1-1.0.0+b0993bc102-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "${version}"
+    }
+  ]
+}

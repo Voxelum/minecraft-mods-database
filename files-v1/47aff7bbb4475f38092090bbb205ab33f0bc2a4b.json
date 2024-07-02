@@ -1,0 +1,16 @@
+{
+  "name": "Pehkui-3.3.2+1.18.1-forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.3.2+1.18.1-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

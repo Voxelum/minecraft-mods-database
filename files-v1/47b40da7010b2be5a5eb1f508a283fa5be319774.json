@@ -1,0 +1,10 @@
+{
+  "name": "alloy-forgery-2.1.2+1.20-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "alloy_forgery",
+      "version": "${version}"
+    }
+  ]
+}

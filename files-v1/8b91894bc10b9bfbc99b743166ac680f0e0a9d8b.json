@@ -1,6 +1,12 @@
 {
   "name": "leashablevillagers-1.1-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WkgSMbrT",
+      "versionId": "VuJvRPH0"
+    }
+  ],
   "fabric": [
     {
       "modId": "leashablevillagers",

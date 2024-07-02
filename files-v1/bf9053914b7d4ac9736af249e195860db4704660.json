@@ -1,0 +1,50 @@
+{
+  "name": "zenith_attributes-0.2.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zenith_attributes",
+      "version": "0.2.4"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "projectile_damage",
+      "version": "3.2.2+1.20.1"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.7.3+1.20.0"
+    }
+  ]
+}

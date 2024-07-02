@@ -1,6 +1,12 @@
 {
   "name": "packedup-1.0.30-forge-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZbFzEauY",
+      "versionId": "enUbn1Si"
+    }
+  ],
   "forge": [
     {
       "modId": "packedup",

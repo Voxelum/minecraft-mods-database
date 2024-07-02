@@ -1,6 +1,18 @@
 {
   "name": "eureka-1192-1.2.0-beta.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EO8aSHxh",
+      "versionId": "UAXUHqaW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 654384,
+      "fileId": 4575351
+    }
+  ],
   "fabric": [
     {
       "modId": "vs_eureka",

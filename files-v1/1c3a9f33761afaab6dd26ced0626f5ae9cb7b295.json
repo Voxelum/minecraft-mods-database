@@ -1,0 +1,20 @@
+{
+  "name": "travelersbackpack-fabric-1.20.1-9.1.13_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "travelersbackpack",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "fabric-1.20.1-9.1.13"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

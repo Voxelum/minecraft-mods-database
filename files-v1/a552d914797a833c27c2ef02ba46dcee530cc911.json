@@ -1,0 +1,16 @@
+{
+  "name": "elytratrims-neoforge-2.1.2+1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "2.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytra-trims",
+      "version": "2.1.2"
+    }
+  ]
+}

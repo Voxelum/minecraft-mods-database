@@ -1,0 +1,60 @@
+{
+  "name": "silk-api-1.20.4-0.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3je4UK0t",
+      "versionId": "8uoWj7cL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "silk-api",
+      "version": "1.20.4-0.3.1"
+    },
+    {
+      "modId": "silk-api-base",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-codex",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-generate",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-landform",
+      "version": "0.1.1+1.20.4"
+    },
+    {
+      "modId": "silk-magic-cube",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-mod-pass",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-mod-up",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-pattern",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-rope-stick",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-spinning-jenny",
+      "version": "0.1.0+1.20.4"
+    },
+    {
+      "modId": "silk-spore",
+      "version": "0.1.0+1.20.4"
+    }
+  ]
+}

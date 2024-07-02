@@ -1,0 +1,110 @@
+{
+  "name": "c2me-fabric-mc24w14a-0.2.0+alpha.11.85.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "c2me",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-base",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-client-uncapvd",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-fixes-chunkio-threading-issues",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-fixes-general-threading-issues",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-fixes-worldgen-threading-issues",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-fixes-worldgen-vanilla-bugs",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-notickvd",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-allocs",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-chunk-access",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-chunkio",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-math",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-scheduling",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-worldgen-general",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-opts-worldgen-vanilla",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-rewrites-chunk-serializer",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-rewrites-chunkio",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-server-utils",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-threading-chunkio",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-threading-lighting",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "c2me-threading-worldgen",
+      "version": "0.2.0+alpha.11.85"
+    },
+    {
+      "modId": "com_ibm_async_asyncutil",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "org_threadly_threadly",
+      "version": "7.0"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

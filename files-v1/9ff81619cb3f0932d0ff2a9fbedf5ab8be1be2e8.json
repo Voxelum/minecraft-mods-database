@@ -1,0 +1,16 @@
+{
+  "name": "sootsandwichcraft1.2.3[1.20.1].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "breadcraft",
+      "version": "1.2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "breadcraft",
+      "version": "1.2.3"
+    }
+  ]
+}

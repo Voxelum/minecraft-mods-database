@@ -1,0 +1,26 @@
+{
+  "name": "minecord-2.1.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minecord",
+      "version": "2.1.0+1.20.1"
+    },
+    {
+      "modId": "minecord-api",
+      "version": "2.0.1+1.20.1"
+    },
+    {
+      "modId": "minecord-chat",
+      "version": "2.1.0+1.20.1"
+    },
+    {
+      "modId": "minecord-cmds",
+      "version": "2.0.1+1.20.1"
+    },
+    {
+      "modId": "minecord-presence",
+      "version": "2.0.0+1.20.1"
+    }
+  ]
+}

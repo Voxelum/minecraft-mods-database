@@ -1,0 +1,14 @@
+{
+  "name": "duckling-fabric-1.20.4-4.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "duckling",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "2.4.6"
+    }
+  ]
+}

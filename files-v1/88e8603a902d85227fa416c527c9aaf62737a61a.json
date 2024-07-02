@@ -1,0 +1,24 @@
+{
+  "name": "SimpleRadio-fabric-1.20.2-2.2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S7b8mMXS",
+      "versionId": "F4DdcHzv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simpleradio",
+      "version": "2.2.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    }
+  ]
+}

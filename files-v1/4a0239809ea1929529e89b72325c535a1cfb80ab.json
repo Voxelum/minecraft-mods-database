@@ -1,0 +1,16 @@
+{
+  "name": "Combat Expansion 1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "combat_expansion",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trueweapons",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "create_central_kitchen-1.19.2-for-create-0.5.1.f-1.3.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 820977,
+      "fileId": 5144803
+    }
+  ],
   "forge": [
     {
       "modId": "create_central_kitchen",

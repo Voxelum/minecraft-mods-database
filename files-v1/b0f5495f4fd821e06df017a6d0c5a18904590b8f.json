@@ -1,0 +1,14 @@
+{
+  "name": "expandingtechnologies-1.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "expandingtechnologies",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

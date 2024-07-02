@@ -1,0 +1,20 @@
+{
+  "name": "enhancedblockentities-0.10.1+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OVuFYfre",
+      "versionId": "xUOoKrs2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedblockentities",
+      "version": "0.10.1+1.20.4"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.8.1"
+    }
+  ]
+}

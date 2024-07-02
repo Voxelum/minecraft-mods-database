@@ -1,0 +1,14 @@
+{
+  "name": "chatpatches-194.4.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chatpatches",
+      "version": "194.4.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

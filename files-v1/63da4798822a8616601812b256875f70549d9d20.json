@@ -1,0 +1,16 @@
+{
+  "name": "viaforge-mc112-3.5.0-1.12.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "viaforge",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.9.1"
+    }
+  ]
+}

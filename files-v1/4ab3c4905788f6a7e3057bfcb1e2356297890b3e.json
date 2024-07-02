@@ -1,0 +1,10 @@
+{
+  "name": "automodpacker_false.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "automodpack-bootstrap",
+      "version": "1.0.0"
+    }
+  ]
+}

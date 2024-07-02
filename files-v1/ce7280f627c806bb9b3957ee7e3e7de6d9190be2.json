@@ -1,0 +1,14 @@
+{
+  "name": "jmx-fabric-20.1.284.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "json-model-extensions",
+      "version": "20.1.284"
+    },
+    {
+      "modId": "frex",
+      "version": "20.1.347"
+    }
+  ]
+}

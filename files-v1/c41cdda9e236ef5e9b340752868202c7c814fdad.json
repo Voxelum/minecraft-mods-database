@@ -1,6 +1,12 @@
 {
   "name": "totem-norender-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DoOUL6yU",
+      "versionId": "i3FLETbK"
+    }
+  ],
   "fabric": [
     {
       "modId": "totem-norender",

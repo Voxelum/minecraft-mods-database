@@ -1,0 +1,34 @@
+{
+  "name": "seedcracker-0.2.3-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seedcracker",
+      "version": "0.2.3-beta"
+    },
+    {
+      "modId": "com_github_kaptainwutax_mathutils",
+      "version": "6c2d50eacad0241ff76119e6e703b70bac4b4bce"
+    },
+    {
+      "modId": "com_github_kaptainwutax_seedutils",
+      "version": "8e310c079346fa55077fd1786b50dae0d2025336"
+    },
+    {
+      "modId": "com_github_kaptainwutax_featureutils",
+      "version": "25f73f26289a65a314cd66badc3c433d7f8c37b0"
+    },
+    {
+      "modId": "com_github_kaptainwutax_biomeutils",
+      "version": "590f697a2ccb6c6bdba8e2fea891a25ace75c947"
+    },
+    {
+      "modId": "com_github_kaptainwutax_chunkrandomreversal",
+      "version": "209eefb8ed2bd097e3c55d3934ba508b664443da"
+    },
+    {
+      "modId": "com_github_kaptainwutax_latticg",
+      "version": "38f0b3d33e15ad2e6ce9ddb1f588e2b9a8c96174"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "amethyst_imbuement-1.20.1-19.4$structurized_reborn-1.20.1-01_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "structurized_reborn",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "structurized-reborn",
+      "version": "1.20.1-01"
+    }
+  ]
+}

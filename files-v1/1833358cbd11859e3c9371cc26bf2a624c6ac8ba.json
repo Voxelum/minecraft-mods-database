@@ -1,6 +1,12 @@
 {
   "name": "sit-1.16.5-11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VKXzIykF",
+      "versionId": "XBTgJEYl"
+    }
+  ],
   "fabric": [
     {
       "modId": "sit",

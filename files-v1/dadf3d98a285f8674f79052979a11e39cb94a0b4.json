@@ -1,6 +1,12 @@
 {
   "name": "subsurface-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mGEL09gE",
+      "versionId": "dynEna6c"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_subsurface",

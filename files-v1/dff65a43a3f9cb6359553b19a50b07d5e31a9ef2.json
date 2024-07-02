@@ -1,6 +1,12 @@
 {
   "name": "base-1.12.2-3.11.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 246996,
+      "fileId": 2678282
+    }
+  ],
   "forge": [
     {
       "modId": "base",

@@ -1,0 +1,10 @@
+{
+  "name": "catastrophe-beta.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "catastrophe_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Animation_Overhaul-fabric-1.20.x-1.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "animation_overhaul",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

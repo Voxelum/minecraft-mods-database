@@ -1,0 +1,14 @@
+{
+  "name": "MegaExtraUltimateMobOrigins-1.16.5-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meumo",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "effective-2.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "effective",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "lodestone",
+      "version": "0.0.4+1.20.1"
+    }
+  ]
+}

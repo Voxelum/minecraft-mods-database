@@ -1,0 +1,14 @@
+{
+  "name": "CombatNouveau-v8.0.5-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "combatnouveau",
+      "version": "8.0.5"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

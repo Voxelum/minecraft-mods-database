@@ -1,0 +1,16 @@
+{
+  "name": "runes-fabric-0.9.11+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "runes",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "runes",
+      "version": "0.9.11+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "do-a-barrel-roll-2.6.1+1.19.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": "2.6.1+1.19.2"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    }
+  ]
+}

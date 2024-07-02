@@ -1,0 +1,14 @@
+{
+  "name": "soundsbegone-1.1.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "soundsbegone",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "com_posthog_java_posthog",
+      "version": "1.1.0"
+    }
+  ]
+}

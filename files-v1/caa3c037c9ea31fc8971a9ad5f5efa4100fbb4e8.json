@@ -1,0 +1,14 @@
+{
+  "name": "TitleChanger-1.11.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "titlechanger",
+      "version": "1.11.0"
+    },
+    {
+      "modId": "io_github_linsminecraftstudio_titlechanger-api",
+      "version": "1.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nightfall-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nightfall",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nightfall",
+      "version": "1.0"
+    }
+  ]
+}

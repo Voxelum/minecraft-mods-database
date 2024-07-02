@@ -1,6 +1,18 @@
 {
   "name": "createappliedkinetics-1.3.1-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mYGTCuZY",
+      "versionId": "1q6fqrph"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867328,
+      "fileId": 4691908
+    }
+  ],
   "forge": [
     {
       "modId": "createappliedkinetics",

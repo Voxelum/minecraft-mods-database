@@ -1,0 +1,20 @@
+{
+  "name": "travelersbackpack-fabric-1.20.1-9.1.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "OZYAzeTR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "fabric-1.20.1-9.1.11"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

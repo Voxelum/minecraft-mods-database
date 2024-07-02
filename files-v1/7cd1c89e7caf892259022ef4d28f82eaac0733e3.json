@@ -1,0 +1,16 @@
+{
+  "name": "liquidbounceplusl.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "liquidbounce",
+      "version": "final"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viabackwards",
+      "version": "4.2.1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "BetterF3-10.0.0-alpha.1-Fabric-24w12a.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterf3",
+      "version": "10.0.0-alpha.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.122"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.0+e9d2a72bc0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "waveycapes-fabric-1.3.2-mc1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYuIpRLv",
+      "versionId": "C3M3SuYd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521594,
+      "fileId": 4391890
+    }
+  ],
   "fabric": [
     {
       "modId": "waveycapes",

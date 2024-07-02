@@ -1,0 +1,20 @@
+{
+  "name": "gravestones-v1.11.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ssUbhMkL",
+      "versionId": "it1lfLQh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gravestones",
+      "version": "v1.11.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "eden-ring-20.1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EMl3XyUs",
+      "versionId": "nifo2OxY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "edenring",
+      "version": "20.1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

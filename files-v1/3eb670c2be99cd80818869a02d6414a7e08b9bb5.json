@@ -1,6 +1,12 @@
 {
   "name": "particle-blocker-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aVja52oo",
+      "versionId": "VRhh6Fga"
+    }
+  ],
   "fabric": [
     {
       "modId": "particle-blocker",

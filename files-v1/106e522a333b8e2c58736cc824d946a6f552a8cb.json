@@ -1,0 +1,14 @@
+{
+  "name": "ExtendedAE-1.20-1.0.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extendedae",
+      "version": "1.20-1.0.1-fabric"
+    },
+    {
+      "modId": "configuration",
+      "version": "2.2.0"
+    }
+  ]
+}

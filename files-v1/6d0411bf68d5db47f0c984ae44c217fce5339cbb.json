@@ -1,0 +1,28 @@
+{
+  "name": "ukulib-1.0.0-beta.3+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ukulib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ukulib",
+      "version": "1.0.0-beta.3+1.20.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "gs_mclo_java_mclogs-java",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d77"
+    }
+  ]
+}

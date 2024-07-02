@@ -1,0 +1,10 @@
+{
+  "name": "Mineclient.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mineclient",
+      "version": "1.0.0"
+    }
+  ]
+}

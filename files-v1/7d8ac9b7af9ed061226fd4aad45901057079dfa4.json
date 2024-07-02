@@ -1,0 +1,22 @@
+{
+  "name": "berserker-class-mod-1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "berserker-rpg",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    }
+  ]
+}

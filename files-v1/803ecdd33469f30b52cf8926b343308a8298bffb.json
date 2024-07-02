@@ -1,6 +1,12 @@
 {
   "name": "clickthrough-forge-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u0fZ6yKc",
+      "versionId": "TlwxRB7E"
+    }
+  ],
   "forge": [
     {
       "modId": "clickthrough",

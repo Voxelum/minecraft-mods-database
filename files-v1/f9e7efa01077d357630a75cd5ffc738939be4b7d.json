@@ -1,0 +1,18 @@
+{
+  "name": "stepup-1.19-fabric0.53.3-1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "stepup",
+      "version": "1.19-fabric0.53.3-1.1"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.3.4+1.19"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "one-time-overrides-v1.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "one-time-overrides",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "io_github_microutils_kotlin-logging-jvm",
+      "version": "2.1.23"
+    }
+  ]
+}

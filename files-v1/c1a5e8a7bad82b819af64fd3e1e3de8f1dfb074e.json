@@ -1,6 +1,12 @@
 {
   "name": "full-tablist-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OFcs2Iww",
+      "versionId": "IPFcfVs9"
+    }
+  ],
   "fabric": [
     {
       "modId": "full-tablist",

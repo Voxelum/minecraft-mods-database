@@ -1,0 +1,15 @@
+{
+  "mods": [
+    "e0818735cc2272ff7704e7a6d28d38d154e65f37",
+    "f2475e8d5746477d1d2972cd5aae62a5d9c04264"
+  ],
+  "runtime": {
+    "minecraft": "1.20.4",
+    "fabricLoader": "0.15.7",
+    "labyMod": "4.2.6"
+  },
+  "java": {
+    "majorVersion": 17,
+    "version": "17.0.8"
+  }
+}

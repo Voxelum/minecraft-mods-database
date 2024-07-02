@@ -1,0 +1,24 @@
+{
+  "name": "sandwichable-1.2-beta5--1.16.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 374143,
+      "fileId": 3206686
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sandwichable",
+      "version": "1.2-beta5"
+    },
+    {
+      "modId": "cloth-dynamic-registry-api-v1",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.0-unstable"
+    }
+  ]
+}

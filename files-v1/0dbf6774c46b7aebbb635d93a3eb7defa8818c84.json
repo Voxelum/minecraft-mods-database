@@ -1,6 +1,12 @@
 {
   "name": "BuildingWands-mc1.19.2-2.6.8-release-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XkisZUfp",
+      "versionId": "tyIpJMNs"
+    }
+  ],
   "forge": [
     {
       "modId": "wands",

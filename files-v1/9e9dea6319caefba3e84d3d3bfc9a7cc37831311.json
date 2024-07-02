@@ -1,6 +1,12 @@
 {
   "name": "ec_cje_plugin-1.20.1-1.1.1-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6rKNpXRz",
+      "versionId": "o5yOAoIP"
+    }
+  ],
   "forge": [
     {
       "modId": "ec_cje_plugin",

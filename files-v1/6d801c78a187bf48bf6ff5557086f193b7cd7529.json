@@ -1,6 +1,12 @@
 {
   "name": "PlaceItem-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I4a3pZJR",
+      "versionId": "UbZPQ4Ax"
+    }
+  ],
   "fabric": [
     {
       "modId": "placeitem",

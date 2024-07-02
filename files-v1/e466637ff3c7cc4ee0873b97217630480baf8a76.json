@@ -1,0 +1,26 @@
+{
+  "name": "sodium-extra-0.5.5+mc1.20.6-build.118.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtjYWJkn",
+      "versionId": "TJDWVdsb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447673,
+      "fileId": 5306031
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium-extra",
+      "version": "0.5.5+mc1.20.6-build.118"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.3.0+1.17"
+    }
+  ]
+}

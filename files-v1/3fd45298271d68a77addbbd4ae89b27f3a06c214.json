@@ -1,0 +1,22 @@
+{
+  "name": "exposure-1.20.1-1.5.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hB899VmG",
+      "versionId": "SIkhFpiB"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "exposure-1.20.1-1.5.1-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exposure",
+      "version": "1.5.1"
+    }
+  ]
+}

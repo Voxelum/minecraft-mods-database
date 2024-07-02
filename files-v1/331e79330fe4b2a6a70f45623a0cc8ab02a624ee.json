@@ -1,6 +1,12 @@
 {
   "name": "inventorio-1.19-forge-1.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LcafSQPm",
+      "versionId": "TaWgktr9"
+    }
+  ],
   "forge": [
     {
       "modId": "inventorio",

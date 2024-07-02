@@ -1,0 +1,46 @@
+{
+  "name": "voxy-0.1.4-alpha.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "voxy",
+      "version": "0.1.4-alpha"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-lmdb",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-lmdb_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-lmdb_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-zstd",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-zstd_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-zstd_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_rocksdb_rocksdbjni",
+      "version": "8.10.0"
+    },
+    {
+      "modId": "redis_clients_jedis",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-pool2",
+      "version": "2.12.0"
+    }
+  ]
+}

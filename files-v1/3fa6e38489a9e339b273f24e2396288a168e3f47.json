@@ -1,0 +1,20 @@
+{
+  "name": "quilt-loading-screen-1.3.0+1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VPU6VYVP",
+      "versionId": "8fdt0Hxw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quilt-loading-screen",
+      "version": "1.3.0+1.16.5"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.6+2868a2287d"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ThunderHack-Recode-Client-Mod-Fabric-1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "thunderhack",
+      "version": "1.4"
+    },
+    {
+      "modId": "satin",
+      "version": "1.16.0"
+    }
+  ]
+}

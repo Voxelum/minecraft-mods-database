@@ -1,0 +1,16 @@
+{
+  "name": "additional-placements-fabric-1.20.1-1.8.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "additionalplacements",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "additionalplacements",
+      "version": "1.8.0"
+    }
+  ]
+}

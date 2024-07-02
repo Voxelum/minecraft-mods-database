@@ -1,0 +1,28 @@
+{
+  "name": "artis-recrafted-4.0.0+1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 574404,
+      "fileId": 4635152
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artis",
+      "version": "4.0.0+1.19.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.4.0+1.19"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.9.4"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.6.2"
+    }
+  ]
+}

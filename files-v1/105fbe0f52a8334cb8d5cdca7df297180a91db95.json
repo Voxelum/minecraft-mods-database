@@ -1,0 +1,14 @@
+{
+  "name": "state-output-1.1.6+1.16-1.18.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "state-output",
+      "version": "1.1.6+1.16-1.18.1"
+    },
+    {
+      "modId": "state-output-common",
+      "version": "1.1.6"
+    }
+  ]
+}

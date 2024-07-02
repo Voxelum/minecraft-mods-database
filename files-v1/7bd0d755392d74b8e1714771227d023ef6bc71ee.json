@@ -1,6 +1,12 @@
 {
   "name": "Zombify-0.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DTmZ5lnu",
+      "versionId": "3y9uG86g"
+    }
+  ],
   "fabric": [
     {
       "modId": "zombify",

@@ -1,0 +1,10 @@
+{
+  "name": "DynamicViewmodel.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamicviewmodel",
+      "version": "1.0-SNAPSHOT"
+    }
+  ]
+}

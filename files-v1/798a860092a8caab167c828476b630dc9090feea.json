@@ -1,0 +1,20 @@
+{
+  "name": "clockwork-1.19.2-0.1.4-fabric-492c9a205e.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vs_clockwork",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vs_clockwork",
+      "version": "1.19.2-0.1.4-fabric-492c9a205e"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

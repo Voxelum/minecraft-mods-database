@@ -1,0 +1,16 @@
+{
+  "name": "treasuredistance-fabric-1.20.1-1.0.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "treasuredistance",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treasuredistance",
+      "version": "1.20.1-1.0.1"
+    }
+  ]
+}

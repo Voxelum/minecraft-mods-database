@@ -1,0 +1,10 @@
+{
+  "name": "mwf-movement-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mwf-movement",
+      "version": "${version}"
+    }
+  ]
+}

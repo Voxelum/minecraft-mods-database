@@ -1,0 +1,22 @@
+{
+  "name": "mine-treasure-1.2.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5y2R1ofr",
+      "versionId": "wEMgXFvV"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mine_treasure_mr",
+      "version": "1.2.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mine_treasure_mr",
+      "version": "1.2.8"
+    }
+  ]
+}

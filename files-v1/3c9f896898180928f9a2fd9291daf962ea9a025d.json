@@ -1,6 +1,12 @@
 {
   "name": "moyai-1.20-2.0.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z7WhFkyW",
+      "versionId": "enqrTZWH"
+    }
+  ],
   "fabric": [
     {
       "modId": "moyai",

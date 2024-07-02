@@ -1,0 +1,14 @@
+{
+  "name": "full-slabs-3.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "full_slabs",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "statement",
+      "version": "4.2.8+1.14.4-1.20.1"
+    }
+  ]
+}

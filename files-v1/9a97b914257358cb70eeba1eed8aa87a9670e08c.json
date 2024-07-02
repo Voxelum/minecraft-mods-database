@@ -1,0 +1,20 @@
+{
+  "name": "Sounds-0.8.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZouiUX7t",
+      "versionId": "OUbsXzqc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sounds",
+      "version": "0.8.0+1.20.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.4.2+1.20.1-fabric"
+    }
+  ]
+}

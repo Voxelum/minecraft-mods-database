@@ -1,0 +1,14 @@
+{
+  "name": "hephaestusplus-1.1.1+1.20.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hephaestusplus",
+      "version": "1.1.1+1.20"
+    },
+    {
+      "modId": "config_toolkit",
+      "version": "1.0.0"
+    }
+  ]
+}

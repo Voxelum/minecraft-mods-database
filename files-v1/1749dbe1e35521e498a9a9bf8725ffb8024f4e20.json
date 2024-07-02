@@ -1,0 +1,22 @@
+{
+  "name": "remote-controlled-0.0.6-1.18.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "remote_controlled",
+      "version": "0.0.6-1.18.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

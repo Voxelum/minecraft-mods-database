@@ -1,0 +1,60 @@
+{
+  "name": "twilightforest-fabric-1.18.2-4.1.238.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "twilightforest",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "twilightforest",
+      "version": "4.1.238"
+    },
+    {
+      "modId": "fabric-data-generation-api-v1",
+      "version": "2.0.9+e19de87d60"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "1.1.313-beta+1.18.2-dev.fd8990f"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "2.1"
+    }
+  ]
+}

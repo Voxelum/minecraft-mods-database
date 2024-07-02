@@ -1,6 +1,12 @@
 {
   "name": "spyglass_astronomy-1.0.1-mc1.19.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EdBSdqge",
+      "versionId": "xOfNbmQ6"
+    }
+  ],
   "fabric": [
     {
       "modId": "spyglass_astronomy",

@@ -1,0 +1,24 @@
+{
+  "name": "OkZoomer-Fabric-9.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXf2OSFU",
+      "versionId": "jQ9ADWX2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ok_zoomer",
+      "version": "9.0.2"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.10.0+1.21"
+    },
+    {
+      "modId": "wrench_wrapper",
+      "version": "0.4.0"
+    }
+  ]
+}

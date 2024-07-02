@@ -1,0 +1,10 @@
+{
+  "name": "paralympic-core-client.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "paralympiccore",
+      "version": "1.0-SNAPSHOT"
+    }
+  ]
+}

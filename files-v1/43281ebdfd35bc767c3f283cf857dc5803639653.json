@@ -1,0 +1,24 @@
+{
+  "name": "lanishextendedstaves-fabric-1.19.2-0.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mvESKiJR",
+      "versionId": "BZ1g1D28"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lanishextendedstaves",
+      "version": "0.0.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

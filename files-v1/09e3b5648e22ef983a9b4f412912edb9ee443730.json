@@ -1,0 +1,32 @@
+{
+  "name": "bewitchment-1.16.5-15.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394915,
+      "fileId": 3319889
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bewitchment",
+      "version": "1.16.5-15"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "end-gateway-warps-1.2.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_end_gatewaywarps",
+      "version": "1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_end_gatewaywarps",
+      "version": "1.2.2"
+    }
+  ]
+}

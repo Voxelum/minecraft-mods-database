@@ -1,0 +1,14 @@
+{
+  "name": "meteor-plus-1.0.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteorplus",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "BuildingWands-mc1.20.1-fabric-2.6.9-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XkisZUfp",
+      "versionId": "mLBi7a8x"
+    }
+  ],
   "fabric": [
     {
       "modId": "wands",

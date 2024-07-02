@@ -1,0 +1,14 @@
+{
+  "name": "fullerspkcenter-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tutorialmod",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.20.1-01"
+    }
+  ]
+}

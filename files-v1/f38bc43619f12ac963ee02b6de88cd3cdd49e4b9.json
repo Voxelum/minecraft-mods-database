@@ -1,6 +1,12 @@
 {
   "name": "goldenhopper-forge-1.20.1-1.4.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 374736,
+      "fileId": 4603250
+    }
+  ],
   "forge": [
     {
       "modId": "goldenhopper",

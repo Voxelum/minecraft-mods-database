@@ -1,0 +1,10 @@
+{
+  "name": "bedcraftbeyond-1.7.10-1.1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "BedCraftAndBeyond",
+      "version": "${version}"
+    }
+  ]
+}

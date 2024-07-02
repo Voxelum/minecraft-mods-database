@@ -1,0 +1,66 @@
+{
+  "name": "everycomp-1.20-2.6.55-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "everycomp",
+      "version": "1.20-2.6.55"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_registries",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_client_events",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_recipe_book_categories",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

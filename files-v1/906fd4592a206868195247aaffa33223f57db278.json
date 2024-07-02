@@ -1,0 +1,20 @@
+{
+  "name": "simple-mod-config-1.20-fabric-0.0.3 .jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xtPYrzCS",
+      "versionId": "qLbN0VkK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplemodconfig",
+      "version": "0.0.3"
+    },
+    {
+      "modId": "modmenu",
+      "version": "7.0.1"
+    }
+  ]
+}
