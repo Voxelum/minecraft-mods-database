@@ -22,6 +22,17 @@ jobs:
           AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
       - name: Create Release Note PR
         if: always()
+        id: create_pr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Harvest data"
+          title: Harvest data
+          body: Harvest data
+          reviewers: ci010
+          assignees: ci010
+      - name: Retry Create Release Note PR
+        if: ${{ steps.create_pr.conclusion == 'failure' }}
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
