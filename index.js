@@ -133,7 +133,7 @@ async function main() {
           }
           const rec = JSON.stringify(record, null, 2);
           const key = createHash("sha1").update(rec).digest("hex");
-          await fs.writeFile(`./run-record-v1/${key}.json`, rec);
+          await fs.writeFile(`./runs-v1/${key}.json`, rec);
         }
       }
 
