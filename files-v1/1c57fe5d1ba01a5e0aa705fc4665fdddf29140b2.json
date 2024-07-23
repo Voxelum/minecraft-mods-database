@@ -1,0 +1,10 @@
+{
+  "name": "inventoryhud.fabric.1.21-3.4.22.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "inventoryhud",
+      "version": "${version}"
+    }
+  ]
+}

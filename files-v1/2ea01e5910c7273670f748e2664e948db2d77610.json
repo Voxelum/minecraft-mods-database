@@ -1,6 +1,12 @@
 {
   "name": "nvidium-0.2.9-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SfMw2IZN",
+      "versionId": "cl0HrTL6"
+    }
+  ],
   "fabric": [
     {
       "modId": "nvidium",

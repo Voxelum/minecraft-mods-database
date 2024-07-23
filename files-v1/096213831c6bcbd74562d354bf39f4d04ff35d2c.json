@@ -1,6 +1,12 @@
 {
   "name": "create-addon-v5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 478898,
+      "fileId": 3388866
+    }
+  ],
   "forge": [
     {
       "modId": "create_addon",

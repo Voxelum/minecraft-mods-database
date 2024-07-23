@@ -1,0 +1,10 @@
+{
+  "name": "my-first-mod-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "my-first-mod",
+      "version": "1.0.0"
+    }
+  ]
+}

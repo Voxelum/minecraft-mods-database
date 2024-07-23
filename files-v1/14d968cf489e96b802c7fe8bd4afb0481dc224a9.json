@@ -1,0 +1,14 @@
+{
+  "name": "entity-view-distance-1.3.0+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entity-view-distance",
+      "version": "1.3.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

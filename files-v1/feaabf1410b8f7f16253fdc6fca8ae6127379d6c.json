@@ -1,6 +1,12 @@
 {
   "name": "trolldom-1.20.1-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gu9PQOOc",
+      "versionId": "HrAKzfqQ"
+    }
+  ],
   "forge": [
     {
       "modId": "trolldom",

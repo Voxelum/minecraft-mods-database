@@ -1,6 +1,12 @@
 {
   "name": "yetanotherconfiglib-3.5.01.20.6-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "xiSmTJ03"
+    }
+  ],
   "fabric": [
     {
       "modId": "yet_another_config_lib_v3",

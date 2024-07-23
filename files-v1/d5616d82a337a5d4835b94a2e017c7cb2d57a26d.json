@@ -1,0 +1,14 @@
+{
+  "name": "CreativeCore_FABRIC_v2.11.34_mc1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.11.34"
+    },
+    {
+      "modId": "net_neoforged_bus",
+      "version": "7.2.0"
+    }
+  ]
+}

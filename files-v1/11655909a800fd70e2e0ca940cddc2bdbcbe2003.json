@@ -1,6 +1,12 @@
 {
   "name": "capes-1.5.4+1.21-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "89Wsn8GD",
+      "versionId": "6SzVPVR4"
+    }
+  ],
   "fabric": [
     {
       "modId": "capes",

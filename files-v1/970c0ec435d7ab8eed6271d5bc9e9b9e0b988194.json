@@ -1,0 +1,16 @@
+{
+  "name": "970c0ec435d7ab8eed6271d5bc9e9b9e0b988194.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createcobblestone",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createcobblestone",
+      "version": "1.2.0+fabric-1.20.1-22"
+    }
+  ]
+}

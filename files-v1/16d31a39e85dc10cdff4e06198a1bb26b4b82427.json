@@ -1,6 +1,18 @@
 {
   "name": "continuity-3.0.0-beta.5+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1IjD5062",
+      "versionId": "NksUpFjf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531351,
+      "fileId": 5425853
+    }
+  ],
   "fabric": [
     {
       "modId": "continuity",

@@ -1,0 +1,22 @@
+{
+  "name": "ships-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M185nxi6",
+      "versionId": "fCvd1DA6"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ships",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ships",
+      "version": "1.0"
+    }
+  ]
+}

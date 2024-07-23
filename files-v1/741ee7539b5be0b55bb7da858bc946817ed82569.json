@@ -1,0 +1,30 @@
+{
+  "name": "recipe-book-delight-0.3.1-1.20.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "recipe-book-delight",
+      "version": "0.3.1-1.20"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.0.1-1.20.1-build.76"
+    },
+    {
+      "modId": "dark-matter-mixin",
+      "version": "4.0.1-1.20.1-build.76"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "4.0.1-1.20.1-build.76"
+    },
+    {
+      "modId": "dark-matter-enums",
+      "version": "4.0.1-1.20.1-build.76"
+    },
+    {
+      "modId": "dark-matter-recipe-book",
+      "version": "4.0.1-1.20.1-build.76"
+    }
+  ]
+}

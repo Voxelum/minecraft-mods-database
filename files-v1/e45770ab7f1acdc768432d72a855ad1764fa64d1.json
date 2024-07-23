@@ -1,0 +1,18 @@
+{
+  "name": "hephaestusexpansion-1.0.1h+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hephaestusexpansion",
+      "version": "1.0.1h+1.20.1"
+    },
+    {
+      "modId": "config_toolkit",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

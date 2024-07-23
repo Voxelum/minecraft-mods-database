@@ -1,0 +1,10 @@
+{
+  "name": "armor-weight-1.0.0-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armor-weight",
+      "version": "${version}"
+    }
+  ]
+}

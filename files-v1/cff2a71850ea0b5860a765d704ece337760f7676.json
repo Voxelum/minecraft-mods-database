@@ -1,0 +1,22 @@
+{
+  "name": "polymorph-fabric-1.0.2+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "1.0.2+1.21"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    }
+  ]
+}

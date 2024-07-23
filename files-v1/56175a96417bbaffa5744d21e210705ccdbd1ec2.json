@@ -1,0 +1,16 @@
+{
+  "name": "deepslate_diamond-1.0-ores.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deepslate_diamond",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deepslate_diamond",
+      "version": "1.0"
+    }
+  ]
+}

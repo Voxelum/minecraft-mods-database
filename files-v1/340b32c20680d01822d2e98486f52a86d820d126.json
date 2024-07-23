@@ -1,6 +1,12 @@
 {
   "name": "[矿物树]Ore_Tree_v0.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 496048,
+      "fileId": 3363190
+    }
+  ],
   "forge": [
     {
       "modId": "ore_tree",

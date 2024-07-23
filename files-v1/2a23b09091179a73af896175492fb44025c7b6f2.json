@@ -1,0 +1,26 @@
+{
+  "name": "copycats-1.3.8+mc.1.19.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UT2M39wf",
+      "versionId": "3tKcIBlL"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "copycats",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "copycats",
+      "version": "1.3.8+mc.1.19.2-fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

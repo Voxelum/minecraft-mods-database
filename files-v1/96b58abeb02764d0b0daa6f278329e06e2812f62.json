@@ -1,0 +1,16 @@
+{
+  "name": "collective-1.21.0-7.71.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "7.71"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "7.71"
+    }
+  ]
+}

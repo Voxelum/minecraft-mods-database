@@ -1,0 +1,14 @@
+{
+  "name": "InventorySorter-1.9.0-1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "inventorysorter",
+      "version": "1.9.0-1.20.4"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.8-1.20.4"
+    }
+  ]
+}

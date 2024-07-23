@@ -1,0 +1,16 @@
+{
+  "name": "treeharvester-1.21.0-8.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "treeharvester",
+      "version": "8.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treeharvester",
+      "version": "8.9"
+    }
+  ]
+}

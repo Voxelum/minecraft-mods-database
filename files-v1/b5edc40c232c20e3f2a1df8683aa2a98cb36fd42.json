@@ -1,6 +1,12 @@
 {
   "name": "arcanus-1.29.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 517833,
+      "fileId": 3742064
+    }
+  ],
   "fabric": [
     {
       "modId": "arcanus",

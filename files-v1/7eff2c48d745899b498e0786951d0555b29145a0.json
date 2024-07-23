@@ -1,0 +1,22 @@
+{
+  "name": "AmbientSounds_FORGE_v5.3.9_mc1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 254284,
+      "fileId": 5491930
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.3.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ambientsounds",
+      "version": "${version}"
+    }
+  ]
+}

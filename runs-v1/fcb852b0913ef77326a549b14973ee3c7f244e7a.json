@@ -1,0 +1,14 @@
+{
+  "mods": [
+    ""
+  ],
+  "runtime": {
+    "minecraft": "1.21",
+    "quiltLoader": "0.26.1-beta.1",
+    "labyMod": "4.2.28"
+  },
+  "java": {
+    "majorVersion": 21,
+    "version": "21.0.3"
+  }
+}

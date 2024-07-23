@@ -1,0 +1,20 @@
+{
+  "name": "screenshot_viewer-1.0.0-fabric-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 693961,
+      "fileId": 4051940
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenshot_viewer",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "catconfig-mc",
+      "version": "0.1.1"
+    }
+  ]
+}

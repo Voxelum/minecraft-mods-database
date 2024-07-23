@@ -1,0 +1,16 @@
+{
+  "name": "Terralith_1.21_v2.5.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "2.5.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.5.4"
+    }
+  ]
+}

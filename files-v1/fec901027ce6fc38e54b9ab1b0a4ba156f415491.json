@@ -1,0 +1,10 @@
+{
+  "name": "configured-fabric-1.21-2.5.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "configured",
+      "version": "2.5.0"
+    }
+  ]
+}

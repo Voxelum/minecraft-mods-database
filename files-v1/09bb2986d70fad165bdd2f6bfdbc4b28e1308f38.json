@@ -1,0 +1,14 @@
+{
+  "name": "gearifiers-0.7.0+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gearifiers",
+      "version": "0.7.0+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

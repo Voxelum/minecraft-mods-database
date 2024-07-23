@@ -1,0 +1,14 @@
+{
+  "name": "WilderWild-2.4.6-mc1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "2.4.6-mc1.21"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.8-mc1.21"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NusMqsjF",
+      "versionId": "pyiVLk9R"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stackdeobfuscator",
+      "version": "1.4.3+08e71cc"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.6.1"
+    },
+    {
+      "modId": "stackdeobfuscator-common",
+      "version": "1.4.3+08e71cc"
+    }
+  ]
+}

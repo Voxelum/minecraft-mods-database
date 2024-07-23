@@ -1,0 +1,14 @@
+{
+  "name": "overloadedarmorbar-fabric-1.20.1-2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "overloadedarmorbar",
+      "version": "1.20.1-2"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.2.2+1.16"
+    }
+  ]
+}

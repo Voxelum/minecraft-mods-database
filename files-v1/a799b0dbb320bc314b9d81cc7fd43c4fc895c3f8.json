@@ -1,6 +1,18 @@
 {
   "name": "Debugify-1.21+1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QwxR6Gcd",
+      "versionId": "mOk69fib"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 596224,
+      "fileId": 5444662
+    }
+  ],
   "fabric": [
     {
       "modId": "debugify",

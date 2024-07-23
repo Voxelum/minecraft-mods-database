@@ -1,0 +1,24 @@
+{
+  "name": "Origins-1.13.0-alpha.4+mc.1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BeIrqZR",
+      "versionId": "iNpBhEID"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "1.13.0-alpha.4+mc.1.20.4"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.12.0-alpha.6+mc.1.20.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.5.0"
+    }
+  ]
+}

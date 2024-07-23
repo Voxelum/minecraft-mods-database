@@ -1,0 +1,20 @@
+{
+  "name": "antique-atlas-2.9.5+1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "antique_atlas",
+      "version": "2.9.5+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antique-atlas",
+      "version": "2.9.5+1.20"
+    },
+    {
+      "modId": "surveyor",
+      "version": "0.5.6+1.20"
+    }
+  ]
+}

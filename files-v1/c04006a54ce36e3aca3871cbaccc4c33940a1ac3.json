@@ -1,0 +1,16 @@
+{
+  "name": "selfexpression-2.11.1-forge-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "selfexpression",
+      "version": "2.11.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "selfexpression",
+      "version": "2.6.1"
+    }
+  ]
+}

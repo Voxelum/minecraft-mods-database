@@ -1,6 +1,12 @@
 {
   "name": "arrp-0.5.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 463113,
+      "fileId": 3680866
+    }
+  ],
   "fabric": [
     {
       "modId": "advanced_runtime_resource_pack",

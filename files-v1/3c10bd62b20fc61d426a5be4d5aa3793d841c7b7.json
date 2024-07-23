@@ -1,0 +1,14 @@
+{
+  "name": "travelersbackpack-fabric-1.20.1-9.1.15.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "fabric-1.20.1-9.1.15"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

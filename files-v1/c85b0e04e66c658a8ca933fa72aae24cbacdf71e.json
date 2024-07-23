@@ -1,0 +1,24 @@
+{
+  "name": "constructionwand-1.0.1+1.21.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "constructionwand",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "constructionwand",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.0"
+    }
+  ]
+}

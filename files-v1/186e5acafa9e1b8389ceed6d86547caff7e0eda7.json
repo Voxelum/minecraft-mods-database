@@ -1,6 +1,12 @@
 {
   "name": "chickens-4.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 241941,
+      "fileId": 2368267
+    }
+  ],
   "forge": [
     {
       "modId": "chickens",

@@ -1,0 +1,14 @@
+{
+  "name": "jamlib-fabric-1.0.9+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jamlib",
+      "version": "1.0.9+1.21"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

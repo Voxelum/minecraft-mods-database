@@ -1,0 +1,14 @@
+{
+  "name": "beekeeperhut-fabric-mc1.20.1-2.0.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "beekeeperhut",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}
