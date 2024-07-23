@@ -1,0 +1,14 @@
+{
+  "name": "FeyTweaks-1.21-1.2.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "feytweaks",
+      "version": "1.21-1.2.8"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "worldweaver-21.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RiN8rDVs",
+      "versionId": "MFYAqJPR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wover",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-biome",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-block",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-common",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-core",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-datagen",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-events",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-feature",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-generator",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-item",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-math",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-preset",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-recipe",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-structure",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-surface",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-tag",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wover-ui",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "21.0.3"
+    }
+  ]
+}

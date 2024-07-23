@@ -1,0 +1,14 @@
+{
+  "name": "autohud-7.2.1+1.21-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autohud",
+      "version": "7.2.1+1.21"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "1.21.0"
+    }
+  ]
+}

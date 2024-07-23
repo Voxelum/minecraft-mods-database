@@ -1,6 +1,12 @@
 {
   "name": "wings-2.1.4-all.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1017751,
+      "fileId": 5406670
+    }
+  ],
   "forge": [
     {
       "modId": "wings",

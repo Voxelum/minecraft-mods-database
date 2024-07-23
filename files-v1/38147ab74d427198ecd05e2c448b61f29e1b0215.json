@@ -1,0 +1,16 @@
+{
+  "name": "journeymap-forge-1.21-6.0.0-beta.18.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "journeymap",
+      "version": "1.21-6.0.0-beta.18"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap-wrongloader",
+      "version": "not a fabric mod"
+    }
+  ]
+}

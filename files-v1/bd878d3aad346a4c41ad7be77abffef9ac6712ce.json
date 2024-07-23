@@ -1,0 +1,14 @@
+{
+  "name": "missbarbare-palette-1.2.2-1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "missbarbare_palette",
+      "version": "1.2.2-1.21"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    }
+  ]
+}

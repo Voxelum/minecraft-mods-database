@@ -1,0 +1,18 @@
+{
+  "name": "dynamiccrosshair-8.0.3+1.21-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamiccrosshair",
+      "version": "8.0.3+1.21"
+    },
+    {
+      "modId": "dynamiccrosshair-api",
+      "version": "1.0"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "1.21.0.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "chatanimation-1.0.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DnNYdJsx",
+      "versionId": "O4wSETwq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatanimation",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

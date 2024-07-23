@@ -1,0 +1,14 @@
+{
+  "name": "highlight-fabric-1.21-3.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "highlight",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.0.1"
+    }
+  ]
+}

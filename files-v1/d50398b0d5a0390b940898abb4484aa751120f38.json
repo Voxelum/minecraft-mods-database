@@ -1,0 +1,14 @@
+{
+  "name": "particle_core-0.2.3+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "particle_core",
+      "version": "0.2.3+1.21"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.5.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "Alfheim-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "srzJgOEn",
+      "versionId": "eXsbM9qx"
+    }
+  ],
   "forge": [
     {
       "modId": "alfheim",

@@ -1,0 +1,14 @@
+{
+  "name": "charmofundying-fabric-7.1.2+1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charmofundying",
+      "version": "7.1.2+1.20.4"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.15.2+1.20.4"
+    }
+  ]
+}

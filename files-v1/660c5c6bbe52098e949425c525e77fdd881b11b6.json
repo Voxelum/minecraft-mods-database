@@ -1,6 +1,12 @@
 {
   "name": "MendableAnvils-forge-1.20-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9p1fvkRO",
+      "versionId": "op8msjEB"
+    }
+  ],
   "forge": [
     {
       "modId": "mendable_anvils",

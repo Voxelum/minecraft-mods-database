@@ -1,6 +1,12 @@
 {
   "name": "fishtraps-0.1.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 323927,
+      "fileId": 3243332
+    }
+  ],
   "forge": [
     {
       "modId": "fishtraps",

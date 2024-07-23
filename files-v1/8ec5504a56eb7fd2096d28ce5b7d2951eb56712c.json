@@ -1,0 +1,20 @@
+{
+  "name": "essential_1-3-2-8_fabric_1-20-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k2ZPuTBm",
+      "versionId": "wef33aI6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "essential-container",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "essential-loader",
+      "version": "1.2.3"
+    }
+  ]
+}

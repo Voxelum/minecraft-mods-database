@@ -1,6 +1,12 @@
 {
   "name": "thermoo-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9TbXlAut",
+      "versionId": "6wBxEhl5"
+    }
+  ],
   "fabric": [
     {
       "modId": "thermoo",

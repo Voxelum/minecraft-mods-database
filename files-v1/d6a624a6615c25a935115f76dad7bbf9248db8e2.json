@@ -1,0 +1,14 @@
+{
+  "name": "Sounds-1.0.1+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sounds",
+      "version": "1.0.1+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

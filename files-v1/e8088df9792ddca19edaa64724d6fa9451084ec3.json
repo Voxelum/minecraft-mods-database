@@ -1,0 +1,24 @@
+{
+  "name": "biolith-1.0.0-beta.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iGEl6Crx",
+      "versionId": "XcRnagd4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biolith",
+      "version": "1.0.0-beta.2"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "7.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

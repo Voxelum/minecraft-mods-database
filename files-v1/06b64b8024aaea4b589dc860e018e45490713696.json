@@ -1,0 +1,48 @@
+{
+  "name": "cardinal-components-api-6.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318449,
+      "fileId": 5400257
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.1.0"
+    }
+  ]
+}

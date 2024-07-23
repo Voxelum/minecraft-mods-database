@@ -1,0 +1,10 @@
+{
+  "name": "xplus-autofish-1.1.1-fabric-1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "1.1.1-fabric-1.21"
+    }
+  ]
+}

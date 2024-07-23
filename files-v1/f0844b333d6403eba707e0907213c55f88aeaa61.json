@@ -1,0 +1,14 @@
+{
+  "name": "seasonhud-fabric-1.21-1.9.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.9.1"
+    },
+    {
+      "modId": "net_jodah_typetools",
+      "version": "0.6.3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "automodpack-fabric-4.0.0-beta5-1.21.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "automodpack-bootstrap",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "automodpack",
+      "version": "4.0.0-beta5"
+    }
+  ]
+}

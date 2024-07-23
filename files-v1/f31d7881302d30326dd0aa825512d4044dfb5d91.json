@@ -1,0 +1,16 @@
+{
+  "name": "hero-proof-5.1.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_hero_proof",
+      "version": "5.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_hero_proof",
+      "version": "5.1.2"
+    }
+  ]
+}

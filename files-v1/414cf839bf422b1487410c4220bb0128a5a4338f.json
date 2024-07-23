@@ -1,0 +1,14 @@
+{
+  "name": "mostructures-fabric-1.5.0+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mostructures",
+      "version": "1.5.0+1.21"
+    },
+    {
+      "modId": "omegaconfig",
+      "version": "1.5.1"
+    }
+  ]
+}

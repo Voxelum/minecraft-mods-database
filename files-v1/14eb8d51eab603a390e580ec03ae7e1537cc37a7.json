@@ -1,0 +1,48 @@
+{
+  "name": "microdurability-0.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JW3bGnLO",
+      "versionId": "VlmNAzmB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "microdurability",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-core",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-16",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-17",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-19",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-19-4",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-20",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-20-5",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "microdurability-compat-1-21",
+      "version": "0.4.0"
+    }
+  ]
+}

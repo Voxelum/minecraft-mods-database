@@ -1,0 +1,18 @@
+{
+  "name": "infinitybuttons-4.0.5-mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "infinitybuttons",
+      "version": "4.0.5-mc1.20.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

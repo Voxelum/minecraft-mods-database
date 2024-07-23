@@ -1,0 +1,30 @@
+{
+  "name": "ForgeConfigAPIPort-v21.0.1-1.21-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 5493457
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.4"
+    }
+  ]
+}

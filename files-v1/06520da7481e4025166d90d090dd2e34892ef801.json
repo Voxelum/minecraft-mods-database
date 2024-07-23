@@ -1,0 +1,22 @@
+{
+  "name": "[舒适用品] comforts-fabric-9.0.0+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "9.0.0+1.21"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.17.1+1.21"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    }
+  ]
+}

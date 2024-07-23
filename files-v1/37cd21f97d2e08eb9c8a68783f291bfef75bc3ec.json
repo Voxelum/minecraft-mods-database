@@ -1,0 +1,20 @@
+{
+  "name": "CreativeCore_FABRIC_v2.12.4_mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "KoQwFplo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.12.4"
+    },
+    {
+      "modId": "net_neoforged_bus",
+      "version": "7.2.0"
+    }
+  ]
+}

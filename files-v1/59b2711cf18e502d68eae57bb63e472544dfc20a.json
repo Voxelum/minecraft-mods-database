@@ -1,6 +1,12 @@
 {
   "name": "letsdo-herbalbrews-fabric-1.0.8.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 951221,
+      "fileId": 5400096
+    }
+  ],
   "fabric": [
     {
       "modId": "herbalbrews",

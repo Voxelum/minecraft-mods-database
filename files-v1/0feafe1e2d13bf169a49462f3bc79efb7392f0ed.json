@@ -1,0 +1,34 @@
+{
+  "name": "clientsidenoteblocks-2.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "clientsidenoteblocks",
+      "version": "2.8"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c90"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.7.10+e633f88390"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a790"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.9+98a7dbbb90"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.24+b559734490"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

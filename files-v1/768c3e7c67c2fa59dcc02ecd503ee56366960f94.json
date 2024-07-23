@@ -1,0 +1,34 @@
+{
+  "name": "polymer-bundled-0.9.4+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "polymer-bundled",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-autohost",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-common",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.9.4+1.21"
+    }
+  ]
+}

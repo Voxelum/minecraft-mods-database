@@ -1,0 +1,14 @@
+{
+  "name": "melody_fabric_1.0.10_MC_1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "melody",
+      "version": "1.0.10"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

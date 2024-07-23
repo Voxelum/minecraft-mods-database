@@ -1,0 +1,14 @@
+{
+  "name": "ExtraPlayerRenderer-1.21-3.0.0-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "explayerenderer",
+      "version": "3.0.0-beta"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a7d1"
+    }
+  ]
+}

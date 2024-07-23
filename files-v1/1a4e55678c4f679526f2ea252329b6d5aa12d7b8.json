@@ -1,6 +1,12 @@
 {
   "name": "letsdo-brewery-fabric-1.1.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 971636,
+      "fileId": 5427505
+    }
+  ],
   "fabric": [
     {
       "modId": "brewery",

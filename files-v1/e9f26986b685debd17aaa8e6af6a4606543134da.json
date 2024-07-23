@@ -1,6 +1,12 @@
 {
   "name": "cartoon_dweller-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1005377,
+      "fileId": 5272403
+    }
+  ],
   "forge": [
     {
       "modId": "cave_dweller",

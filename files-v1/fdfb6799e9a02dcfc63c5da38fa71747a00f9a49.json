@@ -1,0 +1,46 @@
+{
+  "name": "voicechat-fabric-1.21-2.5.18.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9eGKb6K1",
+      "versionId": "COYWChTc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416089,
+      "fileId": 5500955
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "voicechat",
+      "version": "1.21-2.5.18"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c90"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.27+6a6dfa1990"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a790"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.9+98a7dbbb90"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.1.0+686dcdce90"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.3+b559734490"
+    }
+  ]
+}
