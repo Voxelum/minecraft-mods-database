@@ -1,0 +1,20 @@
+{
+  "name": "morewizardsmod-0.1.5-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oJkZIwJu",
+      "versionId": "wD6fdeUQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morewizardsmod",
+      "version": "0.1.5-1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

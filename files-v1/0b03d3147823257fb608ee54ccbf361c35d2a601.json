@@ -1,6 +1,12 @@
 {
   "name": "togglenametags-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qFlNttam",
+      "versionId": "iAv9oChK"
+    }
+  ],
   "fabric": [
     {
       "modId": "togglenametags",

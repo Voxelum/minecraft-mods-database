@@ -1,0 +1,20 @@
+{
+  "name": "chatplus-fabric-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cJlZ132G",
+      "versionId": "K6pHSjwy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatplus",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "com_alphacephei_vosk",
+      "version": "0.3.45"
+    }
+  ]
+}

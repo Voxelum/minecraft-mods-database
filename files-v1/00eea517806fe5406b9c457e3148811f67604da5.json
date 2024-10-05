@@ -1,0 +1,10 @@
+{
+  "name": "copiesandcats-0.0.2a-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "copiescats",
+      "version": "${0.0.2a-1.19.2}"
+    }
+  ]
+}

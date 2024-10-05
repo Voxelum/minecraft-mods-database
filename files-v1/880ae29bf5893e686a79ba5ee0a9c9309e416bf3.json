@@ -1,0 +1,10 @@
+{
+  "name": "MinecraftAddons.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "minecraftaddons",
+      "version": "1.0.0"
+    }
+  ]
+}

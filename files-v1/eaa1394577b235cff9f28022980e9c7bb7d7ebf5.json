@@ -1,0 +1,22 @@
+{
+  "name": "AmbientSounds_FORGE_v5.3.9_mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fM515JnW",
+      "versionId": "2z5buLUy"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.3.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ambientsounds",
+      "version": "${version}"
+    }
+  ]
+}

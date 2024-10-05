@@ -1,6 +1,12 @@
 {
   "name": "Sledgehammer-1.12.2-2.0.23.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QItC3hpi",
+      "versionId": "ORHSmGSW"
+    }
+  ],
   "forge": [
     {
       "modId": "sledgehammer",

@@ -1,0 +1,14 @@
+{
+  "name": "PresenceFootsteps-r35-1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "presencefootsteps",
+      "version": "r35-1.17"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.9.2-beta.1"
+    }
+  ]
+}

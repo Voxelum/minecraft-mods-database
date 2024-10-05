@@ -1,6 +1,18 @@
 {
   "name": "embeddium-0.3.18+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sk9rgfiA",
+      "versionId": "xuVAgh89"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 908741,
+      "fileId": 5322305
+    }
+  ],
   "forge": [
     {
       "modId": "embeddium",

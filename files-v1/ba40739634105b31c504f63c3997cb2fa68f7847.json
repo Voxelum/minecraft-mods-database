@@ -1,0 +1,16 @@
+{
+  "name": "costumes-pre-release-4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ct",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ct",
+      "version": "1.0.0"
+    }
+  ]
+}

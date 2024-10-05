@@ -1,0 +1,14 @@
+{
+  "name": "flowerymooblooms-fabric-mc1.20.1-2.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "flowerymooblooms",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "drinkbeer-refill-1.20.1-1.0.4.b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RZwVw5iA",
+      "versionId": "52Hcejci"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 729120,
+      "fileId": 5231539
+    }
+  ],
   "forge": [
     {
       "modId": "drinkbeer",

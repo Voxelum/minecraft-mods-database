@@ -1,0 +1,16 @@
+{
+  "name": "despawningeggshatch-1.21.1-4.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "despawningeggshatch",
+      "version": "4.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "despawningeggshatch",
+      "version": "4.4"
+    }
+  ]
+}

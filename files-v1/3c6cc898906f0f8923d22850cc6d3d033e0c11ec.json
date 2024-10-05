@@ -1,6 +1,18 @@
 {
   "name": "lithium-fabric-mc1.20.6-0.12.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gvQqBUqZ",
+      "versionId": "5a3sPIH2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360438,
+      "fileId": 5448638
+    }
+  ],
   "fabric": [
     {
       "modId": "lithium",

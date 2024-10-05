@@ -1,0 +1,14 @@
+{
+  "name": "the_bumblezone_fabric-3.2.4+1.17.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "the_bumblezone",
+      "version": "3.2.4+1.17.1"
+    },
+    {
+      "modId": "fake-player-api",
+      "version": "0.2.0"
+    }
+  ]
+}

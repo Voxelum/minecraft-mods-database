@@ -1,0 +1,20 @@
+{
+  "name": "chatanimation-1.0.5_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "chatanimation",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatanimation",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

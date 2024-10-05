@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-light-0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DJ1ZClf3",
+      "versionId": "UdveVUc3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_dynamic_light",
+      "version": "0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dynamic_light",
+      "version": "0.3"
+    }
+  ]
+}

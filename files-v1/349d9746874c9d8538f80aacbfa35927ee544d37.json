@@ -1,0 +1,22 @@
+{
+  "name": "onsoulfire-1.21-r1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "onsoulfire",
+      "version": "1.21-r1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

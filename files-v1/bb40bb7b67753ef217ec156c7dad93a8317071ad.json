@@ -1,0 +1,16 @@
+{
+  "name": "niftycarts-3.0.2+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "niftycarts",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "niftycarts",
+      "version": "3.0.2+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "tabtps-fabric-mc1.17.1-1.3.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tabtps-fabric",
+      "version": "1.3.9"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-minecraft-extras",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "4.1.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-text-feature-pagination",
+      "version": "4.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-text-minimessage",
+      "version": "4.2.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-legacy",
+      "version": "4.8.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "net_kyori_adventure-serializer-configurate4",
+      "version": "4.8.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "stackrefill-1.20.1-4.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "stackrefill",
+      "version": "4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stackrefill",
+      "version": "4.5"
+    }
+  ]
+}

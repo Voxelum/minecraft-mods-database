@@ -1,0 +1,24 @@
+{
+  "name": "potatoptimize-0.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tCUVz9xy",
+      "versionId": "9VX15rHp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "potatoptimize",
+      "version": "0.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.0"
+    }
+  ]
+}

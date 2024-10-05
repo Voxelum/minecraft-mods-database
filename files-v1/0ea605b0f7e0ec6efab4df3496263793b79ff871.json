@@ -1,6 +1,18 @@
 {
   "name": "difficultraids-1.7.6-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "btOqFB3N",
+      "versionId": "HxgQ4ZhH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 599116,
+      "fileId": 5354020
+    }
+  ],
   "forge": [
     {
       "modId": "difficultraids",

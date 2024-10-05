@@ -1,0 +1,14 @@
+{
+  "name": "modernfix-fabric-5.8.2-beta.2+mc23w42a.231c.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.8.2-beta.2+mc23w42a.231c"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

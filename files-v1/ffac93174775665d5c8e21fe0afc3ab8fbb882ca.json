@@ -1,6 +1,12 @@
 {
   "name": "packetfixerfabric-1.1.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7m1mi73",
+      "versionId": "bKBw65oL"
+    }
+  ],
   "fabric": [
     {
       "modId": "packetfixer",

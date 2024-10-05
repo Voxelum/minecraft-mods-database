@@ -1,6 +1,12 @@
 {
   "name": "create_jetpack-fabric-3.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "CyEc5V7E"
+    }
+  ],
   "forge": [
     {
       "modId": "create_jetpack",

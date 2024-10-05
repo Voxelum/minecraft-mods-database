@@ -1,6 +1,12 @@
 {
   "name": "server-unpacker-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B3fgRqfr",
+      "versionId": "lqzT0Ioe"
+    }
+  ],
   "fabric": [
     {
       "modId": "server_unpacker",

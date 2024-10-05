@@ -1,0 +1,22 @@
+{
+  "name": "multiple_server_lists-mc1.20.4-1.0.2-build.10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523709,
+      "fileId": 5044337
+    }
+  ],
+  "forge": [
+    {
+      "modId": "multiple_server_lists",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "multiple_server_lists",
+      "version": "1.0.2"
+    }
+  ]
+}

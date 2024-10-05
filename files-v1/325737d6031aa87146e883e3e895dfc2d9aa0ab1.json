@@ -1,0 +1,22 @@
+{
+  "name": "vpb-too-many-guns-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RJJ3EyBt",
+      "versionId": "XT5MjCiy"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_vpb_toomanyguns",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vpb_toomanyguns",
+      "version": "1.0.1"
+    }
+  ]
+}

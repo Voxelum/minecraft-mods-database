@@ -1,0 +1,16 @@
+{
+  "name": "katters-structures-2.0-1.21.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_katters_structures",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_katters_structures",
+      "version": "2.0"
+    }
+  ]
+}

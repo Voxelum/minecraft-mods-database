@@ -1,6 +1,12 @@
 {
   "name": "dungeons-and-taverns-v4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tpehi7ww",
+      "versionId": "QmeQn0Mp"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_dungeons_andtaverns",

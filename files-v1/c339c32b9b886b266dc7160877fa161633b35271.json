@@ -1,0 +1,20 @@
+{
+  "name": "BetterMod-1.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m4lzPTZ2",
+      "versionId": "H5ZlMsMB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettermod",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "bettermounthud-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kqJFAPU9",
+      "versionId": "yyJushgo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 475358,
+      "fileId": 5502650
+    }
+  ],
   "fabric": [
     {
       "modId": "bettermounthud",

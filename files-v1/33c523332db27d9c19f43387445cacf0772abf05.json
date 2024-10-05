@@ -1,0 +1,16 @@
+{
+  "name": "zombies_plus-2.1.0-1.20-.4(excl.3)-[forge-fabric].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "zombies_plus",
+      "version": "2.1.0-1.20-.4(excl.3)"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombies_plus",
+      "version": "2.1.0-1.20-.4(excl.3)"
+    }
+  ]
+}

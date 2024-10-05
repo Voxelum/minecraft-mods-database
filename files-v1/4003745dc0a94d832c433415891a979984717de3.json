@@ -1,0 +1,18 @@
+{
+  "name": "accessories_tclayer-3.8.1-beta.9+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tclayer",
+      "version": "3.8.1+beta.9"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "deeperdarker-fabric-1.21-1.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fnAffV0n",
+      "versionId": "H0nGVu1V"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deeperdarker",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta66-1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    }
+  ]
+}

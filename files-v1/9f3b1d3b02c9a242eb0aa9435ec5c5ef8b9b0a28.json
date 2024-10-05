@@ -1,6 +1,12 @@
 {
   "name": "chatcalc-3.0.24a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a7X986Fs",
+      "versionId": "6CsjMGc8"
+    }
+  ],
   "fabric": [
     {
       "modId": "chatcalc",

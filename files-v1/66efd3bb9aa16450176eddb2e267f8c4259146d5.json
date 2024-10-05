@@ -1,0 +1,24 @@
+{
+  "name": "CustomMotd-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h9bitqRu",
+      "versionId": "KbhuXUD0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custommotd",
+      "version": "1.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    }
+  ]
+}

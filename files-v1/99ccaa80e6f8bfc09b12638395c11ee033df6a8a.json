@@ -1,10 +1,16 @@
 {
   "name": "miniature-shader-2.7.zip",
-  "domain": "shaderpacks",
+  "domain": "resourcepacks",
   "modrinth": [
     {
       "projectId": "UaS8ROxa",
       "versionId": "CXBAh8Cj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 602290,
+      "fileId": 5083622
     }
   ]
 }

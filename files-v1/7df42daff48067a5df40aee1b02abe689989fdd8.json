@@ -1,0 +1,24 @@
+{
+  "name": "speedrunner-mod-1.9.8_fabric+mc1.21.x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "blx7Th9B",
+      "versionId": "8r2s5xSo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "speedrunnermod",
+      "version": "1.9.8+mc1.21.x"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    },
+    {
+      "modId": "terrablender",
+      "version": "4.1.0.0"
+    }
+  ]
+}

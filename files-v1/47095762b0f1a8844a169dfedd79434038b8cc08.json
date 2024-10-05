@@ -1,0 +1,26 @@
+{
+  "name": "sodium-extra-fabric-0.6.0-beta.1+mc1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtjYWJkn",
+      "versionId": "lclhI6NO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447673,
+      "fileId": 5654762
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium-extra",
+      "version": "0.6.0-beta.1+mc1.21.1"
+    },
+    {
+      "modId": "com_lodborg_interval-tree",
+      "version": "1.0.0"
+    }
+  ]
+}

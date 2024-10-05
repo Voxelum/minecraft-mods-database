@@ -1,6 +1,12 @@
 {
   "name": "Dungeon Now Loading-fabric-1.20.1-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vZoqTqwv",
+      "versionId": "e2aaNGip"
+    }
+  ],
   "forge": [
     {
       "modId": "multiloader",

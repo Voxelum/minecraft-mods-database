@@ -1,0 +1,14 @@
+{
+  "name": "illuminations-1.10.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "illuminations",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zombieawareness-fabric-1.20.1-1.13.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "zombieawareness",
+      "version": "1.20.1-1.13.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

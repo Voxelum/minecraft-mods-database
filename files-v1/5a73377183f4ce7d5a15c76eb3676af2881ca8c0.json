@@ -1,0 +1,20 @@
+{
+  "name": "Eldritch_End-FABRIC-MC1.20.1-0.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nBaXIQY9",
+      "versionId": "7kh3WHLF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eldritch_end",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "aaa_particles",
+      "version": "1.20.1-1.2.1"
+    }
+  ]
+}

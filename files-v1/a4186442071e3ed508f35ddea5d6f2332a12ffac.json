@@ -1,0 +1,14 @@
+{
+  "name": "artifality-mc1.17.1-0.4.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "artifality",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "cosmetica",
+      "version": "0.2.0"
+    }
+  ]
+}

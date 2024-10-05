@@ -1,0 +1,22 @@
+{
+  "name": "leathered-bundles-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z7LyISbI",
+      "versionId": "Jiegdck5"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "leathered_bundles_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "leathered_bundles_mr",
+      "version": "1.0"
+    }
+  ]
+}

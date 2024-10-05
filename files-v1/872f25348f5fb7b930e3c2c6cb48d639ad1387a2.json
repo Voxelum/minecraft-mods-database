@@ -1,6 +1,12 @@
 {
   "name": "rsec-1.0-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XFk4dAJX",
+      "versionId": "Ygw5zbcF"
+    }
+  ],
   "fabric": [
     {
       "modId": "rsec",

@@ -1,6 +1,12 @@
 {
   "name": "wyml-1.1.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 518076,
+      "fileId": 3556176
+    }
+  ],
   "forge": [
     {
       "modId": "wyml",

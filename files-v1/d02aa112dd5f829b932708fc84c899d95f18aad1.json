@@ -1,0 +1,16 @@
+{
+  "name": "true-ending-1.0.1-1.19.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_true_ending",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_true_ending",
+      "version": "1.0.1"
+    }
+  ]
+}

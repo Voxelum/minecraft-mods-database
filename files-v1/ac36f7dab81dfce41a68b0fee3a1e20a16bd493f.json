@@ -1,6 +1,12 @@
 {
   "name": "bocchium-1.19.2-0.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 905450,
+      "fileId": 5086736
+    }
+  ],
   "forge": [
     {
       "modId": "bocchium",

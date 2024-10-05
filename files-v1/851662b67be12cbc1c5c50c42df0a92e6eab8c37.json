@@ -1,6 +1,12 @@
 {
   "name": "waveycapes-fabric-1.4.8-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYuIpRLv",
+      "versionId": "YBKtHcpo"
+    }
+  ],
   "fabric": [
     {
       "modId": "waveycapes",

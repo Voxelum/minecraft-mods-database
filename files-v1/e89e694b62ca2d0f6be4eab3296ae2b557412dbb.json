@@ -1,0 +1,14 @@
+{
+  "name": "Legacy4J-1.20.4-1.7.2-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "legacy",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.693c75e-36"
+    }
+  ]
+}

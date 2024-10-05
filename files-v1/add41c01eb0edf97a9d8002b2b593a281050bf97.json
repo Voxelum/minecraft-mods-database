@@ -1,0 +1,24 @@
+{
+  "name": "FPS-Monitor-1.18-1.0.2-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3AHrP4M0",
+      "versionId": "GPvcmlOy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fps",
+      "version": "1.18-1.0.2-Fabric"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.8+c8aba2f314"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

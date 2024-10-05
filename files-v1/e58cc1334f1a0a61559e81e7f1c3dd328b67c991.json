@@ -1,6 +1,12 @@
 {
   "name": "old-netherite-crafts.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kZsnfSFQ",
+      "versionId": "qN24bQob"
+    }
+  ],
   "forge": [
     {
       "modId": "netherite_old_craft",

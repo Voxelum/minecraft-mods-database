@@ -1,0 +1,24 @@
+{
+  "name": "fzzy_config-0.3.7+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "alJleNMz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_config",
+      "version": "0.3.7+1.21"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt_tomlkt-jvm",
+      "version": "0.3.7"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "the_bumblezone_fabric-6.7.29+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eA8SXqWL",
+      "versionId": "vt3D8qzX"
+    }
+  ],
   "fabric": [
     {
       "modId": "the_bumblezone",

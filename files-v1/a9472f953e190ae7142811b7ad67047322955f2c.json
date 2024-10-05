@@ -1,0 +1,26 @@
+{
+  "name": "travelersbackpack-fabric-1.19.2-8.2.40.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "3nZgdUsQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541171,
+      "fileId": 5602905
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "fabric-1.19.2-8.2.40"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

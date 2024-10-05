@@ -1,0 +1,22 @@
+{
+  "name": "bundle-craft-1.6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yz6ASAKe",
+      "versionId": "QPxRbaGx"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_bundle_craft",
+      "version": "1.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bundle_craft",
+      "version": "1.6.0"
+    }
+  ]
+}

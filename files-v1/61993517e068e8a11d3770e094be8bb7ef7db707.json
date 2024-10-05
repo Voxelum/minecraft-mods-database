@@ -1,0 +1,38 @@
+{
+  "name": "SkinShuffle-2.0.4+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "skinshuffle",
+      "version": "2.0.4+1.20.1"
+    },
+    {
+      "modId": "org_jsoup_jsoup",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "com_konghq_unirest-java_standalone",
+      "version": "3.11.09"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.8.0+1.20.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.20.1-fabric"
+    },
+    {
+      "modId": "commons-validator_commons-validator",
+      "version": "1.7"
+    },
+    {
+      "modId": "org_mineskin_java-client",
+      "version": "1.2.4-SNAPSHOT"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

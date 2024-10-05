@@ -1,0 +1,18 @@
+{
+  "name": "end-goblin-traders-1.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "endgoblintraders",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    },
+    {
+      "modId": "thonkutil",
+      "version": "1.2"
+    }
+  ]
+}

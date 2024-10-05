@@ -1,0 +1,14 @@
+{
+  "name": "fabric_wider_ender_chests-1.0.2-1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wider_ender_chests",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

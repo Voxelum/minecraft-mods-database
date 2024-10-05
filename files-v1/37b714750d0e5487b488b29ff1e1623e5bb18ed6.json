@@ -1,0 +1,16 @@
+{
+  "name": "reforgedplaymod-1.20.1-0.3.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "reforgedplaymod",
+      "version": "0.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "${version}"
+    }
+  ]
+}

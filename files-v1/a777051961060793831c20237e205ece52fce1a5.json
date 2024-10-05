@@ -1,6 +1,12 @@
 {
   "name": "e4mc_minecraft-5.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qANg5Jrr",
+      "versionId": "soxCNPZS"
+    }
+  ],
   "forge": [
     {
       "modId": "e4mc_minecraft",

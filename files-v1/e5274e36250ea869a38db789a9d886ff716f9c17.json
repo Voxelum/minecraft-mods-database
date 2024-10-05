@@ -1,0 +1,14 @@
+{
+  "name": "UniLib-1.0.2+1.21.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "unilib",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.0+565991296a"
+    }
+  ]
+}

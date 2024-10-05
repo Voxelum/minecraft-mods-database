@@ -1,0 +1,16 @@
+{
+  "name": "golden_foods-merged-1.21-2.3.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "golden_foods",
+      "version": "2.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "golden_foods",
+      "version": "2.3.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "YungsBetterWitchHuts-1.19.3-Fabric-2.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterwitchhuts",
+      "version": "1.19.3-Fabric-2.2.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

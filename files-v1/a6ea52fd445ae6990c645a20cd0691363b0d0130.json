@@ -1,0 +1,34 @@
+{
+  "name": "【游戏内录像】replaymod-1.21-2.6.18.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "1.21-2.6.18"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8cd1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.4+cb5ced13d1"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a7d1"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.24+b5597344d1"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.2.0+ab7edbacd1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

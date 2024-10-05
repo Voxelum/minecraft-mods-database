@@ -1,0 +1,14 @@
+{
+  "name": "blur-fabric-5.0.0+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

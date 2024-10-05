@@ -1,6 +1,12 @@
 {
   "name": "baritone-api-fabric-1.9.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621192,
+      "fileId": 4516680
+    }
+  ],
   "fabric": [
     {
       "modId": "baritone",

@@ -1,0 +1,16 @@
+{
+  "name": "OPT-particle_core-0.2.3+1.20.1$conditional-mixin-0.5.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "conditional_mixin",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conditional-mixin",
+      "version": "0.5.1"
+    }
+  ]
+}

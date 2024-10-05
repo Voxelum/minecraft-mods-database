@@ -1,0 +1,14 @@
+{
+  "name": "simple-hud-enhanced+1.20-1.20.1-4.7.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplehudenhanced",
+      "version": "4.7.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

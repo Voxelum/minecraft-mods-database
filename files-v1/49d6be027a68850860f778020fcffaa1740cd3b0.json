@@ -1,0 +1,16 @@
+{
+  "name": "API-tcdcommons-3.9.7+fabric-1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tcdcommons",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tcdcommons",
+      "version": "3.9.7+fabric-1.20.1"
+    }
+  ]
+}

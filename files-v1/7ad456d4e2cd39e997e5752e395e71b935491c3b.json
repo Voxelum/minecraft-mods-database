@@ -1,0 +1,16 @@
+{
+  "name": "DistortedDiscs-1.19-0.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "distorted_discs",
+      "version": "0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distorted_discs",
+      "version": "0.4"
+    }
+  ]
+}

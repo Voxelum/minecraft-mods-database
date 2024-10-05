@@ -1,0 +1,22 @@
+{
+  "name": "default_skill_trees-1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1074229,
+      "fileId": 5587013
+    }
+  ],
+  "forge": [
+    {
+      "modId": "default_skill_trees",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "default_skill_trees",
+      "version": "1.0"
+    }
+  ]
+}

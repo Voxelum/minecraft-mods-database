@@ -1,0 +1,16 @@
+{
+  "name": "acedium-0.2.7-beta.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "acedium",
+      "version": "0.2.7-beta"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nvidium",
+      "version": "${version}"
+    }
+  ]
+}

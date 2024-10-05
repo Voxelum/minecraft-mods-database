@@ -1,0 +1,16 @@
+{
+  "name": "paginatedadvancements-2.3.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "paginatedadvancements",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paginatedadvancements",
+      "version": "2.3.0"
+    }
+  ]
+}

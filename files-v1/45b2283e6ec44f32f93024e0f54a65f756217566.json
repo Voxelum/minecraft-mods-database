@@ -1,0 +1,14 @@
+{
+  "name": "fakerlib-0.1.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fakerlib",
+      "version": "0.1.4"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

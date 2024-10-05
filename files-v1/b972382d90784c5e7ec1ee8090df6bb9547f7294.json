@@ -1,0 +1,16 @@
+{
+  "name": "infinitetrading-1.20.1-4.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "infinitetrading",
+      "version": "4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "infinitetrading",
+      "version": "4.5"
+    }
+  ]
+}

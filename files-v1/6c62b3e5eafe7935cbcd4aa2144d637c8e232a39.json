@@ -1,6 +1,12 @@
 {
   "name": "vintagefix-0.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e6vNsbAm",
+      "versionId": "d5ONrAqf"
+    }
+  ],
   "forge": [
     {
       "modId": "vintagefix",

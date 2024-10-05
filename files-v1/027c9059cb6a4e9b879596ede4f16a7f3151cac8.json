@@ -1,0 +1,20 @@
+{
+  "name": "eureka-1192-1.5.1-beta.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EO8aSHxh",
+      "versionId": "oh7Jnn8E"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vs_eureka",
+      "version": "1.5.1-beta.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

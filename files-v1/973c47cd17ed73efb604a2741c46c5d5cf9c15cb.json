@@ -1,0 +1,24 @@
+{
+  "name": "moreculling-1.21-0.27.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "VNbys2OF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "0.27.1"
+    },
+    {
+      "modId": "com_github_fallen-breath_conditional-mixin",
+      "version": "v0.6.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

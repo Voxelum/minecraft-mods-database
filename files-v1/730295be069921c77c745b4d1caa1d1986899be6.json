@@ -1,0 +1,24 @@
+{
+  "name": "hdskins-fabric-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8WrOOXkB",
+      "versionId": "CAHXa45K"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hdskins-fabric",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "de_hdskins_protocol_client",
+      "version": "3.13"
+    },
+    {
+      "modId": "de_hdskins_packets_core",
+      "version": "3.1"
+    }
+  ]
+}

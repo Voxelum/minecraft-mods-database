@@ -1,6 +1,12 @@
 {
   "name": "whoami.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CcxcmoLQ",
+      "versionId": "XPNNg2I8"
+    }
+  ],
   "fabric": [
     {
       "modId": "whoami",

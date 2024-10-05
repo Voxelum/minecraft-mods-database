@@ -1,6 +1,12 @@
 {
   "name": "chronopyre-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cwSDoWuv",
+      "versionId": "ei8m5iOv"
+    }
+  ],
   "fabric": [
     {
       "modId": "chronopyre",

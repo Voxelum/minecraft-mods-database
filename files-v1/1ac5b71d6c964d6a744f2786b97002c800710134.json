@@ -1,0 +1,14 @@
+{
+  "name": "puzzle-fabric-2.0.0+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "puzzle",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

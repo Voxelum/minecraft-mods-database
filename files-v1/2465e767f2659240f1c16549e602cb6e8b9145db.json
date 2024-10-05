@@ -1,6 +1,12 @@
 {
   "name": "Cobblemon-fabric-1.5.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MdwFAVRL",
+      "versionId": "EVozVxCq"
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblemon",

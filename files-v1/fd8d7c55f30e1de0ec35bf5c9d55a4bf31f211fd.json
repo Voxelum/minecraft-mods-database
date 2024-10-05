@@ -1,0 +1,10 @@
+{
+  "name": "packetfixer-fabric-1.4.1-1.21-to-1.21.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "packetfixer",
+      "version": "1.4.1"
+    }
+  ]
+}

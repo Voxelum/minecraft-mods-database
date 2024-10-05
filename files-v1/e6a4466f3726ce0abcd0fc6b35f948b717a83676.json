@@ -1,0 +1,30 @@
+{
+  "name": "archon-0.7.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "archon",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.4.0+1.20.1"
+    },
+    {
+      "modId": "saflib",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

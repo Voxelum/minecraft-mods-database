@@ -1,0 +1,10 @@
+{
+  "name": "C-NorthStar-0.1cb.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "northstar",
+      "version": "${0.1cb-1.20.1}"
+    }
+  ]
+}

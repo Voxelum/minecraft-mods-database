@@ -1,6 +1,12 @@
 {
   "name": "pollutantpump-1.16.5-1.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 305122,
+      "fileId": 3809312
+    }
+  ],
   "forge": [
     {
       "modId": "pollutantpump",

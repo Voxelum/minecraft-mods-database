@@ -1,0 +1,28 @@
+{
+  "name": "letsdo-meadow-fabric-1.3.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ra7o6Sl7",
+      "versionId": "Qt2lCIS5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "meadow",
+      "version": "1.3.19"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    }
+  ]
+}

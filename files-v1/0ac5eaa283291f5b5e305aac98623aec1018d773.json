@@ -1,0 +1,20 @@
+{
+  "name": "UniLib-1.0.1+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nT86WUER",
+      "versionId": "d9LT3qQ5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unilib",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+1802ada577"
+    }
+  ]
+}

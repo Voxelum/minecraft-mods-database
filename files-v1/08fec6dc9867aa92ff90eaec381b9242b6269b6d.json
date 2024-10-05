@@ -1,10 +1,16 @@
 {
-  "name": "lowonfire_1_21.zip",
+  "name": "LowOnFire_1.21.zip",
   "domain": "resourcepacks",
   "modrinth": [
     {
       "projectId": "RRxvWKNC",
       "versionId": "X1fu7VfX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580683,
+      "fileId": 5425705
     }
   ]
 }

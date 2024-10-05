@@ -1,0 +1,16 @@
+{
+  "name": "create-man-of-many-planes-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_create_manofmanyplanes",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_create_manofmanyplanes",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "archon-0.6.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "td9zQQBq",
+      "versionId": "cTrb2Cvg"
+    }
+  ],
   "fabric": [
     {
       "modId": "archon",

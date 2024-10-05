@@ -1,6 +1,12 @@
 {
   "name": "farsight-1.20.1-3.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 495693,
+      "fileId": 5531397
+    }
+  ],
   "forge": [
     {
       "modId": "farsight_view",

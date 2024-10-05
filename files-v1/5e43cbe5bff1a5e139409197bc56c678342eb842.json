@@ -1,0 +1,20 @@
+{
+  "name": "satisfying_buttons-fabric-1.1.1-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "satisfying_buttons",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "satisfying_buttons",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

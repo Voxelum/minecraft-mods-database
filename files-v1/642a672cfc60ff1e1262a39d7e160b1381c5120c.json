@@ -1,0 +1,20 @@
+{
+  "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KuNKN7d2",
+      "versionId": "4sGQgiu2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noisium",
+      "version": "2.3.0+mc1.21-1.21.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

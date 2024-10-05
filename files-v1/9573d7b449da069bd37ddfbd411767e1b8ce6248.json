@@ -1,0 +1,20 @@
+{
+  "name": "custom_hud-4.0.0-beta.4+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6jis0UTI",
+      "versionId": "uxW7Fnqy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custom_hud",
+      "version": "4.0.0-beta.4+1.20.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

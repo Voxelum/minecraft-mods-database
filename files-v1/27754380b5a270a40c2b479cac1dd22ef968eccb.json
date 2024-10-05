@@ -1,0 +1,16 @@
+{
+  "name": "cleanswing-1.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 915308,
+      "fileId": 5481920
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cleanswing",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

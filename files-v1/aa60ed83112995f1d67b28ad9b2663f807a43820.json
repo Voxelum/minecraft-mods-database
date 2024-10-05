@@ -1,6 +1,18 @@
 {
   "name": "ModularMachinery-CE-2.0.0-pre2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1HzJhDgb",
+      "versionId": "JoPIBdur"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817377,
+      "fileId": 5148192
+    }
+  ],
   "forge": [
     {
       "modId": "modularmachinery",

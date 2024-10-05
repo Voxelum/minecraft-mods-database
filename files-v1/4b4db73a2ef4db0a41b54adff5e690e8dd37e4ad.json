@@ -1,0 +1,16 @@
+{
+  "name": "HopoBetterRuinedPortals-[1.21]-1.4.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hoporp",
+      "version": "1.4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobetterruinedportal",
+      "version": "1.4.3"
+    }
+  ]
+}

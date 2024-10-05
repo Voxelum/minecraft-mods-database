@@ -1,0 +1,34 @@
+{
+  "name": "BeaconOverhaul-1.4.2+1.17.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "beaconoverhaul",
+      "version": "1.4.2+1.17"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b446318"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.8+a00e834b18"
+    },
+    {
+      "modId": "fabric-tag-extensions-v0",
+      "version": "1.2.1+b06cb95b18"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    }
+  ]
+}

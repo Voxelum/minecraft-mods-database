@@ -1,0 +1,16 @@
+{
+  "name": "more_useful_copper-merged-1.20.1-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "more_useful_copper",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_useful_copper",
+      "version": "1.1.0"
+    }
+  ]
+}

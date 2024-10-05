@@ -1,0 +1,52 @@
+{
+  "name": "mccic-4.0.0-beta.21+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yF4Uptui",
+      "versionId": "LtlnBAId"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mccic",
+      "version": "4.0.0-beta.21+1.19"
+    },
+    {
+      "modId": "mccic-api",
+      "version": "0.4.0+d751fc7990"
+    },
+    {
+      "modId": "mccic-chat",
+      "version": "0.2.0+c214f83d90"
+    },
+    {
+      "modId": "mccic-config",
+      "version": "0.2.2+3552068d90"
+    },
+    {
+      "modId": "mccic-debug",
+      "version": "0.2.2+bcc5c02d90"
+    },
+    {
+      "modId": "mccic-discord-rp",
+      "version": "0.2.2+7bbd973a90"
+    },
+    {
+      "modId": "mccic-hud",
+      "version": "0.2.2+7bbd973a90"
+    },
+    {
+      "modId": "mccic-music",
+      "version": "0.2.2+3f3f374790"
+    },
+    {
+      "modId": "mccic-qol",
+      "version": "0.2.2+7bbd973a90"
+    },
+    {
+      "modId": "mccic-toasts",
+      "version": "0.3.0+d751fc7990"
+    }
+  ]
+}

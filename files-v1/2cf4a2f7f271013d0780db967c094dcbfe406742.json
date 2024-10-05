@@ -1,0 +1,40 @@
+{
+  "name": "CrowdControl-Fabric+1.19.2-3.3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6XhH9LqD",
+      "versionId": "rGBBTPCd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crowdcontrol",
+      "version": "3.3.5+fabric-1.19.2"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.5.3-SNAPSHOT"
+    },
+    {
+      "modId": "cloud",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "net_kyori_adventure-api",
+      "version": "4.13.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.3.103"
+    }
+  ]
+}

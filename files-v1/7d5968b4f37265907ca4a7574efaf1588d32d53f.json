@@ -1,0 +1,26 @@
+{
+  "name": "extraspellattributes-1.2.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oskghcoj",
+      "versionId": "4LTnAbe4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 941480,
+      "fileId": 5685429
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraspellattributes",
+      "version": "1.2.11"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}
