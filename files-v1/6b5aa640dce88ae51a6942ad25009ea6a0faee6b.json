@@ -1,0 +1,18 @@
+{
+  "name": "skyblock-mod-1.10.5+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "skyblockmod",
+      "version": "1.10.5+1.21"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.9.0.202403050737-r"
+    }
+  ]
+}

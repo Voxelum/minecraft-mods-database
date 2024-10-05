@@ -1,0 +1,16 @@
+{
+  "name": "new_slab_variants-merged-1.21-2.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "new_slab_variants",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "new_slab_variants",
+      "version": "2.1.0"
+    }
+  ]
+}

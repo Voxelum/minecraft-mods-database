@@ -1,0 +1,54 @@
+{
+  "name": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "farmersdelight",
+      "version": "1.20.1-2.1.6+refabricated"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_recipe_book_categories",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

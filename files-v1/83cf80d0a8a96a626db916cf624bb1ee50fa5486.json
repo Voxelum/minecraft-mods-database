@@ -1,0 +1,26 @@
+{
+  "name": "e4mc_minecraft-5.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qANg5Jrr",
+      "versionId": "JwZn7YZ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849519,
+      "fileId": 5545153
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "e4mc_minecraft",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "emotecraft-for-MC1.21-2.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pSQGhi9I",
+      "versionId": "JOG7y3sM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.5"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "5.0-rc2"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "1.0.2-rc1+1.21"
+    }
+  ]
+}

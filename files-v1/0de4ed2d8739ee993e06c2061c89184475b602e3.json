@@ -1,0 +1,26 @@
+{
+  "name": "CreativeCore_FABRIC_v2.12.14_mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "yyR73fAR"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.12.14"
+    },
+    {
+      "modId": "net_minecraftforge_eventbus",
+      "version": "6.0.3"
+    }
+  ]
+}

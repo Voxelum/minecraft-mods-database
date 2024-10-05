@@ -1,0 +1,16 @@
+{
+  "name": "ToastManager-1.21-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "\r\n\r\nToast Manager (Fabric only)\r\n\r\nIf you are seeing this error, you have tried to install Toast Manager on Forge.\r\nToast Manager only supports the Fabric mod loader.  Instead try Toast Control, which supports Forge.\r\n\r\n\r\n",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toastmanager",
+      "version": "1.1.0"
+    }
+  ]
+}

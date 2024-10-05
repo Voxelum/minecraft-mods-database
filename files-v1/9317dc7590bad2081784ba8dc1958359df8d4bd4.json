@@ -1,0 +1,16 @@
+{
+  "name": "starterkit-1.20.1-7.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "7.1"
+    }
+  ]
+}

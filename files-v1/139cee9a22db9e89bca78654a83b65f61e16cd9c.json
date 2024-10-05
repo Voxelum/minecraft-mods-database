@@ -1,0 +1,16 @@
+{
+  "name": "CameraOverhaul-1.4.0-fabric-universal_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cameraoverhaul",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cameraoverhaul",
+      "version": "1.4.0-fabric-universal"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "infinite-music-0.3.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "infinite_music",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "infinite-music",
+      "version": "0.3.0"
+    }
+  ]
+}

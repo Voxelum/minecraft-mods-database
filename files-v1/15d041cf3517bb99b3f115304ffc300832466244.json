@@ -1,6 +1,12 @@
 {
   "name": "chemlib-1.16.5-2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 340666,
+      "fileId": 3704096
+    }
+  ],
   "forge": [
     {
       "modId": "chemlib",

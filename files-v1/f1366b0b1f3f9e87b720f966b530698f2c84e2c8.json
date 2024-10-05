@@ -1,0 +1,16 @@
+{
+  "name": "smoothswapping-0.9.3.1-1.20.2-fabric_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smoothswapping",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothswapping",
+      "version": "0.9.3.1"
+    }
+  ]
+}

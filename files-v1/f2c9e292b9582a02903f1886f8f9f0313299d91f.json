@@ -1,6 +1,18 @@
 {
   "name": "entity_texture_features_fabric_1.21-6.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BVzZfTc1",
+      "versionId": "O3jDICoH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568563,
+      "fileId": 5497959
+    }
+  ],
   "fabric": [
     {
       "modId": "entity_texture_features",

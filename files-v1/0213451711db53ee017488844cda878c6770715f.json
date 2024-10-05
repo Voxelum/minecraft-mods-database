@@ -1,0 +1,16 @@
+{
+  "name": "more_beautiful_torches-merged-1.21-3.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "more_beautiful_torches",
+      "version": "3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_beautiful_torches",
+      "version": "3.0.0"
+    }
+  ]
+}

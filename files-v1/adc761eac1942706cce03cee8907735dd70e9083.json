@@ -1,6 +1,12 @@
 {
   "name": "nofog-1.3.61.16.5-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QSzy55SB",
+      "versionId": "NrEJbYuZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "no_fog",

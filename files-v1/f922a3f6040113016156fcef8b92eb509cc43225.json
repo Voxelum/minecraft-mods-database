@@ -1,6 +1,12 @@
 {
   "name": "FlectoneMix PingList.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GzmTgzUV",
+      "versionId": "D90N35xf"
+    }
+  ],
   "fabric": [
     {
       "modId": "pinglist",

@@ -1,0 +1,14 @@
+{
+  "name": "phenomena-2.2.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "phenomena",
+      "version": "1.19.3-2.2.1"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.19.3-01"
+    }
+  ]
+}

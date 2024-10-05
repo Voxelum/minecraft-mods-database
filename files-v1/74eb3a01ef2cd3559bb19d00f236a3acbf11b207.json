@@ -1,0 +1,16 @@
+{
+  "name": "PresenceFootsteps-1.9.4+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "kirin",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kirin",
+      "version": "1.15.6+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "healingcampfire-1.20.1-6.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "healingcampfire",
+      "version": "6.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healingcampfire",
+      "version": "6.1"
+    }
+  ]
+}

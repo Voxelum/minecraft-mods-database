@@ -1,0 +1,24 @@
+{
+  "name": "complexhex-fabric-1.20.1-0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sLUv4r1B",
+      "versionId": "eQ7jmCXa"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "complexhex",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "org_jblas_jblas",
+      "version": "1.2.5"
+    }
+  ]
+}

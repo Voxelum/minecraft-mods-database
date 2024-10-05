@@ -1,0 +1,16 @@
+{
+  "name": "bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wunderlib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wunderlib",
+      "version": "1.1.5"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "lazy-language-loader-0.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nz0RSWrF",
+      "versionId": "Z9rtEyTY"
+    }
+  ],
   "fabric": [
     {
       "modId": "lazy-language-loader",

@@ -1,0 +1,14 @@
+{
+  "name": "visuality-mc1.17.1-0.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "visuality",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "cosmetica",
+      "version": "0.2.1"
+    }
+  ]
+}

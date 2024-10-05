@@ -1,6 +1,12 @@
 {
   "name": "modernfix-fabric-5.7.1+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "2Gz3u7pY"
+    }
+  ],
   "fabric": [
     {
       "modId": "modernfix",

@@ -1,0 +1,60 @@
+{
+  "name": "API-fabric-language-kotlin-1.11.0+kotlin.2.0.0_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fabric_language_kotlin",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.11.0+kotlin.2.0.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk8",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk7",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-reflect",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-serialization-json-jvm",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_atomicfu-jvm",
+      "version": "0.24.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-datetime-jvm",
+      "version": "0.6.0"
+    }
+  ]
+}

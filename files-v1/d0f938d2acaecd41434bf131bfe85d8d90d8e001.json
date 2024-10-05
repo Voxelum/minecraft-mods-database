@@ -1,0 +1,30 @@
+{
+  "name": "elytratrims-fabric-3.4.4+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "45TUn8oC"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "3.4.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "3.4.4"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "areas-1.20.1-6.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "areas",
+      "version": "6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "areas",
+      "version": "6.0"
+    }
+  ]
+}

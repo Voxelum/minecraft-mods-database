@@ -1,6 +1,12 @@
 {
   "name": "CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 889722,
+      "fileId": 5374432
+    }
+  ],
   "forge": [
     {
       "modId": "numismatics",

@@ -1,6 +1,12 @@
 {
   "name": "artifacts-1.12.2-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 2992426
+    }
+  ],
   "forge": [
     {
       "modId": "artifacts",

@@ -1,6 +1,12 @@
 {
   "name": "growthcraft-1.12.2-4.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 235092,
+      "fileId": 5172498
+    }
+  ],
   "forge": [
     {
       "modId": "growthcraft_hops",

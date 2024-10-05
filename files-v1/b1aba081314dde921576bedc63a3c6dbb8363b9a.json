@@ -1,0 +1,30 @@
+{
+  "name": "enchancement-1.18-13.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enchancement",
+      "version": "1.18-13"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.7"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

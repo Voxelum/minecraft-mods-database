@@ -1,0 +1,22 @@
+{
+  "name": "ores-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fv4jDxvH",
+      "versionId": "SKhL55KA"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ores",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ores",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "antique-atlas-2.9.13+1.20-modifiedbymoddercoder.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "antique_atlas",
+      "version": "2.9.13+1.20-modifiedbymoddercoder"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antique-atlas",
+      "version": "2.9.13+1.20-modifiedbymoddercoder"
+    },
+    {
+      "modId": "surveyor",
+      "version": "0.6.21+1.20"
+    }
+  ]
+}

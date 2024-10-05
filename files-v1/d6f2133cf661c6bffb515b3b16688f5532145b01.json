@@ -1,0 +1,16 @@
+{
+  "name": "FBD_Snapshot_24w02a_1-20-1_forge.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fd",
+      "version": "0.24.02.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fd",
+      "version": "0.24.01.2"
+    }
+  ]
+}

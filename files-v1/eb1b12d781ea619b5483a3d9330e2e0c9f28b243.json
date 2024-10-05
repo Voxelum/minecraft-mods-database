@@ -1,0 +1,16 @@
+{
+  "name": "Neruina-2.1.1-forge+1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "neruina",
+      "version": "2.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "${version}"
+    }
+  ]
+}

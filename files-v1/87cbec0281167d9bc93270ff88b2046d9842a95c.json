@@ -1,0 +1,22 @@
+{
+  "name": "EuphoriaPatcher-0.3.4-neoforge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 915902,
+      "fileId": 5511961
+    }
+  ],
+  "forge": [
+    {
+      "modId": "euphoria_patcher",
+      "version": "0.3.4-neoforge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "euphoria_patcher",
+      "version": "0.3.4-fabric"
+    }
+  ]
+}

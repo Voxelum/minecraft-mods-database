@@ -1,6 +1,12 @@
 {
   "name": "Lord Craft 2.10.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256950,
+      "fileId": 3257224
+    }
+  ],
   "forge": [
     {
       "modId": "lordcraft",

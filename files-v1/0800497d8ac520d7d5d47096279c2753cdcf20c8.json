@@ -1,6 +1,12 @@
 {
   "name": "pet_cemetery-1.20.1-2.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565160,
+      "fileId": 5228189
+    }
+  ],
   "forge": [
     {
       "modId": "pet_cemetery",

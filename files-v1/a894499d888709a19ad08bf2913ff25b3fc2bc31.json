@@ -1,0 +1,16 @@
+{
+  "name": "rhino-2101.2.5-build.52.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "2101.2.5-build.52"
+    }
+  ]
+}

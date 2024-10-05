@@ -1,0 +1,16 @@
+{
+  "name": "amwplushies-fabric-1.20.1-4.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "a_man_with_plushies",
+      "version": "4.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "a_man_with_plushies",
+      "version": "4.2.0"
+    }
+  ]
+}

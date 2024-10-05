@@ -1,6 +1,12 @@
 {
   "name": "dcintegration-forge-2.4.7-1.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 324952,
+      "fileId": 3921247
+    }
+  ],
   "forge": [
     {
       "modId": "dcintegration",

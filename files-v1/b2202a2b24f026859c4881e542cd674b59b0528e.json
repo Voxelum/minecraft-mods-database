@@ -1,0 +1,14 @@
+{
+  "name": "ok-boomer-0.1.1+1.19.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ok-boomer",
+      "version": "0.1.1+1.19.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.10.1+1.19.3"
+    }
+  ]
+}

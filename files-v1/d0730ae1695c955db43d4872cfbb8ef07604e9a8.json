@@ -1,0 +1,14 @@
+{
+  "name": "everycomp-1.19.2-2.5.25-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "everycomp",
+      "version": "1.19.2-2.5.25"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "athenaeum-2.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 437531,
+      "fileId": 3466387
+    }
+  ],
+  "forge": [
+    {
+      "modId": "athenaeum",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

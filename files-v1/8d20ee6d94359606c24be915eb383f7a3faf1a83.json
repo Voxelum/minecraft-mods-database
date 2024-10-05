@@ -1,0 +1,26 @@
+{
+  "name": "createbigcannons-5.5.1-mc.1.20.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 646668,
+      "fileId": 5598862
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createbigcannons",
+      "version": "12.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createbigcannons",
+      "version": "5.5.1+mc.1.20.1-fabric"
+    },
+    {
+      "modId": "ritchiesprojectilelib",
+      "version": "2.0.0-dev+mc.1.20.1-fabric-build.182"
+    }
+  ]
+}

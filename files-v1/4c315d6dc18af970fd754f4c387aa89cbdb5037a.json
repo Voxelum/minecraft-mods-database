@@ -1,6 +1,12 @@
 {
   "name": "materialis-1.12.2-1.2.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 377652,
+      "fileId": 3182552
+    }
+  ],
   "forge": [
     {
       "modId": "materialispreload",

@@ -1,0 +1,10 @@
+{
+  "name": "TFC-Additions-1.0.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "tfcadditions",
+      "version": "@MODVERSION@"
+    }
+  ]
+}

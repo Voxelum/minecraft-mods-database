@@ -1,6 +1,18 @@
 {
   "name": "BadOptimizations-2.1.4-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g96Z4WVZ",
+      "versionId": "XYBqWKD2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949555,
+      "fileId": 5430282
+    }
+  ],
   "fabric": [
     {
       "modId": "badoptimizations",

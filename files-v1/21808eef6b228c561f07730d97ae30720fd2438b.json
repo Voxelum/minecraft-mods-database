@@ -1,6 +1,12 @@
 {
   "name": "InvMove-1.21-0.8.8-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "REfW2AEX",
+      "versionId": "FcdIvKru"
+    }
+  ],
   "fabric": [
     {
       "modId": "invmove",

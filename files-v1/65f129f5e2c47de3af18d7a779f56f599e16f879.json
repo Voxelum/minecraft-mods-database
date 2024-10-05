@@ -1,0 +1,16 @@
+{
+  "name": "Focal-Engine-Universal-1.0.8-MC-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "focalengine",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "focal-engine",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "WorldComment-0.0.1%2B1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "worldcomment",
+      "version": "0.0.1+1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldcomment",
+      "version": "0.0.1+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ldm_battletowers-1.0+1.18.2-MC.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ldm_battletowers",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

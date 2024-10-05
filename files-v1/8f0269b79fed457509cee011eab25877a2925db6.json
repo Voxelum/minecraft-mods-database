@@ -1,0 +1,14 @@
+{
+  "name": "1 (15).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gigeresque",
+      "version": "0.5.65"
+    },
+    {
+      "modId": "bettercrawling",
+      "version": "1.0.101"
+    }
+  ]
+}

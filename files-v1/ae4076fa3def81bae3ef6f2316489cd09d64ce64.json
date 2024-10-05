@@ -1,0 +1,20 @@
+{
+  "name": "API-owo-lib-0.11.2+1.20_mapped_srg_1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "owo",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "owo",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

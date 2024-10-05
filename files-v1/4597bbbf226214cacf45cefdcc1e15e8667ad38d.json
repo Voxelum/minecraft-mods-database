@@ -1,0 +1,10 @@
+{
+  "name": "gjeb-fabric-1.21-1.3.0.35.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gjeb",
+      "version": "${version}"
+    }
+  ]
+}

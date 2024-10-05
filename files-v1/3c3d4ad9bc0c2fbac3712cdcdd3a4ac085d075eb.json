@@ -1,0 +1,14 @@
+{
+  "name": "Prominent-GLOBAL-MC1.20.1-2.1.0hf.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "prominent",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "faux-custom-entity-data",
+      "version": "6.0.1"
+    }
+  ]
+}

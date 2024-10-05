@@ -1,0 +1,20 @@
+{
+  "name": "tt20-0.7.0+mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YS3ZignI",
+      "versionId": "EISsSQX1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tt20",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "net_snackbag_shit_shit",
+      "version": "1.2.3"
+    }
+  ]
+}

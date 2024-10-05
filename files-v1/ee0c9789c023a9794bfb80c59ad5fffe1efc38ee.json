@@ -1,0 +1,10 @@
+{
+  "name": "GEP.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fvtm",
+      "version": "3.1.0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XrayMod-2.1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301609,
+      "fileId": 4070834
+    }
+  ],
+  "forge": [
+    {
+      "modId": "atianxray",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xray",
+      "version": "2.1.1"
+    }
+  ]
+}

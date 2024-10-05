@@ -1,0 +1,16 @@
+{
+  "name": "breezespawn-1.21.1-1.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "breezespawn",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "breezespawn",
+      "version": "1.1"
+    }
+  ]
+}

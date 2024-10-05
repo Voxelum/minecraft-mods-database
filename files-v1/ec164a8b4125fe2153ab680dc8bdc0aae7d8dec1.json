@@ -1,6 +1,12 @@
 {
   "name": "packupdater-0.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 415086,
+      "fileId": 3092028
+    }
+  ],
   "forge": [
     {
       "modId": "packupdater",

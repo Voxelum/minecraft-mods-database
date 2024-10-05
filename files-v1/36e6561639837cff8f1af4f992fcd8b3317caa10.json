@@ -1,0 +1,14 @@
+{
+  "name": "desolation-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "desolation",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    }
+  ]
+}

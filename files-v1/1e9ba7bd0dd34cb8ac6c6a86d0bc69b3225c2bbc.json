@@ -1,0 +1,10 @@
+{
+  "name": "ModularWarfare-Ultimate-2.4.5f-fix.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mcgltf",
+      "version": "${version}"
+    }
+  ]
+}

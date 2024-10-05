@@ -1,0 +1,14 @@
+{
+  "name": "YungsBetterStrongholds-1.19.3-Fabric-3.3.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterstrongholds",
+      "version": "1.19.3-Fabric-3.3.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

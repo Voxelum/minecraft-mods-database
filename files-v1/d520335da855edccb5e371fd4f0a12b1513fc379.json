@@ -1,6 +1,12 @@
 {
   "name": "thaumon-fabric-2.2.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PvssKrgi",
+      "versionId": "ll7thiN5"
+    }
+  ],
   "fabric": [
     {
       "modId": "thaumon",

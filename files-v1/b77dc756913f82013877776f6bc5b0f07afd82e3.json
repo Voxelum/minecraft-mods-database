@@ -1,0 +1,20 @@
+{
+  "name": "soundboard-0.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N8s60DWW",
+      "versionId": "NAGDqqt7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soundboard",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.5+1.20.3"
+    }
+  ]
+}

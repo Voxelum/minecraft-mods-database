@@ -1,6 +1,12 @@
 {
   "name": "cave_dust-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jawg7zT1",
+      "versionId": "NPD3ud2m"
+    }
+  ],
   "fabric": [
     {
       "modId": "cavedust",

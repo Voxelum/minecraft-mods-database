@@ -1,0 +1,14 @@
+{
+  "name": "CraftPresence-2.5.0+1.21-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.0+56599129d1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "YungsBetterNetherFortresses-1.19.3-Fabric-1.1.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "betterfortresses",
+      "version": "1.19.3-Fabric-1.1.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

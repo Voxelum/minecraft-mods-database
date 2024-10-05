@@ -1,0 +1,14 @@
+{
+  "name": "friendsandfoes-fabric-mc1.20.1-2.0.15.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "2.0.15"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

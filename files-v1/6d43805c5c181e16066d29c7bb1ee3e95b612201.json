@@ -1,0 +1,20 @@
+{
+  "name": "KoreanChat-1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b6DSxiIM",
+      "versionId": "EgiEkkYY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "koreanchat",
+      "version": "1.4"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.4.0+1.20.3"
+    }
+  ]
+}

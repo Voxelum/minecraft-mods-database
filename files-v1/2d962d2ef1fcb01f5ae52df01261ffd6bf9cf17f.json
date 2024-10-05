@@ -1,0 +1,20 @@
+{
+  "name": "shared-resources-1.9.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8CsGxc95",
+      "versionId": "DDlcXohM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shared-resources",
+      "version": "1.9.1+1.20.1"
+    },
+    {
+      "modId": "shared-resources-api",
+      "version": "1.9.1"
+    }
+  ]
+}

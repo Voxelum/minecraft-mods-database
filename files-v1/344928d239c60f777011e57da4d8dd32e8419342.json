@@ -1,0 +1,22 @@
+{
+  "name": "exposure-1.19.2-1.6.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 871755,
+      "fileId": 5336112
+    }
+  ],
+  "forge": [
+    {
+      "modId": "exposure-1.19.2-1.6.0-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exposure",
+      "version": "1.6.0"
+    }
+  ]
+}

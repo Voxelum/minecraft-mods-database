@@ -1,0 +1,10 @@
+{
+  "name": "pitch-dark-2.0.0-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pitch-dark",
+      "version": "2.0.0"
+    }
+  ]
+}

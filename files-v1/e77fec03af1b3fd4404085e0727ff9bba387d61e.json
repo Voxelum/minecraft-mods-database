@@ -1,0 +1,64 @@
+{
+  "name": "coordshud-1.2.2-mc1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D0D7J5Jj",
+      "versionId": "JnTCWSeW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coords-hud",
+      "version": "1.2.2-mc1.20.4"
+    },
+    {
+      "modId": "coords-hud-common",
+      "version": "1.2.2+common"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.12.0+kotlin.2.0.10"
+    },
+    {
+      "modId": "io_insert-koin_koin-core-jvm",
+      "version": "3.5.0"
+    },
+    {
+      "modId": "io_insert-koin_koin-logger-slf4j",
+      "version": "3.5.0"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "2.1.214"
+    },
+    {
+      "modId": "org_flywaydb_flyway-core",
+      "version": "10.8.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.16.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.16.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.16.0"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-core",
+      "version": "0.48.0"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-jdbc",
+      "version": "0.48.0"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    }
+  ]
+}

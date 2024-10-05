@@ -1,0 +1,14 @@
+{
+  "name": "puddles-1.2.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "puddles",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.2.9"
+    }
+  ]
+}

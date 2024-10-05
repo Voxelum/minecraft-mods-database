@@ -1,6 +1,12 @@
 {
   "name": "CustomSkinLoader_Fabric-14.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "idMHQ4n2",
+      "versionId": "80Fnnn1d"
+    }
+  ],
   "fabric": [
     {
       "modId": "customskinloader",

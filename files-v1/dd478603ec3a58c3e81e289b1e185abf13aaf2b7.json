@@ -1,6 +1,12 @@
 {
   "name": "missions-forge-0.3.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 911382,
+      "fileId": 5386191
+    }
+  ],
   "forge": [
     {
       "modId": "missions",

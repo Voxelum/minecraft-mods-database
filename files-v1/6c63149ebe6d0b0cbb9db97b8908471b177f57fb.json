@@ -1,0 +1,14 @@
+{
+  "name": "fabric_medieval_buildings_end_edition-1.0.2-1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "medievalend",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

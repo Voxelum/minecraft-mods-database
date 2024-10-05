@@ -1,0 +1,20 @@
+{
+  "name": "TES-fabric-1.21-1.6.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4A86JsDZ",
+      "versionId": "zGVbOJOH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tslatentitystatus",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

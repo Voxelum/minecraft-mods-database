@@ -1,0 +1,30 @@
+{
+  "name": "owo-lib-0.12.11+1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "owo",
+      "version": "0.12.11+1.21"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.5"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.3"
+    },
+    {
+      "modId": "io_wispforest_endec_jankson",
+      "version": "0.1.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "fzzy_config-0.3.5+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "e6HT1luW"
+    }
+  ],
   "fabric": [
     {
       "modId": "fzzy_config",

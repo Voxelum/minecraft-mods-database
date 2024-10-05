@@ -1,0 +1,14 @@
+{
+  "name": "1.20.1-throwable-fluids-3.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "throwablefluids",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}
