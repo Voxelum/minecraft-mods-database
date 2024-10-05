@@ -17,6 +17,7 @@ const files = fs.readdirSync('./files-v1')
 
 console.log(`Detect ${files.length} files`)
 const mapping = {}
+const domainMapping = {}
 const start = Date.now()
 for (const fileName of files) {
   if (!fileName.endsWith('.json')) continue
@@ -37,6 +38,7 @@ for (const fileName of files) {
 
         if (content.curseforge) {
           mapping[modrinth.projectId] = content.curseforge[0].projectId
+          domainMapping[modrinth.projectId] = content.domain
         }
       }
       for (const curseforge of content.curseforge || []) {
@@ -76,7 +78,7 @@ const entries = Object.entries(mapping)
 let result = ''
 for (let i = 0; i < entries.length; ++i) {
   const [modrinth, curseforge] = entries[i]
-  result += modrinth + ',' + curseforge + '\n'
+  result += modrinth + ',' + curseforge + ',' + domainMapping[modrinth] + '\n'
 }
 
 fs.writeFileSync('./build/project_mapping.csv', result)
