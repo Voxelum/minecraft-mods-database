@@ -1,0 +1,22 @@
+{
+  "name": "accessories-fabric-1.0.0-beta.40+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "accessories",
+      "version": "1.0.0-beta.40+1.20.1"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.8"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.5"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.4"
+    }
+  ]
+}

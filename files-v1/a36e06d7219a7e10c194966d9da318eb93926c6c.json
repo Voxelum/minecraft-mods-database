@@ -1,0 +1,46 @@
+{
+  "name": "jcraft-fabric-0.15.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "jcraft",
+      "version": "0.15.3"
+    },
+    {
+      "modId": "azurelib",
+      "version": "2.0.39"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "modId": "terrablender",
+      "version": "3.0.1.6"
+    },
+    {
+      "modId": "trimmed",
+      "version": "2.1.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    },
+    {
+      "modId": "satin",
+      "version": "1.18.5"
+    }
+  ]
+}

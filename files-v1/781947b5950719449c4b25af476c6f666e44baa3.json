@@ -1,6 +1,12 @@
 {
   "name": "naturalist-forge-3.0.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F8BQNPWX",
+      "versionId": "ZjjyXkT5"
+    }
+  ],
   "forge": [
     {
       "modId": "naturalist",

@@ -1,0 +1,22 @@
+{
+  "name": "ore_deposits-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Acig97sb",
+      "versionId": "IzGC6GJb"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ore_deposits",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ore_deposits",
+      "version": "1.0"
+    }
+  ]
+}

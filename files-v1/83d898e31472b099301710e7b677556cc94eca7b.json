@@ -1,6 +1,12 @@
 {
   "name": "ash_api-forge-3.0.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q8xUICr6",
+      "versionId": "mfSxdCmQ"
+    }
+  ],
   "forge": [
     {
       "modId": "ash_api",

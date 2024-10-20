@@ -1,0 +1,14 @@
+{
+  "name": "AlchemicalDrugs-1.19.2-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "alchemicaldrugs",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.9.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "emi-1.1.4+1.19.2+forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fRiHVvU7",
+      "versionId": "uMsufpiT"
+    }
+  ],
   "forge": [
     {
       "modId": "emi",

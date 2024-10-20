@@ -1,6 +1,12 @@
 {
   "name": "global-server-config-forge-1.18.2+-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c5dOxpD8",
+      "versionId": "19JfFGV6"
+    }
+  ],
   "forge": [
     {
       "modId": "global_server_config",

@@ -1,0 +1,14 @@
+{
+  "name": "cool_elytra-1.5.1-mc1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cool_elytra",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

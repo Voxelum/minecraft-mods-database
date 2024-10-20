@@ -1,6 +1,12 @@
 {
   "name": "replaymod-1.21-2.6.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nv2fQJo5",
+      "versionId": "3JKfe0Pj"
+    }
+  ],
   "fabric": [
     {
       "modId": "replaymod",

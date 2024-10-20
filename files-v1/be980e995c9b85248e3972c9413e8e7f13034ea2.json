@@ -1,0 +1,16 @@
+{
+  "name": "fabricnocturnaldweller1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "nocturnal_dweller",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nocturnal_dweller",
+      "version": "1.0.0"
+    }
+  ]
+}

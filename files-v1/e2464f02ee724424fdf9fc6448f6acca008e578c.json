@@ -1,0 +1,18 @@
+{
+  "name": "[双端][地毯附属]carpet-tis-addition-v1.63.0-mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "carpet-tis-addition",
+      "version": "1.63.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

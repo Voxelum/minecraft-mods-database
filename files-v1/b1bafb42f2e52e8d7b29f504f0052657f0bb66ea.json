@@ -1,0 +1,22 @@
+{
+  "name": "health-indicator-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hxaUKE37",
+      "versionId": "3tWywoHS"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_health_indicator",
+      "version": "4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_health_indicator",
+      "version": "4"
+    }
+  ]
+}

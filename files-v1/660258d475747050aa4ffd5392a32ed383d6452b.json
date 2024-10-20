@@ -1,6 +1,12 @@
 {
   "name": "tacz-1.20.1-1.0.3-all.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1028108,
+      "fileId": 5722050
+    }
+  ],
   "forge": [
     {
       "modId": "tacz",

@@ -1,6 +1,12 @@
 {
   "name": "trinkets-3.10.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5aaWibi9",
+      "versionId": "JagCscwi"
+    }
+  ],
   "fabric": [
     {
       "modId": "trinkets",

@@ -1,0 +1,26 @@
+{
+  "name": "BadOptimizations-2.1.4-1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g96Z4WVZ",
+      "versionId": "xhGlhCut"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "badoptimizations",
+      "version": "2.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "badoptimizations",
+      "version": "2.1.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

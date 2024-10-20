@@ -1,6 +1,12 @@
 {
   "name": "VulkanMod_1.18.2-0.2.02.jar",
   "domain": "resourcepacks",
+  "modrinth": [
+    {
+      "projectId": "JYQhtZtO",
+      "versionId": "6UcjLFiZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "vulkanmod",

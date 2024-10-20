@@ -1,0 +1,22 @@
+{
+  "name": "t_and_t-1.13.1b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DjLobEOy",
+      "versionId": "cjQk2Nq8"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "t_and_t",
+      "version": "1.12.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "t_and_t",
+      "version": "1.13.1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "no dimensions.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "no_portals",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_portals",
+      "version": "1.0.0"
+    }
+  ]
+}

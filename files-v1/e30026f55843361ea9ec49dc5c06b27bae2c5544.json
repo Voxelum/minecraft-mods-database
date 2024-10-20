@@ -1,6 +1,18 @@
 {
   "name": "e4mc_minecraft-fabric-5.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qANg5Jrr",
+      "versionId": "ul9OslWB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849519,
+      "fileId": 5745588
+    }
+  ],
   "fabric": [
     {
       "modId": "e4mc_minecraft",

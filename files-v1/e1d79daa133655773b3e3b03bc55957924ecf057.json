@@ -1,6 +1,12 @@
 {
   "name": "chococraft-1.19.2-forge-0.6.5.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bPTEaC7v",
+      "versionId": "ZUvOItsw"
+    }
+  ],
   "forge": [
     {
       "modId": "chococraft",

@@ -1,0 +1,20 @@
+{
+  "name": "nyfsspiders-fabric-1.20.4-2.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dOGM7ccu",
+      "versionId": "bbLWevfn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nyfsspiders",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "20.4.3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "OctoLib-FABRIC-0.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RH2KUdKJ",
+      "versionId": "9DWrJgtA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "octolib",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

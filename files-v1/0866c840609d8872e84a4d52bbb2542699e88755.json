@@ -1,6 +1,12 @@
 {
   "name": "arseng-1.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 905641,
+      "fileId": 5504444
+    }
+  ],
   "forge": [
     {
       "modId": "arseng",
