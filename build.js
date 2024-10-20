@@ -17,6 +17,7 @@ const files = fs.readdirSync('./files-v1')
 
 console.log(`Detect ${files.length} files`)
 const mapping = {}
+const reversedMapping = {}
 const domainMapping = {}
 const start = Date.now()
 for (const fileName of files) {
@@ -37,8 +38,15 @@ for (const fileName of files) {
         insertModrinth.run(sha1, modrinth.projectId, modrinth.versionId)
 
         if (content.curseforge) {
-          mapping[modrinth.projectId] = content.curseforge[0].projectId
-          domainMapping[modrinth.projectId] = content.domain
+          const cfId = content.curseforge[0].projectId
+
+          if (!reversedMapping[cfId]) {
+            reversedMapping[cfId] = modrinth.projectId
+            mapping[modrinth.projectId] = cfId
+            domainMapping[modrinth.projectId] = content.domain
+          } else {
+            console.error('Duplicate CurseForge project:', cfId)
+          }
         }
       }
       for (const curseforge of content.curseforge || []) {
