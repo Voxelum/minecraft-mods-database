@@ -1,0 +1,14 @@
+{
+  "name": "lootbeams-2.1.1+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "2.1.1+1.20.1"
+    },
+    {
+      "modId": "microconfig",
+      "version": "3.0.0"
+    }
+  ]
+}

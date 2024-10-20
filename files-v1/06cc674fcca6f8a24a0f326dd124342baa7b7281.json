@@ -1,0 +1,10 @@
+{
+  "name": "[自定义局域网联机] lanserverproperties-1.4.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lanserverproperties",
+      "version": "${version}"
+    }
+  ]
+}

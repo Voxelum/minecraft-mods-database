@@ -1,0 +1,22 @@
+{
+  "name": "iceandfire-0.6.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iceandfire",
+      "version": "0.6.1"
+    },
+    {
+      "modId": "fabric-trade-api",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

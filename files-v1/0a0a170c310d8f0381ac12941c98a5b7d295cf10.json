@@ -1,0 +1,14 @@
+{
+  "name": "vaultpatcher-all-1.4.3+3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vaultpatcher",
+      "version": "1.4.3+3"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

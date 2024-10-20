@@ -1,0 +1,64 @@
+{
+  "name": "sophisticatedbackpacks-3.19.5+mc1.19.2-SNAPSHOT-build.103.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sophisticatedbackpacks-3.19.5+mc1.19.2-SNAPSHOT-build.103",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": "3.19.5+mc1.19.2-SNAPSHOT-build.103"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_fake_players",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

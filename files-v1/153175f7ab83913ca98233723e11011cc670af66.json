@@ -1,0 +1,14 @@
+{
+  "name": "Uranus-1.7.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "uranus",
+      "version": "1.7"
+    },
+    {
+      "modId": "sponsor_core",
+      "version": "1.0.0"
+    }
+  ]
+}

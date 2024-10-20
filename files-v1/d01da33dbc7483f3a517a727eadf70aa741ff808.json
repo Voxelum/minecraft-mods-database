@@ -1,0 +1,20 @@
+{
+  "name": "Crops-Love-Rain-2.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cRci7UZp",
+      "versionId": "kiNb5sN8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cropsloverain",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

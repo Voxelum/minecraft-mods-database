@@ -1,0 +1,16 @@
+{
+  "name": "BetterThanMending-2.2.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "betterthanmending",
+      "version": "2.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterthanmending",
+      "version": "2.2.0"
+    }
+  ]
+}

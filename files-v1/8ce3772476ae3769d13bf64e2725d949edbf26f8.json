@@ -1,0 +1,16 @@
+{
+  "name": "create_high_pressure-1.1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "create_high_pressure",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_high_pressure",
+      "version": "1.1.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MS1ZMyR7",
+      "versionId": "xCWQ8iLW"
+    }
+  ],
   "fabric": [
     {
       "modId": "betterpingdisplay",

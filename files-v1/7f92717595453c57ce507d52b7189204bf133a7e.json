@@ -1,0 +1,18 @@
+{
+  "name": "Death_Knights-0.3.5beta+1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "death_knights",
+      "version": "0.3.5beta"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.5"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "MRU-1.0.2+1.21+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNVQ2c0g",
+      "versionId": "s99KEPTF"
+    }
+  ],
   "fabric": [
     {
       "modId": "mru",

@@ -1,6 +1,12 @@
 {
   "name": "PickUpNotifier-v21.0.0-1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZX66K16c",
+      "versionId": "P0E7PbKn"
+    }
+  ],
   "fabric": [
     {
       "modId": "pickupnotifier",

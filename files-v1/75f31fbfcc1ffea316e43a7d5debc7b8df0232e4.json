@@ -1,0 +1,20 @@
+{
+  "name": "macebut3d-1.21-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6LzngQIs",
+      "versionId": "6h8g2LHm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "macebut3d",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.100.3+1.21"
+    }
+  ]
+}

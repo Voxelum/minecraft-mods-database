@@ -1,6 +1,12 @@
 {
   "name": "fogoverrides-1.19.2-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B1vBJNM4",
+      "versionId": "CLbImVBh"
+    }
+  ],
   "forge": [
     {
       "modId": "fogoverrides",

@@ -1,6 +1,12 @@
 {
   "name": "mcdar-4.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xweQBqAC",
+      "versionId": "YoeA8HCc"
+    }
+  ],
   "fabric": [
     {
       "modId": "mcdar",

@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-bone-meal-1.2.1+1.20.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_bedrock_bonemeal",
+      "version": "1.2.1+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bedrock_bonemeal",
+      "version": "1.2.1+1.20"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "letsdo-farm_and_charm-fabric-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "farm_and_charm",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

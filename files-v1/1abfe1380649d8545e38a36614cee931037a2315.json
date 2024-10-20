@@ -1,6 +1,12 @@
 {
   "name": "jamlib-fabric-1.0.11+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IYY9Siz8",
+      "versionId": "7NY3wW64"
+    }
+  ],
   "fabric": [
     {
       "modId": "jamlib",

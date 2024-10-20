@@ -1,0 +1,16 @@
+{
+  "name": "[WI变焦] WI-Zoom-1.2-MC1.16.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "wi-zoom",
+      "version": "v1.0-MC1.12.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wi_zoom",
+      "version": "1.2-MC1.16.1"
+    }
+  ]
+}

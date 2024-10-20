@@ -1,6 +1,12 @@
 {
   "name": "chat_heads-0.13.3-fabric-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wb5oqrBJ",
+      "versionId": "1ZPYjESW"
+    }
+  ],
   "fabric": [
     {
       "modId": "chat_heads",

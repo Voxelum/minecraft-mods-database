@@ -1,0 +1,28 @@
+{
+  "name": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s3dmwKy5",
+      "versionId": "25HLOiOl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glitchcore",
+      "version": "0.0.1.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "net_jodah_typetools",
+      "version": "0.6.3"
+    }
+  ]
+}

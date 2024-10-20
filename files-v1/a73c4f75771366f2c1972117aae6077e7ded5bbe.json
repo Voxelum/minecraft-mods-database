@@ -1,0 +1,24 @@
+{
+  "name": "TooManyPlayers-1.21-1.1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPVN4aiJ",
+      "versionId": "8M7dCAf8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanyplayers",
+      "version": "1.21-1.1.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.8"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.1.0+1.21"
+    }
+  ]
+}

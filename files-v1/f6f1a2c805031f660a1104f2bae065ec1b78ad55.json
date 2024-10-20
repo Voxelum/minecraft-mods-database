@@ -1,6 +1,12 @@
 {
   "name": "zume-0.18.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o6qsdrrQ",
+      "versionId": "iRXvs2SA"
+    }
+  ],
   "forge": [
     {
       "modId": "zume",
