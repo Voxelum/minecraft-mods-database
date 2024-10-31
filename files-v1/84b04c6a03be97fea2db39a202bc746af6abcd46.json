@@ -1,6 +1,18 @@
 {
   "name": "fermiumasm-5.23.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LnSdxRsG",
+      "versionId": "ImR6ZvRq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 971247,
+      "fileId": 5346789
+    }
+  ],
   "forge": [
     {
       "modId": "normalasm",

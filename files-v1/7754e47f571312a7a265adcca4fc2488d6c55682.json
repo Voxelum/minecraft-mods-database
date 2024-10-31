@@ -1,6 +1,12 @@
 {
   "name": "stalkedv1-0-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BbFHTfoU",
+      "versionId": "CYY1oqPm"
+    }
+  ],
   "forge": [
     {
       "modId": "stalked",

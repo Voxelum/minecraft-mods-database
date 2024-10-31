@@ -1,0 +1,26 @@
+{
+  "name": "spark-1.10.109-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "cALUj9l1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 5759670
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spark",
+      "version": "1.10.109"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

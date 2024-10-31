@@ -1,6 +1,18 @@
 {
   "name": "CreativeCore_FORGE_v2.12.15_mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "TMXT4IEs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 5743457
+    }
+  ],
   "forge": [
     {
       "modId": "creativecore",

@@ -1,0 +1,24 @@
+{
+  "name": "Shoppy-1.20.1-FABRIC-1.1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 559983,
+      "fileId": 5002895
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shoppy",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    },
+    {
+      "modId": "octo-economy-api",
+      "version": "1.1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Fishingreal-1.20.1-1.7.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MIdaKqt7",
+      "versionId": "M44pHDr2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348834,
+      "fileId": 5273531
+    }
+  ],
   "forge": [
     {
       "modId": "fishingreal",

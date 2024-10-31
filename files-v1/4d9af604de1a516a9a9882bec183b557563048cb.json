@@ -1,6 +1,18 @@
 {
   "name": "stoneholm-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zQoJfY3W",
+      "versionId": "UneaOKZ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 460336,
+      "fileId": 3368677
+    }
+  ],
   "fabric": [
     {
       "modId": "stoneholm",

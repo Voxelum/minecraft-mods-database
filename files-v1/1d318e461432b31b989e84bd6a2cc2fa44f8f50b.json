@@ -1,0 +1,30 @@
+{
+  "name": "somnus-fabric-0.0.14-1.17.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P3LO7RT4",
+      "versionId": "IRk1qdxN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433538,
+      "fileId": 3438315
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "somnus",
+      "version": "0.0.14-1.17.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b446318"
+    },
+    {
+      "modId": "fabric-entity-events-v1",
+      "version": "1.2.1+077fc48418"
+    }
+  ]
+}

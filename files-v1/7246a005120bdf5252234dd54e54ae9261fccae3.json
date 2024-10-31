@@ -1,6 +1,12 @@
 {
   "name": "framework-forge-1.19.2-0.7.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549225,
+      "fileId": 5626894
+    }
+  ],
   "forge": [
     {
       "modId": "framework",

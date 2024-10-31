@@ -1,6 +1,12 @@
 {
   "name": "The-Goatman-Mod-Forge-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 959927,
+      "fileId": 5019026
+    }
+  ],
   "forge": [
     {
       "modId": "cave_dweller",

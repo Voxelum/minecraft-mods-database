@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nGFJD9cB",
+      "versionId": "vxItLiTW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1062667,
+      "fileId": 5789046
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercombatextension",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

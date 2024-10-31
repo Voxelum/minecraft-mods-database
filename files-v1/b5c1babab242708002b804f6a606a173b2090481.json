@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UafsfA4K",
+      "versionId": "jHCKiVoB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 987725,
+      "fileId": 5723224
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "auditory",
+      "version": "0.0.7-1.21.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.130"
+    }
+  ]
+}

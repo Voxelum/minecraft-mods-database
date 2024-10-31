@@ -1,6 +1,18 @@
 {
   "name": "spwallet-1.20-2.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KMOm6R86",
+      "versionId": "nm9G9RJL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662188,
+      "fileId": 4719029
+    }
+  ],
   "fabric": [
     {
       "modId": "spwallet",

@@ -1,6 +1,18 @@
 {
   "name": "CustomWindowTitle-1.15+v1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RGH5gtzF",
+      "versionId": "2SLfpKHB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360673,
+      "fileId": 3546287
+    }
+  ],
   "forge": [
     {
       "modId": "customwindowtitle",

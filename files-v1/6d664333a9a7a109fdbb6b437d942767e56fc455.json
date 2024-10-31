@@ -1,0 +1,30 @@
+{
+  "name": "svc-soundboard-0.7.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N8s60DWW",
+      "versionId": "TWcDjihU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 999525,
+      "fileId": 5798727
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soundboard-svc",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "kowoui",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "soundboard-core",
+      "version": "0.7.0"
+    }
+  ]
+}

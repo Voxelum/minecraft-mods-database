@@ -1,6 +1,18 @@
 {
   "name": "allthetrims-3.4.3-forge+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnsUKrap",
+      "versionId": "Hcatfmo7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876154,
+      "fileId": 5425363
+    }
+  ],
   "forge": [
     {
       "modId": "allthetrims",

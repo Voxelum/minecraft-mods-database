@@ -1,6 +1,18 @@
 {
   "name": "woodworkers_delight-0.1.0-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p7qVZMHl",
+      "versionId": "AicbpLAG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917962,
+      "fileId": 4851559
+    }
+  ],
   "forge": [
     {
       "modId": "woodworkers_delight",

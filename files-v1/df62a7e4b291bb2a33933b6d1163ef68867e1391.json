@@ -1,6 +1,18 @@
 {
   "name": "appliede-0.14.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SyKS54UY",
+      "versionId": "vYxs340D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1009940,
+      "fileId": 5538507
+    }
+  ],
   "forge": [
     {
       "modId": "appliede",

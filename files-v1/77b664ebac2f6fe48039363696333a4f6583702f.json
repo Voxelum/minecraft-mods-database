@@ -1,6 +1,18 @@
 {
   "name": "letsdo-addon-structures-1.6.0_1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2PaVx3ow",
+      "versionId": "bLst9kQz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967867,
+      "fileId": 5166314
+    }
+  ],
   "forge": [
     {
       "modId": "letsdoaddonstructures",

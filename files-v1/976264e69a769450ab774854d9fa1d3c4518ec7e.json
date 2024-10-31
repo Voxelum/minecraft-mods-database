@@ -1,6 +1,18 @@
 {
   "name": "DynamicTreesTFC-1.20.1-2.0.0-alpha1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rTzlIrI4",
+      "versionId": "pFoAWgnC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 362368,
+      "fileId": 5509191
+    }
+  ],
   "forge": [
     {
       "modId": "dttfc",

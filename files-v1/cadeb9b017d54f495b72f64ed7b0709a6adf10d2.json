@@ -1,6 +1,12 @@
 {
   "name": "rfd-2.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 635043,
+      "fileId": 4586344
+    }
+  ],
   "forge": [
     {
       "modId": "rfd",

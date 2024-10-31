@@ -1,6 +1,12 @@
 {
   "name": "compactmachines-5.1.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "abFBFCgY",
+      "versionId": "jFA52xQb"
+    }
+  ],
   "forge": [
     {
       "modId": "compactmachines",

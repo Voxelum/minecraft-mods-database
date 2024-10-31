@@ -1,0 +1,16 @@
+{
+  "name": "Labyrinth-1.12.2-1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 248424,
+      "fileId": 2688384
+    }
+  ],
+  "forge": [
+    {
+      "modId": "labyrinth",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BwFQLeCh",
+      "versionId": "OIFSv9om"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438252,
+      "fileId": 5437540
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customsplashscreen",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

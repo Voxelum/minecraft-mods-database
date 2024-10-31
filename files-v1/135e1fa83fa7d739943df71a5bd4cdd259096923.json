@@ -1,6 +1,18 @@
 {
   "name": "lightmanscurrency-1.19.2-2.2.1.3c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wvMc8AJt",
+      "versionId": "k0gFnzrD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 472521,
+      "fileId": 5264093
+    }
+  ],
   "forge": [
     {
       "modId": "lightmanscurrency",

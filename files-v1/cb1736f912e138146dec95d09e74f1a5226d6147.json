@@ -1,6 +1,18 @@
 {
   "name": "touhoulittlemaid-1.20.1-release-1.1.12-hotfix2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R0bDWFAW",
+      "versionId": "z5l5UYOn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 355044,
+      "fileId": 5739414
+    }
+  ],
   "forge": [
     {
       "modId": "touhou_little_maid",

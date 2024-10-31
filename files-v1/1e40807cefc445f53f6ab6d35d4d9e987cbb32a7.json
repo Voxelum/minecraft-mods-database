@@ -1,6 +1,18 @@
 {
   "name": "moremobvariants-forge+1.19.2-1.3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JiEhJ3WG",
+      "versionId": "uMKJZZE3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695107,
+      "fileId": 5280608
+    }
+  ],
   "forge": [
     {
       "modId": "moremobvariants",

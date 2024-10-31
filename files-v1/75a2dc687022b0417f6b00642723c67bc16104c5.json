@@ -1,6 +1,18 @@
 {
   "name": "CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HrX8DMup",
+      "versionId": "KxenaBoI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952442,
+      "fileId": 5773159
+    }
+  ],
   "fabric": [
     {
       "modId": "custom_entity_attributes",

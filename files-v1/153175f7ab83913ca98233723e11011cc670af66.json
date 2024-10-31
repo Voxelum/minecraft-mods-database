@@ -1,6 +1,18 @@
 {
   "name": "Uranus-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Acxy864",
+      "versionId": "wxtnrYIP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010827,
+      "fileId": 5699484
+    }
+  ],
   "fabric": [
     {
       "modId": "uranus",

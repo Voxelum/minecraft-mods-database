@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBAkmtvl",
+      "versionId": "Pz0YXByM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "balm-fabric",
+      "version": "21.0.15"
+    },
+    {
+      "modId": "kuma_api",
+      "version": "21.0.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "slu_1.20.1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NfC2TBZe",
+      "versionId": "ofHPCFYg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 971456,
+      "fileId": 5508423
+    }
+  ],
   "forge": [
     {
       "modId": "soulslikeuniverse",

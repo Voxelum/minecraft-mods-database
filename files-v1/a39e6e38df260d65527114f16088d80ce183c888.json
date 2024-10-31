@@ -1,6 +1,18 @@
 {
   "name": "jumpoverfences-1.16.4-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4HeIHvIP",
+      "versionId": "9DCzgem4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423421,
+      "fileId": 3125998
+    }
+  ],
   "forge": [
     {
       "modId": "jumpoverfences",

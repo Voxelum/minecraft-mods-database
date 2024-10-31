@@ -1,6 +1,18 @@
 {
   "name": "travelerscompass-1.20.1-3.0.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WJLLirmC",
+      "versionId": "rol7jzSY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 954415,
+      "fileId": 5598684
+    }
+  ],
   "fabric": [
     {
       "modId": "travelerscompass",

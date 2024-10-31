@@ -1,6 +1,12 @@
 {
   "name": "journeymap-1.20.1-5.10.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 32274,
+      "fileId": 5678927
+    }
+  ],
   "forge": [
     {
       "modId": "journeymap",

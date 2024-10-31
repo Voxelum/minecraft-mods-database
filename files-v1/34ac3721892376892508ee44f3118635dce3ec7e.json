@@ -1,6 +1,18 @@
 {
   "name": "not_interested--mc1.20.1--forge--1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j7Ux0G0U",
+      "versionId": "75nLBtzM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 980755,
+      "fileId": 5143817
+    }
+  ],
   "forge": [
     {
       "modId": "not_interested",

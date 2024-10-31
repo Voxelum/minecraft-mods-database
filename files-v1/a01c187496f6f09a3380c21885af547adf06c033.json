@@ -1,6 +1,18 @@
 {
   "name": "simplemagnets-1.1.8-forge-mc1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YyNQVpOu",
+      "versionId": "7dFAlMeC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394140,
+      "fileId": 3862608
+    }
+  ],
   "forge": [
     {
       "modId": "simplemagnets",

@@ -1,6 +1,18 @@
 {
   "name": "rayon-fabric-1.7.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ttpzz4FC",
+      "versionId": "NvsMqX62"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 435768,
+      "fileId": 4502280
+    }
+  ],
   "fabric": [
     {
       "modId": "rayon",

@@ -1,6 +1,12 @@
 {
   "name": "mythicupgrades-4.1.4+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ERH7cFoy",
+      "versionId": "ZIxxXgir"
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicupgrades",

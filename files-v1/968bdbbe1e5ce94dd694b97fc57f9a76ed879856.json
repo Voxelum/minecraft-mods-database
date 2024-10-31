@@ -1,0 +1,22 @@
+{
+  "name": "armordamagescale-1.20.1-3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 824936,
+      "fileId": 5684824
+    }
+  ],
+  "forge": [
+    {
+      "modId": "armordamagescale",
+      "version": "1.20.1-3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armordamagescale",
+      "version": "${version}"
+    }
+  ]
+}

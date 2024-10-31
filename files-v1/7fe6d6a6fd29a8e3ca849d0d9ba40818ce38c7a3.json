@@ -1,0 +1,36 @@
+{
+  "name": "good-tea-1.2.0-1.20.1-build.91.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fLAsXzkA",
+      "versionId": "hgxZ3PhH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "good-tea",
+      "version": "1.2.0-1.20.1-build.91"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.0.0-1.20.1-build.481"
+    },
+    {
+      "modId": "dark-matter-mixin",
+      "version": "4.0.0-1.20.1-build.481"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "4.0.0-1.20.1-build.481"
+    },
+    {
+      "modId": "dark-matter-data",
+      "version": "4.0.0-1.20.1-build.481"
+    },
+    {
+      "modId": "dark-matter-item-group",
+      "version": "4.0.0-1.20.1-build.481"
+    }
+  ]
+}

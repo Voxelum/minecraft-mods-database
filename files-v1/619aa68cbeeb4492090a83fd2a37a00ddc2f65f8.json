@@ -1,6 +1,18 @@
 {
   "name": "Icarus-Fabric-2.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dw7M6XKW",
+      "versionId": "4Cjb2sBr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 428151,
+      "fileId": 5298515
+    }
+  ],
   "fabric": [
     {
       "modId": "icarus",

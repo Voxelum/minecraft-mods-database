@@ -1,6 +1,18 @@
 {
   "name": "led-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrekn9hP",
+      "versionId": "ax1Oy3Bj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 461885,
+      "fileId": 4786053
+    }
+  ],
   "fabric": [
     {
       "modId": "led",

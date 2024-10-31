@@ -1,6 +1,18 @@
 {
   "name": "betterendcitiesbetterend-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DlcfxdlN",
+      "versionId": "GIVTSOwK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959460,
+      "fileId": 5016420
+    }
+  ],
   "fabric": [
     {
       "modId": "simplemod",

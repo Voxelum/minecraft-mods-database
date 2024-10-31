@@ -1,6 +1,18 @@
 {
   "name": "productivetrees-1.20.1-0.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BTmup08e",
+      "versionId": "CIDaatAJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867074,
+      "fileId": 5212925
+    }
+  ],
   "forge": [
     {
       "modId": "productivetrees",

@@ -1,6 +1,18 @@
 {
   "name": "rrls-4.0.6.1+mc1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZP7xHXtw",
+      "versionId": "VHNE9K3D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 833233,
+      "fileId": 5423271
+    }
+  ],
   "fabric": [
     {
       "modId": "rrls",

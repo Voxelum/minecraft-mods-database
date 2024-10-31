@@ -1,6 +1,18 @@
 {
   "name": "EWAT_3.0.0_1.20.1_forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SMeShcIT",
+      "versionId": "p7vjwvdq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882718,
+      "fileId": 5291309
+    }
+  ],
   "forge": [
     {
       "modId": "exclusive_weapons_armor_and_tools",

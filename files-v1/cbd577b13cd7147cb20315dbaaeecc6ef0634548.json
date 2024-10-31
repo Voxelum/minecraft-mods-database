@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wQfMUdZT",
+      "versionId": "fBlIZMlg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "colorfulhearts",
+      "version": "4.3.15"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    }
+  ]
+}

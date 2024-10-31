@@ -1,6 +1,18 @@
 {
   "name": "terraform-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AX6CbpbO",
+      "versionId": "k40ML27s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525254,
+      "fileId": 3452425
+    }
+  ],
   "forge": [
     {
       "modId": "terraform",

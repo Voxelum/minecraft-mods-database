@@ -1,6 +1,18 @@
 {
   "name": "rhino-2101.2.5-build.54.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sk9knFPE",
+      "versionId": "kox3FBVc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416294,
+      "fileId": 5691686
+    }
+  ],
   "forge": [
     {
       "modId": "rhino",

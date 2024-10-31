@@ -1,6 +1,18 @@
 {
   "name": "immersive_paintings-0.6.7-1.18.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6txNkua3",
+      "versionId": "ud1QWauc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639584,
+      "fileId": 4789103
+    }
+  ],
   "forge": [
     {
       "modId": "immersive_paintings",

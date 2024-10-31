@@ -1,6 +1,18 @@
 {
   "name": "warriorrage-forge-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1BGsoydA",
+      "versionId": "7x0xA8ZJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631764,
+      "fileId": 5323413
+    }
+  ],
   "forge": [
     {
       "modId": "warriorrage",

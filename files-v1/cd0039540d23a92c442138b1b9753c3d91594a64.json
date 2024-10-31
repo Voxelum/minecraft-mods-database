@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PYjpoAys",
+      "versionId": "L0CZyrhq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903894,
+      "fileId": 5777585
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ubesdelight",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.2"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    }
+  ]
+}

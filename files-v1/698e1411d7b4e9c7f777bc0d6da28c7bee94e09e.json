@@ -1,6 +1,18 @@
 {
   "name": "JoinAutoSprintMod-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TNVjaBGX",
+      "versionId": "pTgjJRFC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 935231,
+      "fileId": 4853228
+    }
+  ],
   "fabric": [
     {
       "modId": "joinautosprint",

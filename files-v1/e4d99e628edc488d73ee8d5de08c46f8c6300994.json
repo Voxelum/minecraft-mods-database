@@ -1,6 +1,18 @@
 {
   "name": "rlstructures-1.16.5-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P28kOqEl",
+      "versionId": "96MI89vq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 624372,
+      "fileId": 3941812
+    }
+  ],
   "forge": [
     {
       "modId": "rlstructures",

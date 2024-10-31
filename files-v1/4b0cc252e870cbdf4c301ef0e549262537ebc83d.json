@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1jDdpgcc",
+      "versionId": "SfDhemCs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 898104,
+      "fileId": 5504519
+    }
+  ],
+  "forge": [
+    {
+      "modId": "carbonconfig",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

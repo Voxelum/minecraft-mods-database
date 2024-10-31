@@ -1,6 +1,18 @@
 {
   "name": "chalk-2.2.4+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OrtjXTCH",
+      "versionId": "Lsc3Pk9I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535541,
+      "fileId": 5435620
+    }
+  ],
   "fabric": [
     {
       "modId": "chalk",

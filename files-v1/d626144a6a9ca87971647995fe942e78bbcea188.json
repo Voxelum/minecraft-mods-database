@@ -1,6 +1,18 @@
 {
   "name": "create_oxidized-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X9kjRZeX",
+      "versionId": "S1fxKzJu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 953729,
+      "fileId": 4986573
+    }
+  ],
   "forge": [
     {
       "modId": "create_oxidized",

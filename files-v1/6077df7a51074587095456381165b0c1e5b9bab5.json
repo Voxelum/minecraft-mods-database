@@ -1,6 +1,18 @@
 {
   "name": "colorfulhearts-forge-1.20.1-4.2.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wQfMUdZT",
+      "versionId": "YpBT43to"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854213,
+      "fileId": 5438640
+    }
+  ],
   "forge": [
     {
       "modId": "colorfulhearts",

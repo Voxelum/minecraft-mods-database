@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "27fXQT3n",
+      "versionId": "jtGTI7JF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy-mipmaps",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.6+1.20.3"
+    }
+  ]
+}

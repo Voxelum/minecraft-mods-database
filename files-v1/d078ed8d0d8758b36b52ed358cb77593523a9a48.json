@@ -1,6 +1,12 @@
 {
   "name": "BOP-Patch-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 471242,
+      "fileId": 3276517
+    }
+  ],
   "forge": [
     {
       "modId": "bop_patch",

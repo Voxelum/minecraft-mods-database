@@ -1,6 +1,18 @@
 {
   "name": "bendy-lib-forge-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aRnIEV0F",
+      "versionId": "j2x8LByV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623373,
+      "fileId": 3930015
+    }
+  ],
   "forge": [
     {
       "modId": "bendylib",

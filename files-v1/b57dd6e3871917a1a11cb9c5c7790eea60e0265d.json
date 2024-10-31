@@ -1,6 +1,12 @@
 {
   "name": "bankstorage-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RyNZlwbP",
+      "versionId": "wgn4Qbu3"
+    }
+  ],
   "fabric": [
     {
       "modId": "bankstorage",

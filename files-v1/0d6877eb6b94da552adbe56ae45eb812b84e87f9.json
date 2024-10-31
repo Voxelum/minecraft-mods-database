@@ -1,6 +1,18 @@
 {
   "name": "celestial_1.19_forge-1.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J31lhO5V",
+      "versionId": "6zwONyNK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661111,
+      "fileId": 4601987
+    }
+  ],
   "forge": [
     {
       "modId": "celestial",

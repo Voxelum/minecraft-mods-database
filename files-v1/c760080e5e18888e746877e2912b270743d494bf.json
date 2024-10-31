@@ -1,6 +1,18 @@
 {
   "name": "rpmtw-platform-mod-1.16.5-1.5.4+1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZukQzaRP",
+      "versionId": "es46zN9m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 461500,
+      "fileId": 4414065
+    }
+  ],
   "forge": [
     {
       "modId": "rpmtw_platform_mod",

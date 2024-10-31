@@ -1,6 +1,18 @@
 {
   "name": "Geophilic v2.4.2 f15-48.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hl5OLM95",
+      "versionId": "RRNZbxAa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711216,
+      "fileId": 5482916
+    }
+  ],
   "forge": [
     {
       "modId": "geophilic",

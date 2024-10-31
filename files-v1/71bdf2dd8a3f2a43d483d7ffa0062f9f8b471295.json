@@ -1,6 +1,18 @@
 {
   "name": "rebindallthekeys.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TpKqzzMu",
+      "versionId": "vZL9YbsO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398407,
+      "fileId": 4691150
+    }
+  ],
   "fabric": [
     {
       "modId": "rebind_all_the_keys",

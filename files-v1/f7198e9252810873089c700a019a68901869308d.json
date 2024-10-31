@@ -1,0 +1,22 @@
+{
+  "name": "feur_builder_1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aYUGK1CP",
+      "versionId": "quPUWpph"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "feur_builder",
+      "version": "1.1.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feur_builder",
+      "version": "1.1.2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrationaddondungeonsenhanced-fabric-1.17-1.20.1-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1008041,
+      "fileId": 5290794
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrationaddondungeonsenhanced",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrationaddondungeonsenhanced",
+      "version": "1.17-1.20.1-1.1"
+    }
+  ]
+}

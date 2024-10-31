@@ -1,6 +1,18 @@
 {
   "name": "wakes-0.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dlNu0RQY",
+      "versionId": "LjwkhKxc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 884267,
+      "fileId": 5261686
+    }
+  ],
   "fabric": [
     {
       "modId": "wakes",

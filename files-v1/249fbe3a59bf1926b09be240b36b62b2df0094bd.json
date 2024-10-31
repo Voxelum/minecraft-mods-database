@@ -1,6 +1,18 @@
 {
   "name": "wherearemytms-2.1.2-hotfix.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vFNJtZsv",
+      "versionId": "Df3y9tvE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923243,
+      "fileId": 4997907
+    }
+  ],
   "fabric": [
     {
       "modId": "wherearemytms",

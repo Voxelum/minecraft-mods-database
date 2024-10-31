@@ -1,6 +1,18 @@
 {
   "name": "Dimensional-Paintings-1.19.2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fp8IRgq4",
+      "versionId": "tc7irVxA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 480500,
+      "fileId": 4363227
+    }
+  ],
   "forge": [
     {
       "modId": "dimpaintings",

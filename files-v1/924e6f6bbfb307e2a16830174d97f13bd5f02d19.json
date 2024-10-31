@@ -1,6 +1,18 @@
 {
   "name": "slot-swap-1.1.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6130k0mF",
+      "versionId": "z9jdRGPY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 700985,
+      "fileId": 4643938
+    }
+  ],
   "fabric": [
     {
       "modId": "slotswap",

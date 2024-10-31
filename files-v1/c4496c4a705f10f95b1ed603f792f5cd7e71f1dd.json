@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7SDalH12",
+      "versionId": "iNR8IwQB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 380649,
+      "fileId": 5672739
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricshieldlib",
+      "version": "1.7.2-1.21.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.8"
+    }
+  ]
+}

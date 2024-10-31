@@ -1,6 +1,18 @@
 {
   "name": "villagerconfig-4.1.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OClpEDe3",
+      "versionId": "BeVW8b1q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400741,
+      "fileId": 5041753
+    }
+  ],
   "fabric": [
     {
       "modId": "villagerconfig",

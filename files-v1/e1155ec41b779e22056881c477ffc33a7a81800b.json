@@ -1,6 +1,18 @@
 {
   "name": "unidentifiedenchantments-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AxVt9DPr",
+      "versionId": "6e6GXSqT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 582401,
+      "fileId": 4724987
+    }
+  ],
   "forge": [
     {
       "modId": "unidentifiedenchantments",

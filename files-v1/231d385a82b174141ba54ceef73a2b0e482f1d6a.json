@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "otVJckYQ",
+      "versionId": "fLxqKl9W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521427,
+      "fileId": 5821271
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "citresewn",
+      "version": "1.2.2+1.20.4"
+    },
+    {
+      "modId": "citresewn-defaults",
+      "version": "1.2.1+1.20.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "tidal-towns-1.3.3_1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EEIwvQVo",
+      "versionId": "jDWWQDU8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891880,
+      "fileId": 5615688
+    }
+  ],
   "forge": [
     {
       "modId": "mr_tidal_towns",

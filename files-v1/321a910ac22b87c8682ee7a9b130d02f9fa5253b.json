@@ -1,6 +1,18 @@
 {
   "name": "simplefog-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Glp1bwYc",
+      "versionId": "jDY7kR4t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622640,
+      "fileId": 4576681
+    }
+  ],
   "fabric": [
     {
       "modId": "simplefog",

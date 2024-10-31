@@ -1,6 +1,18 @@
 {
   "name": "antiquedragons-1.16.5-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pK1N5vKQ",
+      "versionId": "psIU4kwW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561294,
+      "fileId": 3583853
+    }
+  ],
   "forge": [
     {
       "modId": "antiquedragons",

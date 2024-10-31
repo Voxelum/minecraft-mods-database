@@ -1,6 +1,18 @@
 {
   "name": "noHurtCam-1-1.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oxuLaIL0",
+      "versionId": "1cE3sXkg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 470481,
+      "fileId": 3352927
+    }
+  ],
   "fabric": [
     {
       "modId": "nohurtcam",

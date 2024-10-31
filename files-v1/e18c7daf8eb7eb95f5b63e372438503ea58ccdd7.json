@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BVzZfTc1",
+      "versionId": "Ea6XttK3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568563,
+      "fileId": 5734422
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "entity_texture_features",
+      "version": "6.2.5"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.10"
+    }
+  ]
+}

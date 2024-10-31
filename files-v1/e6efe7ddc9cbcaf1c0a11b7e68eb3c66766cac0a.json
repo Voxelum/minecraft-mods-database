@@ -1,6 +1,12 @@
 {
   "name": "actually-camel-1.0-SNAPSHOT.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nNuyKQwp",
+      "versionId": "MFuMx8Gw"
+    }
+  ],
   "fabric": [
     {
       "modId": "actually-camel",

@@ -1,6 +1,18 @@
 {
   "name": "calmmornings-1.19.3-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gfvSVUz9",
+      "versionId": "1LEgRjS6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 683324,
+      "fileId": 4166525
+    }
+  ],
   "forge": [
     {
       "modId": "calmmornings",

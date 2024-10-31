@@ -1,6 +1,18 @@
 {
   "name": "constructsarmory-forge-2.0.0-alpha.21.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3YqSAP5w",
+      "versionId": "WYOF9zWs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867883,
+      "fileId": 4559247
+    }
+  ],
   "forge": [
     {
       "modId": "constructsarmory",

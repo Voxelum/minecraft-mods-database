@@ -1,6 +1,18 @@
 {
   "name": "Clumps-fabric-1.21-18.0.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wnxd13zP",
+      "versionId": "fgAAuioX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256717,
+      "fileId": 5600956
+    }
+  ],
   "fabric": [
     {
       "modId": "clumps",

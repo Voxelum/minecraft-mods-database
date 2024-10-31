@@ -1,6 +1,18 @@
 {
   "name": "no_resource_pack_warnings_forge-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cWtswsPK",
+      "versionId": "snJEGMe7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 954810,
+      "fileId": 4987606
+    }
+  ],
   "forge": [
     {
       "modId": "no_resource_pack_warnings_forge",

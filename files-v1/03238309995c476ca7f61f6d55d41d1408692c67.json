@@ -1,6 +1,12 @@
 {
   "name": "sushi_bar-0.2.2+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tr2Mv6ke",
+      "versionId": "jr9lc3k8"
+    }
+  ],
   "fabric": [
     {
       "modId": "sushi_bar",

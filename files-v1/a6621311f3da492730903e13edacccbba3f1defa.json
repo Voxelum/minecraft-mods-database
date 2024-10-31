@@ -1,0 +1,66 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3je4UK0t",
+      "versionId": "FcB0DigX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 902155,
+      "fileId": 5291263
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "silk-api",
+      "version": "1.20-0.3.1"
+    },
+    {
+      "modId": "silk-api-base",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-codex",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-generate",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-landform",
+      "version": "0.1.1+1.20"
+    },
+    {
+      "modId": "silk-magic-cube",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-mod-pass",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-mod-up",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-pattern",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-rope-stick",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-spinning-jenny",
+      "version": "0.1.0+1.20"
+    },
+    {
+      "modId": "silk-spore",
+      "version": "0.1.0+1.20"
+    }
+  ]
+}

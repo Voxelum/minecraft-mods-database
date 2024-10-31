@@ -1,6 +1,18 @@
 {
   "name": "mes-1.3.1-1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4PuRGfV",
+      "versionId": "UVCxM93W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892382,
+      "fileId": 5261863
+    }
+  ],
   "forge": [
     {
       "modId": "mes",

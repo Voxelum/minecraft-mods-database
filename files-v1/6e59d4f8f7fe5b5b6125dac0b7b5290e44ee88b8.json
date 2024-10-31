@@ -1,0 +1,26 @@
+{
+  "name": "Paxi-1.21.1-Fabric-5.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CU0PAyzb",
+      "versionId": "8NOIMjA6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418881,
+      "fileId": 5843159
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paxi",
+      "version": "1.21.1-Fabric-5.1.2"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

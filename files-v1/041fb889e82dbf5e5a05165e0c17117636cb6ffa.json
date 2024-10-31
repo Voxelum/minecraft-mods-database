@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y5Ve4Ui4",
+      "versionId": "ckTy9ATl"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "antique_atlas",
+      "version": "2.9.12+1.21"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antique-atlas",
+      "version": "2.9.12+1.21"
+    },
+    {
+      "modId": "surveyor",
+      "version": "0.6.11+1.21"
+    }
+  ]
+}

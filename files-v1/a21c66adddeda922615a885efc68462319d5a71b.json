@@ -1,6 +1,18 @@
 {
   "name": "sodiumextras-forge-1.0.6-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vqqx0QiE",
+      "versionId": "wqmvsekQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558905,
+      "fileId": 5807590
+    }
+  ],
   "forge": [
     {
       "modId": "sodiumextras",

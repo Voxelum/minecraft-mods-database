@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e8mI328p",
+      "versionId": "kCgJ13Sw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880596,
+      "fileId": 5572012
+    }
+  ],
+  "forge": [
+    {
+      "modId": "quickrightclick",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickrightclick",
+      "version": "1.5"
+    }
+  ]
+}

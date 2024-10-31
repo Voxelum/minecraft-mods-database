@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "playerpronouns",
+      "version": "2.2.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0+1.21"
+    }
+  ]
+}

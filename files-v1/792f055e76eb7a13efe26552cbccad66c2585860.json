@@ -1,6 +1,18 @@
 {
   "name": "etched-3.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zi3Fnfmc",
+      "versionId": "M178L4Do"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491890,
+      "fileId": 5344499
+    }
+  ],
   "forge": [
     {
       "modId": "etched",

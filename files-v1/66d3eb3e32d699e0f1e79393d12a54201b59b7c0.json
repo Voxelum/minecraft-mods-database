@@ -1,0 +1,26 @@
+{
+  "name": "Pehkui-2.5.3+1.14.4-1.18.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "SVt0OGM2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 3501603
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "2.5.3+1.14.4-1.18"
+    },
+    {
+      "modId": "kanos_config",
+      "version": "0.1.4+1.14.4-1.17.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "butcher-2.5.9-forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6YfOmC9t",
+      "versionId": "3MghuC7f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973620,
+      "fileId": 5746912
+    }
+  ],
   "forge": [
     {
       "modId": "butcher",

@@ -1,6 +1,12 @@
 {
   "name": "dusk-1.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 468908,
+      "fileId": 3298234
+    }
+  ],
   "forge": [
     {
       "modId": "dusk",

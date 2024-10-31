@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hTGmExq6",
+      "versionId": "AFJmSGsm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410911,
+      "fileId": 5609652
+    }
+  ],
+  "forge": [
+    {
+      "modId": "guifollowers",
+      "version": "3.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guifollowers",
+      "version": "3.8"
+    }
+  ]
+}

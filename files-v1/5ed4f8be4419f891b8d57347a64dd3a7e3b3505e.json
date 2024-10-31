@@ -1,6 +1,18 @@
 {
   "name": "Reblured-1.19.1-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s4G3ZCcv",
+      "versionId": "4OPjCRWi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637729,
+      "fileId": 3953081
+    }
+  ],
   "forge": [
     {
       "modId": "reblured",

@@ -1,6 +1,12 @@
 {
   "name": "irons_spells_js-1.19.2-2.0.1-release.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 980834,
+      "fileId": 5250158
+    }
+  ],
   "forge": [
     {
       "modId": "irons_spells_js",

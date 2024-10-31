@@ -1,6 +1,12 @@
 {
   "name": "oxirods-1.20.1-7-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fyn3yif8",
+      "versionId": "3Uz8gwlc"
+    }
+  ],
   "fabric": [
     {
       "modId": "oxirods",

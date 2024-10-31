@@ -1,6 +1,18 @@
 {
   "name": "Campanion-v4.1.1-forge-for-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y2Rds0HS",
+      "versionId": "FZUkMnCt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695928,
+      "fileId": 4119824
+    }
+  ],
   "forge": [
     {
       "modId": "campanion",

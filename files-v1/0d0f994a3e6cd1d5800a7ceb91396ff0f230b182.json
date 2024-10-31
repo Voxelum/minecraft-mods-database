@@ -1,6 +1,18 @@
 {
   "name": "configurabledespawntimer_1.16.5-2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9olMJ5Qp",
+      "versionId": "QGHk0Slm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347751,
+      "fileId": 3416546
+    }
+  ],
   "forge": [
     {
       "modId": "configurabledespawntimer",

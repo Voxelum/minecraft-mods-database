@@ -1,6 +1,12 @@
 {
   "name": "Iron barrel 1.18.x v1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 521212,
+      "fileId": 3782807
+    }
+  ],
   "forge": [
     {
       "modId": "iron_barrel",

@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "immersive_portals_core",
+      "version": "${mod_version}"
+    }
+  ]
+}

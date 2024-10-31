@@ -1,6 +1,18 @@
 {
   "name": "simplywalk-0.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQ8Qr4tT",
+      "versionId": "jD1d5xqX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945467,
+      "fileId": 5160695
+    }
+  ],
   "forge": [
     {
       "modId": "simplywalk",

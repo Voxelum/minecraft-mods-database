@@ -1,6 +1,18 @@
 {
   "name": "the_midnight_lurker_1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "obLxUQbm",
+      "versionId": "LxF0zjJs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923133,
+      "fileId": 4815072
+    }
+  ],
   "forge": [
     {
       "modId": "midnightlurker",

@@ -1,6 +1,12 @@
 {
   "name": "now-playing-fabric-1.4.4-blanketcon.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eNF4Bfla",
+      "versionId": "aJrIHaRL"
+    }
+  ],
   "fabric": [
     {
       "modId": "now-playing",

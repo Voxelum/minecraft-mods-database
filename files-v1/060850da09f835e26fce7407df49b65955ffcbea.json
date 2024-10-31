@@ -1,6 +1,18 @@
 {
   "name": "Butchersdelight beta 1.19.2 2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B0xSlae0",
+      "versionId": "rM99ztQ9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551909,
+      "fileId": 5228906
+    }
+  ],
   "forge": [
     {
       "modId": "butchersdelight",

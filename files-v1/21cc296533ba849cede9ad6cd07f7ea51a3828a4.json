@@ -1,6 +1,18 @@
 {
   "name": "Controlling-fabric-1.21-18.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "5gwvsIP7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250398,
+      "fileId": 5444002
+    }
+  ],
   "fabric": [
     {
       "modId": "controlling",

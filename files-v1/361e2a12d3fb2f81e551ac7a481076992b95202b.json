@@ -1,6 +1,18 @@
 {
   "name": "smarterfarmers-1.20-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh6ZOMvp",
+      "versionId": "q4GptzFS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491290,
+      "fileId": 5699535
+    }
+  ],
   "forge": [
     {
       "modId": "smarterfarmers",

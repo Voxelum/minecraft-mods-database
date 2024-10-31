@@ -1,6 +1,18 @@
 {
   "name": "immersiveui-fabric-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9wv7LuMc",
+      "versionId": "GmnsuRRY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1021685,
+      "fileId": 5472962
+    }
+  ],
   "fabric": [
     {
       "modId": "immersiveui",

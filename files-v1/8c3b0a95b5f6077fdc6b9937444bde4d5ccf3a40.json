@@ -1,6 +1,18 @@
 {
   "name": "autooredictconv-1.19.2-19.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lTs2oNkY",
+      "versionId": "f6NIemZv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232650,
+      "fileId": 4502857
+    }
+  ],
   "forge": [
     {
       "modId": "autooredictconv",

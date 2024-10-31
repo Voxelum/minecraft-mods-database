@@ -1,6 +1,18 @@
 {
   "name": "Feather-To-String 1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N2YWDJMK",
+      "versionId": "4qSy0z1j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508379,
+      "fileId": 4194334
+    }
+  ],
   "forge": [
     {
       "modId": "feathertostring",

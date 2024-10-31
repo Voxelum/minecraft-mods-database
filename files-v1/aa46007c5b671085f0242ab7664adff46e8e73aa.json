@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPVN4aiJ",
+      "versionId": "whSMYPQp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663273,
+      "fileId": 5334856
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanyplayers",
+      "version": "1.20.6-1.1.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "10.0.0+1.20.6"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.5"
+    }
+  ]
+}

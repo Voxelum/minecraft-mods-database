@@ -1,6 +1,18 @@
 {
   "name": "chatwalk-1.0.2.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5nvgP7I",
+      "versionId": "A9jUptwZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056705,
+      "fileId": 5499259
+    }
+  ],
   "fabric": [
     {
       "modId": "chatwalk",

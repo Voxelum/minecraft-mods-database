@@ -1,0 +1,46 @@
+{
+  "name": "lenientdeath-1.2.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bfi1KBJV",
+      "versionId": "IW1ybjYt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506536,
+      "fileId": 5619921
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lenientdeath",
+      "version": "1.2.5+1.20.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "jackfredlib-base",
+      "version": "1.4.0+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-config",
+      "version": "0.2.3+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-colour",
+      "version": "1.1.0+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-lying",
+      "version": "0.5.6+1.20.1"
+    }
+  ]
+}

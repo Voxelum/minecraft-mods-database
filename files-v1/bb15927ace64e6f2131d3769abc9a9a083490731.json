@@ -1,6 +1,12 @@
 {
   "name": "lodestone-1.20.1-1.6.2.1b-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bN3xUWdo",
+      "versionId": "1BPR6Vne"
+    }
+  ],
   "fabric": [
     {
       "modId": "lodestone",

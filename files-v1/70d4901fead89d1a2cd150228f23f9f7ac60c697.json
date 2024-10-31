@@ -1,6 +1,18 @@
 {
   "name": "moreculling-fabric-1.21.1-1.0.0-beta.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "EvXdVs5f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630104,
+      "fileId": 5773102
+    }
+  ],
   "fabric": [
     {
       "modId": "moreculling",

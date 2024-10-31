@@ -1,6 +1,18 @@
 {
   "name": "treetap-1.20.1-0.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfRXH3hR",
+      "versionId": "jbsag0ae"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927874,
+      "fileId": 4968758
+    }
+  ],
   "forge": [
     {
       "modId": "treetap",

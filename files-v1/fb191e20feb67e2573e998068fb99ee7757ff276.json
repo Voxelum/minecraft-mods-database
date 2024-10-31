@@ -1,6 +1,18 @@
 {
   "name": "eugenes_lance-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YmxBeDh9",
+      "versionId": "jESCe0qN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943501,
+      "fileId": 5240044
+    }
+  ],
   "fabric": [
     {
       "modId": "eugenes_lance",

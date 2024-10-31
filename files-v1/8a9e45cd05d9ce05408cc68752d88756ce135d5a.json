@@ -1,6 +1,18 @@
 {
   "name": "CreateCompression-1.20.1-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bgEPzFnZ",
+      "versionId": "nhuh05Dr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945214,
+      "fileId": 5120077
+    }
+  ],
   "forge": [
     {
       "modId": "createcompression",

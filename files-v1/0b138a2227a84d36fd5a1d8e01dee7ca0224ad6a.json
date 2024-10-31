@@ -1,6 +1,18 @@
 {
   "name": "aquacombat-1.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k9CzFr8q",
+      "versionId": "QlNdXhDe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 811194,
+      "fileId": 4967385
+    }
+  ],
   "forge": [
     {
       "modId": "aquacombat",

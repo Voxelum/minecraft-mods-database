@@ -1,4 +1,16 @@
 {
   "name": "Paxi-1.21-NeoForge-5.0.0.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CU0PAyzb",
+      "versionId": "SELXigfX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1015157,
+      "fileId": 5562760
+    }
+  ]
 }

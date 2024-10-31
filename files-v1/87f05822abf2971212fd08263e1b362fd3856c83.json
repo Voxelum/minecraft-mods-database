@@ -1,6 +1,18 @@
 {
   "name": "spyglass_of_curios-forge-1.19.2-1.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HmH1GVFY",
+      "versionId": "M4ChhLSd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 941332,
+      "fileId": 5062459
+    }
+  ],
   "forge": [
     {
       "modId": "spyglass_of_curios",

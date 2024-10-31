@@ -1,6 +1,18 @@
 {
   "name": "environmentalcreepers-fabric-1.18.0-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2tZXc39v",
+      "versionId": "GG0jPgds"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246320,
+      "fileId": 3556434
+    }
+  ],
   "fabric": [
     {
       "modId": "environmentalcreepers",

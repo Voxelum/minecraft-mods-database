@@ -1,6 +1,18 @@
 {
   "name": "betterlily-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRgsGZ6B",
+      "versionId": "7BHPkYI0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 626812,
+      "fileId": 3808620
+    }
+  ],
   "forge": [
     {
       "modId": "betterlily",

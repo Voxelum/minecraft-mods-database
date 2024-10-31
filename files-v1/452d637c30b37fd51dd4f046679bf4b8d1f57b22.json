@@ -1,6 +1,12 @@
 {
   "name": "dynmus-1.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 430824,
+      "fileId": 3392990
+    }
+  ],
   "forge": [
     {
       "modId": "dynmus",

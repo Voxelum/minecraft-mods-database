@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OtSTiI0D",
+      "versionId": "B47LRHyi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 990498,
+      "fileId": 5352726
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spectral-decorations",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.2.0+1.19.2"
+    },
+    {
+      "modId": "arrowhead",
+      "version": "1.2.1-1.19.2"
+    },
+    {
+      "modId": "reverb",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fractal",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.9.4"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aZhtZo3k",
+      "versionId": "Xx3tFtgr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vulpeus_carpet",
+      "version": "2.0.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+c47b9d4373"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.35+c47b9d4373"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 561059,
+      "fileId": 5454848
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chiselsandbits",
+      "version": "1.4.157"
+    },
+    {
+      "modId": "org_lz4_lz4-pure-java",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "scena",
+      "version": "1.0.141"
+    },
+    {
+      "modId": "mod_chiselsandbits_api",
+      "version": "1.4.157"
+    },
+    {
+      "modId": "mod_chiselsandbits_core",
+      "version": "1.4.157"
+    }
+  ]
+}

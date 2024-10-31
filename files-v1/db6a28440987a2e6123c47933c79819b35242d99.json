@@ -1,6 +1,18 @@
 {
   "name": "noisium-fabric-2.2.0+mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KuNKN7d2",
+      "versionId": "ZXBMeSZ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930207,
+      "fileId": 5453767
+    }
+  ],
   "fabric": [
     {
       "modId": "noisium",

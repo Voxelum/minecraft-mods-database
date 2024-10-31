@@ -1,6 +1,18 @@
 {
   "name": "sorted_enchantments-1.0.1+1.19.3+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jmHEp0Dv",
+      "versionId": "7YeriQiy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974256,
+      "fileId": 5104757
+    }
+  ],
   "fabric": [
     {
       "modId": "sortedenchantments",

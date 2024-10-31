@@ -1,6 +1,12 @@
 {
   "name": "physics-mod-3.0.7-mc-1.20-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 442735,
+      "fileId": 4740903
+    }
+  ],
   "forge": [
     {
       "modId": "physicsmod",

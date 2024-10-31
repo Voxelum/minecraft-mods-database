@@ -1,6 +1,18 @@
 {
   "name": "your-reputation-0.2.7+jade.1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uDBLJfwG",
+      "versionId": "JXo4YAP3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038051,
+      "fileId": 5591758
+    }
+  ],
   "fabric": [
     {
       "modId": "reputation",

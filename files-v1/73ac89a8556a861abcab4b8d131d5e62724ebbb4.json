@@ -1,6 +1,18 @@
 {
   "name": "medieval-1.20.1-1.4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xtbCwT29",
+      "versionId": "VqxAgeZa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1055023,
+      "fileId": 5741045
+    }
+  ],
   "forge": [
     {
       "modId": "medieval",

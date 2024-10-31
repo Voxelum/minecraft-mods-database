@@ -1,0 +1,24 @@
+{
+  "name": "easyfind.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N9RJtCKs",
+      "versionId": "4Okqljs8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easyfind",
+      "version": "1.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "me_xdrop_fuzzywuzzy",
+      "version": "1.4.0"
+    }
+  ]
+}

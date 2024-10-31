@@ -1,6 +1,18 @@
 {
   "name": "motionblur-1.0.5+mc1.19-1.20.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fWundlde",
+      "versionId": "faEjqq4x"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 719833,
+      "fileId": 5368111
+    }
+  ],
   "fabric": [
     {
       "modId": "motionblur",

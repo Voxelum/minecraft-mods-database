@@ -1,6 +1,18 @@
 {
   "name": "passiveshield-1.21.1-3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iQBrasyH",
+      "versionId": "JHDwkSNU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447359,
+      "fileId": 5609539
+    }
+  ],
   "forge": [
     {
       "modId": "passiveshield",

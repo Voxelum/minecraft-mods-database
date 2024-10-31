@@ -1,6 +1,18 @@
 {
   "name": "convenientdecor-0.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gMWAhU1n",
+      "versionId": "N5ZG6AIP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 794452,
+      "fileId": 5517730
+    }
+  ],
   "fabric": [
     {
       "modId": "convenientdecor",

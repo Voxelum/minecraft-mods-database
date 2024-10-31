@@ -1,6 +1,12 @@
 {
   "name": "angelica-1.0.0-alpha50.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XN5jnYB4",
+      "versionId": "lAi8MbZn"
+    }
+  ],
   "forge": [
     {
       "modId": "mcpatcherforge",

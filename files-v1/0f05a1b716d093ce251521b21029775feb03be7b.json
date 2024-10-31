@@ -1,6 +1,18 @@
 {
   "name": "CustomNPCs-1.20.1-Port-Unofficial-20240709.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vFAmwl6B",
+      "versionId": "27L1rWyG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1052708,
+      "fileId": 5517146
+    }
+  ],
   "forge": [
     {
       "modId": "customnpcs",

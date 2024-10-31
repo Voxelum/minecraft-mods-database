@@ -1,6 +1,12 @@
 {
   "name": "Plummet-1.12.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WK05VLKO",
+      "versionId": "LTciFQ5R"
+    }
+  ],
   "forge": [
     {
       "modId": "plummet",

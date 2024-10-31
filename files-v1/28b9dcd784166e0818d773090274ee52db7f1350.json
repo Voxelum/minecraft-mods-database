@@ -1,6 +1,12 @@
 {
   "name": "CapabilityProxy-1.12.2-2.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 266479,
+      "fileId": 2615001
+    }
+  ],
   "forge": [
     {
       "modId": "capabilityproxy",

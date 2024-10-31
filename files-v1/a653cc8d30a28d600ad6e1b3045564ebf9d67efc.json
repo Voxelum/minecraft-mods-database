@@ -1,6 +1,18 @@
 {
   "name": "stendhal-1.4.1-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BWloQ9jK",
+      "versionId": "I3a5043B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463457,
+      "fileId": 5508470
+    }
+  ],
   "fabric": [
     {
       "modId": "stendhal",

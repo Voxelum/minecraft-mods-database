@@ -1,6 +1,18 @@
 {
   "name": "timestamp-chat-fabric-2.4.0+1.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2lAPv09G",
+      "versionId": "Qfba50Wr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373235,
+      "fileId": 4665204
+    }
+  ],
   "fabric": [
     {
       "modId": "timestamp_chat",

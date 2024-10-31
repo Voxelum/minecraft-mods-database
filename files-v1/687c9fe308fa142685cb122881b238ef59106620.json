@@ -1,6 +1,18 @@
 {
   "name": "!chanceglobe-1.12.2-v1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ubXBfZnW",
+      "versionId": "74nZ9Qxe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 315862,
+      "fileId": 2817366
+    }
+  ],
   "forge": [
     {
       "modId": "chanceglobe",

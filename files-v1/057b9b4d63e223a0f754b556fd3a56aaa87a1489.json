@@ -1,6 +1,12 @@
 {
   "name": "worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225608,
+      "fileId": 2655056
+    }
+  ],
   "forge": [
     {
       "modId": "worldedit",

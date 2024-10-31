@@ -1,6 +1,18 @@
 {
   "name": "【自定义光标】ForgeCustomCursorMod-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "57tyahcz",
+      "versionId": "fmeNRQ5l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 278476,
+      "fileId": 3319670
+    }
+  ],
   "forge": [
     {
       "modId": "customcursormod",

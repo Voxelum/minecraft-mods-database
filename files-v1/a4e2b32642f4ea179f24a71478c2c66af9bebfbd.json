@@ -1,6 +1,18 @@
 {
   "name": "desert-dungeon-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zun2vT3k",
+      "versionId": "dGOSSdyX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1026054,
+      "fileId": 5376467
+    }
+  ],
   "fabric": [
     {
       "modId": "desert_dungeon",

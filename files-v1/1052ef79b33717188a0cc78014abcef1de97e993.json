@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rbMt0AmF",
+      "versionId": "pASKeeUv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 805714,
+      "fileId": 5424302
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "halohud",
+      "version": "4.3+1.21"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "1.21.0"
+    }
+  ]
+}

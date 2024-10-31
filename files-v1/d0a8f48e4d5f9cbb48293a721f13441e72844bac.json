@@ -1,6 +1,12 @@
 {
   "name": "Block Swap-forge-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 468893,
+      "fileId": 3819266
+    }
+  ],
   "forge": [
     {
       "modId": "blockswap",

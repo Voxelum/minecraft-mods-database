@@ -1,6 +1,18 @@
 {
   "name": "travelersbackpack-fabric-1.20.1-9.1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "xa2rNDt3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541171,
+      "fileId": 5365424
+    }
+  ],
   "fabric": [
     {
       "modId": "travelersbackpack",

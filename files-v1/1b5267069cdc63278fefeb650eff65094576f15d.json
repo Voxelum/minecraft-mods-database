@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZZwVawuB",
+      "versionId": "vS5wLIeC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968546,
+      "fileId": 5639079
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mob_drops_recipes_nether",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mob_drops_recipes_nether",
+      "version": "2.1.0"
+    }
+  ]
+}

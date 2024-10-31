@@ -1,6 +1,18 @@
 {
   "name": "questutils-0.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g2zIBpiP",
+      "versionId": "bwq3YBP2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291674,
+      "fileId": 2660162
+    }
+  ],
   "forge": [
     {
       "modId": "questutils",

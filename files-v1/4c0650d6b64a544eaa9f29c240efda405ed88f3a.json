@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vUaF67Ot",
+      "versionId": "UW31z8q5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038652,
+      "fileId": 5655583
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dragnvehicles",
+      "version": "${1.18.2-1.2.1}"
+    }
+  ]
+}

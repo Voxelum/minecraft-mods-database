@@ -1,0 +1,26 @@
+{
+  "name": "Zoomify-2.14.2+1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w7ThoJFB",
+      "versionId": "RKRjd2h1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574741,
+      "fileId": 5838117
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "2.14.2+1.21.3"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.5.2"
+    }
+  ]
+}

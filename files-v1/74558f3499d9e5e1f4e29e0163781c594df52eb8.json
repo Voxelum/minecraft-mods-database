@@ -1,6 +1,18 @@
 {
   "name": "better_climbing-forge-3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZucWZEBV",
+      "versionId": "DWFhllFz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 655619,
+      "fileId": 4589735
+    }
+  ],
   "forge": [
     {
       "modId": "better_climbing",

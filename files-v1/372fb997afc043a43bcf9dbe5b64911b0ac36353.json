@@ -1,6 +1,18 @@
 {
   "name": "primalmagick-4.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VlgDBPBy",
+      "versionId": "wuqFbAJr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 545271,
+      "fileId": 4965092
+    }
+  ],
   "forge": [
     {
       "modId": "primalmagick",

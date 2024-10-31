@@ -1,6 +1,18 @@
 {
   "name": "brickhopper-1.16.5-1.3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jm0xDE8P",
+      "versionId": "6G244M0l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442574,
+      "fileId": 3424022
+    }
+  ],
   "forge": [
     {
       "modId": "brickhopper",

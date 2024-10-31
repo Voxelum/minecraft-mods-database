@@ -1,6 +1,18 @@
 {
   "name": "probejs-5.3.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JJNYRb4B",
+      "versionId": "RHQ11l5Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585406,
+      "fileId": 5002340
+    }
+  ],
   "forge": [
     {
       "modId": "probejs",

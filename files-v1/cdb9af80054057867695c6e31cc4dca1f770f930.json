@@ -1,0 +1,38 @@
+{
+  "name": "paradise-lost-2.2.4-beta+1.20.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKpsG0nF",
+      "versionId": "IJLX3k9B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418680,
+      "fileId": 5726425
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paradise_lost",
+      "version": "2.2.4-beta+1.20.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65-1.20"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

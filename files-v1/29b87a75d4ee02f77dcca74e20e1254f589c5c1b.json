@@ -1,6 +1,18 @@
 {
   "name": "armorchroma-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pJnbPs9G",
+      "versionId": "aYgc2Tj9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550644,
+      "fileId": 4118397
+    }
+  ],
   "fabric": [
     {
       "modId": "armorchroma",

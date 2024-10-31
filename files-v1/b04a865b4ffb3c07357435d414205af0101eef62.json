@@ -1,10 +1,20 @@
 {
   "name": "almostunified-forge-1.20.1-0.9.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sdaSaQEz",
+      "versionId": "oTclC5Xa"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 633823,
       "fileId": 5517426
+    },
+    {
+      "projectId": 938643,
+      "fileId": 5109692
     }
   ],
   "forge": [

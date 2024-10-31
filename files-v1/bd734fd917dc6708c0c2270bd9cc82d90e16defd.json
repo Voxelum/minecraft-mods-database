@@ -1,6 +1,18 @@
 {
   "name": "DeathKnell-fabric-1.17.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WNdd2blX",
+      "versionId": "Me5zHAq9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538316,
+      "fileId": 3505882
+    }
+  ],
   "fabric": [
     {
       "modId": "deathknell",

@@ -1,6 +1,18 @@
 {
   "name": "ancient_aether-0.9.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6mVXdiOT",
+      "versionId": "wSvrXImw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886751,
+      "fileId": 5364191
+    }
+  ],
   "forge": [
     {
       "modId": "ancient_aether",

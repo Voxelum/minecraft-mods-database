@@ -1,6 +1,18 @@
 {
   "name": "thaumcraftaspectcreator-1.12.2-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eJBJWKoC",
+      "versionId": "UQt48Pln"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 725764,
+      "fileId": 4174562
+    }
+  ],
   "forge": [
     {
       "modId": "thaumcraftaspectcreator",

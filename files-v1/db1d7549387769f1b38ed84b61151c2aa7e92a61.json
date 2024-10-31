@@ -1,6 +1,18 @@
 {
   "name": "extragems-1.19.x-v.2.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zlSajLw3",
+      "versionId": "ufS2kf8C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 279180,
+      "fileId": 3999960
+    }
+  ],
   "forge": [
     {
       "modId": "extragems",

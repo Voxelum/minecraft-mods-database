@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UU7VUYKE",
+      "versionId": "XNsClldu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "alinlib",
+      "version": "2.0.2+mc1.21.2-pre3"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.3.4"
+    }
+  ]
+}

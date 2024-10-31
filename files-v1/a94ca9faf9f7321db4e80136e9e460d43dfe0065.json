@@ -1,6 +1,12 @@
 {
   "name": "Hurt Animation Remover (1.8.9).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 532021,
+      "fileId": 3475588
+    }
+  ],
   "forge": [
     {
       "modId": "hooklib",

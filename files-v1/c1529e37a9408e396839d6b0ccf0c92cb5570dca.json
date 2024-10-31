@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eii02wjv",
+      "versionId": "PUhaHgbb"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_chunk_loader",
+      "version": "1-v3.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_chunk_loader",
+      "version": "1-v3.0.1"
+    }
+  ]
+}

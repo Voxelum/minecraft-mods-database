@@ -1,6 +1,18 @@
 {
   "name": "embeddiumplus-1.19.2-v1.2.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yD9qW65f",
+      "versionId": "vl7EgGPN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 931925,
+      "fileId": 5255019
+    }
+  ],
   "forge": [
     {
       "modId": "embeddiumplus",

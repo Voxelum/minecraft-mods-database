@@ -1,6 +1,18 @@
 {
   "name": "macawsroofsbop-fabric-1.21-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5uSvd1Ca",
+      "versionId": "u7Eeiuax"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558344,
+      "fileId": 5564572
+    }
+  ],
   "fabric": [
     {
       "modId": "macawsroofsbop",

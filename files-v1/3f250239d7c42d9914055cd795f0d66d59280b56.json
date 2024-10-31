@@ -1,6 +1,18 @@
 {
   "name": "MoreCraftingTables-1.2.8+1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C5hwIsg1",
+      "versionId": "F1NJF7Dr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 913586,
+      "fileId": 5473304
+    }
+  ],
   "fabric": [
     {
       "modId": "lolmct",

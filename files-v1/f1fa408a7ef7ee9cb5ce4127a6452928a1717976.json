@@ -1,6 +1,18 @@
 {
   "name": "doomangelring-1.16.4-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpVrx0oi",
+      "versionId": "mMUGyU9m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394100,
+      "fileId": 3100595
+    }
+  ],
   "forge": [
     {
       "modId": "doomangelring",

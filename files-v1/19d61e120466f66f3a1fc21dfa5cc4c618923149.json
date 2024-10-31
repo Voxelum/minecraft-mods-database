@@ -1,6 +1,18 @@
 {
   "name": "createloveandwar-0.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "71LJXmxX",
+      "versionId": "2Opp4M0A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969517,
+      "fileId": 5559193
+    }
+  ],
   "forge": [
     {
       "modId": "createloveandwar",

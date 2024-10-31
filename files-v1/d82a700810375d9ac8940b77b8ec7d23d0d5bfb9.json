@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5710VC7f",
+      "versionId": "yqKSKUUg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polydecorations",
+      "version": "0.5.0+1.21.3"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.7.2+1.21.2"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "factorytools",
+      "version": "0.4.0+1.21.3"
+    },
+    {
+      "modId": "map-canvas-api",
+      "version": "0.5.0+1.21.3"
+    }
+  ]
+}

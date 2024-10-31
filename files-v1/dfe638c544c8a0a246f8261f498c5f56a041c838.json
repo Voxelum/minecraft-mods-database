@@ -1,6 +1,18 @@
 {
   "name": "CommonCapabilities-1.18.2-2.8.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oFXrCkDI",
+      "versionId": "v12QARWs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247007,
+      "fileId": 3768491
+    }
+  ],
   "forge": [
     {
       "modId": "commoncapabilities",

@@ -1,6 +1,18 @@
 {
   "name": "MissingWilds-forge-1.2.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nw0MStSd",
+      "versionId": "CUyy6u4Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634277,
+      "fileId": 5163537
+    }
+  ],
   "forge": [
     {
       "modId": "missingwilds",

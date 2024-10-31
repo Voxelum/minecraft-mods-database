@@ -1,0 +1,28 @@
+{
+  "name": "Estrogen-4.1.0+1.18.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HhIJW8n1",
+      "versionId": "4zTNCX2c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850410,
+      "fileId": 5337734
+    }
+  ],
+  "forge": [
+    {
+      "modId": "estrogen",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "estrogen",
+      "version": "4.1.0+1.18.2-fabric"
+    }
+  ]
+}

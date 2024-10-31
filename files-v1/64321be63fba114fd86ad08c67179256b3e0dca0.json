@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JcIgEOzn",
+      "versionId": "3vRw9iye"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 528338,
+      "fileId": 5799129
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhanced_quarries",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

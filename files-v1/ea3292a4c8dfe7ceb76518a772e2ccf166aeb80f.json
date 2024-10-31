@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r78TzJYQ",
+      "versionId": "P6Q3hwOf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "p2p",
+      "version": "0.0.14-1.21.1-alpha"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

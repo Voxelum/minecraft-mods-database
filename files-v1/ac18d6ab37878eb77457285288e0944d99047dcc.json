@@ -1,6 +1,12 @@
 {
   "name": "RedstoneRepository-1.12.2-1.4.0-dev-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 300750,
+      "fileId": 2695517
+    }
+  ],
   "forge": [
     {
       "modId": "redstonerepository",

@@ -1,6 +1,12 @@
 {
   "name": "no-potion-offset-1.0.2 эфекты не сдвигают инвент.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 361550,
+      "fileId": 3356807
+    }
+  ],
   "forge": [
     {
       "modId": "no-potion-offset",

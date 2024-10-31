@@ -1,6 +1,18 @@
 {
   "name": "letsdo-bloomingnature-forge-1.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4Vno77MY",
+      "versionId": "Br0wYTzz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962885,
+      "fileId": 5620887
+    }
+  ],
   "forge": [
     {
       "modId": "bloomingnature",

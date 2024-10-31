@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HWTzL9KT",
+      "versionId": "CMxn0oeG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1031746,
+      "fileId": 5402986
+    }
+  ],
+  "forge": [
+    {
+      "modId": "boss_blades",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "boss_blades",
+      "version": "1.0.0"
+    }
+  ]
+}

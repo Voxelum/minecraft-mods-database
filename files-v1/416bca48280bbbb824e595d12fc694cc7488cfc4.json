@@ -1,6 +1,12 @@
 {
   "name": "gpumemleakfix-fabric-1.21-1.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 882495,
+      "fileId": 5513550
+    }
+  ],
   "fabric": [
     {
       "modId": "gpumemleakfix",

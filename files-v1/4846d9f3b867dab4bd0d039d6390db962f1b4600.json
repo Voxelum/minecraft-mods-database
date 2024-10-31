@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bettercombat",
+      "version": "1.8.6+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

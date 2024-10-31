@@ -1,6 +1,18 @@
 {
   "name": "lucent-1.19.2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JE0fgMUp",
+      "versionId": "s6Xm8fY6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 493280,
+      "fileId": 4085139
+    }
+  ],
   "forge": [
     {
       "modId": "lucent",

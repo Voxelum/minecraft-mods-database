@@ -1,10 +1,22 @@
 {
   "name": "entity_model_features_fabric_1.20.1-2.2.jar",
-  "domain": "resourcepacks",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4I1XuqiY",
+      "versionId": "BQzSPC9r"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 844662,
       "fileId": 5646344
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "entity_model_features",
+      "version": "2.2"
     }
   ]
 }

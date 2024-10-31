@@ -1,6 +1,18 @@
 {
   "name": "fullerspkcenter-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6dyylOH1",
+      "versionId": "txVVemow"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 978819,
+      "fileId": 5132181
+    }
+  ],
   "fabric": [
     {
       "modId": "tutorialmod",

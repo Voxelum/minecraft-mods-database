@@ -1,6 +1,18 @@
 {
   "name": "my-beloved-icon-1.0-SNAPSHOT.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hZeurLF3",
+      "versionId": "wef7tKQT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871571,
+      "fileId": 4572165
+    }
+  ],
   "fabric": [
     {
       "modId": "my-beloved-icon",

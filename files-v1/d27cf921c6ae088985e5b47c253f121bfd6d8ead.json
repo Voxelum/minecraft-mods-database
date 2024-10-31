@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fastback",
+      "version": "0.19.0+1.21-fabric"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "com_googlecode_javaewah_javaewah",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit_ssh_apache",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "org_apache_sshd_sshd-core",
+      "version": "2.12.1"
+    },
+    {
+      "modId": "org_apache_sshd_sshd-common",
+      "version": "2.12.1"
+    },
+    {
+      "modId": "net_i2p_crypto_eddsa",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

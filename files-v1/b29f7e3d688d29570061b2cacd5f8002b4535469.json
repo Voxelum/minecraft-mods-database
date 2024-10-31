@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8urnf7Th",
+      "versionId": "RJHcjg1O"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancedfmk",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "advancedfmk_mmdrenderer",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "advancedfmk_uicompositor",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "advancedfmk_commonutils",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.9.20"
+    },
+    {
+      "modId": "org_luaj_luaj-jse",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Adorn-2.2.0+1.17.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6FUtRJh",
+      "versionId": "3gGVHSPk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320215,
+      "fileId": 3495524
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adorn",
+      "version": "2.2.0+1.17.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "4.1.3+1.17.1"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterJungleTemples-1.21.1-Fabric-3.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z9Ve58Ih",
+      "versionId": "nePnRdr7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 897678,
+      "fileId": 5812493
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterjungletemples",
+      "version": "1.21.1-Fabric-3.1.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

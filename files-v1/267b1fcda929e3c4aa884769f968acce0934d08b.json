@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "metalbundles",
+      "version": "20.4.4"
+    },
+    {
+      "modId": "iteminteractions",
+      "version": "20.4.5"
+    }
+  ]
+}

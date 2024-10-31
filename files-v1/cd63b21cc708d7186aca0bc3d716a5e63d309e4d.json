@@ -1,6 +1,18 @@
 {
   "name": "custom-crosshair-mod-v1.6.0-fabric-mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o1tyE5vJ",
+      "versionId": "uM4PGwYW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242995,
+      "fileId": 5425070
+    }
+  ],
   "fabric": [
     {
       "modId": "custom-crosshair-mod",

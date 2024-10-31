@@ -1,6 +1,18 @@
 {
   "name": "OfflineCommands-1.0.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rkgXkDl7",
+      "versionId": "BLUue7Jp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040104,
+      "fileId": 5474021
+    }
+  ],
   "fabric": [
     {
       "modId": "offlinecommands",

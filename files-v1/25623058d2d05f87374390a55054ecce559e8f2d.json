@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EuloLapn",
+      "versionId": "F8iGvnmO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_animated_doors",
+      "version": "1.21"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_animated_doors",
+      "version": "1.21"
+    }
+  ]
+}

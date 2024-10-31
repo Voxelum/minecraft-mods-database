@@ -1,0 +1,20 @@
+{
+  "name": "create_interactive-1.0.3-beta.2+e045de2a48.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MyfCcqiE",
+      "versionId": "VLHAtRBQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_interactive",
+      "version": "1.0.3-beta.2+e045de2a48"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

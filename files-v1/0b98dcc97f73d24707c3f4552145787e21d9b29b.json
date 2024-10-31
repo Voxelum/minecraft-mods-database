@@ -1,6 +1,18 @@
 {
   "name": "TFCTumbleweed-1.20.1-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r96Vw4vO",
+      "versionId": "qDX0X7bD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899986,
+      "fileId": 5125661
+    }
+  ],
   "forge": [
     {
       "modId": "tfc_tumbleweed",

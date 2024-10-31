@@ -1,6 +1,12 @@
 {
   "name": "glassential-fabric-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hhaag1wJ",
+      "versionId": "zhpXzmZT"
+    }
+  ],
   "fabric": [
     {
       "modId": "glassential",

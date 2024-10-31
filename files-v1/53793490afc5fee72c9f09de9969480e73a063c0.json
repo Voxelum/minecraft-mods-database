@@ -1,6 +1,18 @@
 {
   "name": "realisticbees-1.19.2-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tG6HkcWx",
+      "versionId": "FNyfvkJX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410743,
+      "fileId": 4400099
+    }
+  ],
   "forge": [
     {
       "modId": "realisticbees",

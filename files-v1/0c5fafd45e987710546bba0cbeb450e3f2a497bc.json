@@ -1,6 +1,18 @@
 {
   "name": "sodium-fabric-mc1.17.1-0.3.2+build.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AANobbMI",
+      "versionId": "xuWxRZPd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394468,
+      "fileId": 3488836
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium",

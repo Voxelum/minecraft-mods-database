@@ -1,6 +1,18 @@
 {
   "name": "Sledgehammer-1.12.2-2.0.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QItC3hpi",
+      "versionId": "8FvBZSXr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319175,
+      "fileId": 5264329
+    }
+  ],
   "forge": [
     {
       "modId": "sledgehammer",

@@ -1,6 +1,18 @@
 {
   "name": "EnderIO-zoo-1.12.2-5.3.72.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "afgP6ovJ",
+      "versionId": "DWCgl0NA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303001,
+      "fileId": 4674239
+    }
+  ],
   "forge": [
     {
       "modId": "enderiozoo",

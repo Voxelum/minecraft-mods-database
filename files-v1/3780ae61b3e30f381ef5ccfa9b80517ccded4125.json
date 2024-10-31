@@ -1,0 +1,26 @@
+{
+  "name": "moonlight-1.20-2.13.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "Nx0WnYOp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499980,
+      "fileId": 5796011
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moonlight",
+      "version": "1.20-2.13.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

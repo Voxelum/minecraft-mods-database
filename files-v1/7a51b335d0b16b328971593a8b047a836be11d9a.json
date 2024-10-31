@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MNlxJdtO",
+      "versionId": "3WIXaIFn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "photonics",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "at_redi_raytracing",
+      "version": "1.0-SNAPSHOT"
+    }
+  ]
+}

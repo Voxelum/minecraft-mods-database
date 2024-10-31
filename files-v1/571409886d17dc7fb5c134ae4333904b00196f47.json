@@ -1,0 +1,28 @@
+{
+  "name": "u_desert-1.4.0+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ThFWvdF1",
+      "versionId": "rUlVIxvD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960356,
+      "fileId": 5761309
+    }
+  ],
+  "forge": [
+    {
+      "modId": "u_desert",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "u_desert",
+      "version": "1.4.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "offers-hud-1.21-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z35dS3OT",
+      "versionId": "FwtFf8tg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566138,
+      "fileId": 5430585
+    }
+  ],
   "fabric": [
     {
       "modId": "offershud",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "86xjpqqS",
+      "versionId": "jmOQ2Mox"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "yes_steve_model",
+      "version": "2.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yes_steve_model",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

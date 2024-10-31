@@ -1,6 +1,12 @@
 {
   "name": "realstars-1.1a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oTcSRMh7",
+      "versionId": "JAdFn4F2"
+    }
+  ],
   "forge": [
     {
       "modId": "realstars",

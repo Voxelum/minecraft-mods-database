@@ -1,6 +1,18 @@
 {
   "name": "brrp-fabric-1.0.3-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JnrDtPAE",
+      "versionId": "W5GM0HWw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618156,
+      "fileId": 5433902
+    }
+  ],
   "fabric": [
     {
       "modId": "brrp_v1",

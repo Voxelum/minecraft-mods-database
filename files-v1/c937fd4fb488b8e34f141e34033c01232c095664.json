@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WNiQAmtw",
+      "versionId": "4SEJgBqk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "portforwarded",
+      "version": "1.2"
+    },
+    {
+      "modId": "com_github_alexdlaird_java-ngrok",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "org_apache_logging_log4j_log4j-api",
+      "version": "2.14.1"
+    },
+    {
+      "modId": "org_apache_logging_log4j_log4j-core",
+      "version": "2.14.1"
+    },
+    {
+      "modId": "org_fusesource_jansi_jansi",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

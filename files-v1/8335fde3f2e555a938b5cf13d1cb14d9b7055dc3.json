@@ -1,6 +1,18 @@
 {
   "name": "【全键无冲】NonConflictKeys-Fabric-1.18.X-1.20-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XU9gCifV",
+      "versionId": "CJKQz6rq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 865546,
+      "fileId": 4572953
+    }
+  ],
   "fabric": [
     {
       "modId": "nckey",

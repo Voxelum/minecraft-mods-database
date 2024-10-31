@@ -1,0 +1,28 @@
+{
+  "name": "enchlevel-langpatch-2.2.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lf4kDKU9",
+      "versionId": "XymBEZgd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529854,
+      "fileId": 5724756
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchlevellangpatch",
+      "version": "2.2.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchlevel-langpatch",
+      "version": "2.2.8"
+    }
+  ]
+}

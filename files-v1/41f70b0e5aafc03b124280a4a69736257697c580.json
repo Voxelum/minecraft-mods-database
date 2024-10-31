@@ -1,6 +1,18 @@
 {
   "name": "wanderingcollector-1.1.3+mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "enYiOcBu",
+      "versionId": "zRzDrNTt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443476,
+      "fileId": 3852016
+    }
+  ],
   "fabric": [
     {
       "modId": "wandering_collector",

@@ -1,6 +1,18 @@
 {
   "name": "[火花] spark-1.10.42-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "BeIg1bik"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 4587310
+    }
+  ],
   "fabric": [
     {
       "modId": "spark",

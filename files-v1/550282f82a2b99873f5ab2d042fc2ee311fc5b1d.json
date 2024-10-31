@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3dT9sgt4",
+      "versionId": "WMftpBdb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689252,
+      "fileId": 5812232
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betteroceanmonuments",
+      "version": "1.21.1-Fabric-4.1.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

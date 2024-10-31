@@ -1,6 +1,18 @@
 {
   "name": "DungeonsArise-1.20.1-2.1.56-fabric-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8DfbfASn",
+      "versionId": "65GY9WAD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511812,
+      "fileId": 4599628
+    }
+  ],
   "fabric": [
     {
       "modId": "dungeons_arise",

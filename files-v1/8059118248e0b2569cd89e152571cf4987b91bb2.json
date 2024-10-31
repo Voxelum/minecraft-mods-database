@@ -1,6 +1,12 @@
 {
   "name": "SpiceOfLife-2.1.7-carrot.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AbPBTO0Y",
+      "versionId": "zgK5r0ny"
+    }
+  ],
   "forge": [
     {
       "modId": "SpiceOfLife",

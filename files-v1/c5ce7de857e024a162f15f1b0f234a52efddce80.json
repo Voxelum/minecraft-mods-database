@@ -1,6 +1,18 @@
 {
   "name": "respawningshulkers_1.18.2-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHCmhGUV",
+      "versionId": "gzLm4wmj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450144,
+      "fileId": 3669170
+    }
+  ],
   "forge": [
     {
       "modId": "respawningshulkers",

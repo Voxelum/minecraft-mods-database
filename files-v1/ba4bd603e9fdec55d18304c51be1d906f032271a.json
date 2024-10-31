@@ -1,6 +1,12 @@
 {
   "name": "create-coal_to_diamonds-1.0.0-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 958151,
+      "fileId": 5008079
+    }
+  ],
   "forge": [
     {
       "modId": "diamondscraps",

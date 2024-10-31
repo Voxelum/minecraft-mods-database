@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n6PXGAoM",
+      "versionId": "K4DsUBPC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667464,
+      "fileId": 5525337
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterstats",
+      "version": "3.12.2+fabric-1.21"
+    },
+    {
+      "modId": "extendedworldselection",
+      "version": "0.0.1+fabric-1.21"
+    }
+  ]
+}

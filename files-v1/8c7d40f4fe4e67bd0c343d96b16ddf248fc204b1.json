@@ -1,6 +1,18 @@
 {
   "name": "lostcities-1.18-5.3.28.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VDCUS3b",
+      "versionId": "VtT2Y8ho"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 269024,
+      "fileId": 5311829
+    }
+  ],
   "forge": [
     {
       "modId": "lostcities",

@@ -1,0 +1,42 @@
+{
+  "name": "ruins-of-growsseth-1.21-0.11.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "growsseth",
+      "version": "1.21-0.11.1"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-collections-immutable-jvm",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.4"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20231013"
+    },
+    {
+      "modId": "fx-lib",
+      "version": "0.28.0-1.21-fabric"
+    },
+    {
+      "modId": "io_socket_engine_io-client",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "io_socket_socket_io-client",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.11.0"
+    }
+  ]
+}

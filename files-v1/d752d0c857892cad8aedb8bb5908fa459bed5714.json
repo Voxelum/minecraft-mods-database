@@ -1,0 +1,38 @@
+{
+  "name": "xp_storage-1.5.10+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4RdRpt7i",
+      "versionId": "aoVGiVfd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403434,
+      "fileId": 5601685
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xp_storage",
+      "version": "1.5.10+1.21"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

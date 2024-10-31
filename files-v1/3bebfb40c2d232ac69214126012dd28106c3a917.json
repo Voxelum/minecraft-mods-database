@@ -1,6 +1,18 @@
 {
   "name": "bigcontraptions-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jv0UKGOX",
+      "versionId": "1KkyaeYb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 877334,
+      "fileId": 5108576
+    }
+  ],
   "forge": [
     {
       "modId": "bigcontraptions",

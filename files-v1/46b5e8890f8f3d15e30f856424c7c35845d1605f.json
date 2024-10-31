@@ -1,0 +1,16 @@
+{
+  "name": "mmoparties-1.1.1.16.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 574957,
+      "fileId": 3632530
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mmoparties",
+      "version": "${version}"
+    }
+  ]
+}

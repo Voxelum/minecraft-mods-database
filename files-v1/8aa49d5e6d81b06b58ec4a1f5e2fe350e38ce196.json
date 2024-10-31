@@ -1,6 +1,18 @@
 {
   "name": "MoCreatures-Legacy-Final-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f9biq8WE",
+      "versionId": "9uNYq64T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 957564,
+      "fileId": 5140427
+    }
+  ],
   "forge": [
     {
       "modId": "MoCreatures",

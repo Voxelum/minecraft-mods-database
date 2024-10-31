@@ -1,6 +1,18 @@
 {
   "name": "antiblocksrechiseled-0.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uLWeFJiL",
+      "versionId": "8GsAyzJo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 715567,
+      "fileId": 5403692
+    }
+  ],
   "forge": [
     {
       "modId": "antiblocksrechiseled",

@@ -1,0 +1,32 @@
+{
+  "name": "EnhancedVisuals_FORGE_v1.6.4_mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KjL0jE2w",
+      "versionId": "1YukMFyA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255389,
+      "fileId": 5335406
+    },
+    {
+      "projectId": 388172,
+      "fileId": 4181370
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.6.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "${version}"
+    }
+  ]
+}

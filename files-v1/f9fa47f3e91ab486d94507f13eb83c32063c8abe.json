@@ -1,6 +1,12 @@
 {
   "name": "cat_jam-fabric-mc1.20-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3s69afN",
+      "versionId": "yL4xn8Kt"
+    }
+  ],
   "fabric": [
     {
       "modId": "cat_jam",

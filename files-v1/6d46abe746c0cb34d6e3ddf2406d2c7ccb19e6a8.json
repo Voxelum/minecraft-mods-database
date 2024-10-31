@@ -1,0 +1,10 @@
+{
+  "name": "blood.jar.disabled",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mob_dead",
+      "version": "1.0.0"
+    }
+  ]
+}

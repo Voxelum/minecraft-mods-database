@@ -1,6 +1,12 @@
 {
   "name": "Ping-1.19-1.9.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 222967,
+      "fileId": 3865500
+    }
+  ],
   "forge": [
     {
       "modId": "ping",

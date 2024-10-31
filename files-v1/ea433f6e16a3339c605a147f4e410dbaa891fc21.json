@@ -1,0 +1,106 @@
+{
+  "name": "malum-1.20.1-1.6.3.0b-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jgzwYsAN",
+      "versionId": "sL7telRE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 484064,
+      "fileId": 5718977
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malum",
+      "version": "1.20.1-1.6.3.0b-fabric"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.3"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_blocks",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_data",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_items",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_generators",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

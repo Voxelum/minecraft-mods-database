@@ -1,6 +1,18 @@
 {
   "name": "cccbridge-mc1.18.2-fabric-v1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fXt291FO",
+      "versionId": "wCHQIZkL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656214,
+      "fileId": 4632359
+    }
+  ],
   "fabric": [
     {
       "modId": "cccbridge",

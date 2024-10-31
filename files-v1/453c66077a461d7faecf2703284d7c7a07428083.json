@@ -1,6 +1,18 @@
 {
   "name": "nohostilesaroundcampfire_1.16.5-4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EJqeyaVz",
+      "versionId": "reNw3tsw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347394,
+      "fileId": 3952616
+    }
+  ],
   "forge": [
     {
       "modId": "nohostilesaroundcampfire",

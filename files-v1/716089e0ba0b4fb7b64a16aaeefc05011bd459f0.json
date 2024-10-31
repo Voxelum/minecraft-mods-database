@@ -1,6 +1,12 @@
 {
   "name": "framework-0.3.3-1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549225,
+      "fileId": 3926055
+    }
+  ],
   "forge": [
     {
       "modId": "framework",

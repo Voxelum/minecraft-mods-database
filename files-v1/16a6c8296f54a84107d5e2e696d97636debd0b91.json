@@ -1,6 +1,12 @@
 {
   "name": "IoBAddons-1.1d.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EsxkZ8QD",
+      "versionId": "RXLJLSVS"
+    }
+  ],
   "forge": [
     {
       "modId": "iobaddons",

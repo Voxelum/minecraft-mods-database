@@ -1,6 +1,18 @@
 {
   "name": "EnderStorage-1.7.10-1.4.7.37-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BbrHg80P",
+      "versionId": "sQ7RJ8lA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 229306,
+      "fileId": 2262092
+    }
+  ],
   "forge": [
     {
       "modId": "EnderStorage",

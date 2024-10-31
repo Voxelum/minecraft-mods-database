@@ -1,6 +1,18 @@
 {
   "name": "Debark-0.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6i3L6af7",
+      "versionId": "BrRQ5dyY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 346073,
+      "fileId": 2843391
+    }
+  ],
   "forge": [
     {
       "modId": "debark",

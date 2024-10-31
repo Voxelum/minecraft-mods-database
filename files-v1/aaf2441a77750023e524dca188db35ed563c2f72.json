@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J5NAzRqK",
+      "versionId": "8mRUmfLo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fsit",
+      "version": "2.4.0+1.20.1"
+    },
+    {
+      "modId": "com_charleskorn_kaml_kaml-jvm",
+      "version": "0.54.0"
+    },
+    {
+      "modId": "org_snakeyaml_snakeyaml-engine",
+      "version": "2.6"
+    }
+  ]
+}

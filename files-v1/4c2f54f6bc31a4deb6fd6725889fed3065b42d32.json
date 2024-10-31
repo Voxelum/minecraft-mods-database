@@ -1,0 +1,22 @@
+{
+  "name": "feur_extension_jungle-1.20.1-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Uzp5QboY",
+      "versionId": "rWO4BFJF"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "feur_extension_jungle",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feur_extension_jungle",
+      "version": "1.0.5"
+    }
+  ]
+}

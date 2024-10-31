@@ -1,6 +1,18 @@
 {
   "name": "itemfavorites-1.0.4+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BBi9csxn",
+      "versionId": "Dj1uUiUi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 832021,
+      "fileId": 4597740
+    }
+  ],
   "fabric": [
     {
       "modId": "itemfavorites",

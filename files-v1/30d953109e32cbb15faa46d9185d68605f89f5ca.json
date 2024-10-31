@@ -1,6 +1,18 @@
 {
   "name": "Ore Creeper-1.19.2-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CGmwbV8J",
+      "versionId": "wPDKA6Nz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560542,
+      "fileId": 5256352
+    }
+  ],
   "forge": [
     {
       "modId": "ore_creeper",

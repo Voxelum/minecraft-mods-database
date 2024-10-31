@@ -1,6 +1,18 @@
 {
   "name": "nerb-1.18.2-0.3-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bQh7xzFq",
+      "versionId": "yu9amLvb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 738663,
+      "fileId": 4745201
+    }
+  ],
   "fabric": [
     {
       "modId": "nerb",

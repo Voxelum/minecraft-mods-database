@@ -1,6 +1,18 @@
 {
   "name": "Starter Kit-6.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "OD40UAl0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 5309616
+    }
+  ],
   "forge": [
     {
       "modId": "starterkit",

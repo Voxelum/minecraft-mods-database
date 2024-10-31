@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_dampening_enchantment",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dampening_enchantment",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "libjf-3.17.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKwQAwke",
+      "versionId": "jbD51aHO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482600,
+      "fileId": 5589698
+    }
+  ],
   "fabric": [
     {
       "modId": "libjf",

@@ -1,6 +1,18 @@
 {
   "name": "redeco-forge-1.12.1-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xejiztgi",
+      "versionId": "iqt6ogE1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 897377,
+      "fileId": 5603009
+    }
+  ],
   "forge": [
     {
       "modId": "redeco",

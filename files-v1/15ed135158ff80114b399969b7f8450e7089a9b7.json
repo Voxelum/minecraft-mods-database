@@ -1,6 +1,18 @@
 {
   "name": "niftycarts-20.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CXd6g9xp",
+      "versionId": "rdFxc9mZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 900093,
+      "fileId": 5706718
+    }
+  ],
   "forge": [
     {
       "modId": "niftycarts",

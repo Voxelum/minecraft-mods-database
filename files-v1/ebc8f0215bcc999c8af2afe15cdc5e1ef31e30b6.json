@@ -1,6 +1,18 @@
 {
   "name": "AltOriginGui-fabric-1.20.1-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ldWHqZwQ",
+      "versionId": "oSJyDQ48"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873788,
+      "fileId": 5633582
+    }
+  ],
   "fabric": [
     {
       "modId": "altorigingui",

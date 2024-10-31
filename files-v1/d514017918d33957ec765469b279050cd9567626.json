@@ -1,6 +1,18 @@
 {
   "name": "megane-fabric-20.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZNk5S5U6",
+      "versionId": "jA564k4Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 408118,
+      "fileId": 5174184
+    }
+  ],
   "fabric": [
     {
       "modId": "megane",

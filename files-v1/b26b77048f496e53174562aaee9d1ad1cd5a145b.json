@@ -1,6 +1,12 @@
 {
   "name": "Pale-forge-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 419573,
+      "fileId": 4627628
+    }
+  ],
   "forge": [
     {
       "modId": "pale",

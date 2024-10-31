@@ -1,6 +1,18 @@
 {
   "name": "TheFletchingTableMod_1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FDFAU39Q",
+      "versionId": "EW5I8aL1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448876,
+      "fileId": 3706609
+    }
+  ],
   "forge": [
     {
       "modId": "fletching_table_mod",

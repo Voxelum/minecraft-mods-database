@@ -1,6 +1,18 @@
 {
   "name": "gml-4.0.10-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zg2tT2Vu",
+      "versionId": "s7gFqeVL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661517,
+      "fileId": 5091193
+    }
+  ],
   "forge": [
     {
       "modId": "gml-4.0.10-all",

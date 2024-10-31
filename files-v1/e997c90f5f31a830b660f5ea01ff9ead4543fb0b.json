@@ -1,6 +1,12 @@
 {
   "name": "elytrapitch-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NSHJxibg",
+      "versionId": "HpOUsyA5"
+    }
+  ],
   "fabric": [
     {
       "modId": "elytrapitch",

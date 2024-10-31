@@ -1,6 +1,18 @@
 {
   "name": "fadeless-fabric-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ncKjyGm3",
+      "versionId": "1b06wT0J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861310,
+      "fileId": 5585557
+    }
+  ],
   "fabric": [
     {
       "modId": "fadeless",

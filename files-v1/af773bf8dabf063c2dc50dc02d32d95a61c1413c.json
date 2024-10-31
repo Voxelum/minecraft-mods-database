@@ -1,6 +1,18 @@
 {
   "name": "godblock-1.12.2-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6GLBDGFm",
+      "versionId": "d8Z6bSy1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316055,
+      "fileId": 2695121
+    }
+  ],
   "forge": [
     {
       "modId": "thegodblock",

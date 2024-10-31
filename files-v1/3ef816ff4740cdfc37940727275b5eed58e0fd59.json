@@ -1,6 +1,18 @@
 {
   "name": "musketmod-1.18.2-forge-1.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "967vM4zw",
+      "versionId": "l12MO7X3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354562,
+      "fileId": 4028359
+    }
+  ],
   "forge": [
     {
       "modId": "musketmod",

@@ -1,6 +1,18 @@
 {
   "name": "mdecore-1.19.2-19.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xcurJ341",
+      "versionId": "zZBZy47f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 229595,
+      "fileId": 4502676
+    }
+  ],
   "forge": [
     {
       "modId": "mdecore",

@@ -1,0 +1,28 @@
+{
+  "name": "biggerspongeabsorptionradius-1.21.3-3.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3PLAyBxz",
+      "versionId": "ZgQzvMSt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391896,
+      "fileId": 5847466
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biggerspongeabsorptionradius",
+      "version": "3.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biggerspongeabsorptionradius",
+      "version": "3.7"
+    }
+  ]
+}

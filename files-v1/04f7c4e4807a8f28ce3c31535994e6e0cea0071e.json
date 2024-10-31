@@ -1,6 +1,18 @@
 {
   "name": "Controlling-1.7.10-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "PdkCGgRt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250398,
+      "fileId": 2328181
+    }
+  ],
   "forge": [
     {
       "modId": "controlling",

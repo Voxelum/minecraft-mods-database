@@ -1,6 +1,18 @@
 {
   "name": "ExtendedAE-1.20-1.1.10-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JiOqfoFM",
+      "versionId": "zCAAV2UU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892005,
+      "fileId": 5427014
+    }
+  ],
   "forge": [
     {
       "modId": "expatternprovider",

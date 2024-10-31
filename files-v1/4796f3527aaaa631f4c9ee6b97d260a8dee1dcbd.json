@@ -1,6 +1,18 @@
 {
   "name": "flow-1.6.1+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eoxi2LJd",
+      "versionId": "bSAnHcjE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927561,
+      "fileId": 5492624
+    }
+  ],
   "fabric": [
     {
       "modId": "flow",

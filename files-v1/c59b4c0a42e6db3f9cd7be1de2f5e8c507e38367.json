@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "8.1.23"
+    },
+    {
+      "modId": "puzzlesaccessapi",
+      "version": "8.0.7"
+    }
+  ]
+}

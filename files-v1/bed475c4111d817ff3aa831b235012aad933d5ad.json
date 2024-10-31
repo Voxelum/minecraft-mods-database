@@ -1,6 +1,18 @@
 {
   "name": "HitFeedback-1.20.1-1.1.5-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NKPOiJ04",
+      "versionId": "M5xeSYUY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1017526,
+      "fileId": 5523186
+    }
+  ],
   "forge": [
     {
       "modId": "hit_feedback",

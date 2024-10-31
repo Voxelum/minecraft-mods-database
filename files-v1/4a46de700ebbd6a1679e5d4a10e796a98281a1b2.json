@@ -1,0 +1,82 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiktJyw1",
+      "versionId": "K4LxVpkN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 5505856
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "everycomp",
+      "version": "1.20-2.6.66"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_generators",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

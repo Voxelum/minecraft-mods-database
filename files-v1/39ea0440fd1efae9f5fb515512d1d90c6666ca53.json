@@ -1,6 +1,18 @@
 {
   "name": "[1.18.2]-Medieval-Siege-Machines-v1.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ctnEXZ5V",
+      "versionId": "nONmHy8F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585964,
+      "fileId": 4405278
+    }
+  ],
   "forge": [
     {
       "modId": "siegemachines",

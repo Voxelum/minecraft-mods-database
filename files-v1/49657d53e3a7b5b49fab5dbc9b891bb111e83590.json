@@ -1,6 +1,18 @@
 {
   "name": "Retraining-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Iugiwphr",
+      "versionId": "Aenf1Enb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 543209,
+      "fileId": 3511567
+    }
+  ],
   "forge": [
     {
       "modId": "retraining",

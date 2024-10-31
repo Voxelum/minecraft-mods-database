@@ -1,6 +1,18 @@
 {
   "name": "libjf-3.16.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKwQAwke",
+      "versionId": "XwcowfLc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482600,
+      "fileId": 5426968
+    }
+  ],
   "fabric": [
     {
       "modId": "libjf",

@@ -1,6 +1,18 @@
 {
   "name": "day-dream-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FKi0XGBk",
+      "versionId": "z4KM18q6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 480724,
+      "fileId": 3933330
+    }
+  ],
   "fabric": [
     {
       "modId": "day_dream",

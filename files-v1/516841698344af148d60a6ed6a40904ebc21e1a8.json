@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cw8IlnGM",
+      "versionId": "jFozv05n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 776237,
+      "fileId": 5632259
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_serversleep",
+      "version": "1-datapack"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_serversleep",
+      "version": "1-datapack"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "recruits-1.19.2-1.10.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WOg9lm4u",
+      "versionId": "CsDz30sw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523860,
+      "fileId": 5062675
+    }
+  ],
   "forge": [
     {
       "modId": "recruits",

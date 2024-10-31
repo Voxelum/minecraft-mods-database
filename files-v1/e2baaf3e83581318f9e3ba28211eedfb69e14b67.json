@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.8.2+1.19.4-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

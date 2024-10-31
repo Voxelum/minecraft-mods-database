@@ -1,6 +1,12 @@
 {
   "name": "mystcraft-oc-0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 389578,
+      "fileId": 2979495
+    }
+  ],
   "forge": [
     {
       "modId": "mystoc",

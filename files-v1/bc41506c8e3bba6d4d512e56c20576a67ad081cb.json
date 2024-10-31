@@ -1,6 +1,12 @@
 {
   "name": "NotifMod-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bmK8wGFt",
+      "versionId": "J1xiXNV8"
+    }
+  ],
   "fabric": [
     {
       "modId": "notifmod",

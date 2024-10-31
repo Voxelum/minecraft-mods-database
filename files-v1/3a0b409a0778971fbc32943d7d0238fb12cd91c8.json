@@ -1,0 +1,22 @@
+{
+  "name": "more-blocks-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CayfySyq",
+      "versionId": "hxrmypPk"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_more_blocks",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_more_blocks",
+      "version": "1"
+    }
+  ]
+}

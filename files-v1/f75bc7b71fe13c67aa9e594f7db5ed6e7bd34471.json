@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zgVJyCgK",
+      "versionId": "dPumWqgJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 522205,
+      "fileId": 5435529
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autotools",
+      "version": "2.1"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a790"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.9+98a7dbbb90"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c90"
+    },
+    {
+      "modId": "fabric-item-api-v1",
+      "version": "11.0.0+afdfc92190"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.1.0+686dcdce90"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lOMJjkKe",
+      "versionId": "mmzlKkf3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "actionbarinfo",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

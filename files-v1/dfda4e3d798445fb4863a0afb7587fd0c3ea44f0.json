@@ -1,6 +1,18 @@
 {
   "name": "customizableelytra-1.16.4-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L25fOeGq",
+      "versionId": "WqS8jX7m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440047,
+      "fileId": 3541014
+    }
+  ],
   "forge": [
     {
       "modId": "customizableelytra",

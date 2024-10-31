@@ -1,0 +1,20 @@
+{
+  "name": "DragonMountsSoWEdition-0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "viHEVBo5",
+      "versionId": "CAjbwhY0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dragon_mounts",
+      "version": "0.2"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

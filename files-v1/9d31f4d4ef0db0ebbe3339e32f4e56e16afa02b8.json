@@ -1,4 +1,16 @@
 {
   "name": "pylons-1.21.1-5.0.2.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "A82glthi",
+      "versionId": "P2ZugUHn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 518211,
+      "fileId": 5763431
+    }
+  ]
 }

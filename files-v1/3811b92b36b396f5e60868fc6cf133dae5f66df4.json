@@ -1,6 +1,18 @@
 {
   "name": "worldplaytime-1.2.0-1.20.x-FORGE.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YkKeggdl",
+      "versionId": "dCMDB3Px"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968891,
+      "fileId": 5122931
+    }
+  ],
   "forge": [
     {
       "modId": "worldplaytime",

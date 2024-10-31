@@ -1,6 +1,18 @@
 {
   "name": "[万用皮肤补丁] CustomSkinLoader_ForgeLegacy-14.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "idMHQ4n2",
+      "versionId": "C2FVAFqn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 286924,
+      "fileId": 4642232
+    }
+  ],
   "forge": [
     {
       "modId": "customskinloader",

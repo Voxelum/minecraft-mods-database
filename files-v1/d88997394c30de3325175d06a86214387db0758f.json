@@ -1,6 +1,18 @@
 {
   "name": "1.20.1-extensive-diamonds-1.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vDmrhxto",
+      "versionId": "kp00OWyM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 698105,
+      "fileId": 5655915
+    }
+  ],
   "fabric": [
     {
       "modId": "extensivediamonds",

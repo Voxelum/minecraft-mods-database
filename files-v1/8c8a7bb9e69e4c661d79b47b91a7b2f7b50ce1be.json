@@ -1,6 +1,18 @@
 {
   "name": "nox-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JvPAcikc",
+      "versionId": "79OdU6ml"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565421,
+      "fileId": 3999093
+    }
+  ],
   "fabric": [
     {
       "modId": "nox",

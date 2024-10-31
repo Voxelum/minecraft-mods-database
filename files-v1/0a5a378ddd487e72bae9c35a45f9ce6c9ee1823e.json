@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ItTQpuBn",
+      "versionId": "1HFL6omH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1036270,
+      "fileId": 5821631
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stellaris",
+      "version": "1.1.7"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "sky_aesthetics",
+      "version": "1.2.5"
+    }
+  ]
+}

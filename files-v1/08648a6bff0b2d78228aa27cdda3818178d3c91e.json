@@ -1,6 +1,18 @@
 {
   "name": "bundlescroll-1.1+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fJKsphvU",
+      "versionId": "kPuGLH88"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1004377,
+      "fileId": 5424188
+    }
+  ],
   "fabric": [
     {
       "modId": "bundle_scroll",

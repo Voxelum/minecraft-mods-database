@@ -1,6 +1,12 @@
 {
   "name": "InGameInfoXML-1.7.10-2.8.1.82-universal.jar",
-  "domain": "resourcepacks",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225604,
+      "fileId": 2260741
+    }
+  ],
   "forge": [
     {
       "modId": "InGameInfoXML",

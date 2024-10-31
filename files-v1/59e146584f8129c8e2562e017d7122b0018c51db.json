@@ -1,6 +1,18 @@
 {
   "name": "InfoDataPack-1.20.1-4.0.1.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBKJWOuQ",
+      "versionId": "3ivZjV4m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 422087,
+      "fileId": 4757774
+    }
+  ],
   "forge": [
     {
       "modId": "infodatapack",

@@ -1,6 +1,18 @@
 {
   "name": "Festive_Delight_1.1_1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AsUUCoXX",
+      "versionId": "jz1taLiK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711672,
+      "fileId": 4707741
+    }
+  ],
   "forge": [
     {
       "modId": "festive_delight",

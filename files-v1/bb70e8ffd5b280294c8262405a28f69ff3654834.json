@@ -1,6 +1,18 @@
 {
   "name": "torture-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sUO8GjWY",
+      "versionId": "U0oVmrnD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 999344,
+      "fileId": 5242309
+    }
+  ],
   "forge": [
     {
       "modId": "torture",

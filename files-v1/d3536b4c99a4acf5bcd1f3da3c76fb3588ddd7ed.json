@@ -1,6 +1,18 @@
 {
   "name": "railcraft-reborn-1.20.1-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rO6kKst6",
+      "versionId": "vjCMZyDt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901491,
+      "fileId": 5149151
+    }
+  ],
   "forge": [
     {
       "modId": "railcraft",

@@ -1,0 +1,26 @@
+{
+  "name": "balm-fabric-1.21.1-21.0.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBAkmtvl",
+      "versionId": "8y2siHEz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 500525,
+      "fileId": 5798232
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "balm-fabric",
+      "version": "21.0.20"
+    },
+    {
+      "modId": "kuma_api",
+      "version": "21.0.5-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "iceandfire-0.6-alpha5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpmCsizY",
+      "versionId": "fcOoOX42"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040076,
+      "fileId": 5624848
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iceandfire",
+      "version": "0.6-alpha5"
+    },
+    {
+      "modId": "fabric-trade-api",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

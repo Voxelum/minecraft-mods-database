@@ -1,0 +1,32 @@
+{
+  "name": "sodiumdynamiclights-fabric-1.0.8-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PxQSWIcD",
+      "versionId": "cqlNcfN9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551736,
+      "fileId": 5752344
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumdynamiclights",
+      "version": "1.0.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumdynamiclights",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

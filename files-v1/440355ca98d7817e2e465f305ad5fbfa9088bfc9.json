@@ -1,6 +1,18 @@
 {
   "name": "ResourcePackOverrides-v20.4.2-1.20.4-NeoForge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YsFycamt",
+      "versionId": "HNAkJD9z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 832644,
+      "fileId": 5101547
+    }
+  ],
   "forge": [
     {
       "modId": "resourcepackoverrides",

@@ -1,6 +1,18 @@
 {
   "name": "darkloot-forge-1.20.1-1.1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CTfMls7X",
+      "versionId": "4eGwJXNO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 677987,
+      "fileId": 5040901
+    }
+  ],
   "forge": [
     {
       "modId": "darkloot",

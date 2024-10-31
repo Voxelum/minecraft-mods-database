@@ -1,6 +1,18 @@
 {
   "name": "shift-scroll-fix-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zpHzfaDc",
+      "versionId": "5M1TFkGm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 437526,
+      "fileId": 3343722
+    }
+  ],
   "fabric": [
     {
       "modId": "shiftscrollfix",

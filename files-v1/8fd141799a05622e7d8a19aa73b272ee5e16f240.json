@@ -1,6 +1,18 @@
 {
   "name": "potiondescriptions-1.12.2-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IeEUOwPx",
+      "versionId": "760pGfHQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403303,
+      "fileId": 3191544
+    }
+  ],
   "forge": [
     {
       "modId": "potiondescriptions",

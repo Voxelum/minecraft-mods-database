@@ -1,6 +1,18 @@
 {
   "name": "malilib-fabric-1.16.4-0.10.0-dev.21+arne.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "2lJvqczS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303119,
+      "fileId": 3113699
+    }
+  ],
   "fabric": [
     {
       "modId": "malilib",

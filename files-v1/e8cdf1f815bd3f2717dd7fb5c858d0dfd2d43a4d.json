@@ -1,0 +1,20 @@
+{
+  "name": "safros-mobs-0.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1045096,
+      "fileId": 5458698
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "safros-mobs",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "saflib",
+      "version": "1.0.33"
+    }
+  ]
+}

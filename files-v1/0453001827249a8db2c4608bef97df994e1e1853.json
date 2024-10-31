@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7vxePowz",
+      "versionId": "Dnpn5CSl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 993166,
+      "fileId": 5852406
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight",
+      "version": "1.21-2.1.10+refabricated"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "porting_lib_item_abilities",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_recipe_book_categories",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    }
+  ]
+}

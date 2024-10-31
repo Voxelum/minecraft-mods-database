@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XVnUIUAQ",
+      "versionId": "1K0J5FYl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693715,
+      "fileId": 5656587
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snowundertrees",
+      "version": "2.5.3+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "citadel-2.5.7-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jJfV67b1",
+      "versionId": "zVGb8jz5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 331936,
+      "fileId": 5629631
+    }
+  ],
   "forge": [
     {
       "modId": "citadel",

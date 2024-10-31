@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9olMJ5Qp",
+      "versionId": "H0TD8Nrr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347751,
+      "fileId": 5572826
+    }
+  ],
+  "forge": [
+    {
+      "modId": "configurabledespawntimer",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurabledespawntimer",
+      "version": "4.2"
+    }
+  ]
+}

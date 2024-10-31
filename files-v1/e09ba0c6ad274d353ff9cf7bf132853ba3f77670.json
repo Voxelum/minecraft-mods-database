@@ -1,6 +1,18 @@
 {
   "name": "spellbound-1.14.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PvOWwwRg",
+      "versionId": "3cXD9jmk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 434965,
+      "fileId": 4916264
+    }
+  ],
   "fabric": [
     {
       "modId": "spellbound",

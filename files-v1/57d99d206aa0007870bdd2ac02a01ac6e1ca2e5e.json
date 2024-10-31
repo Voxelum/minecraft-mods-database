@@ -1,6 +1,18 @@
 {
   "name": "cc_vs-1.19.2-fabric-0.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bvgy8HrZ",
+      "versionId": "cH7uOn0w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958065,
+      "fileId": 5064132
+    }
+  ],
   "fabric": [
     {
       "modId": "cc_vs",

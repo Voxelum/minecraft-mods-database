@@ -1,6 +1,18 @@
 {
   "name": "Pixelmon-1.16.5-9.1.0-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "59ZceYlU",
+      "versionId": "Xbwa6BHt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 389487,
+      "fileId": 4110761
+    }
+  ],
   "forge": [
     {
       "modId": "pixelmon",

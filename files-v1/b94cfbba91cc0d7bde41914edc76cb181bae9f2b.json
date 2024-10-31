@@ -1,6 +1,18 @@
 {
   "name": "VillageSpawnpoint.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KplTt9Ku",
+      "versionId": "NPYG35Ur"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347381,
+      "fileId": 4583465
+    }
+  ],
   "forge": [
     {
       "modId": "villagespawnpoint",

@@ -1,6 +1,12 @@
 {
   "name": "fakename-mc1.7.10-v1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256838,
+      "fileId": 2370933
+    }
+  ],
   "forge": [
     {
       "modId": "fakename",

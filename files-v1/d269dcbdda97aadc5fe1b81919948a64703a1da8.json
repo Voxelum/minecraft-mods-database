@@ -1,6 +1,18 @@
 {
   "name": "demogorgonmod-1.19.2forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W0vDt97V",
+      "versionId": "7LqtfqMF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 784767,
+      "fileId": 4284338
+    }
+  ],
   "forge": [
     {
       "modId": "demogorgon",

@@ -1,0 +1,22 @@
+{
+  "name": "keep-some-inventory-v2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VHSdL301",
+      "versionId": "Kr9Auku0"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_keep_someinventory",
+      "version": "1-v2.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_keep_someinventory",
+      "version": "1-v2.0.1"
+    }
+  ]
+}

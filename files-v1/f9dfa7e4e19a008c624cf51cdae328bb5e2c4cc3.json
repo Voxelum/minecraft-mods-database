@@ -1,6 +1,18 @@
 {
   "name": "cpm-pv-compat-1.0.0.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gwGrMqDo",
+      "versionId": "SIccgXdg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963528,
+      "fileId": 5045384
+    }
+  ],
   "forge": [
     {
       "modId": "cpmpvc",

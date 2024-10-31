@@ -1,6 +1,18 @@
 {
   "name": "mineralchance-1.20.4-3.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bu1hACOl",
+      "versionId": "q9myS0ry"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412956,
+      "fileId": 5168952
+    }
+  ],
   "forge": [
     {
       "modId": "mineralchance",

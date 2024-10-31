@@ -1,6 +1,18 @@
 {
   "name": "lmft-1.0.2+1.18.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "67kVxsaO",
+      "versionId": "uNo4PuMq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656346,
+      "fileId": 4687806
+    }
+  ],
   "forge": [
     {
       "modId": "lmft",

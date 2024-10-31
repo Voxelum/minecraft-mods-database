@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H7N61Wcl",
+      "versionId": "Y03Xk82k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348262,
+      "fileId": 4573835
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dismountentity",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dismountentity",
+      "version": "3.0"
+    }
+  ]
+}

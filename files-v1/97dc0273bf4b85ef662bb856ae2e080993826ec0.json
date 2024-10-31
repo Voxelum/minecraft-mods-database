@@ -1,6 +1,12 @@
 {
   "name": "ukulib-1.4.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y8uFrUil",
+      "versionId": "uOV1ub0N"
+    }
+  ],
   "fabric": [
     {
       "modId": "ukulib",

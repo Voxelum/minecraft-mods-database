@@ -1,4 +1,16 @@
 {
   "name": "artifacts-neoforge-12.0.5.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "oLw9PXUb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 5624722
+    }
+  ]
 }

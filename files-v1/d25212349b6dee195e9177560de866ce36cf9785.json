@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OrB5XFtI",
+      "versionId": "6HkCZG4Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 457017,
+      "fileId": 5431245
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custommachinery",
+      "version": "0.9.21"
+    },
+    {
+      "modId": "saeculariacaudices",
+      "version": "1.0.16"
+    }
+  ]
+}

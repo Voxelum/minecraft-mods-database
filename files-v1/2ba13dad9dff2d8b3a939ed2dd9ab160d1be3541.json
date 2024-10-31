@@ -1,6 +1,18 @@
 {
   "name": "ParCool-1.18.2-3.3.0.1-R.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fsvx2bdR",
+      "versionId": "UmCaGraw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482378,
+      "fileId": 5714123
+    }
+  ],
   "forge": [
     {
       "modId": "parcool",

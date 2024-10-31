@@ -1,6 +1,12 @@
 {
   "name": "harvest-with-ease-forge-1.19.2-9.0.0.3-beta.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 602171,
+      "fileId": 5384545
+    }
+  ],
   "forge": [
     {
       "modId": "harvest_with_ease",

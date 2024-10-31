@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "easyshulkerboxes",
+      "version": "8.0.2"
+    },
+    {
+      "modId": "puzzlesapi",
+      "version": "8.1.6"
+    }
+  ]
+}

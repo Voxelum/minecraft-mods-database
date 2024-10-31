@@ -1,6 +1,12 @@
 {
   "name": "[辅助MOD]聊天优化.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 363860,
+      "fileId": 3048407
+    }
+  ],
   "forge": [
     {
       "modId": "betterchat",

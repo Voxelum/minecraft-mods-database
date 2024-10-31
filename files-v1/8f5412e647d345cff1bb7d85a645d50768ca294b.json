@@ -1,6 +1,12 @@
 {
   "name": "retino-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z7dmZ4nL",
+      "versionId": "gyLsjEk8"
+    }
+  ],
   "fabric": [
     {
       "modId": "retino",

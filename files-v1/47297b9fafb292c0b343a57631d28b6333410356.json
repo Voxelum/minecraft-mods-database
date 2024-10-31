@@ -1,6 +1,12 @@
 {
   "name": "xnet-1.18-4.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iu1jkWqa",
+      "versionId": "bApMfE9G"
+    }
+  ],
   "forge": [
     {
       "modId": "xnet",

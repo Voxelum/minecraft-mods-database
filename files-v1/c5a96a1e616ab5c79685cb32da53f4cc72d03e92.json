@@ -1,0 +1,38 @@
+{
+  "name": "mod_sets-1.8.0+sha.00f0f84.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b313lC4Y",
+      "versionId": "nXIbnBDO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mod_sets-1.8.0+sha.00f0f84",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mod_sets",
+      "version": "1.8.0+sha.00f0f84"
+    },
+    {
+      "modId": "settingdust_modsets_config_",
+      "version": "1.8.0+sha.00f0f84"
+    },
+    {
+      "modId": "settingdust_modsets_ingame_",
+      "version": "1.8.0+sha.00f0f84"
+    },
+    {
+      "modId": "kinecraft_serialization",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "preloading_tricks",
+      "version": "1.2.1"
+    }
+  ]
+}

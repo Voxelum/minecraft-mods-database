@@ -1,6 +1,18 @@
 {
   "name": "vtaw_mw-forge-1.16.5-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oqKSI6b9",
+      "versionId": "2onywgBu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637284,
+      "fileId": 3850243
+    }
+  ],
   "forge": [
     {
       "modId": "vtaw_mw",

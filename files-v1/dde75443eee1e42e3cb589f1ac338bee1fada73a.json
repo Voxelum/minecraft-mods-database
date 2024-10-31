@@ -1,6 +1,12 @@
 {
   "name": "monolib-fabric-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9leXt4A5",
+      "versionId": "89gju3VF"
+    }
+  ],
   "fabric": [
     {
       "modId": "monolib",

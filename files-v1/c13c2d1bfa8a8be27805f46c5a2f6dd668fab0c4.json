@@ -1,4 +1,16 @@
 {
   "name": "emi-1.1.16+1.21.1+neoforge.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fRiHVvU7",
+      "versionId": "cYumVNNp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580555,
+      "fileId": 5793016
+    }
+  ]
 }

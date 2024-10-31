@@ -1,6 +1,18 @@
 {
   "name": "chatanimation-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DnNYdJsx",
+      "versionId": "L6DH46oI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892086,
+      "fileId": 4660401
+    }
+  ],
   "fabric": [
     {
       "modId": "chatanimation",

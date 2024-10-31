@@ -1,0 +1,26 @@
+{
+  "name": "iris-flywheel-compat-fabric1.20.1+1.1.3a.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ndHYMY2K",
+      "versionId": "j3lv6Qgi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659897,
+      "fileId": 5637751
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "irisflw",
+      "version": "1.1.3a"
+    },
+    {
+      "modId": "flywheel",
+      "version": "0.6.10-2"
+    }
+  ]
+}

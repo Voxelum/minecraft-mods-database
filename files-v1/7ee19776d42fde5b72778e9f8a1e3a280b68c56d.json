@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Acxy864",
+      "versionId": "MSGUcQEI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010827,
+      "fileId": 5822109
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uranus",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "sponsor_core",
+      "version": "1.0.0"
+    }
+  ]
+}

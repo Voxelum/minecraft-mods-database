@@ -1,6 +1,18 @@
 {
   "name": "leawind_third_person-v2.1.0-mc1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S3D3QF0M",
+      "versionId": "oYVH29Z4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930880,
+      "fileId": 5680117
+    }
+  ],
   "forge": [
     {
       "modId": "leawind_third_person",

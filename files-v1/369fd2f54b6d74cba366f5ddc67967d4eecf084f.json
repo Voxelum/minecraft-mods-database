@@ -1,6 +1,18 @@
 {
   "name": "purechaos-1.16.5-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ynbSU9vI",
+      "versionId": "bjlGdrTP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711131,
+      "fileId": 5613312
+    }
+  ],
   "forge": [
     {
       "modId": "purechaos",

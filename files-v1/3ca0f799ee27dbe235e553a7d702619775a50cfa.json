@@ -1,0 +1,28 @@
+{
+  "name": "fxntchunks-0.1-1.20.1-FABRIC+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zyDtZLNt",
+      "versionId": "LQABgIBq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1054542,
+      "fileId": 5489331
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fxntchunks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fxntchunks",
+      "version": "0.1-1.20.1-FABRIC+1.20.1"
+    }
+  ]
+}

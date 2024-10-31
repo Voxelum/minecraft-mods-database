@@ -1,6 +1,18 @@
 {
   "name": "CreateCasing-1.20.1-1.6.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hSSqdyU1",
+      "versionId": "4MpIYxcS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 829380,
+      "fileId": 5795620
+    }
+  ],
   "forge": [
     {
       "modId": "createcasing",

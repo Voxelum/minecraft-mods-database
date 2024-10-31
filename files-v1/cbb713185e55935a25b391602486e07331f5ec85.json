@@ -1,6 +1,12 @@
 {
   "name": "Fake Players - The Destruction Update 1.19.2.jar",
-  "domain": "mods",
+  "domain": "resourcepacks",
+  "curseforge": [
+    {
+      "projectId": 1032043,
+      "fileId": 5468531
+    }
+  ],
   "forge": [
     {
       "modId": "isolated",

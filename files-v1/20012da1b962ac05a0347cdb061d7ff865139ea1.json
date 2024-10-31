@@ -1,6 +1,18 @@
 {
   "name": "enderscape-0.4.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "btCrWvHr",
+      "versionId": "HA3ueujD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 536638,
+      "fileId": 4104666
+    }
+  ],
   "fabric": [
     {
       "modId": "enderscape",

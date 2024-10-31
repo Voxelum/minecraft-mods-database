@@ -1,6 +1,12 @@
 {
   "name": "torchhit-1.20.1-6.0.2.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zTOq9jEI",
+      "versionId": "uarjxCN7"
+    }
+  ],
   "forge": [
     {
       "modId": "torchhit",

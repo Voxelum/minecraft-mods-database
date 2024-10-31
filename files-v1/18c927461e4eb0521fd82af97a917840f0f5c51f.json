@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K23fxwUX",
+      "versionId": "pNgB3vhG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1108253,
+      "fileId": 5776733
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chiseledenchanting",
+      "version": "0.1.6+1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.14+1.21"
+    }
+  ]
+}

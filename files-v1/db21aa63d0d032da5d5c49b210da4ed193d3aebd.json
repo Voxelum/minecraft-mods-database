@@ -1,6 +1,18 @@
 {
   "name": "berry_good-1.16.5-4.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2WZWaKCl",
+      "versionId": "XsCtrUn1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 355589,
+      "fileId": 3549057
+    }
+  ],
   "forge": [
     {
       "modId": "berry_good",

@@ -1,6 +1,18 @@
 {
   "name": "a1079d42c8567b20738dfa7cdafe6b262b07a567.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QtkeMX9L",
+      "versionId": "S7xwyDWA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005193,
+      "fileId": 5350417
+    }
+  ],
   "fabric": [
     {
       "modId": "create_connected",

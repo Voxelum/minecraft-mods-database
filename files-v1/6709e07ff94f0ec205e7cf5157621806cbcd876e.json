@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vuISAWPc",
+      "versionId": "y7aWCJas"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 986251,
+      "fileId": 5635275
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "anvilcraft",
+      "version": "1.4.1+pre-release.1"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.4.5-MC1.20.1"
+    },
+    {
+      "modId": "anvillib",
+      "version": "1.0.0+build.29"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0-beta.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

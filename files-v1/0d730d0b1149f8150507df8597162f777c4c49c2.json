@@ -1,6 +1,18 @@
 {
   "name": "VampirismIntegrations-1.18.2-1.7.0-beta.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ygTFuViO",
+      "versionId": "TEVh9etl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282433,
+      "fileId": 3991501
+    }
+  ],
   "forge": [
     {
       "modId": "vampirism_integrations",

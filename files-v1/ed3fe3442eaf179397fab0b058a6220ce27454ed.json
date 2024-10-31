@@ -1,6 +1,18 @@
 {
   "name": "restrictions-1.18-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oevBqQRC",
+      "versionId": "G71SDMkj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282805,
+      "fileId": 3717947
+    }
+  ],
   "forge": [
     {
       "modId": "restrictions",

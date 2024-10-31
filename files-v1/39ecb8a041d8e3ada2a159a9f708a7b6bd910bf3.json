@@ -1,6 +1,18 @@
 {
   "name": "BrandonsCore-1.0.0.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iFDWVIFV",
+      "versionId": "YMQViTRv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 231382,
+      "fileId": 2292125
+    }
+  ],
   "forge": [
     {
       "modId": "BrandonsCore",

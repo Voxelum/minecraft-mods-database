@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.4-fork-a.02616545"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "5.0-rc2"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "1.0.2-rc1+1.21"
+    }
+  ]
+}

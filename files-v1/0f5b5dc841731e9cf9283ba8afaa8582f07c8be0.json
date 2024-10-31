@@ -1,10 +1,16 @@
 {
   "name": "Recycle Items Plus Mod-1.7.10-3.4.zip",
-  "domain": "resourcepacks",
+  "domain": "mods",
   "curseforge": [
     {
       "projectId": 70833,
       "fileId": 2227268
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ripm",
+      "version": "1.7.10-3.4"
     }
   ]
 }

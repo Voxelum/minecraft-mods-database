@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vs_clockwork",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vs_clockwork",
+      "version": "1.20.1-0.1.16-fabric-b3b22e39fe"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

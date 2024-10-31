@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1H9ZkJwF",
+      "versionId": "Mm2EhTlh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backslot",
+      "version": "1.2.15"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.5.5+mc1.20.2"
+    }
+  ]
+}

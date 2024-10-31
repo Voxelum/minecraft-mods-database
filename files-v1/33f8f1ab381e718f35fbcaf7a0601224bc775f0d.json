@@ -1,0 +1,35 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "74g7isNi",
+      "versionId": "aSin7Jd6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431079,
+      "fileId": 4293360
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ultreonlib_forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ultreonlib-fabric",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "ultreonlib",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_ultreon_ubo-data",
+      "version": "1.0.0+3"
+    }
+  ]
+}

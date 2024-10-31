@@ -1,6 +1,18 @@
 {
   "name": "healpgood-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XHAKyrZL",
+      "versionId": "nEHReiUH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 948177,
+      "fileId": 5609003
+    }
+  ],
   "fabric": [
     {
       "modId": "healpgood",

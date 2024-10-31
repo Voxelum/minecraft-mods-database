@@ -1,6 +1,18 @@
 {
   "name": "crops_love_rain-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cRci7UZp",
+      "versionId": "ydd68ewP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580294,
+      "fileId": 3821181
+    }
+  ],
   "fabric": [
     {
       "modId": "crops_love_rain",

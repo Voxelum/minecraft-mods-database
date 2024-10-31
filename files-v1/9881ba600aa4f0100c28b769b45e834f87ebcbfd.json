@@ -1,6 +1,18 @@
 {
   "name": "BQUTweaker-1.3.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Shzw0dzW",
+      "versionId": "uxTZZBaa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905701,
+      "fileId": 4733466
+    }
+  ],
   "forge": [
     {
       "modId": "bqutweaker",

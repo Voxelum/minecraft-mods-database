@@ -1,6 +1,18 @@
 {
   "name": "primalwinter-forge-1.20-5.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BOwymOaY",
+      "versionId": "Q6znQM53"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393321,
+      "fileId": 4575861
+    }
+  ],
   "forge": [
     {
       "modId": "primalwinter",

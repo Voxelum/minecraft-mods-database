@@ -1,6 +1,18 @@
 {
   "name": "moreslabsstairsandwalls-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bdBzXqbS",
+      "versionId": "pC0JHJ1s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 644005,
+      "fileId": 5195485
+    }
+  ],
   "fabric": [
     {
       "modId": "more_slabs_stairs_and_walls",

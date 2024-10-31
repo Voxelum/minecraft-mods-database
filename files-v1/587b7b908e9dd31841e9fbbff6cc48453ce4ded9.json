@@ -1,6 +1,18 @@
 {
   "name": "cagedmobs-1.16.5-forge-2.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LvTzhSqu",
+      "versionId": "xMOS9S87"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417179,
+      "fileId": 4949586
+    }
+  ],
   "forge": [
     {
       "modId": "cagedmobs",

@@ -1,6 +1,12 @@
 {
   "name": "itemdelete-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 448367,
+      "fileId": 3375832
+    }
+  ],
   "forge": [
     {
       "modId": "deleteitem",

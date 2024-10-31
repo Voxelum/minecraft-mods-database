@@ -1,6 +1,18 @@
 {
   "name": "kubejsoffline-2.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7I1fu1km",
+      "versionId": "OLXjBEwV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 641627,
+      "fileId": 4597674
+    }
+  ],
   "forge": [
     {
       "modId": "kubejsoffline",

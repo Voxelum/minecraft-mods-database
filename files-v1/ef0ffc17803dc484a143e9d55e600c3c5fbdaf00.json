@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vqqx0QiE",
+      "versionId": "VFurtkEa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558905,
+      "fileId": 5752209
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumextras",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumextras",
+      "version": "1.0.4"
+    }
+  ]
+}

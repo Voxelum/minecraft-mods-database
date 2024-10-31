@@ -1,0 +1,14 @@
+{
+  "name": "[Let's do摇曳露营]letsdo-camping-fabric-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "camping",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

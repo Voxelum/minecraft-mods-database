@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "bVRiWqcm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866084,
+      "fileId": 5544204
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeroplus",
+      "version": "2.19"
+    },
+    {
+      "modId": "net_lenni0451_lambdaevents",
+      "version": "2.4.2"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.8"
+    }
+  ]
+}

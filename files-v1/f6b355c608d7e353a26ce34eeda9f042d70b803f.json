@@ -1,6 +1,18 @@
 {
   "name": "Valoria-1.20.1-build-0.5.2.1_b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PmIir1iT",
+      "versionId": "zjkRPRHt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 698244,
+      "fileId": 5095577
+    }
+  ],
   "forge": [
     {
       "modId": "valoria",

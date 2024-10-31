@@ -1,6 +1,18 @@
 {
   "name": "sound-physics-remastered-fabric-1.21-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qyVF9oeo",
+      "versionId": "8w6T0wDj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535489,
+      "fileId": 5525279
+    }
+  ],
   "fabric": [
     {
       "modId": "sound_physics_remastered",

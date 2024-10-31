@@ -1,6 +1,18 @@
 {
   "name": "libIPN-fabric-1.21-6.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "onSQdWhM",
+      "versionId": "2aBSL3js"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 679177,
+      "fileId": 5510600
+    }
+  ],
   "fabric": [
     {
       "modId": "libipn",

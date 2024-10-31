@@ -1,6 +1,18 @@
 {
   "name": "MoreBows-1.0.12+1.16.x.forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CkMS2Yh3",
+      "versionId": "RClfaX0a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 466902,
+      "fileId": 4619420
+    }
+  ],
   "forge": [
     {
       "modId": "morebows",

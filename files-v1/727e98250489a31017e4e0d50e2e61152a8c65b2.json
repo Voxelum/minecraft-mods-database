@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "Xy2SOsNg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 5393085
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pehkui",
+      "version": "3.8.2+1.18.2-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

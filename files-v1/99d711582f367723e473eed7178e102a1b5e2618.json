@@ -1,6 +1,18 @@
 {
   "name": "fast-ip-ping-v1.0.5-mc1.19.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9mtu0sUO",
+      "versionId": "rWuoGgn4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904356,
+      "fileId": 5746979
+    }
+  ],
   "forge": [
     {
       "modId": "fastipping",

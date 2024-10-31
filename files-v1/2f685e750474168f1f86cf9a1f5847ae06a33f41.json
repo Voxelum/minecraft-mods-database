@@ -1,6 +1,18 @@
 {
   "name": "fireworkminecart-1.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gt6jUoio",
+      "versionId": "6eBcnOmx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 872440,
+      "fileId": 4600092
+    }
+  ],
   "fabric": [
     {
       "modId": "fireworkminecart",

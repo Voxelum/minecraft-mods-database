@@ -1,4 +1,16 @@
 {
   "name": "reasonable_defaults-neoforge-1.21-1.0.0.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4o2qXTOl",
+      "versionId": "QpxHzwJZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1101933,
+      "fileId": 5723164
+    }
+  ]
 }

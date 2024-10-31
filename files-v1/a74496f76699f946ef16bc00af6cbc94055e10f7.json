@@ -1,6 +1,18 @@
 {
   "name": "diet-forge-1.16.5-1.0.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SsIkH9rZ",
+      "versionId": "4uQtBYqj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443570,
+      "fileId": 4571173
+    }
+  ],
   "forge": [
     {
       "modId": "diet",

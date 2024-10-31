@@ -1,0 +1,26 @@
+{
+  "name": "nbttooltip-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G0GDoyVf",
+      "versionId": "w0reHqvu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 274816,
+      "fileId": 5598889
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nbttooltip",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

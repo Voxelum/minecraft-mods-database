@@ -1,6 +1,18 @@
 {
   "name": "panorama_screens-1.0+fabric+mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4k0QM1rC",
+      "versionId": "TeyVw3Dd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854176,
+      "fileId": 4505330
+    }
+  ],
   "fabric": [
     {
       "modId": "panorama_screens",

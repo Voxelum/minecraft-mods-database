@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 619202,
+      "fileId": 5144430
+    }
+  ],
+  "forge": [
+    {
+      "modId": "blocky_siege",
+      "version": "6.1.91"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blocky_siege",
+      "version": "4.0.0"
+    }
+  ]
+}

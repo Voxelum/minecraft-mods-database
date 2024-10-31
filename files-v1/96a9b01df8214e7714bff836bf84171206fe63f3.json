@@ -1,0 +1,22 @@
+{
+  "name": "keywizard-forge-2.0.1-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 262366,
+      "fileId": 4136156
+    }
+  ],
+  "forge": [
+    {
+      "modId": "keywizard",
+      "version": "2.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "keywizard",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "autohud-7.2.1+1.21-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "temczoTQ",
+      "versionId": "5xcxoJPy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623806,
+      "fileId": 5424297
+    }
+  ],
   "fabric": [
     {
       "modId": "autohud",

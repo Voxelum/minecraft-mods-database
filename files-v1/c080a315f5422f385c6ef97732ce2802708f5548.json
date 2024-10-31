@@ -1,6 +1,18 @@
 {
   "name": "upgrade_aquatic-1.20.1-6.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gTuTFFyz",
+      "versionId": "8oPpOKDw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 326895,
+      "fileId": 5615651
+    }
+  ],
   "forge": [
     {
       "modId": "upgrade_aquatic",

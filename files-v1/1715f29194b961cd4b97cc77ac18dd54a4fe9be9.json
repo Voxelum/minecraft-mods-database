@@ -1,6 +1,12 @@
 {
   "name": "koremods-modlauncher-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544251,
+      "fileId": 4647419
+    }
+  ],
   "forge": [
     {
       "modId": "koremods-modlauncher-1.0.0",

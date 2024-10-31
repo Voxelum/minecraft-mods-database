@@ -1,0 +1,26 @@
+{
+  "name": "ExtendedAE-1.20-1.0.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JiOqfoFM",
+      "versionId": "Wmmw6SrO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892005,
+      "fileId": 5407904
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedae",
+      "version": "1.20-1.0.2-fabric"
+    },
+    {
+      "modId": "configuration",
+      "version": "2.2.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "combatplus-core-1.0.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NbKFMiE7",
+      "versionId": "h50cFdVK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973671,
+      "fileId": 5102538
+    }
+  ],
   "fabric": [
     {
       "modId": "combat-plus-core",

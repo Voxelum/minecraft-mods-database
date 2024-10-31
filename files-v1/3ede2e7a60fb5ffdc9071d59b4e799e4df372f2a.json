@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UL4bJFDY",
+      "versionId": "ylDKsA7L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676275,
+      "fileId": 5735060
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "melius-vanish",
+      "version": "1.5.7+1.21.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.1+1.21"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.6.0+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Firmament-1.14.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IJNUBZ2a",
+      "versionId": "jHCNNmsn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "firmament",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "hypixel-mod-api",
+      "version": "1.0.1+build.1+mc1.21"
+    },
+    {
+      "modId": "mm_shedaniel",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "moulconfig",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "jarviscci",
+      "version": "1.1.3"
+    },
+    {
+      "modId": "io_ktor_ktor-client-java-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-client-content-negotiation-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-client-encoding-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-client-logging-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-client-core-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-kotlinx-json-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-events-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-websocket-serialization-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-kotlinx-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-websockets-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-http-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-utils-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "io_ktor_ktor-io-jvm",
+      "version": "2.3.12"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "1.7.36"
+    }
+  ]
+}

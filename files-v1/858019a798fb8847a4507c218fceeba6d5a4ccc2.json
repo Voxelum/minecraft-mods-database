@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "O9BbrXZa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 5460205
+    }
+  ],
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "7.63"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "7.63"
+    }
+  ]
+}

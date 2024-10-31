@@ -1,6 +1,18 @@
 {
   "name": "SolarFluxReborn-1.20.1-20.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4QG5lev4",
+      "versionId": "nj1BfCHe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246974,
+      "fileId": 5303143
+    }
+  ],
   "forge": [
     {
       "modId": "solarflux",

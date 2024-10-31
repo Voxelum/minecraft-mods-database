@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o4y0N2hu",
+      "versionId": "CSFEUtF2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterhurtcam",
+      "version": "1.9.1+mc1.21"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a790"
+    }
+  ]
+}

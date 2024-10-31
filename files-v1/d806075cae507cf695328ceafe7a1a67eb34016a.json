@@ -1,6 +1,18 @@
 {
   "name": "mobfilter-0.4.2+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gRn1FzwR",
+      "versionId": "jjjsoRT4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 569765,
+      "fileId": 5407723
+    }
+  ],
   "fabric": [
     {
       "modId": "mobfilter",

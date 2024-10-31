@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5GQG2cua",
+      "versionId": "wOl2wQf1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1011956,
+      "fileId": 5462988
+    }
+  ],
+  "forge": [
+    {
+      "modId": "expandedworld",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expandedworld",
+      "version": "1.3.0"
+    }
+  ]
+}

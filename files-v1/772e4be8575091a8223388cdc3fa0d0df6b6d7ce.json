@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sdlink",
+      "version": "3.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sdlink",
+      "version": "3.1.4"
+    }
+  ]
+}

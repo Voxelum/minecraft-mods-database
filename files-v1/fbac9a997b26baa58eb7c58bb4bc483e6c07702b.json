@@ -1,10 +1,20 @@
 {
   "name": "scorchedguns-1.6-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "nyuTtA5I"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 802940,
       "fileId": 4399679
+    },
+    {
+      "projectId": 499980,
+      "fileId": 5660287
     }
   ],
   "forge": [

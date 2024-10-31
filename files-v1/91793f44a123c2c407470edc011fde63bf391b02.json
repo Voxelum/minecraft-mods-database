@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4sYI62kA",
+      "versionId": "wAGV0z2h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1030830,
+      "fileId": 5838693
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oritech",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.11+1.21"
+    }
+  ]
+}

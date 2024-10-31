@@ -1,6 +1,18 @@
 {
   "name": "BloodMagic-1.12.2-2.4.0-102.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PbNc6qBY",
+      "versionId": "yoFaqlB8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 224791,
+      "fileId": 2667460
+    }
+  ],
   "forge": [
     {
       "modId": "bloodmagic",

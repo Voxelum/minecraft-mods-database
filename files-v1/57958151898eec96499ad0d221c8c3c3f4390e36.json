@@ -1,6 +1,12 @@
 {
   "name": "modmenu-11.0.0-beta.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "9FL4cmP7"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

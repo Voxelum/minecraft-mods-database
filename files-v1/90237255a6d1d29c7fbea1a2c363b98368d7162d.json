@@ -1,6 +1,12 @@
 {
   "name": "YetCrawl-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZX6YT9Nd",
+      "versionId": "kXQlcYQX"
+    }
+  ],
   "forge": [
     {
       "modId": "yetcrawl",

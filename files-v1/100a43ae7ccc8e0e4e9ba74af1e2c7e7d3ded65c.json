@@ -1,6 +1,18 @@
 {
   "name": "spawnermod-1.20.4-1.2.5+Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZF0coYok",
+      "versionId": "KGYnarc7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 321663,
+      "fileId": 5069359
+    }
+  ],
   "fabric": [
     {
       "modId": "spawnermod",

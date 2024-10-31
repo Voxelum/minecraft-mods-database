@@ -1,6 +1,18 @@
 {
   "name": "MorePeripherals_1.20.1-1.13.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7ACsQCnG",
+      "versionId": "1zQ5RuO1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570908,
+      "fileId": 5268197
+    }
+  ],
   "forge": [
     {
       "modId": "peripherals",

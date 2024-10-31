@@ -1,0 +1,48 @@
+{
+  "name": "andromeda-1.13.3-1.20.1-build.104.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TseYlb0f",
+      "versionId": "plz93P7v"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "andromeda",
+      "version": "1.13.3-1.20.1-build.104"
+    },
+    {
+      "modId": "dark-matter-item-group",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-mixin",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-crash-handler",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-glitter",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-data",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "4.1.0-1.20.1-build.86"
+    },
+    {
+      "modId": "dark-matter-mirage",
+      "version": "4.1.0-1.20.1-build.86"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "youkaishomecoming-2.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uJT3ahxz",
+      "versionId": "plZHhRQx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 957437,
+      "fileId": 5531385
+    }
+  ],
   "forge": [
     {
       "modId": "youkaishomecoming",

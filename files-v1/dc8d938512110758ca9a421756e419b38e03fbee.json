@@ -1,0 +1,16 @@
+{
+  "name": "[马车]niftycarts-20.1.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "niftycarts",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "niftycarts",
+      "version": "20.1.3"
+    }
+  ]
+}

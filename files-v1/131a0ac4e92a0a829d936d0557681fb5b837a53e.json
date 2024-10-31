@@ -1,6 +1,18 @@
 {
   "name": "camps_castles_carriages-2.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h9XxzZxe",
+      "versionId": "jVMIyq3x"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938667,
+      "fileId": 5364310
+    }
+  ],
   "forge": [
     {
       "modId": "mr_camps_castles_carriages",

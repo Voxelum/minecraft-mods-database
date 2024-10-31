@@ -1,6 +1,12 @@
 {
   "name": "sawmill-1.20-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WRaRZdTd",
+      "versionId": "fD7B5a4e"
+    }
+  ],
   "forge": [
     {
       "modId": "sawmill",

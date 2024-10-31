@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VovaWDa",
+      "versionId": "ioVSWBf4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pvpflag",
+      "version": "1.3.0+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

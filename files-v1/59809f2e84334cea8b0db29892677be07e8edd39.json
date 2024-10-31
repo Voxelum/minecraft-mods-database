@@ -1,6 +1,18 @@
 {
   "name": "grapplemod-1.16.5-v12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hGWjTxOA",
+      "versionId": "bmbFs4BL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238911,
+      "fileId": 3564285
+    }
+  ],
   "forge": [
     {
       "modId": "grapplemod",

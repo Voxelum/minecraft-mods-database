@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C3GPSIgH",
+      "versionId": "hmqMFdum"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wacforge",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wacfabric",
+      "version": "1.2.1"
+    }
+  ]
+}

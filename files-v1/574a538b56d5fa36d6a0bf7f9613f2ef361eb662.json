@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NLV0Mnpu",
+      "versionId": "AfxwGce6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967052,
+      "fileId": 5472024
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vaultpatcher",
+      "version": "1.4.2+2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

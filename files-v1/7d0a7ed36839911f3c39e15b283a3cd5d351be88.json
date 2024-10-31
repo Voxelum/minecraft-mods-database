@@ -1,6 +1,12 @@
 {
   "name": "【村民附魔职业】VillagerEnchanter-0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 892761,
+      "fileId": 4660928
+    }
+  ],
   "fabric": [
     {
       "modId": "villager_enchanter",

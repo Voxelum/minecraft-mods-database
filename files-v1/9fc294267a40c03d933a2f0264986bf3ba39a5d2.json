@@ -1,0 +1,30 @@
+{
+  "name": "perfectbirbs-fabric-1.20.1-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7DldwCbW",
+      "versionId": "mG3gH7Pk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1057248,
+      "fileId": 5738420
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "perfectbirbs",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.3"
+    },
+    {
+      "modId": "perfectplushieapi",
+      "version": "0.1.1"
+    }
+  ]
+}

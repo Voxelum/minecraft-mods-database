@@ -1,6 +1,12 @@
 {
   "name": "discordrpc-2.0.7-1.16.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 300569,
+      "fileId": 3170831
+    }
+  ],
   "forge": [
     {
       "modId": "discordrpc",

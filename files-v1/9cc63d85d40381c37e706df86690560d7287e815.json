@@ -1,6 +1,18 @@
 {
   "name": "vintagefix-0.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e6vNsbAm",
+      "versionId": "EL8Ilhd0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871198,
+      "fileId": 4753319
+    }
+  ],
   "forge": [
     {
       "modId": "vintagefix",

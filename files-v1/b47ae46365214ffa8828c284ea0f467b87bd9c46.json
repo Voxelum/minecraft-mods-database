@@ -1,6 +1,12 @@
 {
   "name": "peripheralium-forge-1.20.1-0.6.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vV2a9qrZ",
+      "versionId": "J9AjdcpG"
+    }
+  ],
   "forge": [
     {
       "modId": "peripheralium",

@@ -1,0 +1,28 @@
+{
+  "name": "lucky_cat-2.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jVFWaCwk",
+      "versionId": "1vxvdJRQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938718,
+      "fileId": 5366080
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lucky_cat",
+      "version": "2.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lucky_cat",
+      "version": "2.1.1"
+    }
+  ]
+}

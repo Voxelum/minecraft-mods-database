@@ -1,6 +1,18 @@
 {
   "name": "fpsdisplay-4.2.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DIlqwRFH",
+      "versionId": "KkRFEG7u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440228,
+      "fileId": 5483458
+    }
+  ],
   "fabric": [
     {
       "modId": "fpsdisplay",

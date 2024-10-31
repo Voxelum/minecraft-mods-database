@@ -1,6 +1,18 @@
 {
   "name": "dropthemeat-1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Qgn68FJf",
+      "versionId": "Q8UXpvSc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404141,
+      "fileId": 5015504
+    }
+  ],
   "forge": [
     {
       "modId": "dropthemeat",

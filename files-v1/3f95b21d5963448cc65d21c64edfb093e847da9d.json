@@ -1,6 +1,18 @@
 {
   "name": "TellMeMyItems-1.18-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WGOFYOAx",
+      "versionId": "PiX8v62s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 640480,
+      "fileId": 3861632
+    }
+  ],
   "forge": [
     {
       "modId": "tellmemyitems",

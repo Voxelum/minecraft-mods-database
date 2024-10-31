@@ -1,6 +1,18 @@
 {
   "name": "scarecrowsterritory-1.1.9-forge-mc1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1RaTTUPz",
+      "versionId": "FQD0yhqu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 435965,
+      "fileId": 4515617
+    }
+  ],
   "forge": [
     {
       "modId": "scarecrowsterritory",

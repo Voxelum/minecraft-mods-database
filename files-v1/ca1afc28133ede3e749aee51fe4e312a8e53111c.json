@@ -1,6 +1,18 @@
 {
   "name": "mns-1.0.2-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nGUXvjTa",
+      "versionId": "EpHLrcVq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967466,
+      "fileId": 5492561
+    }
+  ],
   "fabric": [
     {
       "modId": "mns",

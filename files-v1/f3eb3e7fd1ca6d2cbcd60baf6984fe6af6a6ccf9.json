@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "resourcefullib",
+      "version": "2.1.29"
+    },
+    {
+      "modId": "com_teamresourceful_yabn",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_teamresourceful_bytecodecs",
+      "version": "1.0.2"
+    }
+  ]
+}

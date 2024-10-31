@@ -1,6 +1,18 @@
 {
   "name": "no-report-button-fabric-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9WJeSpTH",
+      "versionId": "rq7A1SX4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658722,
+      "fileId": 4594976
+    }
+  ],
   "fabric": [
     {
       "modId": "noreportbutton",

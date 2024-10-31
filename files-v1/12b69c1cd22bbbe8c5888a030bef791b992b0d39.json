@@ -1,0 +1,28 @@
+{
+  "name": "formationsnether-1.0.5-mc1.21+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cGvQGRls",
+      "versionId": "6DBJbZXK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 918840,
+      "fileId": 5627771
+    }
+  ],
+  "forge": [
+    {
+      "modId": "formationsnether",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "formationsnether",
+      "version": "1.0.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Goety-2.34.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZVIxU8x",
+      "versionId": "tbJ3HiYL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 586095,
+      "fileId": 5339685
+    }
+  ],
   "forge": [
     {
       "modId": "goety",

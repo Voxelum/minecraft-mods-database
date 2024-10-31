@@ -1,6 +1,18 @@
 {
   "name": "hammerlib-1.12.2-12.2.56.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PlkSuVtM",
+      "versionId": "kTkkPMX6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247401,
+      "fileId": 5655181
+    }
+  ],
   "forge": [
     {
       "modId": "hammercore",

@@ -1,6 +1,18 @@
 {
   "name": "sanitydim-mc1.18-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8EwpjZay",
+      "versionId": "8SVYYmnh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876448,
+      "fileId": 4633000
+    }
+  ],
   "forge": [
     {
       "modId": "sanitydim",

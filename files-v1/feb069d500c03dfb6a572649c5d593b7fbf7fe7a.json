@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZHHXRhiU",
+      "versionId": "p35CST3F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 386380,
+      "fileId": 5355592
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iammusicplayer",
+      "version": "3.22.0-alpha.5"
+    },
+    {
+      "modId": "special-model-loader",
+      "version": "1.2.0"
+    }
+  ]
+}

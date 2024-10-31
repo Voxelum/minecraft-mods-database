@@ -1,6 +1,18 @@
 {
   "name": "simplehats-forge-1.19.2-0.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iSkQCp6b",
+      "versionId": "nxHfpSMn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631990,
+      "fileId": 5603818
+    }
+  ],
   "forge": [
     {
       "modId": "simplehats",

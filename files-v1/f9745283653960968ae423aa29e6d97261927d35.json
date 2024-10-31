@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d0f1a75r",
+      "versionId": "1Jb9RfjX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523423,
+      "fileId": 5652327
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uncraftingtable76",
+      "version": "1.3.6"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

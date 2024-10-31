@@ -1,6 +1,12 @@
 {
   "name": "worldedit-forge-mc1.8.9-6.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225608,
+      "fileId": 2275930
+    }
+  ],
   "forge": [
     {
       "modId": "worldedit",

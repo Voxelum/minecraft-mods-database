@@ -1,0 +1,70 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mcsrranked",
+      "version": "4.0.10"
+    },
+    {
+      "modId": "antigone",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "extra-options",
+      "version": "1.0.1+1.16.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.1.3+12a8474c02"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.1+f404f3be02"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.2.0+e83e061c02"
+    },
+    {
+      "modId": "fabric-object-builder-api-v1",
+      "version": "1.5.7+2242e77202"
+    },
+    {
+      "modId": "fabric-renderer-registries-v1",
+      "version": "2.1.0+be551d3c02"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.1.2+346247d702"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.2.6+f41e209802"
+    },
+    {
+      "modId": "fabric-tag-extensions-v0",
+      "version": "0.2.7+a4c57d8e02"
+    },
+    {
+      "modId": "fabric-tool-attribute-api-v1",
+      "version": "1.2.1+91fca5cd02"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "speedrunapi",
+      "version": "1.0.1+1.16.1"
+    },
+    {
+      "modId": "speedrunigt",
+      "version": "15.1+1.16.1"
+    }
+  ]
+}

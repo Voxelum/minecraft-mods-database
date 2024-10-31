@@ -1,6 +1,18 @@
 {
   "name": "corndelight-1.20.1-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LbZWy6od",
+      "versionId": "zKfDwbB7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899614,
+      "fileId": 4738038
+    }
+  ],
   "fabric": [
     {
       "modId": "corndelight",

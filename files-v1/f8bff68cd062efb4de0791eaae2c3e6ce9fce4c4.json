@@ -1,6 +1,18 @@
 {
   "name": "modernlife-1.20.1-1.69.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AwQInKYB",
+      "versionId": "yQsAbZnA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483050,
+      "fileId": 5368035
+    }
+  ],
   "forge": [
     {
       "modId": "modernlife",

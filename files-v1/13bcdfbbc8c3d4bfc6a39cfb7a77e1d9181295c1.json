@@ -1,6 +1,18 @@
 {
   "name": "Gyth-1.10.2-2.0.0.27.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XgBQPJ9u",
+      "versionId": "H0wjhg6R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 226696,
+      "fileId": 2401580
+    }
+  ],
   "forge": [
     {
       "modId": "gyth",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lNDRiXkY",
+      "versionId": "QhCSJtm3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981139,
+      "fileId": 5751853
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantsandventures",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

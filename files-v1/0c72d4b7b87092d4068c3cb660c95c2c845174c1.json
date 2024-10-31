@@ -1,6 +1,18 @@
 {
   "name": "gregtech-1.12.2-2.8.10-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tULldUx4",
+      "versionId": "vaQ5bJYU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 557242,
+      "fileId": 5519022
+    }
+  ],
   "forge": [
     {
       "modId": "gregtech",

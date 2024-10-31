@@ -1,6 +1,12 @@
 {
   "name": "remove_base_origins_1.20+_Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 853739,
+      "fileId": 4610107
+    }
+  ],
   "fabric": [
     {
       "modId": "remove_base_origins",

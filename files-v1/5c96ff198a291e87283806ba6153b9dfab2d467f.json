@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "WKFetSnp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 5825361
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.0+1.20.4-fabric"
+    },
+    {
+      "modId": "com_twelvemonkeys_common_common-image",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "com_twelvemonkeys_common_common-io",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "com_twelvemonkeys_common_common-lang",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "org_quiltmc_parsers_gson",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "com_twelvemonkeys_imageio_imageio-core",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "com_twelvemonkeys_imageio_imageio-metadata",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "com_twelvemonkeys_imageio_imageio-webp",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.2.1"
+    }
+  ]
+}

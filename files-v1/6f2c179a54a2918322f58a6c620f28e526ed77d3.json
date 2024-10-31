@@ -1,6 +1,18 @@
 {
   "name": "mru-0.4.4+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNVQ2c0g",
+      "versionId": "dMTEZn0q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 669659,
+      "fileId": 5482631
+    }
+  ],
   "fabric": [
     {
       "modId": "mru",

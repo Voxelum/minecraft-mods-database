@@ -1,6 +1,12 @@
 {
   "name": "create-man-of-many-planes-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F4Rdk2PX",
+      "versionId": "XUkRA6F4"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_create_manofmanyplanes",

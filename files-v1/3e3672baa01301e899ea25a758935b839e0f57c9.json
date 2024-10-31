@@ -1,0 +1,24 @@
+{
+  "name": "image2map-0.7.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "13RpG7dA",
+      "versionId": "esrvoaS1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "image2map",
+      "version": "0.7.0+1.21"
+    },
+    {
+      "modId": "map-canvas-api",
+      "version": "0.4.0+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    }
+  ]
+}

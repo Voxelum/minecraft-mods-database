@@ -1,6 +1,18 @@
 {
   "name": "RapidLeafDecay-1.20.1-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jSQXzmcf",
+      "versionId": "4HT3hgJf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396847,
+      "fileId": 4628710
+    }
+  ],
   "forge": [
     {
       "modId": "rapid_leaf_decay",

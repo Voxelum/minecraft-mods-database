@@ -1,6 +1,18 @@
 {
   "name": "musictriggers-1.19.2-6.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RXDYkg6Z",
+      "versionId": "x0IEQMjC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 518410,
+      "fileId": 4836499
+    }
+  ],
   "forge": [
     {
       "modId": "musictriggers",

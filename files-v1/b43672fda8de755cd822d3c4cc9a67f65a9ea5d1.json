@@ -1,6 +1,18 @@
 {
   "name": "Lexiconfig-forge-1.3.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D157Rgyf",
+      "versionId": "lwVdnWWV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1019452,
+      "fileId": 5433945
+    }
+  ],
   "forge": [
     {
       "modId": "lexiconfig",

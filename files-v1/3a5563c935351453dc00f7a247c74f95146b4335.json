@@ -1,6 +1,18 @@
 {
   "name": "additionz-1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QeSwHM7w",
+      "versionId": "uIBwQbWY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659920,
+      "fileId": 5376667
+    }
+  ],
   "fabric": [
     {
       "modId": "additionz",

@@ -1,6 +1,18 @@
 {
   "name": "modmenu-1.16.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "NyFB1gry"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 3400184
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

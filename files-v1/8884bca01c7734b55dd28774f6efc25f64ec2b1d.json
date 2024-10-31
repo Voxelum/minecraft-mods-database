@@ -1,6 +1,18 @@
 {
   "name": "design_decor-0.2a-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x49wilh8",
+      "versionId": "GiYNzmWM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923238,
+      "fileId": 4919147
+    }
+  ],
   "forge": [
     {
       "modId": "design_decor",

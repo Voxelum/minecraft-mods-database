@@ -1,6 +1,18 @@
 {
   "name": "MCTSmelteryIO-1.12.2-1.2.63.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PeW5XkPJ",
+      "versionId": "edEcqcy1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 326155,
+      "fileId": 3151006
+    }
+  ],
   "forge": [
     {
       "modId": "mctsmelteryio",

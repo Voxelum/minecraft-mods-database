@@ -1,6 +1,18 @@
 {
   "name": "mcw-paintings-1.0.4-mc1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "okE6QVAY",
+      "versionId": "e9AJLhq3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438116,
+      "fileId": 3922990
+    }
+  ],
   "forge": [
     {
       "modId": "mcwpaintings",

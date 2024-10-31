@@ -1,6 +1,12 @@
 {
   "name": "oauth-1.1.13-1.7.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K8pn1qHf",
+      "versionId": "IzGOiYMY"
+    }
+  ],
   "forge": [
     {
       "modId": "oauth",

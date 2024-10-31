@@ -1,6 +1,12 @@
 {
   "name": "library-1.19.2-2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 953753,
+      "fileId": 5232871
+    }
+  ],
   "forge": [
     {
       "modId": "library",

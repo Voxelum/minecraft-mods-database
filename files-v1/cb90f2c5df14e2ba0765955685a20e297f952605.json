@@ -1,6 +1,18 @@
 {
   "name": "levelz-1.4.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EFtixeiF",
+      "versionId": "Mk1aTgPH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 517130,
+      "fileId": 4661487
+    }
+  ],
   "fabric": [
     {
       "modId": "levelz",

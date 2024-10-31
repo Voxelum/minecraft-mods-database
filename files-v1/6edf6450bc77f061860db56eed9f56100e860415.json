@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.3"
+    }
+  ]
+}

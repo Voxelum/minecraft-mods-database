@@ -1,6 +1,12 @@
 {
   "name": "WorldDataLoader-1.18-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 839000,
+      "fileId": 4510376
+    }
+  ],
   "forge": [
     {
       "modId": "worlddataloader",

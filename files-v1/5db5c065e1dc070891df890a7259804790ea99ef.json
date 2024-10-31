@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XwBDibES",
+      "versionId": "ksXxPZ6b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 465690,
+      "fileId": 5242966
+    }
+  ],
+  "forge": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.1"
+    }
+  ]
+}

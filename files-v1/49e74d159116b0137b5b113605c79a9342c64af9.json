@@ -1,6 +1,18 @@
 {
   "name": "deepmoblearning-refabricated-0.5.12-BETA+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "osuPHzT3",
+      "versionId": "gjfb8lVr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398614,
+      "fileId": 4437241
+    }
+  ],
   "fabric": [
     {
       "modId": "dml-refabricated",

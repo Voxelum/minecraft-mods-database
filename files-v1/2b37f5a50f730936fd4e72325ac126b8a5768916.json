@@ -1,6 +1,18 @@
 {
   "name": "endertanks-fabric-1.20.1-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zZwEA08D",
+      "versionId": "MgZ3sbNa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 811191,
+      "fileId": 5317837
+    }
+  ],
   "fabric": [
     {
       "modId": "endertanks",

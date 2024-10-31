@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SWS2Fl4W",
+      "versionId": "B5hVOsZF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324674,
+      "fileId": 5573024
+    }
+  ],
+  "forge": [
+    {
+      "modId": "altereddamage",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "altereddamage",
+      "version": "3.5"
+    }
+  ]
+}

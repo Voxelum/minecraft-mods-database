@@ -1,6 +1,18 @@
 {
   "name": "fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ha28R6CL",
+      "versionId": "B0fZidZi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308769,
+      "fileId": 5802211
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-language-kotlin",

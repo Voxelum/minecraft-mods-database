@@ -1,6 +1,12 @@
 {
   "name": "nightmare.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 953589,
+      "fileId": 4981679
+    }
+  ],
   "forge": [
     {
       "modId": "cave_dweller",

@@ -1,6 +1,18 @@
 {
   "name": "CraftingXP 1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dzAvfm8y",
+      "versionId": "wQ6ZqWbH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936105,
+      "fileId": 4879862
+    }
+  ],
   "forge": [
     {
       "modId": "craftingxp",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "konkrete",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

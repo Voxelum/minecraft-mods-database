@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wvCSIW08",
+      "versionId": "quj3b9vj"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vmtranslationupdate",
+      "version": "2.4.0+mc1.16.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vmtranslationupdate",
+      "version": "2.4.0+mc1.16.5"
+    }
+  ]
+}

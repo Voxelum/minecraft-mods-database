@@ -1,6 +1,18 @@
 {
   "name": "mobsonrails-1.0.0 forge-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SjNPcWNX",
+      "versionId": "Q4G2EBqn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360240,
+      "fileId": 2870143
+    }
+  ],
   "forge": [
     {
       "modId": "mobsonrails",

@@ -1,6 +1,18 @@
 {
   "name": "argonauts-forge-1.20.1-1.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bb2EpKpx",
+      "versionId": "r0eKAc5z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845833,
+      "fileId": 5263580
+    }
+  ],
   "forge": [
     {
       "modId": "argonauts",

@@ -1,6 +1,18 @@
 {
   "name": "ChippedExpress-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQIcJONI",
+      "versionId": "nxBJ3lJV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938916,
+      "fileId": 5528635
+    }
+  ],
   "forge": [
     {
       "modId": "chipped_express",

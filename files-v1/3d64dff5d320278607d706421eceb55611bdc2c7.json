@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterStrongholds-1.21.1-Fabric-5.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kidLKymU",
+      "versionId": "mPpbOC9S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 480684,
+      "fileId": 5812203
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterstrongholds",
+      "version": "1.21.1-Fabric-5.1.2"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

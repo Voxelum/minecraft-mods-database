@@ -1,6 +1,12 @@
 {
   "name": "rpgmana-1.0.8.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1021902,
+      "fileId": 5447010
+    }
+  ],
   "fabric": [
     {
       "modId": "rpgmana",

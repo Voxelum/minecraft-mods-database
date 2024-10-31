@@ -1,6 +1,18 @@
 {
   "name": "Draconic-Evolution-1.7.10-1.0.2h.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nBqivi8H",
+      "versionId": "1IRduNsS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 223565,
+      "fileId": 2313451
+    }
+  ],
   "forge": [
     {
       "modId": "DraconicEvolution",

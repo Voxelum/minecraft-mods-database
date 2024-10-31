@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BeIrqZR",
+      "versionId": "dmfsTyQU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "1.13.0-alpha.5+mc.1.21.x"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.12.0-alpha.8+mc.1.21.x"
+    }
+  ]
+}

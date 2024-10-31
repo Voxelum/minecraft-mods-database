@@ -1,6 +1,18 @@
 {
   "name": "justzoom_fabric_2.0.0_MC_1.21-1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iAiqcykM",
+      "versionId": "120aJYdJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561885,
+      "fileId": 5619650
+    }
+  ],
   "fabric": [
     {
       "modId": "justzoom",

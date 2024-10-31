@@ -1,0 +1,26 @@
+{
+  "name": "toms_storage_fabric-1.21.3-2.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XZNI4Cpy",
+      "versionId": "t4dmpxAg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396826,
+      "fileId": 5845324
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_storage",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

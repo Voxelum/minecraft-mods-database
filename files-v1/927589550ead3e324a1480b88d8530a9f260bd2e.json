@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_bft",
+      "version": "3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bft",
+      "version": "3.0.0"
+    }
+  ]
+}

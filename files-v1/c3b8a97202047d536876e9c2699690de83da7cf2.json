@@ -1,6 +1,12 @@
 {
   "name": "balm-fabric-1.21-21.0.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBAkmtvl",
+      "versionId": "ryOwjzmq"
+    }
+  ],
   "fabric": [
     {
       "modId": "balm-fabric",

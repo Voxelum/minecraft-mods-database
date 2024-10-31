@@ -1,6 +1,18 @@
 {
   "name": "auditory-0.0.7-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UafsfA4K",
+      "versionId": "3jadriG3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 987725,
+      "fileId": 5438283
+    }
+  ],
   "fabric": [
     {
       "modId": "auditory",

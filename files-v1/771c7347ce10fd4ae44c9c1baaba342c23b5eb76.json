@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "U5SxX7px"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866084,
+      "fileId": 5815071
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeroplus",
+      "version": "2.24.4"
+    },
+    {
+      "modId": "net_lenni0451_lambdaevents",
+      "version": "2.4.2"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.8"
+    },
+    {
+      "modId": "com_github_rfresh2_oldbiomes",
+      "version": "1.0"
+    }
+  ]
+}

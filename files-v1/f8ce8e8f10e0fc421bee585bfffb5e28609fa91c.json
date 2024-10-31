@@ -1,10 +1,16 @@
 {
   "name": "shiny ores 1.19 - 1.19.2 v1.2.zip",
-  "domain": "resourcepacks",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "oYrEfh82",
       "versionId": "V7jNeW7C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849740,
+      "fileId": 4540601
     }
   ]
 }

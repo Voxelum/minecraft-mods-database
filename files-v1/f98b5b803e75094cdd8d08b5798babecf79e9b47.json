@@ -1,6 +1,12 @@
 {
   "name": "koi-1.0.1-1.17.X.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 396184,
+      "fileId": 3474449
+    }
+  ],
   "fabric": [
     {
       "modId": "koi",

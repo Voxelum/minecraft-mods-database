@@ -1,6 +1,18 @@
 {
   "name": "benched-1.2.2a-forge-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WjRy3Hb2",
+      "versionId": "3uRLywuz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417063,
+      "fileId": 4607564
+    }
+  ],
   "forge": [
     {
       "modId": "benched",

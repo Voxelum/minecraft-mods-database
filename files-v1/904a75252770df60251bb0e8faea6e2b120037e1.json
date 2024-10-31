@@ -1,6 +1,18 @@
 {
   "name": "sanitydim-mc1.19.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8EwpjZay",
+      "versionId": "tnqlQiag"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876448,
+      "fileId": 4605363
+    }
+  ],
   "forge": [
     {
       "modId": "sanitydim",

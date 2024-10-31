@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vebnzrzj",
+      "versionId": "l47d4ZWk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431733,
+      "fileId": 5654228
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luckperms",
+      "version": "5.4.140"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

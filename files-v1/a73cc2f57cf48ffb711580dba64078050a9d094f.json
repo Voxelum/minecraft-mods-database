@@ -1,6 +1,18 @@
 {
   "name": "weaponmaster_ydm-fabric-1.20.1-4.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qi1sj2da",
+      "versionId": "jV5BFDGB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 608235,
+      "fileId": 5571298
+    }
+  ],
   "fabric": [
     {
       "modId": "weaponmaster_ydm",

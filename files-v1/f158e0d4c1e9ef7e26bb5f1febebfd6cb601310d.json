@@ -1,6 +1,18 @@
 {
   "name": "lesraisinsadd-0.1.4.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vWxaCnwP",
+      "versionId": "RRusAmrg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 931523,
+      "fileId": 5329442
+    }
+  ],
   "forge": [
     {
       "modId": "lesraisinsadd",

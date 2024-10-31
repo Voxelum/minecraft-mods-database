@@ -1,6 +1,18 @@
 {
   "name": "UniLib-1.0.2+1.21.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nT86WUER",
+      "versionId": "pkUHMNVU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056812,
+      "fileId": 5656709
+    }
+  ],
   "fabric": [
     {
       "modId": "unilib",

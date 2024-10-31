@@ -1,6 +1,12 @@
 {
   "name": "eyemod-3.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 580381,
+      "fileId": 5355533
+    }
+  ],
   "forge": [
     {
       "modId": "eyemod",

@@ -1,6 +1,18 @@
 {
   "name": "AetherVillages-1.20.1-1.0.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3P2XnNW6",
+      "versionId": "OzwnZJnj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1073197,
+      "fileId": 5582589
+    }
+  ],
   "forge": [
     {
       "modId": "aether_villages",

@@ -1,6 +1,12 @@
 {
   "name": "DynamicLightsPatch-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L51gT4Cp",
+      "versionId": "14C7c75U"
+    }
+  ],
   "forge": [
     {
       "modId": "DynamicLightsPatch",

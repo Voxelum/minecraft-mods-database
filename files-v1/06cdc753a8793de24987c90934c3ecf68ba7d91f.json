@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k1ztTaVt",
+      "versionId": "lUlK2UqP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348156,
+      "fileId": 4573451
+    }
+  ],
+  "forge": [
+    {
+      "modId": "votecommand",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "votecommand",
+      "version": "3.0"
+    }
+  ]
+}

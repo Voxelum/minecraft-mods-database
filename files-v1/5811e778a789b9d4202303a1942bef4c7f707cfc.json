@@ -1,6 +1,18 @@
 {
   "name": "justmobheads-1.20.1-7.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jzTUm9hE",
+      "versionId": "li52IuO8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 293320,
+      "fileId": 5362437
+    }
+  ],
   "forge": [
     {
       "modId": "justmobheads",

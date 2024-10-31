@@ -1,6 +1,18 @@
 {
   "name": "mcw-roofs-2.3.1-mc1.20.1fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B8jaH3P1",
+      "versionId": "EOjhPmTj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 352039,
+      "fileId": 5554929
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwroofs",

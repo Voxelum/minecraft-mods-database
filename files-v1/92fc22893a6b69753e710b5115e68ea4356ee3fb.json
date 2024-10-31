@@ -1,6 +1,18 @@
 {
   "name": "SnowRealMagic-1.20.1-Forge-10.5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iJNje1E8",
+      "versionId": "Z5A25ipN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308663,
+      "fileId": 5801189
+    }
+  ],
   "forge": [
     {
       "modId": "snowrealmagic",

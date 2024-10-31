@@ -1,6 +1,18 @@
 {
   "name": "Steam_Rails-1.6.4+forge-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "a0hkZGSr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 5331260
+    }
+  ],
   "forge": [
     {
       "modId": "railways",

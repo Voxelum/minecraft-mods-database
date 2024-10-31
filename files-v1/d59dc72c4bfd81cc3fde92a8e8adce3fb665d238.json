@@ -1,6 +1,18 @@
 {
   "name": "Cobblepedia-Fabric-0.6.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2obPz7jf",
+      "versionId": "rfnSy2K4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850946,
+      "fileId": 5540313
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblepedia",

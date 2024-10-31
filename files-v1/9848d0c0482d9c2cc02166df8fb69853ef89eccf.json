@@ -1,0 +1,28 @@
+{
+  "name": "enchanter_fix-1.0.1+mc1.20+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vNE5j3Te",
+      "versionId": "88tmro0h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1076285,
+      "fileId": 5762081
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchanter_fix",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchanter_fix",
+      "version": "1.1"
+    }
+  ]
+}

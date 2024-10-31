@@ -1,6 +1,18 @@
 {
   "name": "probejs-6.0.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JJNYRb4B",
+      "versionId": "yzoeAC7L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585406,
+      "fileId": 5099096
+    }
+  ],
   "fabric": [
     {
       "modId": "probejs",

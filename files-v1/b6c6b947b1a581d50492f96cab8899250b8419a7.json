@@ -1,0 +1,26 @@
+{
+  "name": "RoughlyEnoughItems-8.4.715-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nfn13YXA",
+      "versionId": "IBbJnn4v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 5290596
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "8.4.715"
+    },
+    {
+      "modId": "error_notifier",
+      "version": "1.0.9"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bqmWbUVO",
+      "versionId": "i8QRk1KX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916376,
+      "fileId": 5743050
+    }
+  ],
+  "forge": [
+    {
+      "modId": "glore",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glore",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

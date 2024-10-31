@@ -1,6 +1,18 @@
 {
   "name": "FNAF Mod Update 4,2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xVY2l4TW",
+      "versionId": "UxxDiyJ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 513493,
+      "fileId": 4817320
+    }
+  ],
   "forge": [
     {
       "modId": "fnaf_mod",

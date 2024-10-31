@@ -1,6 +1,18 @@
 {
   "name": "ASMC-1.12.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xc1brHiM",
+      "versionId": "FqIRS2is"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 364982,
+      "fileId": 2902440
+    }
+  ],
   "forge": [
     {
       "modId": "asmc",

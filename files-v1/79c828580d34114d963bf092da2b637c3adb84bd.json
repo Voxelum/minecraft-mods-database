@@ -1,6 +1,12 @@
 {
   "name": "more-apples-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XTgPDqp3",
+      "versionId": "5a7aCwCf"
+    }
+  ],
   "forge": [
     {
       "modId": "more_apples_mr",

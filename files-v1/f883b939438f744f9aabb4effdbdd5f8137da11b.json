@@ -1,6 +1,18 @@
 {
   "name": "charge_jump-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AjfMeEPz",
+      "versionId": "H1jfSgxm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965719,
+      "fileId": 5240060
+    }
+  ],
   "fabric": [
     {
       "modId": "charge_jump",

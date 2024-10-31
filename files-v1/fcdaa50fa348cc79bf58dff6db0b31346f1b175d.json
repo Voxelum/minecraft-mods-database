@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "692GClaE",
+      "versionId": "a8J0S2Pn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538392,
+      "fileId": 5675085
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modonomicon",
+      "version": "1.75.0"
+    },
+    {
+      "modId": "org_commonmark_commonmark",
+      "version": "0.22.0"
+    },
+    {
+      "modId": "org_commonmark_commonmark-ext-gfm-strikethrough",
+      "version": "0.22.0"
+    },
+    {
+      "modId": "org_commonmark_commonmark-ext-ins",
+      "version": "0.22.0"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

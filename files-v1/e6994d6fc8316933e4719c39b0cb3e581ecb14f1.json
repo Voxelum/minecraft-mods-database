@@ -1,6 +1,18 @@
 {
   "name": "damagenumbers-1.4.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWdXs2dQ",
+      "versionId": "2pfcLVuj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1022853,
+      "fileId": 5475552
+    }
+  ],
   "fabric": [
     {
       "modId": "damagenumbers",

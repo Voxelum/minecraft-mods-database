@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ARsp8FWC",
+      "versionId": "k20EkreA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1111290,
+      "fileId": 5766639
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "monarchs",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.1.0+1.21"
+    }
+  ]
+}

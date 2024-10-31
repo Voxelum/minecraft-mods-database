@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h9pJxJR9",
+      "versionId": "Py1YQnif"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bigpony",
+      "version": "1.11.2+1.20.1"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.15.4+1.20"
+    }
+  ]
+}

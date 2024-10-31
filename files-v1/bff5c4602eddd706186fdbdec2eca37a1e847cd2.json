@@ -1,6 +1,18 @@
 {
   "name": "BedBenefits-Fabric-1.19.2-9.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wl8l4Sim",
+      "versionId": "CmYCtWDp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377051,
+      "fileId": 4426617
+    }
+  ],
   "fabric": [
     {
       "modId": "bedbenefits",

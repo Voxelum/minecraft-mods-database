@@ -1,0 +1,26 @@
+{
+  "name": "convenientdecor-0.4.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gMWAhU1n",
+      "versionId": "JrcEJiEH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 794452,
+      "fileId": 5719100
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "convenientdecor",
+      "version": "0.4.3"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.4.0+1.20.1"
+    }
+  ]
+}

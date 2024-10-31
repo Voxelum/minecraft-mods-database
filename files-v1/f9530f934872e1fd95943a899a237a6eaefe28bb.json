@@ -1,6 +1,12 @@
 {
   "name": "externaltweaker-1.12-0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 270558,
+      "fileId": 2452858
+    }
+  ],
   "forge": [
     {
       "modId": "externaltweaker",

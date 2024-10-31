@@ -1,6 +1,18 @@
 {
   "name": "horseinboat-forge-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jZ1T46Hr",
+      "versionId": "YWD6550q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576601,
+      "fileId": 3855753
+    }
+  ],
   "forge": [
     {
       "modId": "horseinboat",

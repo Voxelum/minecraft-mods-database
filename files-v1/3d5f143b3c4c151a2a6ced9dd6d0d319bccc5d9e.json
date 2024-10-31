@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "13RpG7dA",
+      "versionId": "IcHYiWHv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "image2map",
+      "version": "0.7.1+1.21"
+    },
+    {
+      "modId": "map-canvas-api",
+      "version": "0.4.1+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yMAHcHNr",
+      "versionId": "urgkp4eG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 649637,
+      "fileId": 5323632
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bluemap_custom_skin_server",
+      "version": "2024.5.1"
+    },
+    {
+      "modId": "ducky-updater-lib",
+      "version": "2023.10.1"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.12.3"
+    },
+    {
+      "modId": "org_sejda_imageio_webp-imageio",
+      "version": "0.1.6"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "scanner-1.5.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250833,
+      "fileId": 2453022
+    }
+  ],
   "forge": [
     {
       "modId": "scanner",

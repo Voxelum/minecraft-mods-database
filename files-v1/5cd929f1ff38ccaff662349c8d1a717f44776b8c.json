@@ -1,6 +1,18 @@
 {
   "name": "immersivemc-1.4.0-beta1.1-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XJ9is6vj",
+      "versionId": "q1Zgpjlm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 607017,
+      "fileId": 4660017
+    }
+  ],
   "forge": [
     {
       "modId": "immersivemc",

@@ -1,6 +1,18 @@
 {
   "name": "iris-1.7.5+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "Bi9nvICq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 5789255
+    }
+  ],
   "fabric": [
     {
       "modId": "iris",

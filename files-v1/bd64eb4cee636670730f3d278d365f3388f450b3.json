@@ -1,6 +1,18 @@
 {
   "name": "interiors-0.5-30+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4Knci2k",
+      "versionId": "PiVs3PTq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 906239,
+      "fileId": 4835269
+    }
+  ],
   "forge": [
     {
       "modId": "interiors",

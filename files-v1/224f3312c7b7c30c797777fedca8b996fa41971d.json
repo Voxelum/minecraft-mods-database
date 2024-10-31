@@ -1,6 +1,12 @@
 {
   "name": "surveyor-0.6.24+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4KjqhPc9",
+      "versionId": "aU6Dw5MA"
+    }
+  ],
   "forge": [
     {
       "modId": "surveyor",

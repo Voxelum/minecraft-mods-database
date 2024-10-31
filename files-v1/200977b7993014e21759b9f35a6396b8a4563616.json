@@ -1,0 +1,26 @@
+{
+  "name": "AFKPeace1.21-6.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "65jTHvHz",
+      "versionId": "OwCTyUa7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 380938,
+      "fileId": 5476474
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "afkpeace",
+      "version": "6.3.0"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.1.0+1.21"
+    }
+  ]
+}

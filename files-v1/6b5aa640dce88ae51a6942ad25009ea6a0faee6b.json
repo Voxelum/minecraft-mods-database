@@ -1,6 +1,18 @@
 {
   "name": "skyblock-mod-1.10.5+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GTIrlvJk",
+      "versionId": "5PpKEyEB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658094,
+      "fileId": 5519839
+    }
+  ],
   "fabric": [
     {
       "modId": "skyblockmod",

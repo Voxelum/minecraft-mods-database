@@ -1,6 +1,12 @@
 {
   "name": "SomeAdd-leaky-1.20.1-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 856906,
+      "fileId": 5340919
+    }
+  ],
   "forge": [
     {
       "modId": "leaky",

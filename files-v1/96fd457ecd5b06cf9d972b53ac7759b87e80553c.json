@@ -1,6 +1,18 @@
 {
   "name": "CustomMachineryCreate-forge-1.19.2-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NHh2cWu8",
+      "versionId": "U69S9IUl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860747,
+      "fileId": 5376269
+    }
+  ],
   "forge": [
     {
       "modId": "custommachinerycreate",

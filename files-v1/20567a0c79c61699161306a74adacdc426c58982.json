@@ -1,6 +1,18 @@
 {
   "name": "wildlife-1.19.2-2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gkVIACVj",
+      "versionId": "kPTRtBNW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568457,
+      "fileId": 4532024
+    }
+  ],
   "fabric": [
     {
       "modId": "wildlife",

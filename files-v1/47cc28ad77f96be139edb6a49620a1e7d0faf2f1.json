@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gKNuqaQq",
+      "versionId": "FQqAhlVb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 978569,
+      "fileId": 5309979
+    }
+  ],
+  "forge": [
+    {
+      "modId": "netmusic",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

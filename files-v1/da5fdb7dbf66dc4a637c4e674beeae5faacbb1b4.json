@@ -1,6 +1,12 @@
 {
   "name": "overworldquartz-1.12-1.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CKI6qOiK",
+      "versionId": "yujDGqmv"
+    }
+  ],
   "forge": [
     {
       "modId": "overworld-quartz",

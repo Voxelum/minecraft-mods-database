@@ -1,6 +1,12 @@
 {
   "name": "MrTJPCore-1.10.2-2.0.1.20-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229002,
+      "fileId": 2435811
+    }
+  ],
   "forge": [
     {
       "modId": "MrTJPCoreMod",

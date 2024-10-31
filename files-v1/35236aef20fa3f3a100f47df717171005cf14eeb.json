@@ -1,6 +1,12 @@
 {
   "name": "isolated-1.0.0-1.19.2-BETA.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1032043,
+      "fileId": 5404304
+    }
+  ],
   "forge": [
     {
       "modId": "isolated",

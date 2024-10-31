@@ -1,6 +1,18 @@
 {
   "name": "SpikySpikes-v8.0.1-1.20.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DUaLBLVL",
+      "versionId": "tSperk8u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666944,
+      "fileId": 4707730
+    }
+  ],
   "fabric": [
     {
       "modId": "spikyspikes",

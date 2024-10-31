@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2kXK3iBI",
+      "versionId": "WG8PcuSI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535416,
+      "fileId": 5824981
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gigeresque",
+      "version": "0.5.72"
+    },
+    {
+      "modId": "bettercrawling",
+      "version": "1.0.101"
+    }
+  ]
+}

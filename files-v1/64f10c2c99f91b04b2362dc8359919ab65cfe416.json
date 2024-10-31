@@ -1,6 +1,18 @@
 {
   "name": "Youthief-1.4.0-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iW1mqMeb",
+      "versionId": "153zmuSd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938723,
+      "fileId": 5251405
+    }
+  ],
   "fabric": [
     {
       "modId": "youthief",

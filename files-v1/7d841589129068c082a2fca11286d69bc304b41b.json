@@ -1,6 +1,18 @@
 {
   "name": "CreateTweaker-1.18.2-2.0.0.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEila6nl",
+      "versionId": "jO1IfGMU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 437717,
+      "fileId": 4396757
+    }
+  ],
   "forge": [
     {
       "modId": "createtweaker",

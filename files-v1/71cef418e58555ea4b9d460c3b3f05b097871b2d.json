@@ -1,6 +1,18 @@
 {
   "name": "cobblemon-spawn-notification-1.5-fabric-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LPuJjiQz",
+      "versionId": "97Znaz4Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 890745,
+      "fileId": 5384686
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblemon_spawn_notification",

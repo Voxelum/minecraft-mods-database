@@ -1,6 +1,18 @@
 {
   "name": "bigfish-1.16.5-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C4Kv7sHo",
+      "versionId": "E1VaeWeT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645121,
+      "fileId": 4666457
+    }
+  ],
   "forge": [
     {
       "modId": "bigfish",

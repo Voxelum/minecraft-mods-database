@@ -1,10 +1,20 @@
 {
   "name": "kubejsadditions-2.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZemjxZb",
+      "versionId": "bf2ueeHR"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 594387,
       "fileId": 4770560
+    },
+    {
+      "projectId": 853424,
+      "fileId": 4506207
     }
   ],
   "forge": [

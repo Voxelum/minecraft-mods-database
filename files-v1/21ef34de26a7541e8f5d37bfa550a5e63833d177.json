@@ -1,6 +1,12 @@
 {
   "name": "mcw-paths-1.0.2forge-mc1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 629153,
+      "fileId": 4275216
+    }
+  ],
   "forge": [
     {
       "modId": "mcwpaths",

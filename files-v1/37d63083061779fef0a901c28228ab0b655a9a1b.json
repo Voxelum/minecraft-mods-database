@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 378696,
+      "fileId": 3140954
+    }
+  ],
+  "forge": [
+    {
+      "modId": "charmonium",
+      "version": "2.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmonium",
+      "version": "${version}"
+    }
+  ]
+}

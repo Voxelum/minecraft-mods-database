@@ -1,6 +1,18 @@
 {
   "name": "tconevo-1.12.2-1.0.49.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IGALuv74",
+      "versionId": "PDobYyx9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 384589,
+      "fileId": 4941753
+    }
+  ],
   "forge": [
     {
       "modId": "tconevo",

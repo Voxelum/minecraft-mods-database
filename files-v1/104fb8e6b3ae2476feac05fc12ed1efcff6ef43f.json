@@ -1,6 +1,12 @@
 {
   "name": "memorysettings-fabric-1.21-5.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 526901,
+      "fileId": 5531213
+    }
+  ],
   "fabric": [
     {
       "modId": "memorysettings",

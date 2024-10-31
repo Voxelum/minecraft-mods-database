@@ -1,6 +1,18 @@
 {
   "name": "betterbiomeblend-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xh8hkQmD",
+      "versionId": "FBM8BqFa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1018276,
+      "fileId": 5362745
+    }
+  ],
   "forge": [
     {
       "modId": "betterbiomeblend",

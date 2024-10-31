@@ -1,6 +1,18 @@
 {
   "name": "missiles-0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "78KqCFOJ",
+      "versionId": "FCED1CSn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 874717,
+      "fileId": 4643548
+    }
+  ],
   "forge": [
     {
       "modId": "mr_missiles",

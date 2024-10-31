@@ -1,6 +1,18 @@
 {
   "name": "BedrockMiner-1.18.2-(v.2.0.0-pre3).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgwtZ87p",
+      "versionId": "GoRTGA2G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 286666,
+      "fileId": 3706075
+    }
+  ],
   "forge": [
     {
       "modId": "bedrockminer",

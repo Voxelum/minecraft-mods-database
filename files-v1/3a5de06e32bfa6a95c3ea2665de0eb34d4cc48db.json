@@ -1,0 +1,28 @@
+{
+  "name": "Neruina-2.1.2-neoforge+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1s5x833P",
+      "versionId": "qEswnEky"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851046,
+      "fileId": 5666515
+    }
+  ],
+  "forge": [
+    {
+      "modId": "neruina",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "${version}"
+    }
+  ]
+}

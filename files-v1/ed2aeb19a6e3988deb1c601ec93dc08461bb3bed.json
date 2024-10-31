@@ -1,6 +1,18 @@
 {
   "name": "AchievementOptimizer-fabric-1.21-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SvXrP8rT",
+      "versionId": "DaiJkBFx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912788,
+      "fileId": 5456469
+    }
+  ],
   "fabric": [
     {
       "modId": "achiopt",

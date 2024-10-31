@@ -1,6 +1,18 @@
 {
   "name": "accessories-fabric-1.0.0-beta.40+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jtmvUHXj",
+      "versionId": "cSwoqMsT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938917,
+      "fileId": 5790069
+    }
+  ],
   "fabric": [
     {
       "modId": "accessories",

@@ -1,0 +1,28 @@
+{
+  "name": "extractpoison-1.21.3-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S4eFpJFD",
+      "versionId": "k3n5GpZL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344991,
+      "fileId": 5847353
+    }
+  ],
+  "forge": [
+    {
+      "modId": "extractpoison",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extractpoison",
+      "version": "3.4"
+    }
+  ]
+}

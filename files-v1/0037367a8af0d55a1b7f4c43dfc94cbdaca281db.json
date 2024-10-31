@@ -1,6 +1,18 @@
 {
   "name": "man_of_many_planes-0.2.0+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9qdTHi0q",
+      "versionId": "uZNB5Zrk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 984493,
+      "fileId": 5713356
+    }
+  ],
   "forge": [
     {
       "modId": "man_of_many_planes",

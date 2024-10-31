@@ -1,6 +1,18 @@
 {
   "name": "ends_delight-1.20.1-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yHN0njMr",
+      "versionId": "X03B5YHy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662675,
+      "fileId": 5445758
+    }
+  ],
   "forge": [
     {
       "modId": "ends_delight",

@@ -1,6 +1,18 @@
 {
   "name": "xplus-autofish-1.3.0-fabric-mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2H1rLgy4",
+      "versionId": "Sm2h6ykD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 879846,
+      "fileId": 5628405
+    }
+  ],
   "fabric": [
     {
       "modId": "autofish",

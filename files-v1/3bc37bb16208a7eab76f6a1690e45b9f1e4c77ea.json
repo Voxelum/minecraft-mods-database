@@ -1,6 +1,18 @@
 {
   "name": "playdate-2.0.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cO7ZncDY",
+      "versionId": "RzLoHfRR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577629,
+      "fileId": 4721788
+    }
+  ],
   "fabric": [
     {
       "modId": "playdate",

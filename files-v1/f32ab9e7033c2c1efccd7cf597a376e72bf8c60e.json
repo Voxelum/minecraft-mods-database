@@ -1,6 +1,18 @@
 {
   "name": "LavaClearView-1.20.1-forge-7.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bvBMEY9d",
+      "versionId": "GKV9yz3Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 375272,
+      "fileId": 4799043
+    }
+  ],
   "forge": [
     {
       "modId": "clearview",

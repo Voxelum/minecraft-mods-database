@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x1hIzbuY",
+      "versionId": "E1amq7WP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 708967,
+      "fileId": 4602955
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastquit",
+      "version": "3.0.0-beta.1+1.20+"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

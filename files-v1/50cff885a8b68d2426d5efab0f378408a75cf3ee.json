@@ -1,6 +1,18 @@
 {
   "name": "litematica-printer-1.19-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3llatzyE",
+      "versionId": "fvEboyZN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943047,
+      "fileId": 4902183
+    }
+  ],
   "fabric": [
     {
       "modId": "litematica_printer",

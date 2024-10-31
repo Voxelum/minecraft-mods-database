@@ -1,0 +1,30 @@
+{
+  "name": "mob_armor_trims-2.4.2+1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hHVaPgFK",
+      "versionId": "6niIWo48"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005441,
+      "fileId": 5782541
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mob_armor_trims",
+      "version": "2.4.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    }
+  ]
+}

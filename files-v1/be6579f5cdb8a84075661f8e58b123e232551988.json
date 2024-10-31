@@ -1,6 +1,12 @@
 {
   "name": "1.16.5-viewmodel-1.0-SNAPSHOT.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 686419,
+      "fileId": 4465099
+    }
+  ],
   "fabric": [
     {
       "modId": "viewmodel",

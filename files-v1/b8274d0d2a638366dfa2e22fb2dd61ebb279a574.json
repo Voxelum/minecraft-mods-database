@@ -1,6 +1,12 @@
 {
   "name": "fixelytrabug+1.21-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhppmvoe",
+      "versionId": "RmU1tDHh"
+    }
+  ],
   "fabric": [
     {
       "modId": "fixelytrabug",

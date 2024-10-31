@@ -1,6 +1,12 @@
 {
   "name": "autopackager-1.6.4b.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 221457,
+      "fileId": 2449474
+    }
+  ],
   "forge": [
     {
       "modId": "autopackager",

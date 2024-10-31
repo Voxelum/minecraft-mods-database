@@ -1,6 +1,18 @@
 {
   "name": "infinite-banner-stack-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOsKcnBr",
+      "versionId": "WBCTEupq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827569,
+      "fileId": 4675945
+    }
+  ],
   "fabric": [
     {
       "modId": "infinite_banner_stack",

@@ -1,0 +1,26 @@
+{
+  "name": "repurposed_structures-7.1.2+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "muf0XoRe",
+      "versionId": "hWifdziK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391366,
+      "fileId": 4714338
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "7.1.2+1.20.1-fabric"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.7"
+    }
+  ]
+}

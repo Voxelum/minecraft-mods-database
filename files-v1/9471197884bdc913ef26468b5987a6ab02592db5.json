@@ -1,6 +1,18 @@
 {
   "name": "bettersafebed-forge-1.20-9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aUp4r9hY",
+      "versionId": "TUwe64ae"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 484804,
+      "fileId": 4699510
+    }
+  ],
   "forge": [
     {
       "modId": "bettersafebed",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iAlZk5aS",
+      "versionId": "El97XbC9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268655,
+      "fileId": 5790361
+    },
+    {
+      "projectId": 309674,
+      "fileId": 4838266
+    }
+  ],
+  "forge": [
+    {
+      "modId": "gamestages",
+      "version": "15.0.2"
+    }
+  ]
+}

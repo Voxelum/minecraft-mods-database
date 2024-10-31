@@ -1,0 +1,28 @@
+{
+  "name": "persistentinventorysearch-1.20.1-1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KYSUUp57",
+      "versionId": "abfEKxIh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880052,
+      "fileId": 5572091
+    }
+  ],
+  "forge": [
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "maptooltip-fabric-1.21-rc1-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNtptqqU",
+      "versionId": "ryiMNdRa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 384852,
+      "fileId": 5423096
+    }
+  ],
   "fabric": [
     {
       "modId": "maptooltip",

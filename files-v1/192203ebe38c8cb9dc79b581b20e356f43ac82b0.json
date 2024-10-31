@@ -1,6 +1,18 @@
 {
   "name": "192203ebe38c8cb9dc79b581b20e356f43ac82b0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PGVF51co",
+      "versionId": "VyBqXrqd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1025920,
+      "fileId": 5389200
+    }
+  ],
   "fabric": [
     {
       "modId": "doaddonfluids",

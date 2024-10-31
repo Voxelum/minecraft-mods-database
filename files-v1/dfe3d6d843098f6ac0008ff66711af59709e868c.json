@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "arXe8Ph1",
+      "versionId": "gXZRJKV9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mtbpprev",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.0+3cc0f0907d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.8+3cc0f0907d"
+    }
+  ]
+}

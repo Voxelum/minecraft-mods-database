@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jzn0KNd6",
+      "versionId": "tYVYm66k"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_stonecutter_damage",
+      "version": "1-mcmeta-12-41_1.19.4-1.20.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_stonecutter_damage",
+      "version": "1-mcmeta-12-41_1.19.4-1.20.5"
+    }
+  ]
+}

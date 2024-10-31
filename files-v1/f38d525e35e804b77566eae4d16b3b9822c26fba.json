@@ -1,6 +1,12 @@
 {
   "name": "chestcavity-forge-1.19.2-2.16.6.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 654347,
+      "fileId": 5021427
+    }
+  ],
   "forge": [
     {
       "modId": "chestcavity",

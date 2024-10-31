@@ -1,6 +1,18 @@
 {
   "name": "ears-fabric-1.17-1.4.5_01.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mfzaZK3Z",
+      "versionId": "7AcIEmmQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412013,
+      "fileId": 3616906
+    }
+  ],
   "fabric": [
     {
       "modId": "ears",

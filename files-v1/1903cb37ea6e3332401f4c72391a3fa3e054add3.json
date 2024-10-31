@@ -1,4 +1,16 @@
 {
   "name": "fzzy_config-0.5.2+1.21+neoforge.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "1WoxDRQx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 5781582
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RSeLon5O",
+      "versionId": "r47BJu0V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 985426,
+      "fileId": 5729688
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particle_core",
+      "version": "0.2.5+1.20.4"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.5.1"
+    }
+  ]
+}

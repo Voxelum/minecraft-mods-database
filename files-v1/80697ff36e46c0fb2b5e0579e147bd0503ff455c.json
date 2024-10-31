@@ -1,6 +1,18 @@
 {
   "name": "druids-0.9.8.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TTZunjcO",
+      "versionId": "CP4GTKJa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 992252,
+      "fileId": 5463956
+    }
+  ],
   "fabric": [
     {
       "modId": "druids",

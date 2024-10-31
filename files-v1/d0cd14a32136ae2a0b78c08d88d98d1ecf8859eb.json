@@ -1,6 +1,18 @@
 {
   "name": "ponderjs-1.20.1-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5A34Stj8",
+      "versionId": "PAfk8PCf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622888,
+      "fileId": 5306374
+    }
+  ],
   "forge": [
     {
       "modId": "ponderjs",

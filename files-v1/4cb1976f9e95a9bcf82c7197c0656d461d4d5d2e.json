@@ -1,6 +1,18 @@
 {
   "name": "flowerymooblooms-fabric-mc1.20.1-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ECOSu6pa",
+      "versionId": "D9jX5JX6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 779833,
+      "fileId": 5526954
+    }
+  ],
   "fabric": [
     {
       "modId": "flowerymooblooms",

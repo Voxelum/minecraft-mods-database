@@ -1,6 +1,18 @@
 {
   "name": "modpack-update-checker-1.21-fabric-0.13.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rR4tY6Cw",
+      "versionId": "FTrBeyEB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 847414,
+      "fileId": 5444275
+    }
+  ],
   "fabric": [
     {
       "modId": "modpack-update-checker",

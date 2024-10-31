@@ -1,6 +1,18 @@
 {
   "name": "incontrol-1.12-3.9.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KpICtuVx",
+      "versionId": "qBHXCnFf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257356,
+      "fileId": 2717826
+    }
+  ],
   "forge": [
     {
       "modId": "incontrol",

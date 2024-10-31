@@ -1,6 +1,18 @@
 {
   "name": "SWIceandFire-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JQ8ejbmx",
+      "versionId": "4eEcHpdN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 606315,
+      "fileId": 3798824
+    }
+  ],
   "forge": [
     {
       "modId": "swiaf",

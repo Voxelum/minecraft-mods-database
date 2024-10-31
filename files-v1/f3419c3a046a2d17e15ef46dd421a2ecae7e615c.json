@@ -1,6 +1,18 @@
 {
   "name": "NoTutorialToasts-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mCNtqH4S",
+      "versionId": "Cn8YOpEE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666317,
+      "fileId": 3958444
+    }
+  ],
   "fabric": [
     {
       "modId": "no_tutorial_toast",

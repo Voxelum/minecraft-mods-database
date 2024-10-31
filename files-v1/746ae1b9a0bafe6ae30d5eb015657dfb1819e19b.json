@@ -1,6 +1,18 @@
 {
   "name": "ctrl-q-1.9.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dxv5rpnB",
+      "versionId": "FcCAEv3I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455479,
+      "fileId": 5015391
+    }
+  ],
   "forge": [
     {
       "modId": "ctrlq",

@@ -1,6 +1,12 @@
 {
   "name": "letsdo-api-forge-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "br9KuhIu"
+    }
+  ],
   "forge": [
     {
       "modId": "doapi",

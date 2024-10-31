@@ -1,6 +1,12 @@
 {
   "name": "tfc-ore-excavation-1.18.2-forge-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 966845,
+      "fileId": 5080949
+    }
+  ],
   "forge": [
     {
       "modId": "tfc_ore_excavation",

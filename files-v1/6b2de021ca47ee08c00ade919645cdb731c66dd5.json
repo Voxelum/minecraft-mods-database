@@ -1,6 +1,12 @@
 {
   "name": "jamd-forge-3.3.3+mc1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422981,
+      "fileId": 4785425
+    }
+  ],
   "forge": [
     {
       "modId": "jamd",

@@ -1,6 +1,18 @@
 {
   "name": "weakerspiderwebs-1.19.2-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7L1HalIW",
+      "versionId": "xnmHJr0a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345293,
+      "fileId": 4851338
+    }
+  ],
   "forge": [
     {
       "modId": "weakerspiderwebs",

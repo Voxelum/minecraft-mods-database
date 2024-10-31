@@ -1,6 +1,12 @@
 {
   "name": "psg-5.40.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 554210,
+      "fileId": 5232419
+    }
+  ],
   "forge": [
     {
       "modId": "psg",

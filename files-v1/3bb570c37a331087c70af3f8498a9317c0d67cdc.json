@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "replayvoicechat",
+      "version": "1.20.1-1.3.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a82"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.3.8+b3afc78b82"
+    }
+  ]
+}

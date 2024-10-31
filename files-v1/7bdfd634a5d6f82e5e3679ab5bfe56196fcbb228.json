@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "swbUV1cr",
+      "versionId": "Ysj3eVYx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406463,
+      "fileId": 5725786
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bluemap",
+      "version": "5.4"
+    },
+    {
+      "modId": "com_flowpowered_flow-math",
+      "version": "1.0.3"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "lodestone-1.20.1-1.6.2.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bN3xUWdo",
+      "versionId": "8RVXrSpv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 616457,
+      "fileId": 5694338
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lodestone",
+      "version": "1.20.1-1.6.2.2-fabric"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_blocks",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_data",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_generators",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

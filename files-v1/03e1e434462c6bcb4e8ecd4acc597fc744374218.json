@@ -1,6 +1,12 @@
 {
   "name": "backportedflora-1.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 385654,
+      "fileId": 3218329
+    }
+  ],
   "forge": [
     {
       "modId": "backportedflora",

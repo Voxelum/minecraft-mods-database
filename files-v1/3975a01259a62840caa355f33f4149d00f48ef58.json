@@ -1,6 +1,12 @@
 {
   "name": "hgp-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 227706,
+      "fileId": 2536711
+    }
+  ],
   "forge": [
     {
       "modId": "hgp",

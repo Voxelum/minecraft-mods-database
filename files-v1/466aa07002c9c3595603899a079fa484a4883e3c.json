@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.6.0"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.10-1.20.4"
+    }
+  ]
+}

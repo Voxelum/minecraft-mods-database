@@ -1,6 +1,18 @@
 {
   "name": "spark-1.10.73-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "KYGTUMOq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 5434152
+    }
+  ],
   "fabric": [
     {
       "modId": "spark",

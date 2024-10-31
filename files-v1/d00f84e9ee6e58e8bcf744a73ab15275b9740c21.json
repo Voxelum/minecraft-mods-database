@@ -1,6 +1,12 @@
 {
   "name": "pathogen-1.4.4-forge-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 602618,
+      "fileId": 5766985
+    }
+  ],
   "forge": [
     {
       "modId": "pathogen",

@@ -1,6 +1,18 @@
 {
   "name": "Seared-Ladder-v1.1.2-mc1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6EM17yue",
+      "versionId": "CqenoT72"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687827,
+      "fileId": 4028115
+    }
+  ],
   "forge": [
     {
       "modId": "searedladder",

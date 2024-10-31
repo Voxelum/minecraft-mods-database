@@ -1,6 +1,18 @@
 {
   "name": "DragN_Vehicles-1.20.1-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vUaF67Ot",
+      "versionId": "sMM21r0T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038652,
+      "fileId": 5655585
+    }
+  ],
   "forge": [
     {
       "modId": "dragnvehicles",

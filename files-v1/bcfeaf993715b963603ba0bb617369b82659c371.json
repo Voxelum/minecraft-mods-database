@@ -1,0 +1,28 @@
+{
+  "name": "grabbymobs-1.21.3-1.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O6Sh7btX",
+      "versionId": "CMg2QxMA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881030,
+      "fileId": 5847318
+    }
+  ],
+  "forge": [
+    {
+      "modId": "grabbymobs",
+      "version": "1.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grabbymobs",
+      "version": "1.6"
+    }
+  ]
+}

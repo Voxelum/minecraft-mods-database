@@ -1,0 +1,26 @@
+{
+  "name": "flow-2.1.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eoxi2LJd",
+      "versionId": "Qml1EqHb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927561,
+      "fileId": 5643493
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flow",
+      "version": "2.1.2+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

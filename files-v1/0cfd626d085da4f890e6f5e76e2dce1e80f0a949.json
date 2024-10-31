@@ -1,6 +1,18 @@
 {
   "name": "entangled-1.3.18-forge-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rylMOguI",
+      "versionId": "qPrvleKl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 301034,
+      "fileId": 5275151
+    }
+  ],
   "forge": [
     {
       "modId": "entangled",

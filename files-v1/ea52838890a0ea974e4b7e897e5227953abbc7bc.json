@@ -1,6 +1,18 @@
 {
   "name": "sparsestructures-fabric-1.21-2.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qwvI41y9",
+      "versionId": "ID6CCvs6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 911437,
+      "fileId": 5467820
+    }
+  ],
   "fabric": [
     {
       "modId": "sparsestructures",

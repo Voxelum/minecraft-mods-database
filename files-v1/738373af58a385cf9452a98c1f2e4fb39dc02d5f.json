@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IbXFBZcX",
+      "versionId": "869slonv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1006963,
+      "fileId": 5713720
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nordic_structures",
+      "version": "1.6.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nordic_structures",
+      "version": "1.4.7"
+    }
+  ]
+}

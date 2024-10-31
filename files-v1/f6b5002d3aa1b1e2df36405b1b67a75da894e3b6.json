@@ -1,6 +1,18 @@
 {
   "name": "【TFC】tfcivilization_atlases-1.0.0-forge-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TsPVAakB",
+      "versionId": "4AE5K8ER"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1072300,
+      "fileId": 5571252
+    }
+  ],
   "forge": [
     {
       "modId": "tfcivilization_atlases",

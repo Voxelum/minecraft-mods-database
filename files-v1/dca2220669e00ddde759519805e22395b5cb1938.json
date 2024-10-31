@@ -1,6 +1,18 @@
 {
   "name": "superbsteeds-1.20-4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UIZkbR3j",
+      "versionId": "Lac9HjXE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 953254,
+      "fileId": 5335952
+    }
+  ],
   "fabric": [
     {
       "modId": "superbsteeds",

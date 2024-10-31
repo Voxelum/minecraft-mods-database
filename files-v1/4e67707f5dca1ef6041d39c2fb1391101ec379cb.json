@@ -1,6 +1,18 @@
 {
   "name": "fabric-medievalend-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bq6nqeOx",
+      "versionId": "KhTtpmnG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 976817,
+      "fileId": 5270719
+    }
+  ],
   "fabric": [
     {
       "modId": "medievalend",

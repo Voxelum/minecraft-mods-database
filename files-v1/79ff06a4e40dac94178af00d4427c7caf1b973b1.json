@@ -1,6 +1,18 @@
 {
   "name": "Butchersdelight Foods beta 1.19.2 1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u9J9M7PQ",
+      "versionId": "9DFsXzKl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 919301,
+      "fileId": 5230726
+    }
+  ],
   "forge": [
     {
       "modId": "butchersdelightfoods",

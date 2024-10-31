@@ -1,6 +1,18 @@
 {
   "name": "Estrogen-4.2.7+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HhIJW8n1",
+      "versionId": "u2QpfJ2b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850410,
+      "fileId": 5282591
+    }
+  ],
   "forge": [
     {
       "modId": "estrogen",

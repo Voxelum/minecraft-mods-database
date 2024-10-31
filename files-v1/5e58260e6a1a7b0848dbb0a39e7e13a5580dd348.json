@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 500525,
+      "fileId": 5397035
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "balm-fabric",
+      "version": "7.3.4"
+    },
+    {
+      "modId": "kuma_api",
+      "version": "20.1.6"
+    }
+  ]
+}

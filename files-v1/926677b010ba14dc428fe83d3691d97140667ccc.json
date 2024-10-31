@@ -1,6 +1,18 @@
 {
   "name": "Fast Random - 1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RfFxanNh",
+      "versionId": "3kmT0uWD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912121,
+      "fileId": 4747792
+    }
+  ],
   "fabric": [
     {
       "modId": "fastrandom",

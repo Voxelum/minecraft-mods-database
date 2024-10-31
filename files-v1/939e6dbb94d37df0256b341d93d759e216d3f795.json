@@ -1,6 +1,18 @@
 {
   "name": "graphutil-forge-1.0.0-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cpBmCs66",
+      "versionId": "sa0wUvit"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681955,
+      "fileId": 4591616
+    }
+  ],
   "forge": [
     {
       "modId": "graphutil",

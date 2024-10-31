@@ -1,6 +1,18 @@
 {
   "name": "rare-ice-0.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uSi0tajU",
+      "versionId": "PWE2wAkf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373774,
+      "fileId": 3854070
+    }
+  ],
   "fabric": [
     {
       "modId": "rare-ice",

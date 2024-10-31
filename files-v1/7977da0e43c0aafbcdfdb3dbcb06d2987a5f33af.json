@@ -1,6 +1,18 @@
 {
   "name": "kubejs-forge-1902.6.2-build.73.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "ByN6240z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 5408722
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs",

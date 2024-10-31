@@ -1,6 +1,18 @@
 {
   "name": "justmobheads-1.20.1-8.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jzTUm9hE",
+      "versionId": "rPxmSxex"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 293320,
+      "fileId": 5572329
+    }
+  ],
   "forge": [
     {
       "modId": "justmobheads",

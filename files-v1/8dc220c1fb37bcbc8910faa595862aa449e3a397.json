@@ -1,6 +1,18 @@
 {
   "name": "huge-structure-blocks-1.0.9-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AMLtKGdJ",
+      "versionId": "t2Zt3WNi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 474114,
+      "fileId": 4803547
+    }
+  ],
   "forge": [
     {
       "modId": "hugestructureblocks",

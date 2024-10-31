@@ -1,6 +1,18 @@
 {
   "name": "lightest-lamps-fabric-3.0.0f.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nDmvYbga",
+      "versionId": "RwSp2j1v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533661,
+      "fileId": 3965300
+    }
+  ],
   "fabric": [
     {
       "modId": "lightestlamp",

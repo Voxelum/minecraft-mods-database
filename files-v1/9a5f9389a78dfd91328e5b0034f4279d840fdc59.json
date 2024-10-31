@@ -1,0 +1,16 @@
+{
+  "name": "[末影龙]tru.e-ending-v1.1.0c.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_limesplatus_ending",
+      "version": "1-v1.1.0c"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_true_ending",
+      "version": "1-v1.1.0c"
+    }
+  ]
+}

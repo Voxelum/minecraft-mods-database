@@ -1,6 +1,12 @@
 {
   "name": "airchidori-fabric-1.20.1-1.0.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 830265,
+      "fileId": 5420466
+    }
+  ],
   "fabric": [
     {
       "modId": "airchidori",

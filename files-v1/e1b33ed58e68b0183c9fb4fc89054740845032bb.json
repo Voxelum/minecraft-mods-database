@@ -1,6 +1,18 @@
 {
   "name": "bedbenefitsfabric-1.17.1-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LBRPAqv4",
+      "versionId": "WRRrHgKM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 522141,
+      "fileId": 3455415
+    }
+  ],
   "fabric": [
     {
       "modId": "bedbenefitsfabric",

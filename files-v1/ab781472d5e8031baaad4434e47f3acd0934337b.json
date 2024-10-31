@@ -1,6 +1,18 @@
 {
   "name": "compressed-blocks-1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LIv30E74",
+      "versionId": "h643zqNo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623782,
+      "fileId": 5111072
+    }
+  ],
   "fabric": [
     {
       "modId": "compressedblocks",

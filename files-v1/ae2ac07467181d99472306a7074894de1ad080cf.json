@@ -1,0 +1,90 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JYQhtZtO",
+      "versionId": "p79xhkux"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 635429,
+      "fileId": 5774008
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vulkanmod",
+      "version": "0.4.9"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8cd1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.0+56599129d1"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.6+b5597344d1"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "5.0.5+df16efd0d1"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-windows",
+      "version": "3.3.3"
+    }
+  ]
+}

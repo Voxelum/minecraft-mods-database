@@ -1,0 +1,30 @@
+{
+  "name": "sculk_depths-1.20-1.20.1-0.0.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IpnJiCsh",
+      "versionId": "1eyciZrP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 837960,
+      "fileId": 4699733
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sculk_depths",
+      "version": "1.20.1-0.0.8"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

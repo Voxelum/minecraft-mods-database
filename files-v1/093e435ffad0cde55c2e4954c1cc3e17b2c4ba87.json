@@ -1,6 +1,12 @@
 {
   "name": "rad-mining-dimension-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1009688,
+      "fileId": 5303345
+    }
+  ],
   "forge": [
     {
       "modId": "rad-mining-dimension",

@@ -1,0 +1,20 @@
+{
+  "name": "SofterPastels-0.9.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ls8M8ohO",
+      "versionId": "LzQIXe2Z"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "softerpastels",
+      "version": "0.9.0-rev.975170c"
+    },
+    {
+      "modId": "innerpastels",
+      "version": "1.3.2+rev.863e92f+branch.kt.1.21.main"
+    }
+  ]
+}

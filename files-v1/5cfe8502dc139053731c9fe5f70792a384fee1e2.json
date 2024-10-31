@@ -1,6 +1,18 @@
 {
   "name": "ItemsDisplayedForge-v1.2.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PuR4vDBo",
+      "versionId": "PebSbLTB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 937042,
+      "fileId": 4969916
+    }
+  ],
   "forge": [
     {
       "modId": "display",

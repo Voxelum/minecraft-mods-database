@@ -1,6 +1,18 @@
 {
   "name": "mcw-paths-1.0.5-1.19.2forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VRLhWB91",
+      "versionId": "MaEdVWDH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 629153,
+      "fileId": 5341122
+    }
+  ],
   "forge": [
     {
       "modId": "mcwpaths",

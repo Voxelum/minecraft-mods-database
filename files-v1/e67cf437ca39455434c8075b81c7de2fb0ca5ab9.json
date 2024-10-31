@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ht0RRAt0",
+      "versionId": "czJvVoCq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fasttrading",
+      "version": "0.2.1+1.21.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_useful_mobs",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_useful_mobs",
+      "version": "2.4"
+    }
+  ]
+}

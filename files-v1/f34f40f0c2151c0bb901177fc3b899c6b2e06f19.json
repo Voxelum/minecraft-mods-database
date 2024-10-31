@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "deathbackup",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathbackup",
+      "version": "3.4"
+    }
+  ]
+}

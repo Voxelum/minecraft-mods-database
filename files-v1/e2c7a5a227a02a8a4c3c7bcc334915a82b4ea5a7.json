@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zJpHMkdD",
+      "versionId": "oUGOJ8zR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "q_misc_util",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    }
+  ]
+}

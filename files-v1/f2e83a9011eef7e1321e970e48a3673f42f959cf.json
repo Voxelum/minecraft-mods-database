@@ -1,6 +1,18 @@
 {
   "name": "chesttracker-1.18.2-1.1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ni4SrKmq",
+      "versionId": "uAbASPAU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397217,
+      "fileId": 3698942
+    }
+  ],
   "fabric": [
     {
       "modId": "chesttracker",

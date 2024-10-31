@@ -1,6 +1,18 @@
 {
   "name": "JustMoreCakes-forge-1.19.2-6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RW7zragP",
+      "versionId": "oglsr92P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356348,
+      "fileId": 4361660
+    }
+  ],
   "forge": [
     {
       "modId": "jmc",

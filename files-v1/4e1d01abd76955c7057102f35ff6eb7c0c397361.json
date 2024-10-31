@@ -1,6 +1,12 @@
 {
   "name": "oxygen-market-1.12.2-0.11.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 342390,
+      "fileId": 2983953
+    }
+  ],
   "forge": [
     {
       "modId": "oxygen_market",

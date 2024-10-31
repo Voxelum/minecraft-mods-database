@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ntmv3V8v",
+      "versionId": "kQkz6Atd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056797,
+      "fileId": 5670706
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brush-client",
+      "version": "1.4.8"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "CombatNouveau-v20.4.5-1.20.4-NeoForge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Iv3kcKZn",
+      "versionId": "5Kqlocdp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969425,
+      "fileId": 5137626
+    }
+  ],
   "forge": [
     {
       "modId": "combatnouveau",

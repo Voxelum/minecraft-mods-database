@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "696WgnvT",
+      "versionId": "lSCMixs5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1073022,
+      "fileId": 5575894
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium-extra-information",
+      "version": "1.0"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.3.0+1.17"
+    }
+  ]
+}

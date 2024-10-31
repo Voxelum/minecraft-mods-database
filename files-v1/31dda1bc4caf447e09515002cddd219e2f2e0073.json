@@ -1,0 +1,20 @@
+{
+  "name": "Big Globe-4.5.0-MC1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xsng1aJf",
+      "versionId": "Kvb6oNnR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bigglobe",
+      "version": "4.5.0"
+    },
+    {
+      "modId": "builderb0y_autocodec",
+      "version": "5.0.0"
+    }
+  ]
+}

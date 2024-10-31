@@ -1,6 +1,18 @@
 {
   "name": "API-curious_armor_stands-1.20-5.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jR6HKqHv",
+      "versionId": "a1svxw83"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398784,
+      "fileId": 5403962
+    }
+  ],
   "forge": [
     {
       "modId": "curious_armor_stands",

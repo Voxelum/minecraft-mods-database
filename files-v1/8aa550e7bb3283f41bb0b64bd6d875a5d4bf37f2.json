@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "northerncompass",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.30+7abfd51577"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "PacketFixer-fabric-1.19.2-1.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7m1mi73",
+      "versionId": "yIvRCphu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689467,
+      "fileId": 5128770
+    }
+  ],
   "fabric": [
     {
       "modId": "packetfixer",

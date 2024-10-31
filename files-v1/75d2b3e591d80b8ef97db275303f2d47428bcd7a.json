@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WuGVWUF2",
+      "versionId": "iTQ5TFNP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815438,
+      "fileId": 5828593
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fog",
+      "version": "1.5.2-1.21.1"
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.6"
+    }
+  ]
+}

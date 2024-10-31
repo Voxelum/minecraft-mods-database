@@ -1,6 +1,12 @@
 {
   "name": "sb-3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 271951,
+      "fileId": 2538438
+    }
+  ],
   "forge": [
     {
       "modId": "sb",

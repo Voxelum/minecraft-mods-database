@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fa28TQOH",
+      "versionId": "jMalhBot"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_aio_easyupgradetemplate",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_aio_easyupgradetemplate",
+      "version": "1.2"
+    }
+  ]
+}

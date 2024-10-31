@@ -1,6 +1,18 @@
 {
   "name": "difficultylock-1.19.2-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9yvZtixz",
+      "versionId": "3dEz2QBM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390886,
+      "fileId": 4965134
+    }
+  ],
   "forge": [
     {
       "modId": "difficultylock",

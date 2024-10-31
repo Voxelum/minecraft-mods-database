@@ -1,6 +1,12 @@
 {
   "name": "TheOldAI-forge-1.19.2-1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1025400,
+      "fileId": 5490483
+    }
+  ],
   "forge": [
     {
       "modId": "the_old_ai",

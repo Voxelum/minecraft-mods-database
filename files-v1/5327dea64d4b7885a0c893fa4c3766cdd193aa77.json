@@ -1,6 +1,18 @@
 {
   "name": "TrampleNoMore-Forge-1.20.1-13.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bc9bwujS",
+      "versionId": "SyZy5nab"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377313,
+      "fileId": 5127309
+    }
+  ],
   "forge": [
     {
       "modId": "tramplenomore",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cloth-config",
+      "version": "10.1.135"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

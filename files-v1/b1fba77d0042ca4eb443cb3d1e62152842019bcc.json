@@ -1,6 +1,18 @@
 {
   "name": "gunblades-forge-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UoomXK5h",
+      "versionId": "qGEzdMxH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535033,
+      "fileId": 4624731
+    }
+  ],
   "forge": [
     {
       "modId": "gunblades",

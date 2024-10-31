@@ -1,6 +1,18 @@
 {
   "name": "auto-clicker-fabric-21.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r8axuw4u",
+      "versionId": "ddttJtZz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 445095,
+      "fileId": 5458329
+    }
+  ],
   "fabric": [
     {
       "modId": "autoclicker-fabric",

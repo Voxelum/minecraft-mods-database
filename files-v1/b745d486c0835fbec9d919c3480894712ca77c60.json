@@ -1,6 +1,12 @@
 {
   "name": "weatherforecast-1.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534606,
+      "fileId": 3534696
+    }
+  ],
   "forge": [
     {
       "modId": "weatherforecast",

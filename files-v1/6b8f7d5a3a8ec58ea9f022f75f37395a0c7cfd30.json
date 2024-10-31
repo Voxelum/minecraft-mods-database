@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWtAXlpg",
+      "versionId": "ZhqRTohP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reinfchest",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "4.0.2+1.21.1"
+    }
+  ]
+}

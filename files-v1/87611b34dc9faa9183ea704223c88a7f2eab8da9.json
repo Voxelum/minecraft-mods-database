@@ -1,0 +1,94 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bN3xUWdo",
+      "versionId": "iY0HTu74"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 616457,
+      "fileId": 5707917
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lodestone",
+      "version": "1.20.1-1.6.2.3c-fabric"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_blocks",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_data",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_items",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_generators",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

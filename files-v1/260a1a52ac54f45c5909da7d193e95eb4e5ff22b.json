@@ -1,6 +1,18 @@
 {
   "name": "dehydration-1.3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qWDh3G0p",
+      "versionId": "tVIsLApb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410830,
+      "fileId": 4656249
+    }
+  ],
   "fabric": [
     {
       "modId": "dehydration",

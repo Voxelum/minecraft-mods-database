@@ -1,6 +1,18 @@
 {
   "name": "soul-fire-d-forge-1.20.1-4.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d6MhxwRo",
+      "versionId": "1nH6Q0zD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662413,
+      "fileId": 5454323
+    }
+  ],
   "forge": [
     {
       "modId": "soul_fire_d",

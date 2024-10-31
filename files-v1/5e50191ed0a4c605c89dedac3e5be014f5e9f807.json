@@ -1,6 +1,18 @@
 {
   "name": "hoetweaks_1.16.5-1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9vlChzlU",
+      "versionId": "SBtxsHqk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523830,
+      "fileId": 3994044
+    }
+  ],
   "forge": [
     {
       "modId": "hoetweaks",

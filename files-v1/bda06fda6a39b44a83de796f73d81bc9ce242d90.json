@@ -1,6 +1,18 @@
 {
   "name": "Reaper-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1vwtOeW2",
+      "versionId": "1R8RNZ8g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688879,
+      "fileId": 5131555
+    }
+  ],
   "fabric": [
     {
       "modId": "reaper",

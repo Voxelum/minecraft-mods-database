@@ -1,6 +1,18 @@
 {
   "name": "botanypotstiers-1.16.5-1.142.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fvMhZPuf",
+      "versionId": "2nc1vXdI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 526754,
+      "fileId": 3865543
+    }
+  ],
   "forge": [
     {
       "modId": "botanypotstiers",

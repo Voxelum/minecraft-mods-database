@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tPLE214j",
+      "versionId": "2PydmNtZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterdays",
+      "version": "1.19.2-3.1.0.6-FABRIC"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.12.8+1.19.2"
+    }
+  ]
+}

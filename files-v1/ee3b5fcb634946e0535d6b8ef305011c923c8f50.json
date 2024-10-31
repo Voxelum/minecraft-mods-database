@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PE656UHx",
+      "versionId": "FFyCpSia"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866605,
+      "fileId": 5610448
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplehudenhanced",
+      "version": "4.7.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

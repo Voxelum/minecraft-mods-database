@@ -1,6 +1,12 @@
 {
   "name": "step-1.16.4-1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 374371,
+      "fileId": 3223291
+    }
+  ],
   "forge": [
     {
       "modId": "step",

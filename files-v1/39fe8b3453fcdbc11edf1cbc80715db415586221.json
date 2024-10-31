@@ -1,0 +1,24 @@
+{
+  "name": "goblin-traders-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534373,
+      "fileId": 3506061
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "goblintraders",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    },
+    {
+      "modId": "thonkutil",
+      "version": "1.2"
+    }
+  ]
+}

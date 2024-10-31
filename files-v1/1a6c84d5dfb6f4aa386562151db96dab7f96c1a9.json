@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qANg5Jrr",
+      "versionId": "InBwo24m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849519,
+      "fileId": 5745534
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "e4mc_minecraft",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.1"
+    }
+  ]
+}

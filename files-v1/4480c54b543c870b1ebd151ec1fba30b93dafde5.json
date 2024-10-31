@@ -1,6 +1,18 @@
 {
   "name": "mcw-windows-2.3.0-mc1.16.5forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C7I0BCni",
+      "versionId": "hN1xJuNK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363569,
+      "fileId": 5589351
+    }
+  ],
   "forge": [
     {
       "modId": "mcwwindows",

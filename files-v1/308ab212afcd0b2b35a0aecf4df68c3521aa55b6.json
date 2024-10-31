@@ -1,6 +1,18 @@
 {
   "name": "Lets_Forge_Pirates_-1_20_1-_3_10_1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pvxH1mSW",
+      "versionId": "JSCT1Mv3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 935975,
+      "fileId": 5040324
+    }
+  ],
   "forge": [
     {
       "modId": "lfpirates",

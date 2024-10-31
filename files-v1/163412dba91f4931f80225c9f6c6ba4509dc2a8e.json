@@ -1,0 +1,20 @@
+{
+  "name": "RideableRavagers-1.0.2-1.20.1-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 928703,
+      "fileId": 4867499
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rideableravagers",
+      "version": "1.0.2-1.20.1-fabric"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.0-1.20.1"
+    }
+  ]
+}

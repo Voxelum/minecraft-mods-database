@@ -1,6 +1,18 @@
 {
   "name": "dungeons_1.18_mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R0ToJjk1",
+      "versionId": "UucQmp9v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423533,
+      "fileId": 5591046
+    }
+  ],
   "forge": [
     {
       "modId": "duneons",

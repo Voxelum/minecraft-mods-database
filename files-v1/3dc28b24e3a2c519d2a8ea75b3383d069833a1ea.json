@@ -1,6 +1,18 @@
 {
   "name": "UltimateSpawn-forge-1.19.2-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y7cEIWv4",
+      "versionId": "UNG1mgOC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 855574,
+      "fileId": 4514474
+    }
+  ],
   "forge": [
     {
       "modId": "ultimatespawn",

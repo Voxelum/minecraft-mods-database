@@ -1,0 +1,26 @@
+{
+  "name": "fadeless-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ncKjyGm3",
+      "versionId": "fOYd9ihS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861310,
+      "fileId": 5832436
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fadeless",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

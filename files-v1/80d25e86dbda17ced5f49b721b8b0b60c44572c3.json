@@ -1,6 +1,18 @@
 {
   "name": "woodworks-1.20.1-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rv1sovni",
+      "versionId": "LKgMFANs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 543610,
+      "fileId": 5292418
+    }
+  ],
   "forge": [
     {
       "modId": "woodworks",

@@ -1,6 +1,18 @@
 {
   "name": "collective-1.18.2-6.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "Viulse4H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 4329165
+    }
+  ],
   "forge": [
     {
       "modId": "collective",

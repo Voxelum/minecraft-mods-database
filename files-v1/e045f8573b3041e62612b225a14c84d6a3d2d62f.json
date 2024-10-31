@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QDihBtsN",
+      "versionId": "BjkDyh6V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 807709,
+      "fileId": 5689800
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpmoscc",
+      "version": "1.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpmoscc",
+      "version": "1.6.0"
+    }
+  ]
+}

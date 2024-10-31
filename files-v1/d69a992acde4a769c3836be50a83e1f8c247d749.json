@@ -1,6 +1,18 @@
 {
   "name": "movingelevators-1.4.5-forge-mc1.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9KZOe6HD",
+      "versionId": "wvMBrhNm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373051,
+      "fileId": 4867544
+    }
+  ],
   "forge": [
     {
       "modId": "movingelevators",

@@ -1,6 +1,12 @@
 {
   "name": "nightmare.jar-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 967097,
+      "fileId": 5061353
+    }
+  ],
   "forge": [
     {
       "modId": "nightmare",

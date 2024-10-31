@@ -1,6 +1,18 @@
 {
   "name": "musicsync-1.3+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oa0DLzIW",
+      "versionId": "VqnFUqRj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 818753,
+      "fileId": 5424061
+    }
+  ],
   "fabric": [
     {
       "modId": "music_sync",

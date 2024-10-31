@@ -1,6 +1,12 @@
 {
   "name": "lava_sources_1.20.1_1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 643463,
+      "fileId": 4911657
+    }
+  ],
   "forge": [
     {
       "modId": "lava_source",

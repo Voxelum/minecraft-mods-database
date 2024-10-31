@@ -1,0 +1,46 @@
+{
+  "name": "lightwithin-1.1.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f8LsKKPu",
+      "versionId": "fH3tuGZ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631241,
+      "fileId": 5525868
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightwithin",
+      "version": "1.1.2+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "structureplacerapi",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "custombrewrecipes",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "particleanimationlib",
+      "version": "0.0.2+1.20"
+    }
+  ]
+}

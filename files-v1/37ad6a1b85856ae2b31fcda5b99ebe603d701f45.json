@@ -1,6 +1,12 @@
 {
   "name": "scorch-1.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 496387,
+      "fileId": 3455340
+    }
+  ],
   "fabric": [
     {
       "modId": "scorch",

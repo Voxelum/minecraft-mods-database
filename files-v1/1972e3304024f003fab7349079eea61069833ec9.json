@@ -1,10 +1,16 @@
 {
   "name": "essential_1-3-2-7_forge_1-20-1.jar",
-  "domain": "unclassified",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "k2ZPuTBm",
       "versionId": "vXVGIG86"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 546670,
+      "fileId": 5425099
     }
   ]
 }

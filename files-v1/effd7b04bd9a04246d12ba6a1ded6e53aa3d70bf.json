@@ -1,6 +1,18 @@
 {
   "name": "Zoomify-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w7ThoJFB",
+      "versionId": "cgp0M9ZD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574741,
+      "fileId": 3630317
+    }
+  ],
   "fabric": [
     {
       "modId": "zoomify",

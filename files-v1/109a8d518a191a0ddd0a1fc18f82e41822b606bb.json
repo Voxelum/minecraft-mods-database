@@ -1,0 +1,28 @@
+{
+  "name": "grassseeds-1.21.3-3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y6d4uRJn",
+      "versionId": "v8DaOt7Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345981,
+      "fileId": 5847314
+    }
+  ],
+  "forge": [
+    {
+      "modId": "grassseeds",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grassseeds",
+      "version": "3.3"
+    }
+  ]
+}

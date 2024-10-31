@@ -1,6 +1,18 @@
 {
   "name": "Item-Obliterator-Forge-1.19.2-2.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3ESR84kR",
+      "versionId": "7wB98NiB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835861,
+      "fileId": 5384064
+    }
+  ],
   "forge": [
     {
       "modId": "item_obliterator",

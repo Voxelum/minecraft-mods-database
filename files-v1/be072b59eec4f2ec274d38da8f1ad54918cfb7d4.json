@@ -1,0 +1,82 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "easyauth",
+      "version": "3.0.25"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "de_mkammerer_argon2-jvm",
+      "version": "2.11"
+    },
+    {
+      "modId": "de_mkammerer_argon2-jvm-nolibs",
+      "version": "2.11"
+    },
+    {
+      "modId": "at_favre_lib_bcrypt",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "at_favre_lib_bytes",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb-api",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-sync",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-core",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_mongodb_bson",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "8.2.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "net_java_dev_jna_jna",
+      "version": "5.13.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "LimitedSpawners-forge-1.19.2-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NeO7lLvU",
+      "versionId": "58QIhLjN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410922,
+      "fileId": 4070403
+    }
+  ],
   "forge": [
     {
       "modId": "limitedspawners",

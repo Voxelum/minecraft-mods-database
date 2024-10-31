@@ -1,6 +1,18 @@
 {
   "name": "itemcollectors-1.1.10-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y9vDr4Th",
+      "versionId": "W2clu40G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395620,
+      "fileId": 5273025
+    }
+  ],
   "fabric": [
     {
       "modId": "itemcollectors",

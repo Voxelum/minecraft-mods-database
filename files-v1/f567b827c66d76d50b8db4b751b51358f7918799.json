@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yANxwqSX",
+      "versionId": "10X1SUoE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118465,
+      "fileId": 5838594
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "filament",
+      "version": "0.9.3+1.21.2"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.12+1.21.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    }
+  ]
+}

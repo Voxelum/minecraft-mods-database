@@ -1,6 +1,18 @@
 {
   "name": "beekeeperhut-forge-mc1.20.1-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K62sN7Sd",
+      "versionId": "ilMkQEQF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711903,
+      "fileId": 5523327
+    }
+  ],
   "forge": [
     {
       "modId": "beekeeperhut",

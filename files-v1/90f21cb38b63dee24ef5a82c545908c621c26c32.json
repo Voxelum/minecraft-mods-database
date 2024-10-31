@@ -1,6 +1,12 @@
 {
   "name": "paladins-1.2.6+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FxXkHaLe",
+      "versionId": "MFqlocQN"
+    }
+  ],
   "fabric": [
     {
       "modId": "paladins",

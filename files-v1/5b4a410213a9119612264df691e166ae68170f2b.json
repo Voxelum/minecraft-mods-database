@@ -1,6 +1,18 @@
 {
   "name": "barbequesdelight-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rtu7uERF",
+      "versionId": "yOdhTMTI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007788,
+      "fileId": 5487449
+    }
+  ],
   "forge": [
     {
       "modId": "barbequesdelight",

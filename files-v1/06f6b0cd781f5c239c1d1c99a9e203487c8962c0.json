@@ -1,0 +1,20 @@
+{
+  "name": "Damageful-1.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4P98GJzc",
+      "versionId": "c2d1AdT3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "damageful",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

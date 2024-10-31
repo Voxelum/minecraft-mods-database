@@ -1,6 +1,12 @@
 {
   "name": "fishing-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jov013LO",
+      "versionId": "86OpM49z"
+    }
+  ],
   "fabric": [
     {
       "modId": "fishing",

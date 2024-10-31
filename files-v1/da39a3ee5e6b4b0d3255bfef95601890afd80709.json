@@ -1,6 +1,6 @@
 {
   "name": "Morpheus-1.16.5-4.2.70.jar",
-  "domain": "resourcepacks",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "yNL1NF5j",
@@ -149,6 +149,14 @@
     {
       "modId": "org_antlr_antlr4-runtime",
       "version": "4.11.1"
+    },
+    {
+      "modId": "chalk",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "simplefabric",
+      "version": "1.0.0"
     }
   ]
 }

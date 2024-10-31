@@ -1,6 +1,18 @@
 {
   "name": "!mixinbooter-9.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1ckZuWK",
+      "versionId": "8PB5NZf9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419286,
+      "fileId": 5640857
+    }
+  ],
   "forge": [
     {
       "modId": "mixinbooter",

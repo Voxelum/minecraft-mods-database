@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "numericalenchantments",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

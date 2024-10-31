@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549225,
+      "fileId": 5680060
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "framework",
+      "version": "0.9.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.1"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.2-GA"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

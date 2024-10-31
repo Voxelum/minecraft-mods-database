@@ -1,6 +1,18 @@
 {
   "name": "trulytreasures-1.20-3.0.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YUTKRI5S",
+      "versionId": "yLDxxokl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508348,
+      "fileId": 4610755
+    }
+  ],
   "forge": [
     {
       "modId": "trulytreasures",

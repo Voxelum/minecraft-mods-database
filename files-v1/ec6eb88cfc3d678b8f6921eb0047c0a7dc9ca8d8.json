@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_enchantments_encore",
+      "version": "1.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_enchantments_encore",
+      "version": "1.8"
+    }
+  ]
+}

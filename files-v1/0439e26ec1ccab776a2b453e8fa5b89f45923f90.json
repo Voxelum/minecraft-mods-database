@@ -1,6 +1,12 @@
 {
   "name": "resourcepackchecker-1.19.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fCpuZIcM",
+      "versionId": "j82fQkJK"
+    }
+  ],
   "fabric": [
     {
       "modId": "resourcepackchecker",

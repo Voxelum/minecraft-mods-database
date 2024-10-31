@@ -1,0 +1,58 @@
+{
+  "name": "sophisticatedbackpacks-1.20.1-3.20.11.26.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 979322,
+      "fileId": 5803928
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": "1.20.1-3.20.11.26"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.2+1.20.1"
+    }
+  ]
+}

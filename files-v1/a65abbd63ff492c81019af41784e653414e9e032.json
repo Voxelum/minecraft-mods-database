@@ -1,6 +1,12 @@
 {
   "name": "vintagedelight-0.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T7XZLHGD",
+      "versionId": "dEAIIBJ8"
+    }
+  ],
   "forge": [
     {
       "modId": "vintagedelight",

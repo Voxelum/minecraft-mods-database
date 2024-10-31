@@ -1,6 +1,18 @@
 {
   "name": "stacc-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fauLGdJR",
+      "versionId": "kI6KyeqZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 820136,
+      "fileId": 4995895
+    }
+  ],
   "fabric": [
     {
       "modId": "stacc",

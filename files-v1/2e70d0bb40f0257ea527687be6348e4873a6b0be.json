@@ -1,6 +1,18 @@
 {
   "name": "CIA-1.1.0-Forge-MC1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6wP3NByD",
+      "versionId": "nOD05yYV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965954,
+      "fileId": 5068084
+    }
+  ],
   "fabric": [
     {
       "modId": "customitemattributes",

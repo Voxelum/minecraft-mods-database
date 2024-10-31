@@ -1,0 +1,20 @@
+{
+  "name": "yttr-7.626+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 467267,
+      "fileId": 4259913
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yttr",
+      "version": "7.626+1.18.2"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.0.2+1.18.2"
+    }
+  ]
+}

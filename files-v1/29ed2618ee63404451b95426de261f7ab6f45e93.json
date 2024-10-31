@@ -1,6 +1,18 @@
 {
   "name": "apathy-forge-1.19.2-2.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fvtFPg1k",
+      "versionId": "KjIyu2yU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499846,
+      "fileId": 4611843
+    }
+  ],
   "forge": [
     {
       "modId": "apathy",

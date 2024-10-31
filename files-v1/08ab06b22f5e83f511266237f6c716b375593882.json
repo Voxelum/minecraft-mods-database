@@ -1,6 +1,12 @@
 {
   "name": "SonarCore-1.10.2-3.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 239418,
+      "fileId": 2480920
+    }
+  ],
   "forge": [
     {
       "modId": "sonarcore",

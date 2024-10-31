@@ -1,6 +1,18 @@
 {
   "name": "Aquamirae+Mod+EXTRA+Music.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lwSm57fu",
+      "versionId": "cMihYHv5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 542360,
+      "fileId": 4320520
+    }
+  ],
   "forge": [
     {
       "modId": "aquamirae_mod_music",

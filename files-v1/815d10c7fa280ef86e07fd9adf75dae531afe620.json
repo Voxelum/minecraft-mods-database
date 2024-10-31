@@ -1,6 +1,18 @@
 {
   "name": "FpsReducer2-forge-1.19.2-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iZ10HXDj",
+      "versionId": "w7HHZjDW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 280294,
+      "fileId": 5511353
+    }
+  ],
   "forge": [
     {
       "modId": "fpsreducer",

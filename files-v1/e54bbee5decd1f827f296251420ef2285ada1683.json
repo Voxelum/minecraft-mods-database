@@ -1,0 +1,20 @@
+{
+  "name": "screenshot_organisation-1.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wTIWefZH",
+      "versionId": "Rp4SDBAS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenshot_organisation",
+      "version": "1.8"
+    },
+    {
+      "modId": "shared-resources-api",
+      "version": "1.8.0"
+    }
+  ]
+}

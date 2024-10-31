@@ -1,6 +1,18 @@
 {
   "name": "Vampirism-1.20.1-1.10.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jVZ0F1wn",
+      "versionId": "cgQgFoj8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233029,
+      "fileId": 5743414
+    }
+  ],
   "forge": [
     {
       "modId": "vampirism",

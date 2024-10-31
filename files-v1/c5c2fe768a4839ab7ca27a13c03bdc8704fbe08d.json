@@ -1,6 +1,18 @@
 {
   "name": "lazydfu-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hvFnDODi",
+      "versionId": "aBDhdWUD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433518,
+      "fileId": 3169618
+    }
+  ],
   "fabric": [
     {
       "modId": "lazydfu",

@@ -1,0 +1,34 @@
+{
+  "name": "amethyst_imbuement-1.20.1-19.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fThucCjR",
+      "versionId": "vRY4HxBN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 608261,
+      "fileId": 5708471
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amethyst_imbuement",
+      "version": "1.20.1-19.8"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "should_i_hit_that",
+      "version": "0.1.2+1.20.1"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.20.1-01"
+    }
+  ]
+}

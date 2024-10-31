@@ -1,6 +1,18 @@
 {
   "name": "desiredservers-forge-1.19.2-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GDpe4LHD",
+      "versionId": "t16NIeRi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397292,
+      "fileId": 5113393
+    }
+  ],
   "forge": [
     {
       "modId": "desiredservers",

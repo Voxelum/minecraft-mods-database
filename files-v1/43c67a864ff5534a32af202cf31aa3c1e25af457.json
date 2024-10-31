@@ -1,6 +1,18 @@
 {
   "name": "EnchantmentDescriptions-fabric-1.17.1-4.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UVtY3ZAC",
+      "versionId": "cURpiLFL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250419,
+      "fileId": 3400963
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantmentdescriptions",

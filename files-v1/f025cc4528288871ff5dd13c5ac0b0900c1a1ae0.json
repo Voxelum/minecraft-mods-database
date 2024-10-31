@@ -1,0 +1,28 @@
+{
+  "name": "ftbquestsfreezefix-forge-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6Z1o0Fxu",
+      "versionId": "Tu2iZN6X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1113794,
+      "fileId": 5777386
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ftbquestsfreezefix",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbquestsfreezefix",
+      "version": "1.0.0"
+    }
+  ]
+}

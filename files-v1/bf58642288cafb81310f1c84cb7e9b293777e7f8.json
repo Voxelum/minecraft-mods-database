@@ -1,6 +1,18 @@
 {
   "name": "Mekanism-1.10.2-9.2.4.103.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ce6I4WUE",
+      "versionId": "wukmoSeF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268560,
+      "fileId": 2475800
+    }
+  ],
   "forge": [
     {
       "modId": "Mekanism",

@@ -1,6 +1,18 @@
 {
   "name": "spacecatasb-forge-19.13.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jfBHPmBR",
+      "versionId": "H37unxCI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549892,
+      "fileId": 5192441
+    }
+  ],
   "forge": [
     {
       "modId": "spacecatasb",

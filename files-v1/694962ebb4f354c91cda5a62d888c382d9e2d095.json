@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4AQF5mj",
+      "versionId": "UezAlzL0"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "veloxcaelo",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libninepatch",
+      "version": "1.2.0"
+    }
+  ]
+}

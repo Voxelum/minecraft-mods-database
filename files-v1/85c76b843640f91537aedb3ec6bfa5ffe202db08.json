@@ -1,6 +1,12 @@
 {
   "name": "forge-lava_walker-2.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 580033,
+      "fileId": 4685377
+    }
+  ],
   "forge": [
     {
       "modId": "lava_walker",

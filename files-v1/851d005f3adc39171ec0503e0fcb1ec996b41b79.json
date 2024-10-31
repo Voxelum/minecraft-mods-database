@@ -1,0 +1,10 @@
+{
+  "name": "dimensionalworld-1.0.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dimensionalworld",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

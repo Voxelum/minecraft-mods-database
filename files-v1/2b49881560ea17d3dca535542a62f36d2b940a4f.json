@@ -1,6 +1,18 @@
 {
   "name": "Portal-Gels-v1.1.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4p5ZTIIN",
+      "versionId": "uExQG71v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 825525,
+      "fileId": 4774270
+    }
+  ],
   "forge": [
     {
       "modId": "portal_gels",

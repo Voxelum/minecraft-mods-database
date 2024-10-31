@@ -1,6 +1,18 @@
 {
   "name": "veinmining-fabric-5.0.0-beta+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRAPbNyF",
+      "versionId": "5pbJBcoH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431611,
+      "fileId": 5497518
+    }
+  ],
   "fabric": [
     {
       "modId": "veinmining",

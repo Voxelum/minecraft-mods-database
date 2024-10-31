@@ -1,0 +1,28 @@
+{
+  "name": "elytratrims-forge-3.5.4+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "lfCqYYjV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 5795327
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "3.5.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "3.5.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "doubledoors-1.21.0-5.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JrvR9OHr",
+      "versionId": "G2Uykn6q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348831,
+      "fileId": 5426192
+    }
+  ],
   "forge": [
     {
       "modId": "doubledoors",

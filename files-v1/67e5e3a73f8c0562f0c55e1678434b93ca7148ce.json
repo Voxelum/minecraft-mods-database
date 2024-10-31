@@ -1,6 +1,18 @@
 {
   "name": "lukis-grand-capitals-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8Lw09aLb",
+      "versionId": "EtZf2Gve"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1003666,
+      "fileId": 5632422
+    }
+  ],
   "forge": [
     {
       "modId": "mr_lukis_grandcapitals",

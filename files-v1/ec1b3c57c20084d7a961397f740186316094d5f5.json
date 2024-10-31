@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 525270,
+      "fileId": 5732912
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cinderscapes",
+      "version": "3.0.7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cinderscapes",
+      "version": "${version}"
+    }
+  ]
+}

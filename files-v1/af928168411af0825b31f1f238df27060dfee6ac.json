@@ -1,6 +1,18 @@
 {
   "name": "Common_Screenshot Viever.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "laNoi025",
+      "versionId": "26H5ag6O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693961,
+      "fileId": 4162921
+    }
+  ],
   "forge": [
     {
       "modId": "screenshot_viewer",

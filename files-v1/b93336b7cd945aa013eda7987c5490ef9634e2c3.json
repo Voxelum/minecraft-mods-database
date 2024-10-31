@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LcafSQPm",
+      "versionId": "nNTTdtbX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491073,
+      "fileId": 5221627
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorio",
+      "version": "1.10.2"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.1"
+    }
+  ]
+}

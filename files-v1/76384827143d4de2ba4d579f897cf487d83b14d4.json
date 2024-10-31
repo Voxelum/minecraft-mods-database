@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rGWEHQrP",
+      "versionId": "h3HwyUfN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450659,
+      "fileId": 5448663
+    }
+  ],
+  "forge": [
+    {
+      "modId": "smallships",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smallships",
+      "version": "2.0.0-b1.3.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    }
+  ]
+}

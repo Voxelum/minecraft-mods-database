@@ -1,6 +1,18 @@
 {
   "name": "Structory_1.21.x_v1.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aKCwCJlY",
+      "versionId": "aVTpHwSJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636540,
+      "fileId": 5800612
+    }
+  ],
   "forge": [
     {
       "modId": "structory",

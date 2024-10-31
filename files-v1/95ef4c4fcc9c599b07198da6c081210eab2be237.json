@@ -1,0 +1,22 @@
+{
+  "name": "peaceful_hunger-merged-1.20.1-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1034453,
+      "fileId": 5429627
+    }
+  ],
+  "forge": [
+    {
+      "modId": "peaceful_hunger",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mod_id",
+      "version": "1.0.0"
+    }
+  ]
+}

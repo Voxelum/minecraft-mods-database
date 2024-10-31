@@ -1,6 +1,18 @@
 {
   "name": "Unexperienced-1.12.2-1.2.0b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y0iFTQ9H",
+      "versionId": "3tCx7PG6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552526,
+      "fileId": 5140238
+    }
+  ],
   "forge": [
     {
       "modId": "unexperienced",

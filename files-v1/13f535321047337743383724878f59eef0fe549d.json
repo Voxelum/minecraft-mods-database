@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AE4o3Hmb",
+      "versionId": "cn2wAwsZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 501159,
+      "fileId": 5772360
+    }
+  ],
+  "forge": [
+    {
+      "modId": "boss_music_mod",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "boss_music_mod",
+      "version": "1.2.0"
+    }
+  ]
+}

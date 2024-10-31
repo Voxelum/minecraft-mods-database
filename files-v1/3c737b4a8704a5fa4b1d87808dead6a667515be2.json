@@ -1,6 +1,12 @@
 {
   "name": "A1-NonUpdate-AllMCVersion-Final-2.0.2-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256359,
+      "fileId": 2656640
+    }
+  ],
   "forge": [
     {
       "modId": "non_update",

@@ -1,0 +1,26 @@
+{
+  "name": "plasmovoice-fabric-1.21-2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "Yp4iJ3Mv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 5763813
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

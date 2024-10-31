@@ -1,6 +1,18 @@
 {
   "name": "FIX-raised-forge-1.19.2-3.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCQRBEiR",
+      "versionId": "ogd75I6C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570368,
+      "fileId": 5027545
+    }
+  ],
   "forge": [
     {
       "modId": "raised",

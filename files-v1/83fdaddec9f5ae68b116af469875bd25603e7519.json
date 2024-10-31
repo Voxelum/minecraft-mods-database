@@ -1,6 +1,18 @@
 {
   "name": "arseng-1.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IJI3QuK8",
+      "versionId": "3nnmJpPI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905641,
+      "fileId": 5421339
+    }
+  ],
   "forge": [
     {
       "modId": "arseng",

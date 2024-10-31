@@ -1,6 +1,12 @@
 {
   "name": "manavisualizer-1.20.1-1.6.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 917511,
+      "fileId": 5031303
+    }
+  ],
   "forge": [
     {
       "modId": "manavisualizer",

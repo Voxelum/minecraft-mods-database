@@ -1,0 +1,26 @@
+{
+  "name": "rocks-1.5.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sb5ypgDP",
+      "versionId": "yeWeSyvQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416283,
+      "fileId": 3482249
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rocks",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.2.6"
+    }
+  ]
+}

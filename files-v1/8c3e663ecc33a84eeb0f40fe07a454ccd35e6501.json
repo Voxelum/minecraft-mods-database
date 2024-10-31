@@ -1,6 +1,18 @@
 {
   "name": "libIPN-forge-1.18.2-2.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "onSQdWhM",
+      "versionId": "QR2MwVNy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 679177,
+      "fileId": 4501595
+    }
+  ],
   "forge": [
     {
       "modId": "libipn",

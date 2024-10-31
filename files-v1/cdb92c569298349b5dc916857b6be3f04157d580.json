@@ -1,4 +1,16 @@
 {
   "name": "sit-1.21-1.3.5.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VKXzIykF",
+      "versionId": "m7X4wswO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 278717,
+      "fileId": 5427947
+    }
+  ]
 }

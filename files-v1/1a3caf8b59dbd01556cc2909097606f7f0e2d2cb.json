@@ -1,6 +1,18 @@
 {
   "name": "waymaker-1.18-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rh3qQ8P7",
+      "versionId": "ZucsGFU1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 653354,
+      "fileId": 3975155
+    }
+  ],
   "forge": [
     {
       "modId": "waymaker",

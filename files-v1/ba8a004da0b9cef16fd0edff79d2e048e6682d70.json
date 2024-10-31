@@ -1,6 +1,18 @@
 {
   "name": "twistedhorrors.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TUMzbL4z",
+      "versionId": "xj3C8s2G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 944664,
+      "fileId": 5417583
+    }
+  ],
   "forge": [
     {
       "modId": "twisted_horrors",

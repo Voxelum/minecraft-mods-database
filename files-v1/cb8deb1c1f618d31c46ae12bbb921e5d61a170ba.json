@@ -1,6 +1,18 @@
 {
   "name": "Geophilic v3.1.3 f15-48.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hl5OLM95",
+      "versionId": "un4Y0Mse"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711216,
+      "fileId": 5752580
+    }
+  ],
   "forge": [
     {
       "modId": "geophilic",

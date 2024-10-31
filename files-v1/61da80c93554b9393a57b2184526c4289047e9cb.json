@@ -1,6 +1,18 @@
 {
   "name": "nourished-nether-1.18.2-v22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ntLlgck5",
+      "versionId": "ooX7M4O3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 479296,
+      "fileId": 4361995
+    }
+  ],
   "forge": [
     {
       "modId": "nourished_nether",

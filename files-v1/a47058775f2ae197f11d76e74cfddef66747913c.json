@@ -1,6 +1,18 @@
 {
   "name": "diet-fabric-2.0.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SsIkH9rZ",
+      "versionId": "1hO4JcTI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443570,
+      "fileId": 4813888
+    }
+  ],
   "fabric": [
     {
       "modId": "diet",

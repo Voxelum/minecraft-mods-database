@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bD7YqcA3",
+      "versionId": "umIIVO8T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622010,
+      "fileId": 5400274
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "showmeyourskin",
+      "version": "1.11.0+1.20.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.0.0"
+    }
+  ]
+}

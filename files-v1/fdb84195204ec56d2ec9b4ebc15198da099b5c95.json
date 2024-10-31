@@ -1,6 +1,18 @@
 {
   "name": "FruitfulFun-1.20.1-Forge-7.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4bZDWNlG",
+      "versionId": "cfRRB2BI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 355467,
+      "fileId": 5358003
+    }
+  ],
   "forge": [
     {
       "modId": "fruitfulfun",

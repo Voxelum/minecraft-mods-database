@@ -1,6 +1,18 @@
 {
   "name": "mcw-lights-1.1.1-mc1.20.1fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w4an97C2",
+      "versionId": "D8iZj41A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 502372,
+      "fileId": 5473587
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwlights",

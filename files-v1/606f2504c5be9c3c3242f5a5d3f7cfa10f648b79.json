@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m5NB7FJE",
+      "versionId": "hBwXuZrP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580643,
+      "fileId": 5535749
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polydex",
+      "version": "1.2.3+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.5+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.1+1.21"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.5.1+1.21"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.6.0+1.21"
+    },
+    {
+      "modId": "sidebar-api",
+      "version": "0.5.0+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

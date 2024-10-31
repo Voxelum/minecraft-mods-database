@@ -1,0 +1,30 @@
+{
+  "name": "no-shield-delay-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pOf4Y6Oo",
+      "versionId": "v8Mc0O6d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 641059,
+      "fileId": 5676051
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no-shield-delay",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.1"
+    }
+  ]
+}

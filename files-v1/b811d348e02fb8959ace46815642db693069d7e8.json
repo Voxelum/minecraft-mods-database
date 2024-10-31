@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bring_decay",
+      "version": "0.0.4"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.12.3"
+    }
+  ]
+}

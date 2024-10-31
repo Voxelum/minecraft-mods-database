@@ -1,6 +1,18 @@
 {
   "name": "cloudstorage-1.4.0-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZiATPR3I",
+      "versionId": "RdcFsm0S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 606618,
+      "fileId": 4578808
+    }
+  ],
   "forge": [
     {
       "modId": "cloudstorage",

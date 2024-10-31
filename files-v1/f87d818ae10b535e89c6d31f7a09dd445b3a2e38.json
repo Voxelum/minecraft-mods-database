@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jGVzcXaf",
+      "versionId": "x4Q4rxsO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1068451,
+      "fileId": 5813285
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorytweak",
+      "version": "3.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    }
+  ]
+}

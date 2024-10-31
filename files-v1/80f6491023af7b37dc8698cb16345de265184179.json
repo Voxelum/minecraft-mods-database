@@ -1,6 +1,18 @@
 {
   "name": "morewizardsmod-0.1.6-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oJkZIwJu",
+      "versionId": "FMgpkcq8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973078,
+      "fileId": 5631082
+    }
+  ],
   "fabric": [
     {
       "modId": "morewizardsmod",

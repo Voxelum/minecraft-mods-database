@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VtVhdIEA",
+      "versionId": "Du2ekUNl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858922,
+      "fileId": 5609722
+    }
+  ],
+  "forge": [
+    {
+      "modId": "danger_close",
+      "version": "3.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "danger_close",
+      "version": "3.1.1"
+    }
+  ]
+}

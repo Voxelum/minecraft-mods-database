@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rj14w51s",
+      "versionId": "AejVRJaO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "citymod",
+      "version": "0.1.4.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "citymod",
+      "version": "0.1.4.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z2mXHnxP",
+      "versionId": "A9LuScTc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817666,
+      "fileId": 5812465
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterfortresses",
+      "version": "1.21.1-Fabric-3.1.2"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

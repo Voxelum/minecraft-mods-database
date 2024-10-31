@@ -1,6 +1,18 @@
 {
   "name": "journeymap-1.7.10-5.1.4p5-unlimited.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "KC0EP3lf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 32274,
+      "fileId": 4454943
+    }
+  ],
   "forge": [
     {
       "modId": "journeymap",

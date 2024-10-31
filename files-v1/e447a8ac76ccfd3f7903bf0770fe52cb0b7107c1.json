@@ -1,6 +1,18 @@
 {
   "name": "gravity-changer-1.3.0+mc1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bqOyYdKi",
+      "versionId": "4WLvZoDm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1055658,
+      "fileId": 5494287
+    }
+  ],
   "fabric": [
     {
       "modId": "gravity_changer_q",

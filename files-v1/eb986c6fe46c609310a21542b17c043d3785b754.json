@@ -1,6 +1,18 @@
 {
   "name": "lootr-1.19-0.4.28.68.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EltpO5cN",
+      "versionId": "C4OieRQF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615106,
+      "fileId": 5103753
+    }
+  ],
   "fabric": [
     {
       "modId": "lootr",

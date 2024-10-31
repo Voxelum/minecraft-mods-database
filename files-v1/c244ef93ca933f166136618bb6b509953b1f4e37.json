@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DzD7S3mv",
+      "versionId": "pkmtv5KA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1102243,
+      "fileId": 5720639
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bending",
+      "version": "3.10.0"
+    },
+    {
+      "modId": "cloud",
+      "version": "2.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "org_incendo_cloud-minecraft-extras",
+      "version": "2.0.0-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6DdCzpTL",
+      "versionId": "11Br0QcY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 420561,
+      "fileId": 5446055
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mclogs",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "gs_mclo_api",
+      "version": "4.0.1"
+    }
+  ]
+}

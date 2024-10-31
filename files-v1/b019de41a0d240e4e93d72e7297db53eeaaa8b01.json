@@ -1,6 +1,18 @@
 {
   "name": "incontrol-1.12-3.9.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KpICtuVx",
+      "versionId": "c68PSPmL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257356,
+      "fileId": 2678947
+    }
+  ],
   "forge": [
     {
       "modId": "incontrol",

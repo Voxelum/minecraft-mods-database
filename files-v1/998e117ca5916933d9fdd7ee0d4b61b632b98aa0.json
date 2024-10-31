@@ -1,6 +1,18 @@
 {
   "name": "BorderlessWindow-1.16.5-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CnalMsa0",
+      "versionId": "aoGKgrVz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378979,
+      "fileId": 3483843
+    }
+  ],
   "forge": [
     {
       "modId": "borderlesswindow",

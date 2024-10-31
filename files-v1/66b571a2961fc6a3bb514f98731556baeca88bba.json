@@ -1,6 +1,12 @@
 {
   "name": "epiczoomer-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RVm1112m",
+      "versionId": "iOIQOFNP"
+    }
+  ],
   "forge": [
     {
       "modId": "epiczoomer",

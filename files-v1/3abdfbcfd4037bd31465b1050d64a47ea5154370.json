@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gB2OPOxC",
+      "versionId": "8fUrncvB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558913,
+      "fileId": 5573613
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chromatic",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "org_jglr_jchroma_jchroma_",
+      "version": "0.1"
+    }
+  ]
+}

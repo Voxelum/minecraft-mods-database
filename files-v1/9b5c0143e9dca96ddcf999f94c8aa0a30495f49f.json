@@ -1,0 +1,22 @@
+{
+  "name": "cozy_home-3.0.4-forge-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 825733,
+      "fileId": 5512563
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cozy_home",
+      "version": "3.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cozy_home",
+      "version": "1.0.0"
+    }
+  ]
+}

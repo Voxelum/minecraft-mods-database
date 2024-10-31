@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bkz5C0dQ",
+      "versionId": "SeBvlHA3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962878,
+      "fileId": 5774156
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexalia",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

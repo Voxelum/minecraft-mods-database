@@ -1,6 +1,18 @@
 {
   "name": "vanillaconfig-1.2.7+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vtYpD93u",
+      "versionId": "r2mBFDcH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615185,
+      "fileId": 4439400
+    }
+  ],
   "fabric": [
     {
       "modId": "vanillaconfig",

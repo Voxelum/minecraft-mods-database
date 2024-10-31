@@ -1,6 +1,18 @@
 {
   "name": "[仅客户端][聊天头像]chat_heads-0.12.13-fabric-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wb5oqrBJ",
+      "versionId": "MdoSw2dL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 407206,
+      "fileId": 5634315
+    }
+  ],
   "fabric": [
     {
       "modId": "chat_heads",

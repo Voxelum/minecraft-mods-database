@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "botarium",
+      "version": "2.3.4"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

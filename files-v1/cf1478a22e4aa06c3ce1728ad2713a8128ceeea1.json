@@ -1,0 +1,26 @@
+{
+  "name": "charmofundying-fabric-9.1.0+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5GyyYkp",
+      "versionId": "RX60LMvX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316873,
+      "fileId": 5846601
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmofundying",
+      "version": "9.1.0+1.21.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.17.2+1.21"
+    }
+  ]
+}

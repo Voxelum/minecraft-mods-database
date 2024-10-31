@@ -1,6 +1,18 @@
 {
   "name": "beekeeperhut-fabric-mc1.20.1-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kt4RVKEd",
+      "versionId": "Iya1d63p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711899,
+      "fileId": 5523311
+    }
+  ],
   "fabric": [
     {
       "modId": "beekeeperhut",

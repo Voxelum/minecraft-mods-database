@@ -1,0 +1,26 @@
+{
+  "name": "everycomp-1.20-2.6.82-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiktJyw1",
+      "versionId": "XOTsE93B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 5792498
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "everycomp",
+      "version": "1.20-2.6.82"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    }
+  ]
+}

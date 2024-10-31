@@ -1,6 +1,12 @@
 {
   "name": "Iceberg-1.16.5-1.0.38.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 520110,
+      "fileId": 3609915
+    }
+  ],
   "forge": [
     {
       "modId": "iceberg",

@@ -1,0 +1,30 @@
+{
+  "name": "chesttracker-1.17.1-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ni4SrKmq",
+      "versionId": "M2WWrfYm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397217,
+      "fileId": 3489610
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chesttracker",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "whereisit",
+      "version": "1.14.3"
+    },
+    {
+      "modId": "libgui",
+      "version": "4.1.7+1.17.1"
+    }
+  ]
+}

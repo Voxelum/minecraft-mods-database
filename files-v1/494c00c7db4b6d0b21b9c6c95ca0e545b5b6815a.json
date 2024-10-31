@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiYW74Yj",
+      "versionId": "B39piMwB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850725,
+      "fileId": 4641039
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jsst",
+      "version": "0.3.14"
+    },
+    {
+      "modId": "jankson",
+      "version": "5.0.1+j1.2.2"
+    }
+  ]
+}

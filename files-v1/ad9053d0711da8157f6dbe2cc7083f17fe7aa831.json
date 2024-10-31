@@ -1,6 +1,18 @@
 {
   "name": "BuildersDelight-1.20.1-v.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CAASGC7r",
+      "versionId": "o5hPmXN6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 563734,
+      "fileId": 5221557
+    }
+  ],
   "forge": [
     {
       "modId": "buildersdelight",

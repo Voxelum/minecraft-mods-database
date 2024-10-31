@@ -1,6 +1,18 @@
 {
   "name": "Loyalty Medals-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LaK8BdsQ",
+      "versionId": "VhM8q7iQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 293274,
+      "fileId": 2579723
+    }
+  ],
   "forge": [
     {
       "modId": "loyaltymedals",

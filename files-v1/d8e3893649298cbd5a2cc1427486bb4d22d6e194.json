@@ -1,0 +1,26 @@
+{
+  "name": "blockus-2.9.5+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zFiY2Go0",
+      "versionId": "iRAmmXmv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312289,
+      "fileId": 5738367
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockus",
+      "version": "2.9.5+1.21.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    }
+  ]
+}

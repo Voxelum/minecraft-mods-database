@@ -1,0 +1,26 @@
+{
+  "name": "friendsandfoes-fabric-mc1.20.1-2.0.17.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "POQ2i9zu",
+      "versionId": "WSL8y5Nt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551364,
+      "fileId": 5694407
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "2.0.17"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

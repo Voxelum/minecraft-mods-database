@@ -1,6 +1,12 @@
 {
   "name": "cursedearthreturns-1.20.1-1.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 980520,
+      "fileId": 5221988
+    }
+  ],
   "forge": [
     {
       "modId": "cursedearth",

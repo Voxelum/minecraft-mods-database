@@ -1,0 +1,28 @@
+{
+  "name": "interiors-0.5.3+fabric-mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4Knci2k",
+      "versionId": "d7Enth7o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 906239,
+      "fileId": 5253009
+    }
+  ],
+  "forge": [
+    {
+      "modId": "interiors-0.5.3+fabric-mc1.18.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "interiors",
+      "version": "0.5.3"
+    }
+  ]
+}

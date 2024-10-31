@@ -1,6 +1,18 @@
 {
   "name": "darksmithing-forge-1.20.1-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y6i0Pn9k",
+      "versionId": "H327PduX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 883709,
+      "fileId": 5041810
+    }
+  ],
   "forge": [
     {
       "modId": "darksmithing",

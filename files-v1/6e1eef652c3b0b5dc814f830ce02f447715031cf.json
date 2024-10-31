@@ -1,6 +1,18 @@
 {
   "name": "customizableelytra-forge-2.1.2+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L25fOeGq",
+      "versionId": "s3I43o8I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440047,
+      "fileId": 5276553
+    }
+  ],
   "forge": [
     {
       "modId": "customizableelytra",

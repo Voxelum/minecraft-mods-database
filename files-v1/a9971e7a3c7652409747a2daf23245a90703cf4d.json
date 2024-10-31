@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "mDqpjmKe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 5399355
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.18.0+mc1.16.5"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8pBLL0kb",
+      "versionId": "RcQXIc3z"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "weapons_expanded",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weapons_expanded",
+      "version": "1.5.3"
+    }
+  ]
+}

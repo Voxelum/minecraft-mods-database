@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9qIVVBj8",
+      "versionId": "mPDJgsDo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1071762,
+      "fileId": 5692578
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tenseambience",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "com_github_umjammer_jlayer",
+      "version": "1.0.2"
+    }
+  ]
+}

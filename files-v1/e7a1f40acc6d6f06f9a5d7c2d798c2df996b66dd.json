@@ -1,6 +1,18 @@
 {
   "name": "vivecraft-1.19.2-1.1.13-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGoQDPN5",
+      "versionId": "3bfhYOcH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667903,
+      "fileId": 5727004
+    }
+  ],
   "forge": [
     {
       "modId": "vivecraft",

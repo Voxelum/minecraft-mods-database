@@ -1,6 +1,18 @@
 {
   "name": "BridgingMod-2.1.1+1.19.2.fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lO3s8hjs",
+      "versionId": "zcozWtd3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533942,
+      "fileId": 4743031
+    }
+  ],
   "fabric": [
     {
       "modId": "bridgingmod",

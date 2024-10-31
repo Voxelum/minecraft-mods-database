@@ -1,6 +1,18 @@
 {
   "name": "strayed-fates-forsaken-1.1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3GGOgUqD",
+      "versionId": "P0EDsrsZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 976478,
+      "fileId": 5431395
+    }
+  ],
   "forge": [
     {
       "modId": "mr_strayed_fatesforsaken",

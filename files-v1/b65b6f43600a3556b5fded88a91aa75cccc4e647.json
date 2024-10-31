@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "piqpXT8s",
+      "versionId": "SU1QNvkf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 950005,
+      "fileId": 5833614
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lios_overhauled_villages",
+      "version": "1.18.2-1.21-v0.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lios_overhauled_villages",
+      "version": "1.18.2-1.21-v0.0.5"
+    }
+  ]
+}

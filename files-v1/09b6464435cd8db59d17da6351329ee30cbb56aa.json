@@ -1,6 +1,18 @@
 {
   "name": "centered-crosshair+1.21-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xUTHly0N",
+      "versionId": "Orfi1Sh5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968689,
+      "fileId": 5427013
+    }
+  ],
   "fabric": [
     {
       "modId": "centered-crosshair",

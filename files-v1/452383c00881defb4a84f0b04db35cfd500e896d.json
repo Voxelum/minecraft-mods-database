@@ -1,6 +1,12 @@
 {
   "name": "flash-1.20-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zmu8jXWA",
+      "versionId": "Fpenf1R6"
+    }
+  ],
   "fabric": [
     {
       "modId": "flash",

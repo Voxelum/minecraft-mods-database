@@ -1,6 +1,12 @@
 {
   "name": "pv-addon-priority-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DoKOaUOC",
+      "versionId": "JsDAhyrY"
+    }
+  ],
   "forge": [
     {
       "modId": "pv_addon_priority",

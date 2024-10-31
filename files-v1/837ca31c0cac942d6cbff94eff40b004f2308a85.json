@@ -1,0 +1,28 @@
+{
+  "name": "peripheralium-fabric-1.20.1-0.7.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vV2a9qrZ",
+      "versionId": "3B0YEETs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621088,
+      "fileId": 5647716
+    }
+  ],
+  "forge": [
+    {
+      "modId": "peripheralium",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peripheralium",
+      "version": "0.7.0"
+    }
+  ]
+}

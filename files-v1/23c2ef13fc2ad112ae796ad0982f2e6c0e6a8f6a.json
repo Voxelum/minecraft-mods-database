@@ -1,6 +1,18 @@
 {
   "name": "modernfix-fabric-5.19.1+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "nJmQaEws"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 5616611
+    }
+  ],
   "fabric": [
     {
       "modId": "modernfix",

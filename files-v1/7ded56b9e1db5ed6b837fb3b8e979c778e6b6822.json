@@ -1,6 +1,18 @@
 {
   "name": "Prism-1.21-fabric-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1OE8wbN0",
+      "versionId": "F1FRXaIf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665526,
+      "fileId": 5569633
+    }
+  ],
   "fabric": [
     {
       "modId": "prism",

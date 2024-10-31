@@ -1,6 +1,12 @@
 {
   "name": "ContainerFix MC1.12.2 v1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 290240,
+      "fileId": 2541816
+    }
+  ],
   "forge": [
     {
       "modId": "containerfix",

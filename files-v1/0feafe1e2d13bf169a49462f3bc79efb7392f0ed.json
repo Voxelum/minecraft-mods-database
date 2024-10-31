@@ -1,6 +1,18 @@
 {
   "name": "clientsidenoteblocks-2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "flmhXQgb",
+      "versionId": "z0sVJeRi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473175,
+      "fileId": 5619751
+    }
+  ],
   "fabric": [
     {
       "modId": "clientsidenoteblocks",

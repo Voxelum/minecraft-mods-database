@@ -1,6 +1,12 @@
 {
   "name": "Hide Armor-Forge-1.16.5-1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 393060,
+      "fileId": 3388633
+    }
+  ],
   "forge": [
     {
       "modId": "hidearmor",

@@ -1,6 +1,18 @@
 {
   "name": "VanillaTweaks-fabric-1.20.1-1.5.69.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5DJpA9qi",
+      "versionId": "6rHNIqGZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 272637,
+      "fileId": 4610198
+    }
+  ],
   "fabric": [
     {
       "modId": "vanillatweaks",

@@ -1,6 +1,18 @@
 {
   "name": "Female-Gender-Mod-fabric-3.2.1+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bcOsQHnC",
+      "versionId": "kJmjQvAS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456319,
+      "fileId": 5478368
+    }
+  ],
   "fabric": [
     {
       "modId": "wildfire_gender",

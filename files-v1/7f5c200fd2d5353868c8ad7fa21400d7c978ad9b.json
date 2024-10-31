@@ -1,6 +1,12 @@
 {
   "name": "aggrofix-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 954269,
+      "fileId": 5010980
+    }
+  ],
   "forge": [
     {
       "modId": "aggrofix",

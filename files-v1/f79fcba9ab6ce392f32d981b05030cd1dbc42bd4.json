@@ -1,6 +1,18 @@
 {
   "name": "chatsounds-1.1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GO9EQa8a",
+      "versionId": "YJmiSG0U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459715,
+      "fileId": 4580864
+    }
+  ],
   "fabric": [
     {
       "modId": "chatsounds",

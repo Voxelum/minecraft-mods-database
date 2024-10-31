@@ -1,6 +1,18 @@
 {
   "name": "FriendlyFire-Fabric-1.20.1-18.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FTaA4pRW",
+      "versionId": "1P0gcoT2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255105,
+      "fileId": 5368434
+    }
+  ],
   "fabric": [
     {
       "modId": "friendlyfire",

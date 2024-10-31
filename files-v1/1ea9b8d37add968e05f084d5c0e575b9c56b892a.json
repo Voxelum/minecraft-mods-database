@@ -1,6 +1,18 @@
 {
   "name": "HammerLib-1.19.2-19.3.82.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PlkSuVtM",
+      "versionId": "QWyY0kdh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247401,
+      "fileId": 5439458
+    }
+  ],
   "forge": [
     {
       "modId": "hammerlib",

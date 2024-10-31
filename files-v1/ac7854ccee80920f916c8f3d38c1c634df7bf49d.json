@@ -1,0 +1,28 @@
+{
+  "name": "create_blazing_hot-0.6.2+fabric-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LmT6oZrX",
+      "versionId": "ea7LNZPM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1070455,
+      "fileId": 5690240
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_blazing_hot-0.6.2+fabric-mc1.20.1",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blazinghot",
+      "version": "0.6.2+fabric-mc1.20.1"
+    }
+  ]
+}

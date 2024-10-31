@@ -1,6 +1,18 @@
 {
   "name": "immersive_melodies-0.3.0+1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TaSmHw8V",
+      "versionId": "oVk9fOQD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904471,
+      "fileId": 5496452
+    }
+  ],
   "fabric": [
     {
       "modId": "immersive_melodies",

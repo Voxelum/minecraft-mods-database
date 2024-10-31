@@ -1,6 +1,18 @@
 {
   "name": "rftoolscontrol-1.16-4.0.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DQjhR62z",
+      "versionId": "2DoKudfB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250763,
+      "fileId": 3598212
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolscontrol",

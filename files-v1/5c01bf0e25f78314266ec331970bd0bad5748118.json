@@ -1,6 +1,18 @@
 {
   "name": "netherportalspread-1.19.2-7.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z7UX4SHt",
+      "versionId": "TJGSiV8m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342097,
+      "fileId": 4430781
+    }
+  ],
   "forge": [
     {
       "modId": "netherportalspread",

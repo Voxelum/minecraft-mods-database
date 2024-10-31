@@ -1,6 +1,18 @@
 {
   "name": "cat_jam-forge-mc1.20-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3s69afN",
+      "versionId": "E6a9Pli4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 859716,
+      "fileId": 5337705
+    }
+  ],
   "forge": [
     {
       "modId": "cat_jam",

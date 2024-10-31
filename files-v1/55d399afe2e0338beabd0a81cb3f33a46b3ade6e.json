@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qPzLkTsE",
+      "versionId": "bWVkhDef"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317590,
+      "fileId": 5472995
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mambience",
+      "version": "5.5.1+1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

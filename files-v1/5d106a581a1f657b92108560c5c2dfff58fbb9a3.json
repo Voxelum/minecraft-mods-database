@@ -1,6 +1,18 @@
 {
   "name": "tdacmod-0.0.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mBSHALKK",
+      "versionId": "5RskHu4Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1075675,
+      "fileId": 5663331
+    }
+  ],
   "fabric": [
     {
       "modId": "tdacmod",

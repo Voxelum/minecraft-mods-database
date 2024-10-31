@@ -1,6 +1,12 @@
 {
   "name": "upgradable-backpack-v10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PCoGdhe8",
+      "versionId": "G3qqWocu"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_upgradable_backpack",

@@ -1,0 +1,44 @@
+{
+  "name": "vs_addition-1.20.1-0.0.6f+12b9443f49.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nR8D9Tc2",
+      "versionId": "P5g7XRyV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1027757,
+      "fileId": 5713454
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vs_addition",
+      "version": "1.20.1-forge-0.0.6f+12b9443f49"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vs_addition",
+      "version": "1.20.1-fabric-0.0.6f+12b9443f49"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

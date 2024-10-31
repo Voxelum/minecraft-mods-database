@@ -1,6 +1,18 @@
 {
   "name": "wardentools-2.5.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KuQueJOG",
+      "versionId": "xirQaXbP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 635510,
+      "fileId": 5578218
+    }
+  ],
   "fabric": [
     {
       "modId": "wardentools",

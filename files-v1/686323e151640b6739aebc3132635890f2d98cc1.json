@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dF3krc92",
+      "versionId": "9rZjk6J4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1065901,
+      "fileId": 5552461
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpginventory",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "FTBQuestsOptimizer-forge-1.2.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oPwMsrcf",
+      "versionId": "6qmXDQpl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912469,
+      "fileId": 5065537
+    }
+  ],
   "forge": [
     {
       "modId": "ftbqoptimizer",

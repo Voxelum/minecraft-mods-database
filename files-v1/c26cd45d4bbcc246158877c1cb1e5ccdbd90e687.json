@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nfn13YXA",
+      "versionId": "BS1r5rpA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 5846944
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "14.1.786"
+    },
+    {
+      "modId": "error_notifier",
+      "version": "1.0.9"
+    }
+  ]
+}

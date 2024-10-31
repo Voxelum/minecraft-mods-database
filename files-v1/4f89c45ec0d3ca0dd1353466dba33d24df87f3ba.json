@@ -1,6 +1,18 @@
 {
   "name": "BetterCompatibilityChecker-fabric-21.0.1+mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KJhXPbHQ",
+      "versionId": "B9z80Trh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551894,
+      "fileId": 5432278
+    }
+  ],
   "fabric": [
     {
       "modId": "bcc",

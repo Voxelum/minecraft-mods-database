@@ -1,6 +1,18 @@
 {
   "name": "namepain-1.5.0+forge-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cJk2qbxw",
+      "versionId": "ZFnd6BzM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366263,
+      "fileId": 4643249
+    }
+  ],
   "forge": [
     {
       "modId": "namepain",

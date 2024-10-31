@@ -1,6 +1,18 @@
 {
   "name": "packetfixer-forge-1.4.1-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7m1mi73",
+      "versionId": "RPeFHDpM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689467,
+      "fileId": 5411928
+    }
+  ],
   "forge": [
     {
       "modId": "packetfixer",

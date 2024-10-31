@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mtfbtanr",
+      "versionId": "zssK0qEb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695238,
+      "fileId": 5609821
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biomespawnpoint",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomespawnpoint",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "better-end-2.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gc8OEnCC",
+      "versionId": "ANsvdFr8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 413596,
+      "fileId": 4111393
+    }
+  ],
   "fabric": [
     {
       "modId": "betterend",

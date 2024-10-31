@@ -1,0 +1,22 @@
+{
+  "name": "kinetic_pixel-1.0.0-forge-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1089858,
+      "fileId": 5658462
+    }
+  ],
+  "forge": [
+    {
+      "modId": "kinetic_pixel",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kinetic_pixel",
+      "version": "1.0.0"
+    }
+  ]
+}

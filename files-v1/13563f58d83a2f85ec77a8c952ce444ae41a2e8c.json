@@ -1,6 +1,18 @@
 {
   "name": "adventurez-1.4.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "defK2XM3",
+      "versionId": "3DMvG0s2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390991,
+      "fileId": 4656247
+    }
+  ],
   "fabric": [
     {
       "modId": "adventurez",

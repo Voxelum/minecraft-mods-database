@@ -1,6 +1,12 @@
 {
   "name": "Chimes-1.1.4-1.19.2-Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 350464,
+      "fileId": 4067923
+    }
+  ],
   "fabric": [
     {
       "modId": "chimes",

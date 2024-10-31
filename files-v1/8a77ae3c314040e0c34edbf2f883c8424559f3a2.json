@@ -1,6 +1,18 @@
 {
   "name": "ash_api-fabric-21.0.2-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q8xUICr6",
+      "versionId": "xMLyxpUH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 838498,
+      "fileId": 5553211
+    }
+  ],
   "fabric": [
     {
       "modId": "ash_api",

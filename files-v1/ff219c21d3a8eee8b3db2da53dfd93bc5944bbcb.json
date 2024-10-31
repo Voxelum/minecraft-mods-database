@@ -1,6 +1,18 @@
 {
   "name": "duckling-fabric-1.20.4-4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jkb861Ih",
+      "versionId": "rYGqStCQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597248,
+      "fileId": 5256598
+    }
+  ],
   "fabric": [
     {
       "modId": "duckling",

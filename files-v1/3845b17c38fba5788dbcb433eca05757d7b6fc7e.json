@@ -1,6 +1,18 @@
 {
   "name": "PlayerRevive_FORGE_v2.0.26_mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ABIMzABM",
+      "versionId": "QKns6hTI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 266890,
+      "fileId": 5542496
+    }
+  ],
   "forge": [
     {
       "modId": "playerrevive",

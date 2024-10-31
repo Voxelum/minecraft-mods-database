@@ -1,6 +1,18 @@
 {
   "name": "cookingforblockheads-fabric-1.20.4-18.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vJnhuDde",
+      "versionId": "jVHObP4X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634546,
+      "fileId": 5164000
+    }
+  ],
   "fabric": [
     {
       "modId": "cookingforblockheads",

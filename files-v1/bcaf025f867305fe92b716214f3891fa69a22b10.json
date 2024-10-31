@@ -1,0 +1,24 @@
+{
+  "name": "spellbound-1.16.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PvOWwwRg",
+      "versionId": "HJmIYL6B"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spellbound",
+      "version": "1.16.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "modify-drops-api",
+      "version": "0.5.1.1"
+    }
+  ]
+}

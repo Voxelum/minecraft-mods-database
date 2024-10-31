@@ -1,6 +1,18 @@
 {
   "name": "endertrigon-1.20.1-1.1-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bIGwdx6D",
+      "versionId": "pnjBOuvM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662563,
+      "fileId": 5388736
+    }
+  ],
   "forge": [
     {
       "modId": "endertrigon",

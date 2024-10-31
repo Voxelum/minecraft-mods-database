@@ -1,6 +1,18 @@
 {
   "name": "emi_ores-1.0+1.20.1+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sG4TqDb8",
+      "versionId": "DY6srqZU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974009,
+      "fileId": 5805554
+    }
+  ],
   "fabric": [
     {
       "modId": "emi_ores",

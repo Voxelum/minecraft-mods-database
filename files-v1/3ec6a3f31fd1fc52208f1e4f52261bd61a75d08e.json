@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enderzoology",
+      "version": "20.4.3"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "20.4.1"
+    }
+  ]
+}

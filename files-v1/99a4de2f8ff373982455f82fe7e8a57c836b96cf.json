@@ -1,6 +1,18 @@
 {
   "name": "bestylewither-forge-mc1.20-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OkmRZ5fH",
+      "versionId": "fsY9zL8C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636003,
+      "fileId": 5079768
+    }
+  ],
   "forge": [
     {
       "modId": "bestylewither",

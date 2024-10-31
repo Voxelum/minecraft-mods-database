@@ -1,6 +1,18 @@
 {
   "name": "VeinDigging-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Qo9d9jpM",
+      "versionId": "yWKsGTt5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849999,
+      "fileId": 4573932
+    }
+  ],
   "fabric": [
     {
       "modId": "veindigging",

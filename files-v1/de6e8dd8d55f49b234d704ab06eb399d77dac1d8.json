@@ -1,6 +1,18 @@
 {
   "name": "mysterious_mountain_lib-1.4.7-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ntMyNH8c",
+      "versionId": "c79gyX4v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368098,
+      "fileId": 5414924
+    }
+  ],
   "forge": [
     {
       "modId": "mysterious_mountain_lib",

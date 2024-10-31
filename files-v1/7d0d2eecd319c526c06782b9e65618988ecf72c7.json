@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IYY9Siz8",
+      "versionId": "nhH0DRdq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jamlib",
+      "version": "1.2.2+1.21.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

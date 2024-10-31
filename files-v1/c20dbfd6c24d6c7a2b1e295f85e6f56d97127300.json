@@ -1,6 +1,18 @@
 {
   "name": "playlist.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Aj1EfTaU",
+      "versionId": "3axzalLm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 641704,
+      "fileId": 4636403
+    }
+  ],
   "fabric": [
     {
       "modId": "playlist",

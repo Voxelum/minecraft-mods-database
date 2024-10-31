@@ -1,6 +1,18 @@
 {
   "name": "plushie_buddies-0.1.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5hoSWfrw",
+      "versionId": "PVdnZ3X4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 990265,
+      "fileId": 5537942
+    }
+  ],
   "forge": [
     {
       "modId": "plushie_buddies",

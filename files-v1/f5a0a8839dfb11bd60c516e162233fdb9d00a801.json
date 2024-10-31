@@ -1,0 +1,20 @@
+{
+  "name": "TreeAxe-Fabric-1.20.1-1.4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 504229,
+      "fileId": 5121451
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treeaxe",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.6.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "elytraslot-fabric-9.0.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mSQF1NpT",
+      "versionId": "mVZwWdVe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317716,
+      "fileId": 5542480
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytraslot",
+      "version": "9.0.0+1.21"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.6"
+    }
+  ]
+}

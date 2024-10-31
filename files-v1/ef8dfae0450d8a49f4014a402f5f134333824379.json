@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jCikwMS7",
+      "versionId": "btkLK5Of"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028436,
+      "fileId": 5405581
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "animation_overhaul",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "simplycats-1.12.2-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRhXcqHZ",
+      "versionId": "ILixyGkE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 332910,
+      "fileId": 3903915
+    }
+  ],
   "forge": [
     {
       "modId": "simplycats",

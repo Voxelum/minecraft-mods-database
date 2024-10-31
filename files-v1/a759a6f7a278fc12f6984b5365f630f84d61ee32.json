@@ -1,6 +1,18 @@
 {
   "name": "fusion-1.1.0c-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p19vrgc2",
+      "versionId": "N53FXB6I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854949,
+      "fileId": 4880339
+    }
+  ],
   "fabric": [
     {
       "modId": "fusion",

@@ -1,6 +1,18 @@
 {
   "name": "mae2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5G4fpXXj",
+      "versionId": "7knJ3VIP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028068,
+      "fileId": 5741238
+    }
+  ],
   "forge": [
     {
       "modId": "mae2",

@@ -1,6 +1,18 @@
 {
   "name": "JRFTL [1.19.1]-1.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8nIicBYu",
+      "versionId": "HqEAO1Tg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247136,
+      "fileId": 4459026
+    }
+  ],
   "forge": [
     {
       "modId": "jrftl",

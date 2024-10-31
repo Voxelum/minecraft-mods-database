@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nDTiZfjW",
+      "versionId": "HKYeRNnv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyblocktweaks-fabric",
+      "version": "0.1.0-Alpha.7"
+    },
+    {
+      "modId": "hm-api",
+      "version": "1.0.0+1.21"
+    }
+  ]
+}

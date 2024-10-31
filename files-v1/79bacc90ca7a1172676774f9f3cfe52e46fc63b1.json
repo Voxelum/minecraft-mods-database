@@ -1,6 +1,18 @@
 {
   "name": "OpenSauceToastKiller.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DoJ9HqFj",
+      "versionId": "yVqxMY32"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923372,
+      "fileId": 4836957
+    }
+  ],
   "fabric": [
     {
       "modId": "toastkiller",

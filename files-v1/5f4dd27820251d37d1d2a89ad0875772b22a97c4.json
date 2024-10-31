@@ -1,6 +1,18 @@
 {
   "name": "Quad-1.2.0+1.20.4-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7jzrCiK0",
+      "versionId": "b1qojJ5z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 932715,
+      "fileId": 5312731
+    }
+  ],
   "fabric": [
     {
       "modId": "quad",

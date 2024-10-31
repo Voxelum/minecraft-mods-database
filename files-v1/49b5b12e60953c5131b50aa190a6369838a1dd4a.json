@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "temczoTQ",
+      "versionId": "GyQI10EF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623806,
+      "fileId": 5355370
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autohud",
+      "version": "6.3.5+1.20.1"
+    },
+    {
+      "modId": "yaclx",
+      "version": "1.6+1.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    }
+  ]
+}

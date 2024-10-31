@@ -1,6 +1,18 @@
 {
   "name": "warriorrage-forge-1.19.2-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1BGsoydA",
+      "versionId": "pHPv8ehp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631764,
+      "fileId": 5323411
+    }
+  ],
   "forge": [
     {
       "modId": "warriorrage",
