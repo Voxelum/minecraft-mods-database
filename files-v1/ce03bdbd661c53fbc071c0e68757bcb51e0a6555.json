@@ -1,0 +1,26 @@
+{
+  "name": "bitsandchisels-2.5.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q8MC5tW2",
+      "versionId": "mOI3L7iA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 420709,
+      "fileId": 3403201
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bitsandchisels",
+      "version": "2.5.3"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.2.3"
+    }
+  ]
+}

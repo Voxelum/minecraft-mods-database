@@ -1,0 +1,22 @@
+{
+  "name": "new-bundle-craft-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9meQUmie",
+      "versionId": "MlVsQTWy"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_new_bundlecraft",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_new_bundlecraft",
+      "version": "1.0"
+    }
+  ]
+}

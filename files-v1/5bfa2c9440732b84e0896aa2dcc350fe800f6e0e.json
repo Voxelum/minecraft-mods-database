@@ -1,6 +1,18 @@
 {
   "name": "【masa全家桶】MagicLib-mc1.21.0-fabric-0.8.585-stable.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mv1zH6ln",
+      "versionId": "Al3El5pu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576459,
+      "fileId": 5592214
+    }
+  ],
   "fabric": [
     {
       "modId": "magiclib",

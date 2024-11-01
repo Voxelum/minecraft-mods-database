@@ -1,6 +1,12 @@
 {
   "name": "gag-forge-1.2.1-build.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 694962,
+      "fileId": 5175792
+    }
+  ],
   "forge": [
     {
       "modId": "gag",

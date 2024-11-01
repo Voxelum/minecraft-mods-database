@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "easyshulkerboxes",
+      "version": "20.4.6"
+    },
+    {
+      "modId": "iteminteractions",
+      "version": "20.4.5"
+    }
+  ]
+}

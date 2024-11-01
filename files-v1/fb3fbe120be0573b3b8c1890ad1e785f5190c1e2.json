@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "s8aqG0A6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958094,
+      "fileId": 5604974
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polytone",
+      "version": "1.21-2.2.13"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

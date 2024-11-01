@@ -1,6 +1,18 @@
 {
   "name": "EasyMagic-v21.0.2-1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9hx3AbJM",
+      "versionId": "5RNV4ylW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456239,
+      "fileId": 5579849
+    }
+  ],
   "fabric": [
     {
       "modId": "easymagic",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "98ytUvlc",
+      "versionId": "edyBtO5k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821752,
+      "fileId": 5826056
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettertrims",
+      "version": "3.2.8"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

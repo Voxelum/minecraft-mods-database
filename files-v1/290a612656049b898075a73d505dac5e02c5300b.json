@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "OowhDlgW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 5671539
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcify",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "342"
+    }
+  ]
+}

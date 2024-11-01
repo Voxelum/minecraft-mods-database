@@ -1,6 +1,12 @@
 {
   "name": "darkinventory-fabric-1.20.1-1.1.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 811840,
+      "fileId": 5417021
+    }
+  ],
   "fabric": [
     {
       "modId": "darkinventory",

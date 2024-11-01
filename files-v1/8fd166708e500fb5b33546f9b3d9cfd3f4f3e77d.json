@@ -1,0 +1,30 @@
+{
+  "name": "youre-in-grave-danger-fabric-2.4.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HnD1GX6e",
+      "versionId": "eSYXte6X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544912,
+      "fileId": 5802603
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yigd",
+      "version": "2.4.11"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    }
+  ]
+}

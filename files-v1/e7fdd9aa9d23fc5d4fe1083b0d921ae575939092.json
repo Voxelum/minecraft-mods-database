@@ -1,6 +1,18 @@
 {
   "name": "ultreon-lib-forge-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "74g7isNi",
+      "versionId": "CBo3jwXT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431079,
+      "fileId": 4760952
+    }
+  ],
   "forge": [
     {
       "modId": "ultreonlib",

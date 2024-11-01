@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r3Ttrl9a",
+      "versionId": "gPWAdEIR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "serverapi",
+      "version": "1.0.10+1.20.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

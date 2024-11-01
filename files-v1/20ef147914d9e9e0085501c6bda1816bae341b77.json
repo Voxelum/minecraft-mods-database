@@ -1,6 +1,12 @@
 {
   "name": "phosphor-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oCBQFmrZ",
+      "versionId": "EoRB0IqD"
+    }
+  ],
   "forge": [
     {
       "modId": "phosphor-lighting",

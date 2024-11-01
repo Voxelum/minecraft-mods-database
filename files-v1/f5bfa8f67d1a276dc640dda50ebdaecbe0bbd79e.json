@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "many_flowers",
+      "version": "1.20.4-1.0"
+    },
+    {
+      "modId": "ducky-updater-lib",
+      "version": "2023.10.1"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.11.2"
+    }
+  ]
+}

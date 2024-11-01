@@ -1,0 +1,26 @@
+{
+  "name": "polytone-1.21-2.4.22-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "N19bVZkM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958094,
+      "fileId": 5804226
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polytone",
+      "version": "1.21-2.4.22"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

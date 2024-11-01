@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JGAiUYbt",
+      "versionId": "6mAsNpBn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861094,
+      "fileId": 5612994
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ultracraft",
+      "version": "1.20.1-2.2.2"
+    },
+    {
+      "modId": "azurelib",
+      "version": "2.0.6"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "goop",
+      "version": "1.20.x-0.3"
+    }
+  ]
+}

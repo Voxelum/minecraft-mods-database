@@ -1,0 +1,20 @@
+{
+  "name": "shield_overhaul-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 637870,
+      "fileId": 5775194
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shield_overhaul",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "playeranimatorapi",
+      "version": "2.1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "NUE - Beta 3.23 for 1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ykGuQjEo",
+      "versionId": "5iR5HT6t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 420231,
+      "fileId": 4995028
+    }
+  ],
   "forge": [
     {
       "modId": "nue",

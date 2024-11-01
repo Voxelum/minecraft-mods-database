@@ -1,6 +1,18 @@
 {
   "name": "dynamic-fps-3.7.3+minecraft-1.21.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "ff6HpTn9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 5743183
+    }
+  ],
   "forge": [
     {
       "modId": "dynamic_fps",

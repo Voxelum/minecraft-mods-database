@@ -1,0 +1,28 @@
+{
+  "name": "create-dyn-light-fabric1.20.1+1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "evMQRxqV",
+      "versionId": "nJgqKQD5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1076861,
+      "fileId": 5724522
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createdynlight",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createdynlight",
+      "version": "1.0.2"
+    }
+  ]
+}

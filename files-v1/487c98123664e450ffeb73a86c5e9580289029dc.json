@@ -1,6 +1,18 @@
 {
   "name": "UtilitiX-1.20.1-0.8.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MMMWYsjm",
+      "versionId": "4Ec1JtC4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463703,
+      "fileId": 5589814
+    }
+  ],
   "forge": [
     {
       "modId": "utilitix",

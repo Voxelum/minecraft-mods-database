@@ -1,6 +1,18 @@
 {
   "name": "radiantgear-forge-2.0.3+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtT9wm5O",
+      "versionId": "k8F4D9BW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 602199,
+      "fileId": 5163774
+    }
+  ],
   "forge": [
     {
       "modId": "radiantgear",

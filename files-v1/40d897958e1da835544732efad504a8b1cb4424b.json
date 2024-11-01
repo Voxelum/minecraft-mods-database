@@ -1,6 +1,18 @@
 {
   "name": "malilib-fabric-1.21-0.20.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "yUa5ib7g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303119,
+      "fileId": 5557592
+    }
+  ],
   "fabric": [
     {
       "modId": "malilib",

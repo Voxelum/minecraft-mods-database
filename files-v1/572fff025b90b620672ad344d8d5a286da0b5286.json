@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551736,
+      "fileId": 5701737
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumdynamiclights",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumdynamiclights",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

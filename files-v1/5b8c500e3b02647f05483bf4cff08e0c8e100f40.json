@@ -1,6 +1,18 @@
 {
   "name": "eldritch-mobs-1.15.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "emXFPmJd",
+      "versionId": "1UqTBkHo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 392015,
+      "fileId": 5593798
+    }
+  ],
   "fabric": [
     {
       "modId": "eldritch_mobs",

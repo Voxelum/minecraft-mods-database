@@ -1,6 +1,18 @@
 {
   "name": "LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5QMhNIHB",
+      "versionId": "9s0HcvzG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1090235,
+      "fileId": 5670919
+    }
+  ],
   "forge": [
     {
       "modId": "ls_spooky_music",

@@ -1,6 +1,18 @@
 {
   "name": "shuffle-fabric-21.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WUvGZLgB",
+      "versionId": "U7aM8S4t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360916,
+      "fileId": 5456187
+    }
+  ],
   "fabric": [
     {
       "modId": "shuffle",

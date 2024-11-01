@@ -1,6 +1,18 @@
 {
   "name": "almostunified-fabric-1.20.1-0.9.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sdaSaQEz",
+      "versionId": "iVBf0ICr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633823,
+      "fileId": 5517425
+    }
+  ],
   "fabric": [
     {
       "modId": "almostunified",

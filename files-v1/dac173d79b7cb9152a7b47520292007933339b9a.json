@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bring_back_luck",
+      "version": "0.0.7"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.11.2"
+    }
+  ]
+}

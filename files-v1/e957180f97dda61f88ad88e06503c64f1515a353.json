@@ -1,10 +1,16 @@
 {
   "name": "kotlinforforge-5.4.0-all.jar",
-  "domain": "unclassified",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "ordsPcFz",
       "versionId": "3oPv2poO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 351264,
+      "fileId": 5521840
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
   "name": "Aquamirae Mod Boss Music Tweaks 1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lwSm57fu",
+      "versionId": "ykXsGBrm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 542360,
+      "fileId": 5296806
+    }
+  ],
   "forge": [
     {
       "modId": "aquamirae_mod_extra_music",

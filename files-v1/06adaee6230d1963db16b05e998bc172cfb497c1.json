@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterWitchHuts-1.20.4-Fabric-3.4.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5FRdP87",
+      "versionId": "ZtIhxDv1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631403,
+      "fileId": 5350198
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterwitchhuts",
+      "version": "1.20.4-Fabric-3.4.3"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

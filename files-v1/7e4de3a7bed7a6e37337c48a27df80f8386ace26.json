@@ -1,6 +1,12 @@
 {
   "name": "dynamo-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 790312,
+      "fileId": 5013033
+    }
+  ],
   "forge": [
     {
       "modId": "dynamo",

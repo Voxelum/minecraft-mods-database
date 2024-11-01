@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C4GbEnuY",
+      "versionId": "ImgkAu63"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seedmapper",
+      "version": "1.6"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.9"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "1.3"
+    }
+  ]
+}

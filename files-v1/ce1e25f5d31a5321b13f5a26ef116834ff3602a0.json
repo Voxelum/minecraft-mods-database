@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pfjLUfGv",
+      "versionId": "rY2B5H93"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421839,
+      "fileId": 5608809
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "botania",
+      "version": "1.19.2-440.2-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

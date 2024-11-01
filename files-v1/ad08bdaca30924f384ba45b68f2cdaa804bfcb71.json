@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "itzZXRxq",
+      "versionId": "jjB2mL5v"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vistas",
+      "version": "2.6.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

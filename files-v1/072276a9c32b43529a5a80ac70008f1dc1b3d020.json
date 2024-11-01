@@ -1,0 +1,20 @@
+{
+  "name": "recursive-resources-2.5.3+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CcL3MXyI",
+      "versionId": "5nJtFxHo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recursiveresources",
+      "version": "2.5.3+1.21"
+    },
+    {
+      "modId": "shared-resources-api",
+      "version": "1.8.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "fishingreal-1.16.3-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MIdaKqt7",
+      "versionId": "AVJQAXph"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348834,
+      "fileId": 3074201
+    }
+  ],
   "forge": [
     {
       "modId": "fishingreal",

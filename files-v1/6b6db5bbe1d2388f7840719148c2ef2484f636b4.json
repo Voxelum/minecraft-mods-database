@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_recipes_galore",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_recipes_galore",
+      "version": "2.3"
+    }
+  ]
+}

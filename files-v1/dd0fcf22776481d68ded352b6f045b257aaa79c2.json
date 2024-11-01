@@ -1,6 +1,12 @@
 {
   "name": "gardeners-dream-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cPfmk5E3",
+      "versionId": "vkj0XibE"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_gardeners_dream",

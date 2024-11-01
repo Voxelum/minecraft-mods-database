@@ -1,6 +1,12 @@
 {
   "name": "emissive-plugin-1.16.5-2.0.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oQ0dIGZg",
+      "versionId": "u7MWUjYK"
+    }
+  ],
   "forge": [
     {
       "modId": "moremcmeta_emissive_plugin",

@@ -1,6 +1,18 @@
 {
   "name": "Better Impaling Forge v1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aa5MRAn8",
+      "versionId": "MyMTn0uy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628436,
+      "fileId": 3810298
+    }
+  ],
   "forge": [
     {
       "modId": "better_impaling_forge",

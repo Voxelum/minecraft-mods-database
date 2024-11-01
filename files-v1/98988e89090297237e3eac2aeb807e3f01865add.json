@@ -1,0 +1,24 @@
+{
+  "name": "flashback-0.9.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4das1Fjq",
+      "versionId": "QP5RLOnl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flashback",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

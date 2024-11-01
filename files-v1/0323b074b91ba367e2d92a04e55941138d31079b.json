@@ -1,6 +1,18 @@
 {
   "name": "[Forge]CTOV-3.4.9b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "CuBiJ01d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 5771026
+    }
+  ],
   "forge": [
     {
       "modId": "ctov",

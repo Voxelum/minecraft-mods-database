@@ -1,6 +1,18 @@
 {
   "name": "1.19.2MidnightMadness-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qBssY8fr",
+      "versionId": "Aqvqga5R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 847812,
+      "fileId": 5007650
+    }
+  ],
   "forge": [
     {
       "modId": "midnight_madness",

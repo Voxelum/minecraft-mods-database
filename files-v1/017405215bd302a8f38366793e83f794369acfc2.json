@@ -1,6 +1,18 @@
 {
   "name": "everycomp-1.19.2-2.5.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiktJyw1",
+      "versionId": "ZsYx7YJO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 5583319
+    }
+  ],
   "forge": [
     {
       "modId": "everycomp",

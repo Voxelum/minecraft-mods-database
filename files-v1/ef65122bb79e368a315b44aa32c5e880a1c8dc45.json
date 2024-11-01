@@ -1,6 +1,12 @@
 {
   "name": "ChocoCraft-4.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bPTEaC7v",
+      "versionId": "1AmSO7cb"
+    }
+  ],
   "forge": [
     {
       "modId": "chococraft",

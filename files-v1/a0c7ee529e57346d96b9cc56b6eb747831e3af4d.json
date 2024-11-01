@@ -1,0 +1,60 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uCdwusMi",
+      "versionId": "jsIYH2nN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508933,
+      "fileId": 5689272
+    }
+  ],
+  "forge": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.2.1-a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.2.1-a"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.15+8f4e8eb390"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.4+1b46dc7890"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.8.4+edbdcddb90"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.34+562bff6e90"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.12.1+d8ef690890"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.12+def3f86d90"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.32+4d0d570390"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.25+5c4fce2890"
+    }
+  ]
+}

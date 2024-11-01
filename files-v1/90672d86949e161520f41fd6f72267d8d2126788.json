@@ -1,6 +1,18 @@
 {
   "name": "CompassCoords-1.6.0-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oBwwvdls",
+      "versionId": "8eMhg5YL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368398,
+      "fileId": 4576043
+    }
+  ],
   "forge": [
     {
       "modId": "compasscoords",

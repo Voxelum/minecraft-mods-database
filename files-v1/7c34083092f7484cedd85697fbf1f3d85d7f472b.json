@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6FtRfnLg",
+      "versionId": "xMjXb8O3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

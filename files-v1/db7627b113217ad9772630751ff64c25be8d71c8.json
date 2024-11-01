@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DDnWSBuT",
+      "versionId": "PtCVya98"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "blockomorph",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockomorph",
+      "version": "3.0.1"
+    }
+  ]
+}

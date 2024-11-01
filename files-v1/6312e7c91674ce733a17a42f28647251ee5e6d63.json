@@ -1,0 +1,26 @@
+{
+  "name": "letsdo-wildernature-fabric-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AAiRU4aQ",
+      "versionId": "O84Ab1Bd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1071657,
+      "fileId": 5610403
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wildernature",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

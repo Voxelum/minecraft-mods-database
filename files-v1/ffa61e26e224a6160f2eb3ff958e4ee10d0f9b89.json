@@ -1,0 +1,20 @@
+{
+  "name": "celestria-fabric-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GoCfVRkX",
+      "versionId": "vz64cT5u"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "celestria",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.8"
+    }
+  ]
+}

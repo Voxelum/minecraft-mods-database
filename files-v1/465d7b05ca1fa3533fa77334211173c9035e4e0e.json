@@ -1,6 +1,18 @@
 {
   "name": "Chassis-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KzYZSCSR",
+      "versionId": "A4xrYuKK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 596615,
+      "fileId": 4536163
+    }
+  ],
   "fabric": [
     {
       "modId": "chassis",

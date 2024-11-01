@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ecu",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ecu",
+      "version": "1.4.0"
+    }
+  ]
+}

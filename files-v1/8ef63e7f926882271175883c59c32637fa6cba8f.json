@@ -1,6 +1,18 @@
 {
   "name": "Axiom-4.0.0-for-MC1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N6n5dqoA",
+      "versionId": "J7bFfUEz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1097425,
+      "fileId": 5695152
+    }
+  ],
   "fabric": [
     {
       "modId": "axiom",

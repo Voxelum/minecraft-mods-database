@@ -1,6 +1,18 @@
 {
   "name": "copiescats-0.0.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5eeNuTVB",
+      "versionId": "MZSsyQga"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 961317,
+      "fileId": 5037469
+    }
+  ],
   "forge": [
     {
       "modId": "copiescats",

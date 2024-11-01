@@ -1,6 +1,18 @@
 {
   "name": "Coins-Forge-1.19.2-10.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b8aQgkOD",
+      "versionId": "cwQsNhOe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377056,
+      "fileId": 4277164
+    }
+  ],
   "forge": [
     {
       "modId": "coinsje",

@@ -1,6 +1,12 @@
 {
   "name": "omnom-0.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QRn1AvJL",
+      "versionId": "Dj0JGVql"
+    }
+  ],
   "forge": [
     {
       "modId": "omnom",

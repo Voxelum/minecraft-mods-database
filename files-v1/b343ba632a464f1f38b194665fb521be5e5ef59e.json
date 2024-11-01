@@ -1,6 +1,18 @@
 {
   "name": "immersive_armors-1.5.5+1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eE2Db4YU",
+      "versionId": "bPXk0QuM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580681,
+      "fileId": 4481014
+    }
+  ],
   "forge": [
     {
       "modId": "immersive_armors",

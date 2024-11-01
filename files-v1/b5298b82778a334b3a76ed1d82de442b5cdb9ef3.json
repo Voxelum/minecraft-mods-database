@@ -1,0 +1,42 @@
+{
+  "name": "servercore-fabric-1.5.4+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WWQxlQP",
+      "versionId": "pdvZYDOA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550579,
+      "fileId": 5509086
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servercore",
+      "version": "1.5.4+1.21"
+    },
+    {
+      "modId": "space_arim_dazzleconf_dazzleconf-ext-snakeyaml",
+      "version": "1.3.0-M2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0+1.21"
+    },
+    {
+      "modId": "space_arim_dazzleconf_dazzleconf-core",
+      "version": "1.3.0-M2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

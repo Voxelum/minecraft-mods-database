@@ -1,0 +1,16 @@
+{
+  "name": "TheFenceUnleashed-1.0.2-1.20.1-0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 521072,
+      "fileId": 4593023
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fency",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

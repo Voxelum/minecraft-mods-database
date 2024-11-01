@@ -1,6 +1,18 @@
 {
   "name": "modonomicon-1.20.1-forge-1.60.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "692GClaE",
+      "versionId": "4XeQqykW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538392,
+      "fileId": 5139912
+    }
+  ],
   "forge": [
     {
       "modId": "modonomicon",

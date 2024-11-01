@@ -1,0 +1,22 @@
+{
+  "name": "borderless-neoforge-1.21-1.7.1-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CnalMsa0",
+      "versionId": "1kxNb4CT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378979,
+      "fileId": 5526620
+    }
+  ],
+  "forge": [
+    {
+      "modId": "${modid}",
+      "version": "${version}"
+    }
+  ]
+}

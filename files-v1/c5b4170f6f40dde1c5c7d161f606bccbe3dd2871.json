@@ -1,10 +1,16 @@
 {
-  "name": "DATAncientCityOverhaul.jar",
+  "name": "dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "DNuNq5bb",
       "versionId": "E9Fv5kp6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 920418,
+      "fileId": 4785961
     }
   ],
   "forge": [

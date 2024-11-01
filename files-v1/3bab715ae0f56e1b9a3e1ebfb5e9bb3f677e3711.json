@@ -1,6 +1,18 @@
 {
   "name": "[JEI物品管理器] jei-1.19.2-forge-11.4.0.286.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "TZe7MoGh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 4087658
+    }
+  ],
   "forge": [
     {
       "modId": "jei",

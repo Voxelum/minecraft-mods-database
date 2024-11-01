@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hcLATe7l",
+      "versionId": "SXJuUdsf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 502533,
+      "fileId": 5811672
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simpledrills",
+      "version": "1.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simpledrills",
+      "version": "1.5.0"
+    }
+  ]
+}

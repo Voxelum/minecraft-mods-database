@@ -1,6 +1,18 @@
 {
   "name": "letsdo-farm_and_charm-fabric-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJetCzWo",
+      "versionId": "5hscyRtZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038103,
+      "fileId": 5652313
+    }
+  ],
   "fabric": [
     {
       "modId": "farm_and_charm",

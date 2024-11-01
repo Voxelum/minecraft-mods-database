@@ -1,6 +1,18 @@
 {
   "name": "ServerRedirect-FabricMC20-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YqkxTQEh",
+      "versionId": "byFTM1N0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 295232,
+      "fileId": 4683968
+    }
+  ],
   "fabric": [
     {
       "modId": "serverredirect",

@@ -1,6 +1,18 @@
 {
   "name": "aecapfix-0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LkfFGNnA",
+      "versionId": "dPU2YGI4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 914685,
+      "fileId": 5418991
+    }
+  ],
   "forge": [
     {
       "modId": "aecapfix",

@@ -1,6 +1,18 @@
 {
   "name": "ServerBrowser-1.20.1-FABRIC-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "REH0O240",
+      "versionId": "CjrE27Ip"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 825617,
+      "fileId": 5263584
+    }
+  ],
   "fabric": [
     {
       "modId": "serverbrowser",

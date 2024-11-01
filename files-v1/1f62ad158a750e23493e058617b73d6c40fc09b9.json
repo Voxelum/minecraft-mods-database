@@ -1,6 +1,18 @@
 {
-  "name": "JustLeveling x IronSpell-1.1.jar",
+  "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RJ1TZdgN",
+      "versionId": "dWO1fCdY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1085645,
+      "fileId": 5637991
+    }
+  ],
   "forge": [
     {
       "modId": "justleveling_x_ironspell",

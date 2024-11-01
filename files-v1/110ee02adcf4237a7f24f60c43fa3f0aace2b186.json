@@ -1,6 +1,18 @@
 {
   "name": "Trials-2.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s5Igmyc6",
+      "versionId": "HY38dRp3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1012027,
+      "fileId": 5647948
+    }
+  ],
   "forge": [
     {
       "modId": "trials",

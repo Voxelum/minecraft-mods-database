@@ -1,6 +1,12 @@
 {
   "name": "spirder-caves-fabric-20.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dGtrU8l3",
+      "versionId": "De4lnlD5"
+    }
+  ],
   "fabric": [
     {
       "modId": "spider_caves",

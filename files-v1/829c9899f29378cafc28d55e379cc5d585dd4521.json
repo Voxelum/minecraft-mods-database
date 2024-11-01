@@ -1,6 +1,18 @@
 {
   "name": "FD-FruitsDelight-1.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g6sbyCTu",
+      "versionId": "k6SnqxMm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943774,
+      "fileId": 5395590
+    }
+  ],
   "forge": [
     {
       "modId": "fruitsdelight",

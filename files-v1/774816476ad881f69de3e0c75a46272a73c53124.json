@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "2.5.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.5.4"
+    }
+  ]
+}

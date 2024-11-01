@@ -1,6 +1,18 @@
 {
   "name": "placementpreview-1.12.2-0.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fNQx3Cvx",
+      "versionId": "aVfICFJY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 248402,
+      "fileId": 2493033
+    }
+  ],
   "forge": [
     {
       "modId": "placementpreview",

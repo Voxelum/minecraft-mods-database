@@ -1,6 +1,18 @@
 {
   "name": "VisualWorkbench-v21.0.1-1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kfqD1JRw",
+      "versionId": "VO22sn7H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 500273,
+      "fileId": 5509752
+    }
+  ],
   "fabric": [
     {
       "modId": "visualworkbench",

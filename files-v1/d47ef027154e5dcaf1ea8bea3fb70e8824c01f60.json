@@ -1,0 +1,28 @@
+{
+  "name": "create_armor_trims-1.20.1-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q4F90RHI",
+      "versionId": "C9U99P99"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1020165,
+      "fileId": 5359591
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_armor_trims",
+      "version": "2.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_armor_trims",
+      "version": "2.0.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "chat_heads-0.13.3-forge-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wb5oqrBJ",
+      "versionId": "jbYc6Bh9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 407206,
+      "fileId": 5761157
+    }
+  ],
   "forge": [
     {
       "modId": "chat_heads",

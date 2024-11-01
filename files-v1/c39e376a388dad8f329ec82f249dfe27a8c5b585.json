@@ -1,0 +1,26 @@
+{
+  "name": "enchantment-lore-1.4.1+MC1.21-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHdR6hMt",
+      "versionId": "VokviPBx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430219,
+      "fileId": 5672551
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantment_lore",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

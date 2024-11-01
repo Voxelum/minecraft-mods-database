@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vtggzSb5",
+      "versionId": "ZRVSBzFc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868624,
+      "fileId": 5609694
+    }
+  ],
+  "forge": [
+    {
+      "modId": "automessage",
+      "version": "2.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "automessage",
+      "version": "2.3.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OB9VEcWN",
+      "versionId": "TK19fNUE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 865135,
+      "fileId": 5557348
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coordinatelist",
+      "version": "1.7.1-1.21"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

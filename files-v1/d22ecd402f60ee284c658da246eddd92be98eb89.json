@@ -1,6 +1,18 @@
 {
   "name": "quickbench-4.1.0+mc.1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v2yISwb0",
+      "versionId": "EYrqPaBk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 914551,
+      "fileId": 4767801
+    }
+  ],
   "fabric": [
     {
       "modId": "quickbench",

@@ -1,6 +1,18 @@
 {
   "name": "highlight-fabric-1.21-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vz96hXMh",
+      "versionId": "O0nda3pt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667245,
+      "fileId": 5447147
+    }
+  ],
   "fabric": [
     {
       "modId": "highlight",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "ovLpJk3c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864599,
+      "fileId": 5320959
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doapi",
+      "version": "1.2.11"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

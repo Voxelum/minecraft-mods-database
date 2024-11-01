@@ -1,6 +1,12 @@
 {
   "name": "sfcaddon-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 714164,
+      "fileId": 4127144
+    }
+  ],
   "forge": [
     {
       "modId": "sfcaddon",

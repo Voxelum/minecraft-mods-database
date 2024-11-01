@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BwPeriwJ",
+      "versionId": "sSgaI1YG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1020455,
+      "fileId": 5662411
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "a_good_place",
+      "version": "1.20-1.2.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

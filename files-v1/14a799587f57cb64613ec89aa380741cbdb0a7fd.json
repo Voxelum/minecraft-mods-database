@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 344544,
+      "fileId": 5374642
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "realisticfirespread",
+      "version": "1.20.6-r1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.0.0-rc1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.0.0-rc1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "aiotbotania-0.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TFFWPTSD",
+      "versionId": "EESuCcez"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 294815,
+      "fileId": 2807928
+    }
+  ],
   "forge": [
     {
       "modId": "aiotbotania",

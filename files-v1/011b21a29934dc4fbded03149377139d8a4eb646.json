@@ -1,6 +1,18 @@
 {
   "name": "[FORGE] SuperOreBlock - MC 1.20.1 - 6.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lFr5Bbfo",
+      "versionId": "RJ0yOlym"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861181,
+      "fileId": 5434001
+    }
+  ],
   "forge": [
     {
       "modId": "super_ore_block",

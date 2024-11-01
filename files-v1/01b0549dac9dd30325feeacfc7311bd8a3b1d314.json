@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NbKFMiE7",
+      "versionId": "5cw6j8Fe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973671,
+      "fileId": 5566228
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "combat-plus-core",
+      "version": "3.1.0+1.21"
+    },
+    {
+      "modId": "lilylib",
+      "version": "1.3.0+1.21"
+    }
+  ]
+}

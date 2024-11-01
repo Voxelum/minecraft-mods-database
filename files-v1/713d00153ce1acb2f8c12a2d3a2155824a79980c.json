@@ -1,6 +1,18 @@
 {
   "name": "what_gecko-1.20.1-1.0.3.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RCqMAUyS",
+      "versionId": "d7kVAAhk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 951510,
+      "fileId": 5285652
+    }
+  ],
   "forge": [
     {
       "modId": "what_gecko",

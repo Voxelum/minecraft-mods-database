@@ -1,0 +1,26 @@
+{
+  "name": "aaa_particles-1.20.1-1.4.7-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "En8uHTOK",
+      "versionId": "8QXSm2Kh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979809,
+      "fileId": 5834240
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aaa_particles",
+      "version": "1.20.1-1.4.7"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "XaerosWorldMap_1.39.0_Forge_1.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NcUtCpym",
+      "versionId": "SFDBRBOn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317780,
+      "fileId": 5658219
+    }
+  ],
   "forge": [
     {
       "modId": "xaeroworldmap",

@@ -1,6 +1,18 @@
 {
   "name": "beautify-1.2.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DhSSvaxs",
+      "versionId": "6tIaagwA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 809311,
+      "fileId": 5405529
+    }
+  ],
   "fabric": [
     {
       "modId": "beautify",

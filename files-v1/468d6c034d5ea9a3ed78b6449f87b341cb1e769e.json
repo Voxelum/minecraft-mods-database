@@ -1,6 +1,18 @@
 {
   "name": "emi-letsdo-compat-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k6hi4lMv",
+      "versionId": "5uUSIbBu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1063821,
+      "fileId": 5705886
+    }
+  ],
   "fabric": [
     {
       "modId": "emi_letsdo_compat",

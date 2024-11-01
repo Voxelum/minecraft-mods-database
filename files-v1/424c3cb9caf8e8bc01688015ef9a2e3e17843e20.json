@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pbnlOdwp",
+      "versionId": "EhFlWFqh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chattools",
+      "version": "2.3.5"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "com_sshtools_two-slices",
+      "version": "0.9.4"
+    }
+  ]
+}

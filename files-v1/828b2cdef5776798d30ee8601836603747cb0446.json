@@ -1,0 +1,30 @@
+{
+  "name": "friendsandfoes-fabric-mc1.20.1-3.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "POQ2i9zu",
+      "versionId": "ZSr2YsBe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551364,
+      "fileId": 5767543
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

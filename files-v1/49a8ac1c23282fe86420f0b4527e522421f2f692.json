@@ -1,6 +1,18 @@
 {
   "name": "astikorcarts-1.20.1-1.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mnLFouB0",
+      "versionId": "p3r1QBKd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916493,
+      "fileId": 5574685
+    }
+  ],
   "forge": [
     {
       "modId": "astikorcarts",

@@ -1,6 +1,18 @@
 {
   "name": "CutThrough-v21.0.0-1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dk6su9JN",
+      "versionId": "c4tG4GND"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969423,
+      "fileId": 5525972
+    }
+  ],
   "fabric": [
     {
       "modId": "cutthrough",

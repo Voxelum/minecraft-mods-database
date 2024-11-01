@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UblF21s1",
+      "versionId": "VKSeHbXw"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "projectiles",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "projectiles",
+      "version": "1.0.0"
+    }
+  ]
+}

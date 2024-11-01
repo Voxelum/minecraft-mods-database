@@ -1,6 +1,18 @@
 {
   "name": "experienced_crops-1.20.1-1.1.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Obi0OZ4c",
+      "versionId": "IYPAlitn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 906052,
+      "fileId": 4719537
+    }
+  ],
   "forge": [
     {
       "modId": "experienced_crops",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u6LRnMa",
+      "versionId": "Iys3Keyt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704113,
+      "fileId": 5022706
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "botarium",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

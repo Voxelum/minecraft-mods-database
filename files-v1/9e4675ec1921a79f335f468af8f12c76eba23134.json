@@ -1,6 +1,12 @@
 {
   "name": "WailaEvents-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BFFcKz9D",
+      "versionId": "GzEzszhi"
+    }
+  ],
   "forge": [
     {
       "modId": "wailaevents",

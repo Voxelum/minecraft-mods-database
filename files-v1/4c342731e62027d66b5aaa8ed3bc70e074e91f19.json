@@ -1,6 +1,12 @@
 {
   "name": "create-deco-additions-1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HrsF061q",
+      "versionId": "zXYMiPys"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_create_decoadditions",

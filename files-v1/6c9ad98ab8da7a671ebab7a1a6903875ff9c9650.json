@@ -1,6 +1,12 @@
 {
   "name": "reap-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244256,
+      "fileId": 3242601
+    }
+  ],
   "forge": [
     {
       "modId": "reap",

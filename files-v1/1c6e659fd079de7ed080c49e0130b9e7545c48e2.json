@@ -1,6 +1,18 @@
 {
   "name": "benssharks-1.2.4-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kF6ZFH7j",
+      "versionId": "Sozpx7Jb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 987388,
+      "fileId": 5317298
+    }
+  ],
   "forge": [
     {
       "modId": "benssharks",

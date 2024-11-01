@@ -1,6 +1,18 @@
 {
   "name": "comforts-fabric-7.2.2+1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SaCpeal4",
+      "versionId": "9qOe1XXv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 276951,
+      "fileId": 5214439
+    }
+  ],
   "fabric": [
     {
       "modId": "comforts",

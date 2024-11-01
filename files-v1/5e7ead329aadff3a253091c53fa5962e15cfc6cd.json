@@ -1,6 +1,18 @@
 {
   "name": "more-axolotl-2.0.1-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ugNoKBqS",
+      "versionId": "aWIlILbl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548608,
+      "fileId": 4596791
+    }
+  ],
   "fabric": [
     {
       "modId": "more-axolotl",

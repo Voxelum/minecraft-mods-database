@@ -1,6 +1,18 @@
 {
   "name": "Pulver-1.12-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kq6oQl0v",
+      "versionId": "WbuscHIt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 261489,
+      "fileId": 2481506
+    }
+  ],
   "forge": [
     {
       "modId": "pulver",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "beaconwaypoints",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    }
+  ]
+}

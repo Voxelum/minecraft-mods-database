@@ -1,6 +1,18 @@
 {
   "name": "overweightfarming-1.19.2-2.0.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bCxmmxKN",
+      "versionId": "HwaPTwXt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 591666,
+      "fileId": 4395450
+    }
+  ],
   "forge": [
     {
       "modId": "overweight_farming",

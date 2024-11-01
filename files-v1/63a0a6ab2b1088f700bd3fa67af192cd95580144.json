@@ -1,0 +1,26 @@
+{
+  "name": "custom_hud-4.0.0-beta.8+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6jis0UTI",
+      "versionId": "anWcUW3D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406984,
+      "fileId": 5724237
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custom_hud",
+      "version": "4.0.0-beta.8+1.21"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

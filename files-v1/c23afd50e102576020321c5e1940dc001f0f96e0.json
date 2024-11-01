@@ -1,6 +1,12 @@
 {
   "name": "optifabric-1.11.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 322385,
+      "fileId": 3422922
+    }
+  ],
   "fabric": [
     {
       "modId": "optifabric",

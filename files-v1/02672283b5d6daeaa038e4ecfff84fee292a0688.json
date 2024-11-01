@@ -1,6 +1,18 @@
 {
   "name": "xercamusic-fabric-1.20.1-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qQpWCN75",
+      "versionId": "QM70Gb46"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341448,
+      "fileId": 5592164
+    }
+  ],
   "fabric": [
     {
       "modId": "xercamusic",

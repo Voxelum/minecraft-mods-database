@@ -1,0 +1,40 @@
+{
+  "name": "physics_toys-0.3.0+1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JHvtQzoF",
+      "versionId": "qb4ZipcY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "physics_toys",
+      "version": "0.3.0+1.21.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_stephengold_libbulletjme",
+      "version": "21.2.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.10.1+1.21.3"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.10.1+1.21.3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "welcomemessage-1.20.1-2.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DMK2eYu7",
+      "versionId": "Lv0mK9E0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551215,
+      "fileId": 5571580
+    }
+  ],
+  "forge": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.6"
+    }
+  ]
+}

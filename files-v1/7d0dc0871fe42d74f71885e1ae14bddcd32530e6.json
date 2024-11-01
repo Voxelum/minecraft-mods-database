@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wQfMUdZT",
+      "versionId": "r2mnc8w2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854213,
+      "fileId": 5746320
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "colorfulhearts",
+      "version": "10.3.8"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.1"
+    }
+  ]
+}

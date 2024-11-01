@@ -1,6 +1,18 @@
 {
   "name": "InGameAccountSwitcher-Forge-1.12-8.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cudtvDnd",
+      "versionId": "1wXRJWXV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232676,
+      "fileId": 3993185
+    }
+  ],
   "forge": [
     {
       "modId": "ias",

@@ -1,6 +1,18 @@
 {
   "name": "extradelight-1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yRrY3XII",
+      "versionId": "8NqqCZ0I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 842106,
+      "fileId": 5315542
+    }
+  ],
   "forge": [
     {
       "modId": "extradelight",

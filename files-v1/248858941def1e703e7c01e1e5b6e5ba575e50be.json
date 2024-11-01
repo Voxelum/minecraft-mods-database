@@ -1,6 +1,18 @@
 {
   "name": "simple_zoom-1.20.1-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ylWD7aoA",
+      "versionId": "QIW368nh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 906430,
+      "fileId": 4720836
+    }
+  ],
   "forge": [
     {
       "modId": "simple_zoom",

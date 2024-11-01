@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "g3r8MefO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958094,
+      "fileId": 5572442
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polytone",
+      "version": "1.20-2.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

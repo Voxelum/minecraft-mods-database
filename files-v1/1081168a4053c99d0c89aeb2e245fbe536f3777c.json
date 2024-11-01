@@ -1,0 +1,34 @@
+{
+  "name": "accessories-fabric-1.0.0-beta.18+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jtmvUHXj",
+      "versionId": "6V4Vro3o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938917,
+      "fileId": 5541742
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "accessories",
+      "version": "1.0.0-beta.18+1.21"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.5"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.3"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.2"
+    }
+  ]
+}

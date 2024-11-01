@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aT8BzaOj",
+      "versionId": "pHa2uS92"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 258587,
+      "fileId": 5491932
+    }
+  ],
+  "forge": [
+    {
+      "modId": "itemphysic",
+      "version": "1.6.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemphysic",
+      "version": "${version}"
+    }
+  ]
+}

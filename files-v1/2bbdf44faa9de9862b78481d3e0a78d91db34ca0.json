@@ -1,6 +1,12 @@
 {
   "name": "WitcheryPatch-1.7.10-1.0.0-mr.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HjPDtAQy",
+      "versionId": "ncuf2wiU"
+    }
+  ],
   "forge": [
     {
       "modId": "witcherypatch",

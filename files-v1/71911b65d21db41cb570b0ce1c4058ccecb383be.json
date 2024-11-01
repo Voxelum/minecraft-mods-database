@@ -1,6 +1,12 @@
 {
   "name": "JJElytraSwap-1.8.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CanU29Ke",
+      "versionId": "2XBy88VZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "jjelytraswap",

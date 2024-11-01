@@ -1,6 +1,18 @@
 {
   "name": "loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TqCKvqjC",
+      "versionId": "7WP876Jm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 534502,
+      "fileId": 4118350
+    }
+  ],
   "forge": [
     {
       "modId": "loadmyresources",

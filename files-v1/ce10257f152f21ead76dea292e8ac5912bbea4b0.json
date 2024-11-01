@@ -1,6 +1,18 @@
 {
   "name": "AmbientSounds_FABRIC_v6.0.5_mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fM515JnW",
+      "versionId": "TWIsleX6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254284,
+      "fileId": 5648095
+    }
+  ],
   "fabric": [
     {
       "modId": "ambientsounds",

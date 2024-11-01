@@ -1,6 +1,18 @@
 {
   "name": "MasaGadget-mc1.21-fabric-4.0.364-stable.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SFO4Ca80",
+      "versionId": "ukG49jYV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525510,
+      "fileId": 5591901
+    }
+  ],
   "fabric": [
     {
       "modId": "masa_gadget_mod",

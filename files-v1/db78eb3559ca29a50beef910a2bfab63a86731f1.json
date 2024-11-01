@@ -1,6 +1,12 @@
 {
   "name": "kaleido-1.21-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pq72OKyR",
+      "versionId": "P3gojOFf"
+    }
+  ],
   "fabric": [
     {
       "modId": "kaleido",

@@ -1,6 +1,18 @@
 {
   "name": "additionallanterns-1.1.1a-fabric-mc1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jXNvTKds",
+      "versionId": "C3Wv2XCi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 501590,
+      "fileId": 5275403
+    }
+  ],
   "fabric": [
     {
       "modId": "additionallanterns",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NDrgrF35",
+      "versionId": "VzgOMMyW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1017476,
+      "fileId": 5337640
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedweather",
+      "version": "1.1-Alpha2"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

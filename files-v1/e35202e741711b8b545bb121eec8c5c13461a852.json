@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ns0BvMIG",
+      "versionId": "uiLHEjmb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896385,
+      "fileId": 5747588
+    }
+  ],
+  "forge": [
+    {
+      "modId": "new_slab_variants",
+      "version": "3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "new_slab_variants",
+      "version": "3.0.1"
+    }
+  ]
+}

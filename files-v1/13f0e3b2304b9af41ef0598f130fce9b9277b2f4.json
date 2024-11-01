@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JuksLGBQ",
+      "versionId": "ePtlPQRN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 619986,
+      "fileId": 5795825
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "optigui",
+      "version": "2.3.0-beta.6+1.20.5"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.12.0"
+    },
+    {
+      "modId": "org_ini4j_ini4j",
+      "version": "0.5.4"
+    }
+  ]
+}

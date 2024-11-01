@@ -1,0 +1,28 @@
+{
+  "name": "quickrightclick-1.21.3-1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e8mI328p",
+      "versionId": "XAEx5JEl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880596,
+      "fileId": 5847157
+    }
+  ],
+  "forge": [
+    {
+      "modId": "quickrightclick",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickrightclick",
+      "version": "1.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "kinetic_anti-cheat-12.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HpqdcQFH",
+      "versionId": "HMlbP4et"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 300550,
+      "fileId": 2834645
+    }
+  ],
   "forge": [
     {
       "modId": "kinetic anti-cheat",

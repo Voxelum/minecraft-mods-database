@@ -1,6 +1,18 @@
 {
   "name": "[怪物大乱斗] mobbattle-1.18.2-2.4.7-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LbrJcAlI",
+      "versionId": "gPRceqws"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268746,
+      "fileId": 4748498
+    }
+  ],
   "forge": [
     {
       "modId": "mobbattle",

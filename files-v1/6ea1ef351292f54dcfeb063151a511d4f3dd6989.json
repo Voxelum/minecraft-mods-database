@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OpqpD8K2",
+      "versionId": "GjJv8AUc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "analog",
+      "version": "1.2.2+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "polymer-autohost",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    },
+    {
+      "modId": "com_github_trilarion_java-vorbis-support",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

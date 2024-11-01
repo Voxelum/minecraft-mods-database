@@ -1,0 +1,66 @@
+{
+  "name": "dark-matter-4.1.1-1.20.1-build.90.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qcz8IJ9L",
+      "versionId": "Ur5nMH7Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 839908,
+      "fileId": 5589773
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dark-matter",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-crash-handler",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-data",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-enums",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-glitter",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-instrumentation",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-item-group",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-mirage",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-mixin",
+      "version": "4.1.1-1.20.1-build.90"
+    },
+    {
+      "modId": "dark-matter-recipe-book",
+      "version": "4.1.1-1.20.1-build.90"
+    }
+  ]
+}

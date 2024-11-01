@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K01OU20C",
+      "versionId": "YphZmEo8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318449,
+      "fileId": 5845907
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.2.0"
+    }
+  ]
+}

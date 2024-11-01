@@ -1,6 +1,18 @@
 {
   "name": "Ding-1.19.2-Forge-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UEtTD3gP",
+      "versionId": "7RWW79HL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 231275,
+      "fileId": 5477207
+    }
+  ],
   "forge": [
     {
       "modId": "ding",

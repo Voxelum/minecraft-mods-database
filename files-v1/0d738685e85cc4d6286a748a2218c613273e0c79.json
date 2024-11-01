@@ -1,6 +1,18 @@
 {
   "name": "caffeinated-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AL5TqUKj",
+      "versionId": "nRGs4Mww"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835826,
+      "fileId": 4430322
+    }
+  ],
   "fabric": [
     {
       "modId": "caffeinated",

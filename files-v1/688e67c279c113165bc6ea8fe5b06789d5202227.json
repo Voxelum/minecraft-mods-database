@@ -1,6 +1,18 @@
 {
   "name": "u_team_core-forge-1.20.1-5.1.4.312.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g2FGQs4R",
+      "versionId": "1sSEOyhe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 273744,
+      "fileId": 5523168
+    }
+  ],
   "forge": [
     {
       "modId": "uteamcore",

@@ -1,6 +1,18 @@
 {
   "name": "`FermiumBooter-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e00stJKZ",
+      "versionId": "uiqJdiV3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968474,
+      "fileId": 5346592
+    }
+  ],
   "forge": [
     {
       "modId": "fermiumbooter",

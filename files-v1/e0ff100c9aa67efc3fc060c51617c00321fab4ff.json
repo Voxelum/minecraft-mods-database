@@ -1,6 +1,18 @@
 {
   "name": "midnightlib-fabric-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "codAaoxh",
+      "versionId": "UEiXGqx9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 488090,
+      "fileId": 5674107
+    }
+  ],
   "fabric": [
     {
       "modId": "midnightlib",

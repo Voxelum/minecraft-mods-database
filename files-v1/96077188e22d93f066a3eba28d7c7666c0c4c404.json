@@ -1,6 +1,18 @@
 {
   "name": "iwcompatbridge-1.20.1-1.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SAUGybfH",
+      "versionId": "L1qV2hCB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633345,
+      "fileId": 4998010
+    }
+  ],
   "forge": [
     {
       "modId": "iwcompatbridge",

@@ -1,6 +1,18 @@
 {
   "name": "epicsamurai-0.0.16-1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lMWJDrbO",
+      "versionId": "3vpBGfvx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848381,
+      "fileId": 4664117
+    }
+  ],
   "forge": [
     {
       "modId": "epicsamurai",

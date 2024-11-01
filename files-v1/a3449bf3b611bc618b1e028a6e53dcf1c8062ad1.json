@@ -1,6 +1,18 @@
 {
   "name": "repurposed_structures-7.5.3+1.21-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "muf0XoRe",
+      "versionId": "SCBq1LMb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391366,
+      "fileId": 5467551
+    }
+  ],
   "fabric": [
     {
       "modId": "repurposed_structures",

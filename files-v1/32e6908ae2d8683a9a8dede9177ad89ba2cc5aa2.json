@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "early-loading-screen",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "early-loading-screen-12100",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "early-loading-screen-fancymenu3",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "early-loading-screen-fancymenu2",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "net_bytebuddy_byte-buddy-agent",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "net_minecraftforge_unsafe",
+      "version": "0.9.2"
+    }
+  ]
+}

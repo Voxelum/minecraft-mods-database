@@ -1,6 +1,12 @@
 {
   "name": "water-erosion-1.16.4-forge-1.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 358973,
+      "fileId": 3125001
+    }
+  ],
   "forge": [
     {
       "modId": "water-erosion",

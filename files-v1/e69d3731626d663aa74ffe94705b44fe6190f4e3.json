@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hReJ61of",
+      "versionId": "AnBT9pj1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482731,
+      "fileId": 5798387
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nyfsquiver",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.11-1.21"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

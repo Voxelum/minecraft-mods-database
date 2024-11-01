@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-compat-7.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yp1R2apI",
+      "versionId": "A7Ic8NJr"
+    }
+  ],
   "forge": [
     {
       "modId": "BuildCraft|Compat",

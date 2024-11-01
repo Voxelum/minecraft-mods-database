@@ -1,6 +1,18 @@
 {
   "name": "TofuCraftReload-1.18.2-1.1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "69rMY8bC",
+      "versionId": "FgGfLtTy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317469,
+      "fileId": 4522592
+    }
+  ],
   "forge": [
     {
       "modId": "tofucraft",

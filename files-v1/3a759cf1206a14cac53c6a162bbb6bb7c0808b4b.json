@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IuFgFiGE",
+      "versionId": "DV7y9ZUl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 644704,
+      "fileId": 5473702
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weaponleveling",
+      "version": "1.20.1-2.2.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

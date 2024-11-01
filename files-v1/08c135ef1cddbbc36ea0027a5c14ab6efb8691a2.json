@@ -1,6 +1,12 @@
 {
   "name": "soul-link-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g1mxazGF",
+      "versionId": "UuUDsbvf"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_soul_link",

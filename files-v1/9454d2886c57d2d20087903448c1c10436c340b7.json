@@ -1,6 +1,18 @@
 {
   "name": "spider.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EOWTXenH",
+      "versionId": "OH65BH56"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 911798,
+      "fileId": 4746337
+    }
+  ],
   "forge": [
     {
       "modId": "spiderman_mod",

@@ -1,6 +1,12 @@
 {
   "name": "serversync-4.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 231297,
+      "fileId": 3244454
+    }
+  ],
   "forge": [
     {
       "modId": "com.superzanti.serversync",

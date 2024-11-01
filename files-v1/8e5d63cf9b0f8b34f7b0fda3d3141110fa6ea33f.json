@@ -1,6 +1,18 @@
 {
   "name": "Kobolds-2.10.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ufaxN0Ay",
+      "versionId": "JNiS92cT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 484967,
+      "fileId": 5360588
+    }
+  ],
   "forge": [
     {
       "modId": "kobolds",

@@ -1,6 +1,18 @@
 {
   "name": "redstone_arsenal-1.18.2-6.1.1.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KfkTLdPl",
+      "versionId": "3voMqMOs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 70631,
+      "fileId": 4121285
+    }
+  ],
   "forge": [
     {
       "modId": "redstone_arsenal",

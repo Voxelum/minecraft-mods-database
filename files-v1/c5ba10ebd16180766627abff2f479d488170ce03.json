@@ -1,6 +1,18 @@
 {
   "name": "dumplings_delight-1.16.5-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BNehVAg7",
+      "versionId": "9EOcj8Ld"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 641226,
+      "fileId": 4361970
+    }
+  ],
   "forge": [
     {
       "modId": "dumplings_delight",

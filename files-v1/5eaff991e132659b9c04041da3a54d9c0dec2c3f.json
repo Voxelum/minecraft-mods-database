@@ -1,4 +1,16 @@
 {
   "name": "lmft-1.0.4+1.21-neoforge.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "67kVxsaO",
+      "versionId": "8bpAnmFd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656346,
+      "fileId": 5425796
+    }
+  ]
 }

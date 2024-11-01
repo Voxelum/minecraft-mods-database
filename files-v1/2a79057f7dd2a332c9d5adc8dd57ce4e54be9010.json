@@ -1,6 +1,18 @@
 {
   "name": "M'TEG-1.0.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mulzyv9p",
+      "versionId": "St2jrQ3h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 978748,
+      "fileId": 5342814
+    }
+  ],
   "forge": [
     {
       "modId": "mteg",

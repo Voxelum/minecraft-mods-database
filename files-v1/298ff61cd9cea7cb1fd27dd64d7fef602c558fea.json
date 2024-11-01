@@ -1,6 +1,18 @@
 {
   "name": "better-lush-caves-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sLN1LU6K",
+      "versionId": "5DDD6lR4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1119791,
+      "fileId": 5804099
+    }
+  ],
   "forge": [
     {
       "modId": "mr_better_lushcaves",

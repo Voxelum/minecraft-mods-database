@@ -1,6 +1,12 @@
 {
   "name": "no-f3-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPFUV2Ds",
+      "versionId": "8mw8OXUF"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_no_f3",

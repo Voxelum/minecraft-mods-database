@@ -1,6 +1,18 @@
 {
   "name": "warp-portals-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ub1JbeSt",
+      "versionId": "drnSaiMo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 987222,
+      "fileId": 5478142
+    }
+  ],
   "forge": [
     {
       "modId": "mr_warp_portals",

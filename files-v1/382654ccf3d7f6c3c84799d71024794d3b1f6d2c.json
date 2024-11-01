@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "valkyrienskies",
+      "version": "2.1.2-beta.2-SNAPSHOT+97bf648df1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.10+kotlin.1.9.10"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.3.103"
+    }
+  ]
+}

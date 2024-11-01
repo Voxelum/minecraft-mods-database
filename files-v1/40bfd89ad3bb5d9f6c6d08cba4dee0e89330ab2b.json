@@ -1,6 +1,18 @@
 {
   "name": "AchievementOptimizer-1.20.1-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SvXrP8rT",
+      "versionId": "EMVvP0gc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912788,
+      "fileId": 5363614
+    }
+  ],
   "forge": [
     {
       "modId": "achiopt",

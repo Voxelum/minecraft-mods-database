@@ -1,6 +1,18 @@
 {
   "name": "portfolio-1.20.1-1.3.5-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2k6aLirX",
+      "versionId": "xQBC5gem"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851131,
+      "fileId": 4986431
+    }
+  ],
   "forge": [
     {
       "modId": "portfolio",

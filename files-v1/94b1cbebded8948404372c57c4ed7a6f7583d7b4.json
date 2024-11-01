@@ -1,6 +1,18 @@
 {
   "name": "mvw-2.3.3b-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkqU7XM6",
+      "versionId": "AvOvsT0H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410999,
+      "fileId": 5474793
+    }
+  ],
   "forge": [
     {
       "modId": "mvw",

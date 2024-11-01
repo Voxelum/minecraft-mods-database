@@ -1,6 +1,18 @@
 {
   "name": "neo_startinv-1.0.0-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8jUIs1kd",
+      "versionId": "QcUGcj7p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 944149,
+      "fileId": 5499027
+    }
+  ],
   "fabric": [
     {
       "modId": "startinv",

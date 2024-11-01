@@ -1,6 +1,18 @@
 {
   "name": "Searchables-fabric-1.21-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fuuu3xnx",
+      "versionId": "8zrcFuRP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858542,
+      "fileId": 5603157
+    }
+  ],
   "fabric": [
     {
       "modId": "searchables",

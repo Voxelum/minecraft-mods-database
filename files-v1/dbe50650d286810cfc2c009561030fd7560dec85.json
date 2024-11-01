@@ -1,6 +1,18 @@
 {
   "name": "ExtremeSoundMuffler-3.48-fabric-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5IIKsxiL",
+      "versionId": "bIs3bB8E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566140,
+      "fileId": 5499049
+    }
+  ],
   "fabric": [
     {
       "modId": "extremesoundmuffler",

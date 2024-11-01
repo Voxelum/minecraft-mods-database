@@ -1,6 +1,18 @@
 {
   "name": "tctimod-0.0.6-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uvpKDJJr",
+      "versionId": "D945wu8P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975471,
+      "fileId": 5636271
+    }
+  ],
   "fabric": [
     {
       "modId": "tctimod",

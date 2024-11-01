@@ -1,6 +1,12 @@
 {
   "name": "Disenchanting-forge-1.18.2-2.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 358578,
+      "fileId": 4303901
+    }
+  ],
   "forge": [
     {
       "modId": "disenchanting",

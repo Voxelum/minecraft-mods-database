@@ -1,6 +1,18 @@
 {
   "name": "ReBalance-FABRIC-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uZQipe0a",
+      "versionId": "3tK7PkkM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 940586,
+      "fileId": 5731360
+    }
+  ],
   "fabric": [
     {
       "modId": "rebalance",

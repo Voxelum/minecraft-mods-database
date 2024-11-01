@@ -1,6 +1,12 @@
 {
   "name": "terravista-0.1.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CIvCvpge",
+      "versionId": "ElrXboJM"
+    }
+  ],
   "fabric": [
     {
       "modId": "terravista",

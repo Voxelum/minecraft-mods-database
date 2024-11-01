@@ -1,6 +1,18 @@
 {
   "name": "morejs-forge-1.19.2-0.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mo64mR1W",
+      "versionId": "OPrF3dPN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666198,
+      "fileId": 5080707
+    }
+  ],
   "forge": [
     {
       "modId": "morejs",

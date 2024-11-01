@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6PB3ZJCO",
+      "versionId": "U9IG1xzE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 954014,
+      "fileId": 5811203
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "item-despawn-timer",
+      "version": "0.2.2+mc1.21"
+    }
+  ]
+}

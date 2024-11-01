@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jCpoCBpn",
+      "versionId": "qUajV4uc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reframed",
+      "version": "1.6.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lKYr4L6w",
+      "versionId": "OZvUpRXK"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "craftgr",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftgr",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    }
+  ]
+}

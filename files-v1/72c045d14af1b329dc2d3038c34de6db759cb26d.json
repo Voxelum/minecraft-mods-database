@@ -1,6 +1,18 @@
 {
   "name": "rawironandgoldupdate.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C5IWq23c",
+      "versionId": "IuFxK6Y2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498892,
+      "fileId": 3539235
+    }
+  ],
   "forge": [
     {
       "modId": "iron_and_gold",

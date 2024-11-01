@@ -1,6 +1,18 @@
 {
   "name": "dweller_dweller-3.13.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3h8ny5bp",
+      "versionId": "QMulcpIu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 964586,
+      "fileId": 5605351
+    }
+  ],
   "forge": [
     {
       "modId": "dweller_dweller",

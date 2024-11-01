@@ -1,6 +1,18 @@
 {
   "name": "StrongerSnowballs-Forge-1.20.1-13.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8tSjJyMS",
+      "versionId": "wWQ13qWs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377548,
+      "fileId": 4714785
+    }
+  ],
   "forge": [
     {
       "modId": "strongersnowballs",

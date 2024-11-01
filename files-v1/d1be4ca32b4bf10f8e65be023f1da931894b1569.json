@@ -1,6 +1,18 @@
 {
   "name": "naturespirit-1.6.3-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WBvnqHfV",
+      "versionId": "UWEPt8sJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1044992,
+      "fileId": 5684263
+    }
+  ],
   "fabric": [
     {
       "modId": "natures_spirit",

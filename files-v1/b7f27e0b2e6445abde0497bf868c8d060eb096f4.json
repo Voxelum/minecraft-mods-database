@@ -1,6 +1,12 @@
 {
   "name": "ModernKeyBinding-Fabric-1.20-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 695433,
+      "fileId": 4913784
+    }
+  ],
   "fabric": [
     {
       "modId": "mkb",

@@ -1,6 +1,18 @@
 {
   "name": "ping-1.8.9-2.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lUPtmik6",
+      "versionId": "J5u33sCw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237804,
+      "fileId": 2357818
+    }
+  ],
   "forge": [
     {
       "modId": "ping",

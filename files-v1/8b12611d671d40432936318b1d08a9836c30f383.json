@@ -1,6 +1,18 @@
 {
   "name": "emi-1.1.12+1.21+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fRiHVvU7",
+      "versionId": "uZ7UbDHM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580555,
+      "fileId": 5619577
+    }
+  ],
   "fabric": [
     {
       "modId": "emi",

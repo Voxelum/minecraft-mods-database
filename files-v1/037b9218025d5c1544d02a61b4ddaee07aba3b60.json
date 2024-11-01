@@ -1,6 +1,18 @@
 {
   "name": "YungsApi-1.20.4-Fabric-4.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ua7DFN59",
+      "versionId": "a7qxhSOZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421649,
+      "fileId": 5330976
+    }
+  ],
   "fabric": [
     {
       "modId": "yungsapi",

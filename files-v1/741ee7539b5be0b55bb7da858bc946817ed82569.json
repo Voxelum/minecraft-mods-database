@@ -1,6 +1,12 @@
 {
   "name": "recipe-book-delight-0.3.1-1.20.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cqC8Bgcm",
+      "versionId": "6PJME5j7"
+    }
+  ],
   "fabric": [
     {
       "modId": "recipe-book-delight",

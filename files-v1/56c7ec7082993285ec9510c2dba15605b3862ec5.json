@@ -1,6 +1,18 @@
 {
   "name": "mss-1.1.2-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RJCLIx7k",
+      "versionId": "99AxpUyz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040210,
+      "fileId": 5552206
+    }
+  ],
   "fabric": [
     {
       "modId": "mss",

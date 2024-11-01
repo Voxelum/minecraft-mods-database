@@ -1,0 +1,34 @@
+{
+  "name": "SPwallet-1.21-2.1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KMOm6R86",
+      "versionId": "ro41n8r4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662188,
+      "fileId": 5448314
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spwallet",
+      "version": "1.21-2.1.5"
+    },
+    {
+      "modId": "libninepatch",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

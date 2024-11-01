@@ -1,0 +1,26 @@
+{
+  "name": "mru-0.4.4+1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNVQ2c0g",
+      "versionId": "T06gnMAz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 669659,
+      "fileId": 5482635
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mru",
+      "version": "0.4.4+1.20.4"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.4.2+1.20.4-fabric"
+    }
+  ]
+}

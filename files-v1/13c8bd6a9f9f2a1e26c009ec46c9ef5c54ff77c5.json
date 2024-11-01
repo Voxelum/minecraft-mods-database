@@ -1,6 +1,12 @@
 {
   "name": "leap-1.19.1-1.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 371402,
+      "fileId": 3905147
+    }
+  ],
   "forge": [
     {
       "modId": "leap",

@@ -1,6 +1,18 @@
 {
   "name": "cryingportals_1.18.2-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3RkVNglH",
+      "versionId": "2Q6gCwGW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547844,
+      "fileId": 3999874
+    }
+  ],
   "forge": [
     {
       "modId": "cryingportals",

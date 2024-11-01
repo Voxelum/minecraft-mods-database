@@ -1,6 +1,18 @@
 {
   "name": "architectury-1.32.63.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "5KJz05dn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 3801558
+    }
+  ],
   "forge": [
     {
       "modId": "architectury",

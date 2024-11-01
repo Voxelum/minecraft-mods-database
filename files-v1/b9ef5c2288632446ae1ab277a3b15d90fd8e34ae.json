@@ -1,6 +1,18 @@
 {
   "name": "notreepunching-forge-1.16.5-4.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2W2FL5UY",
+      "versionId": "z1YXXQD8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 289043,
+      "fileId": 3590179
+    }
+  ],
   "forge": [
     {
       "modId": "notreepunching",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1s5x833P",
+      "versionId": "2pSIrUMv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851046,
+      "fileId": 5584109
+    }
+  ],
+  "forge": [
+    {
+      "modId": "neruina",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "${version}"
+    }
+  ]
+}

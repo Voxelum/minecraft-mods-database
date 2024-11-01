@@ -1,6 +1,18 @@
 {
   "name": "bclib-2.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BgNRHReB",
+      "versionId": "kyFQ8QVW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495191,
+      "fileId": 4160242
+    }
+  ],
   "fabric": [
     {
       "modId": "bclib",

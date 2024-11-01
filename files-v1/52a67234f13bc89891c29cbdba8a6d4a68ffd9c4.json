@@ -1,6 +1,12 @@
 {
   "name": "DoNotTiltTheCameraInRelationToDamageDirection-1.0.1+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5BJERMm5",
+      "versionId": "DsB115GF"
+    }
+  ],
   "fabric": [
     {
       "modId": "notilt",

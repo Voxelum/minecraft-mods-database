@@ -1,6 +1,12 @@
 {
   "name": "vanillafix-1.0.0-forge-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5HUqEye3",
+      "versionId": "IuPjmdN1"
+    }
+  ],
   "forge": [
     {
       "modId": "vanillafix",

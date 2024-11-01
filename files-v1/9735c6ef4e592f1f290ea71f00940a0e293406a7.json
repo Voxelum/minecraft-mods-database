@@ -1,6 +1,12 @@
 {
   "name": "sublib-1.10.2-1.1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 251678,
+      "fileId": 2347785
+    }
+  ],
   "forge": [
     {
       "modId": "subcommonlib",

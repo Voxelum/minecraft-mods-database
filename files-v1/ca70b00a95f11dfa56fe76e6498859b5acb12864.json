@@ -1,6 +1,18 @@
 {
   "name": "ancient_manuscripts-1.1.6-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3XBLA2Jm",
+      "versionId": "xoofxzHA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 677117,
+      "fileId": 5382636
+    }
+  ],
   "forge": [
     {
       "modId": "ancient_manuscripts",

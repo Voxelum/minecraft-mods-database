@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ohNO6lps",
+      "versionId": "UGsNw3aI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 5577286
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hl5OLM95",
+      "versionId": "wGIX1c4S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711216,
+      "fileId": 5745866
+    }
+  ],
+  "forge": [
+    {
+      "modId": "geophilic",
+      "version": "3.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geophilic",
+      "version": "3.1.2"
+    }
+  ]
+}

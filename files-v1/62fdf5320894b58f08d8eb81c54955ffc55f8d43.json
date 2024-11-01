@@ -1,6 +1,18 @@
 {
   "name": "crossbowverhaul-1.20.1-1.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "omwCdz6o",
+      "versionId": "D4DweP1a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 555300,
+      "fileId": 4594616
+    }
+  ],
   "forge": [
     {
       "modId": "crossbowverhaul",

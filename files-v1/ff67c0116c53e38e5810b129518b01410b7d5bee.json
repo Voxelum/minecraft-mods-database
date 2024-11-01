@@ -1,6 +1,18 @@
 {
   "name": "sodium-extra-0.5.6mc1.20.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtjYWJkn",
+      "versionId": "6ethXWmk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447673,
+      "fileId": 5424284
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium-extra",

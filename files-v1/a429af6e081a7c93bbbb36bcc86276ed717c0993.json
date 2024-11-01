@@ -1,6 +1,12 @@
 {
   "name": "noexpensive NE-1.20.1-1.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2nz0kJ1N",
+      "versionId": "3qgbHvhi"
+    }
+  ],
   "fabric": [
     {
       "modId": "noexpensive",

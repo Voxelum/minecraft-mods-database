@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "xercapaint",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xercapaint",
+      "version": "fabric-1.20.4-1.0.0"
+    }
+  ]
+}

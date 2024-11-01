@@ -1,0 +1,26 @@
+{
+  "name": "improvedsigns-1.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tEcCNQe7",
+      "versionId": "ayHyNo9O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 384963,
+      "fileId": 5426438
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "improved-signs",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

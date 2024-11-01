@@ -1,6 +1,18 @@
 {
   "name": "cobweb-fabric-1.21-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQcfqGbl",
+      "versionId": "EfcSwuSz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968456,
+      "fileId": 5531714
+    }
+  ],
   "fabric": [
     {
       "modId": "cobweb",

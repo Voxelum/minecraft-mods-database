@@ -1,6 +1,18 @@
 {
   "name": "asmodeuscore-1.12.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QMiSyFG6",
+      "versionId": "StsdreAN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303101,
+      "fileId": 5407778
+    }
+  ],
   "forge": [
     {
       "modId": "asmodeuscore",

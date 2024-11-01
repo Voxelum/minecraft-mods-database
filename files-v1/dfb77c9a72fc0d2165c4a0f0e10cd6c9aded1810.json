@@ -1,6 +1,18 @@
 {
   "name": "【人鱼】mermod-fabric-2.41.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ORiydwz3",
+      "versionId": "VBr1cow4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463248,
+      "fileId": 4862515
+    }
+  ],
   "fabric": [
     {
       "modId": "mermod",

@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HhIJW8n1",
+      "versionId": "GJN8ZhKs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850410,
+      "fileId": 5538093
+    }
+  ],
+  "forge": [
+    {
+      "modId": "estrogen",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "estrogen",
+      "version": "4.1.1+1.19.2-fabric"
+    },
+    {
+      "modId": "jukeboxfix",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.988+1.19.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiktJyw1",
+      "versionId": "IAZ1dsP7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 5493230
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "everycomp",
+      "version": "1.19.2-2.5.24"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

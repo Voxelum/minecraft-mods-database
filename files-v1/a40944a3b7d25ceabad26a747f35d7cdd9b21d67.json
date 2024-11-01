@@ -1,6 +1,12 @@
 {
   "name": "monk-mod-1.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 291477,
+      "fileId": 2601488
+    }
+  ],
   "forge": [
     {
       "modId": "monk",

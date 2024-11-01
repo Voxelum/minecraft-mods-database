@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xVbeCJyB",
+      "versionId": "DURp3gsS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627994,
+      "fileId": 5291333
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpmsvcc",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpmsvcc",
+      "version": "1.2.1"
+    }
+  ]
+}

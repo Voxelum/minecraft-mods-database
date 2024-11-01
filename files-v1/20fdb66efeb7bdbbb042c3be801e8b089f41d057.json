@@ -1,6 +1,18 @@
 {
   "name": "BountifulFabric-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BpwWFOVM",
+      "versionId": "b745WfGi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521673,
+      "fileId": 3442444
+    }
+  ],
   "fabric": [
     {
       "modId": "bountiful",

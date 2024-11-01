@@ -1,6 +1,18 @@
 {
   "name": "Trowel-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o8YrbYfv",
+      "versionId": "zJGJI6Jn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868403,
+      "fileId": 4578600
+    }
+  ],
   "fabric": [
     {
       "modId": "trowel",

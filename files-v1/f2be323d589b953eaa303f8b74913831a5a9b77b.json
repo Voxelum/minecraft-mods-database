@@ -1,6 +1,18 @@
 {
   "name": "jmi-forge-1.20.1-0.14-48.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M1ZKbfkJ",
+      "versionId": "BBbIV2h1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525447,
+      "fileId": 5510356
+    }
+  ],
   "forge": [
     {
       "modId": "jmi",

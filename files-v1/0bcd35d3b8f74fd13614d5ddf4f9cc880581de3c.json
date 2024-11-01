@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kami",
+      "version": "1.16.5-mar"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.1.3+12a8474cfa"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.2.9+e5d3217f4e"
+    },
+    {
+      "modId": "satin",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.24.0-dev"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.4.30"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk8",
+      "version": "1.4.30"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-reflect",
+      "version": "1.4.30"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3cLfTqiM",
+      "versionId": "4mwdmKO5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 690767,
+      "fileId": 4111171
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "touhouorigins",
+      "version": "0.4.3-1.18.2"
+    },
+    {
+      "modId": "apugli",
+      "version": "1.6.2"
+    }
+  ]
+}

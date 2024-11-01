@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k8iIgzXE",
+      "versionId": "flRaTOMw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "caxton",
+      "version": "0.6.0-alpha.1+1.21-FABRIC"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

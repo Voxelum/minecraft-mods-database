@@ -1,6 +1,12 @@
 {
   "name": "lankerendagger-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uWkBQHaL",
+      "versionId": "D3RLbATj"
+    }
+  ],
   "fabric": [
     {
       "modId": "lankerendagger",

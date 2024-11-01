@@ -1,0 +1,28 @@
+{
+  "name": "zombiehorsespawn-1.20.1-5.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "owDBGfRd",
+      "versionId": "cSk3xHfo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345692,
+      "fileId": 5571531
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zombiehorsespawn",
+      "version": "5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombiehorsespawn",
+      "version": "5.1"
+    }
+  ]
+}

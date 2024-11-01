@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1096335,
+      "fileId": 5842524
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moonrise",
+      "version": "0.2.0-beta.1+718f6e1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.35+c47b9d4340"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+2127dc7240"
+    }
+  ]
+}

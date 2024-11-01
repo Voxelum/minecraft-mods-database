@@ -1,6 +1,12 @@
 {
   "name": "Chicken Chunk Patcher 1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 285063,
+      "fileId": 2518745
+    }
+  ],
   "forge": [
     {
       "modId": "cpg",

@@ -1,0 +1,26 @@
+{
+  "name": "StrawStatues-v8.0.3-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2fltysAl",
+      "versionId": "frXSmfj0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682564,
+      "fileId": 5207885
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "strawstatues",
+      "version": "8.0.3"
+    },
+    {
+      "modId": "puzzlesapi",
+      "version": "8.1.4"
+    }
+  ]
+}

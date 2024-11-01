@@ -1,6 +1,18 @@
 {
   "name": "usefulspyglass-forge-1.20.1-0.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XwvK7Tzg",
+      "versionId": "aT2BPuwJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 840027,
+      "fileId": 5245771
+    }
+  ],
   "forge": [
     {
       "modId": "usefulspyglass",

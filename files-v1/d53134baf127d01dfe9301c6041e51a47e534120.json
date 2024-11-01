@@ -1,6 +1,12 @@
 {
   "name": "dash-1.16.4-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 370782,
+      "fileId": 3100345
+    }
+  ],
   "forge": [
     {
       "modId": "dash",

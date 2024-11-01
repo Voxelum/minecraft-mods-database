@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EsAfCjCV",
+      "versionId": "DdBhbE4O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 248787,
+      "fileId": 5586594
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "appleskin",
+      "version": "3.0.5+mc1.20.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

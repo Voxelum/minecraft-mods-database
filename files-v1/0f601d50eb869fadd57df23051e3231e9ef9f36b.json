@@ -1,6 +1,18 @@
 {
   "name": "YouShallNotSpawn-forge-1.19.x-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EjXcpmEA",
+      "versionId": "wvKQ3fbP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628744,
+      "fileId": 5594650
+    }
+  ],
   "forge": [
     {
       "modId": "ysns",

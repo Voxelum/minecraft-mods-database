@@ -1,6 +1,12 @@
 {
   "name": "trimmed-forge-1.20.1-2.1.4-all.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 857036,
+      "fileId": 4845938
+    }
+  ],
   "forge": [
     {
       "modId": "trimmed",

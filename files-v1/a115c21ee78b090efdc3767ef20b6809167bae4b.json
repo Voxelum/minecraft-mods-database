@@ -1,6 +1,18 @@
 {
   "name": "fullscreeNO-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "63dF5mMb",
+      "versionId": "czDlvYdk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373802,
+      "fileId": 2922767
+    }
+  ],
   "fabric": [
     {
       "modId": "fullscreeno",

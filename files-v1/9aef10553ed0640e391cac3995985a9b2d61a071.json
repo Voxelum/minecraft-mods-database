@@ -1,6 +1,18 @@
 {
   "name": "InGameAccountSwitcher-Fabric-1.16.5-7.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cudtvDnd",
+      "versionId": "40jfr6Li"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232676,
+      "fileId": 3493810
+    }
+  ],
   "fabric": [
     {
       "modId": "ias",

@@ -1,6 +1,18 @@
 {
   "name": "create_optical-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kcZ7kwxx",
+      "versionId": "DyEBN0l6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007714,
+      "fileId": 5456246
+    }
+  ],
   "forge": [
     {
       "modId": "create_optical",

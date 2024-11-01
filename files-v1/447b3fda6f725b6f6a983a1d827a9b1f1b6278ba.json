@@ -1,6 +1,12 @@
 {
   "name": "firstperson-fabric-2.1.0-mc1.18-pre1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 333287,
+      "fileId": 3523461
+    }
+  ],
   "fabric": [
     {
       "modId": "firstperson",

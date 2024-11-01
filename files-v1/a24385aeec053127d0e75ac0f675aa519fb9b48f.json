@@ -1,6 +1,18 @@
 {
   "name": "memoryusagetitle-forge-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YvaL4yx6",
+      "versionId": "Sj1Yunua"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973764,
+      "fileId": 5101497
+    }
+  ],
   "forge": [
     {
       "modId": "memoryusagetitle",

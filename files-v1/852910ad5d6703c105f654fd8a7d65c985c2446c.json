@@ -1,0 +1,78 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "opal",
+      "version": "0.1"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20240303"
+    },
+    {
+      "modId": "com_konghq_unirest-java-core",
+      "version": "4.4.0"
+    },
+    {
+      "modId": "com_github_jncrmx_discord-game-sdk4j",
+      "version": "70b1e9dda6"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-windows-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl_natives-windows-x86",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg_natives-windows-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-nanovg_natives-windows-x86",
+      "version": "3.3.3"
+    }
+  ]
+}

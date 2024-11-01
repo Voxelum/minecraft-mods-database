@@ -1,6 +1,18 @@
 {
   "name": "shrek-fabric-1.20.1-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "urgxAMDF",
+      "versionId": "ogkTGFxa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 998467,
+      "fileId": 5251622
+    }
+  ],
   "fabric": [
     {
       "modId": "shrek",

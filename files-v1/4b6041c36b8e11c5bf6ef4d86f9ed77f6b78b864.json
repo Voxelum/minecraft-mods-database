@@ -1,6 +1,12 @@
 {
   "name": "healingflasks-1.3.1-forge-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 771300,
+      "fileId": 5482857
+    }
+  ],
   "forge": [
     {
       "modId": "healingflasks",

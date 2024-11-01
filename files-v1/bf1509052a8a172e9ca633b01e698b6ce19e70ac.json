@@ -1,6 +1,18 @@
 {
   "name": "TreeBark-1.19.2-v3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EyYeXJN7",
+      "versionId": "mGD7ehr6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 451546,
+      "fileId": 5045991
+    }
+  ],
   "forge": [
     {
       "modId": "treebark",

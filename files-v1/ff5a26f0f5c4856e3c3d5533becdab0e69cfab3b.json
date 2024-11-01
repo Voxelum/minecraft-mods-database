@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "laNoi025",
+      "versionId": "I2nfsZOD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693961,
+      "fileId": 5324545
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenshot_viewer",
+      "version": "1.3.1-fabric-mc1.20.4"
+    },
+    {
+      "modId": "catconfig-mc",
+      "version": "0.2.1"
+    }
+  ]
+}

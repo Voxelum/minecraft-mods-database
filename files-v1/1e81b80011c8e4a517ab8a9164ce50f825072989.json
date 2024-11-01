@@ -1,0 +1,20 @@
+{
+  "name": "plasmovoice-fabric-1.21.2-2.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "IRONrOb2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.2-SNAPSHOT"
+    }
+  ]
+}

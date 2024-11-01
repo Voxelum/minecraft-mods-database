@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nyQkcxCt",
+      "versionId": "n4AV26ir"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tntentitylimiter",
+      "version": "1.21-0.3"
+    },
+    {
+      "modId": "com_github_carleslc_simple-yaml_simple-yaml",
+      "version": "1.8.4"
+    }
+  ]
+}

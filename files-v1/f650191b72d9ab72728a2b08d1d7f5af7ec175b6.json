@@ -1,4 +1,16 @@
 {
   "name": "theurgy-1.21.1-neoforge-1.56.0.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uOVMgoil",
+      "versionId": "3zSL9pEh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430636,
+      "fileId": 5713179
+    }
+  ]
 }

@@ -1,6 +1,12 @@
 {
   "name": "KubeJS-forge-1.12.2-1.1.0.65.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 3052392
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs",

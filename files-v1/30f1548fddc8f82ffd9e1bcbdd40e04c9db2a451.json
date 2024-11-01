@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "villagernames",
+      "version": "8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "8.1"
+    }
+  ]
+}

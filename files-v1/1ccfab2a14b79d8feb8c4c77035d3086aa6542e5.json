@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 233564,
+      "fileId": 5319153
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "techreborn",
+      "version": "5.10.4"
+    },
+    {
+      "modId": "reborncore",
+      "version": "5.10.4"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

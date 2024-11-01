@@ -1,6 +1,12 @@
 {
   "name": "threadtweak-fabric-0.1.5+mc1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vSEH1ERy",
+      "versionId": "F4sjmsi3"
+    }
+  ],
   "fabric": [
     {
       "modId": "threadtweak",

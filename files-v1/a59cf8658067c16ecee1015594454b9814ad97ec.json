@@ -1,6 +1,12 @@
 {
   "name": "jamlib-0.6.0+1.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 623764,
+      "fileId": 4571744
+    }
+  ],
   "fabric": [
     {
       "modId": "jamlib",

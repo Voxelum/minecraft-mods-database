@@ -1,4 +1,16 @@
 {
   "name": "spark-1.10.109-neoforge.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "jg1XqG66"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 5759671
+    }
+  ]
 }

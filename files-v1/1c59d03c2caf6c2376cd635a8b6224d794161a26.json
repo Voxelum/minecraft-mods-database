@@ -1,6 +1,18 @@
 {
   "name": "snow-pig-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HaIJSYr6",
+      "versionId": "vaVRxj8V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 469594,
+      "fileId": 5396518
+    }
+  ],
   "fabric": [
     {
       "modId": "snowpig",

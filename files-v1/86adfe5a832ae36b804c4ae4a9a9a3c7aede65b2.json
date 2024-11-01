@@ -1,6 +1,18 @@
 {
   "name": "CleanF3-0.4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5lvjfaRs",
+      "versionId": "70q59npw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882993,
+      "fileId": 5509261
+    }
+  ],
   "fabric": [
     {
       "modId": "clean-debug",

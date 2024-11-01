@@ -1,6 +1,18 @@
 {
   "name": "no dimensions.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UqdL217I",
+      "versionId": "K8tjakBu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917449,
+      "fileId": 5481717
+    }
+  ],
   "forge": [
     {
       "modId": "no_portals",

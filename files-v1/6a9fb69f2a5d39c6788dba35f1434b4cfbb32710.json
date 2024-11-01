@@ -1,6 +1,18 @@
 {
   "name": "thestarvedstalker.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pavIrPnx",
+      "versionId": "ejFjLPzz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 934103,
+      "fileId": 5401544
+    }
+  ],
   "forge": [
     {
       "modId": "thestarvedstalker",

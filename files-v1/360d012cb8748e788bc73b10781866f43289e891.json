@@ -1,0 +1,40 @@
+{
+  "name": "UnionLib-1.21.1-12.0.7-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EkkPwdCY",
+      "versionId": "6HsxIYUs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367806,
+      "fileId": 5707259
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unionlib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unionlib",
+      "version": "12.0.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.4"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.4"
+    }
+  ]
+}

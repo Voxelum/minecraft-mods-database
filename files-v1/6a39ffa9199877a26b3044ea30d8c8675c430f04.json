@@ -1,0 +1,24 @@
+{
+  "name": "paladins-1.2.4+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 856548,
+      "fileId": 5480630
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paladins",
+      "version": "1.2.4+1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "structure_pool_api",
+      "version": "1.0+1.20.1"
+    }
+  ]
+}

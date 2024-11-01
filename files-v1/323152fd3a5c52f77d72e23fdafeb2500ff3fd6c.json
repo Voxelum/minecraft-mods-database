@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smoothswapping",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothswapping",
+      "version": "0.9.3.1"
+    }
+  ]
+}

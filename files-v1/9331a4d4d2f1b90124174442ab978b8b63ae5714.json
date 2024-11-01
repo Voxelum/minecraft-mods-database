@@ -1,6 +1,18 @@
 {
   "name": "immortuoscalyx-forge-1.19.2-1.7.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SJ8XpDcm",
+      "versionId": "CWDcod7M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411857,
+      "fileId": 4344876
+    }
+  ],
   "forge": [
     {
       "modId": "immortuoscalyx",

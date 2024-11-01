@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "miskatonicmysteries",
+      "version": "0.1.10-SNAPSHOT"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "satin",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.6.1"
+    }
+  ]
+}

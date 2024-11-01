@@ -1,6 +1,18 @@
 {
   "name": "no-shield-delay-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pOf4Y6Oo",
+      "versionId": "4aZqjqfg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 641059,
+      "fileId": 3863517
+    }
+  ],
   "fabric": [
     {
       "modId": "no-shield-delay",

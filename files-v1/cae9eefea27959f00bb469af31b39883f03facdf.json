@@ -1,6 +1,18 @@
 {
   "name": "woodenshears-1.16.5-1.1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J3VVx8dO",
+      "versionId": "sk6hPwYx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443192,
+      "fileId": 3411991
+    }
+  ],
   "forge": [
     {
       "modId": "woodenshears",

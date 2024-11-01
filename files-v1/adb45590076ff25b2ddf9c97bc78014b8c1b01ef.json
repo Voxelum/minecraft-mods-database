@@ -1,6 +1,18 @@
 {
   "name": "allthetrims-3.2.0-forge+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnsUKrap",
+      "versionId": "nou1x2Lg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876154,
+      "fileId": 4701322
+    }
+  ],
   "forge": [
     {
       "modId": "allthetrims",

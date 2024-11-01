@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 352835,
+      "fileId": 5813545
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backpacked",
+      "version": "3.0.0-beta.9"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

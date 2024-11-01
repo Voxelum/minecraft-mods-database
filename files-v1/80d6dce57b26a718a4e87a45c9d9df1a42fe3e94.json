@@ -1,6 +1,18 @@
 {
   "name": "elytratrims-fabric-3.2.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "g2AqadoV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 5430933
+    }
+  ],
   "forge": [
     {
       "modId": "elytratrims",

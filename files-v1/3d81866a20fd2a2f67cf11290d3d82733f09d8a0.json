@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 439870,
+      "fileId": 5689804
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpm",
+      "version": "0.6.19a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpm",
+      "version": "-"
+    }
+  ]
+}

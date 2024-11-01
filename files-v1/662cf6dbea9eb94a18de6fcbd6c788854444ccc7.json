@@ -1,6 +1,18 @@
 {
   "name": "caveoverhaul-fabric-1.19.2-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bZRPxKjL",
+      "versionId": "NwRK24hs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 946171,
+      "fileId": 5077018
+    }
+  ],
   "fabric": [
     {
       "modId": "caveoverhaul",

@@ -1,6 +1,18 @@
 {
   "name": "amazingtrading-1.20.1-0.1.9-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PPRbie2R",
+      "versionId": "LLPDdXRs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1015326,
+      "fileId": 5326140
+    }
+  ],
   "forge": [
     {
       "modId": "amazingtrading",

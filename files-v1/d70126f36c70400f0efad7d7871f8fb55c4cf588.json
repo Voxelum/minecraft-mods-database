@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlKdE5VK",
+      "versionId": "OpbhEAlg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabric",
+      "version": "0.4.16+86-legacy"
+    },
+    {
+      "modId": "viaversion",
+      "version": "5.1.1-SNAPSHOT"
+    },
+    {
+      "modId": "viabackwards",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "viarewind",
+      "version": "4.0.3-SNAPSHOT"
+    },
+    {
+      "modId": "viafabric-mc1122",
+      "version": "0.4.16+86-legacy"
+    },
+    {
+      "modId": "viafabric-mc189",
+      "version": "0.4.16+86-legacy"
+    }
+  ]
+}

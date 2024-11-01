@@ -1,0 +1,56 @@
+{
+  "name": "skyblocker-1.23.0-beta.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y6DuFGwJ",
+      "versionId": "TvlcpAPE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyblocker",
+      "version": "1.23.0-beta.1+1.21.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    },
+    {
+      "modId": "hm-api",
+      "version": "1.0.1+1.21.1"
+    },
+    {
+      "modId": "meteordevelopment_discord-ipc",
+      "version": "1.1"
+    },
+    {
+      "modId": "com_logisticscraft_occlusionculling",
+      "version": "0.0.8-SNAPSHOT"
+    },
+    {
+      "modId": "moe_nea_neurepoparser",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "net_azureaaron_networth-calculator",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "net_azureaaron_legacy-item-dfu",
+      "version": "1.0.1+1.21.1"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.10.0.202406032230-r"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.12.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "cant_breathe-1.19.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gyYFlOg3",
+      "versionId": "F2OafA5U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1025718,
+      "fileId": 5377826
+    }
+  ],
   "forge": [
     {
       "modId": "cant_breathe",

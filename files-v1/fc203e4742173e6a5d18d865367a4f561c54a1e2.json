@@ -1,6 +1,12 @@
 {
   "name": "bop_create_mod_rose_quartz-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mksTBGrj",
+      "versionId": "FXqUvmIX"
+    }
+  ],
   "forge": [
     {
       "modId": "bop_create_mod_rose_quartz",

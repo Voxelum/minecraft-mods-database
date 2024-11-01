@@ -1,6 +1,18 @@
 {
   "name": "desolation-1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oML3dQBb",
+      "versionId": "HqakjlKA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414851,
+      "fileId": 4975283
+    }
+  ],
   "fabric": [
     {
       "modId": "desolation",

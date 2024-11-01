@@ -1,0 +1,34 @@
+{
+  "name": "forcemaster-class-mod-1.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K3yHebFL",
+      "versionId": "B6q87kzD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 992388,
+      "fileId": 5800954
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forcemaster_rpg",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    }
+  ]
+}

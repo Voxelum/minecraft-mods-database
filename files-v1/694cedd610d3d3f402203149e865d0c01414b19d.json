@@ -1,6 +1,18 @@
 {
   "name": "Armor-of-the-Ages-forge-1.20.1-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEgtiJIY",
+      "versionId": "C7ApDiVi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975288,
+      "fileId": 5483524
+    }
+  ],
   "forge": [
     {
       "modId": "armoroftheages",

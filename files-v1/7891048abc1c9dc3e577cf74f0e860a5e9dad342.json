@@ -1,6 +1,18 @@
 {
   "name": "chalk-colorful-addon-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VPJS28NH",
+      "versionId": "gvVFiwqG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 638881,
+      "fileId": 4159802
+    }
+  ],
   "fabric": [
     {
       "modId": "chalk-colorful-addon",

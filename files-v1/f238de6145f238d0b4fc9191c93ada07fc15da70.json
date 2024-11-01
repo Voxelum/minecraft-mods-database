@@ -1,6 +1,12 @@
 {
   "name": "DragonballMod - Forge 1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 514752,
+      "fileId": 3426691
+    }
+  ],
   "forge": [
     {
       "modId": "dragonball",

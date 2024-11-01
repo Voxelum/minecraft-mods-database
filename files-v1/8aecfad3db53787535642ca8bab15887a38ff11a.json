@@ -1,6 +1,12 @@
 {
   "name": "LagFix-2.0.1-mc1.7.10-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 235864,
+      "fileId": 2256180
+    }
+  ],
   "forge": [
     {
       "modId": "LagFix",

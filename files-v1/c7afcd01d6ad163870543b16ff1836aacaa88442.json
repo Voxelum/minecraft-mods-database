@@ -1,6 +1,12 @@
 {
   "name": "ShoulderSurfing-Fabric-1.20.1-2.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kepjj2sy",
+      "versionId": "RI8OQmcc"
+    }
+  ],
   "forge": [
     {
       "modId": "shouldersurfing",

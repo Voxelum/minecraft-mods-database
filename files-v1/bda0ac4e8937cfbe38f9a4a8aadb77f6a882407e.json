@@ -1,6 +1,18 @@
 {
   "name": "betterstats-3.12.6+fabric-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n6PXGAoM",
+      "versionId": "Ktw36uDC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667464,
+      "fileId": 5607266
+    }
+  ],
   "fabric": [
     {
       "modId": "betterstats",

@@ -1,6 +1,12 @@
 {
   "name": "global_packs-fabric-1.19.2-1.14.5_fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRLPy2mk",
+      "versionId": "Q67gzc2j"
+    }
+  ],
   "fabric": [
     {
       "modId": "globaldataandresourcepacks",

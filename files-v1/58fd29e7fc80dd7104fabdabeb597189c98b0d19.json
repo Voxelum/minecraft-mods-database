@@ -1,6 +1,18 @@
 {
   "name": "trashslot-fabric-1.21-21.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vRYk0bv7",
+      "versionId": "jtMAQdPY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547689,
+      "fileId": 5440945
+    }
+  ],
   "fabric": [
     {
       "modId": "trashslot",

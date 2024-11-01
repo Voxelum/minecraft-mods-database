@@ -1,6 +1,18 @@
 {
   "name": "reefredux-1.20.1-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cXc3rmTO",
+      "versionId": "QeyzDYF7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 926538,
+      "fileId": 4812787
+    }
+  ],
   "forge": [
     {
       "modId": "reefredux",

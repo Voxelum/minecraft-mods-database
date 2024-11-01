@@ -1,6 +1,18 @@
 {
   "name": "BNBloodParticlesMod 1.16.5 v0.9.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C3WmGbRg",
+      "versionId": "2rWbCW2P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 897335,
+      "fileId": 4726553
+    }
+  ],
   "forge": [
     {
       "modId": "bn_blood_particles_mod",

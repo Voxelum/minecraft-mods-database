@@ -1,6 +1,18 @@
 {
   "name": "thermoo-2.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9TbXlAut",
+      "versionId": "KZmBDwIl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 846544,
+      "fileId": 5448512
+    }
+  ],
   "fabric": [
     {
       "modId": "thermoo",

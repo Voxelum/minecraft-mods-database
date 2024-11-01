@@ -1,6 +1,18 @@
 {
   "name": "AsmodeusCore-1.12.2-0.0.31.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QMiSyFG6",
+      "versionId": "3yesOQuu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303101,
+      "fileId": 3873588
+    }
+  ],
   "forge": [
     {
       "modId": "asmodeuscore",

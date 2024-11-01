@@ -1,0 +1,28 @@
+{
+  "name": "setworldspawnpoint-1.21.3-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EL8fq1gi",
+      "versionId": "5T1E63Ew"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366916,
+      "fileId": 5847114
+    }
+  ],
+  "forge": [
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhl28YkY",
+      "versionId": "czJc7eUX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438718,
+      "fileId": 5611901
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "alloy_forgery",
+      "version": "2.4.1+1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.11+1.21"
+    }
+  ]
+}

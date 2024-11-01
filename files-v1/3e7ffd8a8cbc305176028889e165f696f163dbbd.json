@@ -1,6 +1,12 @@
 {
   "name": "EpheroLib-1.20.1-FABRIC-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DIIgdJzf",
+      "versionId": "ZmhVIn61"
+    }
+  ],
   "fabric": [
     {
       "modId": "epherolib",

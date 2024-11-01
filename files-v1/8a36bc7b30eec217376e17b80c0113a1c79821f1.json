@@ -1,6 +1,18 @@
 {
   "name": "[1.12.2]pvzmod-0.7.10.jar.deactivation",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ze0Q4iFR",
+      "versionId": "tDGJTmZJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411396,
+      "fileId": 3138257
+    }
+  ],
   "forge": [
     {
       "modId": "pvz",

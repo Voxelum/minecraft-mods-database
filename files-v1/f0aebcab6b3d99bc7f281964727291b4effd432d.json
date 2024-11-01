@@ -1,0 +1,26 @@
+{
+  "name": "stevesrealisticsleep-fabric-1.11.0+mc1.20-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZPywkPEo",
+      "versionId": "uzegHDrD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 616330,
+      "fileId": 5703683
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stevesrealisticsleep",
+      "version": "1.11.0+mc1.20-1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

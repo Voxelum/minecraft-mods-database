@@ -1,6 +1,12 @@
 {
   "name": "RailOptimization-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QSvN5pBU",
+      "versionId": "cdk5ix7D"
+    }
+  ],
   "fabric": [
     {
       "modId": "railoptimization",

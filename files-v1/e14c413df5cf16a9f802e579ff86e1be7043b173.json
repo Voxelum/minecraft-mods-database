@@ -1,6 +1,18 @@
 {
   "name": "enderutilities-1.7.10-0.5.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ALKGFBqb",
+      "versionId": "GHkZ8tUg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 224320,
+      "fileId": 2297555
+    }
+  ],
   "forge": [
     {
       "modId": "enderutilities",

@@ -1,0 +1,28 @@
+{
+  "name": "u_framework-1.0.2+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YNXsr9uf",
+      "versionId": "dYhH7xxH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1109805,
+      "fileId": 5774379
+    }
+  ],
+  "forge": [
+    {
+      "modId": "u_framework",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "u_framework",
+      "version": "1.0.2"
+    }
+  ]
+}

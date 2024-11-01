@@ -1,6 +1,18 @@
 {
   "name": "fireproofboats-1.20.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "njBFO9fI",
+      "versionId": "edXNrCZD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 830962,
+      "fileId": 4962737
+    }
+  ],
   "forge": [
     {
       "modId": "fireproofboats",

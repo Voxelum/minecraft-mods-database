@@ -1,0 +1,22 @@
+{
+  "name": "enchlevel-langpatch-2.2.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 529854,
+      "fileId": 5642864
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchlevellangpatch",
+      "version": "2.2.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchlevel-langpatch",
+      "version": "2.2.7"
+    }
+  ]
+}

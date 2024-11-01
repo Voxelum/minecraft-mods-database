@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bobby",
+      "version": "5.2.5+mc1.21.1"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.28+6ced4dd96a"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c6a"
+    }
+  ]
+}

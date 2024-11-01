@@ -1,6 +1,18 @@
 {
   "name": "DarkModeEverywhere-1.20.1-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bJF8eNMy",
+      "versionId": "fJBoR9FK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 696205,
+      "fileId": 4716033
+    }
+  ],
   "forge": [
     {
       "modId": "darkmodeeverywhere",

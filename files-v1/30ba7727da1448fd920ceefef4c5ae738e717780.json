@@ -1,6 +1,18 @@
 {
   "name": "Philips-Ruins1.19.2-8.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KdJhOYVV",
+      "versionId": "56OjbTXn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 569737,
+      "fileId": 5187475
+    }
+  ],
   "forge": [
     {
       "modId": "philipsruins",

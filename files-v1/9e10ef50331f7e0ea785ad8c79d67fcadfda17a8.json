@@ -1,6 +1,12 @@
 {
   "name": "gottagofast-1.1.0+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ioquzjs2",
+      "versionId": "qg3qL7M0"
+    }
+  ],
   "fabric": [
     {
       "modId": "gottagofast",

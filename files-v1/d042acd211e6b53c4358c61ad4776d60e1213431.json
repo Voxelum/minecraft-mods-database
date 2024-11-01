@@ -1,6 +1,18 @@
 {
   "name": "miningmaster-1.20.1-4.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xu8V0UlK",
+      "versionId": "nS5d6tAJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 534956,
+      "fileId": 5540513
+    }
+  ],
   "forge": [
     {
       "modId": "miningmaster",

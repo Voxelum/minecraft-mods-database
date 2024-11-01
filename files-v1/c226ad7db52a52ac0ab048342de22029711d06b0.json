@@ -1,6 +1,18 @@
 {
   "name": "edgelesschatscreen-1.1.2-fabric1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lS8sHS85",
+      "versionId": "A4nSGhM5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 998249,
+      "fileId": 5243042
+    }
+  ],
   "fabric": [
     {
       "modId": "edgelesschatscreen",

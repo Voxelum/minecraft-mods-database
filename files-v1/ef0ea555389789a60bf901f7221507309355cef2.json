@@ -1,6 +1,12 @@
 {
   "name": "labels-1.20-1.20.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x6r7yhfi",
+      "versionId": "LjVhvfJG"
+    }
+  ],
   "fabric": [
     {
       "modId": "labels",

@@ -1,6 +1,18 @@
 {
   "name": "fruitsdelight-0.5.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g6sbyCTu",
+      "versionId": "tPNC0UTT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943774,
+      "fileId": 5274305
+    }
+  ],
   "forge": [
     {
       "modId": "fruitsdelight",

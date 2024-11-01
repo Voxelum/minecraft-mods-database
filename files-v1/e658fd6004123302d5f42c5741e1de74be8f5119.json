@@ -1,0 +1,20 @@
+{
+  "name": "MoreGems-Fabric-1.17.1-1.2.40.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 377284,
+      "fileId": 3493499
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_gems",
+      "version": "1.2.40"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "${version}"
+    }
+  ]
+}

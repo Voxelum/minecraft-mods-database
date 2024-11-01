@@ -1,6 +1,18 @@
 {
   "name": "Bountiful-6.0.2+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BpwWFOVM",
+      "versionId": "hYrrBKBT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 309516,
+      "fileId": 4626881
+    }
+  ],
   "forge": [
     {
       "modId": "bountiful",

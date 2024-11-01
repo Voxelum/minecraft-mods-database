@@ -1,6 +1,18 @@
 {
   "name": "expores-1.0.0+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a8H99agr",
+      "versionId": "eYO04MhB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1058528,
+      "fileId": 5507994
+    }
+  ],
   "fabric": [
     {
       "modId": "expores",

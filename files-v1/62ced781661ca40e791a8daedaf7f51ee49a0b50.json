@@ -1,6 +1,18 @@
 {
   "name": "DisableChristmasChests-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bhuHzAIs",
+      "versionId": "9EbbIyEq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945775,
+      "fileId": 4928772
+    }
+  ],
   "fabric": [
     {
       "modId": "disablechristmaschests",

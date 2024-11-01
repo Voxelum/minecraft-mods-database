@@ -1,6 +1,12 @@
 {
   "name": "dynamite-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w3Yjic6j",
+      "versionId": "HzXHiavd"
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamite",

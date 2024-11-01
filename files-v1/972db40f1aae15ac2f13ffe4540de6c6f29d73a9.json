@@ -1,6 +1,12 @@
 {
   "name": "fabric-tab-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9J38edBm",
+      "versionId": "XpUd6Y6N"
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-tab",

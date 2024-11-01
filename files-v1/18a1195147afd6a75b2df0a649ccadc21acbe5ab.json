@@ -1,6 +1,12 @@
 {
   "name": "farmers-cutting-quark-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1076015,
+      "fileId": 5588763
+    }
+  ],
   "forge": [
     {
       "modId": "fcquark",

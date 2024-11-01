@@ -1,6 +1,18 @@
 {
   "name": "pumpkillagersquest-1.19.2-3.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KhJx1K92",
+      "versionId": "9xPl35A9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689943,
+      "fileId": 5309650
+    }
+  ],
   "forge": [
     {
       "modId": "pumpkillagersquest",

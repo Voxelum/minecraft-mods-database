@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iQBrasyH",
+      "versionId": "hFJ7jTxW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447359,
+      "fileId": 5839784
+    }
+  ],
+  "forge": [
+    {
+      "modId": "passiveshield",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "passiveshield",
+      "version": "3.6"
+    }
+  ]
+}

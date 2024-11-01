@@ -1,6 +1,18 @@
 {
   "name": "terraincognita-1.16.3-1.7.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "linAXqQP",
+      "versionId": "F3hiORBI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 435386,
+      "fileId": 3832189
+    }
+  ],
   "forge": [
     {
       "modId": "terraincognita",

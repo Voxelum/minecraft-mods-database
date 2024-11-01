@@ -1,0 +1,16 @@
+{
+  "name": "NPCIntegration-3.0.35.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 241475,
+      "fileId": 3155726
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bq_npc_integration",
+      "version": "@VERSION@"
+    }
+  ]
+}

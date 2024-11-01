@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QM2wt9X3",
+      "versionId": "8egFcGvg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348756,
+      "fileId": 5609547
+    }
+  ],
+  "forge": [
+    {
+      "modId": "paperbooks",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paperbooks",
+      "version": "3.5"
+    }
+  ]
+}

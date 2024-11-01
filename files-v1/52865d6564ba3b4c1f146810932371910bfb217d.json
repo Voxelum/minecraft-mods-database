@@ -1,6 +1,18 @@
 {
   "name": "dashloader-def-3.1.1+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZfQ3kTvR",
+      "versionId": "OTK7ITDv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 472772,
+      "fileId": 3720646
+    }
+  ],
   "fabric": [
     {
       "modId": "dashloader",

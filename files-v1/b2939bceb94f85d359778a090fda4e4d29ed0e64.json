@@ -1,6 +1,18 @@
 {
   "name": "collective-1.16.5-5.45.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "oqnNxKQu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 4194381
+    }
+  ],
   "forge": [
     {
       "modId": "collective",

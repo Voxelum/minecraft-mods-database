@@ -1,6 +1,18 @@
 {
   "name": "modernfix-forge-5.18.6+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "QroNBg6X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 5512356
+    }
+  ],
   "forge": [
     {
       "modId": "modernfix",

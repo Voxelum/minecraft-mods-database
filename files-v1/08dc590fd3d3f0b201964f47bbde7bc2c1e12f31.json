@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteor-client",
+      "version": "0.5.8-2192"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.0+565991296a"
+    }
+  ]
+}

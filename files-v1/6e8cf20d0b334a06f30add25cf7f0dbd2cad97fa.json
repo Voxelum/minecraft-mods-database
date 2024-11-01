@@ -1,6 +1,18 @@
 {
   "name": "ScalableLux-0.1.0+fabric.26c6e72-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ps1zyz6x",
+      "versionId": "Oh80nTJ5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1055925,
+      "fileId": 5658753
+    }
+  ],
   "fabric": [
     {
       "modId": "scalablelux",

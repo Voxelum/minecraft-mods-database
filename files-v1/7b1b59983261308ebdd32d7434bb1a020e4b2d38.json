@@ -1,0 +1,16 @@
+{
+  "name": "[美化-汉化动画vanilla-refresh-1.4.19h.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_vanilla_refresh",
+      "version": "1.4.19h"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vanilla_refresh",
+      "version": "1.4.19h"
+    }
+  ]
+}

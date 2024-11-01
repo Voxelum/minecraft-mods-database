@@ -1,6 +1,18 @@
 {
   "name": "SimpleBackups-1.18.2-1.1.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fzSKSXVK",
+      "versionId": "ukJcfEvk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 583228,
+      "fileId": 3965133
+    }
+  ],
   "forge": [
     {
       "modId": "simplebackups",

@@ -1,6 +1,12 @@
 {
   "name": "ktice-forge-1.18.2-1.0+1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bF74msmx",
+      "versionId": "MZojKaLn"
+    }
+  ],
   "forge": [
     {
       "modId": "ktice",

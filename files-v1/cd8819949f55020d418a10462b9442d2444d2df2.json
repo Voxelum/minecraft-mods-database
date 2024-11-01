@@ -1,6 +1,18 @@
 {
   "name": "eugenes_guan_dao-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kNRdoqTP",
+      "versionId": "VgIbYscq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943512,
+      "fileId": 5240048
+    }
+  ],
   "fabric": [
     {
       "modId": "eugenes_guan_dao",

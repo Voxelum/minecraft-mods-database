@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "faitfqhg",
+      "versionId": "yE3WndYJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blahaj",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "unruled_api",
+      "version": "0.4"
+    }
+  ]
+}

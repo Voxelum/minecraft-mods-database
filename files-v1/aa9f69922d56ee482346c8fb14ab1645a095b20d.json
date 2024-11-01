@@ -1,0 +1,14 @@
+{
+  "name": "simplyswords-fabric-1.56.0-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "simplyswords",
+      "version": "1.56.0-1.20.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

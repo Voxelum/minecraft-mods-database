@@ -1,0 +1,48 @@
+{
+  "name": "DeftuLib-1.8.2+1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WfhjX9sQ",
+      "versionId": "8FoXFbUU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deftulib",
+      "version": "1.8.2"
+    },
+    {
+      "modId": "com_squareup_okio_okio",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.9.3"
+    },
+    {
+      "modId": "dev_deftu_enhancedeventbus",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.3"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "342"
+    },
+    {
+      "modId": "elementa",
+      "version": "649"
+    },
+    {
+      "modId": "vigilance",
+      "version": "297"
+    }
+  ]
+}

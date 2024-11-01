@@ -1,0 +1,30 @@
+{
+  "name": "colorfulhearts-fabric-1.20.1-4.3.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wQfMUdZT",
+      "versionId": "eBE7QD7E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854213,
+      "fileId": 5724979
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "colorfulhearts",
+      "version": "4.3.16"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    }
+  ]
+}

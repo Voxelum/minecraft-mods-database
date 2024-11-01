@@ -1,6 +1,18 @@
 {
   "name": "elemental_wizards_rpg-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PeZ4h4i0",
+      "versionId": "GZJoGVQT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1006892,
+      "fileId": 5499349
+    }
+  ],
   "fabric": [
     {
       "modId": "elemental_wizards_rpg",

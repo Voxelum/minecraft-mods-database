@@ -1,4 +1,16 @@
 {
   "name": "Iceberg-1.21.1-neoforge-1.2.8.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5faXoLqX",
+      "versionId": "DiUhdzPp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 520110,
+      "fileId": 5750025
+    }
+  ]
 }

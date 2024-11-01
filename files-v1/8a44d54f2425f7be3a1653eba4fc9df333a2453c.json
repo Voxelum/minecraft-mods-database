@@ -1,6 +1,18 @@
 {
   "name": "Supernatural-2.11.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UXzKPebS",
+      "versionId": "PC8mtqDp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610880,
+      "fileId": 5560217
+    }
+  ],
   "forge": [
     {
       "modId": "supernatural",

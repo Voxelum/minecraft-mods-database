@@ -1,6 +1,18 @@
 {
   "name": "kubejs-fabric-2001.6.5-build.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "scg4828e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 5454838
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejs",

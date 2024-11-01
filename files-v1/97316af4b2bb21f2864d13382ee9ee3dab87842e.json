@@ -1,0 +1,24 @@
+{
+  "name": "twirl-0.3.3+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6f8KaeX",
+      "versionId": "aLsK1Wf4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "twirl",
+      "version": "0.3.3+1.21"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0-beta.2"
+    }
+  ]
+}

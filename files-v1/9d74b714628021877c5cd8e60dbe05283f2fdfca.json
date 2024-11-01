@@ -1,6 +1,18 @@
 {
   "name": "CreativeCore_FORGE_v2.11.1_mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "29bs38V6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 4761929
+    }
+  ],
   "forge": [
     {
       "modId": "creativecore",

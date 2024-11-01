@@ -1,6 +1,12 @@
 {
   "name": "smallpop-1.20.1-0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1cfO6J6t",
+      "versionId": "URB6fYSd"
+    }
+  ],
   "fabric": [
     {
       "modId": "smallpop",

@@ -1,6 +1,18 @@
 {
   "name": "SJAP-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UVAZ3yo1",
+      "versionId": "ZkDIYZgQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310187,
+      "fileId": 3119004
+    }
+  ],
   "forge": [
     {
       "modId": "slashblade_addon",

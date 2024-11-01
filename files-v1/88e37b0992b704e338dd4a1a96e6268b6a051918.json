@@ -1,6 +1,18 @@
 {
   "name": "createoreexcavation-1.20-1.5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ResbpANg",
+      "versionId": "JoRQ9ZCh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 649832,
+      "fileId": 5689993
+    }
+  ],
   "forge": [
     {
       "modId": "createoreexcavation",

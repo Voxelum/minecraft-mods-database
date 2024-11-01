@@ -1,6 +1,18 @@
 {
   "name": "CraftTweaker2-1.12-4.1.20.586.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xg35A4rS",
+      "versionId": "tyI78LZ4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 239197,
+      "fileId": 3040575
+    }
+  ],
   "forge": [
     {
       "modId": "ctgui",

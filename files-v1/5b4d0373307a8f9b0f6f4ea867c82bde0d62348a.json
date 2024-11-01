@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dc4g4seU",
+      "versionId": "zKKtThvm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "online_emotes",
+      "version": "3.2.2+mc1.21.1-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.0-alpha2+1.21"
+    }
+  ]
+}

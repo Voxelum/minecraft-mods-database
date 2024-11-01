@@ -1,0 +1,28 @@
+{
+  "name": "PersistentCreativeInventory-0.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b6Drmxwj",
+      "versionId": "rDOzvtn1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1011631,
+      "fileId": 5601885
+    }
+  ],
+  "forge": [
+    {
+      "modId": "persistentcreativeinventory",
+      "version": "0.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "persistentcreativeinventory",
+      "version": "0.0.2"
+    }
+  ]
+}

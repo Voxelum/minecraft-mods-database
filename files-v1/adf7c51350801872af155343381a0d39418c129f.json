@@ -1,6 +1,18 @@
 {
   "name": "lootjs-fabric-1.20.1-2.12.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fJFETWDN",
+      "versionId": "4bA9z4Qr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570630,
+      "fileId": 5404564
+    }
+  ],
   "fabric": [
     {
       "modId": "lootjs",

@@ -1,6 +1,18 @@
 {
   "name": "deepslatetweaks-1.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jc0FvX5i",
+      "versionId": "sUS13Xdq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632466,
+      "fileId": 4511630
+    }
+  ],
   "forge": [
     {
       "modId": "deepslatetweaks",

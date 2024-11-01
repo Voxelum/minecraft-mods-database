@@ -1,6 +1,18 @@
 {
   "name": "ears-forge-1.8-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mfzaZK3Z",
+      "versionId": "xkFTPUgR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412013,
+      "fileId": 3616885
+    }
+  ],
   "forge": [
     {
       "modId": "ears",

@@ -1,6 +1,18 @@
 {
   "name": "LucraftCore-1.12.2-2.4.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4h2aTE5G",
+      "versionId": "kTf0Uy7N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 230651,
+      "fileId": 2782412
+    }
+  ],
   "forge": [
     {
       "modId": "lucraftcore",

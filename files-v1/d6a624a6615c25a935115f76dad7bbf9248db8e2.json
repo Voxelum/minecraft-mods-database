@@ -1,6 +1,18 @@
 {
   "name": "Sounds-1.0.1+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZouiUX7t",
+      "versionId": "Mg6B68b5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 925889,
+      "fileId": 5485134
+    }
+  ],
   "fabric": [
     {
       "modId": "sounds",

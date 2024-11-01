@@ -1,6 +1,18 @@
 {
   "name": "letsdo-bakery-forge-1.1.12.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WFwYiVoG",
+      "versionId": "ireUSgcX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886559,
+      "fileId": 5475420
+    }
+  ],
   "forge": [
     {
       "modId": "bakery",

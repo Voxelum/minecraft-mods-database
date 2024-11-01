@@ -1,6 +1,18 @@
 {
   "name": "MerchantMarkers-1.19.2-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AGhiJWsU",
+      "versionId": "GHvt7fG7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549275,
+      "fileId": 4105428
+    }
+  ],
   "forge": [
     {
       "modId": "merchantmarkers",

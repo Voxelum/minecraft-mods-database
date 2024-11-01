@@ -1,0 +1,46 @@
+{
+  "name": "ubesdelight-fabric-1.20.1-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PYjpoAys",
+      "versionId": "1PO70vtF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903894,
+      "fileId": 5696215
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ubesdelight",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_registries",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

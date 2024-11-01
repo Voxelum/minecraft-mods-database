@@ -1,6 +1,18 @@
 {
   "name": "Species-1.20.1-1.3-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s5d4P01r",
+      "versionId": "WWJ8Aftw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857737,
+      "fileId": 4638165
+    }
+  ],
   "forge": [
     {
       "modId": "species",

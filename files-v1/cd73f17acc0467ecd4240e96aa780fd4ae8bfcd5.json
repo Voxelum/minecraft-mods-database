@@ -1,6 +1,18 @@
 {
   "name": "ChickenChunks-1.20.1-2.10.0.100-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2JkvF271",
+      "versionId": "9XYNvXCn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 243883,
+      "fileId": 5292574
+    }
+  ],
   "forge": [
     {
       "modId": "chickenchunks",

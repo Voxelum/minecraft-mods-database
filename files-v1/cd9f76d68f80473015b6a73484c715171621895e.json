@@ -1,6 +1,18 @@
 {
   "name": "voidz-1.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OMiCHIwt",
+      "versionId": "Sspe3aOV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486971,
+      "fileId": 4656406
+    }
+  ],
   "fabric": [
     {
       "modId": "voidz",

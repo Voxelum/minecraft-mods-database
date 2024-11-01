@@ -1,6 +1,18 @@
 {
   "name": "RuneCraft-1.12.2-(v.2.1.4).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Jlq5kyj",
+      "versionId": "az8pHc7e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 264936,
+      "fileId": 3527798
+    }
+  ],
   "forge": [
     {
       "modId": "runecraft",

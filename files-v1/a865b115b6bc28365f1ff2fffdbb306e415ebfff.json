@@ -1,6 +1,18 @@
 {
   "name": "the_bumblezone-7.4.18+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "38tpSycf",
+      "versionId": "h3RchO7W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 362479,
+      "fileId": 5656070
+    }
+  ],
   "forge": [
     {
       "modId": "the_bumblezone",

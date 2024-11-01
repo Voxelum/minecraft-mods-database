@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NOxfLnRC",
+      "versionId": "303dXyle"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stepup",
+      "version": "1.21-fabric0.100.1-1.4"
+    },
+    {
+      "modId": "gbfabrictools",
+      "version": "1.4+1.20"
+    }
+  ]
+}

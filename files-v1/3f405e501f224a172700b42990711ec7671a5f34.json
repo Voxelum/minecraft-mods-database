@@ -1,6 +1,18 @@
 {
   "name": "Kiwi-1.21-Fabric-15.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ufdDoWPd",
+      "versionId": "mzMc1VzM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549404,
+      "fileId": 5456615
+    }
+  ],
   "fabric": [
     {
       "modId": "kiwi",

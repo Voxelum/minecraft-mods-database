@@ -1,6 +1,18 @@
 {
   "name": "API-CraterLib-Forge-1.20-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nn8Wasaq",
+      "versionId": "c1M2ur5U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867099,
+      "fileId": 5425131
+    }
+  ],
   "forge": [
     {
       "modId": "craterlib",

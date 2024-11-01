@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jSV9w0J5",
+      "versionId": "eOKN1fF4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891324,
+      "fileId": 5717465
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illagerinvasion",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "3.1.0"
+    }
+  ]
+}

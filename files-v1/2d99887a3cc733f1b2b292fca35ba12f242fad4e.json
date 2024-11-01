@@ -1,0 +1,28 @@
+{
+  "name": "village-nullifier-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BHCrWnHJ",
+      "versionId": "SsGwsheS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 902233,
+      "fileId": 5616214
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_village_nullifier",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_village_nullifier",
+      "version": "1.0.0"
+    }
+  ]
+}

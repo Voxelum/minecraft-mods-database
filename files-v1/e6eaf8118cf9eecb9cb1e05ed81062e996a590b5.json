@@ -1,6 +1,18 @@
 {
   "name": "jmi-fabric-1.20.1-0.14-48.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M1ZKbfkJ",
+      "versionId": "DBfyewqk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525447,
+      "fileId": 5510355
+    }
+  ],
   "fabric": [
     {
       "modId": "jmi",

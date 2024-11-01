@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rOUBggPv",
+      "versionId": "aLBDuNOF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 454372,
+      "fileId": 5668918
+    }
+  ],
+  "forge": [
+    {
+      "modId": "supermartijn642corelib",
+      "version": "1.1.17+a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "supermartijn642corelib",
+      "version": "1.1.17+b"
+    }
+  ]
+}

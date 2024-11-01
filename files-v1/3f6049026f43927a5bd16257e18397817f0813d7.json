@@ -1,6 +1,18 @@
 {
   "name": "CreateUnbreakableTools-1.0+forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bzzq7Auj",
+      "versionId": "oHf8aapW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963802,
+      "fileId": 5059722
+    }
+  ],
   "forge": [
     {
       "modId": "create_unbreakable",

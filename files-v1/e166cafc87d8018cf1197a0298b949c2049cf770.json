@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HaS8KaHF",
+      "versionId": "qeDINI1o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959446,
+      "fileId": 5641860
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ender_pack",
+      "version": "2.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ender_pack",
+      "version": "2.0.3"
+    }
+  ]
+}

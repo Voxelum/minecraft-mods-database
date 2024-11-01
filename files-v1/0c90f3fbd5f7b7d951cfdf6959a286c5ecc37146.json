@@ -1,6 +1,12 @@
 {
   "name": "HangGlider-v4.0.0-1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uHWrqYcS",
+      "versionId": "e484GMjn"
+    }
+  ],
   "fabric": [
     {
       "modId": "hangglider",

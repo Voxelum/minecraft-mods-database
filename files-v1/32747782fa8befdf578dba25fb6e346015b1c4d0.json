@@ -1,6 +1,12 @@
 {
   "name": "surveyor-0.6.21+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4KjqhPc9",
+      "versionId": "XNwDex7s"
+    }
+  ],
   "fabric": [
     {
       "modId": "surveyor",

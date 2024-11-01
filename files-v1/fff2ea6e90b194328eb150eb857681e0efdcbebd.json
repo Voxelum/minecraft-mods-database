@@ -1,6 +1,18 @@
 {
   "name": "recipesearchbuttons-1.12.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F0mzextg",
+      "versionId": "PwCm2ZMy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 629858,
+      "fileId": 3816276
+    }
+  ],
   "forge": [
     {
       "modId": "recipesearchbuttons",

@@ -1,0 +1,38 @@
+{
+  "name": "better-highlighting-1.21-0.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rjsZCeTS",
+      "versionId": "743NTUEz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1032169,
+      "fileId": 5481999
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better-highlighting",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "org_eclipse_org_eclipse_tm4e_core",
+      "version": "0.12.1"
+    },
+    {
+      "modId": "org_jruby_joni_joni",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "org_snakeyaml_snakeyaml-engine",
+      "version": "2.7"
+    },
+    {
+      "modId": "org_jruby_jcodings_jcodings",
+      "version": "1.0.58"
+    }
+  ]
+}

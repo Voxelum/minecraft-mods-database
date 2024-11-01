@@ -1,6 +1,18 @@
 {
   "name": "immersive_aircraft-0.4.41.16.5-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3HZvrj6",
+      "versionId": "1dZ9w5wc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666014,
+      "fileId": 4478810
+    }
+  ],
   "forge": [
     {
       "modId": "immersive_aircraft",

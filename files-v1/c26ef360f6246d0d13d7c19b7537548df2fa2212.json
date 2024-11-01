@@ -1,6 +1,12 @@
 {
   "name": "wthit-fabric-4.11.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6AQIaxuO",
+      "versionId": "VN3y7YuP"
+    }
+  ],
   "fabric": [
     {
       "modId": "wthit",

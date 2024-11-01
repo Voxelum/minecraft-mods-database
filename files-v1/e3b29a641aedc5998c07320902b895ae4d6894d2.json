@@ -1,6 +1,18 @@
 {
   "name": "dungeons-and-taverns-v2.1.4 [Fabric].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tpehi7ww",
+      "versionId": "XU0RDl74"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 853794,
+      "fileId": 4648703
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_dungeons_andtaverns",

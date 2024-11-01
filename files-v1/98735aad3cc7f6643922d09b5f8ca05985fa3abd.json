@@ -1,6 +1,18 @@
 {
   "name": "CarbonConfig-1.20-1.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1jDdpgcc",
+      "versionId": "FTs5Prm9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 898104,
+      "fileId": 5504503
+    }
+  ],
   "forge": [
     {
       "modId": "carbonconfig",

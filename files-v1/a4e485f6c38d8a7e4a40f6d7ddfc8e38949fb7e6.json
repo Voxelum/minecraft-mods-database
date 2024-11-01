@@ -1,6 +1,18 @@
 {
   "name": "kubejs-forge-1802.5.5-build.562.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "yBny0apG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 4118107
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs",

@@ -1,0 +1,28 @@
+{
+  "name": "stonecutter-salvage-1.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w4oj6UFD",
+      "versionId": "9zHsnXSm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1076562,
+      "fileId": 5820384
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_stonecutter_salvage",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_stonecutter_salvage",
+      "version": "1.5.0"
+    }
+  ]
+}

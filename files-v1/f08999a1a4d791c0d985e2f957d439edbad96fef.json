@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1jecwsXu",
+      "versionId": "8lG8lw1P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 685025,
+      "fileId": 4344173
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vampiricorigin",
+      "version": "1.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

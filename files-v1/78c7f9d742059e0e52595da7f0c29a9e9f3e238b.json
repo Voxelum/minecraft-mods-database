@@ -1,6 +1,18 @@
 {
   "name": "rainglow.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bk6pUD7R",
+      "versionId": "b40FwyzP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682310,
+      "fileId": 4615074
+    }
+  ],
   "fabric": [
     {
       "modId": "rainglow",

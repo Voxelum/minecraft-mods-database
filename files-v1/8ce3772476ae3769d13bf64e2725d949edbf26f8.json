@@ -1,6 +1,18 @@
 {
   "name": "create_high_pressure-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mn8ziD0c",
+      "versionId": "hGGRPrHq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118946,
+      "fileId": 5800526
+    }
+  ],
   "forge": [
     {
       "modId": "create_high_pressure",

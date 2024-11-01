@@ -1,6 +1,12 @@
 {
   "name": "create_salt 1.19.2-1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 951106,
+      "fileId": 5000032
+    }
+  ],
   "forge": [
     {
       "modId": "create__the_salt",

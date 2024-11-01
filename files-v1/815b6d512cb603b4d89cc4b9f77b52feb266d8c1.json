@@ -1,6 +1,18 @@
 {
   "name": "gtceu-1.20.1-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7tG215v7",
+      "versionId": "TZq2HVPL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 890405,
+      "fileId": 5641637
+    }
+  ],
   "forge": [
     {
       "modId": "gtceu",

@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EfQ1lKWq",
+      "versionId": "hy9SnwZp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1080818,
+      "fileId": 5618408
+    }
+  ],
+  "forge": [
+    {
+      "modId": "constructionwand",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "constructionwand",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.0"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    }
+  ]
+}

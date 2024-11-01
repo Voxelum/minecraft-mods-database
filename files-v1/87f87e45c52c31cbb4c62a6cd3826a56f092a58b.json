@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SIKMQqt0",
+      "versionId": "bPB6qLmz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968457,
+      "fileId": 5288522
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pantheonsent",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "sherdsapi",
+      "version": "4.0.4"
+    }
+  ]
+}

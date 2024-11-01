@@ -1,6 +1,18 @@
 {
   "name": "PuzzlesLib-v20.4.44-1.20.4-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QAGBst4M",
+      "versionId": "GeTxzirf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495476,
+      "fileId": 5373252
+    }
+  ],
   "fabric": [
     {
       "modId": "puzzleslib",

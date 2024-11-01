@@ -1,6 +1,18 @@
 {
   "name": "tpmaster-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HgkivEjC",
+      "versionId": "gCz6aRoC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 805832,
+      "fileId": 4749518
+    }
+  ],
   "forge": [
     {
       "modId": "tpmaster",

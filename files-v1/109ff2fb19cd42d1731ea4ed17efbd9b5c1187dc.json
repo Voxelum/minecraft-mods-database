@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HjmxVlSr",
+      "versionId": "4ybDuGhA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373591,
+      "fileId": 5812195
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettermineshafts",
+      "version": "1.21.1-Fabric-5.1.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

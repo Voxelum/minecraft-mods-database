@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "laNoi025",
+      "versionId": "OPtoNGCV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenshot_viewer",
+      "version": "1.3.3-fabric-mc1.21"
+    },
+    {
+      "modId": "catconfig-mc",
+      "version": "0.2.1"
+    }
+  ]
+}

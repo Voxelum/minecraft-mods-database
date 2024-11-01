@@ -1,6 +1,18 @@
 {
   "name": "homing_ender_eye-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k7kuEnwe",
+      "versionId": "A1Z6kALv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544990,
+      "fileId": 4583933
+    }
+  ],
   "forge": [
     {
       "modId": "homing_ender_eye",

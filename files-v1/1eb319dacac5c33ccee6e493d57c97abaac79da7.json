@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCk7Sfz8",
+      "versionId": "CFbsgncx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 510656,
+      "fileId": 5843149
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wirelesschargers",
+      "version": "1.0.9"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

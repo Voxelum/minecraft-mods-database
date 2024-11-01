@@ -1,6 +1,18 @@
 {
   "name": "occultismdelight-1.0.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kjBcUtOo",
+      "versionId": "9z6XMppV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1080899,
+      "fileId": 5675110
+    }
+  ],
   "forge": [
     {
       "modId": "occultismdelight",

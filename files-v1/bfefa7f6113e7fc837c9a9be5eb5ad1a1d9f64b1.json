@@ -1,6 +1,18 @@
 {
   "name": "tridents_n_stuff-0.2.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HUVG5gEu",
+      "versionId": "Dskdy0NH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 940827,
+      "fileId": 5288931
+    }
+  ],
   "fabric": [
     {
       "modId": "tridents_n_stuff",

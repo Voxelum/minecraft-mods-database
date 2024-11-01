@@ -1,6 +1,18 @@
 {
   "name": "ViaFabric-0.4.14+70-main.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlKdE5VK",
+      "versionId": "OARxDm5F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391298,
+      "fileId": 5332608
+    }
+  ],
   "fabric": [
     {
       "modId": "viafabric",

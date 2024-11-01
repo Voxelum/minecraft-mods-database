@@ -1,0 +1,30 @@
+{
+  "name": "garnished-1.9.8+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6e2SlzR4",
+      "versionId": "EoFtF84y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923277,
+      "fileId": 5657614
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "garnished",
+      "version": "1.9.8+1.20.1-fabric"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "create_dragon_lib",
+      "version": "1.4.2"
+    }
+  ]
+}

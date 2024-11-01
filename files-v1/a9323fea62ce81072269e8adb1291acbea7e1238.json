@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "baritone",
+      "version": "1.10.2-5-g8786148f"
+    },
+    {
+      "modId": "dev_babbaj_nether-pathfinder",
+      "version": "1.4.1"
+    }
+  ]
+}

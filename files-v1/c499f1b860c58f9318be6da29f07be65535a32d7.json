@@ -1,6 +1,12 @@
 {
   "name": "corpse-forge-1.19.2-1.0.14.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 316582,
+      "fileId": 5661472
+    }
+  ],
   "forge": [
     {
       "modId": "corpse",

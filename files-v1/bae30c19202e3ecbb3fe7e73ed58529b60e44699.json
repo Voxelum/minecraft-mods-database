@@ -1,6 +1,18 @@
 {
   "name": "tagtooltips-1.20.1-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2MgfuPip",
+      "versionId": "a0H0FGkF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899941,
+      "fileId": 4687165
+    }
+  ],
   "forge": [
     {
       "modId": "tagtooltips",

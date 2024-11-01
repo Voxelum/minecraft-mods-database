@@ -1,6 +1,18 @@
 {
   "name": "YetAnotherConfigLib-3.4.4+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "3jH5u49m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 5376023
+    }
+  ],
   "forge": [
     {
       "modId": "yet_another_config_lib_v3",

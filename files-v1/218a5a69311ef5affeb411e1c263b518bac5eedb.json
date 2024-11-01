@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Np7s41ut",
+      "versionId": "8VjfZMiQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 563438,
+      "fileId": 4536167
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "compressor",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19"
+    }
+  ]
+}

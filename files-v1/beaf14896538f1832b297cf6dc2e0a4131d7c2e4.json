@@ -1,0 +1,26 @@
+{
+  "name": "pandalib-0.2.1-fabric-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mEEGbEIu",
+      "versionId": "WxUljtzh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975460,
+      "fileId": 5278167
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pandalib",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    }
+  ]
+}

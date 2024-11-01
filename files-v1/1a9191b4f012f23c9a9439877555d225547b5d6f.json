@@ -1,6 +1,18 @@
 {
   "name": "createnewbeg-0.1.0-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XDDw6edF",
+      "versionId": "CaWIiPwn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1090260,
+      "fileId": 5662815
+    }
+  ],
   "forge": [
     {
       "modId": "createnewbeg",

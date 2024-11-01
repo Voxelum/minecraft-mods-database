@@ -1,6 +1,18 @@
 {
   "name": "blossom-forge-1.19.2-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iYVih5qu",
+      "versionId": "NRHOgZ5E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 575248,
+      "fileId": 4405665
+    }
+  ],
   "forge": [
     {
       "modId": "blossom",

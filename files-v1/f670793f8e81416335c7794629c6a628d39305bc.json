@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MGcd6kTf",
+      "versionId": "WrytZSrB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1081352,
+      "fileId": 5692897
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_vanilla_backpacks",
+      "version": "1.1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vanilla_backpacks",
+      "version": "1.1.3"
+    }
+  ]
+}

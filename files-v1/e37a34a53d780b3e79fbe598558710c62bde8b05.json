@@ -1,0 +1,24 @@
+{
+  "name": "xenon-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1100159,
+      "fileId": 5709304
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xenon",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "net_covers1624_quack",
+      "version": "0.4.10.109"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.8"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "phantasm-0.4.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565254,
+      "fileId": 5649335
+    }
+  ],
   "forge": [
     {
       "modId": "phantasm",

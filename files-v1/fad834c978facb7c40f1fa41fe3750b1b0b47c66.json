@@ -1,6 +1,18 @@
 {
   "name": "glowing-torchflower-mc1.20.3-rc1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1S4LxcvL",
+      "versionId": "raaDkqoK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827288,
+      "fileId": 4929739
+    }
+  ],
   "fabric": [
     {
       "modId": "glowing-torchflower",

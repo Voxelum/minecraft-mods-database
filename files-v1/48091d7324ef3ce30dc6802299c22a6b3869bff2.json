@@ -1,6 +1,18 @@
 {
   "name": "iChunUtil-1.21-Fabric-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W6ROj0Hl",
+      "versionId": "2VeHCZxH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 229060,
+      "fileId": 5478456
+    }
+  ],
   "fabric": [
     {
       "modId": "ichunutil",

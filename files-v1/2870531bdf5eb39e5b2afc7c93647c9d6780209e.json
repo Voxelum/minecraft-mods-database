@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M0aimenU",
+      "versionId": "KimpqFwb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483805,
+      "fileId": 5432902
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "isometric-renders",
+      "version": "0.4.7+1.21"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.4.6+1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    }
+  ]
+}

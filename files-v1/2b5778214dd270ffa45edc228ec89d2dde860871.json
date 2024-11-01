@@ -1,0 +1,22 @@
+{
+  "name": "sculk-expansion-1.3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UNlTQZ8V",
+      "versionId": "aTlS2YJ3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sculk_expansion_mr",
+      "version": "1.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sculk_expansion_mr",
+      "version": "1.3.3"
+    }
+  ]
+}

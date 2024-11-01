@@ -1,6 +1,18 @@
 {
   "name": "subpocket-1.12-2.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hVTSaz1j",
+      "versionId": "kvJOQmDH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 275425,
+      "fileId": 3141755
+    }
+  ],
   "forge": [
     {
       "modId": "subpocket",

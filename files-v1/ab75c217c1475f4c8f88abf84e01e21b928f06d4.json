@@ -1,6 +1,18 @@
 {
   "name": "netherite-plus-mod-1.4.5-1.16.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MlaM22M4",
+      "versionId": "yMiCdBX2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394120,
+      "fileId": 3334125
+    }
+  ],
   "fabric": [
     {
       "modId": "netherite_plus",

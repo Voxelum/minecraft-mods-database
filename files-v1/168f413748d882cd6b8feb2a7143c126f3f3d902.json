@@ -1,0 +1,26 @@
+{
+  "name": "glowing-torchflower-1.20-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1S4LxcvL",
+      "versionId": "BNuNgYWy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827288,
+      "fileId": 5495127
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glowing-torchflower",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

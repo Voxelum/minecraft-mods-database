@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AANobbMI",
+      "versionId": "QHGZ9XSU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "0.5.9+mc1.20.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.31+1802ada577"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.1+1802ada577"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.0.28+1802ada577"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.37+92a0d36777"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+1802ada577"
+    }
+  ]
+}

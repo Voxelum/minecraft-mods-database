@@ -1,6 +1,18 @@
 {
   "name": "Explorify v1.5.0 f10-48.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HSfsxuTo",
+      "versionId": "FMLZeLnv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 698309,
+      "fileId": 5438065
+    }
+  ],
   "forge": [
     {
       "modId": "explorify",

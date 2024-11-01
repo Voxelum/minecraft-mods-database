@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J5Ukw05b",
+      "versionId": "Klt3jNiw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fake-floader",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.2"
+    }
+  ]
+}

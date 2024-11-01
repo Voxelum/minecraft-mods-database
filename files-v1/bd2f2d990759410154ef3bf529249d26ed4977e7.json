@@ -1,0 +1,28 @@
+{
+  "name": "forge_wider_ender_chests-1.0.3-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EDVt0J2I",
+      "versionId": "FAxFasMD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010456,
+      "fileId": 5698855
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wider_ender_chests",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wider_ender_chests",
+      "version": "1.0.3"
+    }
+  ]
+}

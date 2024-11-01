@@ -1,6 +1,18 @@
 {
   "name": "dangerclose-2.2.4-1.19.2_forge1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VtVhdIEA",
+      "versionId": "pEC4X2zT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858922,
+      "fileId": 4732394
+    }
+  ],
   "forge": [
     {
       "modId": "dangerclose",

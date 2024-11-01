@@ -1,6 +1,18 @@
 {
   "name": "[Fabric]CTOV-v3.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "wwPFyS91"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 5510290
+    }
+  ],
   "fabric": [
     {
       "modId": "ctov",

@@ -1,6 +1,18 @@
 {
   "name": "Tropicraft-9.5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "20zpzIT1",
+      "versionId": "YHwlWoCZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254794,
+      "fileId": 5312670
+    }
+  ],
   "forge": [
     {
       "modId": "tropicraft",

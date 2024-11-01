@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "niftycarts",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "niftycarts",
+      "version": "3.3.1+1.20.4"
+    }
+  ]
+}

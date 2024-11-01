@@ -1,6 +1,12 @@
 {
   "name": "billboarding-1.18-1.0.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 695440,
+      "fileId": 4777660
+    }
+  ],
   "forge": [
     {
       "modId": "billboarding",

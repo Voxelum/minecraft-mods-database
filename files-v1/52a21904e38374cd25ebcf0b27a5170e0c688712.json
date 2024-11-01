@@ -1,6 +1,18 @@
 {
   "name": "cookyourfood--mc1.20.1--1.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5L9FxTN2",
+      "versionId": "kcuZ8ohc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 657757,
+      "fileId": 4733659
+    }
+  ],
   "forge": [
     {
       "modId": "cookyourfood",

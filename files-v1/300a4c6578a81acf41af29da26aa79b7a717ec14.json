@@ -1,6 +1,18 @@
 {
   "name": "authme-8.0.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yjgIrBjZ",
+      "versionId": "WrVFwS4j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356643,
+      "fileId": 5425698
+    }
+  ],
   "fabric": [
     {
       "modId": "authme",

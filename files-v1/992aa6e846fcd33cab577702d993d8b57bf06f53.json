@@ -1,6 +1,12 @@
 {
   "name": "nbttool-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 451553,
+      "fileId": 3220914
+    }
+  ],
   "forge": [
     {
       "modId": "nbttool",

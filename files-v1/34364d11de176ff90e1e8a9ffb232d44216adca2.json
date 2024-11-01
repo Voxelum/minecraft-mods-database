@@ -1,6 +1,18 @@
 {
   "name": "CustomSkinLoader_ForgeV1-14.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "idMHQ4n2",
+      "versionId": "BfOifZWE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 286924,
+      "fileId": 5497381
+    }
+  ],
   "forge": [
     {
       "modId": "customskinloader",

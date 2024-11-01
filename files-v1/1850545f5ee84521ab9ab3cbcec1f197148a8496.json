@@ -1,6 +1,12 @@
 {
   "name": "waystones-fabric-1.19.2-11.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 500087,
+      "fileId": 4513836
+    }
+  ],
   "fabric": [
     {
       "modId": "waystones",

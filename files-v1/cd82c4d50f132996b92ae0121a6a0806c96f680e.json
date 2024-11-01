@@ -1,6 +1,18 @@
 {
   "name": "supplementaries-1.16.5-0.17.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "DTrvNG6o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412082,
+      "fileId": 3527323
+    }
+  ],
   "forge": [
     {
       "modId": "supplementaries",

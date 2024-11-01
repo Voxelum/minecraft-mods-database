@@ -1,6 +1,18 @@
 {
   "name": "vintagedelight-0.0.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T7XZLHGD",
+      "versionId": "lIOD2j1L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949719,
+      "fileId": 5282402
+    }
+  ],
   "forge": [
     {
       "modId": "vintagedelight",

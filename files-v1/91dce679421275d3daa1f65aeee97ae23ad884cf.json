@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qpPoAL6m",
+      "versionId": "aYrM4NZY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570431,
+      "fileId": 5850134
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trade_cycling",
+      "version": "1.21.3-1.0.15"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+2127dc7240"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4340"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.22+c47b9d4340"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.3.3+56ec7ac640"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.5+c47b9d4340"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.32+c47b9d4340"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "runic_enchanting-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GkpgRKV2",
+      "versionId": "3TvkKhjD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 838923,
+      "fileId": 4467398
+    }
+  ],
   "fabric": [
     {
       "modId": "runic_enchanting",

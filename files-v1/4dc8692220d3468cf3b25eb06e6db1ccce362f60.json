@@ -1,6 +1,18 @@
 {
   "name": "letsdo-meadow-forge-1.3.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ra7o6Sl7",
+      "versionId": "47NDcBIM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821483,
+      "fileId": 5413163
+    }
+  ],
   "forge": [
     {
       "modId": "meadow",

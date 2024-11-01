@@ -1,0 +1,20 @@
+{
+  "name": "odyssey-lite-3.0.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kLpYA1ni",
+      "versionId": "H0npTQAE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "odyssey-lite",
+      "version": "3.0.0+1.21"
+    },
+    {
+      "modId": "alternate-hudrendercallback",
+      "version": "1.0.0"
+    }
+  ]
+}

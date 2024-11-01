@@ -1,6 +1,18 @@
 {
   "name": "ae2wtlib-17.12.0-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pNabrMMw",
+      "versionId": "bGX9IPwl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459929,
+      "fileId": 5211370
+    }
+  ],
   "forge": [
     {
       "modId": "ae2wtlib",

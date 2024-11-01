@@ -1,6 +1,18 @@
 {
   "name": "mca-reborn-mod-forge-1_16_5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1W98a849",
+      "versionId": "rWIBtzZF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535291,
+      "fileId": 3755648
+    }
+  ],
   "forge": [
     {
       "modId": "mca",

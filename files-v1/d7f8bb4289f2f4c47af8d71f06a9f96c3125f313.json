@@ -1,0 +1,32 @@
+{
+  "name": "spwp-0.2.0-beta.1+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dqkMmvWz",
+      "versionId": "2plgRIiM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spwp",
+      "version": "0.2.0-beta.1+1.20"
+    },
+    {
+      "modId": "owo",
+      "version": "0.11.2-pre.14+1.20"
+    },
+    {
+      "modId": "sqlib",
+      "version": "2.1.5"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.9.0"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.2.1+1.20"
+    }
+  ]
+}

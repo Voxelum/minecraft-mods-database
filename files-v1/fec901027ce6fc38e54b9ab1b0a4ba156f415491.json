@@ -1,6 +1,12 @@
 {
   "name": "configured-fabric-1.21-2.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 457570,
+      "fileId": 5441234
+    }
+  ],
   "fabric": [
     {
       "modId": "configured",

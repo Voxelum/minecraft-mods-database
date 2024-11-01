@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.10.2-4.8.4.49-Base.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228702,
+      "fileId": 2435813
+    }
+  ],
   "forge": [
     {
       "modId": "projectred-core",

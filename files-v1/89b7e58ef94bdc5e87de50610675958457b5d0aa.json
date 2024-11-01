@@ -1,6 +1,18 @@
 {
   "name": "genshinstrument-1.19.2-4.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UUD6Qkij",
+      "versionId": "2DLEQDUl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848761,
+      "fileId": 5742160
+    }
+  ],
   "forge": [
     {
       "modId": "genshinstrument",

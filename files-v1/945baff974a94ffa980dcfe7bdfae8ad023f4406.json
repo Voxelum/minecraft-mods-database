@@ -1,6 +1,12 @@
 {
   "name": "identity-2.3.1-1.18.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391390,
+      "fileId": 4399462
+    }
+  ],
   "forge": [
     {
       "modId": "identity",

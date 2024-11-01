@@ -1,6 +1,18 @@
 {
   "name": "Fruitful-1.16.5-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LE6m9dPh",
+      "versionId": "Tb7jmttE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395502,
+      "fileId": 3342857
+    }
+  ],
   "forge": [
     {
       "modId": "fruitful",

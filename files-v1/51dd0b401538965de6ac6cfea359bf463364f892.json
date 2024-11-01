@@ -1,6 +1,18 @@
 {
   "name": "fabric-api-0.37.1+1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P7dR8mSH",
+      "versionId": "JXjDyWqh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 306612,
+      "fileId": 3398544
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric",

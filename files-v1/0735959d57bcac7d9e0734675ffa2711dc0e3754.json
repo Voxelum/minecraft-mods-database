@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7Coz83fv",
+      "versionId": "xanJPwC8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clientcommands",
+      "version": "2.9.3"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.9"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.5.1"
+    }
+  ]
+}

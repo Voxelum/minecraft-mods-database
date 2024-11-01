@@ -1,6 +1,12 @@
 {
   "name": "NotEnoughUpdates-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 903648,
+      "fileId": 4708804
+    }
+  ],
   "forge": [
     {
       "modId": "notenoughupdateserrordisplay",

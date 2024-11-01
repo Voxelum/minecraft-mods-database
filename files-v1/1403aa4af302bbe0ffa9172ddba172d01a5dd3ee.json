@@ -1,6 +1,18 @@
 {
   "name": "【中立生物 鸡 牛 猪 兔子 羊 村民】neutral-animals-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w1AXlLHd",
+      "versionId": "Stl1Q9ut"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486981,
+      "fileId": 4596295
+    }
+  ],
   "fabric": [
     {
       "modId": "neutral_animals",

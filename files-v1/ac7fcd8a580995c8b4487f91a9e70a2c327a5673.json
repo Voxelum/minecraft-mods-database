@@ -1,6 +1,18 @@
 {
   "name": "Kambrik-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zfbCkvdZ",
+      "versionId": "hcUdkfwj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455585,
+      "fileId": 3442450
+    }
+  ],
   "fabric": [
     {
       "modId": "kambrik",

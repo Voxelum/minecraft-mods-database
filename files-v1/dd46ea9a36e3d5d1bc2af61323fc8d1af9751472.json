@@ -1,6 +1,18 @@
 {
   "name": "ArchaeologyBanners-Forge-1.20.1-5.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HZGv2FlJ",
+      "versionId": "iMtVzBDE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861357,
+      "fileId": 4756646
+    }
+  ],
   "forge": [
     {
       "modId": "archaeologybanners",

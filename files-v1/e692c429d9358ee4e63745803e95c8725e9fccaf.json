@@ -1,6 +1,18 @@
 {
   "name": "doubledoors_1.18.2-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JrvR9OHr",
+      "versionId": "ySAnWVa4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348831,
+      "fileId": 3672532
+    }
+  ],
   "forge": [
     {
       "modId": "doubledoors",

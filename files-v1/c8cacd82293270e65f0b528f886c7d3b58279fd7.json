@@ -1,6 +1,18 @@
 {
   "name": "totw_modded-forge-1.19.2-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "54eqfZSC",
+      "versionId": "HJLh5Hib"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 859365,
+      "fileId": 5239657
+    }
+  ],
   "forge": [
     {
       "modId": "totw_modded",

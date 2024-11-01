@@ -1,6 +1,18 @@
 {
   "name": "OnlyLooking-1.16.5-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rC4bzCkO",
+      "versionId": "CuUBsOEw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487840,
+      "fileId": 3330016
+    }
+  ],
   "forge": [
     {
       "modId": "onlylooking",

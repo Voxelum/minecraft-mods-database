@@ -1,6 +1,18 @@
 {
   "name": "BetterTotemOfUndying-Forge-1.19.2-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qRwFcI3W",
+      "versionId": "Vg2VV2Sh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 878676,
+      "fileId": 4755192
+    }
+  ],
   "forge": [
     {
       "modId": "better_totem_of_undying",

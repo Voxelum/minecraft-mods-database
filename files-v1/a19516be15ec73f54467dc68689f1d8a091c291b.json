@@ -1,0 +1,28 @@
+{
+  "name": "ponderjs-fabric-1.18.2-1.1.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5A34Stj8",
+      "versionId": "r0apmYyP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622888,
+      "fileId": 4440444
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ponderjs",
+      "version": "1.1.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ponderjs",
+      "version": "1.1.9"
+    }
+  ]
+}

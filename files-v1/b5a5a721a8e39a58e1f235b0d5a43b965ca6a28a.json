@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fake-floader",
+      "version": "${version}"
+    }
+  ]
+}

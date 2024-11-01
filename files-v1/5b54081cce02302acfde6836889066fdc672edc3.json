@@ -1,6 +1,18 @@
 {
   "name": "wooledboots-1.7.1-forge-mc1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YJfbVVdW",
+      "versionId": "X28NUtiq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541049,
+      "fileId": 4781498
+    }
+  ],
   "forge": [
     {
       "modId": "wooledboots",

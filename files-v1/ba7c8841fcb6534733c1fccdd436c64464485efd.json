@@ -1,6 +1,18 @@
 {
   "name": "torchflower_relit-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hXkAAXvL",
+      "versionId": "DRm70FKR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909902,
+      "fileId": 4736524
+    }
+  ],
   "forge": [
     {
       "modId": "torchflower_relit",

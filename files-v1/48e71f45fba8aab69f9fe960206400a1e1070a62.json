@@ -1,6 +1,18 @@
 {
   "name": "waterframes-FORGE-mc1.20.1-v2.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eBzFuVTM",
+      "versionId": "JOwi3ra2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 834607,
+      "fileId": 5747991
+    }
+  ],
   "forge": [
     {
       "modId": "waterframes",

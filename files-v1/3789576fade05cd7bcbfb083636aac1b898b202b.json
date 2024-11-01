@@ -1,6 +1,12 @@
 {
   "name": "fzzy_core-0.2.5.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LJ5wlCDr",
+      "versionId": "98ulVIFp"
+    }
+  ],
   "fabric": [
     {
       "modId": "fzzy_core",

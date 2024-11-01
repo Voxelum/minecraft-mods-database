@@ -1,6 +1,18 @@
 {
   "name": "NyfsQuiver-1.16.5-0.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hReJ61of",
+      "versionId": "WbpNVXSY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482731,
+      "fileId": 3601154
+    }
+  ],
   "forge": [
     {
       "modId": "nyfsquiver",

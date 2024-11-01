@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "enchantmentsplus",
+      "version": "1.2.2+1.20.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.5.0"
+    }
+  ]
+}

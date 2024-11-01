@@ -1,0 +1,32 @@
+{
+  "name": "satisfying_buttons-fabric-1.1.2-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zf8HMFM5",
+      "versionId": "dq128fRk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972696,
+      "fileId": 5732259
+    }
+  ],
+  "forge": [
+    {
+      "modId": "satisfying_buttons",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "satisfying_buttons",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

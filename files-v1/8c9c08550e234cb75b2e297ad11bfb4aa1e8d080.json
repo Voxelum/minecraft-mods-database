@@ -1,6 +1,18 @@
 {
   "name": "netherite_horse_armor-forge-1.20.1-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nDFVOeq7",
+      "versionId": "bkAAaHJp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 677675,
+      "fileId": 5067639
+    }
+  ],
   "forge": [
     {
       "modId": "netherite_horse_armor",

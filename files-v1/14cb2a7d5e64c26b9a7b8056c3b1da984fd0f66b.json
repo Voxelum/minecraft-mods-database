@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tsc9D2wh",
+      "versionId": "elZZMNLn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 998916,
+      "fileId": 5719840
+    }
+  ],
+  "forge": [
+    {
+      "modId": "burnt",
+      "version": "1.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "burnt",
+      "version": "1.8.0"
+    }
+  ]
+}

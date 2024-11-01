@@ -1,6 +1,12 @@
 {
   "name": "goated-1.20-1.3.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L7dBwZPX",
+      "versionId": "vxV0AmGB"
+    }
+  ],
   "fabric": [
     {
       "modId": "goated",

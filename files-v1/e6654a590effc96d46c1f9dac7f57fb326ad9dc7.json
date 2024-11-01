@@ -1,6 +1,18 @@
 {
   "name": "BotanyPots-Forge-1.20.1-13.0.29.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U6BUTZ7K",
+      "versionId": "C05Rw9MQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353928,
+      "fileId": 5283307
+    }
+  ],
   "forge": [
     {
       "modId": "botanypots",

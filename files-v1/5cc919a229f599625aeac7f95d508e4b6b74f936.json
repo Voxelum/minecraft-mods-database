@@ -1,6 +1,12 @@
 {
   "name": "duclib-1.20-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m02D58SC",
+      "versionId": "yvbXUDfC"
+    }
+  ],
   "forge": [
     {
       "modId": "duclib",

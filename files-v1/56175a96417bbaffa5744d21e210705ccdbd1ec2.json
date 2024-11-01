@@ -1,6 +1,12 @@
 {
   "name": "deepslate_diamond-1.0-ores.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1050045,
+      "fileId": 5500745
+    }
+  ],
   "forge": [
     {
       "modId": "deepslate_diamond",

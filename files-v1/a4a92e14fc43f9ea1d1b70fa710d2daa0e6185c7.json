@@ -1,6 +1,18 @@
 {
   "name": "mapperbase-1.16.5-2.4.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IAUIloQw",
+      "versionId": "XUjcGBam"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367442,
+      "fileId": 3350373
+    }
+  ],
   "forge": [
     {
       "modId": "mapperbase",

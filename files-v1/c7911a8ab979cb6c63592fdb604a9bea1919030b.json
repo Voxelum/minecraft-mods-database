@@ -1,6 +1,18 @@
 {
   "name": "CorgiLib-fabric-1.20.1-4.0.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ziOp6EO8",
+      "versionId": "OUql61ya"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693313,
+      "fileId": 5436747
+    }
+  ],
   "fabric": [
     {
       "modId": "corgilib",

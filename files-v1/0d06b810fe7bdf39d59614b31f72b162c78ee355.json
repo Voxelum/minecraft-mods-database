@@ -1,6 +1,18 @@
 {
   "name": "quantum_quarry_plus-1.10.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UINzYkNv",
+      "versionId": "48ejC1UW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400954,
+      "fileId": 3461139
+    }
+  ],
   "forge": [
     {
       "modId": "quantumquarryplus",

@@ -1,6 +1,18 @@
 {
   "name": "notenoughanimations-fabric-1.7.5-mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPCX6s5C",
+      "versionId": "BQ8qstAV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433760,
+      "fileId": 5647394
+    }
+  ],
   "fabric": [
     {
       "modId": "notenoughanimations",

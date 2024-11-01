@@ -1,6 +1,18 @@
 {
   "name": "Sitting+1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RVtIOlYX",
+      "versionId": "YkV8XWvF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 946727,
+      "fileId": 5160650
+    }
+  ],
   "forge": [
     {
       "modId": "sitmod",

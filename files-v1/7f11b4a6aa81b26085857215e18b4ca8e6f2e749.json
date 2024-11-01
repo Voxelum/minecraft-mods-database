@@ -1,6 +1,18 @@
 {
   "name": "rebind_narrator-forge-1.20.1-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qw2Ls89j",
+      "versionId": "AfZVofqI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 296996,
+      "fileId": 4646817
+    }
+  ],
   "forge": [
     {
       "modId": "rebind_narrator",

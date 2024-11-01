@@ -1,6 +1,12 @@
 {
   "name": "etched-forge-2.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 491890,
+      "fileId": 5060422
+    }
+  ],
   "forge": [
     {
       "modId": "etched",

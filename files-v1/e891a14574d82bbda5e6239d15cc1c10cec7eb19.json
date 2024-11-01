@@ -1,6 +1,12 @@
 {
   "name": "gtnhlib-0.2.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vTvnv7qp",
+      "versionId": "2ZDO85Te"
+    }
+  ],
   "forge": [
     {
       "modId": "gtnhlib",

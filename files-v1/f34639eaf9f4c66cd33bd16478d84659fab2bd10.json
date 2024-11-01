@@ -1,6 +1,18 @@
 {
   "name": "campsite_structures-1.19.2-FORGE-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gA6575EW",
+      "versionId": "3vOCWdkv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 705070,
+      "fileId": 4215747
+    }
+  ],
   "forge": [
     {
       "modId": "campsite_structures",

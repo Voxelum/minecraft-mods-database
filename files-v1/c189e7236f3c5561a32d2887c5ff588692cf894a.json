@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wySVd6d8",
+      "versionId": "OxjWqbuz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495546,
+      "fileId": 5615020
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tooltipscroll",
+      "version": "1.4.0+1.21"
+    },
+    {
+      "modId": "lilylib",
+      "version": "1.2.1+1.21"
+    }
+  ]
+}

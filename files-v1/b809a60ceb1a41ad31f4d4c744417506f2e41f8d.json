@@ -1,6 +1,12 @@
 {
   "name": "CreateArmorAndWeaponsv2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 556927,
+      "fileId": 3612636
+    }
+  ],
   "forge": [
     {
       "modId": "create_tools_and_armor",

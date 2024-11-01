@@ -1,0 +1,30 @@
+{
+  "name": "betterarcheology-1.1.9-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zCh7omyG",
+      "versionId": "vUlUODyr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835687,
+      "fileId": 5341719
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterarcheology",
+      "version": "1.1.9-1.20.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    }
+  ]
+}

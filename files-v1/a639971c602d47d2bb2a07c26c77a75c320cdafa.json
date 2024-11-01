@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fM515JnW",
+      "versionId": "LNo9BMgY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254284,
+      "fileId": 4693169
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.2.21"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

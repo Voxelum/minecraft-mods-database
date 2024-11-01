@@ -1,6 +1,18 @@
 {
   "name": "irritator-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6uYEuMuO",
+      "versionId": "nNQUGRT9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 987220,
+      "fileId": 5221525
+    }
+  ],
   "forge": [
     {
       "modId": "irritator",

@@ -1,0 +1,22 @@
+{
+  "name": "mediumcore-fabric-1.0.0+1.21.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1075917,
+      "fileId": 5588218
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mediumcore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mediumcore",
+      "version": "1.0.0"
+    }
+  ]
+}

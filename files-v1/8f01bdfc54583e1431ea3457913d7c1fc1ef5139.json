@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5wuYk45",
+      "versionId": "OzjpoU5e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297344,
+      "fileId": 5450185
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tweakeroo",
+      "version": "0.20.0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.0.8+bd46f3a00d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432c0d"
+    }
+  ]
+}

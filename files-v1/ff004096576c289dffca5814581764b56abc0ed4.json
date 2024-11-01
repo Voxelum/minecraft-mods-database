@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hWlsli6y",
+      "versionId": "eiF2nJGw"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.6.0p2"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.10-1.21"
+    }
+  ]
+}

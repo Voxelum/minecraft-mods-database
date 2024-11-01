@@ -1,6 +1,12 @@
 {
   "name": "wildberries-1.2.0[forge-1.20.1].jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621622,
+      "fileId": 4711762
+    }
+  ],
   "forge": [
     {
       "modId": "wildberries",

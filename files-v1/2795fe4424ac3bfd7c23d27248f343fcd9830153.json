@@ -1,0 +1,28 @@
+{
+  "name": "surfacemushrooms-1.21.3-3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jch00SNX",
+      "versionId": "olISQ4op"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550963,
+      "fileId": 5847080
+    }
+  ],
+  "forge": [
+    {
+      "modId": "surfacemushrooms",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "surfacemushrooms",
+      "version": "3.5"
+    }
+  ]
+}

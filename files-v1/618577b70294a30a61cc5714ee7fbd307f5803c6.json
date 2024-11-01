@@ -1,6 +1,18 @@
 {
   "name": "heartbalance-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aYivfZHq",
+      "versionId": "J90reBv3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 465049,
+      "fileId": 3408827
+    }
+  ],
   "forge": [
     {
       "modId": "heartbalance",

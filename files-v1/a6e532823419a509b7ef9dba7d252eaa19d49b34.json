@@ -1,6 +1,18 @@
 {
   "name": "dontclearchathistory-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sUbMm93i",
+      "versionId": "Ax55DqZk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404400,
+      "fileId": 5189256
+    }
+  ],
   "forge": [
     {
       "modId": "dcch",

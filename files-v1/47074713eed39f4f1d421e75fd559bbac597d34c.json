@@ -1,0 +1,10 @@
+{
+  "name": "ResolutionControl-3-1.21.1-4.0.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "resolutioncontrol3",
+      "version": "${version}"
+    }
+  ]
+}

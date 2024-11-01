@@ -1,6 +1,18 @@
 {
   "name": "pneumaticcraft-repressurized-6.0.16+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ncAcdgk7",
+      "versionId": "T1JaBU0q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 281849,
+      "fileId": 5609246
+    }
+  ],
   "forge": [
     {
       "modId": "pneumaticcraft",

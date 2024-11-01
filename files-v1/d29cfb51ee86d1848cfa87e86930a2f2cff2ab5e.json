@@ -1,6 +1,12 @@
 {
   "name": "trofers-fabric-5.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wBU6XiJa",
+      "versionId": "Gi4QAkeM"
+    }
+  ],
   "fabric": [
     {
       "modId": "trofers",

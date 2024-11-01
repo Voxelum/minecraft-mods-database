@@ -1,6 +1,18 @@
 {
   "name": "grizzlybear-1.17-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x6nc2i5M",
+      "versionId": "O4QeSJxL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 494751,
+      "fileId": 3431204
+    }
+  ],
   "fabric": [
     {
       "modId": "aqupdgrizzly",

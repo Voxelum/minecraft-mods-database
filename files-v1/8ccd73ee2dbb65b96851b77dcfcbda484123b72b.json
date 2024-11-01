@@ -1,6 +1,18 @@
 {
   "name": "CombatNouveau-v8.0.5-1.20.1-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Iv3kcKZn",
+      "versionId": "rB3qvqaE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969425,
+      "fileId": 5137621
+    }
+  ],
   "forge": [
     {
       "modId": "combatnouveau",

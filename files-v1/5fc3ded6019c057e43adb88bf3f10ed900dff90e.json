@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s3dmwKy5",
+      "versionId": "2zGz6n4Q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glitchcore",
+      "version": "2.0.0.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "net_jodah_typetools",
+      "version": "0.6.3"
+    }
+  ]
+}

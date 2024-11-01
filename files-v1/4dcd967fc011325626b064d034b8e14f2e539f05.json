@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJetCzWo",
+      "versionId": "Dsk6WutR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038103,
+      "fileId": 5824226
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farm_and_charm",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "the-orcs-1.0-FORGE-1.20.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 976768,
+      "fileId": 5120051
+    }
+  ],
   "forge": [
     {
       "modId": "theorcs",

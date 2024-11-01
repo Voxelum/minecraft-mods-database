@@ -1,0 +1,28 @@
+{
+  "name": "[围火无怪] nohostilesaroundcampfire-1.20.1-7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EJqeyaVz",
+      "versionId": "tEq0j3Mh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347394,
+      "fileId": 5572172
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "7.1"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lt2zd42r",
+      "versionId": "rJRs7pyy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963363,
+      "fileId": 5728895
+    }
+  ],
+  "forge": [
+    {
+      "modId": "palladium",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "palladium",
+      "version": "4.1.5"
+    },
+    {
+      "modId": "palladiumcore",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "elytraslot-forge-6.4.4+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mSQF1NpT",
+      "versionId": "k6lA080t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317716,
+      "fileId": 5778734
+    }
+  ],
   "forge": [
     {
       "modId": "elytraslot",

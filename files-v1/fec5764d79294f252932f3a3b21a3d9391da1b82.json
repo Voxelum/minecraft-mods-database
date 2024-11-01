@@ -1,0 +1,28 @@
+{
+  "name": "villagernames-1.21.3-8.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gqRXDo8B",
+      "versionId": "AjP5RJBn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345854,
+      "fileId": 5847043
+    }
+  ],
+  "forge": [
+    {
+      "modId": "villagernames",
+      "version": "8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "8.1"
+    }
+  ]
+}

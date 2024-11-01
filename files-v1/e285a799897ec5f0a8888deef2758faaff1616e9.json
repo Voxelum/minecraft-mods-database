@@ -1,6 +1,18 @@
 {
   "name": "[额外玩家渲染] extraplayerrenderer-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NKzz55AS",
+      "versionId": "w1Rtis5t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 481042,
+      "fileId": 4287425
+    }
+  ],
   "forge": [
     {
       "modId": "extraplayerrenderer",

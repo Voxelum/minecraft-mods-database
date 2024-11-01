@@ -1,6 +1,12 @@
 {
   "name": "aether-1.19.2-1.4.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 255308,
+      "fileId": 5302176
+    }
+  ],
   "forge": [
     {
       "modId": "aether",

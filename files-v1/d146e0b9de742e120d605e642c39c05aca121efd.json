@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R2ExO0VF",
+      "versionId": "zKzToGf3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hutoolcore",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hutoolcore",
+      "version": "1.2.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "smallhorsestable-1.1.0-neoforge-1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gfyIZI0R",
+      "versionId": "rWq2HKrG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1069321,
+      "fileId": 5683048
+    }
+  ],
   "forge": [
     {
       "modId": "smallhorsestable",

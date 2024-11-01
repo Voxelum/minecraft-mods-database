@@ -1,6 +1,12 @@
 {
   "name": "[1.20.1]davesbuilds.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 568645,
+      "fileId": 4704560
+    }
+  ],
   "forge": [
     {
       "modId": "davebuildingmod",

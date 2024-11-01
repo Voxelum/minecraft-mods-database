@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gp97KUB7",
+      "versionId": "ZB4UOp5u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 579513,
+      "fileId": 4496846
+    }
+  ],
+  "forge": [
+    {
+      "modId": "multitoolmod",
+      "version": "1.4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "multitoolmod",
+      "version": "1.4.2"
+    }
+  ]
+}

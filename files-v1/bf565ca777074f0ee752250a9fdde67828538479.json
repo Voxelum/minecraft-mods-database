@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "79HCKWp5",
+      "versionId": "KxDG9K8Y"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_backported_wolvesterralithcompat",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_backported_wolvesterralithcompat",
+      "version": "1.0"
+    }
+  ]
+}

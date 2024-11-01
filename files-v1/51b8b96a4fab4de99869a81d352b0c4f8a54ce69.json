@@ -1,6 +1,18 @@
 {
   "name": "charmofundying-fabric-7.1.2+1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5GyyYkp",
+      "versionId": "MXe8BkHX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316873,
+      "fileId": 5311391
+    }
+  ],
   "fabric": [
     {
       "modId": "charmofundying",

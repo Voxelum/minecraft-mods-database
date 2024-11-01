@@ -1,0 +1,26 @@
+{
+  "name": "IllagerInvasion-v8.0.6-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jSV9w0J5",
+      "versionId": "jDTECOMb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891324,
+      "fileId": 5717429
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illagerinvasion",
+      "version": "8.0.6"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "7.0.1"
+    }
+  ]
+}

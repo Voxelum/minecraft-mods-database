@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dimdoors",
+      "version": "5.0.3"
+    },
+    {
+      "modId": "com_flowpowered_flow-math",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "org_jgrapht_jgrapht-core",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_dimensionaldevelopment_poly2tri_java",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "matrix",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.72"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.0.0-beta.1"
+    }
+  ]
+}

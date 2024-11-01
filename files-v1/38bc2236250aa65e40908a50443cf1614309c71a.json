@@ -1,6 +1,18 @@
 {
   "name": "Custom-Crosshair-Mod-v1.5.2-forge-Minecraft-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o1tyE5vJ",
+      "versionId": "26M5NY11"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242995,
+      "fileId": 4028906
+    }
+  ],
   "forge": [
     {
       "modId": "custom_crosshair_mod",

@@ -1,6 +1,18 @@
 {
   "name": "responsiveshields-2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBmh0f9A",
+      "versionId": "m5YnxC6b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 557556,
+      "fileId": 4583922
+    }
+  ],
   "forge": [
     {
       "modId": "responsiveshields",

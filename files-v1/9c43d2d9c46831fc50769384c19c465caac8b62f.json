@@ -1,6 +1,18 @@
 {
   "name": "EasyAnvils-v21.0.2-1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OZBR5JT5",
+      "versionId": "aoKqxPcT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682567,
+      "fileId": 5509769
+    }
+  ],
   "fabric": [
     {
       "modId": "easyanvils",

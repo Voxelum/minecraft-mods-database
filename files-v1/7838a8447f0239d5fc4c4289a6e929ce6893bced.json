@@ -1,6 +1,12 @@
 {
   "name": "library-forge-20.1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 958545,
+      "fileId": 5050183
+    }
+  ],
   "forge": [
     {
       "modId": "phantom",

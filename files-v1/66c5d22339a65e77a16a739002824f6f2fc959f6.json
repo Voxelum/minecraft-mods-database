@@ -1,6 +1,18 @@
 {
   "name": "mes-1.3.2-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4PuRGfV",
+      "versionId": "Tuh65Tqq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892382,
+      "fileId": 5492323
+    }
+  ],
   "fabric": [
     {
       "modId": "mes",

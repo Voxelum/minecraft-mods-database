@@ -1,0 +1,28 @@
+{
+  "name": "parrochute-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "odNmUGyT",
+      "versionId": "appxsQi8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 996860,
+      "fileId": 5364362
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_parrochute",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_parrochute",
+      "version": "1.1"
+    }
+  ]
+}

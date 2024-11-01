@@ -1,6 +1,18 @@
 {
   "name": "durabilityviewer-1.19.1-forge42.0.1-1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LTM1f0yY",
+      "versionId": "SXIzKCm7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 262146,
+      "fileId": 3907381
+    }
+  ],
   "forge": [
     {
       "modId": "durabilityviewer",

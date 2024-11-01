@@ -1,6 +1,18 @@
 {
   "name": "Buddycards-1.18.2-3.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GGGjHC5t",
+      "versionId": "rCGuEz0m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 425991,
+      "fileId": 3911357
+    }
+  ],
   "forge": [
     {
       "modId": "buddycards",

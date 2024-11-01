@@ -1,6 +1,12 @@
 {
   "name": "BCGUtil-mc1.20.1-v1.0.5-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1020380,
+      "fileId": 5359973
+    }
+  ],
   "fabric": [
     {
       "modId": "bcgutil",

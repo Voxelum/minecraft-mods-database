@@ -1,6 +1,18 @@
 {
   "name": "chalk-1.16.5-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YWGP4Y1d",
+      "versionId": "sdDk5eB6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533748,
+      "fileId": 3495858
+    }
+  ],
   "forge": [
     {
       "modId": "chalk",

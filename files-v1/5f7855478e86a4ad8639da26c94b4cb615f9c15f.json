@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "monkeyconfig",
+      "version": "0.1.2+1.21"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_hocon",
+      "version": "3.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_json",
+      "version": "3.7.2"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_yaml",
+      "version": "3.7.2"
+    }
+  ]
+}

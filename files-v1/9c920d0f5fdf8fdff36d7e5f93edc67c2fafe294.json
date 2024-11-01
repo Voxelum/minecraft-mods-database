@@ -1,6 +1,18 @@
 {
   "name": "clearwater-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "485Cv9lY",
+      "versionId": "l1tMDvZX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 286098,
+      "fileId": 2524514
+    }
+  ],
   "forge": [
     {
       "modId": "clearwater",

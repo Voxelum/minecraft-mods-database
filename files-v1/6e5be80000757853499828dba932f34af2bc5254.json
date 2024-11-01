@@ -1,0 +1,26 @@
+{
+  "name": "jecharacters-fabric-4.5.14.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I7k4B65h",
+      "versionId": "WcaVidFK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250702,
+      "fileId": 5551235
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jecharacters",
+      "version": "4.5.14"
+    },
+    {
+      "modId": "com_github_towdium_pinin",
+      "version": "1.6.0"
+    }
+  ]
+}

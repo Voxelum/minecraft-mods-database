@@ -1,0 +1,68 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 793035,
+      "fileId": 5454846
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap_webmap",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "info_journeymap_webmap-client",
+      "version": "1.1-SNAPSHOT"
+    },
+    {
+      "modId": "io_javalin_javalin",
+      "version": "6.1.6"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-server",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-servlet",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-webapp",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-security",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-io",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-http",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-util",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "org_eclipse_jetty_jetty-xml",
+      "version": "11.0.20"
+    },
+    {
+      "modId": "jakarta_servlet_jakarta_servlet-api",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "org_eclipse_jetty_toolchain_jetty-jakarta-servlet-api",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.9.23"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "xtraarrows-3.0.4.1-fabric-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NROnqTK4",
+      "versionId": "DnkB4qoW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566441,
+      "fileId": 5367790
+    }
+  ],
   "fabric": [
     {
       "modId": "xtraarrows",

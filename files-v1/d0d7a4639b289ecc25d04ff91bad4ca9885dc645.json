@@ -1,6 +1,18 @@
 {
   "name": "RyoamicLights-fabric-0.2.11+mc1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "reCfnRvJ",
+      "versionId": "eFFsHtIr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 913587,
+      "fileId": 5643027
+    }
+  ],
   "fabric": [
     {
       "modId": "ryoamiclights",

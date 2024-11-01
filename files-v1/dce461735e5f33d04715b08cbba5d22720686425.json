@@ -1,6 +1,18 @@
 {
   "name": "tectonic-mod-mc1.20-v2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lWDHr9jE",
+      "versionId": "jNMP7968"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686836,
+      "fileId": 4623879
+    }
+  ],
   "forge": [
     {
       "modId": "tectonic",

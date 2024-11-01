@@ -1,6 +1,18 @@
 {
   "name": "FD-NethersDelight-1.20.1-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O53VhQoZ",
+      "versionId": "LgjRrOZr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1003673,
+      "fileId": 5323802
+    }
+  ],
   "forge": [
     {
       "modId": "mynethersdelight",

@@ -1,6 +1,18 @@
 {
   "name": "TinkerStages-1.12.2-2.0.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xEibii96",
+      "versionId": "t2Gty6lJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 275343,
+      "fileId": 2557670
+    }
+  ],
   "forge": [
     {
       "modId": "tinkerstages",

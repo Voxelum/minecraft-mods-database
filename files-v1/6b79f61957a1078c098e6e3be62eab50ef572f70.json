@@ -1,6 +1,18 @@
 {
   "name": "spore_1.19.2_2.1.0b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X661i40C",
+      "versionId": "Tzdq0ze8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678295,
+      "fileId": 5761236
+    }
+  ],
   "forge": [
     {
       "modId": "spore",

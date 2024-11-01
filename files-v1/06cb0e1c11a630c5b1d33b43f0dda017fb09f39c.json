@@ -1,6 +1,18 @@
 {
   "name": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oX6SohLj",
+      "versionId": "8NbsppBy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632066,
+      "fileId": 5605941
+    }
+  ],
   "fabric": [
     {
       "modId": "soulsweapons",

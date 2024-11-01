@@ -1,0 +1,38 @@
+{
+  "name": "SimpleDiscordRichPresence-fabric-87.0.0-build.48+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SCAopByd",
+      "versionId": "5W67RaVm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334853,
+      "fileId": 5444038
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sdrp",
+      "version": "87.0.0-build.48+mc1.21"
+    },
+    {
+      "modId": "com_github_jagrosh_discordipc",
+      "version": "a8d6631cc9"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-common",
+      "version": "2.6.2"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-native-common",
+      "version": "2.6.2"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230227"
+    }
+  ]
+}

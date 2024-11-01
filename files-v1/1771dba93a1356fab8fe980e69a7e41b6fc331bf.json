@@ -1,6 +1,12 @@
 {
   "name": "playerex-1.1.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 625364,
+      "fileId": 3799126
+    }
+  ],
   "forge": [
     {
       "modId": "playerex",

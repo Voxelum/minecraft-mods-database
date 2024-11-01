@@ -1,6 +1,18 @@
 {
   "name": "rankine-1.16.5-1.3.2-hf5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IVF4kAK5",
+      "versionId": "7jFBfnZL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400704,
+      "fileId": 4086553
+    }
+  ],
   "forge": [
     {
       "modId": "rankine",

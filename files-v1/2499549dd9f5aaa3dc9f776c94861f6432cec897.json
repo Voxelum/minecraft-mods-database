@@ -1,6 +1,18 @@
 {
   "name": "dangerousstonecutter-forge-mc1.19.4-1.8.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jSFfBGeF",
+      "versionId": "jGhax5lY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345729,
+      "fileId": 4455618
+    }
+  ],
   "forge": [
     {
       "modId": "dangerousstonecutter",

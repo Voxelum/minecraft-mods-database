@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6FtRfnLg",
+      "versionId": "cjzbJxI2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663658,
+      "fileId": 5805325
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "do_a_barrel_roll",
+      "version": "3.7.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

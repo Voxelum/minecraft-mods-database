@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2kZJcMa9",
+      "versionId": "DtwyjCrg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mediaworks",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.11"
+    }
+  ]
+}

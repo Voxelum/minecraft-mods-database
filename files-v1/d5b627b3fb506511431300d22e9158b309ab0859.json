@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 965667,
+      "fileId": 5088429
+    }
+  ],
+  "forge": [
+    {
+      "modId": "healing",
+      "version": "1.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healing",
+      "version": "1.0.0"
+    }
+  ]
+}

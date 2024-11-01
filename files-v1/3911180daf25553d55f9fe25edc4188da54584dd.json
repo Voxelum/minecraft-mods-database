@@ -1,6 +1,18 @@
 {
   "name": "gardens-of-the-dead-forge-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lg1TPRFm",
+      "versionId": "JpBadlfb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 683174,
+      "fileId": 5448982
+    }
+  ],
   "forge": [
     {
       "modId": "gardens_of_the_dead",

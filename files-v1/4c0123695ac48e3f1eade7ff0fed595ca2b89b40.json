@@ -1,6 +1,18 @@
 {
   "name": "skinlayers3d-fabric-1.6.5-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zV5r3pPn",
+      "versionId": "iDmr8BMN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521480,
+      "fileId": 5371960
+    }
+  ],
   "fabric": [
     {
       "modId": "skinlayers3d",

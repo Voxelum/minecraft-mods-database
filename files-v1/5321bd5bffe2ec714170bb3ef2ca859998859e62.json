@@ -1,6 +1,18 @@
 {
   "name": "RyoamicLights-forge-0.2.1+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "reCfnRvJ",
+      "versionId": "WRwefikH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 913587,
+      "fileId": 5168814
+    }
+  ],
   "forge": [
     {
       "modId": "ryoamiclights",

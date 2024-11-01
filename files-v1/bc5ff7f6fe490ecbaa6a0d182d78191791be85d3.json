@@ -1,6 +1,12 @@
 {
   "name": "ShyGuy-forge-1.19.2-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1000333,
+      "fileId": 5458402
+    }
+  ],
   "forge": [
     {
       "modId": "shy_guy",

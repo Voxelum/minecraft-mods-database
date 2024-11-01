@@ -1,6 +1,18 @@
 {
   "name": "smitherz-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "po8iVUhc",
+      "versionId": "5EEPnMB7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949359,
+      "fileId": 5233355
+    }
+  ],
   "fabric": [
     {
       "modId": "smitherz",

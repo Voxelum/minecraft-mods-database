@@ -1,6 +1,18 @@
 {
   "name": "AmbientSounds_FABRIC_v6.0.6_mc1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fM515JnW",
+      "versionId": "mhSfwerM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254284,
+      "fileId": 5670544
+    }
+  ],
   "fabric": [
     {
       "modId": "ambientsounds",

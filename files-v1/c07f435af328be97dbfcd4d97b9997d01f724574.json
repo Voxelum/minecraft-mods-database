@@ -1,6 +1,18 @@
 {
   "name": "netherportalfix-fabric-1.21-21.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nPZr02ET",
+      "versionId": "nSxqDibl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547696,
+      "fileId": 5472048
+    }
+  ],
   "fabric": [
     {
       "modId": "netherportalfix",

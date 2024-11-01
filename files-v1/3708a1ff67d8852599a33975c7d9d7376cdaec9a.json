@@ -1,6 +1,18 @@
 {
   "name": "nutritionz-1.0.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9IASI8W8",
+      "versionId": "O20LuFar"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 956695,
+      "fileId": 5805850
+    }
+  ],
   "fabric": [
     {
       "modId": "nutritionz",

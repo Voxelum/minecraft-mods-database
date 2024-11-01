@@ -1,0 +1,32 @@
+{
+  "name": "framework-fabric-1.20.1-0.7.11.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549225,
+      "fileId": 5811590
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "framework",
+      "version": "0.7.11"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.2-GA"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

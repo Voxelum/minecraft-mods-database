@@ -1,6 +1,18 @@
 {
   "name": "slabsandstairs-1.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WWL04tjR",
+      "versionId": "8k9apolu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645496,
+      "fileId": 5477314
+    }
+  ],
   "fabric": [
     {
       "modId": "slabsandstairs",

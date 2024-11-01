@@ -1,6 +1,18 @@
 {
   "name": "MyServerIsCompatible-1.16.5-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "13qq15Cg",
+      "versionId": "S4fzqd2d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 492574,
+      "fileId": 3449703
+    }
+  ],
   "forge": [
     {
       "modId": "myserveriscompatible",

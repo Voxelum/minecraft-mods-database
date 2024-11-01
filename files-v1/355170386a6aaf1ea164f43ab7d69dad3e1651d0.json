@@ -1,6 +1,12 @@
 {
   "name": "netherbound-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250359,
+      "fileId": 2520136
+    }
+  ],
   "forge": [
     {
       "modId": "hellbound",

@@ -1,0 +1,22 @@
+{
+  "name": "withering-heights-alpha-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NCPLOWlF",
+      "versionId": "prpDWC8S"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_withering_heights",
+      "version": "1-alpha-1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_withering_heights",
+      "version": "1-alpha-1"
+    }
+  ]
+}

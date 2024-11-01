@@ -1,6 +1,18 @@
 {
   "name": "tiered-1.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z6sMEexp",
+      "versionId": "GFUW7N2P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615948,
+      "fileId": 5233351
+    }
+  ],
   "fabric": [
     {
       "modId": "tiered",

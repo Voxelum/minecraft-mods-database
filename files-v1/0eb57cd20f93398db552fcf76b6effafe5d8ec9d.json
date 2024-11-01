@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hacodf0d",
+      "versionId": "xRAwdN4Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1075264,
+      "fileId": 5851689
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombifiedplayer",
+      "version": "0.9.3-1.21.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    }
+  ]
+}

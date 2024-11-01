@@ -1,6 +1,12 @@
 {
   "name": "veining-1.3.2-1.12.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 273605,
+      "fileId": 2578505
+    }
+  ],
   "forge": [
     {
       "modId": "veining",

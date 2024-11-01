@@ -1,0 +1,16 @@
+{
+  "name": "mineralchance-1.19.2-3.6.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mineralchance",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mineralchance",
+      "version": "3.6"
+    }
+  ]
+}

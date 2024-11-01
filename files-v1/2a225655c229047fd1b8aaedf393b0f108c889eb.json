@@ -1,0 +1,32 @@
+{
+  "name": "MapFrontiers-1.20.1-2.6.0p5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hWlsli6y",
+      "versionId": "FYFy0x3E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366783,
+      "fileId": 5675515
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.6.0p5"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.5-1.20.1"
+    }
+  ]
+}

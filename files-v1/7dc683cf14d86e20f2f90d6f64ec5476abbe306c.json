@@ -1,6 +1,18 @@
 {
   "name": "hearth_and_home-fabric-1.20.1-2.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ePCzRQkj",
+      "versionId": "wjCAzw7g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849364,
+      "fileId": 5310270
+    }
+  ],
   "fabric": [
     {
       "modId": "hearth_and_home",

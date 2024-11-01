@@ -1,6 +1,18 @@
 {
   "name": "[tp]teleportcraft-1.1.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7n166lIE",
+      "versionId": "lhtCc89c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952205,
+      "fileId": 5199209
+    }
+  ],
   "forge": [
     {
       "modId": "teleportcraft",

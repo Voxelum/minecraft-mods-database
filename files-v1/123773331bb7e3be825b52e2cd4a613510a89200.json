@@ -1,6 +1,18 @@
 {
   "name": "SeeThrowLava.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8Cq6k6jf",
+      "versionId": "rXxcLi4c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 460519,
+      "fileId": 4625805
+    }
+  ],
   "fabric": [
     {
       "modId": "seethroughlava",

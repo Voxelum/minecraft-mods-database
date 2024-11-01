@@ -1,0 +1,32 @@
+{
+  "name": "createoreexcavation-fabric-1.20-1.5.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ResbpANg",
+      "versionId": "pcVijNCT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 649832,
+      "fileId": 5695357
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createoreexcavation",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createoreexcavation",
+      "version": "1.5.3"
+    },
+    {
+      "modId": "chunk-storage-api-fabric",
+      "version": "1.0.4"
+    }
+  ]
+}

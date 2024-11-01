@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WWQxlQP",
+      "versionId": "4pWsnZyV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550579,
+      "fileId": 5834437
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servercore",
+      "version": "1.5.6+1.21.2"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    },
+    {
+      "modId": "space_arim_dazzleconf_dazzleconf-core",
+      "version": "1.3.0-M2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    },
+    {
+      "modId": "space_arim_dazzleconf_dazzleconf-ext-snakeyaml",
+      "version": "1.3.0-M2"
+    }
+  ]
+}

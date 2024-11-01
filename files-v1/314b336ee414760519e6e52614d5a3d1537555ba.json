@@ -1,6 +1,12 @@
 {
   "name": "half-doors-1.3.9+1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eUIcEaMw",
+      "versionId": "qryXUeow"
+    }
+  ],
   "fabric": [
     {
       "modId": "halfdoors",

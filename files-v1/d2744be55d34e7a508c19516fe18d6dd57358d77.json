@@ -1,6 +1,18 @@
 {
   "name": "burningfurnace-1.19.2-2.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OF8zp7bI",
+      "versionId": "zKKnZoTW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817943,
+      "fileId": 4930460
+    }
+  ],
   "forge": [
     {
       "modId": "burningfurnace",

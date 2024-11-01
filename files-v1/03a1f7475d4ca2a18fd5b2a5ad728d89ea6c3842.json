@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LYhFZWpP",
+      "versionId": "80VAylGn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967869,
+      "fileId": 5639064
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mob_drops_recipes_overworld",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mob_drops_recipes_overworld",
+      "version": "2.1.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "OwO-Games-0.1.8.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "owo-games",
+      "version": "0.1.8"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.11+1.21"
+    }
+  ]
+}

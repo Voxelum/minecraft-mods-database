@@ -1,6 +1,18 @@
 {
   "name": "Doppelganger_V6_1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JQmYQYXE",
+      "versionId": "JAuAyuB5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903515,
+      "fileId": 5475120
+    }
+  ],
   "forge": [
     {
       "modId": "doppelgangermod",

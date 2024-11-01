@@ -1,6 +1,18 @@
 {
   "name": "mystias_izakaya-forge-1.20.1-0.1.0-rc3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q8UNeaaW",
+      "versionId": "EGDpbQ35"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973711,
+      "fileId": 5739857
+    }
+  ],
   "forge": [
     {
       "modId": "mystias_izakaya",

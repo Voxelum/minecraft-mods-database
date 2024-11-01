@@ -1,6 +1,18 @@
 {
   "name": "memoryusagetitle-fabric-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YvaL4yx6",
+      "versionId": "M2FdQK5W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973764,
+      "fileId": 5101496
+    }
+  ],
   "fabric": [
     {
       "modId": "memoryusagetitle",

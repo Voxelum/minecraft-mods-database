@@ -1,6 +1,18 @@
 {
   "name": "packetfixer-fabric-1.4.1-1.21-to-1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7m1mi73",
+      "versionId": "4qX7Fy1t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689467,
+      "fileId": 5608960
+    }
+  ],
   "fabric": [
     {
       "modId": "packetfixer",

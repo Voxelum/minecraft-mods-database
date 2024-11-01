@@ -1,6 +1,18 @@
 {
   "name": "sprinklerz-0.5.1_fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x47uJ7Ay",
+      "versionId": "WAlOdbzJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 863479,
+      "fileId": 5157533
+    }
+  ],
   "fabric": [
     {
       "modId": "sprinklerz",

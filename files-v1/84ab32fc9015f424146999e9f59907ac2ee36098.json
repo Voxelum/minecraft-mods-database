@@ -1,6 +1,12 @@
 {
   "name": "nowheel-1.2.2+mc1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNhuDBbS",
+      "versionId": "sZ0SCW6g"
+    }
+  ],
   "fabric": [
     {
       "modId": "nowheel",

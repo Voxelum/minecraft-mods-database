@@ -1,6 +1,18 @@
 {
   "name": "JERI-1.12.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q4X4h5Qc",
+      "versionId": "tHlEPehc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636651,
+      "fileId": 4561935
+    }
+  ],
   "forge": [
     {
       "modId": "jeri",

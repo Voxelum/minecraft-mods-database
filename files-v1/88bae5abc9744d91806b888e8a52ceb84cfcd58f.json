@@ -1,6 +1,18 @@
 {
   "name": "JadeAddons-1.18.2-forge-2.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xuDOzCLy",
+      "versionId": "49np0ZEH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 583345,
+      "fileId": 4085908
+    }
+  ],
   "forge": [
     {
       "modId": "jadeaddons",

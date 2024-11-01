@@ -1,6 +1,12 @@
 {
   "name": "trenzalore-fabric-3.3.10+mc1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 870210,
+      "fileId": 4848243
+    }
+  ],
   "fabric": [
     {
       "modId": "trenzalore",

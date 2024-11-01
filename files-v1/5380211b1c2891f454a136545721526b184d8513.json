@@ -1,6 +1,12 @@
 {
   "name": "probejs-6.0.1-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585406,
+      "fileId": 5227399
+    }
+  ],
   "forge": [
     {
       "modId": "probejs",

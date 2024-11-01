@@ -1,6 +1,18 @@
 {
   "name": "Botania-1.19.2-437-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pfjLUfGv",
+      "versionId": "PxWspyO7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421839,
+      "fileId": 4371118
+    }
+  ],
   "fabric": [
     {
       "modId": "botania",

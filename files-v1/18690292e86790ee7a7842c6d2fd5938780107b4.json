@@ -1,6 +1,12 @@
 {
   "name": "tombstone-7.5.8-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 243707,
+      "fileId": 4101860
+    }
+  ],
   "forge": [
     {
       "modId": "tombstone",

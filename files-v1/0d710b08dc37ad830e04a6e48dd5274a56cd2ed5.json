@@ -1,6 +1,18 @@
 {
   "name": "fallingtrees-1.19.2+0.4.3-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i2kUe4lq",
+      "versionId": "YbcZPHxp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880630,
+      "fileId": 4626243
+    }
+  ],
   "fabric": [
     {
       "modId": "fallingtrees",

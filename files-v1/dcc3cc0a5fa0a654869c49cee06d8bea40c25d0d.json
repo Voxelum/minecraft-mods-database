@@ -1,0 +1,16 @@
+{
+  "name": "dungeons+-1.9.0b.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_dungeons",
+      "version": "1.9.0b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dungeons",
+      "version": "1.9.0b"
+    }
+  ]
+}

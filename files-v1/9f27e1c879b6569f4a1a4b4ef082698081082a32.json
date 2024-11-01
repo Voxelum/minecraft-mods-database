@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZYgyPyfq",
+      "versionId": "aVsikHca"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 590993,
+      "fileId": 5812547
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yungsextras",
+      "version": "1.21.1-Fabric-5.1.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

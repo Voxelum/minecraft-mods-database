@@ -1,0 +1,28 @@
+{
+  "name": "turtlematic-fabric-1.20.1-1.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UogK5QqE",
+      "versionId": "tbbVplTH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618288,
+      "fileId": 5647719
+    }
+  ],
+  "forge": [
+    {
+      "modId": "turtlematic",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "turtlematic",
+      "version": "1.3.1"
+    }
+  ]
+}

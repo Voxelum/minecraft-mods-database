@@ -1,10 +1,16 @@
 {
   "name": "lionfishapi-2.0.jar",
-  "domain": "unclassified",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "FoVacERa",
       "versionId": "1JfpywQ1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1001614,
+      "fileId": 5439841
     }
   ]
 }

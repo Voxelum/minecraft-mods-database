@@ -1,6 +1,18 @@
 {
   "name": "Delightful-1.20.1-3.5.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JtSnhtNJ",
+      "versionId": "1mJHBnkb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637529,
+      "fileId": 5541446
+    }
+  ],
   "forge": [
     {
       "modId": "delightful",

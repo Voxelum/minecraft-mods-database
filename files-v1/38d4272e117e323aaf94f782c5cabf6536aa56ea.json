@@ -1,6 +1,18 @@
 {
   "name": "Philips-Ruins1.19.2-8.8[Fabric].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KdJhOYVV",
+      "versionId": "Ue13PHl7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 569737,
+      "fileId": 5187476
+    }
+  ],
   "fabric": [
     {
       "modId": "philipsruins",

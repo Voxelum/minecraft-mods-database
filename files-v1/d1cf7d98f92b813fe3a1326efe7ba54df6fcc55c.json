@@ -1,6 +1,12 @@
 {
   "name": "pv-addon-sculk-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7dI2zrDy",
+      "versionId": "4cbt9v7v"
+    }
+  ],
   "forge": [
     {
       "modId": "pv_addon_sculk",

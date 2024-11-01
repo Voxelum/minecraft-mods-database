@@ -1,6 +1,12 @@
 {
   "name": "enderchests-forge-1.18.2-1.9.11.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 363535,
+      "fileId": 4623809
+    }
+  ],
   "forge": [
     {
       "modId": "enderchests",

@@ -1,6 +1,18 @@
 {
   "name": "jobsaddon-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "whv2X0ei",
+      "versionId": "oMQ0V1Rv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682362,
+      "fileId": 4661533
+    }
+  ],
   "fabric": [
     {
       "modId": "jobsaddon",

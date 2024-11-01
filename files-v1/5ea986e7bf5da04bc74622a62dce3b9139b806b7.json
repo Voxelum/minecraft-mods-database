@@ -1,6 +1,12 @@
 {
   "name": "biomestats-v1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nS8doqFx",
+      "versionId": "cIfX1HYK"
+    }
+  ],
   "forge": [
     {
       "modId": "biomestats",

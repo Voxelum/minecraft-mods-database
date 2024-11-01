@@ -1,6 +1,18 @@
 {
   "name": "iceologer-1-18-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MxdFarQZ",
+      "versionId": "xr2jXaZL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577170,
+      "fileId": 3639647
+    }
+  ],
   "forge": [
     {
       "modId": "iceologer",

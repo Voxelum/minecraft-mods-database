@@ -1,6 +1,18 @@
 {
   "name": "extraspellattributes-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oskghcoj",
+      "versionId": "6BPNtEvg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 941480,
+      "fileId": 5303198
+    }
+  ],
   "fabric": [
     {
       "modId": "extraspellattributes",

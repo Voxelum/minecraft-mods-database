@@ -1,6 +1,18 @@
 {
   "name": "MagicMirror-1.12.2-0.1.1.427.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I6a5IY5k",
+      "versionId": "1Y4oqZ3M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 323750,
+      "fileId": 3050303
+    }
+  ],
   "forge": [
     {
       "modId": "magic_mirror",

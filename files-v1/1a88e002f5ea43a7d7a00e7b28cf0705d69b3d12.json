@@ -1,6 +1,18 @@
 {
   "name": "Neat-1.8-31-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ins7SzzR",
+      "versionId": "WDD8kQ7l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639987,
+      "fileId": 3859678
+    }
+  ],
   "fabric": [
     {
       "modId": "neat",

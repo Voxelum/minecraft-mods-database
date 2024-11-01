@@ -1,6 +1,12 @@
 {
   "name": "tempad-forge-1.20.1-2.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 514923,
+      "fileId": 4923337
+    }
+  ],
   "forge": [
     {
       "modId": "tempad",

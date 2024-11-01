@@ -1,6 +1,18 @@
 {
   "name": "mcw-furniture-3.3.0-mc1.19.2forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dtWC90iB",
+      "versionId": "2VZzm5xO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 359540,
+      "fileId": 5589868
+    }
+  ],
   "forge": [
     {
       "modId": "mcwfurnitures",

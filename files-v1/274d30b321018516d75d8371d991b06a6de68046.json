@@ -1,6 +1,18 @@
 {
   "name": "Iceberg-1.21-fabric-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5faXoLqX",
+      "versionId": "cuqTedJZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 539382,
+      "fileId": 5625101
+    }
+  ],
   "fabric": [
     {
       "modId": "iceberg",

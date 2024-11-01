@@ -1,6 +1,12 @@
 {
   "name": "chunksending-fabric-1.21-2.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 831663,
+      "fileId": 5540775
+    }
+  ],
   "fabric": [
     {
       "modId": "chunksending",

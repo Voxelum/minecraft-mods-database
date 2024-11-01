@@ -1,6 +1,18 @@
 {
   "name": "spartantoolkit-1.20.1-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7R2BqYPs",
+      "versionId": "8B6WKhQP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051658,
+      "fileId": 5567139
+    }
+  ],
   "forge": [
     {
       "modId": "spartantoolkit",

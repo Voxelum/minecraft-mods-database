@@ -1,6 +1,18 @@
 {
   "name": "screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "laNoi025",
+      "versionId": "GE608lKF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693961,
+      "fileId": 5343674
+    }
+  ],
   "forge": [
     {
       "modId": "screenshot_viewer",

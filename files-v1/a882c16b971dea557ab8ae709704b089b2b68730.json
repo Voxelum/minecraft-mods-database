@@ -1,0 +1,30 @@
+{
+  "name": "liberty-villagers-mod-1.0.15+fabric+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "264clomZ",
+      "versionId": "bxr8NNbQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 700485,
+      "fileId": 5447538
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libertyvillagers",
+      "version": "1.0.15+fabric+1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

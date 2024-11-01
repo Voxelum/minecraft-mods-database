@@ -1,6 +1,18 @@
 {
   "name": "fishermens_trap-2.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ltRggnDx",
+      "versionId": "4RTVyuPY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 883029,
+      "fileId": 4912131
+    }
+  ],
   "forge": [
     {
       "modId": "fishermens_trap",

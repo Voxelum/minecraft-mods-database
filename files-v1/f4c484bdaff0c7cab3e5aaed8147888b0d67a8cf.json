@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charmonium",
+      "version": "6.0.7"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "charmony_api",
+      "version": "6.7.0"
+    },
+    {
+      "modId": "charmony",
+      "version": "6.12.0"
+    }
+  ]
+}

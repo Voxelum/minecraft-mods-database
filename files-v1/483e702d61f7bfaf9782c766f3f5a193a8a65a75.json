@@ -1,0 +1,16 @@
+{
+  "name": "[地形]Stellarity-v2-0e.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_stellarity",
+      "version": "2.0d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_stellarity",
+      "version": "2.0e"
+    }
+  ]
+}

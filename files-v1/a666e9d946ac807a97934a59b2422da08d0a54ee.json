@@ -1,6 +1,18 @@
 {
   "name": "AmbientEnvironment-fabric-1.21.1-18.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DyTvM1dv",
+      "versionId": "3x80I683"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320163,
+      "fileId": 5623652
+    }
+  ],
   "fabric": [
     {
       "modId": "ambientenvironment",

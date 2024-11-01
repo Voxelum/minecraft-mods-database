@@ -1,6 +1,18 @@
 {
   "name": "FriendlyFire-1.16.5-7.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FTaA4pRW",
+      "versionId": "jf1J8O2K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255105,
+      "fileId": 3732293
+    }
+  ],
   "forge": [
     {
       "modId": "friendlyfire",

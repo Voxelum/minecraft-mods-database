@@ -1,6 +1,18 @@
 {
   "name": "blabber-1.6.1-mc1.20.1-standalone.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2oRMVFgd",
+      "versionId": "RP6h0A5E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565396,
+      "fileId": 5451385
+    }
+  ],
   "fabric": [
     {
       "modId": "blabber",

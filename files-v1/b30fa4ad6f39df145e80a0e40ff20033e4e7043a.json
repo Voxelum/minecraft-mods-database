@@ -1,6 +1,12 @@
 {
   "name": "haema-1.9.9+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x1oI70UX",
+      "versionId": "3JND7fMC"
+    }
+  ],
   "fabric": [
     {
       "modId": "haema",

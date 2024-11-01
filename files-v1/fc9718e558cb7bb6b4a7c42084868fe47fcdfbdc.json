@@ -1,6 +1,12 @@
 {
   "name": "coppergolem-1.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fvd7vyoL",
+      "versionId": "kp7jb5KD"
+    }
+  ],
   "fabric": [
     {
       "modId": "copper_golem",

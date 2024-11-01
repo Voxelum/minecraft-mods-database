@@ -1,6 +1,18 @@
 {
   "name": "horsestatsmod-MC1.16.x-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RnxjxXAI",
+      "versionId": "LQfKGXDG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409126,
+      "fileId": 3308313
+    }
+  ],
   "forge": [
     {
       "modId": "horsestatsmod",

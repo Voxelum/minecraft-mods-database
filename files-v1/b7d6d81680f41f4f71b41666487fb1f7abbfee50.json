@@ -1,6 +1,18 @@
 {
   "name": "restrictedportals-1.18.2-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kGd0Bwtw",
+      "versionId": "gYF6E091"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 228266,
+      "fileId": 3680528
+    }
+  ],
   "forge": [
     {
       "modId": "restrictedportals",

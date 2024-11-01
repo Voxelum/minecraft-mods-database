@@ -1,6 +1,18 @@
 {
   "name": "create_ltab_forge-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fUa6OtBG",
+      "versionId": "sudwpFD8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007872,
+      "fileId": 5431031
+    }
+  ],
   "forge": [
     {
       "modId": "create_ltab_f",

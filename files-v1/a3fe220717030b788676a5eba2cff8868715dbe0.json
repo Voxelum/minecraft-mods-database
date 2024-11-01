@@ -1,6 +1,18 @@
 {
   "name": "starterkit_1.16.5-3.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "WSYtNOZ7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 4074138
+    }
+  ],
   "forge": [
     {
       "modId": "starterkit",

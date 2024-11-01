@@ -1,6 +1,12 @@
 {
   "name": "tesseract-1.0.24-mc1.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 379232,
+      "fileId": 3514536
+    }
+  ],
   "forge": [
     {
       "modId": "tesseract",

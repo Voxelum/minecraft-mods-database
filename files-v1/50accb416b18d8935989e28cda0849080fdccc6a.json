@@ -1,6 +1,18 @@
 {
   "name": "GalaxySpace-1.12.2-2.0.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "76JhFPpa",
+      "versionId": "WeM2rRPI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238770,
+      "fileId": 3873609
+    }
+  ],
   "forge": [
     {
       "modId": "galaxyspace",

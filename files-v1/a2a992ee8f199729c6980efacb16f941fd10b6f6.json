@@ -1,0 +1,28 @@
+{
+  "name": "mcpitanlib-2.5.2-1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNRoUnGT",
+      "versionId": "nFOuE7Q0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcpitanlib",
+      "version": "2.5.2-1.21-fabric"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "compatdatapacks76",
+      "version": "1.0.10.210-fabric"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    }
+  ]
+}

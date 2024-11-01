@@ -1,6 +1,18 @@
 {
   "name": "Stony Cliffs for Lithostitched v1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "boFjx9eY",
+      "versionId": "m2RpZi3X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 939211,
+      "fileId": 5502930
+    }
+  ],
   "forge": [
     {
       "modId": "stonycliffs",

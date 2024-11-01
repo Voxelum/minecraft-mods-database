@@ -1,0 +1,34 @@
+{
+  "name": "golemsgalore-1.0.3-1.17.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4N322TJL",
+      "versionId": "Ben0KStd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 387197,
+      "fileId": 3452515
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "golemsgalore",
+      "version": "1.0.3-1.17.1"
+    },
+    {
+      "modId": "structurized",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "myron",
+      "version": "1.6.1"
+    }
+  ]
+}

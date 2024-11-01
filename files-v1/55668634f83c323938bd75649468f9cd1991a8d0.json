@@ -1,6 +1,12 @@
 {
   "name": "elytra_recipe_vanilla_edition-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q2Zfl4Oo",
+      "versionId": "dzdyeGaE"
+    }
+  ],
   "fabric": [
     {
       "modId": "elytra_vanilla",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "state-output",
+      "version": "1.2.0+1.16-1.18.1"
+    },
+    {
+      "modId": "state-output-common",
+      "version": "1.2.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cultural-delights-fabric-1.0.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Gy8sTXS",
+      "versionId": "VmsNBbCQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 807107,
+      "fileId": 5510598
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "culturaldelights",
+      "version": "1.0.5+1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "extendedslabs-1.16.5-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "otEsKKsE",
+      "versionId": "LpNrTSqh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 374492,
+      "fileId": 3827094
+    }
+  ],
   "forge": [
     {
       "modId": "extendedslabs",

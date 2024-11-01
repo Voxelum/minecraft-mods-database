@@ -1,6 +1,18 @@
 {
   "name": "gunswithoutroses-1.19-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jrSCjxKy",
+      "versionId": "3LTKqzfc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405077,
+      "fileId": 3901788
+    }
+  ],
   "forge": [
     {
       "modId": "gunswithoutroses",

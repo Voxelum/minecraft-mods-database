@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fWundlde",
+      "versionId": "WiXyVqM9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 719833,
+      "fileId": 5295003
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "motionblur",
+      "version": "1.0.5+mc1.16.x"
+    },
+    {
+      "modId": "satin",
+      "version": "1.5.1"
+    }
+  ]
+}

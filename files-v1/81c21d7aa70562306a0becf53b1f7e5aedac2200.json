@@ -1,6 +1,18 @@
 {
   "name": "forgery-3.3.12+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B3Eg0WhA",
+      "versionId": "ru83G6Wp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 434087,
+      "fileId": 4756024
+    }
+  ],
   "forge": [
     {
       "modId": "fabrication",

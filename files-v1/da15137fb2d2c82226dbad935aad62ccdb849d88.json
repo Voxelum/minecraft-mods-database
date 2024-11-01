@@ -1,6 +1,18 @@
 {
   "name": "archeologyplus-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xJ3jwmS6",
+      "versionId": "WyxGzaQ6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870762,
+      "fileId": 4701706
+    }
+  ],
   "fabric": [
     {
       "modId": "archeologyplus",

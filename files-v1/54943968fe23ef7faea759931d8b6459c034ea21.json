@@ -1,6 +1,12 @@
 {
   "name": "muffins-slimegolem-1.20.1-1.1.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 707734,
+      "fileId": 4668658
+    }
+  ],
   "fabric": [
     {
       "modId": "muffins_slimegolem",

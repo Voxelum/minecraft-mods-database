@@ -1,6 +1,18 @@
 {
   "name": "MoreCraftingTables.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tJGIwFnx",
+      "versionId": "SBwG4Fmh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417365,
+      "fileId": 4786212
+    }
+  ],
   "forge": [
     {
       "modId": "mctb",

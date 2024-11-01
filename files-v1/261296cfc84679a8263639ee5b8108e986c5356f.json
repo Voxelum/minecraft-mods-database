@@ -1,6 +1,18 @@
 {
   "name": "handcrafted-fabric-1.21-4.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pJmCFF0p",
+      "versionId": "f7tGbQaE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538214,
+      "fileId": 5436877
+    }
+  ],
   "fabric": [
     {
       "modId": "handcrafted",

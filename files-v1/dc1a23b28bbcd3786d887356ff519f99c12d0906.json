@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "Bg19XPU7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303119,
+      "fileId": 3671369
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.11.8"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.11+3ac43d95c8"
+    }
+  ]
+}

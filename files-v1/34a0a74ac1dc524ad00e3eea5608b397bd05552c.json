@@ -1,6 +1,18 @@
 {
   "name": "clayworks-1.20.1-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1iicrEO3",
+      "versionId": "aoLZaKRo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 592162,
+      "fileId": 5302012
+    }
+  ],
   "forge": [
     {
       "modId": "clayworks",

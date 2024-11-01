@@ -1,0 +1,28 @@
+{
+  "name": "garnished-botany-pots-fabric-2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZbtYAhun",
+      "versionId": "P8Kc8xid"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1048431,
+      "fileId": 5485383
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_garnished_botanypots",
+      "version": "2.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_garnished_botanypots",
+      "version": "2.2.0"
+    }
+  ]
+}

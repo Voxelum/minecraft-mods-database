@@ -1,0 +1,28 @@
+{
+  "name": "guiclock-1.21.3-4.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g1yXisD2",
+      "versionId": "UhZzRDQO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347529,
+      "fileId": 5847307
+    }
+  ],
+  "forge": [
+    {
+      "modId": "guiclock",
+      "version": "4.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guiclock",
+      "version": "4.6"
+    }
+  ]
+}

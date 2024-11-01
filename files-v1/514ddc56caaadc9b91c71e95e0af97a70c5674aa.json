@@ -1,6 +1,18 @@
 {
   "name": "fast-ip-ping-mc1.20.4-fabric-v1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9mtu0sUO",
+      "versionId": "VaaDd7I7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904356,
+      "fileId": 5454477
+    }
+  ],
   "fabric": [
     {
       "modId": "fastipping",

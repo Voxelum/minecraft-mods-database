@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 693313,
+      "fileId": 5691272
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "corgilib",
+      "version": "5.0.0.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.0"
+    }
+  ]
+}

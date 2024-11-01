@@ -1,6 +1,12 @@
 {
   "name": "NetherCoords v2.0.1 for 1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KHwGUCPn",
+      "versionId": "LxBreF5A"
+    }
+  ],
   "fabric": [
     {
       "modId": "nether-coords",

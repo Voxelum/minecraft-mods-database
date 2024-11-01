@@ -1,6 +1,18 @@
 {
   "name": "instantgroup-fabric-1.19.2-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1LE7mid6",
+      "versionId": "uDCbm52C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 843309,
+      "fileId": 5062681
+    }
+  ],
   "fabric": [
     {
       "modId": "enhancedgroups",

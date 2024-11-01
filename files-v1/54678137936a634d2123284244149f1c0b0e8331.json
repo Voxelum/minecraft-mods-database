@@ -1,0 +1,28 @@
+{
+  "name": "wooltweaks-1.21.3-3.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lqQsKUma",
+      "versionId": "7AKqL83S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414111,
+      "fileId": 5847033
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wooltweaks",
+      "version": "3.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wooltweaks",
+      "version": "3.8"
+    }
+  ]
+}

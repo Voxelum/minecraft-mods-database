@@ -1,6 +1,18 @@
 {
   "name": "stackrefill-1.21.1-4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mQWkB9ON",
+      "versionId": "XkihrYZR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411813,
+      "fileId": 5609428
+    }
+  ],
   "forge": [
     {
       "modId": "stackrefill",

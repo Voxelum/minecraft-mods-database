@@ -1,6 +1,18 @@
 {
   "name": "smoothgui-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j6yrZogB",
+      "versionId": "7RfTDw3d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 956789,
+      "fileId": 5501788
+    }
+  ],
   "fabric": [
     {
       "modId": "smoothgui",

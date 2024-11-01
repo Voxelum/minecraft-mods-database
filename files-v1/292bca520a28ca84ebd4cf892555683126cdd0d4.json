@@ -1,6 +1,18 @@
 {
   "name": "Nimble-1.20.1-forge-5.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q5UvqqQd",
+      "versionId": "SjlMVAhq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 311927,
+      "fileId": 4914721
+    }
+  ],
   "forge": [
     {
       "modId": "nimble",

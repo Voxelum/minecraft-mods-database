@@ -1,6 +1,18 @@
 {
   "name": "RPGOrigins-1.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2x88uc2n",
+      "versionId": "9Y7wlA5F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 638230,
+      "fileId": 5606573
+    }
+  ],
   "fabric": [
     {
       "modId": "rpg_origins",

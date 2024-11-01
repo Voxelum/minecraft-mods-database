@@ -1,6 +1,18 @@
 {
   "name": "bottleyourxp_1.16.5-1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bG2afBot",
+      "versionId": "lClUFgCI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344020,
+      "fileId": 3379879
+    }
+  ],
   "forge": [
     {
       "modId": "bottleyourxp",

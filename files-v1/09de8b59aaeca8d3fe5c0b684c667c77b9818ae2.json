@@ -1,6 +1,18 @@
 {
   "name": "create_dd-0.1d.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JmybsfWs",
+      "versionId": "Knv9sBsR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864781,
+      "fileId": 5303207
+    }
+  ],
   "forge": [
     {
       "modId": "create_dd",

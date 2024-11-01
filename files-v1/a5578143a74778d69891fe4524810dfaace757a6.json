@@ -1,6 +1,18 @@
 {
   "name": "goety-2.5.15.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZVIxU8x",
+      "versionId": "EihVWwDW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 586095,
+      "fileId": 5339687
+    }
+  ],
   "forge": [
     {
       "modId": "goety",

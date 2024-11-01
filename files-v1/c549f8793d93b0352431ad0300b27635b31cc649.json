@@ -1,6 +1,18 @@
 {
   "name": "autooredictconv-1.16.4-16.1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lTs2oNkY",
+      "versionId": "h2sHq94M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232650,
+      "fileId": 3285544
+    }
+  ],
   "forge": [
     {
       "modId": "autooredictconv",

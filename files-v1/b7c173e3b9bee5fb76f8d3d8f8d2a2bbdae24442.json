@@ -1,6 +1,18 @@
 {
   "name": "calcmod-1.3.2+fabric.1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XoHTb2Ap",
+      "versionId": "LE8aEZ5E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 655772,
+      "fileId": 5642234
+    }
+  ],
   "fabric": [
     {
       "modId": "calcmod",

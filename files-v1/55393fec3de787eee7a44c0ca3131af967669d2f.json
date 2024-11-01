@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "createbigcannons",
+      "version": "1.3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createbigcannons",
+      "version": "0.5.4-nightly-ffa2fd3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "ritchiesprojectilelib",
+      "version": "1.0.0-40ef15b+1.19.2-fabric"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "fallingtrees-0.11-fabric-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i2kUe4lq",
+      "versionId": "jnzhGop5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880630,
+      "fileId": 5228070
+    }
+  ],
   "fabric": [
     {
       "modId": "fallingtrees",

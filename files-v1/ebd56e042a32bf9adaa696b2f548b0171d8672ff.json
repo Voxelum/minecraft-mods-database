@@ -1,6 +1,18 @@
 {
   "name": "delightfulsandwich-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wmyqU46J",
+      "versionId": "HlzAnItm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007358,
+      "fileId": 5332597
+    }
+  ],
   "forge": [
     {
       "modId": "delightfulsandwich",

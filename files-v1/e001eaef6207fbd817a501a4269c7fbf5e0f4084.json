@@ -1,6 +1,18 @@
 {
   "name": "suggestion-tweaker-1.20-1.5.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBLj38R0",
+      "versionId": "3K6uPj89"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615242,
+      "fileId": 5341749
+    }
+  ],
   "fabric": [
     {
       "modId": "suggestion_tweaker",

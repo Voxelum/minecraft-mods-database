@@ -1,0 +1,28 @@
+{
+  "name": "projecttable-1.0.3-build.100+mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LR7LllQ1",
+      "versionId": "PAGvCqnG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901863,
+      "fileId": 4863010
+    }
+  ],
+  "forge": [
+    {
+      "modId": "projecttable",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "projecttable",
+      "version": "1.0.3"
+    }
+  ]
+}

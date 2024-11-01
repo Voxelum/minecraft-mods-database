@@ -1,6 +1,18 @@
 {
   "name": "MatterOverdrive-1.12.2-0.8.1-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xNn9ASDj",
+      "versionId": "cMbwOvwu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 557428,
+      "fileId": 3865045
+    }
+  ],
   "forge": [
     {
       "modId": "matteroverdrive",

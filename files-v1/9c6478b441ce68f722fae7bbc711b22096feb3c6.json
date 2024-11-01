@@ -1,6 +1,12 @@
 {
   "name": "MESA-1.7.10-R2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 227434,
+      "fileId": 2225934
+    }
+  ],
   "forge": [
     {
       "modId": "mesa",

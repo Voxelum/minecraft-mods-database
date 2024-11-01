@@ -1,6 +1,18 @@
 {
   "name": "horse-stonks-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vj70oKlA",
+      "versionId": "XBg4RmNj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 497378,
+      "fileId": 3781155
+    }
+  ],
   "fabric": [
     {
       "modId": "horsestonks",

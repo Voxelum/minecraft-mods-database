@@ -1,0 +1,30 @@
+{
+  "name": "moreculling-fabric-1.21.2-1.1.0-beta.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "MCl5VK6v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630104,
+      "fileId": 5834532
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "1.1.0-beta.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "sereneseasonfix-1.19.2-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1LtXIG7a",
+      "versionId": "6mT3YQwo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 650658,
+      "fileId": 4582207
+    }
+  ],
   "forge": [
     {
       "modId": "sereneseasonfix",

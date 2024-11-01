@@ -1,6 +1,18 @@
 {
   "name": "FoodTweaker-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EVaPMugz",
+      "versionId": "I28Dqy3x"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 330425,
+      "fileId": 3161433
+    }
+  ],
   "forge": [
     {
       "modId": "foodtweaker",

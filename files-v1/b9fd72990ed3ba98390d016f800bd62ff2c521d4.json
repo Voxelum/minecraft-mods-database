@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fancymenu",
+      "version": "3.2.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_keksuccino_japng",
+      "version": "0.5.3"
+    },
+    {
+      "modId": "com_github_rtyley_animated-gif-lib-for-java",
+      "version": "animated-gif-lib-1.7"
+    }
+  ]
+}

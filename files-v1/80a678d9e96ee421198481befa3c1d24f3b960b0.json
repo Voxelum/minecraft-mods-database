@@ -1,6 +1,18 @@
 {
   "name": "horseshoes-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tyg1IZwj",
+      "versionId": "2C5267EF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 986033,
+      "fileId": 5485977
+    }
+  ],
   "fabric": [
     {
       "modId": "horseshoes",

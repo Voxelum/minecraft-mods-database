@@ -1,6 +1,18 @@
 {
   "name": "FeyTweaks-1.21-1.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wa72oW2W",
+      "versionId": "XAG8m7Hj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663213,
+      "fileId": 5448034
+    }
+  ],
   "fabric": [
     {
       "modId": "feytweaks",

@@ -1,6 +1,18 @@
 {
   "name": "scorpions-forge-1.20.1-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlNrHm2H",
+      "versionId": "whp7I5lW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577807,
+      "fileId": 4626311
+    }
+  ],
   "forge": [
     {
       "modId": "scorpions",

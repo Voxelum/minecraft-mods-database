@@ -1,6 +1,12 @@
 {
   "name": "fastminecart-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BHUz7jn9",
+      "versionId": "RzOXOFQw"
+    }
+  ],
   "fabric": [
     {
       "modId": "fastminecart",

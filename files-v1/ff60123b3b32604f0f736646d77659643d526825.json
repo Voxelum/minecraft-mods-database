@@ -1,6 +1,12 @@
 {
   "name": "ReBalance-FORGE-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 940586,
+      "fileId": 4883172
+    }
+  ],
   "fabric": [
     {
       "modId": "rebalance",

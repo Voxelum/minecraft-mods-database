@@ -1,6 +1,12 @@
 {
   "name": "pipez-forge-1.19.2-1.2.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 443900,
+      "fileId": 4971143
+    }
+  ],
   "forge": [
     {
       "modId": "pipez",

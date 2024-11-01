@@ -1,6 +1,18 @@
 {
   "name": "spellbladenext-1.13.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VJkx9nDN",
+      "versionId": "BiDPneRT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 811662,
+      "fileId": 5282297
+    }
+  ],
   "fabric": [
     {
       "modId": "spellbladenext",

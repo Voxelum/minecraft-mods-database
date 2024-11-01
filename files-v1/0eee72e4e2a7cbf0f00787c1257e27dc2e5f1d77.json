@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AK1n0IqM",
+      "versionId": "dBe3V671"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "4.5+1.20.4backport"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "4.5+1.20.4backport"
+    }
+  ]
+}

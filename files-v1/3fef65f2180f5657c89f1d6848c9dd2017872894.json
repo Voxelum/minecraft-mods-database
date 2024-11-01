@@ -1,6 +1,12 @@
 {
   "name": "bbb-1.20.1-forge-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OSDpLd82",
+      "versionId": "zGMhmLYb"
+    }
+  ],
   "forge": [
     {
       "modId": "bbb",

@@ -1,6 +1,18 @@
 {
   "name": "MCDoom-Fabric-1.19.2-5.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mfo4FiDF",
+      "versionId": "vDMUWG3U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368765,
+      "fileId": 4715004
+    }
+  ],
   "fabric": [
     {
       "modId": "doom",

@@ -1,0 +1,30 @@
+{
+  "name": "Death_Knights-0.4.2beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2EQER1gD",
+      "versionId": "BMgreCib"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968119,
+      "fileId": 5817591
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "death_knights",
+      "version": "0.4.2beta"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.5"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

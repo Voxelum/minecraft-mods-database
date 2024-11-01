@@ -1,6 +1,18 @@
 {
   "name": "EasierSleeping-1.18.2-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yTTpfxdS",
+      "versionId": "u0Uam6wS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388364,
+      "fileId": 3683922
+    }
+  ],
   "forge": [
     {
       "modId": "easier_sleeping",

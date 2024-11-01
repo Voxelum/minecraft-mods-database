@@ -1,0 +1,32 @@
+{
+  "name": "aaron-mod-1.4.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "axe0DxiW",
+      "versionId": "48TEjS2J"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aaron-mod",
+      "version": "1.4.1+1.21.1"
+    },
+    {
+      "modId": "hm-api",
+      "version": "1.0.1+1.21.1"
+    },
+    {
+      "modId": "net_azureaaron_networth-calculator",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "net_azureaaron_legacy-item-dfu",
+      "version": "1.0.0+1.21.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

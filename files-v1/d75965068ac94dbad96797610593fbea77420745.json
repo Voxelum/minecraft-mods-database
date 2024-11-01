@@ -1,6 +1,18 @@
 {
   "name": "JustEnoughMekanismMultiblocks-1.20.1-4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kRaE85yQ",
+      "versionId": "ZECMfgyR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 898746,
+      "fileId": 5634749
+    }
+  ],
   "forge": [
     {
       "modId": "jei_mekanism_multiblocks",

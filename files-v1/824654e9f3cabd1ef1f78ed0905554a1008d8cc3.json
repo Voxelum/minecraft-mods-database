@@ -1,6 +1,18 @@
 {
   "name": "extendedcreativeinventory-1.18.2-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BGhINW6Q",
+      "versionId": "WkyIxAIS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411224,
+      "fileId": 4397638
+    }
+  ],
   "forge": [
     {
       "modId": "extendedcreativeinventory",

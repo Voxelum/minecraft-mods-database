@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w7ThoJFB",
+      "versionId": "R3KFePo9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "2.14.2+1.20.6"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.5.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "particle_core-0.2.5-1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RSeLon5O",
+      "versionId": "2pgXWmty"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 985426,
+      "fileId": 5729965
+    }
+  ],
   "forge": [
     {
       "modId": "particle_core",

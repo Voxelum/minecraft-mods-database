@@ -1,6 +1,12 @@
 {
   "name": "spider-caves-forge-20.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 943943,
+      "fileId": 5061071
+    }
+  ],
   "forge": [
     {
       "modId": "spider_caves",

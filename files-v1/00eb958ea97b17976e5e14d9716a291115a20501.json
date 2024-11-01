@@ -1,6 +1,12 @@
 {
   "name": "voxelmap-1.21-1.13.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wkzK5379",
+      "versionId": "QZuVdvFR"
+    }
+  ],
   "fabric": [
     {
       "modId": "voxelmap",

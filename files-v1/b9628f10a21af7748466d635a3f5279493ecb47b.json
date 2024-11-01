@@ -1,6 +1,18 @@
 {
   "name": "HammerCore-1.10.2-1.9.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PlkSuVtM",
+      "versionId": "yxeyo53c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247401,
+      "fileId": 2463951
+    }
+  ],
   "forge": [
     {
       "modId": "hammercore",

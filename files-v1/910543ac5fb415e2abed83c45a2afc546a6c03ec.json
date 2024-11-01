@@ -1,6 +1,12 @@
 {
   "name": "LimitMobSpawn-16.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 449932,
+      "fileId": 3346508
+    }
+  ],
   "forge": [
     {
       "modId": "limit-mob-spawn",

@@ -1,6 +1,18 @@
 {
   "name": "CraftPresence-2.0.0-rc.2+1.7.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFqQfIBR",
+      "versionId": "CuHzf3Oc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297038,
+      "fileId": 4483532
+    }
+  ],
   "forge": [
     {
       "modId": "craftpresence",

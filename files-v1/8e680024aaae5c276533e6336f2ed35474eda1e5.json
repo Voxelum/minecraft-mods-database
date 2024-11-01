@@ -1,6 +1,18 @@
 {
   "name": "shearcorals-1.20-1.20.1-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRPtUkPk",
+      "versionId": "USMBBud2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 956386,
+      "fileId": 4996771
+    }
+  ],
   "forge": [
     {
       "modId": "coralmod",

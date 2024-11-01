@@ -1,0 +1,20 @@
+{
+  "name": "EmeraldTools-Fabric-1.20.1-1.6.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 375954,
+      "fileId": 5129423
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emerald_tools",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.6.1"
+    }
+  ]
+}

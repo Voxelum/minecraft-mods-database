@@ -1,0 +1,38 @@
+{
+  "name": "unloadedactivity-0.4.4+1.20.x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Oo4rJCDP",
+      "versionId": "vEZsvgSa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 831523,
+      "fileId": 4663873
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unloadedactivity",
+      "version": "0.4.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

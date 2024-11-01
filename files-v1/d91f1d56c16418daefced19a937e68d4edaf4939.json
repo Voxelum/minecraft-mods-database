@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KcQAUjoP",
+      "versionId": "hQzvwpJT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 526011,
+      "fileId": 5224192
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guild",
+      "version": "0.4.7"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

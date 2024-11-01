@@ -1,0 +1,26 @@
+{
+  "name": "citresewn-1.2.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "otVJckYQ",
+      "versionId": "VzDTHJkq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521427,
+      "fileId": 5821272
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "citresewn",
+      "version": "1.2.2+1.20.1"
+    },
+    {
+      "modId": "citresewn-defaults",
+      "version": "1.2.2+1.20.1"
+    }
+  ]
+}

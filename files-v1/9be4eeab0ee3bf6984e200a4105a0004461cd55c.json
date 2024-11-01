@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3kl8Lmm9",
+      "versionId": "YD0X91zo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682569,
+      "fileId": 5104671
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "slotcycler",
+      "version": "20.4.1"
+    },
+    {
+      "modId": "hotbarslotcycling",
+      "version": "20.4.2"
+    }
+  ]
+}

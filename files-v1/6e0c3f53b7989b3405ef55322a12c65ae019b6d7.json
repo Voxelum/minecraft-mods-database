@@ -1,10 +1,16 @@
 {
   "name": "EBE_v1.1_1.19.x.zip",
-  "domain": "resourcepacks",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "6udpuGCH",
       "versionId": "eByLkWw4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639779,
+      "fileId": 3862349
     }
   ]
 }

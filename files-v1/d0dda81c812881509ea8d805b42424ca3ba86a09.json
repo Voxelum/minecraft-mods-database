@@ -1,6 +1,18 @@
 {
   "name": "nicertabbackground-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fq7WSGBY",
+      "versionId": "dsr8ntKS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 863982,
+      "fileId": 4573635
+    }
+  ],
   "fabric": [
     {
       "modId": "nicertabbackground",

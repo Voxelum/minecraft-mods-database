@@ -1,6 +1,18 @@
 {
   "name": "lrarmor-1.20.1-0.1.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iSupMfXz",
+      "versionId": "dfHoF5Zc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1021131,
+      "fileId": 5686783
+    }
+  ],
   "forge": [
     {
       "modId": "lrarmor",

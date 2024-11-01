@@ -1,6 +1,18 @@
 {
   "name": "ironchests-2.0.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n2de3t2z",
+      "versionId": "fKBslN16"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498794,
+      "fileId": 4022308
+    }
+  ],
   "forge": [
     {
       "modId": "ironchests",

@@ -1,0 +1,26 @@
+{
+  "name": "BOMD-1.10.2-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "du3UfiLL",
+      "versionId": "aSCbUUL1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438365,
+      "fileId": 5809736
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bosses_of_mass_destruction",
+      "version": "1.10.2-1.21.1"
+    },
+    {
+      "modId": "multipart_entities",
+      "version": "1.7-1.21"
+    }
+  ]
+}

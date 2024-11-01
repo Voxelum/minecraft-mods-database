@@ -1,6 +1,12 @@
 {
   "name": "hodgepodge-2.5.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6QQe8Ldy",
+      "versionId": "jglNchSy"
+    }
+  ],
   "forge": [
     {
       "modId": "hodgepodge",

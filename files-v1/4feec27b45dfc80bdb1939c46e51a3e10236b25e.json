@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cftnGZdK",
+      "versionId": "X8CFWik9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936659,
+      "fileId": 5098764
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "orpheus",
+      "version": "1.0-1.19.2"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.19-01"
+    }
+  ]
+}

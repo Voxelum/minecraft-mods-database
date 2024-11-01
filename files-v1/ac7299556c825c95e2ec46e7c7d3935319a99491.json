@@ -1,6 +1,18 @@
 {
   "name": "Gamma-Utils-2.1.0-mc1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wdLuzzEP",
+      "versionId": "ZgCUl9IE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 492295,
+      "fileId": 5659103
+    }
+  ],
   "fabric": [
     {
       "modId": "gammautils",

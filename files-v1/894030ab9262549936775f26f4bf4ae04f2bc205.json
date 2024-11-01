@@ -1,6 +1,18 @@
 {
   "name": "neruina-fabric-2.0.0-beta.10+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1s5x833P",
+      "versionId": "ltv3yt61"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851046,
+      "fileId": 5361849
+    }
+  ],
   "forge": [
     {
       "modId": "neruina",

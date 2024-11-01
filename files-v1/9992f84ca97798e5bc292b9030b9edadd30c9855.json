@@ -1,0 +1,28 @@
+{
+  "name": "icepreventscropgrowth-1.20.1-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6rPhicfw",
+      "versionId": "V64m0nEP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390161,
+      "fileId": 5572353
+    }
+  ],
+  "forge": [
+    {
+      "modId": "icepreventscropgrowth",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "icepreventscropgrowth",
+      "version": "3.4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "polytone-1.20-2.3.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "Y7aBaWlF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958094,
+      "fileId": 5694574
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polytone",
+      "version": "1.20-2.3.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

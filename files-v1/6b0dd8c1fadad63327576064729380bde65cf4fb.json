@@ -1,6 +1,18 @@
 {
   "name": "voicechat-fabric-1.21.1-2.5.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9eGKb6K1",
+      "versionId": "anabvqRL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416089,
+      "fileId": 5676859
+    }
+  ],
   "fabric": [
     {
       "modId": "voicechat",

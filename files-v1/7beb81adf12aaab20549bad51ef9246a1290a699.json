@@ -1,6 +1,12 @@
 {
   "name": "PlagueDoctor-forge-1.19.2-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1005320,
+      "fileId": 5335786
+    }
+  ],
   "forge": [
     {
       "modId": "theplaguedoctor",

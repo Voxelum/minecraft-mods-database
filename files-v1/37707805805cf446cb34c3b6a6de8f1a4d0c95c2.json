@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "forgero",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-core",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-fabric-core",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-common",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-fabric-compat",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-generator",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-vanilla",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-extended",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-compat",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-structures",
+      "version": "0.12.0+1.20.4"
+    },
+    {
+      "modId": "forgero-bows",
+      "version": "0.12.0+1.20.4"
+    }
+  ]
+}

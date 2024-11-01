@@ -1,6 +1,18 @@
 {
   "name": "[烟花苦力怕] creepre_firework-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "owUiXPam",
+      "versionId": "BgEnMdXp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558439,
+      "fileId": 4583931
+    }
+  ],
   "fabric": [
     {
       "modId": "creeper_firwork",

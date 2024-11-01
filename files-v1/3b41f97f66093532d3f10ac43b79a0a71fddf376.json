@@ -1,6 +1,18 @@
 {
   "name": "architectury-13.0.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "i0N0Veb4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 5521985
+    }
+  ],
   "fabric": [
     {
       "modId": "architectury",

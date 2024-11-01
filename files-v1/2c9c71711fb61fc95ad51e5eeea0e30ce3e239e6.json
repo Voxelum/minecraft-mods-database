@@ -1,6 +1,18 @@
 {
   "name": "Guide-API-VP-1.19.2-2.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w5L2PHJU",
+      "versionId": "ZphEyT2m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 380771,
+      "fileId": 3943296
+    }
+  ],
   "forge": [
     {
       "modId": "guideapi_vp",

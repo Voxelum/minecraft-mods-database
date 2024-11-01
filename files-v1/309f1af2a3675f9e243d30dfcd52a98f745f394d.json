@@ -1,6 +1,18 @@
 {
   "name": "ostOverhaul-0.1-1.16-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M11EPNE5",
+      "versionId": "5AmD8mzX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504439,
+      "fileId": 3390987
+    }
+  ],
   "forge": [
     {
       "modId": "ostoverhaul",

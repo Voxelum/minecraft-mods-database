@@ -1,0 +1,32 @@
+{
+  "name": "sodiumoptionsapi-fabric-1.0.3-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Es5v4eyq",
+      "versionId": "4Qz1muwz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1103431,
+      "fileId": 5807574
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

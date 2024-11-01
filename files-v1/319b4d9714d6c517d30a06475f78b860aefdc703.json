@@ -1,6 +1,18 @@
 {
   "name": "simplemagnets-1.1.11-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YyNQVpOu",
+      "versionId": "ZiwUDHyo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394140,
+      "fileId": 5272903
+    }
+  ],
   "fabric": [
     {
       "modId": "simplemagnets",

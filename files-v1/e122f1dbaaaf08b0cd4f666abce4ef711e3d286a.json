@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uveZLBGh",
+      "versionId": "81pCPowy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845863,
+      "fileId": 5659312
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skeletalremains",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    }
+  ]
+}

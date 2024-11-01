@@ -1,4 +1,16 @@
 {
   "name": "embeddium-0.3.20+mc1.20.6.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sk9rgfiA",
+      "versionId": "ktzp4Wfg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 908741,
+      "fileId": 5410236
+    }
+  ]
 }

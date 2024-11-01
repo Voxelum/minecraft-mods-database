@@ -1,6 +1,12 @@
 {
   "name": "goblins-0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 558702,
+      "fileId": 3711306
+    }
+  ],
   "forge": [
     {
       "modId": "goblins",

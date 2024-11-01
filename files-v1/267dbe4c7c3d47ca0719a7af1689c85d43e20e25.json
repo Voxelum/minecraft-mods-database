@@ -1,6 +1,18 @@
 {
   "name": "QvStump-1.0a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uPKvUvm4",
+      "versionId": "4XibZL2B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870166,
+      "fileId": 4567978
+    }
+  ],
   "fabric": [
     {
       "modId": "stump",

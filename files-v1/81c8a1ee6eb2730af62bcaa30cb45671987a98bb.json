@@ -1,6 +1,18 @@
 {
   "name": "Server-Pauser-1.12.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NHTAaWEN",
+      "versionId": "H5gPDRCz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858978,
+      "fileId": 4525718
+    }
+  ],
   "forge": [
     {
       "modId": "serverpauser",

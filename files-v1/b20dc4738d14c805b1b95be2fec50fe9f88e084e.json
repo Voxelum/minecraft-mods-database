@@ -1,6 +1,12 @@
 {
   "name": "modern-debugify-1.11.0-forge-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 914659,
+      "fileId": 4758680
+    }
+  ],
   "forge": [
     {
       "modId": "debugify",

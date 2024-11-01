@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "whereisit",
+      "version": "2.6.3+1.21.1"
+    },
+    {
+      "modId": "jackfredlib",
+      "version": "0.10.2+1.21.1"
+    }
+  ]
+}

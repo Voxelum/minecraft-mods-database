@@ -1,6 +1,18 @@
 {
   "name": "Ding-1.21-Fabric-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UEtTD3gP",
+      "versionId": "rBn3e7NE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 822694,
+      "fileId": 5478491
+    }
+  ],
   "fabric": [
     {
       "modId": "ding",

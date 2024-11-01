@@ -1,6 +1,18 @@
 {
   "name": "OverworldQuartzOre-fabric-1.19.2-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QUssy0TY",
+      "versionId": "3DykRd7R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866588,
+      "fileId": 4554675
+    }
+  ],
   "fabric": [
     {
       "modId": "overworld_quartz_ore",

@@ -1,6 +1,12 @@
 {
   "name": "healthindicator-1.2.0+mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gVFdvNDw",
+      "versionId": "BrTdwyvx"
+    }
+  ],
   "fabric": [
     {
       "modId": "healthindicator",

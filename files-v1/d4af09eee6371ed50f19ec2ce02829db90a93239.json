@@ -1,6 +1,18 @@
 {
   "name": "dawn-1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "meZK2DCX",
+      "versionId": "WJ6k3SXq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399309,
+      "fileId": 3256690
+    }
+  ],
   "fabric": [
     {
       "modId": "dawn",

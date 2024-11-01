@@ -1,6 +1,12 @@
 {
   "name": "0.6a-rc1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 507465,
+      "fileId": 3398058
+    }
+  ],
   "forge": [
     {
       "modId": "bags",

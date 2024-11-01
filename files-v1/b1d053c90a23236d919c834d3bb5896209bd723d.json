@@ -1,6 +1,18 @@
 {
   "name": "Sounds-2.0.4+1.21+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZouiUX7t",
+      "versionId": "fFhMi8yC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 925889,
+      "fileId": 5643510
+    }
+  ],
   "fabric": [
     {
       "modId": "sounds",

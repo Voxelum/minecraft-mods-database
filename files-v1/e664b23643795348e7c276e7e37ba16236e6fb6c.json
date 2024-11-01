@@ -1,0 +1,10 @@
+{
+  "name": "hell_dweller-1.19.2.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cavenoise_overhaul",
+      "version": "1.7.0"
+    }
+  ]
+}

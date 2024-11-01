@@ -1,6 +1,18 @@
 {
   "name": "piratesdoom-1.0.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c5Wlu9aL",
+      "versionId": "3VTWdUcs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974110,
+      "fileId": 5108232
+    }
+  ],
   "fabric": [
     {
       "modId": "piratesdoom",

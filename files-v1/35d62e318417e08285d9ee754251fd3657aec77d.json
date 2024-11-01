@@ -1,6 +1,18 @@
 {
   "name": "GeckoJS-2001forge-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "19lbaCaM",
+      "versionId": "xiAPrqOU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977922,
+      "fileId": 5134593
+    }
+  ],
   "forge": [
     {
       "modId": "geckojs",

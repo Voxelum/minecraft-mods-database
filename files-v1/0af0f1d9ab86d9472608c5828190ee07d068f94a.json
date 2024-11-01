@@ -1,6 +1,12 @@
 {
   "name": "fluidvoidfading-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HO64QSJp",
+      "versionId": "8EAPISNZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "fluidvoidfading",

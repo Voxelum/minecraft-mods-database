@@ -1,6 +1,12 @@
 {
   "name": "Boids-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2OckSy74",
+      "versionId": "14pDAJuk"
+    }
+  ],
   "fabric": [
     {
       "modId": "boids",

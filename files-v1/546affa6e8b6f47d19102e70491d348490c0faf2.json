@@ -1,0 +1,20 @@
+{
+  "name": "sushi_bar-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tr2Mv6ke",
+      "versionId": "9eon4YAc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sushi_bar",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    }
+  ]
+}

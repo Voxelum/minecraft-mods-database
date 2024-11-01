@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L8SVqvyD",
+      "versionId": "14XODcVV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemongymsclient",
+      "version": "${version}"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "cobblemongymscommon",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bbGCtEvb",
+      "versionId": "X9wdRi3p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682566,
+      "fileId": 5732768
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armorstatues",
+      "version": "21.1.0"
+    },
+    {
+      "modId": "statuemenus",
+      "version": "21.1.0"
+    }
+  ]
+}

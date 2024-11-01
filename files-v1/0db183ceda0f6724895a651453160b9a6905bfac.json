@@ -1,6 +1,18 @@
 {
   "name": "AdditionalBanners-Forge-1.18.2-7.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AVPTFuxC",
+      "versionId": "j1Qgbnv6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 230137,
+      "fileId": 3835686
+    }
+  ],
   "forge": [
     {
       "modId": "additionalbanners",

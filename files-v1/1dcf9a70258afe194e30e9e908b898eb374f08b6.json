@@ -1,0 +1,28 @@
+{
+  "name": "annihilation-recreated-b1.7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZMHa3gsI",
+      "versionId": "piYIiyKS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1114125,
+      "fileId": 5844770
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_annihilation_recreated",
+      "version": "1-b1.7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_annihilation_recreated",
+      "version": "1-b1.7.1"
+    }
+  ]
+}

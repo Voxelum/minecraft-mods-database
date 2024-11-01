@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNRoUnGT",
+      "versionId": "nEvPn6MD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682213,
+      "fileId": 5646219
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcpitanlib",
+      "version": "2.3.3-fix.1-1.21-fabric"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "compatdatapacks76",
+      "version": "1.0.7.210-fabric"
+    }
+  ]
+}

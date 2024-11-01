@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fEWKxVzh",
+      "versionId": "EiatAg7l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845832,
+      "fileId": 5122250
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cadmus",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

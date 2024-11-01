@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "floodgate",
+      "version": "2.2.4-SNAPSHOT"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    },
+    {
+      "modId": "org_geysermc_cumulus_cumulus",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "org_geysermc_geyser_common_unshaded",
+      "version": "2.2.1-SNAPSHOT"
+    },
+    {
+      "modId": "com_google_guava_failureaccess",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    },
+    {
+      "modId": "jakarta_inject_jakarta_inject-api",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "cloud",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "org_lanternpowered_lmbda",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_geysermc_event_events",
+      "version": "1.1-SNAPSHOT"
+    }
+  ]
+}

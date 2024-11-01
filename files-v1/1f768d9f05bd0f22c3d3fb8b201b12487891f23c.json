@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "unloaded_activity",
+      "version": "0.6.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unloadedactivity",
+      "version": "0.6.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "BridgingMod-2.4.0+1.20.1.forge-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lO3s8hjs",
+      "versionId": "heyAgmAO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533942,
+      "fileId": 5552939
+    }
+  ],
   "forge": [
     {
       "modId": "bridgingmod",

@@ -1,0 +1,28 @@
+{
+  "name": "betterconduitplacement-1.21.3-3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lRF5nzIz",
+      "versionId": "T6PWwFlX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366997,
+      "fileId": 5847469
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterconduitplacement",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterconduitplacement",
+      "version": "3.3"
+    }
+  ]
+}

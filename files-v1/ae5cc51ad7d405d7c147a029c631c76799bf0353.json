@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VLAWWg1B",
+      "versionId": "h9A8eXpu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 274338,
+      "fileId": 5555694
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "usefulbackpacks",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "integrated_api_fabric-1.2.7+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V6fKbpBN",
+      "versionId": "RfARXm0a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817709,
+      "fileId": 4446909
+    }
+  ],
   "fabric": [
     {
       "modId": "integrated_api",

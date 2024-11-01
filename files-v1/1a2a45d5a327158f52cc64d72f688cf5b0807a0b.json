@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Grr1HrUE",
+      "versionId": "QJUGIbdF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 272146,
+      "fileId": 5639452
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "indicatia",
+      "version": "9.0.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

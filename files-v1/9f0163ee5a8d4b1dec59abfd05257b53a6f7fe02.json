@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rI0hvYcd",
+      "versionId": "pYE1Dmqc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "visuality",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "goosik-config",
+      "version": "0.2.0"
+    }
+  ]
+}

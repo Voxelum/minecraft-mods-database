@@ -1,0 +1,20 @@
+{
+  "name": "illuminations-1.9.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 292908,
+      "fileId": 3489433
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illuminations",
+      "version": "1.9"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

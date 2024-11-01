@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "linkart",
+      "version": "5.4.4-1.20.2-build.133"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.0.0-1.20.1-build.481"
+    }
+  ]
+}

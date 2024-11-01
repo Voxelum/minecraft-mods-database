@@ -1,6 +1,18 @@
 {
   "name": "creeperconfetti-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aur4JJio",
+      "versionId": "YECtSPFm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 222548,
+      "fileId": 2506542
+    }
+  ],
   "forge": [
     {
       "modId": "creeperconfetti",

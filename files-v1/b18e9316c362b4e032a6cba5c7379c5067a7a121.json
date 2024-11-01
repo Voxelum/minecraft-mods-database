@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "litematica",
+      "version": "0.18.999-sakura.17"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.1.0+686dcdce90"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.3+b559734490"
+    }
+  ]
+}

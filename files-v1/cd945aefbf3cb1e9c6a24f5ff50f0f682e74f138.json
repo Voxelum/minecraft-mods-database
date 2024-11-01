@@ -1,6 +1,18 @@
 {
   "name": "EnderStorage-1.12.2-2.4.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t55CE4jG",
+      "versionId": "hAnBYWtF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634242,
+      "fileId": 4418030
+    }
+  ],
   "forge": [
     {
       "modId": "enderstorage",

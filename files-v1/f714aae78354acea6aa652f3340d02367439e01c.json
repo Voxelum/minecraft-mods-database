@@ -1,6 +1,18 @@
 {
   "name": "letsdo-brewery-forge-1.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cV5LQXKx",
+      "versionId": "buzATF61"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 971636,
+      "fileId": 5205442
+    }
+  ],
   "forge": [
     {
       "modId": "brewery",

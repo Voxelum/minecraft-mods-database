@@ -1,6 +1,12 @@
 {
   "name": "SimpleResourceGeneratorsJAR1.12.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 948781,
+      "fileId": 5108586
+    }
+  ],
   "forge": [
     {
       "modId": "simple_resource_generators",

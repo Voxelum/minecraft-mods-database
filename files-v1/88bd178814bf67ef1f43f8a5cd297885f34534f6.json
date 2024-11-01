@@ -1,6 +1,18 @@
 {
   "name": "hiddenrecipebook_1.16.5-2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NbPqFmZs",
+      "versionId": "nuBDWkqI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459727,
+      "fileId": 3407834
+    }
+  ],
   "forge": [
     {
       "modId": "hiddenrecipebook",

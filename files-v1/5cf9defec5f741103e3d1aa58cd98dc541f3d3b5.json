@@ -1,6 +1,18 @@
 {
   "name": "KeystrokesHippo1.0-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qBYjphri",
+      "versionId": "5wW0WUTS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917726,
+      "fileId": 4780362
+    }
+  ],
   "forge": [
     {
       "modId": "keystrokeshippo",

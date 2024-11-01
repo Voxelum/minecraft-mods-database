@@ -1,6 +1,18 @@
 {
   "name": "plasmovoice-forge-1.19.2-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "bT0JaJbw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 5763804
+    }
+  ],
   "forge": [
     {
       "modId": "plasmovoice",

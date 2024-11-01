@@ -1,0 +1,14 @@
+{
+  "name": "[Let's do野性自然]letsdo-wildernature-fabric-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wildernature",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

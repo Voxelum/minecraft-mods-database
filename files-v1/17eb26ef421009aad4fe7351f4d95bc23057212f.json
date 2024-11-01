@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lIRUH8gT",
+      "versionId": "oovcOLYf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "helpfulcommands",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

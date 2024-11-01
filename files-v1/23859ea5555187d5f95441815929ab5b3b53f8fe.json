@@ -1,6 +1,18 @@
 {
   "name": "fabric-api-0.46.4+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P7dR8mSH",
+      "versionId": "gKz1DWWR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 306612,
+      "fileId": 3634318
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ht0RRAt0",
+      "versionId": "JlggX5Yk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fasttrading",
+      "version": "0.1.5+1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

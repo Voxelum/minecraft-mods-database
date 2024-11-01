@@ -1,6 +1,18 @@
 {
   "name": "tatimod-0.0.8-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GAIa01Mz",
+      "versionId": "aQSCjHtO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 964815,
+      "fileId": 5631014
+    }
+  ],
   "fabric": [
     {
       "modId": "tatimod",

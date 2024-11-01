@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "eldritch_end",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "aaa_particles",
+      "version": "1.20.1-1.4.5"
+    }
+  ]
+}

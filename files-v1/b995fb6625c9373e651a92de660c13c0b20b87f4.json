@@ -1,6 +1,12 @@
 {
   "name": "keep-inventory-penalty-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AhchOgvh",
+      "versionId": "DT1AuRcL"
+    }
+  ],
   "fabric": [
     {
       "modId": "keep-inventory-penalty",

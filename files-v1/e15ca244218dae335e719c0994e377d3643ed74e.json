@@ -1,6 +1,18 @@
 {
   "name": "[伤害色调] damage-tint-forge-1.16.5-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HNLSku3h",
+      "versionId": "8s868J2g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 434182,
+      "fileId": 3380962
+    }
+  ],
   "forge": [
     {
       "modId": "damagetint",

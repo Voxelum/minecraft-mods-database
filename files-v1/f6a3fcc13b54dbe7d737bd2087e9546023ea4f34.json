@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cnIatHrN",
+      "versionId": "9dKdD4Qc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 705362,
+      "fileId": 5840991
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "universal_shops",
+      "version": "1.8.1+1.21.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.10.0+1.21.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.10.0+1.21.2"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.7.1+1.21.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.10.0+1.21.2"
+    },
+    {
+      "modId": "common-economy-api",
+      "version": "1.1.1"
+    }
+  ]
+}

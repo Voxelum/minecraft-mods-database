@@ -1,6 +1,18 @@
 {
   "name": "ilmusuenchantments-1.5.0+fabric_1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1PpUVuyO",
+      "versionId": "PZ24O4zU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 833435,
+      "fileId": 5066155
+    }
+  ],
   "fabric": [
     {
       "modId": "musuen",

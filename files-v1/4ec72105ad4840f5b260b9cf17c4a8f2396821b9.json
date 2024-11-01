@@ -1,6 +1,18 @@
 {
   "name": "ArmorTrimItemFix-fabric-1.21-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kIhxG5zE",
+      "versionId": "hxoxAHBa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895603,
+      "fileId": 5474440
+    }
+  ],
   "fabric": [
     {
       "modId": "armortrimitemfix",

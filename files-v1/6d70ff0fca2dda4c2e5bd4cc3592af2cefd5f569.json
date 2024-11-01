@@ -1,6 +1,18 @@
 {
   "name": "ModernUI-Forge-1.20.1-3.11.0.1-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3sjzyvGR",
+      "versionId": "25r0CTM8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 352491,
+      "fileId": 5724639
+    }
+  ],
   "forge": [
     {
       "modId": "modernui",

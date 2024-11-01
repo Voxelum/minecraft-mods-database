@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YILwj7iC",
+      "versionId": "pfSSRK7t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 603844,
+      "fileId": 4923197
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wildtoolaccess",
+      "version": "${mod_version}"
+    }
+  ]
+}

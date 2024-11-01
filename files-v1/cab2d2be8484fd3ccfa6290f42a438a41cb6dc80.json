@@ -1,6 +1,12 @@
 {
   "name": "portalgun-1.2.6-mc1.16.5-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 451683,
+      "fileId": 3416873
+    }
+  ],
   "fabric": [
     {
       "modId": "portalgun",

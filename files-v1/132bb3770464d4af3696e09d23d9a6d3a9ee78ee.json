@@ -1,6 +1,18 @@
 {
   "name": "ManyIdeasCore-1.20.1-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BBY8EPJt",
+      "versionId": "w7jynjlA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433642,
+      "fileId": 4628679
+    }
+  ],
   "forge": [
     {
       "modId": "manyideas_core",

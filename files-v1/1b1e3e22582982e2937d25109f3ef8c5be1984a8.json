@@ -1,6 +1,18 @@
 {
   "name": "hero-proof-5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GDmztpJg",
+      "versionId": "kpRYnVyF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938661,
+      "fileId": 5423917
+    }
+  ],
   "forge": [
     {
       "modId": "mr_hero_proof",

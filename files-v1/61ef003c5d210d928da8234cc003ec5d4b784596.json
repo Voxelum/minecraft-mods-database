@@ -1,6 +1,12 @@
 {
   "name": "someassemblyrequired-1.16.5-1.3.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422951,
+      "fileId": 3303520
+    }
+  ],
   "forge": [
     {
       "modId": "someassemblyrequired",

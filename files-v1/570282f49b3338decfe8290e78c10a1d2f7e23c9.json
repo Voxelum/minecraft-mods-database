@@ -1,0 +1,26 @@
+{
+  "name": "cloth-config-8.3.134-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "ZpV0fKbO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348521,
+      "fileId": 5729095
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloth-config",
+      "version": "8.3.134"
+    },
+    {
+      "modId": "cloth-basic-math",
+      "version": "0.6.1"
+    }
+  ]
+}

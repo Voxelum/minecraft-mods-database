@@ -1,6 +1,18 @@
 {
   "name": "AntiPortals-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2IyQrutX",
+      "versionId": "ZiUpR3x0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 449818,
+      "fileId": 3413135
+    }
+  ],
   "forge": [
     {
       "modId": "antiportals",

@@ -1,6 +1,18 @@
 {
   "name": "azurelib-neo-1.20.1-2.0.30.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7zlUOZvb",
+      "versionId": "lJtbUEkI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817423,
+      "fileId": 5512638
+    }
+  ],
   "forge": [
     {
       "modId": "azurelib",

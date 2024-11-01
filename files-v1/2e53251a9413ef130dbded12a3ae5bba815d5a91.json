@@ -1,0 +1,34 @@
+{
+  "name": "completeconfig-2.5.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtqG8z1h",
+      "versionId": "CmDKaH1R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 381257,
+      "fileId": 4933324
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "completeconfig",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "completeconfig-gui-cloth",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "completeconfig-gui-yacl",
+      "version": "2.5.2"
+    }
+  ]
+}

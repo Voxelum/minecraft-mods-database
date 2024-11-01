@@ -1,6 +1,18 @@
 {
   "name": "jei-1.21.1-fabric-19.8.4.113.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "JQJDUPMD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 5623551
+    }
+  ],
   "fabric": [
     {
       "modId": "jei",

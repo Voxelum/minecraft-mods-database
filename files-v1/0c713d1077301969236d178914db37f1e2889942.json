@@ -1,6 +1,18 @@
 {
   "name": "crash-pipe-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1d7Megbi",
+      "versionId": "i6geNgKY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981212,
+      "fileId": 5156740
+    }
+  ],
   "fabric": [
     {
       "modId": "crash-pipe",

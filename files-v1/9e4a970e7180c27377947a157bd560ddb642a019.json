@@ -1,6 +1,18 @@
 {
   "name": "azurelibarmor-fabric-1.20.1-2.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pduQXSbl",
+      "versionId": "EvvDl3mf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912767,
+      "fileId": 5727305
+    }
+  ],
   "fabric": [
     {
       "modId": "azurelibarmor",

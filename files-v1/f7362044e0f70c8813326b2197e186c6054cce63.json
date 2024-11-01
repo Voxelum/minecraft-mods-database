@@ -1,6 +1,18 @@
 {
   "name": "iswydt-1.0.4-1.20.x-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IRfoIXHf",
+      "versionId": "YVytwUXL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904991,
+      "fileId": 5172527
+    }
+  ],
   "fabric": [
     {
       "modId": "iswydt",

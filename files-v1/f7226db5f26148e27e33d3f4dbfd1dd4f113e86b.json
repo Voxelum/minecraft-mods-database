@@ -1,6 +1,18 @@
 {
   "name": "OptionsEnforcer-1.12.2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qVP3xNMe",
+      "versionId": "5z7JDPaM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499018,
+      "fileId": 3947595
+    }
+  ],
   "forge": [
     {
       "modId": "optionsenforcer",

@@ -1,6 +1,18 @@
 {
   "name": "mermod-fabric-1.20.1-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ORiydwz3",
+      "versionId": "FmiBMmxp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463248,
+      "fileId": 5436219
+    }
+  ],
   "forge": [
     {
       "modId": "mermod",

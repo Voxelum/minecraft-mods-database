@@ -1,6 +1,18 @@
 {
   "name": "egg-of-capitalism-mc1.20-4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "llThBwQo",
+      "versionId": "eHqlCCvB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 490007,
+      "fileId": 4960850
+    }
+  ],
   "fabric": [
     {
       "modId": "egg-of-capitalism",

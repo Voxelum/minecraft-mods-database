@@ -1,6 +1,18 @@
 {
   "name": "manaliquidizer-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IjjJrQUV",
+      "versionId": "PsqtUViI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419723,
+      "fileId": 4386858
+    }
+  ],
   "forge": [
     {
       "modId": "manaliquidizer",

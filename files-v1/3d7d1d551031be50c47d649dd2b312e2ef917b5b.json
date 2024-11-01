@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RGH5gtzF",
+      "versionId": "KYS0nXIb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360673,
+      "fileId": 5499560
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customwindowtitle_multiloader",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "customwindowtitle",
+      "version": "1.3.0"
+    }
+  ]
+}

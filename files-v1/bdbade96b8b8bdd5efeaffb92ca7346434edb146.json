@@ -1,6 +1,18 @@
 {
   "name": "TaxFreeLevels-1.3.13-forge-1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jCBrrLTs",
+      "versionId": "hpR2Y8l4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 462128,
+      "fileId": 5366619
+    }
+  ],
   "forge": [
     {
       "modId": "taxfreelevels",

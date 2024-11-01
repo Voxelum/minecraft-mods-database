@@ -1,6 +1,18 @@
 {
   "name": "twitchchat-0.14.5b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gCwanmDK",
+      "versionId": "bnWzm2d9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341600,
+      "fileId": 4605758
+    }
+  ],
   "fabric": [
     {
       "modId": "twitchchat",

@@ -1,6 +1,18 @@
 {
   "name": "suszombification-1.20.1-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HE8pl71X",
+      "versionId": "Vs7PcKUT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541632,
+      "fileId": 4605662
+    }
+  ],
   "forge": [
     {
       "modId": "suszombification",

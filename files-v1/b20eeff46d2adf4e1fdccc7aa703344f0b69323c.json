@@ -1,6 +1,18 @@
 {
   "name": "totemcounter-1_2_4mc1_19_2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T9R7YTnA",
+      "versionId": "pmkQHWV3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848698,
+      "fileId": 4483797
+    }
+  ],
   "fabric": [
     {
       "modId": "totemcounter",

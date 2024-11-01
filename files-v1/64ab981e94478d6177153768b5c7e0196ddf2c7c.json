@@ -1,6 +1,18 @@
 {
   "name": "roughly-searchable-2.5.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "njGhQ4fN",
+      "versionId": "SWO2sGxn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 392023,
+      "fileId": 4125445
+    }
+  ],
   "fabric": [
     {
       "modId": "roughlysearchable",

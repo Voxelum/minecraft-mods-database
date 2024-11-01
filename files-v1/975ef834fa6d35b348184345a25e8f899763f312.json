@@ -1,6 +1,12 @@
 {
   "name": "lootbags-2.0.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eE4G2ag6",
+      "versionId": "sv30l53e"
+    }
+  ],
   "fabric": [
     {
       "modId": "lootbags",

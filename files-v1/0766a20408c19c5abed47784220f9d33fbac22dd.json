@@ -1,6 +1,18 @@
 {
   "name": "ranged_weapon_api-1.1.4+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AqaIIO6D",
+      "versionId": "6LUH2hok"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962162,
+      "fileId": 5655499
+    }
+  ],
   "fabric": [
     {
       "modId": "ranged_weapon_api",

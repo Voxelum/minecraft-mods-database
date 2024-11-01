@@ -1,6 +1,18 @@
 {
   "name": "morearmortrims-1.3.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FGNYBAJ6",
+      "versionId": "WhsAzNev"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876103,
+      "fileId": 5418389
+    }
+  ],
   "fabric": [
     {
       "modId": "more_armor_trims",

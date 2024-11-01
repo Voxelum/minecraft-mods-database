@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CAJ9C7oF",
+      "versionId": "RN4GCpnQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "potionwarning",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}
