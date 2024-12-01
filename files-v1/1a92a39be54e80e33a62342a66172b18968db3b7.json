@@ -1,6 +1,12 @@
 {
   "name": "coroutil-1.12.1-1.2.13.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 237749,
+      "fileId": 2596866
+    }
+  ],
   "forge": [
     {
       "modId": "extendedrenderer",

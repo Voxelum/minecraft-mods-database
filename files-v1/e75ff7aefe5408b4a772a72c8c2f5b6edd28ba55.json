@@ -1,0 +1,30 @@
+{
+  "name": "iris-1.7.1+mc1.20.1 (Emotecraft-Fix).jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.7.1+mc1.20.1"
+    },
+    {
+      "modId": "org_antlr_antlr4-runtime",
+      "version": "4.13.1"
+    },
+    {
+      "modId": "io_github_douira_glsl-transformer",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.31+1802ada577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.37+1802ada577"
+    }
+  ]
+}

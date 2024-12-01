@@ -1,6 +1,12 @@
 {
   "name": "fabric-release-regrowth-1.18-31.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 381597,
+      "fileId": 4125890
+    }
+  ],
   "fabric": [
     {
       "modId": "regrowth",

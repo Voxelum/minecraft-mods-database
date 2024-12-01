@@ -1,6 +1,18 @@
 {
   "name": "nbtcrafting-2.2.3+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "18ztUZP5",
+      "versionId": "54JYWQML"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 314633,
+      "fileId": 4104835
+    }
+  ],
   "fabric": [
     {
       "modId": "nbtcrafting",

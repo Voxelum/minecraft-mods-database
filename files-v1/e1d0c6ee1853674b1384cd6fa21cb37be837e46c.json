@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C7I0BCni",
+      "versionId": "MPOPGLD0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363569,
+      "fileId": 5589940
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwwindows",

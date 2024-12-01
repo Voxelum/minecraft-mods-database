@@ -1,0 +1,22 @@
+{
+  "name": "createaddoncompatibility-v0.1.2b-1.20.1-(neo)forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QgrK9rtJ",
+      "versionId": "DgcHYnsg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1000148,
+      "fileId": 5307623
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createaddoncompatibility",
+      "version": "0.1.2b"
+    }
+  ]
+}

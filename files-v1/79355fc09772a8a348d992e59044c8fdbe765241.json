@@ -1,6 +1,18 @@
 {
   "name": "createbigcannons-fabric-1.20.1-0.5.2.a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GWp4jCJj",
+      "versionId": "1xPOUM1K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 646668,
+      "fileId": 4760924
+    }
+  ],
   "forge": [
     {
       "modId": "createbigcannons",

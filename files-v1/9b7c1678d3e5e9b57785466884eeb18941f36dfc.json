@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wUMNoII3",
+      "versionId": "OSM9K1Vz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexed",
+      "version": "0.8.1H"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "biolith",
+      "version": "1.0.0-alpha.4"
+    }
+  ]
+}

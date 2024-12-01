@@ -1,6 +1,18 @@
 {
   "name": "wirelesschargers-1.0.9a-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCk7Sfz8",
+      "versionId": "IYYCJZyP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 510656,
+      "fileId": 5294268
+    }
+  ],
   "fabric": [
     {
       "modId": "wirelesschargers",

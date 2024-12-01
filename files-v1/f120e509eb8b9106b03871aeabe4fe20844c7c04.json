@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7jOxn6qJ",
+      "versionId": "4GW1iS63"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342543,
+      "fileId": 5754205
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mahoutsukai",
+      "version": "${version}"
+    }
+  ]
+}

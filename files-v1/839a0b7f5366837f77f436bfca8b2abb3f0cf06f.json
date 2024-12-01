@@ -1,6 +1,18 @@
 {
   "name": "【点击并发送】let-me-click-and-send-mc1.19.3-v1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pGbwwB5d",
+      "versionId": "9gMgHecu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 694888,
+      "fileId": 4260020
+    }
+  ],
   "fabric": [
     {
       "modId": "letmeclickandsend",

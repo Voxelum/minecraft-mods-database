@@ -1,6 +1,18 @@
 {
   "name": "1.19.2netherskeletons4.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M36xhGy8",
+      "versionId": "KBKVwjZB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 460954,
+      "fileId": 4520222
+    }
+  ],
   "forge": [
     {
       "modId": "netherskeletons",

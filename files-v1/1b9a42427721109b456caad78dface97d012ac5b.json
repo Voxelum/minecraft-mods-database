@@ -1,6 +1,18 @@
 {
   "name": "simpleconfigapi-forge-0.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ovMcTOI0",
+      "versionId": "OBtfOOHB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 954054,
+      "fileId": 4996887
+    }
+  ],
   "forge": [
     {
       "modId": "simpleconfigapi",

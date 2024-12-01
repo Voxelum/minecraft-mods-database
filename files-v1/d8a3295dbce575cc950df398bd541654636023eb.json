@@ -1,6 +1,18 @@
 {
   "name": "EnchantedToolTips-1.3.7-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lftszdkG",
+      "versionId": "P5ZBqwKP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 331965,
+      "fileId": 3901301
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantedtooltips",

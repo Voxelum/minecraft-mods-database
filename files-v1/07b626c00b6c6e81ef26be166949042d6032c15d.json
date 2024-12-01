@@ -1,0 +1,28 @@
+{
+  "name": "nolijium-0.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KstN3eSL",
+      "versionId": "cEyCcvni"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969602,
+      "fileId": 5895435
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nolijium",
+      "version": "0.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nolijium",
+      "version": "0.4.0"
+    }
+  ]
+}

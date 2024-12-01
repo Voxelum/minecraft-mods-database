@@ -1,6 +1,18 @@
 {
   "name": "screenshot-to-clipboard-1.0.7-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1KiJRrTg",
+      "versionId": "62GCTmv5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 327154,
+      "fileId": 3509043
+    }
+  ],
   "fabric": [
     {
       "modId": "screenshotclipboard",

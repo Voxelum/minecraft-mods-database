@@ -1,6 +1,18 @@
 {
   "name": "octolib-1.18.2-0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RH2KUdKJ",
+      "versionId": "2s2b63pG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916747,
+      "fileId": 5254390
+    }
+  ],
   "forge": [
     {
       "modId": "octolib",

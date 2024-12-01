@@ -1,6 +1,12 @@
 {
   "name": "Quark-4.0-450.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qnQsVE2z",
+      "versionId": "wnlS2qGl"
+    }
+  ],
   "forge": [
     {
       "modId": "quark",

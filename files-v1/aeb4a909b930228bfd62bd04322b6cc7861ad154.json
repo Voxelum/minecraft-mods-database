@@ -1,6 +1,12 @@
 {
   "name": "concentration-fabric-1.21-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QyvWSZ5S",
+      "versionId": "5drSUl2g"
+    }
+  ],
   "fabric": [
     {
       "modId": "concentration",

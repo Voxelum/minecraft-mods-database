@@ -1,6 +1,18 @@
 {
   "name": "smoke-suppression-1.0.4+MC1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nKcekY2P",
+      "versionId": "9rUHuSH0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440468,
+      "fileId": 3494491
+    }
+  ],
   "fabric": [
     {
       "modId": "smoke_suppression",

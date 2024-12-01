@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "UniLib-1.0.1+1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nT86WUER",
+      "versionId": "E8GoevJ4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056812,
+      "fileId": 5590420
+    }
+  ],
   "forge": [
     {
       "modId": "unilib",

@@ -1,0 +1,16 @@
+{
+  "name": "SkyHanni-0.26.Beta.13.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "skyhanni",
+      "version": "0.26.Beta.13"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libninepatch",
+      "version": "1.2.0"
+    }
+  ]
+}

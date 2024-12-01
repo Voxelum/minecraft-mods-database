@@ -1,6 +1,12 @@
 {
   "name": "rusticrecordings.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585298,
+      "fileId": 3693528
+    }
+  ],
   "forge": [
     {
       "modId": "overlays",

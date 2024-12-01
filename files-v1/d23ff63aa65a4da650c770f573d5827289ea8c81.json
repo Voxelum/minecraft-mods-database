@@ -1,0 +1,42 @@
+{
+  "name": "worldedit-mod-7.3.9-beta-01-dist.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1u6JkXh5",
+      "versionId": "HFvwhOTG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225608,
+      "fileId": 5888534
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldedit",
+      "version": "7.3.9-beta-01+e8aa544"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+2127dc7240"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.35+c47b9d4340"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "2.0.9+c47b9d4340"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.22+c47b9d4340"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.3.3+56ec7ac640"
+    }
+  ]
+}

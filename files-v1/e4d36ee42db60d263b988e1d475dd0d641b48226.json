@@ -1,6 +1,18 @@
 {
   "name": "kotlinforforge-1.12.1-obf.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ordsPcFz",
+      "versionId": "Bxm9xbNJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 351264,
+      "fileId": 3331341
+    }
+  ],
   "forge": [
     {
       "modId": "kotlinforforge",

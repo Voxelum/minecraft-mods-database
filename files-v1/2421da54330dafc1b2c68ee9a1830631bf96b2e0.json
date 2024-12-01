@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YS1sBNLx",
+      "versionId": "OsS2jRkY"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_health_damagehud",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_health_damagehud",
+      "version": "1"
+    }
+  ]
+}

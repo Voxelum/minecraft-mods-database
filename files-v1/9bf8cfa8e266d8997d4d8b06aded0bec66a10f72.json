@@ -1,0 +1,36 @@
+{
+  "name": "light-overlay-5.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YfOlc91N",
+      "versionId": "1mj1f7U0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325492,
+      "fileId": 3005495
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lightoverlay-forge",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightoverlay",
+      "version": "5.4.1"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.4.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X8T1wp43",
+      "versionId": "NR61g08K"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minimapsync",
+      "version": "1.1.2+mc1.20.1"
+    },
+    {
+      "modId": "com_github_marcono1234_gson-record-type-adapter-factory",
+      "version": "4998f21"
+    }
+  ]
+}

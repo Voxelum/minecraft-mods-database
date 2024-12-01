@@ -1,6 +1,18 @@
 {
   "name": "notes-1.12-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ko8Qabo1",
+      "versionId": "5GTOkJhz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256087,
+      "fileId": 2444465
+    }
+  ],
   "forge": [
     {
       "modId": "notes",

@@ -1,6 +1,18 @@
 {
   "name": "vanillacookbook-1.18.2-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YWn7nNrm",
+      "versionId": "w89rxLHY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 402659,
+      "fileId": 3783694
+    }
+  ],
   "forge": [
     {
       "modId": "vanillacookbook",

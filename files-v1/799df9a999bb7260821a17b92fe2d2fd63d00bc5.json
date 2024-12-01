@@ -1,6 +1,18 @@
 {
   "name": "tacz-1.20.1-1.0.0-hotfix4-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SzzJttH8",
+      "versionId": "fGbNO6Ft"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028108,
+      "fileId": 5403480
+    }
+  ],
   "forge": [
     {
       "modId": "tacz",

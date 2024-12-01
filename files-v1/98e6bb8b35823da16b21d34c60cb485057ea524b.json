@@ -1,6 +1,12 @@
 {
   "name": "Silence's Defense Tower.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 873924,
+      "fileId": 4847574
+    }
+  ],
   "forge": [
     {
       "modId": "silence_s_defense_tower",

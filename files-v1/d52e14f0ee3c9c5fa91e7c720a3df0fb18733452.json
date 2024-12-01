@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spellchecker",
+      "version": "7.0.0"
+    },
+    {
+      "modId": "com_swabunga_jazzy",
+      "version": "1.0.0"
+    }
+  ]
+}

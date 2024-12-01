@@ -1,6 +1,18 @@
 {
   "name": "repurposed-livings-1.0.1-SNAPSHOT.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZDot56VL",
+      "versionId": "5UsjP58P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 653395,
+      "fileId": 3941890
+    }
+  ],
   "forge": [
     {
       "modId": "repurposedlivings",

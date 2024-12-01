@@ -1,6 +1,18 @@
 {
   "name": "ArmorPoser-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PFwYNrHb",
+      "versionId": "bh3PWKIu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450663,
+      "fileId": 3281421
+    }
+  ],
   "forge": [
     {
       "modId": "armorposer",

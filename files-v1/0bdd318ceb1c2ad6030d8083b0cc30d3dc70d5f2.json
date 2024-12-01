@@ -1,6 +1,18 @@
 {
   "name": "LogisticsBridge-1.3.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pJ4XVnOk",
+      "versionId": "DTVNU3lm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 336380,
+      "fileId": 3051693
+    }
+  ],
   "forge": [
     {
       "modId": "logisticsbridge",

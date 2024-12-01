@@ -1,0 +1,32 @@
+{
+  "name": "cobweb-fabric-1.18.2-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQcfqGbl",
+      "versionId": "BQGdYxTU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968456,
+      "fileId": 5441024
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cobweb",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobweb",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

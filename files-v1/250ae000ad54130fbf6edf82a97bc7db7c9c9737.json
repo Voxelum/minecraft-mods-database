@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620928,
+      "fileId": 5175226
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zenith",
+      "version": "0.7.3+1.19.2 "
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.1231+1.19.2"
+    }
+  ]
+}

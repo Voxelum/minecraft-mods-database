@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "everycomp-1.20-2.6.76.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "eiktJyw1",
       "versionId": "pizzA9f7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 5732525
     }
   ],
   "forge": [

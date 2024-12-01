@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "bft-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XTJUiumo",
+      "versionId": "A3JGKslF"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_bft",

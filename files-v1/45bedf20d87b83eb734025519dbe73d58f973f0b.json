@@ -1,6 +1,18 @@
 {
   "name": "integrated_api_forge-1.2.8+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V6fKbpBN",
+      "versionId": "hI0NwMYj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817709,
+      "fileId": 5186085
+    }
+  ],
   "forge": [
     {
       "modId": "integrated_api",

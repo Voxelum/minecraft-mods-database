@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "40kBiPTu",
+      "versionId": "8GlIRgJY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040396,
+      "fileId": 5450385
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morematteralchemy",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

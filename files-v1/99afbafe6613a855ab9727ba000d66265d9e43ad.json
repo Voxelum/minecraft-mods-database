@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "playertrackingcompass-1.20.1-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mSuqFRIc",
+      "versionId": "euqD6fD1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377858,
+      "fileId": 5572047
+    }
+  ],
   "forge": [
     {
       "modId": "playertrackingcompass",

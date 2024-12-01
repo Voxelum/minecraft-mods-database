@@ -1,6 +1,18 @@
 {
   "name": "brb-1.7.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vWIaVOTE",
+      "versionId": "f2O5t75V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486485,
+      "fileId": 4454807
+    }
+  ],
   "fabric": [
     {
       "modId": "brb",

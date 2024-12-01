@@ -1,6 +1,18 @@
 {
   "name": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.76.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9jxwkYQL",
+      "versionId": "ZNDDpG9k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979317,
+      "fileId": 5370245
+    }
+  ],
   "forge": [
     {
       "modId": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.76",

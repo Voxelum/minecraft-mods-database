@@ -1,6 +1,12 @@
 {
   "name": "immersivemc-1.2.2-1.19.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 607017,
+      "fileId": 4326519
+    }
+  ],
   "forge": [
     {
       "modId": "immersivemc",

@@ -1,0 +1,28 @@
+{
+  "name": "trade-villager-hats-0.1.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L45eoNGD",
+      "versionId": "RVGTgaio"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1019257,
+      "fileId": 5648510
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_trade_villagerhats",
+      "version": "0.1.16"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_trade_villagerhats",
+      "version": "0.1.16"
+    }
+  ]
+}

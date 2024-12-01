@@ -1,6 +1,12 @@
 {
   "name": "classic-enchanted-golden-apple-crafting-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ti7URSCn",
+      "versionId": "ge98n1nw"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_classic_enchantedgoldenapplecrafting",

@@ -1,0 +1,26 @@
+{
+  "name": "FuelInfo-2.1+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J1ueTDcI",
+      "versionId": "23zkZo1G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 489631,
+      "fileId": 5430209
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fuelinfo",
+      "version": "2.1+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

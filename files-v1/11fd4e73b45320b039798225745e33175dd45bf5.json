@@ -1,6 +1,12 @@
 {
   "name": "AM2.5-LTS-1.6.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4NBV2LS4",
+      "versionId": "IRFGNOX9"
+    }
+  ],
   "forge": [
     {
       "modId": "arsmagica2",

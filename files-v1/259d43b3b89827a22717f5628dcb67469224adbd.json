@@ -1,6 +1,18 @@
 {
   "name": "iris-and-sodium-mc1.17-1.1.2+build.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "YwBoFV6P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 3451773
+    }
+  ],
   "fabric": [
     {
       "modId": "iris",

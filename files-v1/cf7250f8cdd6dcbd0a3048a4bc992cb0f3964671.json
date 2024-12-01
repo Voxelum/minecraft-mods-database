@@ -1,6 +1,18 @@
 {
   "name": "SimpleDiscordRichPresence-1.16.4-1.3.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SCAopByd",
+      "versionId": "siQDZMhc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334853,
+      "fileId": 3103834
+    }
+  ],
   "forge": [
     {
       "modId": "sdrp",

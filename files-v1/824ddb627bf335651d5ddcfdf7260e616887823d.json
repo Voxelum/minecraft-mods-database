@@ -1,6 +1,12 @@
 {
   "name": "framework-0.2.4-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 549225,
+      "fileId": 3926054
+    }
+  ],
   "forge": [
     {
       "modId": "framework",

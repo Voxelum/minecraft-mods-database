@@ -1,6 +1,12 @@
 {
   "name": "growthcraft-1.7.10-2.7.3-complete.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 235092,
+      "fileId": 4464624
+    }
+  ],
   "forge": [
     {
       "modId": "Growthcraft|Milk",

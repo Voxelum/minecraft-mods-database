@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QSzy55SB",
+      "versionId": "FiRO23V9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 296468,
+      "fileId": 5438552
+    }
+  ],
+  "forge": [
+    {
+      "modId": "no_fog",
+      "version": "1.3.6+1.17.1-forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_fog",
+      "version": "0.0.0+forge"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "particleculling-1.12.2-v1.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408853,
+      "fileId": 3530681
+    }
+  ],
   "forge": [
     {
       "modId": "particleculling",

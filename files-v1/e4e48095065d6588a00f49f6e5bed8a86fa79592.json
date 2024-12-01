@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "knightlib-fabric-1.20.1-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hAnl9nbm",
+      "versionId": "2JLBAa8Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1105855,
+      "fileId": 5823031
+    }
+  ],
   "fabric": [
     {
       "modId": "knightlib",

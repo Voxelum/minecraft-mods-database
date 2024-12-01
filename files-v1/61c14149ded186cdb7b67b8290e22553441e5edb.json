@@ -1,6 +1,18 @@
 {
   "name": "letmedespawn-neoforge-1.20.2-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vE2FN5qn",
+      "versionId": "26Uop8I8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663477,
+      "fileId": 4908766
+    }
+  ],
   "forge": [
     {
       "modId": "letmedespawn",

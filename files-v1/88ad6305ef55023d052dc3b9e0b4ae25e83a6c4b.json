@@ -1,6 +1,18 @@
 {
   "name": "eating-animation-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rUgZvGzi",
+      "versionId": "hL3lb2hV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 527023,
+      "fileId": 3461857
+    }
+  ],
   "fabric": [
     {
       "modId": "eatinganimationid",

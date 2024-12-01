@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KWva2rvf",
+      "versionId": "CEdTyUXA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clockin",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "completeconfig-base",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "mysql_mysql-connector-java",
+      "version": "5.1.49"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.36.0.3"
+    }
+  ]
+}

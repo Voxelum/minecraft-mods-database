@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZAfRfkTo",
+      "versionId": "nuhX3Zml"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 922508,
+      "fileId": 4800795
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "qualitysounds",
+      "version": "1.0.0-1.19.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "10.1.105"
+    }
+  ]
+}

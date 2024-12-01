@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 957861,
+      "fileId": 5006563
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cave_dweller",
+      "version": "0.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.1+1.20"
+    }
+  ]
+}

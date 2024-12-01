@@ -1,0 +1,24 @@
+{
+  "name": "literally-chunk-loader-2.0.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 378183,
+      "fileId": 4193044
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lchunkloader",
+      "version": "2.0.4"
+    },
+    {
+      "modId": "fabric",
+      "version": "0.58.0+1.19"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.0+1.19"
+    }
+  ]
+}

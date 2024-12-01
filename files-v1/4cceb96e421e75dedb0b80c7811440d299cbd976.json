@@ -1,6 +1,12 @@
 {
   "name": "banner-bedsheets-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pcN1B3cK",
+      "versionId": "Zrs80i81"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_banner_bedsheets",

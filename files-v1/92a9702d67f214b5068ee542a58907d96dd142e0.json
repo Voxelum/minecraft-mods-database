@@ -1,0 +1,46 @@
+{
+  "name": "vcinteraction-fabric-1.20.6-1.0.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qsSP2ZZ0",
+      "versionId": "VoqoSFjv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687977,
+      "fileId": 5301541
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vcinteraction",
+      "version": "1.20.6-1.0.6"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.40+80f8cf51ff"
+    },
+    {
+      "modId": "fabric-content-registries-v0",
+      "version": "8.0.4+b82b2392ff"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432cff"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "5.0.15+f1240ba7ff"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.4+c5fc38b3ff"
+    },
+    {
+      "modId": "polymer-registry-sync-manipulator",
+      "version": "0.8.0-beta.7+1.20.5"
+    }
+  ]
+}

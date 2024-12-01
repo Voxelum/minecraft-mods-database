@@ -1,0 +1,30 @@
+{
+  "name": "respackopts-4.11.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TiF5QWZY",
+      "versionId": "8zp8yqFl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430090,
+      "fileId": 5799816
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "respackopts",
+      "version": "4.11.3"
+    },
+    {
+      "modId": "io_gitlab_jfronny_muscript-all",
+      "version": "2.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "io_gitlab_jfronny_muscript-json",
+      "version": "2.0.0-SNAPSHOT"
+    }
+  ]
+}

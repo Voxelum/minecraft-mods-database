@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "netherexp",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherexp",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

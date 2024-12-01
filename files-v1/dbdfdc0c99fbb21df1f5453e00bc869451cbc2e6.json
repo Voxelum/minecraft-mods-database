@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JPwgh9iH",
+      "versionId": "vudq2lIF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 937305,
+      "fileId": 5644614
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extra_shells",
+      "version": "1.20.1-v1.0.7"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

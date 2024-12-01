@@ -1,6 +1,18 @@
 {
   "name": "l2weaponry-2.4.30.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7q7kOZix",
+      "versionId": "CSSGr95D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 843723,
+      "fileId": 5352484
+    }
+  ],
   "forge": [
     {
       "modId": "l2weaponry",

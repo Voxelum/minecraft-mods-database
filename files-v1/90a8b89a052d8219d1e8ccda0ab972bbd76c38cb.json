@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vmg6jaPW",
+      "versionId": "vw1VVO4p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 543308,
+      "fileId": 5662270
+    }
+  ],
+  "forge": [
+    {
+      "modId": "does_it_tick",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "does_it_tick",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

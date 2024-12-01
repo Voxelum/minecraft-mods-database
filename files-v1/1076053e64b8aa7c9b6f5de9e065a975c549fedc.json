@@ -1,0 +1,22 @@
+{
+  "name": "datapack-reload-helper-1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qsyTzDui",
+      "versionId": "E4Cc0V3J"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_datapack_reloadhelper",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_datapack_reloadhelper",
+      "version": "1.4"
+    }
+  ]
+}

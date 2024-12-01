@@ -1,0 +1,18 @@
+{
+  "mods": [
+    "66f91f7ba28125213926fd7fb258b5b7731e0350",
+    "b1bafb42f2e52e8d7b29f504f0052657f0bb66ea",
+    "3fb15f56a3cc6326bb3f0287ac1bee12bc8c3a80",
+    "92e2a4ed690f4eaa17cdaf802e20b3cd88891f1e",
+    "8044757653ae8c07089c284eb0907cced48939fb",
+    "ba0f27b37fe600d3e69953750d1909da88929a9d"
+  ],
+  "runtime": {
+    "minecraft": "1.21.1",
+    "fabricLoader": "0.16.7"
+  },
+  "java": {
+    "majorVersion": 21,
+    "version": "21.0.5"
+  }
+}

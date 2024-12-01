@@ -1,6 +1,18 @@
 {
   "name": "TreeChop-1.19.2-fabric-0.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHoB7SHO",
+      "versionId": "KZ5JOqts"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421377,
+      "fileId": 5570187
+    }
+  ],
   "forge": [
     {
       "modId": "treechop",

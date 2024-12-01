@@ -1,6 +1,18 @@
 {
   "name": "treeharvester-fabric_1.16.5-5.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "abooMhox",
+      "versionId": "TRYojAfG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 527685,
+      "fileId": 4074120
+    }
+  ],
   "fabric": [
     {
       "modId": "treeharvester-fabric",

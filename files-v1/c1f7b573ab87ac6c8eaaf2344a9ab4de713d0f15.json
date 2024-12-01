@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 468908,
+      "fileId": 5578152
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dusk",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dusk",
+      "version": "1.21-3.7"
+    }
+  ]
+}

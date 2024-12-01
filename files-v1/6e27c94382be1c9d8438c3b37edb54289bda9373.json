@@ -1,6 +1,18 @@
 {
   "name": "morebricksplus-1.20-v1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y76n3eag",
+      "versionId": "zDHamVWP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963132,
+      "fileId": 5039094
+    }
+  ],
   "fabric": [
     {
       "modId": "morebricksplus",

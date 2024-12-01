@@ -1,6 +1,18 @@
 {
   "name": "minimalmenu-1.19-0.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BYtiUf2Z",
+      "versionId": "pzhpn686"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405795,
+      "fileId": 3826009
+    }
+  ],
   "fabric": [
     {
       "modId": "minimalmenu",

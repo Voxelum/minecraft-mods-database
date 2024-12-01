@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BAscRYKm",
+      "versionId": "TmKzHKJx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456956,
+      "fileId": 5813120
+    }
+  ],
   "fabric": [
     {
       "modId": "chipped",

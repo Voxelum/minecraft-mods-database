@@ -1,6 +1,12 @@
 {
   "name": "lucky-cat-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jVFWaCwk",
+      "versionId": "5aMqJu2r"
+    }
+  ],
   "fabric": [
     {
       "modId": "lucky_cat",

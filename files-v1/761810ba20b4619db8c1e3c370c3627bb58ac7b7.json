@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mdAdBC85",
+      "versionId": "72Cfd48r"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servermodmenu",
+      "version": "0.8.6.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.31+1802ada577"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+1802ada577"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.8+1802ada577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.37+1802ada577"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.22+1802ada577"
+    }
+  ]
+}

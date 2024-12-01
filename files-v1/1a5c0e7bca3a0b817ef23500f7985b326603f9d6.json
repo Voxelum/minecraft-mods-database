@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z2V1Gc5e",
+      "versionId": "BH4bzhdL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "streamer-mode",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

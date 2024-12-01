@@ -1,6 +1,18 @@
 {
   "name": "essential_commands-0.35.3-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6VdDUivB",
+      "versionId": "rzMal9h2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 475964,
+      "fileId": 5443109
+    }
+  ],
   "fabric": [
     {
       "modId": "essential_commands",

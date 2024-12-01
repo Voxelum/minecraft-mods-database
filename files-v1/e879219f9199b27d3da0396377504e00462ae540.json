@@ -1,0 +1,14 @@
+{
+  "name": "sleep_punisher-1.16.5-1.0.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sleeppunisher",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "oro_config",
+      "version": "2.1.0"
+    }
+  ]
+}

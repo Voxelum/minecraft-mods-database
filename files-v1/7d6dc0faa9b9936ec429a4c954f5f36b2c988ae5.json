@@ -1,6 +1,12 @@
 {
   "name": "no-elytra-firework-boost-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Esd8r4y8",
+      "versionId": "eSEKOoBR"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_no_elytrafireworkboost",

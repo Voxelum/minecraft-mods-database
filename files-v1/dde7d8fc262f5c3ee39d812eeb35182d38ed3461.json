@@ -1,6 +1,18 @@
 {
   "name": "Powah-5.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZO4S4DO",
+      "versionId": "Gta0D7FF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633483,
+      "fileId": 4638300
+    }
+  ],
   "fabric": [
     {
       "modId": "powah",

@@ -1,6 +1,18 @@
 {
   "name": "chatsigninghider-fabric-1.20.4-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6KrNtW32",
+      "versionId": "D0GuELPp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687621,
+      "fileId": 5116954
+    }
+  ],
   "fabric": [
     {
       "modId": "chatsigninghider",

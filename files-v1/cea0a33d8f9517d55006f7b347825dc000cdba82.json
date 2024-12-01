@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qEThLG0o",
+      "versionId": "WAc50hRb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511224,
+      "fileId": 5238729
+    }
+  ],
+  "forge": [
+    {
+      "modId": "concoctions_and_potions",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "concoctions_and_potions",
+      "version": "1.0.0"
+    }
+  ]
+}

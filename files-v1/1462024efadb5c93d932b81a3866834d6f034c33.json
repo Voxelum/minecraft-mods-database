@@ -1,6 +1,18 @@
 {
   "name": "cinderscapes-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QC4wcUXZ",
+      "versionId": "N7hzNrJ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391429,
+      "fileId": 3424696
+    }
+  ],
   "fabric": [
     {
       "modId": "cinderscapes",

@@ -1,0 +1,10 @@
+{
+  "name": "powersuitaddons-1.6.4-884.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "powersuitaddons",
+      "version": "@VERSION@"
+    }
+  ]
+}

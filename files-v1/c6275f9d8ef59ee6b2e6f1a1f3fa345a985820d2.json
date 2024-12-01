@@ -1,6 +1,18 @@
 {
   "name": "torchmaster-19.2.90.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tl8ESrhX",
+      "versionId": "ajOF5mG5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254268,
+      "fileId": 4569235
+    }
+  ],
   "forge": [
     {
       "modId": "torchmaster",

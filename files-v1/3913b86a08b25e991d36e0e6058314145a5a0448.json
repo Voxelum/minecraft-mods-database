@@ -1,6 +1,18 @@
 {
   "name": "jamlib-0.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IYY9Siz8",
+      "versionId": "5Z2dqlLN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623764,
+      "fileId": 3936210
+    }
+  ],
   "fabric": [
     {
       "modId": "jamlib",

@@ -1,6 +1,12 @@
 {
   "name": "rpintegration-1.12.2-1.5.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308836,
+      "fileId": 2735727
+    }
+  ],
   "forge": [
     {
       "modId": "rpintegration",

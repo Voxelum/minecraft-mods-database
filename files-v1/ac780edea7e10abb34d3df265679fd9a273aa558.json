@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QQXAdCzh",
+      "versionId": "RUMRkcdS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 734339,
+      "fileId": 5467958
+    }
+  ],
   "forge": [
     {
       "modId": "pingwheel",

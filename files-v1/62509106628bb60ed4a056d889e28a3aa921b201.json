@@ -1,6 +1,18 @@
 {
   "name": "onlineemotes.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dc4g4seU",
+      "versionId": "8S5GWqua"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868230,
+      "fileId": 4625670
+    }
+  ],
   "fabric": [
     {
       "modId": "online_emotes",

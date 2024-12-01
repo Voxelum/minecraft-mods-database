@@ -1,6 +1,18 @@
 {
   "name": "spiceoffabric-1.6.1+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "roxihOCb",
+      "versionId": "SDsETwLC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318416,
+      "fileId": 4677233
+    }
+  ],
   "fabric": [
     {
       "modId": "spiceoffabric",

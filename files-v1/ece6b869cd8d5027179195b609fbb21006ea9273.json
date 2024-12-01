@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J2SCGP0Y",
+      "versionId": "ITE4y7fS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354940,
+      "fileId": 5193542
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shulkercharm",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    }
+  ]
+}

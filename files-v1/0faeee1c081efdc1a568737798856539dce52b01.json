@@ -1,6 +1,18 @@
 {
   "name": "EpicFight-17.1.13-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vu3NZ5Ma",
+      "versionId": "euZdWfop"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405076,
+      "fileId": 3740482
+    }
+  ],
   "forge": [
     {
       "modId": "epicfight",

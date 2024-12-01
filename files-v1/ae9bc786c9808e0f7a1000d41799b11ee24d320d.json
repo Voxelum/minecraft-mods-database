@@ -1,0 +1,20 @@
+{
+  "name": "fowlplay-0.5.2-alpha+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WpXfePbg",
+      "versionId": "ESMeTdfu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fowlplay",
+      "version": "0.5.2-alpha+1.21.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

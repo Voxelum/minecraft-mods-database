@@ -1,6 +1,18 @@
 {
   "name": "mine-mine-no-mi-1.16.5-0.10.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AWGqBEjs",
+      "versionId": "lKgoTfgm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 78726,
+      "fileId": 5762433
+    }
+  ],
   "forge": [
     {
       "modId": "mineminenomi",

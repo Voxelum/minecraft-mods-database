@@ -1,6 +1,18 @@
 {
   "name": "neruina-1.1.0-forge+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1s5x833P",
+      "versionId": "bLF5Xi3z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851046,
+      "fileId": 4614088
+    }
+  ],
   "forge": [
     {
       "modId": "neruina",

@@ -1,0 +1,24 @@
+{
+  "name": "MoreGems-Fabric-1.21-1.7.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 377284,
+      "fileId": 5601954
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_gems",
+      "version": "1.7.18"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.8.18"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

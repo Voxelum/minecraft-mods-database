@@ -1,0 +1,36 @@
+{
+  "name": "filament-0.9.11+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yANxwqSX",
+      "versionId": "IpTRzj2a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "filament",
+      "version": "0.9.11+1.21"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.17+1.21.1"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-legacy",
+      "version": "4.17.0"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.13+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "lootr-1.16.5-0.1.12.42.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EltpO5cN",
+      "versionId": "gFBbmSNA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361276,
+      "fileId": 3736640
+    }
+  ],
   "forge": [
     {
       "modId": "lootr",

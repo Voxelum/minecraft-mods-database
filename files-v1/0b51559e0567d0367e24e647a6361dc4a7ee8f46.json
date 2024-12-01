@@ -1,6 +1,18 @@
 {
   "name": "PickleTweaks-1.20.1-8.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J868sgbE",
+      "versionId": "gTuvHdf3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238761,
+      "fileId": 4904261
+    }
+  ],
   "forge": [
     {
       "modId": "pickletweaks",

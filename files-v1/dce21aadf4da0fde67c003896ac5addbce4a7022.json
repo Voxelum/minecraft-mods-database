@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gov5Dboq",
+      "versionId": "guzxC1K0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modern_industrialization",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-81-FABRIC"
+    },
+    {
+      "modId": "magna",
+      "version": "${version}"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    }
+  ]
+}

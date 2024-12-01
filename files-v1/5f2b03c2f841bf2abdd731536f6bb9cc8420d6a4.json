@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "automodpack-mc1.20.1-forge-4.0.0-beta18.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "k68glP2e",
       "versionId": "w0txJDvY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639211,
+      "fileId": 5740285
     }
   ],
   "forge": [

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ANpj0aBF",
+      "versionId": "Y3UrWfKm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercontrols_multiloader",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "bettercontrols",
+      "version": "1.4.0"
+    }
+  ]
+}

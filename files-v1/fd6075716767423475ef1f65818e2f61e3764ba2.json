@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h77S83wP",
+      "versionId": "c51B8j7v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 837277,
+      "fileId": 5648783
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pearfection",
+      "version": "1.2.4"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "10.0.0-beta.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "scroll-for-worldedit-1.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2Agd6VfX",
+      "versionId": "xDztGmwH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 787587,
+      "fileId": 4670308
+    }
+  ],
   "fabric": [
     {
       "modId": "scroll-for-worldedit",

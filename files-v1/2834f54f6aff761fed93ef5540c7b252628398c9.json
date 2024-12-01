@@ -1,0 +1,28 @@
+{
+  "name": "combatlog-2.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nNnLt4Jb",
+      "versionId": "epv9cR8C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665758,
+      "fileId": 4848245
+    }
+  ],
+  "forge": [
+    {
+      "modId": "combatlog",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "combatlog",
+      "version": "2.0"
+    }
+  ]
+}

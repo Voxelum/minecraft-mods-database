@@ -1,6 +1,18 @@
 {
   "name": "OreTweaker-1.16.5-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MEbCLGFC",
+      "versionId": "aNSnfGzN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242436,
+      "fileId": 3299165
+    }
+  ],
   "forge": [
     {
       "modId": "oretweaker",

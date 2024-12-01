@@ -1,4 +1,16 @@
 {
   "name": "GravityGun1.5.1.zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229072,
+      "fileId": 2232140
+    }
+  ],
+  "forge": [
+    {
+      "modId": "GraviGun",
+      "version": "1.5.1"
+    }
+  ]
 }

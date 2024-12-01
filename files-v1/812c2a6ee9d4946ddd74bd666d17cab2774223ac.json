@@ -1,6 +1,12 @@
 {
   "name": "lone_house-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nv4GECHn",
+      "versionId": "mzuhfPec"
+    }
+  ],
   "fabric": [
     {
       "modId": "lone_house",

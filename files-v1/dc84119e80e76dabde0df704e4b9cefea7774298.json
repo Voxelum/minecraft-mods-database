@@ -1,0 +1,30 @@
+{
+  "name": "【REI】RoughlyEnoughItems-5.11.188-1.16.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "5.11.188"
+    },
+    {
+      "modId": "roughlyenoughitems-api",
+      "version": "5.11.188"
+    },
+    {
+      "modId": "roughlyenoughitems-default-plugin",
+      "version": "5.11.188"
+    },
+    {
+      "modId": "roughlyenoughitems-runtime",
+      "version": "5.11.188"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.0+daa38b3d7d"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.5.47"
+    }
+  ]
+}

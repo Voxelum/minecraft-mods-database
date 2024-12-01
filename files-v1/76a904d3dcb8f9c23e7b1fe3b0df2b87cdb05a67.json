@@ -1,6 +1,18 @@
 {
   "name": "vc_gliders-fabric-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XiC6HzoU",
+      "versionId": "klPNnsOe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 828331,
+      "fileId": 4662637
+    }
+  ],
   "fabric": [
     {
       "modId": "vc_gliders",

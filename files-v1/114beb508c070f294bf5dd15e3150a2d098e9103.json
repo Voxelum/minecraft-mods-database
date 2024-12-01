@@ -1,6 +1,18 @@
 {
   "name": "C-NorthStar-0.1cb.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XuHYu7cF",
+      "versionId": "VE7xSKd3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1071749,
+      "fileId": 5611707
+    }
+  ],
   "forge": [
     {
       "modId": "northstar",

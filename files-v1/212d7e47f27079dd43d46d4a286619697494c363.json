@@ -1,5 +1,6 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "VEOQ4Jz4",
@@ -10,6 +11,12 @@
     {
       "projectId": 1018043,
       "fileId": 5587134
+    }
+  ],
+  "forge": [
+    {
+      "modId": "knightquest",
+      "version": "1.4.2"
     }
   ]
 }

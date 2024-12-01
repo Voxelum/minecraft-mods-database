@@ -1,6 +1,18 @@
 {
   "name": "entangled-1.3.16-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rylMOguI",
+      "versionId": "vbkmrU79"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 301034,
+      "fileId": 4720130
+    }
+  ],
   "fabric": [
     {
       "modId": "entangled",

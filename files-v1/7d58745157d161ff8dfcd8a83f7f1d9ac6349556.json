@@ -1,6 +1,12 @@
 {
   "name": "balancedrecall-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 520624,
+      "fileId": 4583818
+    }
+  ],
   "fabric": [
     {
       "modId": "balancedrecall",

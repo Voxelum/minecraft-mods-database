@@ -1,6 +1,18 @@
 {
   "name": "DungeonsAriseSevenSeas-1.19.2-1.0.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZsrrjDbP",
+      "versionId": "V6Ezy6GH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 953637,
+      "fileId": 4981336
+    }
+  ],
   "fabric": [
     {
       "modId": "dungeons_arise_seven_seas",

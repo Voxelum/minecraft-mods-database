@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IGy6WPhs",
+      "versionId": "KFFrIZ0x"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zefiroptimizations",
+      "version": "0.0.1-alpha2"
+    },
+    {
+      "modId": "com_typesafe_akka_akka-actor-typed_3",
+      "version": "2.9.4"
+    },
+    {
+      "modId": "com_typesafe_akka_akka-actor_3",
+      "version": "2.9.4"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "org_scala-lang_modules_scala-java8-compat_2_13",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "org_scala-lang_scala3-library_3",
+      "version": "3.3.3"
+    }
+  ]
+}

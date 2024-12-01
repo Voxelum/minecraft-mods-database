@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "jamlib-fabric-1.2.1+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IYY9Siz8",
+      "versionId": "3HYN8gKf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623764,
+      "fileId": 5831267
+    }
+  ],
   "fabric": [
     {
       "modId": "jamlib",

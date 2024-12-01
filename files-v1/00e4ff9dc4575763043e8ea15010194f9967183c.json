@@ -1,0 +1,62 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 979326,
+      "fileId": 5838236
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": "1.20.1-0.10.45.32"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.2+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.2+1.20.1"
+    }
+  ]
+}

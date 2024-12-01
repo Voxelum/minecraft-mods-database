@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VJkx9nDN",
+      "versionId": "2vWHxSO9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 811662,
+      "fileId": 5538953
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spellbladenext",
+      "version": "1.18.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "autoattack-2.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 358906,
+      "fileId": 3130624
+    }
+  ],
   "forge": [
     {
       "modId": "autoattack",

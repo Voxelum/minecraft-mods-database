@@ -1,0 +1,20 @@
+{
+  "name": "ClientDataGet-1.1+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IEn5W5Oo",
+      "versionId": "lh6pF0Sc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemstealer",
+      "version": "1.1+1.21"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.9"
+    }
+  ]
+}

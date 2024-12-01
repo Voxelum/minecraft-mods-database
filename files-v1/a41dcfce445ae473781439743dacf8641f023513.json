@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "Harmonia-fabric-1.2.0.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "GdS8zuZT",
       "versionId": "Ij1bwLBQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1001446,
+      "fileId": 5436579
     }
   ],
   "fabric": [

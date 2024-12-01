@@ -1,6 +1,18 @@
 {
   "name": "pvzmod-1.16.5-0.6.4 pre1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ze0Q4iFR",
+      "versionId": "FqabdBGG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411396,
+      "fileId": 4566255
+    }
+  ],
   "forge": [
     {
       "modId": "pvz",

@@ -1,6 +1,12 @@
 {
   "name": "inventorymanagement-1.1.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F7wXag4i",
+      "versionId": "r4z4a5NO"
+    }
+  ],
   "fabric": [
     {
       "modId": "inventorymanagement",

@@ -1,6 +1,18 @@
 {
   "name": "redstonepen-1.19.2-forge-1.2.32.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DwE83ioX",
+      "versionId": "hxRxVDub"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 461710,
+      "fileId": 5242849
+    }
+  ],
   "forge": [
     {
       "modId": "redstonepen",

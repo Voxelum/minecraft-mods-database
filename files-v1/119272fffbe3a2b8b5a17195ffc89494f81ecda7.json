@@ -1,6 +1,12 @@
 {
   "name": "mclib-2.1.1-1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 304750,
+      "fileId": 3098298
+    }
+  ],
   "forge": [
     {
       "modId": "mclib",

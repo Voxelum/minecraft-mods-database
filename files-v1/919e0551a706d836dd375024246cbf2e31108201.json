@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xDjN28OB",
+      "versionId": "KAadQBAC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 469658,
+      "fileId": 5183142
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanyorigins",
+      "version": "1.1.1+1.20.1-fabric"
+    },
+    {
+      "modId": "apugli",
+      "version": "2.10.1+1.20.1-fabric"
+    },
+    {
+      "modId": "wwfix",
+      "version": "1.0.0+hotfix.1"
+    }
+  ]
+}

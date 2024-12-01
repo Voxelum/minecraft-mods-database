@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "iatw",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.14+1.21"
+    }
+  ]
+}

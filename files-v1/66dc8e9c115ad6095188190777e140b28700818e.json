@@ -1,0 +1,20 @@
+{
+  "name": "smoke-suppression-1.0.19+MC1.20.2-1.20.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nKcekY2P",
+      "versionId": "3TNsr85M"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoke_suppression",
+      "version": "1.0.19"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

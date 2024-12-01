@@ -1,6 +1,18 @@
 {
   "name": "RedWolfMusicExpansion-1.5-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dphvnplL",
+      "versionId": "PSvW4uah"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632937,
+      "fileId": 4133424
+    }
+  ],
   "forge": [
     {
       "modId": "redwolf_music_mod",

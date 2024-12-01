@@ -1,0 +1,16 @@
+{
+  "name": "biobutchers-delight-2.02.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_biobutchers_delight",
+      "version": "2.02"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_biobutchers_delight",
+      "version": "2.02"
+    }
+  ]
+}

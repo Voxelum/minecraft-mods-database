@@ -1,6 +1,18 @@
 {
   "name": "stormfest-v2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DKknxXqy",
+      "versionId": "D11e1W1Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 545658,
+      "fileId": 4615661
+    }
+  ],
   "fabric": [
     {
       "modId": "stormfest",

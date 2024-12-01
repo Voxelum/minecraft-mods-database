@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VNE7B6rB",
+      "versionId": "6OnxzTIE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extendedhotbar",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

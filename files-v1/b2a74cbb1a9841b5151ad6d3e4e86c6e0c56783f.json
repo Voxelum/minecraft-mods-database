@@ -1,6 +1,18 @@
 {
   "name": "xaeroarrowfix-forge-1.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uyEClyfU",
+      "versionId": "Nd9rd7Jn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827985,
+      "fileId": 4446582
+    }
+  ],
   "forge": [
     {
       "modId": "xaeroarrowfix",

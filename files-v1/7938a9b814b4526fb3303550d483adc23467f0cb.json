@@ -1,6 +1,12 @@
 {
   "name": "pollen-fabric-2.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544350,
+      "fileId": 4685983
+    }
+  ],
   "fabric": [
     {
       "modId": "pollen",

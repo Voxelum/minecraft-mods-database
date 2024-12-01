@@ -1,0 +1,28 @@
+{
+  "name": "seasonhud-fabric-1.20.1-1.10.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iDiIfZLX",
+      "versionId": "u5Cz1UKY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848022,
+      "fileId": 5772800
+    }
+  ],
+  "forge": [
+    {
+      "modId": "seasonhud",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.10.8"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zJpHMkdD",
+      "versionId": "dRnapizT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 332273,
+      "fileId": 5870137
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "6.0.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.130"
+    },
+    {
+      "modId": "dimlib",
+      "version": "1.1.0+mc1.21.1"
+    }
+  ]
+}

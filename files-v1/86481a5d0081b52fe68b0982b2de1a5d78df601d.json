@@ -1,6 +1,18 @@
 {
   "name": "simple-snowy-fix-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NnbdLUli",
+      "versionId": "gDuqWNud"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 933027,
+      "fileId": 4838753
+    }
+  ],
   "fabric": [
     {
       "modId": "simple-snowy-fix",

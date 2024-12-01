@@ -1,6 +1,12 @@
 {
   "name": "fabric-enchantments-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 498465,
+      "fileId": 4765940
+    }
+  ],
   "fabric": [
     {
       "modId": "fabricenchantments",

@@ -1,0 +1,26 @@
+{
+  "name": "spyglass_astronomy-1.0.15-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EdBSdqge",
+      "versionId": "aHHKkRuW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 822372,
+      "fileId": 5884900
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spyglass_astronomy",
+      "version": "1.0.15-mc1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

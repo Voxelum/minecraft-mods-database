@@ -1,6 +1,12 @@
 {
   "name": "tiered-1.1.1-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 615948,
+      "fileId": 4034606
+    }
+  ],
   "fabric": [
     {
       "modId": "tiered",

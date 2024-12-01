@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "rctmod",
+      "version": 0
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rctmod",
+      "version": "0.11.1-alpha"
+    }
+  ]
+}

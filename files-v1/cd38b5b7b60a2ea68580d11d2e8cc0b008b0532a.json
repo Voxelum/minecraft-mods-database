@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "fabrictailor-2.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g8w1NapE",
+      "versionId": "UDZdkBPN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390114,
+      "fileId": 5436047
+    }
+  ],
   "fabric": [
     {
       "modId": "fabrictailor",

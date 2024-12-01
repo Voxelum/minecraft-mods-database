@@ -1,6 +1,12 @@
 {
   "name": "steampowered-1.16.5-1.2.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534610,
+      "fileId": 4046414
+    }
+  ],
   "forge": [
     {
       "modId": "steampowered",

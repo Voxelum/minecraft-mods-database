@@ -1,6 +1,12 @@
 {
   "name": "moss-ruins-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aA4qcziz",
+      "versionId": "uVLmmln6"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_moss_ruins",

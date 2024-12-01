@@ -1,6 +1,18 @@
 {
   "name": "itemcollectors-1.1.9-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y9vDr4Th",
+      "versionId": "i5PmcFbz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395620,
+      "fileId": 5002799
+    }
+  ],
   "fabric": [
     {
       "modId": "itemcollectors",

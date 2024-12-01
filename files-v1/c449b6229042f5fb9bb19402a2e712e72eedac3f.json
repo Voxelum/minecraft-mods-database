@@ -1,0 +1,26 @@
+{
+  "name": "Scribble-1.4.1-beta+mc1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yXAvIk0x",
+      "versionId": "Gysraf0G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051344,
+      "fileId": 5868951
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scribble",
+      "version": "1.4.1-beta"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.4+cb5ced13d1"
+    }
+  ]
+}

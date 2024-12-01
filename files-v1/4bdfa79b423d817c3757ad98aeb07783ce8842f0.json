@@ -1,0 +1,20 @@
+{
+  "name": "exnihiloextras-fabric-1.19.2-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "df69gHGo",
+      "versionId": "xMcERVGe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exnihiloextras",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

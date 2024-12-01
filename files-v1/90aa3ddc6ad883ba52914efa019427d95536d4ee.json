@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fCpuZIcM",
+      "versionId": "AD4u1IDb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687618,
+      "fileId": 5457524
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcepackchecker",
+      "version": "1.20.4-1.2.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.34+f31bf88132"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.14+f31bf88132"
+    }
+  ]
+}

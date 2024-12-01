@@ -1,6 +1,18 @@
 {
   "name": "prodigytech-1.12.2-1.3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NWkx0rbj",
+      "versionId": "ZA5Nm9x8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297414,
+      "fileId": 2769520
+    }
+  ],
   "forge": [
     {
       "modId": "prodigytech",

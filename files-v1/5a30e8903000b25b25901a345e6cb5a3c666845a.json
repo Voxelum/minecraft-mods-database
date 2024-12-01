@@ -1,0 +1,20 @@
+{
+  "name": "naturalmotionblur-1.1.2+mc1.21.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RlEyqCCv",
+      "versionId": "mRHbvLqq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "naturalmotionblur",
+      "version": "1.1.2+mc1.21"
+    },
+    {
+      "modId": "satin",
+      "version": "2.0.0"
+    }
+  ]
+}

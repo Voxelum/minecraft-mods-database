@@ -1,6 +1,18 @@
 {
   "name": "scarecrowsterritory-1.1.11-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1RaTTUPz",
+      "versionId": "a5jw50Sq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 435965,
+      "fileId": 4733621
+    }
+  ],
   "fabric": [
     {
       "modId": "scarecrowsterritory",

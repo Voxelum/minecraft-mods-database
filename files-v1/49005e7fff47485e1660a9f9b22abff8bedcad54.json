@@ -1,6 +1,18 @@
 {
   "name": "FactoryAPI-1.19.2-0.1.8-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nkTZHOLD",
+      "versionId": "Oow6aE1c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704136,
+      "fileId": 4600304
+    }
+  ],
   "fabric": [
     {
       "modId": "factory_api",

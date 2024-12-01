@@ -1,6 +1,18 @@
 {
   "name": "TieFix-1.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jxuxsA0D",
+      "versionId": "7MP0Ay5i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560957,
+      "fileId": 3625238
+    }
+  ],
   "fabric": [
     {
       "modId": "tiefix",

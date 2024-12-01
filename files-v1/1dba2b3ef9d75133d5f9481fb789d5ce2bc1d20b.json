@@ -1,0 +1,28 @@
+{
+  "name": "movingelevators-1.4.9-fabric-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9KZOe6HD",
+      "versionId": "pWBk3UsA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373051,
+      "fileId": 5824583
+    }
+  ],
+  "forge": [
+    {
+      "modId": "movingelevators",
+      "version": "1.4.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "movingelevators",
+      "version": "1.4.9"
+    }
+  ]
+}

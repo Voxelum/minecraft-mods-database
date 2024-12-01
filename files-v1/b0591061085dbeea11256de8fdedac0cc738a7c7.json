@@ -1,6 +1,18 @@
 {
   "name": "betterbiomeblend-1.17.0-1.2.9-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rs6c7WyL",
+      "versionId": "xBrLoYrU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446253,
+      "fileId": 3421283
+    }
+  ],
   "fabric": [
     {
       "modId": "betterbiomeblend",

@@ -1,6 +1,18 @@
 {
   "name": "peculiar-pieces-1.2.17.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qCIOjJW2",
+      "versionId": "xNPSQ9dZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 644001,
+      "fileId": 4689690
+    }
+  ],
   "fabric": [
     {
       "modId": "peculiarpieces",

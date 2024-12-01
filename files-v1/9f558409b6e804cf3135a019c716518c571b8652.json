@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CLY1G1sI",
+      "versionId": "uPjq4oJw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magical-programming",
+      "version": "0.3.1-1.20.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.6+1.20.3"
+    }
+  ]
+}

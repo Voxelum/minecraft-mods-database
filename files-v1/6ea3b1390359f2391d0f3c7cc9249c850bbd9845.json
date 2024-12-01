@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1089818,
+      "fileId": 5658192
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynnlang-remake",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpcore-nio",
+      "version": "4.3.2"
+    },
+    {
+      "modId": "com_konghq_unirest-java",
+      "version": "3.13.6"
+    }
+  ]
+}

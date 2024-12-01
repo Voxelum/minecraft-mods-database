@@ -1,0 +1,38 @@
+{
+  "name": "potionparticlepack-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uGKlslKZ",
+      "versionId": "iSj8oA9Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895267,
+      "fileId": 4773953
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "potionparticlepack",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    }
+  ]
+}

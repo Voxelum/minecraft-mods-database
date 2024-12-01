@@ -1,0 +1,22 @@
+{
+  "name": "cloudbuster-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C3QAfYFo",
+      "versionId": "nWohJpo9"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cloudbuster",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloudbuster",
+      "version": "1.0.4-1"
+    }
+  ]
+}

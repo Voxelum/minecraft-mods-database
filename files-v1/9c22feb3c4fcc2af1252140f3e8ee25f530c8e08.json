@@ -1,6 +1,12 @@
 {
   "name": "Harmonia-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1001446,
+      "fileId": 5258135
+    }
+  ],
   "fabric": [
     {
       "modId": "harmonia",

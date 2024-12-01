@@ -1,6 +1,12 @@
 {
   "name": "blackbarconcealer-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OpQzuo63",
+      "versionId": "fxmNH27P"
+    }
+  ],
   "fabric": [
     {
       "modId": "blackbarconcealer",

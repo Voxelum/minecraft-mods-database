@@ -1,6 +1,12 @@
 {
   "name": "advanced-xray-forge-1.19.4-2.15.0-build.17.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256256,
+      "fileId": 4470159
+    }
+  ],
   "forge": [
     {
       "modId": "xray",

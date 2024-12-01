@@ -1,6 +1,18 @@
 {
   "name": "doubledoors-fabric_1.16.5-3.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JrvR9OHr",
+      "versionId": "Kz8m9noN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541214,
+      "fileId": 4015978
+    }
+  ],
   "fabric": [
     {
       "modId": "doubledoors-fabric",

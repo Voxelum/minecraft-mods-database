@@ -1,6 +1,18 @@
 {
   "name": "BFAPI-V1-1-8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "toILlMg6",
+      "versionId": "9QCIJOVz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 501198,
+      "fileId": 3425333
+    }
+  ],
   "fabric": [
     {
       "modId": "bfapi",

@@ -1,6 +1,18 @@
 {
   "name": "modernsplash-1.12.2-1.2.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WQC4Wtzw",
+      "versionId": "y9laouFU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 629058,
+      "fileId": 4477570
+    }
+  ],
   "forge": [
     {
       "modId": "modernsplash",

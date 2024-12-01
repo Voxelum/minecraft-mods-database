@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6iTJugQR",
+      "versionId": "DAjFbSa3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896746,
+      "fileId": 5308081
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amendments",
+      "version": "1.20-1.1.26"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

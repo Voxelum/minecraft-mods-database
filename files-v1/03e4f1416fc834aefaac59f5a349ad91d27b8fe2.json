@@ -1,6 +1,18 @@
 {
   "name": "healingcampfire-1.20.1-5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kOuPUitF",
+      "versionId": "WlipzkEX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342623,
+      "fileId": 4852557
+    }
+  ],
   "forge": [
     {
       "modId": "healingcampfire",

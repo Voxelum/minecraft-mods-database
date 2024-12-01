@@ -1,6 +1,18 @@
 {
   "name": "convenientcurioscontainer-1.12-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jIJyY7rq",
+      "versionId": "3CqcMD0v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544033,
+      "fileId": 4399870
+    }
+  ],
   "forge": [
     {
       "modId": "convenientcurioscontainer",

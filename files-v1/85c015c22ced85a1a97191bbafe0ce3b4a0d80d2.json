@@ -1,6 +1,18 @@
 {
   "name": "EggDelight-v1.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gNPz4Cy4",
+      "versionId": "NJeHHrYh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927250,
+      "fileId": 5171032
+    }
+  ],
   "forge": [
     {
       "modId": "eggdelight",

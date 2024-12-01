@@ -1,6 +1,18 @@
 {
   "name": "shuffle-forge-1.19.4-7.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WUvGZLgB",
+      "versionId": "tmi7g0xv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360916,
+      "fileId": 4503237
+    }
+  ],
   "forge": [
     {
       "modId": "shuffle",

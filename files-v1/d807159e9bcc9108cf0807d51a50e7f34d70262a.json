@@ -1,0 +1,10 @@
+{
+  "name": "[内存清理：重织] memory_clear-1.0.0-fabric-1.20.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "memory_clear",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1ki33vOm",
+      "versionId": "sBEQ66gO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flashcards",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "com_opencsv_opencsv",
+      "version": "5.9"
+    }
+  ]
+}

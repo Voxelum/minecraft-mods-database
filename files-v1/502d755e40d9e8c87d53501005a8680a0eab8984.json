@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RWf9UJdD",
+      "versionId": "qmQPccgK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1032219,
+      "fileId": 5942799
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_recipes_plus",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_recipes_plus",
+      "version": "1.4.0"
+    }
+  ]
+}

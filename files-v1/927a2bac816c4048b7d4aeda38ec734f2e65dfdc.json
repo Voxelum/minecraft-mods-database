@@ -1,0 +1,64 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SzzJttH8",
+      "versionId": "kjph7s7Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028108,
+      "fileId": 5597769
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tacz-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tacz-fabric",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "mkb",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "com_github_286799714_luaj_luaj-jse",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "com_github_286799714_luaj_luaj-core",
+      "version": "3.0.3"
+    }
+  ]
+}

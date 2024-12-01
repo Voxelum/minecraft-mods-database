@@ -1,0 +1,24 @@
+{
+  "name": "noemotecraft-fabric-2.5.2+mc1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pSQGhi9I",
+      "versionId": "6TuBVc9E"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noemotecraft",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "5.0-rc2"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.0-alpha1+1.21"
+    }
+  ]
+}

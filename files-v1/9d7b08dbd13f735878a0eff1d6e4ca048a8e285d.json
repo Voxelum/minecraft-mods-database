@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorstatues",
+      "version": "8.0.6"
+    },
+    {
+      "modId": "puzzlesapi",
+      "version": "8.1.4"
+    }
+  ]
+}

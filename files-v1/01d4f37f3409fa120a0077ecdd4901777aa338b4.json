@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XZNI4Cpy",
+      "versionId": "JGgg4c2g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396826,
+      "fileId": 5548581
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_storage",
+      "version": "1.6.14"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

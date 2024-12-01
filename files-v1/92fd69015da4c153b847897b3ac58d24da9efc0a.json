@@ -1,6 +1,18 @@
 {
   "name": "ibeeditor-1.16.5-2.0.10-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E9sX1ncV",
+      "versionId": "VEqZ0Gub"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256822,
+      "fileId": 3599734
+    }
+  ],
   "fabric": [
     {
       "modId": "ibeeditor",

@@ -1,0 +1,36 @@
+{
+  "name": "LightOverlay-4.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YfOlc91N",
+      "versionId": "9mfEH0k2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325492,
+      "fileId": 2931777
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lightoverlay-forge",
+      "version": "4.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightoverlay",
+      "version": "4.4"
+    },
+    {
+      "modId": "cloth",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "2.13.2"
+    }
+  ]
+}

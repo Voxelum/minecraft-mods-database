@@ -1,6 +1,12 @@
 {
   "name": "enderite-upgrade-v5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rUMMUMK4",
+      "versionId": "bYYNlNw4"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_enderite_upgrade",

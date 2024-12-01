@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "epicterrain-0.1.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "7qSJGSHp",
       "versionId": "PidZU29j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1075383,
+      "fileId": 5865158
     }
   ],
   "forge": [

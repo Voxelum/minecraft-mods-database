@@ -1,6 +1,12 @@
 {
   "name": "radio-1.20.4-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ab2GBNpI",
+      "versionId": "9NfkfXTr"
+    }
+  ],
   "fabric": [
     {
       "modId": "radio",

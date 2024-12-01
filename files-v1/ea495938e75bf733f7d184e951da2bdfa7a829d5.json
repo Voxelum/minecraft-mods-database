@@ -1,6 +1,12 @@
 {
   "name": "morechests-forge-1.19.3-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 737045,
+      "fileId": 4199857
+    }
+  ],
   "forge": [
     {
       "modId": "more_chests",

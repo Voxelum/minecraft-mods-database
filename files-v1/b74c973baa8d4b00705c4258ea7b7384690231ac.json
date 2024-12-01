@@ -1,6 +1,12 @@
 {
   "name": "justenoughspeed-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2FrExR96",
+      "versionId": "924dBADH"
+    }
+  ],
   "fabric": [
     {
       "modId": "justenoughspeed",

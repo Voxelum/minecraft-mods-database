@@ -1,6 +1,12 @@
 {
   "name": "pneumonocore-1.1.3+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZLKQjA7t",
+      "versionId": "oYNm2ylK"
+    }
+  ],
   "fabric": [
     {
       "modId": "pneumonocore",

@@ -1,6 +1,18 @@
 {
   "name": "Dice-[MC-1.20.1]-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YaTcrHqS",
+      "versionId": "PdfbnB3Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538587,
+      "fileId": 5230951
+    }
+  ],
   "forge": [
     {
       "modId": "dice",

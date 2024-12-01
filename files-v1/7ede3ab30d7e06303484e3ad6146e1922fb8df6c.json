@@ -1,6 +1,18 @@
 {
   "name": "glassential-forge-1.20.1-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kVa5y52B",
+      "versionId": "4LXJsXDa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319194,
+      "fileId": 5245960
+    }
+  ],
   "forge": [
     {
       "modId": "glassential",

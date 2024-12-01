@@ -1,6 +1,12 @@
 {
   "name": "observable-0.2.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VYRu7qmG",
+      "versionId": "Pg3uqzyX"
+    }
+  ],
   "fabric": [
     {
       "modId": "observable",

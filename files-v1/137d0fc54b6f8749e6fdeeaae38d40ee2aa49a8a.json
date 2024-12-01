@@ -1,0 +1,10 @@
+{
+  "name": "entityculling-with-edited-metadata-im-lazy.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entityculling",
+      "version": "1.7.0+git.c04be8e"
+    }
+  ]
+}

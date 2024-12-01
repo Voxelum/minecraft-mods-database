@@ -1,6 +1,12 @@
 {
   "name": "LootBags.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 610556,
+      "fileId": 3750917
+    }
+  ],
   "forge": [
     {
       "modId": "loot_bags",

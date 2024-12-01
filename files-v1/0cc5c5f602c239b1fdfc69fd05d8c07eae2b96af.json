@@ -1,6 +1,18 @@
 {
   "name": "banilla-claws-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dsbDBkUn",
+      "versionId": "9Qo1ErxU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 629973,
+      "fileId": 3842403
+    }
+  ],
   "fabric": [
     {
       "modId": "vanilla_claws",

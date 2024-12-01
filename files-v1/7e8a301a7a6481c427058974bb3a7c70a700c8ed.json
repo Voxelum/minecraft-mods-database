@@ -1,6 +1,18 @@
 {
   "name": "potionparticlepack-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uGKlslKZ",
+      "versionId": "1XaXief2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895267,
+      "fileId": 4666698
+    }
+  ],
   "fabric": [
     {
       "modId": "potionparticlepack",

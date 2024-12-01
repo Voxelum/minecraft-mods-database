@@ -1,6 +1,18 @@
 {
   "name": "bsvsb-3.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tu2FohxL",
+      "versionId": "4TP0M1P0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 437443,
+      "fileId": 4475191
+    }
+  ],
   "fabric": [
     {
       "modId": "bsvsb",

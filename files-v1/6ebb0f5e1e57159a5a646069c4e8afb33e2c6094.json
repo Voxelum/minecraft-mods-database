@@ -1,6 +1,18 @@
 {
   "name": "Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JmybsfWs",
+      "versionId": "PiqvawlN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864781,
+      "fileId": 5453018
+    }
+  ],
   "forge": [
     {
       "modId": "create_dd",

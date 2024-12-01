@@ -1,6 +1,18 @@
 {
   "name": "corpsecomplex-forge-1.16.5-4.0.2.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uA8ykOdd",
+      "versionId": "LkGMiw9P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 271605,
+      "fileId": 3725390
+    }
+  ],
   "forge": [
     {
       "modId": "corpsecomplex",

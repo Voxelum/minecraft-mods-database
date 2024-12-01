@@ -1,6 +1,12 @@
 {
   "name": "thirdpersonboating-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QCPupgrj",
+      "versionId": "eu1zOhTt"
+    }
+  ],
   "fabric": [
     {
       "modId": "thirdpersonboating",

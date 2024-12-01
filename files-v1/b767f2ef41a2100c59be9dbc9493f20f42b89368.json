@@ -1,6 +1,18 @@
 {
   "name": "resourcefullib-forge-1.20.1-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1hIVOrD",
+      "versionId": "tIBkUaKa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570073,
+      "fileId": 4598948
+    }
+  ],
   "forge": [
     {
       "modId": "resourcefullib",

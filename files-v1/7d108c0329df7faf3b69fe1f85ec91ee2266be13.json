@@ -1,0 +1,90 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7vxePowz",
+      "versionId": "7DuLh9tk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 993166,
+      "fileId": 5935233
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight",
+      "version": "1.21.1-2.2.3+refabricated"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_conditions",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "porting_lib_gui_utils",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_item_abilities",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_level_events",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_recipe_book_categories",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "3.1.0-fdrf.4+1.21.1"
+    }
+  ]
+}

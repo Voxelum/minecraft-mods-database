@@ -1,6 +1,18 @@
 {
   "name": "teletubbies-11.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rAexXkf4",
+      "versionId": "coqXaDTR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 236040,
+      "fileId": 4592814
+    }
+  ],
   "forge": [
     {
       "modId": "teletubbies",

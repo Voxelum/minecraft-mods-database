@@ -1,6 +1,18 @@
 {
   "name": "calibrated-1.2.1-hotfix.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pUSRRdVF",
+      "versionId": "Oj0nE6A5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 823331,
+      "fileId": 4651234
+    }
+  ],
   "fabric": [
     {
       "modId": "calibrated",

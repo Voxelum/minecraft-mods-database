@@ -1,6 +1,12 @@
 {
   "name": "Fertilizer 1.19 Forge v.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 635804,
+      "fileId": 4017256
+    }
+  ],
   "forge": [
     {
       "modId": "better_bone_meal",

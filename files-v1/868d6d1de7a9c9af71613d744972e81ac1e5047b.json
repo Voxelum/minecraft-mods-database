@@ -1,6 +1,18 @@
 {
   "name": "grapplemod-1.8+1.20(.1).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f4hp6FTb",
+      "versionId": "A6VKCyyT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 820533,
+      "fileId": 5226155
+    }
+  ],
   "fabric": [
     {
       "modId": "grapplemod",

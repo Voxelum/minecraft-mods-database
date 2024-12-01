@@ -1,6 +1,18 @@
 {
   "name": "language-reload-1.5.7+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uLbm7CG6",
+      "versionId": "BvZSi6xV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 527334,
+      "fileId": 4572883
+    }
+  ],
   "fabric": [
     {
       "modId": "languagereload",

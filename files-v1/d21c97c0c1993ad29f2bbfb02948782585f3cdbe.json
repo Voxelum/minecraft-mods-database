@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "torch_hit",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "torch_hit",
+      "version": "7.0.0"
+    }
+  ]
+}

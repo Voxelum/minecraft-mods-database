@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RU9P4YIO",
+      "versionId": "HmwDNBiY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1114851,
+      "fileId": 5782283
+    }
+  ],
+  "forge": [
+    {
+      "modId": "smelt_netheritescrap_to_ingot",
+      "version": "1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smelt_netheritescrap_to_ingot",
+      "version": "1.2.2"
+    }
+  ]
+}

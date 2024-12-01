@@ -1,0 +1,32 @@
+{
+  "name": "immersivelanterns-fabric-1.0.5-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vskzdsyT",
+      "versionId": "wZkZbrWq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1116812,
+      "fileId": 5915883
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivelanterns",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivelanterns",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

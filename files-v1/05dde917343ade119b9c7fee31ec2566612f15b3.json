@@ -1,6 +1,18 @@
 {
   "name": "farmersknives-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uc3VdfLM",
+      "versionId": "yZzS9MpL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628972,
+      "fileId": 4010255
+    }
+  ],
   "fabric": [
     {
       "modId": "farmersknives",

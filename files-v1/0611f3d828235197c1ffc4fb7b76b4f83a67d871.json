@@ -1,6 +1,18 @@
 {
   "name": "netherwart-1.20.1-6-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CahyPDjh",
+      "versionId": "FdzNTcmA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 517690,
+      "fileId": 4633722
+    }
+  ],
   "forge": [
     {
       "modId": "netherwart",

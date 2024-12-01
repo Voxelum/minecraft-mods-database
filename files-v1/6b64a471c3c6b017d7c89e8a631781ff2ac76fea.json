@@ -1,6 +1,18 @@
 {
   "name": "tameablebeasts-1.20.1-5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IOZULlo2",
+      "versionId": "8mimenQG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 646425,
+      "fileId": 5365859
+    }
+  ],
   "forge": [
     {
       "modId": "tameablebeasts",

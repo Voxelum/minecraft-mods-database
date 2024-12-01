@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrJ2NpD0",
+      "versionId": "bxaD5QWl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552277,
+      "fileId": 5434203
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftify",
+      "version": "1.16.0"
+    },
+    {
+      "modId": "elementa",
+      "version": "636"
+    },
+    {
+      "modId": "vigilance",
+      "version": "295"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "342"
+    }
+  ]
+}

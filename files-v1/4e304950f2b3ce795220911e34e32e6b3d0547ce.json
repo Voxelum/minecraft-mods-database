@@ -1,0 +1,10 @@
+{
+  "name": "splash-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "splash_window",
+      "version": "1.0"
+    }
+  ]
+}

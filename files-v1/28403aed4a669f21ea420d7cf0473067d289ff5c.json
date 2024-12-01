@@ -1,6 +1,18 @@
 {
   "name": "Craftify-1.19-1.11.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrJ2NpD0",
+      "versionId": "m8r4Fvx2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552277,
+      "fileId": 4612963
+    }
+  ],
   "fabric": [
     {
       "modId": "craftify",

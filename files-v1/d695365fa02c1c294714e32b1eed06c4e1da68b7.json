@@ -1,6 +1,18 @@
 {
   "name": "simplysneak-0.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "brZ0DkyF",
+      "versionId": "lQfFvIE9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972456,
+      "fileId": 5247460
+    }
+  ],
   "forge": [
     {
       "modId": "simplysneak",

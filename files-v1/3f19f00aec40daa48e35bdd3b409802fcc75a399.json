@@ -1,6 +1,12 @@
 {
   "name": "discord-screenshot-sender-1.2-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7kGggUg",
+      "versionId": "SjIF1zpl"
+    }
+  ],
   "fabric": [
     {
       "modId": "discord-screenshot-sender",

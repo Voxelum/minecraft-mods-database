@@ -1,6 +1,18 @@
 {
   "name": "biomeinfo-1.19.2-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fws7jX8r",
+      "versionId": "vHS09aAM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291480,
+      "fileId": 3963674
+    }
+  ],
   "forge": [
     {
       "modId": "biomeinfo",

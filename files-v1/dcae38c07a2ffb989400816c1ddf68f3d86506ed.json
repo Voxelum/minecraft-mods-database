@@ -1,6 +1,18 @@
 {
   "name": "graves-1.0.8+1.17.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yn9u3ypm",
+      "versionId": "X6tr77Md"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 497175,
+      "fileId": 3422346
+    }
+  ],
   "fabric": [
     {
       "modId": "universal-graves",

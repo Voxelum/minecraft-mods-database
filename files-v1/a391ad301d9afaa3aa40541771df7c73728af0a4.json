@@ -1,6 +1,18 @@
 {
   "name": "vinery-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1DWmBJVA",
+      "versionId": "ibob4Vu4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704465,
+      "fileId": 4477441
+    }
+  ],
   "fabric": [
     {
       "modId": "vinery",

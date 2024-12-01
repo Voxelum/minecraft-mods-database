@@ -1,6 +1,18 @@
 {
   "name": "Tired-1.19-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cNzDv8Kx",
+      "versionId": "mIiWR1Tx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 567492,
+      "fileId": 3902114
+    }
+  ],
   "forge": [
     {
       "modId": "tired",

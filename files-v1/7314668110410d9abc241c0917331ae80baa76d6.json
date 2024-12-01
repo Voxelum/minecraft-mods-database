@@ -1,0 +1,60 @@
+{
+  "name": "DistantHorizons-2.2.1-a-1.20.4-forge-fabric.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uCdwusMi",
+      "versionId": "jptcCdp2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508933,
+      "fileId": 5689281
+    }
+  ],
+  "forge": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.2.1-a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.2.1-a"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.35+78d798af4f"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.29+78d798af4f"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.15+78d798af4f"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.6.14+78d798af4f"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "3.0.12+78d798af4f"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "3.1.2+78d798af4f"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.16+78d798af4f"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.40+78d798af4f"
+    }
+  ]
+}

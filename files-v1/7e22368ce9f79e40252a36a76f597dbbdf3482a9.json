@@ -1,6 +1,18 @@
 {
   "name": "sparkle-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lpsy1gMk",
+      "versionId": "4UTGHrYU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580714,
+      "fileId": 4692562
+    }
+  ],
   "fabric": [
     {
       "modId": "sparkle",

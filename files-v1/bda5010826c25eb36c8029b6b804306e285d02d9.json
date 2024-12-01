@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCTyEqkn",
+      "versionId": "ZKxLxf3R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378036,
+      "fileId": 3251041
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "whereisit",
+      "version": "1.11.7"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    }
+  ]
+}

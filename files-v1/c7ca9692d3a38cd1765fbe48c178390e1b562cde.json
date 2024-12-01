@@ -1,6 +1,18 @@
 {
   "name": "modernlife-1.16.5-1.51.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AwQInKYB",
+      "versionId": "bxUoVrLz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483050,
+      "fileId": 3764334
+    }
+  ],
   "forge": [
     {
       "modId": "modernlife",

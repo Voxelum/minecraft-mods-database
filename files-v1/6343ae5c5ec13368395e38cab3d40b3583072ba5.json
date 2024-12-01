@@ -1,6 +1,18 @@
 {
   "name": "BotanyTrees-Fabric-1.19.2-5.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mvs7RoIW",
+      "versionId": "oBwO166j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411357,
+      "fileId": 4529268
+    }
+  ],
   "fabric": [
     {
       "modId": "botanytrees",

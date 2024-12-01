@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkI4SefA",
+      "versionId": "2E9T3MDC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "methane",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "libmcdev-fabric",
+      "version": "1.4.2"
+    }
+  ]
+}

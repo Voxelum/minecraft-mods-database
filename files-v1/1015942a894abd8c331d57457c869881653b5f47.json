@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G922NeHS",
+      "versionId": "mBD3v45M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 869524,
+      "fileId": 5619771
+    }
+  ],
+  "forge": [
+    {
+      "modId": "watermedia",
+      "version": "2.0.70"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watermedia",
+      "version": "2.0.70"
+    }
+  ]
+}

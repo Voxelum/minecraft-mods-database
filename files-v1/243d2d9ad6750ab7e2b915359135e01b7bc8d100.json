@@ -1,6 +1,18 @@
 {
   "name": "[1.16.5] SecurityCraft v1.9.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v8jzRtAt",
+      "versionId": "6hoBymJO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 64760,
+      "fileId": 4121476
+    }
+  ],
   "forge": [
     {
       "modId": "securitycraft",

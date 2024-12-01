@@ -1,6 +1,18 @@
 {
   "name": "mavm-fabric-1.3.0-mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zitu8weW",
+      "versionId": "QqyhOizq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498797,
+      "fileId": 5498048
+    }
+  ],
   "fabric": [
     {
       "modId": "mavm",

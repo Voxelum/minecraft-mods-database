@@ -1,0 +1,62 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extrasounds",
+      "version": "3.0.0+1.21~lonefelidae16-build.4"
+    },
+    {
+      "modId": "extrasounds-mc1_18-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_18_2-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_19-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_19_1-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_19_3-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_19_4-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_20-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_20_2-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_20_5-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "extrasounds-mc1_21-module",
+      "version": "3.0.0+e68a077f~lonefelidae16"
+    },
+    {
+      "modId": "groominglib",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "extrasounds-logics",
+      "version": "3.0.0+1.21~lonefelidae16-SNAPSHOT"
+    },
+    {
+      "modId": "soundcategories",
+      "version": "2.0.0+d706bb0a~lonefelidae16"
+    }
+  ]
+}

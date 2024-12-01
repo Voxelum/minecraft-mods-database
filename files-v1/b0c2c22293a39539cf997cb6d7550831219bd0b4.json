@@ -1,6 +1,12 @@
 {
   "name": "Custom-Raid-forge-1.18.2-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 670878,
+      "fileId": 3974964
+    }
+  ],
   "forge": [
     {
       "modId": "craid",

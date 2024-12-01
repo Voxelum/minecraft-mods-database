@@ -1,6 +1,18 @@
 {
   "name": "fsb-interop-1.3.3+mc1.19.4-build.45.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HpdHOPOp",
+      "versionId": "yy5yRfmr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 697845,
+      "fileId": 4647902
+    }
+  ],
   "fabric": [
     {
       "modId": "fsb-interop",

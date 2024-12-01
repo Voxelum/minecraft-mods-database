@@ -1,6 +1,18 @@
 {
   "name": "RoughlyEnoughItems-9.1.619.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nfn13YXA",
+      "versionId": "ghJDK396"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 4573157
+    }
+  ],
   "forge": [
     {
       "modId": "roughlyenoughitems",

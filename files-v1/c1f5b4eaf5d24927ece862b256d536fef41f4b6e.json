@@ -1,0 +1,28 @@
+{
+  "name": "epic-terrain_compatible-0.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc69VpnK",
+      "versionId": "PWstuPsG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1137535,
+      "fileId": 5891633
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_epic_terrain_compatible",
+      "version": "0.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_epic_terrain_compatible",
+      "version": "0.1.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "EndportalRecipe.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VbCjkvcq",
+      "versionId": "OdmIsKE8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 346030,
+      "fileId": 4583666
+    }
+  ],
   "forge": [
     {
       "modId": "endportalrecipe",

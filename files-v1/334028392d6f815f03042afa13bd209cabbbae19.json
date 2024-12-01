@@ -1,6 +1,18 @@
 {
   "name": "【masa投影】litematica-fabric-1.19.4-0.14.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bEpr0Arc",
+      "versionId": "ntxgv6pr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308892,
+      "fileId": 4447936
+    }
+  ],
   "fabric": [
     {
       "modId": "litematica",

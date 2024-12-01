@@ -1,6 +1,12 @@
 {
   "name": "totw_additions-1.2.4-1.19.x-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560091,
+      "fileId": 4390044
+    }
+  ],
   "fabric": [
     {
       "modId": "totw_additions",

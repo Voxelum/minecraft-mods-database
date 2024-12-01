@@ -1,0 +1,16 @@
+{
+  "name": "hammerx-1.12-1.1.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 304053,
+      "fileId": 2660634
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hammerx",
+      "version": "${version}"
+    }
+  ]
+}

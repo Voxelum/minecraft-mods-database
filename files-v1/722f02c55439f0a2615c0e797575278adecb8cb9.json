@@ -1,0 +1,16 @@
+{
+  "name": "TheAnnoyingVillagersByPugilistSteve (190).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.6.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "${version}"
+    }
+  ]
+}

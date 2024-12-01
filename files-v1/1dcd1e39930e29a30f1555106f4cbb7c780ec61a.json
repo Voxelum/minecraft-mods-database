@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HO64QSJp",
+      "versionId": "NzcNwcRk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821771,
+      "fileId": 4689106
+    }
+  ],
   "fabric": [
     {
       "modId": "fluidvoidfading",

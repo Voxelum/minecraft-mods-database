@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yqPDaCpj",
+      "versionId": "mZoqHsJN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mafishmod",
+      "version": "0.22-1.20.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "XaeroPlus-2.8+forge-1.19.2-WM1.38.4-MM24.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "nUUDKpTx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866084,
+      "fileId": 5263177
+    }
+  ],
   "forge": [
     {
       "modId": "xaeroplus",

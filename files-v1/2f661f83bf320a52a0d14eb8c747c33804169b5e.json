@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tr2Mv6ke",
+      "versionId": "bQlZnx6U"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sushi_bar",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    }
+  ]
+}

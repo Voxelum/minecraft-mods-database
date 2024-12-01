@@ -1,6 +1,18 @@
 {
   "name": "inventorytotem-1.20.2-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yQj7xqEM",
+      "versionId": "sBHaeAe3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349071,
+      "fileId": 4964665
+    }
+  ],
   "forge": [
     {
       "modId": "inventorytotem",

@@ -1,0 +1,20 @@
+{
+  "name": "KelUI-2.0.0-dev_build.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xnfo5zEj",
+      "versionId": "dC5DYV5V"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kelui",
+      "version": "2.0.0-dev_build.5"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

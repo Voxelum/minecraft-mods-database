@@ -1,0 +1,24 @@
+{
+  "name": "horse-stats-vanilla-4.1.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 351393,
+      "fileId": 3301560
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "horsestatsvanilla",
+      "version": "4.1.7"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.14"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.3.5+1.16.5"
+    }
+  ]
+}

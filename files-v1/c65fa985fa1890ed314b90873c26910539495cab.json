@@ -1,0 +1,26 @@
+{
+  "name": "rocks-1.8.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sb5ypgDP",
+      "versionId": "m6cPF4yu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416283,
+      "fileId": 5560549
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rocks",
+      "version": "1.8.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

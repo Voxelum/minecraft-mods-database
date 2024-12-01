@@ -1,6 +1,12 @@
 {
   "name": "potioncounter-1.4.0+mc1.20.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JzdjByS4",
+      "versionId": "fsQk57lT"
+    }
+  ],
   "fabric": [
     {
       "modId": "potioncounter",

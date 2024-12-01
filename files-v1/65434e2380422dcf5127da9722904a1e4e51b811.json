@@ -1,0 +1,26 @@
+{
+  "name": "fabric-wider_ender_chests-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EDVt0J2I",
+      "versionId": "xqPh05Jy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010456,
+      "fileId": 5330193
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wider_ender_chests",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

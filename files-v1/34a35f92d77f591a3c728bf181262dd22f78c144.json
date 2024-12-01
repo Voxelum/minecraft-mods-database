@@ -1,6 +1,12 @@
 {
   "name": "roost_ultimate-1.18.2-0.2.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 621910,
+      "fileId": 3956334
+    }
+  ],
   "forge": [
     {
       "modId": "chicken_roost",

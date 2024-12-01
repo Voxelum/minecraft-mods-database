@@ -1,0 +1,28 @@
+{
+  "name": "BiomesOPlenty-fabric-1.21.3-21.2.0.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 220318,
+      "fileId": 5898281
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomesoplenty",
+      "version": "21.2.0.4"
+    },
+    {
+      "modId": "net_jodah_typetools",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    }
+  ]
+}

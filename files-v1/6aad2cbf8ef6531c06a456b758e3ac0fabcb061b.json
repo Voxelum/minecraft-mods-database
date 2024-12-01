@@ -1,6 +1,18 @@
 {
   "name": "globalpacks-fabric-1.21-21.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRLPy2mk",
+      "versionId": "4DGCC9Z2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317134,
+      "fileId": 5454675
+    }
+  ],
   "fabric": [
     {
       "modId": "globalpacks",

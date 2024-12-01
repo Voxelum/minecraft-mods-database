@@ -1,6 +1,18 @@
 {
   "name": "rftoolsctrl-1.12-1.8.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DQjhR62z",
+      "versionId": "bCU3Pevr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250763,
+      "fileId": 2541782
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolscontrol",

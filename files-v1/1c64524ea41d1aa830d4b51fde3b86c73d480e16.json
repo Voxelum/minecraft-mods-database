@@ -1,6 +1,18 @@
 {
   "name": "MTS Official Pack-1.12.2-V26.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C7TiPPJz",
+      "versionId": "c98RPkCW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292217,
+      "fileId": 5621528
+    }
+  ],
   "forge": [
     {
       "modId": "mtsofficialpack",

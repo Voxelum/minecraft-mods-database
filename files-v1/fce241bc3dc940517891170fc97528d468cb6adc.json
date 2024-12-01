@@ -1,6 +1,18 @@
 {
   "name": "phantasm-forge-0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JGfljjtd",
+      "versionId": "Sp9entGs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565254,
+      "fileId": 5301054
+    }
+  ],
   "forge": [
     {
       "modId": "phantasm",

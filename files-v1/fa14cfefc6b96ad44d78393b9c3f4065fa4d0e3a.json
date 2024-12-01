@@ -1,6 +1,12 @@
 {
   "name": "upgraded-mobs-1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iaFWBDP2",
+      "versionId": "vthXuJMV"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_upgraded_mobs",

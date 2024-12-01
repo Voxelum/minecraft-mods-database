@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544459,
+      "fileId": 5848328
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "g4mespeed",
+      "version": "1.4.9-mc1.21.3"
+    },
+    {
+      "modId": "g4mespeed-ui",
+      "version": "0.9.12-mc1.21.3"
+    }
+  ]
+}

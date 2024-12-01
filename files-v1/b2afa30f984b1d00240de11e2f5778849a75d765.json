@@ -1,6 +1,18 @@
 {
   "name": "embersconstruct-1.12.2-1.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kdPvOaAo",
+      "versionId": "ukwBO63f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 359414,
+      "fileId": 3202426
+    }
+  ],
   "forge": [
     {
       "modId": "embersconstruct",

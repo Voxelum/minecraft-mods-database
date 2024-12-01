@@ -1,6 +1,18 @@
 {
   "name": "verdantvibes-1.0.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NmDRyAF4",
+      "versionId": "38relxeU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917969,
+      "fileId": 4783113
+    }
+  ],
   "forge": [
     {
       "modId": "verdantvibes",

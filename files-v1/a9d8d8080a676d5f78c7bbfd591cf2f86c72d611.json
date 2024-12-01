@@ -1,6 +1,18 @@
 {
   "name": "pistorder-mc1.20-v1.5.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lpin1bEg",
+      "versionId": "T96e9vvK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430118,
+      "fileId": 4572258
+    }
+  ],
   "fabric": [
     {
       "modId": "pistorder",

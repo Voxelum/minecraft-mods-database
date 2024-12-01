@@ -1,6 +1,12 @@
 {
   "name": "简单的猫simplycats-1.16.5-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRhXcqHZ",
+      "versionId": "vII0JqK0"
+    }
+  ],
   "forge": [
     {
       "modId": "simplycats",

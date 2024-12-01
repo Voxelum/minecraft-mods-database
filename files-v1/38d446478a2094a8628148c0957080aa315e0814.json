@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sandwichable",
+      "version": "1.4.3-farmersdelight+1.19"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.0.0+1.19"
+    }
+  ]
+}

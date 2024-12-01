@@ -1,6 +1,18 @@
 {
   "name": "fireflies-1.20-1.11.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PG3i7czA",
+      "versionId": "zX7ZCcHL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665555,
+      "fileId": 4665903
+    }
+  ],
   "forge": [
     {
       "modId": "fireflies",

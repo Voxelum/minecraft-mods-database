@@ -1,6 +1,18 @@
 {
   "name": "forestry-A-2.2.8.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MHni9gjy",
+      "versionId": "oJ4NsVHY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 59751,
+      "fileId": 718248
+    }
+  ],
   "forge": [
     {
       "modId": "Forestry",

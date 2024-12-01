@@ -1,6 +1,18 @@
 {
   "name": "Medieval Decoration v.1.0 1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v84HYuYv",
+      "versionId": "PIUt3SuD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 679286,
+      "fileId": 4002970
+    }
+  ],
   "forge": [
     {
       "modId": "playtics_deco",

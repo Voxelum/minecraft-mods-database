@@ -1,6 +1,12 @@
 {
   "name": "elytras-forge-1.19.2-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 915316,
+      "fileId": 4761640
+    }
+  ],
   "forge": [
     {
       "modId": "elytras",

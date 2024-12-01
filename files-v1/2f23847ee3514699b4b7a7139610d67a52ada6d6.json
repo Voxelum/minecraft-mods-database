@@ -1,6 +1,18 @@
 {
   "name": "structure-expansion-1802.1.1-build.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKJL3zrR",
+      "versionId": "fpN5MPZ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398430,
+      "fileId": 3671150
+    }
+  ],
   "forge": [
     {
       "modId": "structureexpansion",

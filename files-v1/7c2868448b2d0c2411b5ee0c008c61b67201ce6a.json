@@ -1,6 +1,12 @@
 {
   "name": "charm-fabric-1.17-3.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318872,
+      "fileId": 3393290
+    }
+  ],
   "fabric": [
     {
       "modId": "charm",

@@ -1,6 +1,18 @@
 {
   "name": "BetterF3-Forge-v2.0.0-1.17-1.17.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8shC1gFX",
+      "versionId": "GwlU7rpA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401648,
+      "fileId": 4030556
+    }
+  ],
   "forge": [
     {
       "modId": "betterf3",

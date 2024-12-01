@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zCfxiiAW",
+      "versionId": "NQonarLq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038549,
+      "fileId": 5844147
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spellengineextension",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

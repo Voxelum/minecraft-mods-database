@@ -1,6 +1,12 @@
 {
   "name": "pighistorywaddle.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 480435,
+      "fileId": 3372751
+    }
+  ],
   "forge": [
     {
       "modId": "dead_guys_pig_history",

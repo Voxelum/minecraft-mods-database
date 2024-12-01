@@ -1,6 +1,18 @@
 {
   "name": "uilib-0.2.11-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AOEDs9Al",
+      "versionId": "Yz7Tjjsg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 933200,
+      "fileId": 4994855
+    }
+  ],
   "fabric": [
     {
       "modId": "uilib",

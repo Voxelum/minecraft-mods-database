@@ -1,10 +1,20 @@
 {
   "name": "ftb-essentials-neoforge-2101.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YyNQVpOu",
+      "versionId": "9GDp1QbG"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 410811,
       "fileId": 5631477
+    },
+    {
+      "projectId": 394140,
+      "fileId": 5822820
     }
   ]
 }

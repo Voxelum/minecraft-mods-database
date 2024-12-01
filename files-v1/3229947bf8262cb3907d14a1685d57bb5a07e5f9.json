@@ -1,6 +1,18 @@
 {
   "name": "oculus-flywheel-compat-forge1.19.2+1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ndHYMY2K",
+      "versionId": "1ZgLmcOO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659897,
+      "fileId": 5637184
+    }
+  ],
   "forge": [
     {
       "modId": "irisflw",

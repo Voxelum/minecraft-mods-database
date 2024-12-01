@@ -1,6 +1,18 @@
 {
   "name": "passableleaves-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "islPsGe4",
+      "versionId": "JVlq5ByG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 701723,
+      "fileId": 4715746
+    }
+  ],
   "fabric": [
     {
       "modId": "passableleaves",

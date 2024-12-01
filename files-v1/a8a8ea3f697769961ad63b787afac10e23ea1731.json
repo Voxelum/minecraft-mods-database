@@ -1,6 +1,12 @@
 {
   "name": "pressalttomeow-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EjH4M3L1",
+      "versionId": "MeW4W6f8"
+    }
+  ],
   "fabric": [
     {
       "modId": "pressalttomeow",

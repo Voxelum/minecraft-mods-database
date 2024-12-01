@@ -1,6 +1,18 @@
 {
   "name": "audioplayer-1.19.2-1.8.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRlzjEBS",
+      "versionId": "AtLYMxQU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549719,
+      "fileId": 4748356
+    }
+  ],
   "fabric": [
     {
       "modId": "audioplayer",

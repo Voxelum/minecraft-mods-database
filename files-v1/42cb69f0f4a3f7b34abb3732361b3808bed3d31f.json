@@ -1,6 +1,12 @@
 {
   "name": "Pokecube Core-4.16.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 238253,
+      "fileId": 2345550
+    }
+  ],
   "forge": [
     {
       "modId": "pceditmod",

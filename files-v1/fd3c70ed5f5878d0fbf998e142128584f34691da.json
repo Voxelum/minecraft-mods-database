@@ -1,6 +1,12 @@
 {
   "name": "carrier-1.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 409184,
+      "fileId": 3327390
+    }
+  ],
   "fabric": [
     {
       "modId": "carrier",

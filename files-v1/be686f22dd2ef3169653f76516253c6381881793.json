@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GANSln7U",
+      "versionId": "YwJsaEEm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1108235,
+      "fileId": 5750312
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoshutdown",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "【经典游戏图标】classic-minecraft-icon-mc1.20-v1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NTUQ8Yoi",
+      "versionId": "HYKLg81N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873049,
+      "fileId": 4580207
+    }
+  ],
   "fabric": [
     {
       "modId": "classic-minecraft-icon",

@@ -1,6 +1,18 @@
 {
   "name": "VanitySlots-1.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YTVu0oG8",
+      "versionId": "CDWOxd3v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570109,
+      "fileId": 4556201
+    }
+  ],
   "fabric": [
     {
       "modId": "vanityslots",

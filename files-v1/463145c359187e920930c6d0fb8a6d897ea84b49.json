@@ -1,0 +1,16 @@
+{
+  "name": "[村庄]lukis-grand-capitals-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_lukis_grandcapitals",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lukis_grandcapitals",
+      "version": "1.0"
+    }
+  ]
+}

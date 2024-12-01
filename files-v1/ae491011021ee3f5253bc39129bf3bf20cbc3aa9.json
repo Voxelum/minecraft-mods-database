@@ -1,6 +1,12 @@
 {
   "name": "CreateFullyAutomated.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8f6jkgAa",
+      "versionId": "uuH3uLoD"
+    }
+  ],
   "forge": [
     {
       "modId": "create_fully_automated",

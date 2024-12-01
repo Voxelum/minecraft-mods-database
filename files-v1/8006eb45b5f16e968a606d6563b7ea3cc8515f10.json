@@ -1,6 +1,18 @@
 {
   "name": "rftoolsbase-1.15-1.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hIO8IsD8",
+      "versionId": "TJpJxFzh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 326041,
+      "fileId": 3057520
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolsbase",

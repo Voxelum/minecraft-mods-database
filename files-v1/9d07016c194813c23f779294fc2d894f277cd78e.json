@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "adabraniummod",
+      "version": "2.2.0+1.18-rc3"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "muf0XoRe",
+      "versionId": "ZrIT5PK7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391366,
+      "fileId": 5640091
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "6.3.29+1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "noarcher-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394325,
+      "fileId": 2999265
+    }
+  ],
   "forge": [
     {
       "modId": "noarcher",

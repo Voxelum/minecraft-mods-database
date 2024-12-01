@@ -1,0 +1,38 @@
+{
+  "name": "styledplayerlist-3.5.1+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DQIfKUHf",
+      "versionId": "Ui7MOgqG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442282,
+      "fileId": 5474107
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "styledplayerlist",
+      "version": "3.5.1+1.21"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.5.0+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.6.0+1.21"
+    }
+  ]
+}

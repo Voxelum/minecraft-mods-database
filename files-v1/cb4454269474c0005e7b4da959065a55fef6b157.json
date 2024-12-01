@@ -1,6 +1,12 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhHNjn7K",
+      "versionId": "5wBofF8c"
+    }
+  ],
   "fabric": [
     {
       "modId": "fastconfigapi",

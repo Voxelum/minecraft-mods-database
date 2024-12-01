@@ -1,6 +1,12 @@
 {
   "name": "lava-monster-1.16.4-1.0.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 60329,
+      "fileId": 3100352
+    }
+  ],
   "forge": [
     {
       "modId": "lava_monster",

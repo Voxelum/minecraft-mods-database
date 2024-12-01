@@ -1,0 +1,38 @@
+{
+  "name": "MagicLib-mc1.21.1-fabric-0.8.633-stable.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mv1zH6ln",
+      "versionId": "hsgyIFaV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576459,
+      "fileId": 5811336
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magiclib",
+      "version": "0.8.633+eddde66-stable"
+    },
+    {
+      "modId": "magiclib_core",
+      "version": "0.8.133+4857a7d-stable"
+    },
+    {
+      "modId": "magiclib_malilib_extra",
+      "version": "0.8.59+eddde66-stable"
+    },
+    {
+      "modId": "magiclib-1_21_1",
+      "version": "0.8.30+8d71d8f-stable"
+    },
+    {
+      "modId": "magiclib_minecraft_api",
+      "version": "0.6.74+1c0a956-stable"
+    }
+  ]
+}

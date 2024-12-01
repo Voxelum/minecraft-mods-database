@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6aZTHLYT",
+      "versionId": "hCkvUNpi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905853,
+      "fileId": 5073783
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thigh_highs_etc",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.3.62-MC1.20.1"
+    }
+  ]
+}

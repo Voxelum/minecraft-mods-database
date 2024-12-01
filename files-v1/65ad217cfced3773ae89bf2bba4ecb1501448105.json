@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uPWCQrVL",
+      "versionId": "jHCuPXTd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 478890,
+      "fileId": 3583585
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extrasounds",
+      "version": "2.2.0+1.18"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.1"
+    },
+    {
+      "modId": "soundcategories",
+      "version": "1.2.0+1.18"
+    }
+  ]
+}

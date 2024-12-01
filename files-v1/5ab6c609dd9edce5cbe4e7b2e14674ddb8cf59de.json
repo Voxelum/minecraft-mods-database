@@ -1,6 +1,18 @@
 {
   "name": "Fastload+1.18.2-1.19.4-3.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kCpssoSb",
+      "versionId": "WryJ0FUZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630620,
+      "fileId": 4486638
+    }
+  ],
   "fabric": [
     {
       "modId": "fastload",

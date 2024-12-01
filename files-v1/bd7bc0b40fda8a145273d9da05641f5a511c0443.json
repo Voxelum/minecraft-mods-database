@@ -1,6 +1,18 @@
 {
   "name": "convenient-mobgriefing-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FJI3H6YI",
+      "versionId": "GYP5cKT7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 374048,
+      "fileId": 4318940
+    }
+  ],
   "fabric": [
     {
       "modId": "convenient-mobgriefing",

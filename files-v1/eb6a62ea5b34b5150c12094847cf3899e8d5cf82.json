@@ -1,6 +1,18 @@
 {
   "name": "mes-1.2-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4PuRGfV",
+      "versionId": "Y34F1WUQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892382,
+      "fileId": 4717093
+    }
+  ],
   "fabric": [
     {
       "modId": "mes",

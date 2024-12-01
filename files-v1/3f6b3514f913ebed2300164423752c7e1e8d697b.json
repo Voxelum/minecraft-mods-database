@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9uikk2Ea",
+      "versionId": "cRcEfaXa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1126793,
+      "fileId": 5871076
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bundleinventory",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.5+c47b9d4373"
+    }
+  ]
+}

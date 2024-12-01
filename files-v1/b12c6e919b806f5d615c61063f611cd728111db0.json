@@ -1,6 +1,18 @@
 {
   "name": "randomium-1.20-1.30-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lz9WMhfG",
+      "versionId": "XHZMR9TX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523013,
+      "fileId": 5021066
+    }
+  ],
   "fabric": [
     {
       "modId": "randomium",

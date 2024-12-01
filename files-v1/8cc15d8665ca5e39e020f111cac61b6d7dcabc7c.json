@@ -1,6 +1,18 @@
 {
   "name": "durabilitytooltip-1.1.4-forge-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "smUP7V3r",
+      "versionId": "by5pT1ht"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511040,
+      "fileId": 4016227
+    }
+  ],
   "forge": [
     {
       "modId": "durabilitytooltip",

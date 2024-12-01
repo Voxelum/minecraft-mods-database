@@ -1,6 +1,18 @@
 {
   "name": "servercore-neoforge-1.5.0+1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WWQxlQP",
+      "versionId": "wQcV1dxW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550579,
+      "fileId": 5230964
+    }
+  ],
   "forge": [
     {
       "modId": "servercore",

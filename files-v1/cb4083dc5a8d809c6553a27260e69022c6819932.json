@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y5Ve4Ui4",
+      "versionId": "pAIARq00"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antique_atlas",
+      "version": "2.9.17+1.21"
+    },
+    {
+      "modId": "surveyor",
+      "version": "0.6.23+1.21"
+    }
+  ]
+}

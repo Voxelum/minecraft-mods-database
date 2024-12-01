@@ -1,0 +1,22 @@
+{
+  "name": "logprot-fabric-1.21-3.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 358304,
+      "fileId": 5559308
+    }
+  ],
+  "forge": [
+    {
+      "modId": "logprot",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "logprot",
+      "version": "1.21-3.4"
+    }
+  ]
+}

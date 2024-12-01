@@ -1,0 +1,20 @@
+{
+  "name": "lootbeams-2.8.1-mc1.21-.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFPOjWlN",
+      "versionId": "l1IOSUFg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "2.8.1-mc1.21-.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

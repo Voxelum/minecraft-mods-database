@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z8BTj1V5",
+      "versionId": "Sh6Vf4F4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014664,
+      "fileId": 5352395
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reignitedhud",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.5.116"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "DefaultSettings-1.16.x-1.18.x-4.0.5-Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 451860,
+      "fileId": 4439549
+    }
+  ],
   "fabric": [
     {
       "modId": "defaultsettings",

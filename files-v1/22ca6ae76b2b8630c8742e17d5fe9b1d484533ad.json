@@ -1,6 +1,18 @@
 {
   "name": "jei-1.16.4-7.6.1.63.json",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "pLkiJEt5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 3154910
+    }
+  ],
   "forge": [
     {
       "modId": "jei",

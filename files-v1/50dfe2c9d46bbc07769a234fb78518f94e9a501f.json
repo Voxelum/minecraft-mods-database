@@ -1,6 +1,12 @@
 {
   "name": "simple-rpc-1.17-2.4-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 3461894
+    }
+  ],
   "fabric": [
     {
       "modId": "simple-rpc",

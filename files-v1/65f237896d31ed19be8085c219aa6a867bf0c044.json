@@ -1,6 +1,18 @@
 {
   "name": "wormhole-1.1.15-forge-mc1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6nHZTTjQ",
+      "versionId": "8DbPqzs4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396803,
+      "fileId": 4749271
+    }
+  ],
   "forge": [
     {
       "modId": "wormhole",

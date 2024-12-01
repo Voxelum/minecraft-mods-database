@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V9wJ92Jg",
+      "versionId": "529ewr1T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 932431,
+      "fileId": 4836328
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rtp",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rtp",
+      "version": "1.0.0"
+    }
+  ]
+}

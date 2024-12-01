@@ -1,6 +1,18 @@
 {
   "name": "player-animation-lib-forge-0.3.5+1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gedNE4y2",
+      "versionId": "RYYvz0bV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658587,
+      "fileId": 3955873
+    }
+  ],
   "forge": [
     {
       "modId": "playeranimator",

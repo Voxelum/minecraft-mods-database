@@ -1,6 +1,12 @@
 {
   "name": "create-dyn-light-forge-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1076861,
+      "fileId": 5592941
+    }
+  ],
   "forge": [
     {
       "modId": "createdynlight",

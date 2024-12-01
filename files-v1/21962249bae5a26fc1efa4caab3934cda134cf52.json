@@ -1,6 +1,12 @@
 {
   "name": "spark-1.10.41-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "dVHkMOHv"
+    }
+  ],
   "fabric": [
     {
       "modId": "spark",

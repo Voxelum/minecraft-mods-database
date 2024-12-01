@@ -1,6 +1,12 @@
 {
   "name": "biomancy-forge-1.19.2-2.1.12.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uAAuyU4M",
+      "versionId": "dM4m9KFS"
+    }
+  ],
   "forge": [
     {
       "modId": "biomancy",

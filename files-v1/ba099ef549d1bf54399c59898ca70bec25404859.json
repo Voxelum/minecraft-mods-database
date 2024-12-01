@@ -1,6 +1,18 @@
 {
   "name": "emotecraft-for-MC1.20.1-2.2.7-a.build.49-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "jBlri9Pa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403422,
+      "fileId": 4587353
+    }
+  ],
   "forge": [
     {
       "modId": "emotecraft",

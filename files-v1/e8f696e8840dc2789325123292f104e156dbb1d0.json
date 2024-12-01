@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sswaystones",
+      "version": "1.1.4-HOTFIX"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.10.1+1.21.3"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.10.1+1.21.3"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.7.2+1.21.2"
+    }
+  ]
+}

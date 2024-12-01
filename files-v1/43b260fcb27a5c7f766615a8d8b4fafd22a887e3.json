@@ -1,0 +1,22 @@
+{
+  "name": "legacycraft-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O4tBmDjT",
+      "versionId": "MBnuTmJv"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_legacycraft",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_legacycraft",
+      "version": "1"
+    }
+  ]
+}

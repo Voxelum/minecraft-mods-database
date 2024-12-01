@@ -1,0 +1,16 @@
+{
+  "name": "CreateNumismatics-fabric-1.20.1-1.1.0+fabric-mc1.20.1-build.541.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "numismatics",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "numismatics",
+      "version": "1.1.0+fabric-mc1.20.1-build.541"
+    }
+  ]
+}

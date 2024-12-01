@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rbMt0AmF",
+      "versionId": "gr3VnS7K"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "halohud",
+      "version": "4.3+1.20.5"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "1.14+1.20.5"
+    }
+  ]
+}

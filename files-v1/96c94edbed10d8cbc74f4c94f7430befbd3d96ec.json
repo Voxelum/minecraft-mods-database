@@ -1,6 +1,18 @@
 {
   "name": "Modpack Configuration Checker-1.19.x-v1.9.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RDd8zUHa",
+      "versionId": "7JA6UBa3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292992,
+      "fileId": 4166320
+    }
+  ],
   "forge": [
     {
       "modId": "concheckrmd",

@@ -1,6 +1,12 @@
 {
   "name": "MobCatcher-Fabric-1.19.2-1.2.15.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 498389,
+      "fileId": 4133483
+    }
+  ],
   "fabric": [
     {
       "modId": "mob_catcher",

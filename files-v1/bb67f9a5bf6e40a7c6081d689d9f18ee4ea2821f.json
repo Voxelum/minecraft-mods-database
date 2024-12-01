@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9jxwkYQL",
+      "versionId": "i6yaaNV7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedcore",
+      "version": "1.20.4-0.6.26.40"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "20.4.0"
+    }
+  ]
+}

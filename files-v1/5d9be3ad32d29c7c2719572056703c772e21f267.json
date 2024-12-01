@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "apoli",
+      "version": "2.11.11"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "calio",
+      "version": "1.13.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.5.0+1.20.2"
+    }
+  ]
+}

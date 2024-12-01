@@ -1,0 +1,26 @@
+{
+  "name": "stacksizeedit-1.0.5-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Drdcgicd",
+      "versionId": "Fml5ea8S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963444,
+      "fileId": 5810694
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stacksizeedit",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.7.0"
+    }
+  ]
+}

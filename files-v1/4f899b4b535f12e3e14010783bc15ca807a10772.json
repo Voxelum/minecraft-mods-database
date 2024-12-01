@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "sss-0.1.3.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "Hh1No1Y2",
       "versionId": "s4zqrpFY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981132,
+      "fileId": 5146818
     }
   ],
   "forge": [

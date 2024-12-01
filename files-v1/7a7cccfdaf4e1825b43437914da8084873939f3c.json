@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 341727,
+      "fileId": 5429016
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "publicguiannouncement",
+      "version": "${version}"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    }
+  ]
+}

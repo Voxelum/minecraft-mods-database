@@ -1,0 +1,36 @@
+{
+  "name": "Jadens-Nether-Expansion-2.1.0-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v3UlehfS",
+      "versionId": "sFNjhn3w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1111833,
+      "fileId": 5845269
+    }
+  ],
+  "forge": [
+    {
+      "modId": "netherexp",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherexp",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

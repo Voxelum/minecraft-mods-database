@@ -1,0 +1,28 @@
+{
+  "name": "caxton-0.6.0-alpha.5+1.20.1-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k8iIgzXE",
+      "versionId": "jaqzHbmo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "caxton",
+      "version": "0.6.0-alpha.5+1.20.1-FABRIC"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.1"
+    }
+  ]
+}

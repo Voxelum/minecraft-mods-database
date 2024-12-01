@@ -1,0 +1,16 @@
+{
+  "name": "OreDimensionConfiguration-1.12.2-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 996123,
+      "fileId": 5228754
+    }
+  ],
+  "forge": [
+    {
+      "modId": "oredimensionconfiguration",
+      "version": "${version}"
+    }
+  ]
+}

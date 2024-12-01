@@ -1,6 +1,18 @@
 {
   "name": "BugJump-1.0.0-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X7tPVQze",
+      "versionId": "PwR8Q6Ph"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827539,
+      "fileId": 4399458
+    }
+  ],
   "fabric": [
     {
       "modId": "bugjump",

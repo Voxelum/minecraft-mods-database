@@ -1,6 +1,12 @@
 {
   "name": "spectral_edge-forge-1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627303,
+      "fileId": 4845013
+    }
+  ],
   "forge": [
     {
       "modId": "spectral_edge",

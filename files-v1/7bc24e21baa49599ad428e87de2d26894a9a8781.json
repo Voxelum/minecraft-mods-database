@@ -1,6 +1,18 @@
 {
   "name": "over-enchanted-fabric-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Qdmqmc2A",
+      "versionId": "vnGZc9ga"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 614461,
+      "fileId": 5158596
+    }
+  ],
   "fabric": [
     {
       "modId": "overenchanted",

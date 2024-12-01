@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXf2OSFU",
+      "versionId": "vOWtI3gy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "okzoomer",
+      "version": "4.0.0+1.14.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "1.8"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

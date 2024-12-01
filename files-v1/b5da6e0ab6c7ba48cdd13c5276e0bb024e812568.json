@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ec3Ed3oz",
+      "versionId": "6H7OD7cK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401678,
+      "fileId": 5617899
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "whocosmetics",
+      "version": "mc1.20.1-v2.0.7"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

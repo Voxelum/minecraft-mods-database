@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TwYypE5e",
+      "versionId": "AcvcS9gI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clearview",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.4"
+    }
+  ]
+}

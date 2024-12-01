@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanilladeathchest",
+      "version": "2.0.6-fabric"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "autoconfigtoml",
+      "version": "1.0.0-fabric"
+    }
+  ]
+}

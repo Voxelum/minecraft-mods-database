@@ -1,10 +1,20 @@
 {
   "name": "hyperbox-1.21-6.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "MY12jUBD"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 435405,
       "fileId": 5555553
+    },
+    {
+      "projectId": 306770,
+      "fileId": 5683901
     }
   ]
 }

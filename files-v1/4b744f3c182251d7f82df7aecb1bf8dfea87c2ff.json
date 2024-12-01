@@ -1,6 +1,12 @@
 {
   "name": "Zombie Mob drops 1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 822109,
+      "fileId": 4392497
+    }
+  ],
   "forge": [
     {
       "modId": "extra_zombie_drops",

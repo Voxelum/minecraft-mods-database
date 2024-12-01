@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BynmO8IO",
+      "versionId": "GM9Elib2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1135663,
+      "fileId": 5882072
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_neoenchant",
+      "version": "5.7.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_neoenchant",
+      "version": "5.7.3"
+    }
+  ]
+}

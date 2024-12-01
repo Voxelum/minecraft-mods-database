@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fantori",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fantori",
+      "version": "1.4.0"
+    }
+  ]
+}

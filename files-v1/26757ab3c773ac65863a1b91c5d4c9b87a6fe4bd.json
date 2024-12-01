@@ -1,6 +1,18 @@
 {
   "name": "Forgelin-Continuous-2.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1mPcAmuy",
+      "versionId": "5wvQO2Ks"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456403,
+      "fileId": 5519319
+    }
+  ],
   "forge": [
     {
       "modId": "forgelin_continuous",

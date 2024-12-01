@@ -1,0 +1,26 @@
+{
+  "name": "k-turrets-1.0.5-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gRYeIzgX",
+      "versionId": "p4F9pmbl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845907,
+      "fileId": 5817278
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "k_turrets",
+      "version": "1.0.5-1.20.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

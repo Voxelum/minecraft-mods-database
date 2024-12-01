@@ -1,0 +1,20 @@
+{
+  "name": "google-chat-0.8.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hd7ZLKRk",
+      "versionId": "Am78EMSE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "google-chat",
+      "version": "0.8.1"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "6.0.13+6573ed8c90"
+    }
+  ]
+}

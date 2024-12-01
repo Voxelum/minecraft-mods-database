@@ -1,6 +1,18 @@
 {
   "name": "ad_astra-fabric-1.20.1-1.15.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3ufwT9JF",
+      "versionId": "IfdLtruQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 635042,
+      "fileId": 4671592
+    }
+  ],
   "fabric": [
     {
       "modId": "ad_astra",

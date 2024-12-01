@@ -1,6 +1,18 @@
 {
   "name": "do-a-barrel-roll-1.3.31.17.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6FtRfnLg",
+      "versionId": "5te3CHsv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663658,
+      "fileId": 4017906
+    }
+  ],
   "fabric": [
     {
       "modId": "do-a-barrel-roll",

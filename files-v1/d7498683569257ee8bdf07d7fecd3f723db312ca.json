@@ -1,6 +1,18 @@
 {
   "name": "OpenLoader-1.15.2-4.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KwWsINvD",
+      "versionId": "OkDoHOZc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354339,
+      "fileId": 2957023
+    }
+  ],
   "forge": [
     {
       "modId": "openloader",

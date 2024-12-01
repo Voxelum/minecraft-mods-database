@@ -1,6 +1,12 @@
 {
   "name": "tropics-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W1Paq97E",
+      "versionId": "Gc0PR6Jl"
+    }
+  ],
   "fabric": [
     {
       "modId": "tropics",

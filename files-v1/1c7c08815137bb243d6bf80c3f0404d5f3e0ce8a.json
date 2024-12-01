@@ -1,6 +1,12 @@
 {
   "name": "persistentparrots-1.0+1.20.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 999681,
+      "fileId": 5243832
+    }
+  ],
   "fabric": [
     {
       "modId": "persistent_parrots",

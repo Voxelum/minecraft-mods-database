@@ -1,0 +1,26 @@
+{
+  "name": "ConquestHearthfire-1.0.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iOP2oL1Y",
+      "versionId": "LykRH69e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 995439,
+      "fileId": 5542905
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hearthfire",
+      "version": "1.0.1-1.20.1"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

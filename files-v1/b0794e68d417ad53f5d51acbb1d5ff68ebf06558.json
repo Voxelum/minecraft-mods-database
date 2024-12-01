@@ -1,6 +1,18 @@
 {
   "name": "chatpatches-182.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MOqt4Z5n",
+      "versionId": "JMrqdKRS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560042,
+      "fileId": 4393581
+    }
+  ],
   "fabric": [
     {
       "modId": "chatpatches",

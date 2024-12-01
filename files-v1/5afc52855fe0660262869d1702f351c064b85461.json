@@ -1,6 +1,12 @@
 {
   "name": "showfps-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 658969,
+      "fileId": 3931673
+    }
+  ],
   "forge": [
     {
       "modId": "show_fps",

@@ -1,6 +1,12 @@
 {
   "name": "armorstands-1.3.1+1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FlC9CXUY",
+      "versionId": "PndEnyFT"
+    }
+  ],
   "fabric": [
     {
       "modId": "armorstands",

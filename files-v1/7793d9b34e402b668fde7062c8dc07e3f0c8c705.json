@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "II7t6llZ",
+      "versionId": "OBaNtrF7"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wwoo_forge",
+      "version": "2.3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wwoo",
+      "version": "2.3.3"
+    }
+  ]
+}

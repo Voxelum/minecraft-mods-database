@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ihpnEd80",
+      "versionId": "QpgmnaIy"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createcobblestone",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createcobblestone",
+      "version": "1.4+fabric-1.20.1-51"
+    }
+  ]
+}

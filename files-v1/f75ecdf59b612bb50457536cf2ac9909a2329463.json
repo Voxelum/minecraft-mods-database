@@ -1,6 +1,18 @@
 {
   "name": "Applied-Botanics-fabric-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "545hUrw9",
+      "versionId": "q4EyYyki"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610632,
+      "fileId": 4771973
+    }
+  ],
   "fabric": [
     {
       "modId": "appbot",

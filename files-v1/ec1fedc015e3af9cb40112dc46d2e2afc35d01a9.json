@@ -1,6 +1,12 @@
 {
   "name": "mcjtylib-1.12-3.5.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1Zu0uTEE",
+      "versionId": "2fT8dNQ7"
+    }
+  ],
   "forge": [
     {
       "modId": "mcjtylib_ng",

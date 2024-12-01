@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dd",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dd",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "Quark-3.4-414.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qnQsVE2z",
+      "versionId": "nYJW7kfd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 243121,
+      "fileId": 4787139
+    }
+  ],
   "forge": [
     {
       "modId": "quark",

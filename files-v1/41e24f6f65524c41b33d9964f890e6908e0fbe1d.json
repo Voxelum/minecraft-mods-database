@@ -1,6 +1,18 @@
 {
   "name": "cicada-lib-0.8.0+1.21-and-above.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IwCkru1D",
+      "versionId": "HfP4bdJn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 989574,
+      "fileId": 5430768
+    }
+  ],
   "fabric": [
     {
       "modId": "cicada",

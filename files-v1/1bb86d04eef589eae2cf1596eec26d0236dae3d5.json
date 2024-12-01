@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "X75XmT50"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 5314910
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "10.0.5"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "expandability",
+      "version": "10.0.1"
+    }
+  ]
+}

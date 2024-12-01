@@ -1,6 +1,18 @@
 {
   "name": "rftoolspower-1.15-2.0.1-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YWbLuPa1",
+      "versionId": "sMIprr2y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 290209,
+      "fileId": 2875983
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolspower",

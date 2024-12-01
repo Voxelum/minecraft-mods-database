@@ -1,6 +1,18 @@
 {
   "name": "Opt_Embeddium.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sk9rgfiA",
+      "versionId": "d1lm62ry"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 908741,
+      "fileId": 4779182
+    }
+  ],
   "forge": [
     {
       "modId": "embeddium",

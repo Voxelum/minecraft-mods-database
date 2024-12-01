@@ -1,0 +1,22 @@
+{
+  "name": "copper-cutting-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UGsUeDDB",
+      "versionId": "DrxqGZ3D"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_copper_cutting",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_copper_cutting",
+      "version": "1.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "sanguine-0.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zliP2NTL",
+      "versionId": "kVSkYcX3"
+    }
+  ],
   "forge": [
     {
       "modId": "sanguine_mr",

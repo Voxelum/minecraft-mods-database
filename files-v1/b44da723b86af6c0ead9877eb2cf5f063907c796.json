@@ -1,0 +1,16 @@
+{
+  "name": "dont-ban-my-multiplayer-4.0.3.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fwdbmmp",
+      "version": "4.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fwdbmmp",
+      "version": "4.0.3"
+    }
+  ]
+}

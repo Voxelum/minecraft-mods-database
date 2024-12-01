@@ -1,6 +1,18 @@
 {
   "name": "EndRespawnAnchorMod.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xmdHQIdW",
+      "versionId": "IFaKKpYc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 593753,
+      "fileId": 4978214
+    }
+  ],
   "fabric": [
     {
       "modId": "end_respawn_anchor",

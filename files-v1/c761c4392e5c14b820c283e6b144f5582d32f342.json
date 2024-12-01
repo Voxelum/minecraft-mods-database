@@ -1,6 +1,18 @@
 {
   "name": "emotecraft-for-MC1.19.2-2.2.7-b.build.47-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "d9mAMnw0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 4173795
+    }
+  ],
   "fabric": [
     {
       "modId": "emotecraft",

@@ -1,4 +1,10 @@
 {
   "name": "[1.7.10]精灵球前置Grim3212-Core-1.7.10.jar",
-  "domain": "shaderpacks"
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "grim3212core",
+      "version": "V0.2 - 1.7.10"
+    }
+  ]
 }

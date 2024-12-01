@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y4JF3gXL",
+      "versionId": "MtSY6la4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 229523,
+      "fileId": 5327618
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armourers_workshop",
+      "version": "2.1.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

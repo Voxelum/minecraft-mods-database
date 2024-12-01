@@ -1,6 +1,12 @@
 {
   "name": "respawn-1.19.2-1.0.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 852464,
+      "fileId": 4502574
+    }
+  ],
   "forge": [
     {
       "modId": "respawn",

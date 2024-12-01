@@ -1,0 +1,24 @@
+{
+  "name": "glideaway-1.2.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWkVbeKr",
+      "versionId": "9CFg8MHM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glideaway",
+      "version": "1.2.2+1.21"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "factorytools",
+      "version": "0.3.1+1.21"
+    }
+  ]
+}

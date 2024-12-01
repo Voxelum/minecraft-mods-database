@@ -1,6 +1,18 @@
 {
   "name": "consecration-forge-6.0.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e1uJfPiY",
+      "versionId": "gUlniNRG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 284001,
+      "fileId": 4814166
+    }
+  ],
   "forge": [
     {
       "modId": "consecration",

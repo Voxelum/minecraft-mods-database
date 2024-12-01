@@ -1,6 +1,18 @@
 {
   "name": "MekanismAdditions-1.15.2-9.10.9.422.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a6F3uASn",
+      "versionId": "YDQGc1uM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345425,
+      "fileId": 2996535
+    }
+  ],
   "forge": [
     {
       "modId": "mekanismadditions",

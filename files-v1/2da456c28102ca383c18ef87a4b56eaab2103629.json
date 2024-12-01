@@ -1,6 +1,12 @@
 {
   "name": "fast-portals-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HTSaaFuA",
+      "versionId": "9hW6Q7yx"
+    }
+  ],
   "fabric": [
     {
       "modId": "fast-portals",

@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "[1.21.1] Excessive Building-fabric-3.3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2vsx0HYf",
+      "versionId": "uMBXstUT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845097,
+      "fileId": 5848751
+    }
+  ],
   "fabric": [
     {
       "modId": "excessive_building",

@@ -1,6 +1,18 @@
 {
   "name": "nightfall-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ovylolmy",
+      "versionId": "FpGS9hcg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979076,
+      "fileId": 5133460
+    }
+  ],
   "forge": [
     {
       "modId": "nightfall",

@@ -1,6 +1,18 @@
 {
   "name": "Mixtape-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mTd6rTN3",
+      "versionId": "uRKiclig"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681487,
+      "fileId": 4631085
+    }
+  ],
   "fabric": [
     {
       "modId": "mixtape",

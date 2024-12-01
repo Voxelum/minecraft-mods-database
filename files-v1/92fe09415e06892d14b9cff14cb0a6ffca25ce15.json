@@ -1,0 +1,22 @@
+{
+  "name": "skyblock-biome-islands-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQG2KlS9",
+      "versionId": "hU1LUmeu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_skyblock_biomeislands",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_skyblock_biomeislands",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "0.25.0"
+    },
+    {
+      "modId": "com_github_fallen-breath_conditional-mixin",
+      "version": "v0.6.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

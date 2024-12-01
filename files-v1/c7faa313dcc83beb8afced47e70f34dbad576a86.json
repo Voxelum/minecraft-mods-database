@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "embeddium",
+      "version": "0.3.26-beta.106-dirty+mc1.20.1"
+    },
+    {
+      "modId": "sodium",
+      "version": "0.5.11"
+    },
+    {
+      "modId": "indium",
+      "version": "1.99.99"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.31+1802ada577"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.1+1802ada577"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.0.28+1802ada577"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.37+92a0d36777"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+1802ada577"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "3.2.1+1802ada577"
+    },
+    {
+      "modId": "fabric-renderer-indigo",
+      "version": "1.5.2+85287f9f77"
+    }
+  ]
+}

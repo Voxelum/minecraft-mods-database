@@ -1,6 +1,18 @@
 {
   "name": "DarkUtilities-1.15.2-3.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CkqTAIaP",
+      "versionId": "qOSUDN3j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242195,
+      "fileId": 3008857
+    }
+  ],
   "forge": [
     {
       "modId": "darkutils",

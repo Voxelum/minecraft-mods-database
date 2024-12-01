@@ -1,6 +1,18 @@
 {
   "name": "expcaves-3.0.2-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RTR0Bmta",
+      "versionId": "u6NOpGR6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558746,
+      "fileId": 3675946
+    }
+  ],
   "forge": [
     {
       "modId": "extcaves",

@@ -1,6 +1,18 @@
 {
   "name": "horsestatsmod-MC1.20.x-1.4.7 статы лошади.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RnxjxXAI",
+      "versionId": "ud3sAsYd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409126,
+      "fileId": 4594701
+    }
+  ],
   "forge": [
     {
       "modId": "horsestatsmod",

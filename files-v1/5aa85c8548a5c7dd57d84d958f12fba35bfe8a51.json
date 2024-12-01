@@ -1,6 +1,12 @@
 {
   "name": "car-forge-1.20.1-1.0.15.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 267458,
+      "fileId": 5082451
+    }
+  ],
   "forge": [
     {
       "modId": "car",

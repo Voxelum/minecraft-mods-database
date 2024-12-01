@@ -1,6 +1,18 @@
 {
   "name": "cherishedworlds-fabric-2.0.1-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3azQ6p0W",
+      "versionId": "mQ94ChQ3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398502,
+      "fileId": 3384417
+    }
+  ],
   "fabric": [
     {
       "modId": "cherishedworlds",

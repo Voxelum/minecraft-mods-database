@@ -1,6 +1,18 @@
 {
   "name": "modlist_snooper-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PGpFRJT2",
+      "versionId": "2O9Da3Ig"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975634,
+      "fileId": 5162655
+    }
+  ],
   "forge": [
     {
       "modId": "modlist_snooper",

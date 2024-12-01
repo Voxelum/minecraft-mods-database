@@ -1,6 +1,18 @@
 {
   "name": "EssentialGUI-1.9.5-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EquRYbwe",
+      "versionId": "WrlCpfJI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 526824,
+      "fileId": 5279950
+    }
+  ],
   "fabric": [
     {
       "modId": "essentialgui",

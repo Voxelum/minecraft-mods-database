@@ -1,0 +1,26 @@
+{
+  "name": "enriched-5.0-mc1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y1ImNftg",
+      "versionId": "qZ5BlGp4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373858,
+      "fileId": 5618493
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enriched",
+      "version": "5.0-mc1.21.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

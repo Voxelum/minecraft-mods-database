@@ -1,0 +1,20 @@
+{
+  "name": "[丰饶食记] bountifulfares-1.2.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YgrSDjlb",
+      "versionId": "H4COb7fF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bountifulfares",
+      "version": "1.2.1-1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

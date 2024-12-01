@@ -1,6 +1,18 @@
 {
   "name": "entangled-1.3.18-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rylMOguI",
+      "versionId": "DcoeNEY5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 301034,
+      "fileId": 5275213
+    }
+  ],
   "fabric": [
     {
       "modId": "entangled",

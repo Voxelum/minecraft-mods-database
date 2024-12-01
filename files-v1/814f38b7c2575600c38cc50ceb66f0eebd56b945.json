@@ -1,6 +1,18 @@
 {
   "name": "dracomelette-1.19-2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gpafbSiH",
+      "versionId": "TSIbIGYI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 321836,
+      "fileId": 3830816
+    }
+  ],
   "fabric": [
     {
       "modId": "dracomelette",

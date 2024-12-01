@@ -1,0 +1,34 @@
+{
+  "name": "geocluster-1.2.4+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P43RxVjo",
+      "versionId": "u1j7t4Zs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 863819,
+      "fileId": 4671475
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geocluster",
+      "version": "1.2.4+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "camerautils-fabric-1.21.3-1.0.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rrwQMaWQ",
+      "versionId": "MVdUFjzA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 510234,
+      "fileId": 5837943
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "camerautils",
+      "version": "1.21.3-1.0.16"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+2127dc7240"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4340"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.22+c47b9d4340"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.5+c47b9d4340"
+    }
+  ]
+}

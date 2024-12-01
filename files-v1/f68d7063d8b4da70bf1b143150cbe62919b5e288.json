@@ -1,6 +1,12 @@
 {
   "name": "marketcrates-fabric-1.4.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 443591,
+      "fileId": 3564781
+    }
+  ],
   "fabric": [
     {
       "modId": "marketcrates",

@@ -1,6 +1,18 @@
 {
   "name": "spore_1.20_1_2.0.2c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X661i40C",
+      "versionId": "Rl6KV61l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678295,
+      "fileId": 5068984
+    }
+  ],
   "forge": [
     {
       "modId": "spore",

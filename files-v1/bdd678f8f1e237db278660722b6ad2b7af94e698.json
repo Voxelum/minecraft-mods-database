@@ -1,6 +1,18 @@
 {
   "name": "Create Wizardry-0.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OeGdeWEj",
+      "versionId": "mOgWkw6t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949995,
+      "fileId": 5223949
+    }
+  ],
   "forge": [
     {
       "modId": "create_wizardry",

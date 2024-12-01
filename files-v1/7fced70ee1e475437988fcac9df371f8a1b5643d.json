@@ -1,6 +1,18 @@
 {
   "name": "tweakermore-mc1.20.1-v3.17.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GBeCx05I",
+      "versionId": "8DwH7PQe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531235,
+      "fileId": 5192556
+    }
+  ],
   "fabric": [
     {
       "modId": "tweakermore",

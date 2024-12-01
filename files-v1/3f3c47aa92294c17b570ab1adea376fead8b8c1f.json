@@ -1,6 +1,12 @@
 {
   "name": "tipsy.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585299,
+      "fileId": 3668916
+    }
+  ],
   "forge": [
     {
       "modId": "tipsy",

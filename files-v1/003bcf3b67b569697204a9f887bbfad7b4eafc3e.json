@@ -1,6 +1,18 @@
 {
   "name": "firespreadtweaks-1.18.2-2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vgI7KTun",
+      "versionId": "dxMDDWyL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446366,
+      "fileId": 4430783
+    }
+  ],
   "forge": [
     {
       "modId": "firespreadtweaks",

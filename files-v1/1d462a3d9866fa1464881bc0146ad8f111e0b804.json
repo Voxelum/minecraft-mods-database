@@ -1,6 +1,18 @@
 {
   "name": "VanillaIcecreamFix-1.1.7-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5HUqEye3",
+      "versionId": "ilC82fTz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817119,
+      "fileId": 4710759
+    }
+  ],
   "fabric": [
     {
       "modId": "vanillafix",

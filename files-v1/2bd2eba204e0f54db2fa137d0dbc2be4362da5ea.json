@@ -1,6 +1,18 @@
 {
   "name": "CraterLib-Forge-1.19.2-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nn8Wasaq",
+      "versionId": "UkVQnIGI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867099,
+      "fileId": 5004985
+    }
+  ],
   "forge": [
     {
       "modId": "craterlib",

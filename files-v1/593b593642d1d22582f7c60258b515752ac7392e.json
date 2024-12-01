@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "expanded-armor-enchanting-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mbBFD52c",
+      "versionId": "FsoLIMq8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486303,
+      "fileId": 5429738
+    }
+  ],
   "fabric": [
     {
       "modId": "expanded_armor_enchanting",

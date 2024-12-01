@@ -1,6 +1,18 @@
 {
   "name": "PureAmethystTools-v2.0.1-1.20.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2HP3PTXF",
+      "versionId": "Fug49b8b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851503,
+      "fileId": 4665256
+    }
+  ],
   "forge": [
     {
       "modId": "pureamethysttools",

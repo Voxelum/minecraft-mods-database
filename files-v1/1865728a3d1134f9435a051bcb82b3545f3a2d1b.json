@@ -1,6 +1,18 @@
 {
   "name": "Runelic-1.16.5-7.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P4Xi5huA",
+      "versionId": "6Oe5rTVy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393149,
+      "fileId": 3185428
+    }
+  ],
   "forge": [
     {
       "modId": "runelic",

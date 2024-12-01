@@ -1,6 +1,18 @@
 {
   "name": "environmentalcreepers-forge-1.18.1-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2tZXc39v",
+      "versionId": "jJFsWqHa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246320,
+      "fileId": 3583500
+    }
+  ],
   "forge": [
     {
       "modId": "environmentalcreepers",

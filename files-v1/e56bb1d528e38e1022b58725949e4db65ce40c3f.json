@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "arcania-background",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "org_bytedeco_javacv-platform",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "net_java_dev_jna_jna",
+      "version": "5.12.1"
+    },
+    {
+      "modId": "net_java_dev_jna_jna-platform",
+      "version": "5.12.1"
+    },
+    {
+      "modId": "uk_co_caprica_vlcj",
+      "version": "4.7.3"
+    },
+    {
+      "modId": "uk_co_caprica_vlcj-natives",
+      "version": "4.7.0"
+    }
+  ]
+}

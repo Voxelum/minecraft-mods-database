@@ -1,0 +1,28 @@
+{
+  "name": "supermartijn642corelib-1.1.17a-fabric-mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rOUBggPv",
+      "versionId": "PcD37RiD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 454372,
+      "fileId": 5668898
+    }
+  ],
+  "forge": [
+    {
+      "modId": "supermartijn642corelib",
+      "version": "1.1.17+a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "supermartijn642corelib",
+      "version": "1.1.17+a"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w8ljvewX",
+      "versionId": "jpA8tRA2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341721,
+      "fileId": 5609710
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchantingcommands",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantingcommands",
+      "version": "3.4"
+    }
+  ]
+}

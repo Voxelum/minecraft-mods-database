@@ -1,6 +1,18 @@
 {
   "name": "demandingsaplings-0.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qvyoz8jh",
+      "versionId": "AAXcnC6J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943814,
+      "fileId": 4907838
+    }
+  ],
   "fabric": [
     {
       "modId": "demandingsaplings",

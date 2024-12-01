@@ -1,6 +1,18 @@
 {
   "name": "NGFD-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VgkJBcqR",
+      "versionId": "bvqZrO7m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 997272,
+      "fileId": 5234653
+    }
+  ],
   "forge": [
     {
       "modId": "noguifd",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2i7tg1Wv",
+      "versionId": "rWFuOLyT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autorun",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    }
+  ]
+}

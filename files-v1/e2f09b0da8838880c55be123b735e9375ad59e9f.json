@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "veinminer-enchant-2.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4sP0LXxp",
+      "versionId": "zXXK68LV"
+    }
+  ],
   "fabric": [
     {
       "modId": "veinminer-enchantment",

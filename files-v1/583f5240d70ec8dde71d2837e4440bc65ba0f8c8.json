@@ -1,6 +1,18 @@
 {
   "name": "invis-item-frame-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zqs0ksZg",
+      "versionId": "OsmhsRMb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1033104,
+      "fileId": 5409107
+    }
+  ],
   "forge": [
     {
       "modId": "mr_invis_itemframe",

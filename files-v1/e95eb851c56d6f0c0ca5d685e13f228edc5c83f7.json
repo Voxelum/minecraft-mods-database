@@ -1,0 +1,28 @@
+{
+  "name": "nametagtweaks-1.20.1-3.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LrLZEnPl",
+      "versionId": "EIVEE0BH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391972,
+      "fileId": 5572212
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nametagtweaks",
+      "version": "3.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nametagtweaks",
+      "version": "3.8"
+    }
+  ]
+}

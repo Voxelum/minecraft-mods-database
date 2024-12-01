@@ -1,6 +1,18 @@
 {
   "name": "amendments-1.20-1.1.30.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6iTJugQR",
+      "versionId": "5feDKrP4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896746,
+      "fileId": 5359553
+    }
+  ],
   "forge": [
     {
       "modId": "amendments",

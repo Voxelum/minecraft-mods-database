@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O6Sh7btX",
+      "versionId": "je0ZXW6Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881030,
+      "fileId": 4976342
+    }
+  ],
+  "forge": [
+    {
+      "modId": "grabbymobs",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grabbymobs",
+      "version": "1.5"
+    }
+  ]
+}

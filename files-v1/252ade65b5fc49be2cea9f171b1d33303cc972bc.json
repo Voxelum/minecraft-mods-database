@@ -1,6 +1,18 @@
 {
   "name": "pistorder-mc1.20.1-v1.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lpin1bEg",
+      "versionId": "plbS6S4h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430118,
+      "fileId": 4982776
+    }
+  ],
   "fabric": [
     {
       "modId": "pistorder",

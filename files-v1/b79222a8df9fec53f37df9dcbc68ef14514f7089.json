@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3OjIiivw",
+      "versionId": "pnB9DP6y"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luafy",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-core",
+      "version": "3.0.8-figura"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-jse",
+      "version": "3.0.8-figura"
+    }
+  ]
+}

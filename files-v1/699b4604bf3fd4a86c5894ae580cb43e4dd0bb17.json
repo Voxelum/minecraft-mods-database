@@ -1,6 +1,18 @@
 {
   "name": "RecipeStages-8.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qXkLFB0L",
+      "versionId": "ysnDXjGt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 280554,
+      "fileId": 4681429
+    }
+  ],
   "forge": [
     {
       "modId": "recipestages",

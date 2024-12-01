@@ -1,6 +1,12 @@
 {
   "name": "create_prismarine_automation-1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IWKIN2Mf",
+      "versionId": "H6P4HVxX"
+    }
+  ],
   "forge": [
     {
       "modId": "createprismarineautomation",

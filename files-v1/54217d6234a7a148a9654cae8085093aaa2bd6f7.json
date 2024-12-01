@@ -1,6 +1,12 @@
 {
   "name": "archon-0.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 575339,
+      "fileId": 3918632
+    }
+  ],
   "fabric": [
     {
       "modId": "archon",

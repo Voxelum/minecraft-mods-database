@@ -1,6 +1,18 @@
 {
   "name": "SlabMachines-1.16.5-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "X2rOcP3N",
+      "versionId": "m15ezMji"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 301854,
+      "fileId": 3218250
+    }
+  ],
   "forge": [
     {
       "modId": "slabmachines",

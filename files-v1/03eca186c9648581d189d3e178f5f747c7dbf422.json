@@ -1,6 +1,18 @@
 {
   "name": "WoolyTrees-1.19-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QXU3UqPY",
+      "versionId": "jOKpsTt2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 380314,
+      "fileId": 3872705
+    }
+  ],
   "forge": [
     {
       "modId": "woolytrees",

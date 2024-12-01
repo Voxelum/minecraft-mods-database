@@ -1,0 +1,26 @@
+{
+  "name": "[更好的树叶渲染优化] CullLessLeaves-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iG6ZHsUV",
+      "versionId": "BxA1B1tp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 619718,
+      "fileId": 4178165
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cull-less-leaves",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

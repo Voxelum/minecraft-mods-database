@@ -1,6 +1,18 @@
 {
   "name": "variantsandventures-mc1.20.1-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lNDRiXkY",
+      "versionId": "U7fQaRk2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981139,
+      "fileId": 5258448
+    }
+  ],
   "forge": [
     {
       "modId": "variantsandventures",

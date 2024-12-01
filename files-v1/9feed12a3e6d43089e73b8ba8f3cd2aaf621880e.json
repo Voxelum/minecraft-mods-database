@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pPSNgJFc",
+      "versionId": "deD9zFW7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390557,
+      "fileId": 3669376
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crusade",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.16+55dca1a4d2"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.10.6+54e5b2ecd2"
+    },
+    {
+      "modId": "fabric-object-builder-api-v1",
+      "version": "2.0.1+d882b915d2"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "0.9.5+55dca1a4d2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.3+d7c144a8d2"
+    },
+    {
+      "modId": "fabric-mining-level-api-v1",
+      "version": "2.0.2+d1027f7dd2"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.20+d882b915d2"
+    }
+  ]
+}

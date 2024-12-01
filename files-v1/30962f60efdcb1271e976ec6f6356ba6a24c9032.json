@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ETJGOhvj",
+      "versionId": "SXKLdshF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1039756,
+      "fileId": 5717468
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_jewels",
+      "version": "0.0.2-1.21.1"
+    },
+    {
+      "modId": "jewelry",
+      "version": "2.0.2+1.21.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

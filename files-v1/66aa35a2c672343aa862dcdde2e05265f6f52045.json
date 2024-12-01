@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "monolib-fabric-1.21.1-1.4.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "9leXt4A5",
       "versionId": "601ORtJv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968432,
+      "fileId": 5838449
     }
   ],
   "fabric": [

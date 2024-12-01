@@ -1,6 +1,12 @@
 {
   "name": "no-mob-farm-1.6.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 560784,
+      "fileId": 3754851
+    }
+  ],
   "fabric": [
     {
       "modId": "nomobfarm",

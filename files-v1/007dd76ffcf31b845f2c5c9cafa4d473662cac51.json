@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 417551,
+      "fileId": 3461826
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpm",
+      "version": "2.2.5-fabric-mc1.16.5-beta"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.3"
+    }
+  ]
+}

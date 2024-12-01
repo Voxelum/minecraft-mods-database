@@ -1,6 +1,18 @@
 {
   "name": "abridged-fabric-1.20.x-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tb5O1ssC",
+      "versionId": "CXBnYvDZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 948999,
+      "fileId": 4985757
+    }
+  ],
   "fabric": [
     {
       "modId": "abridged",

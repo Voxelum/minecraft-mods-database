@@ -1,6 +1,18 @@
 {
   "name": "polymorph-FORGE-1.15.2-0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tagwiZkJ",
+      "versionId": "diy4s2XO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388800,
+      "fileId": 3027519
+    }
+  ],
   "forge": [
     {
       "modId": "polymorph",

@@ -1,6 +1,18 @@
 {
   "name": "compacthelpcommand-1.18.2-2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XdiGl7ZL",
+      "versionId": "juFjGpQO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 515753,
+      "fileId": 4854112
+    }
+  ],
   "forge": [
     {
       "modId": "compacthelpcommand",

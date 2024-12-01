@@ -1,6 +1,18 @@
 {
   "name": "colytra-fabric-2.0.0-1.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ulY7WPQy",
+      "versionId": "Gqh30LRZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398089,
+      "fileId": 3346110
+    }
+  ],
   "fabric": [
     {
       "modId": "colytra",

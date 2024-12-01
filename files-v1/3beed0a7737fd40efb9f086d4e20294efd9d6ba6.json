@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "minershorizon",
+      "version": "1.6.2-1.16.5"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    }
+  ]
+}

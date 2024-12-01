@@ -1,6 +1,18 @@
 {
   "name": "wwoo-3.2.1-forge.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O1XGs7ps",
+      "versionId": "iHq29fAY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 490686,
+      "fileId": 4750745
+    }
+  ],
   "forge": [
     {
       "modId": "wwoo",

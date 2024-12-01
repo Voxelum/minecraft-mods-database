@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 975210,
+      "fileId": 5777655
+    }
+  ],
+  "forge": [
+    {
+      "modId": "achievements",
+      "version": "11.4.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "achievements",
+      "version": "11.4.10"
+    }
+  ]
+}

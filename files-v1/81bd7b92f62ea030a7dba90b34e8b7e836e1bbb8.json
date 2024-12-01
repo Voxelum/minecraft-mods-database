@@ -1,6 +1,18 @@
 {
   "name": "EnderStorage-1.12.2-2.4.3.130-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BbrHg80P",
+      "versionId": "5mJwdzZe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245174,
+      "fileId": 2566250
+    }
+  ],
   "forge": [
     {
       "modId": "enderstorage",

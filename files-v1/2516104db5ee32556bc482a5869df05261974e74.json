@@ -1,6 +1,12 @@
 {
   "name": "selfskin-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kj7JLMnT",
+      "versionId": "5cKoLVcK"
+    }
+  ],
   "fabric": [
     {
       "modId": "selfskin",

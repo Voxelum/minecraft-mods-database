@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wql2D9Gj",
+      "versionId": "24MsIfQb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1091693,
+      "fileId": 5667445
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "overlaytweaks",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    }
+  ]
+}

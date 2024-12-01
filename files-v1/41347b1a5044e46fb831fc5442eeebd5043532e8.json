@@ -1,0 +1,26 @@
+{
+  "name": "mobs-attempt-parkour-0.2.5-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lh7ROUhC",
+      "versionId": "dw4g51oB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391812,
+      "fileId": 3668116
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mobs_attempt_parkour",
+      "version": "0.2.5-1.18.2"
+    },
+    {
+      "modId": "maelstrom_library",
+      "version": "1.2.4-1.18.2"
+    }
+  ]
+}

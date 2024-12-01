@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kUpOjknA",
+      "versionId": "wCTfHbkx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397962,
+      "fileId": 5834538
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mysticsbiomes",
+      "version": "3.4.3"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

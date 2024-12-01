@@ -1,6 +1,18 @@
 {
   "name": "blahaj-fabric-1.21-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5bb5rG4b",
+      "versionId": "3rGg0FOJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790339,
+      "fileId": 5446434
+    }
+  ],
   "fabric": [
     {
       "modId": "blahaj",

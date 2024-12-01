@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FbHSPTyF",
+      "versionId": "M6GLQXYq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kiss",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.6.1-1.20.4"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "CloverSellItemToServer-Forge-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 878679,
+      "fileId": 4669612
+    }
+  ],
   "forge": [
     {
       "modId": "cloversellitemtoserver",

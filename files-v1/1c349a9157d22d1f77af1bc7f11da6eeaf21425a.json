@@ -1,6 +1,18 @@
 {
   "name": "simpleshulkerpreview-1.18.x-v2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MLwpdyw5",
+      "versionId": "rtjEZWDT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 649179,
+      "fileId": 3999302
+    }
+  ],
   "fabric": [
     {
       "modId": "simpleshulkerpreview",

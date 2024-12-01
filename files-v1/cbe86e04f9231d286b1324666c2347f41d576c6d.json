@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "65UyswbY",
+      "versionId": "Wf9x6YeG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873388,
+      "fileId": 5921588
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "commandkeys",
+      "version": "2.3.1+1.21"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

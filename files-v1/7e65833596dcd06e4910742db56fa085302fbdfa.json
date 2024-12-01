@@ -1,0 +1,26 @@
+{
+  "name": "SlotCycler-v21.1.1-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3kl8Lmm9",
+      "versionId": "9BnvDBto"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682569,
+      "fileId": 5770208
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "slotcycler",
+      "version": "21.1.1"
+    },
+    {
+      "modId": "hotbarslotcycling",
+      "version": "21.1.1"
+    }
+  ]
+}

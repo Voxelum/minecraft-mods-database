@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "SimpleBBQ-1.18.2-1.0.2-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KXUd5Xgp",
+      "versionId": "XTIjRTs0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 653782,
+      "fileId": 4159867
+    }
+  ],
   "forge": [
     {
       "modId": "simplebbq",

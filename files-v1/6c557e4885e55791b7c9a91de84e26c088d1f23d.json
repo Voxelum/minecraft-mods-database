@@ -1,6 +1,18 @@
 {
   "name": "FreeLook-forge-1.20.4-1.5.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DSA6X7rF",
+      "versionId": "5TNDoyKF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 298112,
+      "fileId": 5270267
+    }
+  ],
   "forge": [
     {
       "modId": "freelook",

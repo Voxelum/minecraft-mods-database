@@ -1,6 +1,18 @@
 {
   "name": "ParticleTweaks-1.1.2-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IlGAhsOM",
+      "versionId": "cVFBeKEd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860819,
+      "fileId": 4615264
+    }
+  ],
   "fabric": [
     {
       "modId": "particletweaks",

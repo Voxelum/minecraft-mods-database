@@ -1,6 +1,12 @@
 {
   "name": "Sculpture-forge-1.19.2-1.7.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1000881,
+      "fileId": 5531581
+    }
+  ],
   "forge": [
     {
       "modId": "the_sculpture",

@@ -1,6 +1,18 @@
 {
   "name": "animorphs-0.2.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tadq7H8e",
+      "versionId": "HXkEKScQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678223,
+      "fileId": 4605348
+    }
+  ],
   "fabric": [
     {
       "modId": "animorphs",

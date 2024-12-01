@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "euphoria_patcher",
+      "version": "1.4.0-r5.3-fabric"
+    },
+    {
+      "modId": "io_sigpipe_jbsdiff",
+      "version": "1.0"
+    }
+  ]
+}

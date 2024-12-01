@@ -1,6 +1,12 @@
 {
   "name": "tons-o-dungeons-1.12.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 356861,
+      "fileId": 4372078
+    }
+  ],
   "forge": [
     {
       "modId": "dungeons",

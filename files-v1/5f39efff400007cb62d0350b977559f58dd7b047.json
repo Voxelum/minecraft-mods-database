@@ -1,0 +1,36 @@
+{
+  "name": "rpgstats-4.3.13+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 389800,
+      "fileId": 3808156
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpgstats",
+      "version": "4.3.13+1.18.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "5.4.1+1.18.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.12+1.18.2"
+    }
+  ]
+}

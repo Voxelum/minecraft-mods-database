@@ -1,6 +1,18 @@
 {
   "name": "snowtreasures-2.2-1.19-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R3F5M7xJ",
+      "versionId": "xHkHg0M9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610941,
+      "fileId": 4248136
+    }
+  ],
   "forge": [
     {
       "modId": "snowtreasures",

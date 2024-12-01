@@ -1,6 +1,18 @@
 {
   "name": "sidekick-forge-2.0.5+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "goA2JoBi",
+      "versionId": "OVBWwlVg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430573,
+      "fileId": 4748867
+    }
+  ],
   "forge": [
     {
       "modId": "sidekick",

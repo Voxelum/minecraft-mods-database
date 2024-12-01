@@ -1,6 +1,18 @@
 {
   "name": "itemswapper-fabric-0.4.0-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RPOSBQgq",
+      "versionId": "sFclEion"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 694358,
+      "fileId": 4575973
+    }
+  ],
   "fabric": [
     {
       "modId": "itemswapper",

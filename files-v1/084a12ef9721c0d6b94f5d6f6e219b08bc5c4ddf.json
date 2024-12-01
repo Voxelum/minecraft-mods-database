@@ -1,6 +1,18 @@
 {
   "name": "CNB-1.18.2-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RQDFHc4w",
+      "versionId": "FK0CwMou"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414401,
+      "fileId": 4399580
+    }
+  ],
   "forge": [
     {
       "modId": "cnb",

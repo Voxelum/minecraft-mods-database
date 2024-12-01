@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKpsG0nF",
+      "versionId": "spHOyO09"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418680,
+      "fileId": 5730015
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paradise_lost",
+      "version": "2.2.4-beta+1.20.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65-1.20.4"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

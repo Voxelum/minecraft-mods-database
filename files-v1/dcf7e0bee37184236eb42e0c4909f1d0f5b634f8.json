@@ -1,0 +1,26 @@
+{
+  "name": "[Fabric]backported_wolves-1.1.0-1.19-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yasXoQpR",
+      "versionId": "FLNG2BVG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 984037,
+      "fileId": 5177647
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backported_wolves",
+      "version": "1.1.0-1.19-1.19.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

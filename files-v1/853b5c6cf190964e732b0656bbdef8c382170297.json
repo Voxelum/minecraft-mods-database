@@ -1,0 +1,26 @@
+{
+  "name": "leaves-us-in-peace-1.0.4+MC1.18-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IIpWIe1o",
+      "versionId": "2r391Irb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565173,
+      "fileId": 3694087
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "leaves_us_in_peace",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    }
+  ]
+}

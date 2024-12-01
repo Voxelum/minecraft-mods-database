@@ -1,0 +1,22 @@
+{
+  "name": "copper-beacons-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VHksUe5L",
+      "versionId": "5j0UM78A"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_copper_beacons",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_copper_beacons",
+      "version": "1.0"
+    }
+  ]
+}

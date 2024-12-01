@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DxlUSaq8",
+      "versionId": "rh5P09jQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973673,
+      "fileId": 5313969
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "additional-armoury",
+      "version": "1.0.2+1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

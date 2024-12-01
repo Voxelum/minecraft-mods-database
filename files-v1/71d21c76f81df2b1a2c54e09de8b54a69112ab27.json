@@ -1,6 +1,18 @@
 {
   "name": "villagerdrops-fabric-mc1.20.1-v1.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dYtETNTo",
+      "versionId": "Tp9zLHYh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 502660,
+      "fileId": 4661498
+    }
+  ],
   "fabric": [
     {
       "modId": "villagerdrops",

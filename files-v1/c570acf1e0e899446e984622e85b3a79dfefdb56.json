@@ -1,6 +1,18 @@
 {
   "name": "ScreenshotToClipboard-1.12.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1KiJRrTg",
+      "versionId": "A5ZMLJlL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 326950,
+      "fileId": 2739435
+    }
+  ],
   "forge": [
     {
       "modId": "screenshotclipboard",

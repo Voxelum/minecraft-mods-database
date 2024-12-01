@@ -1,6 +1,12 @@
 {
   "name": "PackagedAuto-1.16.5-2.0.0.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 308380,
+      "fileId": 3797856
+    }
+  ],
   "forge": [
     {
       "modId": "packagedauto",

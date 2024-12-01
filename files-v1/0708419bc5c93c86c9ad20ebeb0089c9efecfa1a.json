@@ -1,6 +1,18 @@
 {
   "name": "Create-Guardian-Beam-Defense-1.2.3b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pwPEdvXO",
+      "versionId": "1SHlpVZa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860168,
+      "fileId": 4569097
+    }
+  ],
   "forge": [
     {
       "modId": "creategbd",

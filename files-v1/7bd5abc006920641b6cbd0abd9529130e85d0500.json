@@ -1,0 +1,26 @@
+{
+  "name": "RuntimeTrims-1.0.6-fabric+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eRg6mpBy",
+      "versionId": "POwV8W5M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1122245,
+      "fileId": 5848230
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "runtimetrims",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

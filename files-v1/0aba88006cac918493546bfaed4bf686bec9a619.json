@@ -1,6 +1,18 @@
 {
   "name": "Recipe-Unlocker.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J1nJ0y6I",
+      "versionId": "AvLq82vn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 584787,
+      "fileId": 3666649
+    }
+  ],
   "fabric": [
     {
       "modId": "recipe-unlocker",

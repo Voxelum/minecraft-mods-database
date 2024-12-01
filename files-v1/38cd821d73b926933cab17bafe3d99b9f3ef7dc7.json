@@ -1,6 +1,12 @@
 {
   "name": "panorama-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 440465,
+      "fileId": 4428359
+    }
+  ],
   "forge": [
     {
       "modId": "panorama",

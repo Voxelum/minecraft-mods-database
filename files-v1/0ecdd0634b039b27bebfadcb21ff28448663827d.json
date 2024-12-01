@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kjqxZ07F",
+      "versionId": "OLgRAWXx"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "serverlibraries",
+      "version": "1.0-SNAPSHOT"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "net_kyori_adventure-api",
+      "version": "4.18.0-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-minimessage",
+      "version": "4.18.0-SNAPSHOT"
+    }
+  ]
+}

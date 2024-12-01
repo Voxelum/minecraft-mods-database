@@ -1,6 +1,12 @@
 {
   "name": "torcharrows-1.10.2-1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 245763,
+      "fileId": 2313815
+    }
+  ],
   "forge": [
     {
       "modId": "torcharrowsmod",

@@ -1,6 +1,12 @@
 {
   "name": "immcraft-1.12-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QCBYSIQV",
+      "versionId": "25yJw5fo"
+    }
+  ],
   "forge": [
     {
       "modId": "immcraft",

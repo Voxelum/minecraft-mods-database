@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gTE8rr0e",
+      "versionId": "DTBFHYi0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903076,
+      "fileId": 5796573
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ores_and_items",
+      "version": "0.1.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ores_and_items",
+      "version": "0.1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "perfectplushies",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "perfectplushies",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "perfectplushieapi",
+      "version": "0.1.1"
+    }
+  ]
+}

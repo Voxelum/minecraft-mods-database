@@ -1,6 +1,18 @@
 {
   "name": "moremcmeta-1.19-3.0.5-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HFlxNpln",
+      "versionId": "wR5IxFwJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506079,
+      "fileId": 3879264
+    }
+  ],
   "fabric": [
     {
       "modId": "moremcmeta",

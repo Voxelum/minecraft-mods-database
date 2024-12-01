@@ -1,6 +1,18 @@
 {
   "name": "tamago-3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5UjtxD5a",
+      "versionId": "AHNKX5nY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688418,
+      "fileId": 5292049
+    }
+  ],
   "fabric": [
     {
       "modId": "tamago",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uSdcnlts",
+      "versionId": "RQGXH7GG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347405,
+      "fileId": 4409648
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoswitch",
+      "version": "6.0.2"
+    },
+    {
+      "modId": "autoswitch-api",
+      "version": "3.0.0"
+    }
+  ]
+}

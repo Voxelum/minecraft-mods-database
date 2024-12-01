@@ -1,6 +1,12 @@
 {
   "name": "NotEnoughUpdates-2.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GGamhqbw",
+      "versionId": "eQ2lKnVO"
+    }
+  ],
   "forge": [
     {
       "modId": "notenoughupdateserrordisplay",

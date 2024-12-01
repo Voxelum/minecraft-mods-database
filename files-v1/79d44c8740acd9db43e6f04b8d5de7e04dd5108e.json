@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CoXJchqF",
+      "versionId": "VmltHJoA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lockandblock",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

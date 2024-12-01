@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UblF21s1",
+      "versionId": "sgQBX0tV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917416,
+      "fileId": 5147602
+    }
+  ],
+  "forge": [
+    {
+      "modId": "projectiles",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "projectiles",
+      "version": "1.0.0"
+    }
+  ]
+}

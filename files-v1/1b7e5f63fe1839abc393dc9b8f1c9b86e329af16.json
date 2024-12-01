@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7AXsRqp1",
+      "versionId": "XnlTNWCk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981858,
+      "fileId": 5166645
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_extra_recipe",
+      "version": "2.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_extra_recipe",
+      "version": "2.1.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TravelersTitles-1.21.1-Fabric-5.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JtifUr64",
+      "versionId": "qslgngRE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelerstitles",
+      "version": "1.21.1-Fabric-5.1.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

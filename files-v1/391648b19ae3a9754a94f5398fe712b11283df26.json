@@ -1,6 +1,18 @@
 {
   "name": "devices-0.5.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YDa5wT4H",
+      "versionId": "a3M4bKc1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659048,
+      "fileId": 4167396
+    }
+  ],
   "forge": [
     {
       "modId": "devices_forge"

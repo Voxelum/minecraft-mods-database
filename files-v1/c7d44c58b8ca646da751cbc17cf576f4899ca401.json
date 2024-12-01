@@ -1,6 +1,18 @@
 {
   "name": "(Forge)SculkHorn-1.19.2-1.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BfFhIqA7",
+      "versionId": "uv0qDad2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636227,
+      "fileId": 4691059
+    }
+  ],
   "forge": [
     {
       "modId": "sculkhornid",

@@ -1,6 +1,18 @@
 {
   "name": "rainbowoaks-fabric-1.20-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "scEt2mrY",
+      "versionId": "Yboitp9O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 984099,
+      "fileId": 5167246
+    }
+  ],
   "fabric": [
     {
       "modId": "rainbowoaks",

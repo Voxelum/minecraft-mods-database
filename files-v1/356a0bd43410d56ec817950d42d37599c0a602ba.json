@@ -1,6 +1,18 @@
 {
   "name": "[鍙抽敭鏀惰幏]harvest-with-ease-forge-1.18.2-9.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W4Ajthd2",
+      "versionId": "keVWHpoC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 602171,
+      "fileId": 5480588
+    }
+  ],
   "forge": [
     {
       "modId": "harvest_with_ease",

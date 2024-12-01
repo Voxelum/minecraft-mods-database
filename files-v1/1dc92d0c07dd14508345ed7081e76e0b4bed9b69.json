@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ERLzX5g",
+      "versionId": "dVqJUIxU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "christmas-delight",
+      "version": "1.0-noremandier"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    }
+  ]
+}

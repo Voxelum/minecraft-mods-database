@@ -1,0 +1,32 @@
+{
+  "name": "smallships-fabric-1.21-2.0.0-b1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rGWEHQrP",
+      "versionId": "YLqDP58k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450659,
+      "fileId": 5613196
+    }
+  ],
+  "forge": [
+    {
+      "modId": "smallships",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smallships",
+      "version": "2.0.0-b1.5"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.8"
+    }
+  ]
+}

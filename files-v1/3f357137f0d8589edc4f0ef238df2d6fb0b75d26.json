@@ -1,6 +1,12 @@
 {
   "name": "blueprint-1.19.2-6.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 382216,
+      "fileId": 4019850
+    }
+  ],
   "forge": [
     {
       "modId": "blueprint",

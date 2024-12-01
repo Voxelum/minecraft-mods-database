@@ -1,6 +1,12 @@
 {
   "name": "infection-overwritten-7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5znuPLNT",
+      "versionId": "vGPOkAKi"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_infection_overwritten",

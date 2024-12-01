@@ -1,0 +1,16 @@
+{
+  "name": "【动作模组前置02】forgedfabric-0.0.5+1.16.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 662687,
+      "fileId": 4057269
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgedfabric",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

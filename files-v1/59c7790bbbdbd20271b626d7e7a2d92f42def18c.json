@@ -1,0 +1,38 @@
+{
+  "name": "hexkinetics-fabric-1.19.2-0.7.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8FVr3ohp",
+      "versionId": "b4qMm0qP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1108183,
+      "fileId": 5762661
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexkinetics",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    },
+    {
+      "modId": "cardinal-components",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

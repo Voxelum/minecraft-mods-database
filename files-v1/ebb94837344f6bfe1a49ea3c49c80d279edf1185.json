@@ -1,6 +1,18 @@
 {
   "name": "amber-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FYs9YRPs",
+      "versionId": "LyyNRC7c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851652,
+      "fileId": 4873092
+    }
+  ],
   "forge": [
     {
       "modId": "jade",

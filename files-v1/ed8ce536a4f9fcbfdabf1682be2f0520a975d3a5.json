@@ -1,6 +1,18 @@
 {
   "name": "The Silence Beta 2 - Shaders + Censored.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BRzYzJex",
+      "versionId": "MznbNf7c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981369,
+      "fileId": 5275689
+    }
+  ],
   "forge": [
     {
       "modId": "the_silence",

@@ -1,6 +1,18 @@
 {
   "name": "[蟹农乐事] CrabbersDelight-1.18.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gBGdVBJy",
+      "versionId": "raWodeSb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892827,
+      "fileId": 4762846
+    }
+  ],
   "forge": [
     {
       "modId": "crabbersdelight",

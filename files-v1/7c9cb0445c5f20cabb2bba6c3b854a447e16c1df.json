@@ -1,6 +1,12 @@
 {
   "name": "loot_journal-2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 700723,
+      "fileId": 4369421
+    }
+  ],
   "forge": [
     {
       "modId": "loot_journal",

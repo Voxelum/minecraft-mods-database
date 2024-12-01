@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKsNOKFh",
+      "versionId": "2uWVevY3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 617757,
+      "fileId": 5820363
+    }
+  ],
   "forge": [
     {
       "modId": "unusualend",

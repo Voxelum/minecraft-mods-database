@@ -1,6 +1,18 @@
 {
   "name": "indrev-nikolite-1.0+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iydzC46h",
+      "versionId": "fe7XlNvZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 517418,
+      "fileId": 3956408
+    }
+  ],
   "fabric": [
     {
       "modId": "indrev-nikolite",

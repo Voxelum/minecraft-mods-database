@@ -1,6 +1,18 @@
 {
   "name": "fishingparadise-1.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PUyoLtZT",
+      "versionId": "oo8IMO4F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 988099,
+      "fileId": 5206394
+    }
+  ],
   "fabric": [
     {
       "modId": "fishingparadise",

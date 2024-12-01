@@ -1,0 +1,30 @@
+{
+  "name": "scorchful-0.6.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SZQ5qcdn",
+      "versionId": "ZQZWXIeA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981400,
+      "fileId": 5482165
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scorchful",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

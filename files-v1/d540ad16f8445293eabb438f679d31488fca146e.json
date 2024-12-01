@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dc4g4seU",
+      "versionId": "HLBwcaIT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868230,
+      "fileId": 5618074
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "online_emotes",
+      "version": "3.2.1+mc1.21-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "99.99.99+1.21"
+    }
+  ]
+}

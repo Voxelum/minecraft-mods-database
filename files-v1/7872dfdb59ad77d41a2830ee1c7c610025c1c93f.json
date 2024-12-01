@@ -1,6 +1,18 @@
 {
   "name": "EpicFight-18.5.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vu3NZ5Ma",
+      "versionId": "1Z0gh5qt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405076,
+      "fileId": 4794936
+    }
+  ],
   "forge": [
     {
       "modId": "epicfight",

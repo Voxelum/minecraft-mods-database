@@ -1,6 +1,12 @@
 {
   "name": "mcpaint-1.16.5-1.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xluk5K6f",
+      "versionId": "e2xRSvg0"
+    }
+  ],
   "forge": [
     {
       "modId": "mcpaint",

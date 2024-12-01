@@ -1,6 +1,18 @@
 {
   "name": "xaeros_minimap_21.10.39_forge_1.8.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bokaNcj",
+      "versionId": "QrF8T5cQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 263420,
+      "fileId": 4799522
+    }
+  ],
   "forge": [
     {
       "modId": "XaeroMinimap",

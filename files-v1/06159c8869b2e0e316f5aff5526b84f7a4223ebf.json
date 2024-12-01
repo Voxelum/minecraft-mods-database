@@ -1,6 +1,12 @@
 {
   "name": "create_renewable_stones-1.20.1-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 952760,
+      "fileId": 5006518
+    }
+  ],
   "forge": [
     {
       "modId": "renewable_stones",

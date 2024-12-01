@@ -1,6 +1,18 @@
 {
   "name": "wso16-fabric-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gv3VVf1s",
+      "versionId": "pa75Rqaw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 664298,
+      "fileId": 4160272
+    }
+  ],
   "fabric": [
     {
       "modId": "wso16",

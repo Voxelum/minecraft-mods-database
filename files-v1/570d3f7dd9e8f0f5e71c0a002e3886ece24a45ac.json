@@ -1,6 +1,18 @@
 {
   "name": "ThreeCore-1.16.5-3.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EStRwx0r",
+      "versionId": "BsdGpGte"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349285,
+      "fileId": 3278464
+    }
+  ],
   "forge": [
     {
       "modId": "threecore",

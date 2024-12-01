@@ -1,6 +1,18 @@
 {
   "name": "Silk-API-0.0.1-Alpha+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3je4UK0t",
+      "versionId": "fpGfXTIU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 902155,
+      "fileId": 4702261
+    }
+  ],
   "fabric": [
     {
       "modId": "silk-api",

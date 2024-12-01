@@ -1,6 +1,18 @@
 {
   "name": "Adorn-3.8.1+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6FUtRJh",
+      "versionId": "E0HCy6sV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320215,
+      "fileId": 4262536
+    }
+  ],
   "fabric": [
     {
       "modId": "adorn",

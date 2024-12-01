@@ -1,0 +1,26 @@
+{
+  "name": "chunksfadein-fabric-2.0.2-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaNmzvA8",
+      "versionId": "cm1pHJWy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 720811,
+      "fileId": 5896903
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunksfadein",
+      "version": "2.0.2-1.21"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

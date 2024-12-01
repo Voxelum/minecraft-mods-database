@@ -1,6 +1,12 @@
 {
   "name": "In Game Account Switcher.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 232676,
+      "fileId": 2363885
+    }
+  ],
   "forge": [
     {
       "modId": "IngameAccountSwitcher",

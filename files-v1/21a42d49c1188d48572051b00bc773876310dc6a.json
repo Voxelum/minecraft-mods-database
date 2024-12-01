@@ -1,6 +1,12 @@
 {
   "name": "zergatul.freecam-1.2.0-forge-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 618947,
+      "fileId": 3859341
+    }
+  ],
   "forge": [
     {
       "modId": "freecam",

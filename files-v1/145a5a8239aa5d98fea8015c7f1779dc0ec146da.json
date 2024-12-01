@@ -1,6 +1,18 @@
 {
   "name": "IV-Vanity-1.12.2-2.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tU8tzINi",
+      "versionId": "jMEgnUQj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406056,
+      "fileId": 4433025
+    }
+  ],
   "forge": [
     {
       "modId": "ivv",

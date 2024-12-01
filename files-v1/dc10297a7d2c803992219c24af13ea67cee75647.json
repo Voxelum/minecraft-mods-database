@@ -1,6 +1,18 @@
 {
   "name": "well-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qs7zlvyh",
+      "versionId": "tj9kpZhG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 839110,
+      "fileId": 4716405
+    }
+  ],
   "forge": [
     {
       "modId": "well",

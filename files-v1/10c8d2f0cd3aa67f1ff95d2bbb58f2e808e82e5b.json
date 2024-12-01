@@ -1,0 +1,28 @@
+{
+  "name": "epicterrain-0.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7qSJGSHp",
+      "versionId": "gmjv6FMs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1075383,
+      "fileId": 5936468
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_epicterrain",
+      "version": "0.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_epicterrain",
+      "version": "0.1.2"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225608,
+      "fileId": 3502100
+    }
+  ],
+  "forge": [
+    {
+      "modId": "worldedit",
+      "version": "7.2.7+9f3e795"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldedit",
+      "version": "7.2.7+9f3e795"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b446313"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.2+6cefd57713"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "0.4.9+a722d8c013"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.4.4+a02b446313"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.12+6cefd57713"
+    }
+  ]
+}

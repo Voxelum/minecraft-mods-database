@@ -1,6 +1,18 @@
 {
   "name": "advancednetherite-fabric-1.5.0-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CFX9ftUJ",
+      "versionId": "fvk2vZay"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547881,
+      "fileId": 3772640
+    }
+  ],
   "fabric": [
     {
       "modId": "advancednetherite",

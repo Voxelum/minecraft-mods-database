@@ -1,6 +1,18 @@
 {
   "name": "Stoneworks-v3.0.0-1.18.2-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FzyTKtVF",
+      "versionId": "9rq1ySrR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852663,
+      "fileId": 4699520
+    }
+  ],
   "forge": [
     {
       "modId": "stoneworks",

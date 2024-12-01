@@ -1,0 +1,36 @@
+{
+  "name": "【舒适用品】comforts-fabric-0.0.7-1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SaCpeal4",
+      "versionId": "ZyTxtFj8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "0.0.7-1.16.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "somnus",
+      "version": "0.0.12-1.16.5"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.3"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    }
+  ]
+}

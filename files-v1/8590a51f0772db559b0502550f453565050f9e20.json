@@ -1,6 +1,18 @@
 {
   "name": "Tiny-Coal-1.16.4-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6Ezzuwck",
+      "versionId": "eyjoM5sO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395272,
+      "fileId": 3100603
+    }
+  ],
   "forge": [
     {
       "modId": "tinycoal",

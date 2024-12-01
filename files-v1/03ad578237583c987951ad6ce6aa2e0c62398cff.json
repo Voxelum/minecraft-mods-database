@@ -1,6 +1,18 @@
 {
   "name": "guarding-2.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aV1COQ7a",
+      "versionId": "qI2QGxUx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 607221,
+      "fileId": 4677414
+    }
+  ],
   "fabric": [
     {
       "modId": "guarding",

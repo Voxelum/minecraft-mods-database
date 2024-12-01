@@ -1,6 +1,12 @@
 {
   "name": "blahaj-fabric-1.19-0.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5bb5rG4b",
+      "versionId": "rPlENxgf"
+    }
+  ],
   "fabric": [
     {
       "modId": "blahaj",

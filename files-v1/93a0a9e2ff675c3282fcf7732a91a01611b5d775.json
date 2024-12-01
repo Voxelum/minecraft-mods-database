@@ -1,6 +1,18 @@
 {
   "name": "Tweakerge-0.1.2-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yke6wdGF",
+      "versionId": "W9bcHwYE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915857,
+      "fileId": 5071091
+    }
+  ],
   "forge": [
     {
       "modId": "tweakerge",

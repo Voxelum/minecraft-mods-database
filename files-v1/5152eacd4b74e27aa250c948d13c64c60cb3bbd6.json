@@ -1,6 +1,18 @@
 {
   "name": "Controlling-neoforge-1.20.4-15.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "yLWDcBEy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250398,
+      "fileId": 5283777
+    }
+  ],
   "forge": [
     {
       "modId": "controlling",

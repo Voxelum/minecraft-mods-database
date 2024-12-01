@@ -1,6 +1,12 @@
 {
   "name": "thutcore-3.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 224428,
+      "fileId": 2345548
+    }
+  ],
   "forge": [
     {
       "modId": "thutcore",

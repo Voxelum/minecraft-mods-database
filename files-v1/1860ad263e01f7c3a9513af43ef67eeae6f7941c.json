@@ -1,4 +1,22 @@
 {
   "name": "entity_texture_features_neoforge_1.20.2-5.2.3.jar",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BVzZfTc1",
+      "versionId": "rVPyqDN2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568563,
+      "fileId": 5079828
+    }
+  ],
+  "forge": [
+    {
+      "modId": "entity_texture_features",
+      "version": "5.2.3"
+    }
+  ]
 }

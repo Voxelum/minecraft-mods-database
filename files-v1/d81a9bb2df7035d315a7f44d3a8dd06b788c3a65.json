@@ -1,6 +1,18 @@
 {
   "name": "betterhoes-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iN9OgYxd",
+      "versionId": "oLbOi407"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977366,
+      "fileId": 5123686
+    }
+  ],
   "forge": [
     {
       "modId": "betterhoes",

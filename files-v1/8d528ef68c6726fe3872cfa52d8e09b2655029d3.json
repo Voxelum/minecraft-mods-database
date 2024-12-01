@@ -1,0 +1,90 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tsQ5bozJ",
+      "versionId": "MG0E0Hvq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849619,
+      "fileId": 4496206
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gptassistant",
+      "version": "1.0.3-mc1165"
+    },
+    {
+      "modId": "com_theokanning_openai-gpt3-java_api",
+      "version": "0.12.0"
+    },
+    {
+      "modId": "com_theokanning_openai-gpt3-java_client",
+      "version": "0.12.0"
+    },
+    {
+      "modId": "com_theokanning_openai-gpt3-java_service",
+      "version": "0.12.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.13.4"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.13.4"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.13.4"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.10.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "com_squareup_retrofit2_retrofit",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "com_squareup_retrofit2_converter-jackson",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "com_squareup_retrofit2_adapter-rxjava",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "com_squareup_retrofit2_adapter-rxjava2",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "io_reactivex_rxjava2_rxjava",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_reactivestreams_reactive-streams",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.9.3+kotlin.1.8.20"
+    },
+    {
+      "modId": "modmenu",
+      "version": "1.16.23"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.16.91"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "Netherrocks-1.20.1-6.0.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jsresWnw",
+      "versionId": "3BJbLP1O"
+    }
+  ],
   "forge": [
     {
       "modId": "netherrocks",

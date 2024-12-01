@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9xTQM0ci",
+      "versionId": "BjGoZXF2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1124703,
+      "fileId": 5867336
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trailiertales",
+      "version": "1.0.2+1.21.1"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.2-mc1.21.1"
+    }
+  ]
+}

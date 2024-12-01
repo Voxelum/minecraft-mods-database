@@ -1,0 +1,26 @@
+{
+  "name": "custom_hud-3.4.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6jis0UTI",
+      "versionId": "i6eU8JNe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406984,
+      "fileId": 5512107
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custom_hud",
+      "version": "3.4.2+1.21"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

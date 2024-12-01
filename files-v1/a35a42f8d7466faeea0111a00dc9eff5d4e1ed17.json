@@ -1,6 +1,18 @@
 {
   "name": "moredelight-1.0.2-1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "znHQQtuU",
+      "versionId": "SufCqJ8l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977515,
+      "fileId": 5155880
+    }
+  ],
   "forge": [
     {
       "modId": "moredelight",

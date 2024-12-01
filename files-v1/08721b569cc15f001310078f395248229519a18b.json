@@ -1,0 +1,22 @@
+{
+  "name": "inventorytotem-1.20.2-3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 349071,
+      "fileId": 4852437
+    }
+  ],
+  "forge": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "create-food-1.0.6-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4HnO3el1",
+      "versionId": "Ns7xmH6H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959439,
+      "fileId": 5257727
+    }
+  ],
   "fabric": [
     {
       "modId": "createfood",

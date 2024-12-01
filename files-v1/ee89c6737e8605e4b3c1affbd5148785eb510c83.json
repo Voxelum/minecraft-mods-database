@@ -1,6 +1,12 @@
 {
   "name": "UpdateCheckerMod-1.7.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 366440,
+      "fileId": 2897200
+    }
+  ],
   "forge": [
     {
       "modId": "AS_UpdateCheck",

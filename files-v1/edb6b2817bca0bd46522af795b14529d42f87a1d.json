@@ -1,0 +1,26 @@
+{
+  "name": "deathlog-0.4.1+1.21.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TPAYeAOc",
+      "versionId": "8W0ZsQ3h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 496150,
+      "fileId": 5886202
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathlog",
+      "version": "0.4.1+1.21.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.18+1.21.2"
+    }
+  ]
+}

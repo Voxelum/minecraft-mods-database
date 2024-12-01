@@ -1,0 +1,66 @@
+{
+  "name": "excorrelation-1.1.32.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jqnzGtnW",
+      "versionId": "Fga1bUDq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 537628,
+      "fileId": 4285441
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exco",
+      "version": "1.1.32"
+    },
+    {
+      "modId": "lib39-core",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-lockpick",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-ripple",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-tunnel",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-weld",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-mesh",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-keygen",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-dessicant",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-util",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-waypoint",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "lib39-sandman",
+      "version": "1.4.1"
+    }
+  ]
+}

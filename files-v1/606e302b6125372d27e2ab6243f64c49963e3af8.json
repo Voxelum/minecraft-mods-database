@@ -1,6 +1,18 @@
 {
   "name": "alexscaves_adventure-1.0.1-forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QDwvE2e1",
+      "versionId": "2VcEPtLz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1022406,
+      "fileId": 5361823
+    }
+  ],
   "forge": [
     {
       "modId": "alexscaves_adventure",

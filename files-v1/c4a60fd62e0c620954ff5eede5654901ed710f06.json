@@ -1,6 +1,18 @@
 {
   "name": "lostcities-1.19-6.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VDCUS3b",
+      "versionId": "1NlH0Lz6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 269024,
+      "fileId": 3953791
+    }
+  ],
   "forge": [
     {
       "modId": "lostcities",

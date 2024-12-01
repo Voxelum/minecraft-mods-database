@@ -1,6 +1,18 @@
 {
   "name": "[Fabric] Armadillo Scute Armor - MC 1.21 - 1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ROQUKdm5",
+      "versionId": "rhmxngLe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1011359,
+      "fileId": 5435564
+    }
+  ],
   "fabric": [
     {
       "modId": "armadillo_scute_armor",

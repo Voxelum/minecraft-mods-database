@@ -1,6 +1,18 @@
 {
   "name": "bigbrain-1.20.1-1.7.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jRRBLkzK",
+      "versionId": "beG1ZivX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421179,
+      "fileId": 5429381
+    }
+  ],
   "forge": [
     {
       "modId": "bigbrain",

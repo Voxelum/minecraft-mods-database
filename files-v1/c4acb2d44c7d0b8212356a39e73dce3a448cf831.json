@@ -1,6 +1,12 @@
 {
   "name": "amethyst-cutting-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "doin7ovk",
+      "versionId": "1Zda09rW"
+    }
+  ],
   "forge": [
     {
       "modId": "amethyst_cutting_mr",

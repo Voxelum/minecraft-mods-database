@@ -1,6 +1,18 @@
 {
   "name": "TARDIS Refined-1.19.2-1.0.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nqVt6aES",
+      "versionId": "I8A0Dhhj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 782697,
+      "fileId": 4822392
+    }
+  ],
   "forge": [
     {
       "modId": "tardis_refined",

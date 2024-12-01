@@ -1,6 +1,18 @@
 {
   "name": "almostunified-forge-1.18.2-0.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sdaSaQEz",
+      "versionId": "KVOLhJSI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633823,
+      "fileId": 4216397
+    }
+  ],
   "forge": [
     {
       "modId": "almostunified",

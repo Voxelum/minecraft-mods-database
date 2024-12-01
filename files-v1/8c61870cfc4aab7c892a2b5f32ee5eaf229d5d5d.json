@@ -1,6 +1,18 @@
 {
   "name": "light-overlay-4.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YfOlc91N",
+      "versionId": "MUSj2yfx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325492,
+      "fileId": 3048970
+    }
+  ],
   "forge": [
     {
       "modId": "lightoverlay-forge",

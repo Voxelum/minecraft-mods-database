@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEkz5T55",
+      "versionId": "g9Ywn42D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 889895,
+      "fileId": 5343582
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pkgbadges",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblebadges",
+      "version": "1.0.0"
+    }
+  ]
+}

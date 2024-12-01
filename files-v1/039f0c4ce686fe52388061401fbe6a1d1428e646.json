@@ -1,0 +1,28 @@
+{
+  "name": "torch-hit-fabric-1.18.2-7.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zTOq9jEI",
+      "versionId": "HIYAr9M5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 629434,
+      "fileId": 5469876
+    }
+  ],
+  "forge": [
+    {
+      "modId": "torch_hit",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "torch_hit",
+      "version": "7.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "pipe-1.18.2-1.7.1-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 441787,
+      "fileId": 3842191
+    }
+  ],
   "fabric": [
     {
       "modId": "pipe",

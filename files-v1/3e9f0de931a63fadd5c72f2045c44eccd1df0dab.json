@@ -1,6 +1,18 @@
 {
   "name": "timestamp-chat-forge-2.4.0+1.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2lAPv09G",
+      "versionId": "8bZrCjs5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373235,
+      "fileId": 4665206
+    }
+  ],
   "forge": [
     {
       "modId": "timestamp_chat",

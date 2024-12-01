@@ -1,6 +1,18 @@
 {
   "name": "ColorfulAzaleas-forge-1.19.2-2.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HDZ49j5G",
+      "versionId": "nQM7JVHm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 602536,
+      "fileId": 4543253
+    }
+  ],
   "forge": [
     {
       "modId": "colorfulazaleas",

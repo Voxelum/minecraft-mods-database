@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lIQY64qr",
+      "versionId": "8ibrggQT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tiptapshow",
+      "version": "1.6.1+1.21.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

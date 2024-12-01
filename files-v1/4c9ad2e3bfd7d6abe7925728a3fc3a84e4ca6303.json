@@ -1,6 +1,18 @@
 {
   "name": "thitemstages-1.19.2-0.2-rc1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vioEUIG9",
+      "versionId": "aY0VHIxy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628919,
+      "fileId": 4776933
+    }
+  ],
   "forge": [
     {
       "modId": "thitemstages",

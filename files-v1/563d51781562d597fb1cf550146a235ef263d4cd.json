@@ -1,6 +1,12 @@
 {
   "name": "lucky-block-forge-1.8.9-2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 576825,
+      "fileId": 3652657
+    }
+  ],
   "forge": [
     {
       "modId": "lucky",

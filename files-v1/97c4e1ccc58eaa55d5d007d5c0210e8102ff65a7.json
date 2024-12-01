@@ -1,6 +1,18 @@
 {
   "name": "VillageNames-1.12.2-4.4.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ea7aacaC",
+      "versionId": "zUovvPBu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 259230,
+      "fileId": 4961450
+    }
+  ],
   "forge": [
     {
       "modId": "villagenames",

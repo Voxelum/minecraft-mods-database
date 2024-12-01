@@ -1,6 +1,12 @@
 {
   "name": "iceandfire-0.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpmCsizY",
+      "versionId": "tN0RT68k"
+    }
+  ],
   "fabric": [
     {
       "modId": "iceandfire",

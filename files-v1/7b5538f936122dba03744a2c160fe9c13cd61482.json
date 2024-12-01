@@ -1,0 +1,16 @@
+{
+  "name": "phantomshapes-1.1.2-sources.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TLvlCunx",
+      "versionId": "jnvbeueA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "phantomshapes",
+      "version": "${version}"
+    }
+  ]
+}

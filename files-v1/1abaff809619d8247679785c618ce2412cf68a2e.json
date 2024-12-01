@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "4K7Q3nqd",
       "versionId": "hy47Ow1L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 228404,
+      "fileId": 5480745
+    }
+  ],
+  "forge": [
+    {
+      "modId": "actuallyadditions",
+      "version": "1.2.14+mc1.20.4"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "name": "portablejukebox-fabric-1.19-2.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 438849,
+      "fileId": 3887529
+    }
+  ],
   "fabric": [
     {
       "modId": "portablejukebox",

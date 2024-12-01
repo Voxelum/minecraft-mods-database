@@ -1,6 +1,18 @@
 {
   "name": "rechiseledae2-forge-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sDBUwZVY",
+      "versionId": "DLka6PM6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 987534,
+      "fileId": 5184897
+    }
+  ],
   "forge": [
     {
       "modId": "rechiseledae2",

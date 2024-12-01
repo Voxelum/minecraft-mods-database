@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nR8D9Tc2",
+      "versionId": "dkzHx5y3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1027757,
+      "fileId": 5920151
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vs_addition",
+      "version": "1.20.1-forge-0.0.9+6fa2d9c25b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vs_addition",
+      "version": "1.20.1-fabric-0.0.9+6fa2d9c25b"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "spark-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 3398114
+    }
+  ],
   "fabric": [
     {
       "modId": "spark",

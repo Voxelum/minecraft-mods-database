@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AEWkDOWi",
+      "versionId": "710yIKwp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 413354,
+      "fileId": 5692464
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "taleofkingdoms",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.11+1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.130"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "[无键位冲突] NonConflictKeys-Forge-1.18.X-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XU9gCifV",
+      "versionId": "xNBiLhCr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864845,
+      "fileId": 4547895
+    }
+  ],
   "forge": [
     {
       "modId": "nckey",

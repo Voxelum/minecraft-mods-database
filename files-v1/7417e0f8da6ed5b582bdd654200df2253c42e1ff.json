@@ -1,6 +1,18 @@
 {
   "name": "charmonium-fabric-1.17-3.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bpii4Xsa",
+      "versionId": "lcwRuMzv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378696,
+      "fileId": 3379114
+    }
+  ],
   "fabric": [
     {
       "modId": "charmonium",

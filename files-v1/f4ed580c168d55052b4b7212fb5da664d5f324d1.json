@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aVja52oo",
+      "versionId": "v5Y8plmA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 593568,
+      "fileId": 5500413
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particle-blocker",
+      "version": "1.9"
+    },
+    {
+      "modId": "com_github_fallen-breath_conditional-mixin",
+      "version": "v0.6.2"
+    }
+  ]
+}

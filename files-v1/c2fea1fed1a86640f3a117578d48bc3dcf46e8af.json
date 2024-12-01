@@ -1,10 +1,20 @@
 {
   "name": "mcjtylib-1.21-9.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PxQSWIcD",
+      "versionId": "kSSa3FvO"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 233105,
       "fileId": 5832340
+    },
+    {
+      "projectId": 551736,
+      "fileId": 5807536
     }
   ]
 }

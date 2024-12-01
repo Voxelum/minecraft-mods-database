@@ -1,6 +1,18 @@
 {
   "name": "passiveendermen-1.20.1-4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N7UFQA9x",
+      "versionId": "9Wr3aT6O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378921,
+      "fileId": 4976264
+    }
+  ],
   "forge": [
     {
       "modId": "passiveendermen",

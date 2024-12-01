@@ -1,6 +1,18 @@
 {
   "name": "vivecraft-1.19.2-0.0.13-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGoQDPN5",
+      "versionId": "oG2wzMMs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667903,
+      "fileId": 4160376
+    }
+  ],
   "fabric": [
     {
       "modId": "vivecraft",

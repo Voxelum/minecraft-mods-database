@@ -1,0 +1,138 @@
+{
+  "name": "c2me-fabric-mc1.21.3-0.3.0+beta.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VSNURh3q",
+      "versionId": "tV8Sxjfg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533097,
+      "fileId": 5912135
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "c2me",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-base",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-dfc",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-chunkio",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "c2me-fixes-chunkio-threading-issues",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-client-uncapvd",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "org_reactivestreams_reactive-streams",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "c2me-rewrites-chunkio",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-fixes-worldgen-vanilla-bugs",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    },
+    {
+      "modId": "c2me-rewrites-chunk-system",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-math",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-scheduling",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-fixes-general-threading-issues",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-allocs",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-worldgen-general",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-server-utils",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-worldgen-vanilla",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-rewrites-chunk-serializer",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-fixes-worldgen-threading-issues",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "org_jctools_jctools-core",
+      "version": "4.0.5"
+    },
+    {
+      "modId": "c2me-threading-lighting",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-natives-math",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "io_reactivex_rxjava3_rxjava",
+      "version": "3.1.8"
+    },
+    {
+      "modId": "com_ibm_async_asyncutil",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "c2me-notickvd",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    },
+    {
+      "modId": "c2me-opts-chunk-access",
+      "version": "0.3.0+beta.2.0+1.21.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "tectonic-forge-1.18-2.3.5a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lWDHr9jE",
+      "versionId": "n95EQITE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686836,
+      "fileId": 5400768
+    }
+  ],
   "forge": [
     {
       "modId": "tectonic",

@@ -1,6 +1,18 @@
 {
   "name": "tntbreaksbedrock-1.19.2-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eU2O6Xp1",
+      "versionId": "pQNyFLMD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344219,
+      "fileId": 4963714
+    }
+  ],
   "forge": [
     {
       "modId": "tntbreaksbedrock",

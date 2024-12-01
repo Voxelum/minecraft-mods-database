@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "PackagedDraconic-1.12.2-1.0.2.17.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "dNduUQBR",
       "versionId": "ZNCi2XUx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 833931,
+      "fileId": 5779704
     }
   ],
   "forge": [

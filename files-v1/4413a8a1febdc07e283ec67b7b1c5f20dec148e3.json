@@ -1,0 +1,34 @@
+{
+  "name": "realisticfirespread-1.21.2-r1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7JCIgcfe",
+      "versionId": "mkiU4jub"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344544,
+      "fileId": 5848550
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "realisticfirespread",
+      "version": "1.21.2-r1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.4"
+    }
+  ]
+}

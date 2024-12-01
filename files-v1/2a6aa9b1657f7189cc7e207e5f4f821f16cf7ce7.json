@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 427177,
+      "fileId": 5346381
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gobber2",
+      "version": "2.6.63"
+    },
+    {
+      "modId": "pugh_lib",
+      "version": "1.4.15"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.3.23"
+    }
+  ]
+}

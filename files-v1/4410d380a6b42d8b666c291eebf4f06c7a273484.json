@@ -1,6 +1,18 @@
 {
   "name": "WAWLA-1.16.5-8.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wxWOoXgy",
+      "versionId": "sudhjhYU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 224712,
+      "fileId": 3480164
+    }
+  ],
   "forge": [
     {
       "modId": "wawla",

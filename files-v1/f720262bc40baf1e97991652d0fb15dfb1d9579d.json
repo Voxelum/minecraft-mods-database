@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-structure-api-v1",
+      "version": "1.1.12+3cc0f0907d"
+    }
+  ]
+}

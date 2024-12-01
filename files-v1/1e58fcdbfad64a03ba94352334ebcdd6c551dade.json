@@ -1,6 +1,12 @@
 {
   "name": "wormhole-1.1.16-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6nHZTTjQ",
+      "versionId": "YU4PFhk1"
+    }
+  ],
   "fabric": [
     {
       "modId": "wormhole",

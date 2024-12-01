@@ -1,6 +1,18 @@
 {
   "name": "aether-1.7.10-v1.1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YhmgMVyu",
+      "versionId": "GRS6HOna"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255308,
+      "fileId": 3280117
+    }
+  ],
   "forge": [
     {
       "modId": "aether_legacy",

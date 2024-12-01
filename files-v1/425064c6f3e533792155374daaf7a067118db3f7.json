@@ -1,6 +1,18 @@
 {
   "name": "thermal_cultivation-1.18.2-1.6.3.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5beJoehw",
+      "versionId": "1Sz6rXeY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 271835,
+      "fileId": 3837822
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_cultivation",

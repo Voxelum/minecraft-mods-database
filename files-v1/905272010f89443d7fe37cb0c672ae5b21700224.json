@@ -1,6 +1,18 @@
 {
   "name": "badpackets-forge-0.8.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ftdbN0KK",
+      "versionId": "n8slpshH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615134,
+      "fileId": 5430628
+    }
+  ],
   "forge": [
     {
       "modId": "badpackets",

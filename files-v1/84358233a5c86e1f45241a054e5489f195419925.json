@@ -1,0 +1,28 @@
+{
+  "name": "worldborder-1.20.1-4.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nN96GjON",
+      "versionId": "NWUvhDsJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348093,
+      "fileId": 5571545
+    }
+  ],
+  "forge": [
+    {
+      "modId": "worldborder",
+      "version": "4.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldborder",
+      "version": "4.7"
+    }
+  ]
+}

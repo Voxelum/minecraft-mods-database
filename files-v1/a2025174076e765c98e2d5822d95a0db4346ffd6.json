@@ -1,0 +1,34 @@
+{
+  "name": "[动态准星兼容] dynamiccrosshair-compat-1.4+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EwPIWPJ9",
+      "versionId": "vpKggwVW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632420,
+      "fileId": 4333735
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiccrosshaircompat",
+      "version": "1.4+1.18.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.4+d7c144a860"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.12+54e5b2ec60"
+    },
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "1.6.0+2373a54560"
+    }
+  ]
+}

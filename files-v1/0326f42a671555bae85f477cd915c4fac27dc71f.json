@@ -1,6 +1,12 @@
 {
   "name": "beproud-0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2qq6CN52",
+      "versionId": "a9ZITK1h"
+    }
+  ],
   "fabric": [
     {
       "modId": "beproud",

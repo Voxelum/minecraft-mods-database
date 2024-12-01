@@ -1,6 +1,12 @@
 {
   "name": "nuclear_craft-1.18.2-0.10.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 405952,
+      "fileId": 3877695
+    }
+  ],
   "forge": [
     {
       "modId": "nuclear_craft"

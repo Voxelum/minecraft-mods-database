@@ -1,0 +1,20 @@
+{
+  "name": "witchmobility-1.4.3-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 782330,
+      "fileId": 5724739
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "witchmobility",
+      "version": "1.4.3-1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

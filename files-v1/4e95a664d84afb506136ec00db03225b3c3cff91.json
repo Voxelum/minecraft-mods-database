@@ -1,6 +1,18 @@
 {
   "name": "Upcycle-1.18-(v.1.0.0).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MiQPF2hD",
+      "versionId": "PzCCQC4M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 567281,
+      "fileId": 3605003
+    }
+  ],
   "forge": [
     {
       "modId": "upcycle",

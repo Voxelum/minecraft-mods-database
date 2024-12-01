@@ -1,0 +1,30 @@
+{
+  "name": "geckolib-fabric-1.19-3.1.22.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "ZnAjp6NS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 4019765
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geckolib3",
+      "version": "3.1.22"
+    },
+    {
+      "modId": "com_eliotlash_molang_molang",
+      "version": "19"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "19"
+    }
+  ]
+}

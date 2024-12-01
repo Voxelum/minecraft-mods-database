@@ -1,10 +1,20 @@
 {
   "name": "easy-villagers-neoforge-1.21.1-1.1.23.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AVo2esap",
+      "versionId": "pNHwZjEV"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 400514,
       "fileId": 5724571
+    },
+    {
+      "projectId": 909375,
+      "fileId": 5426237
     }
   ]
 }

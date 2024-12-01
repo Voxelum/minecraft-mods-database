@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1068908,
+      "fileId": 5554321
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "litematica",
+      "version": "0.18.999-sakura.25"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.2.0+ab7edbacd1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.2.0+7e687b32d1"
+    }
+  ]
+}

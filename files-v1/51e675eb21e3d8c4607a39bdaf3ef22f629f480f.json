@@ -1,6 +1,12 @@
 {
   "name": "kubejs_mystical_agriculture-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H7lr4qce",
+      "versionId": "i4KUrDi8"
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs_mystical_agriculture",

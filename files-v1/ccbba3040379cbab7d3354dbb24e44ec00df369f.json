@@ -1,0 +1,26 @@
+{
+  "name": "blur-fabric-5.0.1+1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "JWYifdf0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393563,
+      "fileId": 5876816
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.4"
+    }
+  ]
+}

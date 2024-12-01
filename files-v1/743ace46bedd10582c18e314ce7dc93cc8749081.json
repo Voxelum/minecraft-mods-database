@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aTaCgKLW",
+      "versionId": "Ymh6Uy3e"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "silk-all",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-commands",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-core",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-game",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-igui",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-nbt",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-network",
+      "version": "1.9.8"
+    },
+    {
+      "modId": "silk-persistence",
+      "version": "1.9.8"
+    }
+  ]
+}

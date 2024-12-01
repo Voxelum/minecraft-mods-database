@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ERH7cFoy",
+      "versionId": "KqpOSqHC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicupgrades",
+      "version": "4.0.2+mc1.20.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.3+1.20.3"
+    }
+  ]
+}

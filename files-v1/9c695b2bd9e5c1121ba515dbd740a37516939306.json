@@ -1,6 +1,12 @@
 {
   "name": "framework-fabric-1.20.1-0.6.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667391,
+      "fileId": 4590797
+    }
+  ],
   "fabric": [
     {
       "modId": "framework",

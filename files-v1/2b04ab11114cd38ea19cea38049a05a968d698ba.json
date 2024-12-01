@@ -1,0 +1,20 @@
+{
+  "name": "CallableHorseFabric-1.20-1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 990224,
+      "fileId": 5200081
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "callablehorsefabric",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.0+1.20.1"
+    }
+  ]
+}

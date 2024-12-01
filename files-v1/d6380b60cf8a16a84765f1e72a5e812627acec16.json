@@ -1,6 +1,12 @@
 {
   "name": "Trident-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 469262,
+      "fileId": 4798618
+    }
+  ],
   "forge": [
     {
       "modId": "trident",

@@ -1,6 +1,18 @@
 {
   "name": "My Totem Doll-1.0.1+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ygYU16dG",
+      "versionId": "KaRM7WYe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1065783,
+      "fileId": 5554665
+    }
+  ],
   "fabric": [
     {
       "modId": "my-totem-doll",

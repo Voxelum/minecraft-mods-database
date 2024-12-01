@@ -1,6 +1,12 @@
 {
   "name": "veinmining-forge-1.18.2-0.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRAPbNyF",
+      "versionId": "4iKF7qr7"
+    }
+  ],
   "forge": [
     {
       "modId": "veinmining",

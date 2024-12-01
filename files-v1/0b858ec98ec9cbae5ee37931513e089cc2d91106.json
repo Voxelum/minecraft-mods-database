@@ -1,6 +1,18 @@
 {
   "name": "cakechomps-forge-1.18-5.1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g646EoqQ",
+      "versionId": "HvAGre6I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 307943,
+      "fileId": 3555957
+    }
+  ],
   "forge": [
     {
       "modId": "cakechomps",

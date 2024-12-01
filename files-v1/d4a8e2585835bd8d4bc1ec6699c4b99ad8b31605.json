@@ -1,6 +1,12 @@
 {
   "name": "book-of-experience-v3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KfqvJMNp",
+      "versionId": "Ray7ziFI"
+    }
+  ],
   "forge": [
     {
       "modId": "book_ofexperience_mr",

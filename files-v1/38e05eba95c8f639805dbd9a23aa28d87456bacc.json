@@ -1,0 +1,26 @@
+{
+  "name": "BasicNetherOres-fabric-1.21-10.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dCSG7wIX",
+      "versionId": "iJ0SgabG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 289647,
+      "fileId": 5487120
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bno",
+      "version": "10.0.2"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

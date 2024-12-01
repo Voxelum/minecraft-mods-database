@@ -1,6 +1,18 @@
 {
   "name": "audio_engine_tweaks-1.2.4-MC1.20.1 build 21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DZ81JNQ1",
+      "versionId": "mG9CjwpU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637696,
+      "fileId": 4778096
+    }
+  ],
   "fabric": [
     {
       "modId": "audio_engine_tweaks",

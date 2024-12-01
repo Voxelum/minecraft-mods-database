@@ -1,6 +1,18 @@
 {
   "name": "ExtendedCrafting-1.19.2-5.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5JMG1gql",
+      "versionId": "VrtBsQ1u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268387,
+      "fileId": 4632677
+    }
+  ],
   "forge": [
     {
       "modId": "extendedcrafting",

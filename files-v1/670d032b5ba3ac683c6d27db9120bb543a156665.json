@@ -1,6 +1,18 @@
 {
   "name": "kubejs-forge-2001.6.3-build.45.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "gR2kKjfQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 4748655
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs",

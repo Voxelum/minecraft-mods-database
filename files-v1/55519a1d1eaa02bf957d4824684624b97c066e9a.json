@@ -1,6 +1,18 @@
 {
   "name": "scaffoldingpower-1.16.5-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "luNyjxun",
+      "versionId": "GUV6MtzU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 370777,
+      "fileId": 3211052
+    }
+  ],
   "forge": [
     {
       "modId": "scaffoldingpower",

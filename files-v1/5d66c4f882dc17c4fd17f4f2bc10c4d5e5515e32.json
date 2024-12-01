@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eLHPztEV",
+      "versionId": "k54ixRAG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1072974,
+      "fileId": 5889911
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zombies_plus",
+      "version": "2.1.2-1.20-.4(excl.3)"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombies_plus",
+      "version": "2.1.2-1.20-.4(excl.3)"
+    }
+  ]
+}

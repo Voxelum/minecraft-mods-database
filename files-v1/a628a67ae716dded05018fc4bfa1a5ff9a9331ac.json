@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 350998,
+      "fileId": 3607271
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanilla_parts",
+      "version": "2.0.0+1.18.1"
+    },
+    {
+      "modId": "blockstoparts",
+      "version": "0.2.3+1.18.1"
+    },
+    {
+      "modId": "libmultipart_deps_container",
+      "version": "0.7.1-pre.8"
+    }
+  ]
+}

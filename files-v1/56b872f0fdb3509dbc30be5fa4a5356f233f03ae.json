@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "4.6+backport"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "4.6+backport"
+    }
+  ]
+}

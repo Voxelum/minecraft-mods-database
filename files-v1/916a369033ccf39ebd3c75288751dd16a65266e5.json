@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hSSqdyU1",
+      "versionId": "OcbYnMnp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 829380,
+      "fileId": 5695477
+    }
+  ],
   "forge": [
     {
       "modId": "createcasing",

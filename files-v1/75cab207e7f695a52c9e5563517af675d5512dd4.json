@@ -1,6 +1,18 @@
 {
   "name": "tooltiprareness-1.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4jBWaiuq",
+      "versionId": "VXFO3Obs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 472795,
+      "fileId": 4578906
+    }
+  ],
   "fabric": [
     {
       "modId": "tooltiprareness",

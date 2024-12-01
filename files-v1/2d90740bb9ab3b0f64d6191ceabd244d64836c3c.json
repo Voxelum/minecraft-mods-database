@@ -1,6 +1,12 @@
 {
   "name": "bigpony-1.10.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h9pJxJR9",
+      "versionId": "tp53F5bh"
+    }
+  ],
   "fabric": [
     {
       "modId": "bigpony",

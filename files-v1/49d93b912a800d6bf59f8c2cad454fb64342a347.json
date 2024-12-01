@@ -1,6 +1,12 @@
 {
   "name": "companion-1.18.2-forge-2.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 559989,
+      "fileId": 3771497
+    }
+  ],
   "forge": [
     {
       "modId": "companion",

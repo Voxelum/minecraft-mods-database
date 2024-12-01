@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IX99VLW9",
+      "versionId": "RlemufzC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903940,
+      "fileId": 5425128
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "orderedplayerlist",
+      "version": "0.1.4+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0-pre.2+1.21"
+    }
+  ]
+}

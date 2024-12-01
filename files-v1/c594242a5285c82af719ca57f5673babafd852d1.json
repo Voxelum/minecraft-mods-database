@@ -1,6 +1,18 @@
 {
   "name": "ShieldExpansion-1.19.2-1.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sjxWxSao",
+      "versionId": "vSwjX2A7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 583318,
+      "fileId": 4885484
+    }
+  ],
   "forge": [
     {
       "modId": "shieldexp",

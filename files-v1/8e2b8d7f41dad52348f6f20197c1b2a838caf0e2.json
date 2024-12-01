@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lYd9d8qu",
+      "versionId": "iznw5d5r"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "evo-plus",
+      "version": "2.1.11"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "5.1.6+b3afc78b77"
+    },
+    {
+      "modId": "pro_diamondworld_evoplusprotocol_evoplusprotocol",
+      "version": "1.4a"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "2.8.8"
+    },
+    {
+      "modId": "com_github_asyncdargen_rest-client",
+      "version": "9ea7e9b8ed"
+    },
+    {
+      "modId": "com_github_asyncdargen_crowbar_crowbar-core",
+      "version": "48361c8411"
+    }
+  ]
+}

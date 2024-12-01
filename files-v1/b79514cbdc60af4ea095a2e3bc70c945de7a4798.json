@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cobblemon",
+      "version": "1.6.0+1.21.1-HEAD-09b9fad"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.11.0+kotlin.2.0.0"
+    }
+  ]
+}

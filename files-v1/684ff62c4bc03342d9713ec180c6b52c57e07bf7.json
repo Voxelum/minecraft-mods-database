@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9mtu0sUO",
+      "versionId": "zTAVrWoj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904356,
+      "fileId": 5746974
+    }
+  ],
   "forge": [
     {
       "modId": "fastipping",

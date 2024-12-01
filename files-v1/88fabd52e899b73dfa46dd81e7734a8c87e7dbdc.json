@@ -1,0 +1,30 @@
+{
+  "name": "[是，史蒂夫模型] yesstevemodel-fabric-1.21-2.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "86xjpqqS",
+      "versionId": "QnYrbPvq"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "yesstevemodel-fabric-1.21-2.2.2",
+      "version": ""
+    },
+    {
+      "modId": "[是，史蒂夫模型] yesstevemodel-fabric-1.21-2.2.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yes_steve_model",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.0"
+    }
+  ]
+}

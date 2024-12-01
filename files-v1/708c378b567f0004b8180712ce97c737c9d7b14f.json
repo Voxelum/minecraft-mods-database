@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "grind-enchantments-3.2.2+1.21-rc1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WC4UgDcZ",
+      "versionId": "yckYZpeJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 379680,
+      "fileId": 5423981
+    }
+  ],
   "fabric": [
     {
       "modId": "grindenchantments",

@@ -1,0 +1,28 @@
+{
+  "name": "iron-nugget-recycling-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "knuQzrab",
+      "versionId": "P1UjwP3z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118534,
+      "fileId": 5837664
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_iron_nuggetrecycling",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_iron_nuggetrecycling",
+      "version": "1.0"
+    }
+  ]
+}

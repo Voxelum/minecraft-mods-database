@@ -1,6 +1,18 @@
 {
   "name": "simpleores-1.7.10-1.6.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51dAkghQ",
+      "versionId": "gaVEyBec"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 226138,
+      "fileId": 2293236
+    }
+  ],
   "forge": [
     {
       "modId": "simpleores",

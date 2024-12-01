@@ -1,6 +1,12 @@
 {
   "name": "longsword-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4yd5i6Tj",
+      "versionId": "g45hCY8I"
+    }
+  ],
   "fabric": [
     {
       "modId": "longsword",

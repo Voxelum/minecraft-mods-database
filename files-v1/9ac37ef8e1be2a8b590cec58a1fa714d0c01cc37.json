@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "BlueGem",
+      "version": "4 (3b3t edition)"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a82"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.11+b3afc78b82"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "aseoha-5.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1006434,
+      "fileId": 5579341
+    }
+  ],
+  "forge": [
+    {
+      "modId": "aseoha",
+      "version": "${ModVer}"
+    }
+  ]
+}

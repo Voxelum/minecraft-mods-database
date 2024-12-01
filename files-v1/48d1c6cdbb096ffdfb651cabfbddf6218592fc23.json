@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 900435,
+      "fileId": 5818861
+    }
+  ],
+  "forge": [
+    {
+      "modId": "magic_vibe_decorations",
+      "version": "2.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magic_vibe_decorations",
+      "version": "1.7.0"
+    }
+  ]
+}

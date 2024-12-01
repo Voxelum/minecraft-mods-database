@@ -1,6 +1,18 @@
 {
   "name": "nyfsquiver-Fabric-0.5.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hReJ61of",
+      "versionId": "yYpQHCjd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482731,
+      "fileId": 4025816
+    }
+  ],
   "fabric": [
     {
       "modId": "nyfsquiver",

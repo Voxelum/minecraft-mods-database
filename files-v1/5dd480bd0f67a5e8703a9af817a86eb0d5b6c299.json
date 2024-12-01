@@ -1,6 +1,18 @@
 {
   "name": "InsaneLib-1.9.2-mc1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "USZyvOJq",
+      "versionId": "i1Z3Iifr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 465109,
+      "fileId": 4555588
+    }
+  ],
   "forge": [
     {
       "modId": "insanelib",

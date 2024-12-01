@@ -1,6 +1,18 @@
 {
   "name": "simplyswords-forge-1.34-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bK3Ubu9p",
+      "versionId": "98W9mj8s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659887,
+      "fileId": 4076389
+    }
+  ],
   "forge": [
     {
       "modId": "simplyswords",

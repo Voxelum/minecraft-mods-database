@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "dynamic-light-0.5.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "DJ1ZClf3",
       "versionId": "mv7YlyBA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1145865,
+      "fileId": 5929369
     }
   ],
   "forge": [

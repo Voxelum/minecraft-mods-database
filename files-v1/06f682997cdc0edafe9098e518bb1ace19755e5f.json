@@ -1,6 +1,18 @@
 {
   "name": "prefabricated-5.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "McLbj2dz",
+      "versionId": "tMeQXfMX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960132,
+      "fileId": 5031065
+    }
+  ],
   "fabric": [
     {
       "modId": "prefabricated",

@@ -1,0 +1,22 @@
+{
+  "name": "enchantable-mace-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W296hfQ6",
+      "versionId": "T7xBIJFP"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_enchantable_mace",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_enchantable_mace",
+      "version": "2.0.0"
+    }
+  ]
+}

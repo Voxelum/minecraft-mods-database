@@ -1,6 +1,12 @@
 {
   "name": "gravelminer-forge-1.19-13.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244759,
+      "fileId": 3833477
+    }
+  ],
   "forge": [
     {
       "modId": "gravelminer",

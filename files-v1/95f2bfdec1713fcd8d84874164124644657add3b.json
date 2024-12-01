@@ -1,6 +1,18 @@
 {
   "name": "jei-1.20.1-forge-15.11.0.43.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "zDIRJq0x"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 5606742
+    }
+  ],
   "forge": [
     {
       "modId": "jei",

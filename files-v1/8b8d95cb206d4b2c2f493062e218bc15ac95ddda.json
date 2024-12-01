@@ -1,6 +1,18 @@
 {
   "name": "JollyBoxes-1.4.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JfUzhKlE",
+      "versionId": "OXmeJU43"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410698,
+      "fileId": 4111103
+    }
+  ],
   "forge": [
     {
       "modId": "jolly_boxes",

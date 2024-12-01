@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IhBYAM6m",
+      "versionId": "dYr9feVJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857513,
+      "fileId": 5409706
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedworkbenches",
+      "version": "1.1.2+1.20.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.2.2+1.20"
+    }
+  ]
+}

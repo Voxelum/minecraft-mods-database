@@ -1,6 +1,18 @@
 {
   "name": "dangerclose-merged-1.20.1-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VtVhdIEA",
+      "versionId": "YKSs6UjS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858922,
+      "fileId": 5227128
+    }
+  ],
   "forge": [
     {
       "modId": "dangerclose",

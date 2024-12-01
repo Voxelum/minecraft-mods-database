@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 577541,
+      "fileId": 4073242
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mcef",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgecef",
+      "version": "${version}"
+    }
+  ]
+}

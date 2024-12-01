@@ -1,6 +1,12 @@
 {
   "name": "burrows-1.4-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 892749,
+      "fileId": 4744307
+    }
+  ],
   "forge": [
     {
       "modId": "burrows",

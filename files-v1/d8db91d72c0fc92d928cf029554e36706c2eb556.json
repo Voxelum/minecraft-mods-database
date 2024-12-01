@@ -1,0 +1,20 @@
+{
+  "name": "VanillaIcecreamFix-b1.1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 817119,
+      "fileId": 4502931
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanillafix",
+      "version": "b1.1.1"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.2"
+    }
+  ]
+}

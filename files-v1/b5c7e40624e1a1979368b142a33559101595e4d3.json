@@ -1,0 +1,10 @@
+{
+  "name": "RemoteIO-universal-1.6.4-1.11.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "remoteIO",
+      "version": "@MAJOR@.@MINOR@.@REVIS@.@BUILD@"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JBjInUXM",
+      "versionId": "17hbp0jP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minelp",
+      "version": "4.9.0"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.15.0"
+    },
+    {
+      "modId": "mson",
+      "version": "1.8.1"
+    }
+  ]
+}

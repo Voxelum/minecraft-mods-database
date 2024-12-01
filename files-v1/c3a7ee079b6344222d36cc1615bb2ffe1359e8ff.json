@@ -1,6 +1,12 @@
 {
   "name": "lambdabettergrass-1.2.4+1.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 400322,
+      "fileId": 3833479
+    }
+  ],
   "fabric": [
     {
       "modId": "lambdabettergrass",

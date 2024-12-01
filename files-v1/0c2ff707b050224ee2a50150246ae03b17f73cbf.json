@@ -1,6 +1,18 @@
 {
   "name": "new_shield_variants-merged-1.21-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w5Fni7I5",
+      "versionId": "HB67aeVb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 884272,
+      "fileId": 5580600
+    }
+  ],
   "forge": [
     {
       "modId": "new_shield_variants",

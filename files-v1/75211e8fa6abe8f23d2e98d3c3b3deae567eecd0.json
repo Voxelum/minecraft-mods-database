@@ -1,6 +1,12 @@
 {
   "name": "trade-cycling-fabric-1.18.2-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 570431,
+      "fileId": 3669602
+    }
+  ],
   "fabric": [
     {
       "modId": "trade_cycling",

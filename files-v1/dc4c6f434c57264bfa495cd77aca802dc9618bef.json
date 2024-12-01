@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "34Fc4NMh",
+      "versionId": "j2yVNITq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1091882,
+      "fileId": 5668410
+    }
+  ],
+  "forge": [
+    {
+      "modId": "yumo_cmp",
+      "version": "1.2.13"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yumo_cmp",
+      "version": "1.2.13"
+    }
+  ]
+}

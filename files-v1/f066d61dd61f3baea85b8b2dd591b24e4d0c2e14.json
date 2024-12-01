@@ -1,0 +1,28 @@
+{
+  "name": "nbc-all-1.0-1.16-1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hQNz0rXp",
+      "versionId": "qFuTmek6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 842794,
+      "fileId": 4469989
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nbc_mr",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nbc_mr",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "thedragonlib-1.19-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DXK9oAjb",
+      "versionId": "iaDirWlJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 248055,
+      "fileId": 3849178
+    }
+  ],
   "forge": [
     {
       "modId": "thedragonlib",

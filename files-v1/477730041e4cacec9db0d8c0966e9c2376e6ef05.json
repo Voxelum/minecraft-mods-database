@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mysticalagriculture",
+      "version": "1.1.6"
+    },
+    {
+      "modId": "magna",
+      "version": "1.5.1-1.16.5"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "torchmaster-18.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tl8ESrhX",
+      "versionId": "bJD0ZdBE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254268,
+      "fileId": 4569237
+    }
+  ],
   "forge": [
     {
       "modId": "torchmaster",

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wNgI7mfM",
+      "versionId": "Wst8vFNK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancedchatfilters",
+      "version": "1.21-1.2.9"
+    },
+    {
+      "modId": "org_openjdk_nashorn_nashorn-core",
+      "version": "15.3"
+    },
+    {
+      "modId": "com_github_darkkronicle_konstruct_addons",
+      "version": "2.0.3-build1"
+    },
+    {
+      "modId": "org_javadelight_delight-nashorn-sandbox",
+      "version": "0.2.5"
+    },
+    {
+      "modId": "com_github_darkkronicle_konstruct_core",
+      "version": "2.0.3-build1"
+    }
+  ]
+}

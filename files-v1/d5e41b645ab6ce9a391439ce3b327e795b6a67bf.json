@@ -1,6 +1,12 @@
 {
   "name": "spindlemark-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u1qiGWU0",
+      "versionId": "scaChaDh"
+    }
+  ],
   "fabric": [
     {
       "modId": "spindlemark",

@@ -1,6 +1,18 @@
 {
   "name": "Potion-Blender-1.20.1-FABRIC--1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xe4saW9d",
+      "versionId": "QvJsaC7E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 697859,
+      "fileId": 4610556
+    }
+  ],
   "fabric": [
     {
       "modId": "potionblender",

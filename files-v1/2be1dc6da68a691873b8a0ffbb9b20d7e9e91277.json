@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WrwwFARZ",
+      "versionId": "rutnSMNO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_classic_mechanics",
+      "version": "1.12.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_classic_mechanics",
+      "version": "1.12.1"
+    }
+  ]
+}

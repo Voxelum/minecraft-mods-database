@@ -1,6 +1,18 @@
 {
   "name": "ae2wtlib-15.0.11-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pNabrMMw",
+      "versionId": "nMHhVPtn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459929,
+      "fileId": 4748197
+    }
+  ],
   "forge": [
     {
       "modId": "ae2wtlib",

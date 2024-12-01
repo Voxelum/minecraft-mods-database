@@ -1,6 +1,18 @@
 {
   "name": "Steam_Rails-1.5.0+fabric-mc1.20.1-build.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "TQd7SsHW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 4726377
+    }
+  ],
   "forge": [
     {
       "modId": "railways",

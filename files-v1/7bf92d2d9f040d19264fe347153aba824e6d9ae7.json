@@ -1,0 +1,20 @@
+{
+  "name": "ConquestArchitects-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YtIVfPne",
+      "versionId": "zWPyMJTL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "architects",
+      "version": "1.0.0-1.20.1"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

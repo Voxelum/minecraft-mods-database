@@ -1,6 +1,12 @@
 {
   "name": "sodium-fabric-mc1.19.4-0.4.11+build.26.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394468,
+      "fileId": 4624311
+    }
+  ],
   "fabric": [
     {
       "modId": "sodium",

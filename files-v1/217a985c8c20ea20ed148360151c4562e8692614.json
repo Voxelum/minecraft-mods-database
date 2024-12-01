@@ -1,6 +1,12 @@
 {
   "name": "itemplacer-forge-1.9.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1024631,
+      "fileId": 5649521
+    }
+  ],
   "forge": [
     {
       "modId": "itemplacer",

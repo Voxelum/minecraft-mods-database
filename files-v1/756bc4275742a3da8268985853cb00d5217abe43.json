@@ -1,6 +1,18 @@
 {
   "name": "TelePastries-1.16.5-0.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FqHeaVGC",
+      "versionId": "HoBIPSpG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319466,
+      "fileId": 3485267
+    }
+  ],
   "forge": [
     {
       "modId": "telepastries",

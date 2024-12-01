@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YJOG99cQ",
+      "versionId": "C1h04xgw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 575418,
+      "fileId": 5625104
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "revamped_phantoms",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "dev_lukebemish_opensesame_opensesame-fabric",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "dev_lukebemish_codecextras",
+      "version": "2.3.1"
+    }
+  ]
+}

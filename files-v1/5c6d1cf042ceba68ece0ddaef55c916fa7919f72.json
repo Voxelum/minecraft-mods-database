@@ -1,6 +1,12 @@
 {
   "name": "estop-1.12.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 258713,
+      "fileId": 2573697
+    }
+  ],
   "forge": [
     {
       "modId": "estop",

@@ -1,6 +1,18 @@
 {
   "name": "grindstonesharpertools-1.19.2-3.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p6y1z1Qa",
+      "versionId": "z8KfF07r"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347346,
+      "fileId": 5168978
+    }
+  ],
   "forge": [
     {
       "modId": "grindstonesharpertools",

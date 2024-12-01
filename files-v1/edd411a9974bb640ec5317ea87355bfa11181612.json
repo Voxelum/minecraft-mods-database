@@ -1,6 +1,12 @@
 {
   "name": "",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 839000,
+      "fileId": 4601435
+    }
+  ],
   "forge": [
     {
       "modId": "worlddataloader",

@@ -1,0 +1,28 @@
+{
+  "name": "【结构】strayed-fates-forsaken-1.1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3GGOgUqD",
+      "versionId": "8Qt0DHTA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 976478,
+      "fileId": 5332656
+    }
+  ],
+  "forge": [
+    {
+      "modId": "strayed_fates_forsaken",
+      "version": "1.1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "strayed_fates_forsaken",
+      "version": "1.1.2.0"
+    }
+  ]
+}

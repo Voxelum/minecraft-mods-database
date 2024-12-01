@@ -1,6 +1,12 @@
 {
   "name": "battleaxe1.16.5(bugfixes).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585113,
+      "fileId": 3668848
+    }
+  ],
   "forge": [
     {
       "modId": "battle_axe_pack",

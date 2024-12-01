@@ -1,6 +1,18 @@
 {
   "name": "bellsandwhistles-0.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gJ5afkVv",
+      "versionId": "ECYKSqg4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905040,
+      "fileId": 4719073
+    }
+  ],
   "forge": [
     {
       "modId": "bellsandwhistles",

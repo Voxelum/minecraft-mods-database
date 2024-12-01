@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hcy2DFKF",
+      "versionId": "yfBrdNmy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917292,
+      "fileId": 5562751
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yungsmenutweaks",
+      "version": "1.21-Fabric-2.0.0"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

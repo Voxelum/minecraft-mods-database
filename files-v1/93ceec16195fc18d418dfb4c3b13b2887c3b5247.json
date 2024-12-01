@@ -1,6 +1,18 @@
 {
   "name": "cadmus-neoforge-1.20.4-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fEWKxVzh",
+      "versionId": "JAcTHat9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845832,
+      "fileId": 5122249
+    }
+  ],
   "forge": [
     {
       "modId": "cadmus",

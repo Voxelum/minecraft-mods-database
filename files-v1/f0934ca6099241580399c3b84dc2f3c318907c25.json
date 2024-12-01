@@ -1,6 +1,18 @@
 {
   "name": "moonlight-1.20-2.8.57-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "LhoPcVBA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499980,
+      "fileId": 4845156
+    }
+  ],
   "fabric": [
     {
       "modId": "moonlight",

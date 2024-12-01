@@ -1,6 +1,18 @@
 {
   "name": "createbicbit-1.19.2-0.0.70B.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "16DuAG4k",
+      "versionId": "5Fu7tIeX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 918751,
+      "fileId": 5176005
+    }
+  ],
   "forge": [
     {
       "modId": "create_bic_bit",

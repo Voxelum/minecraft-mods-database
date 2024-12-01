@@ -1,6 +1,12 @@
 {
   "name": "Crafting Station-forge-1.20.1-0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318551,
+      "fileId": 5496566
+    }
+  ],
   "forge": [
     {
       "modId": "craftingstation",

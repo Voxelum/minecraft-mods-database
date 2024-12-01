@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "emi_loot-0.6.4+1.19.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "qbbO7Jns",
       "versionId": "ge7Vbplt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681783,
+      "fileId": 4606065
     }
   ],
   "fabric": [

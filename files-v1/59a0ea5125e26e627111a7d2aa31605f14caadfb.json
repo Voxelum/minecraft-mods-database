@@ -1,6 +1,18 @@
 {
   "name": "glass_1.20.1-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EdpPAW77",
+      "versionId": "yeU1YFTV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1064730,
+      "fileId": 5593658
+    }
+  ],
   "forge": [
     {
       "modId": "glass",

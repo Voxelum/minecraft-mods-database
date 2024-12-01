@@ -1,6 +1,12 @@
 {
   "name": "quality_food-1.20.1-2.0.2-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ahdn1OE0",
+      "versionId": "klPcSYSN"
+    }
+  ],
   "forge": [
     {
       "modId": "quality_food",

@@ -1,6 +1,18 @@
 {
   "name": "kubejs-thermal-1902.1.6-build.22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "taN3HInZ",
+      "versionId": "ZrLJZtld"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421694,
+      "fileId": 4418466
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs_thermal",

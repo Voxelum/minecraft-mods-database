@@ -1,6 +1,18 @@
 {
   "name": "cherishedworlds-forge-6.0.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3azQ6p0W",
+      "versionId": "KuQPNxCj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308240,
+      "fileId": 3927552
+    }
+  ],
   "forge": [
     {
       "modId": "cherishedworlds",

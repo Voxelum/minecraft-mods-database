@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "PackagedExExCrafting-1.20.1-1.0.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h3Ycewyr",
+      "versionId": "LZBon7vs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028872,
+      "fileId": 5846811
+    }
+  ],
   "forge": [
     {
       "modId": "packagedexexcrafting",

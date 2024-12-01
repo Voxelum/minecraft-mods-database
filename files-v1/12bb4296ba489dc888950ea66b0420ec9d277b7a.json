@@ -1,0 +1,26 @@
+{
+  "name": "expanded-trident-enchanting-1.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nHOlhRg9",
+      "versionId": "3yAr8L7p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487100,
+      "fileId": 4590266
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expanded_trident_enchanting",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

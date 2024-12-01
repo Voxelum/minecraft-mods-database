@@ -1,0 +1,16 @@
+{
+  "name": "cpmsvcretro-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xVbeCJyB",
+      "versionId": "6r7C4PBr"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpmsvcc",
+      "version": "${mod_version}"
+    }
+  ]
+}

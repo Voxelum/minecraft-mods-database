@@ -1,0 +1,22 @@
+{
+  "name": "nuclearcraft-1.12.2-2.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eZvzLNgK",
+      "versionId": "zQuqpZSm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 226254,
+      "fileId": 5340979
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nuclearcraft",
+      "version": "@VERSION@"
+    }
+  ]
+}

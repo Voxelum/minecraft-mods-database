@@ -1,0 +1,30 @@
+{
+  "name": "mcde-1.6.3-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iwkcspV8",
+      "versionId": "9kHmTWEj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886511,
+      "fileId": 5743318
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcde",
+      "version": "1.6.3-1.20"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "com_hrakaroo_glob",
+      "version": "0.9.0"
+    }
+  ]
+}

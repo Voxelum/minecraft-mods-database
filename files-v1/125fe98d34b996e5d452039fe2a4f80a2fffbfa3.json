@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Du77FavA",
+      "versionId": "xAOTWake"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "more_chests",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_chests",
+      "version": "${version}"
+    }
+  ]
+}

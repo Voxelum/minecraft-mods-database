@@ -1,6 +1,18 @@
 {
   "name": "glassential-forge-1.20.1-1.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kVa5y52B",
+      "versionId": "ubFv4wGb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319194,
+      "fileId": 5610677
+    }
+  ],
   "forge": [
     {
       "modId": "glassential",

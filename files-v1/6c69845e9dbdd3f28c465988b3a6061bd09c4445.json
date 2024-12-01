@@ -1,6 +1,18 @@
 {
   "name": "rftoolsbase-1.18-3.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hIO8IsD8",
+      "versionId": "cn9atQK9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 326041,
+      "fileId": 3825686
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolsbase",

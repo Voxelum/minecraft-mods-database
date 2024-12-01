@@ -1,6 +1,12 @@
 {
   "name": "solar-apocalypse-1.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 480660,
+      "fileId": 4596477
+    }
+  ],
   "fabric": [
     {
       "modId": "solar_apocalypse",

@@ -1,0 +1,26 @@
+{
+  "name": "Resourcify (1.20.2+-fabric)-1.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "wvjJz545"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 5258357
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcify",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "325"
+    }
+  ]
+}

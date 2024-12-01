@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nv2fQJo5",
+      "versionId": "QFFl4quX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "1.20.6-2.6.20"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.40+80f8cf51b0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.0+c0e5481fb0"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.45+80f8cf51b0"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.21+7b70ea8ab0"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.0.8+0dca0349b0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

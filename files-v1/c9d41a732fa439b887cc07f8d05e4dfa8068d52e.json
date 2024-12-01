@@ -1,6 +1,18 @@
 {
   "name": "letsdo-candlelight-fabric-1.2.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPND0Adp",
+      "versionId": "GOvYd2qK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 846962,
+      "fileId": 5320654
+    }
+  ],
   "fabric": [
     {
       "modId": "candlelight",

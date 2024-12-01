@@ -1,6 +1,18 @@
 {
   "name": "moonlight-1.19.2-2.2.32-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "GSlj8ip7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499980,
+      "fileId": 4535354
+    }
+  ],
   "forge": [
     {
       "modId": "moonlight",

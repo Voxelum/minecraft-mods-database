@@ -1,6 +1,18 @@
 {
   "name": "StrongerSnowballs-Fabric-1.19.2-9.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8tSjJyMS",
+      "versionId": "i45d0nMu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377548,
+      "fileId": 4058524
+    }
+  ],
   "fabric": [
     {
       "modId": "strongersnowballs",

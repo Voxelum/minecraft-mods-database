@@ -1,6 +1,12 @@
 {
   "name": "specutils-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 976584,
+      "fileId": 5129301
+    }
+  ],
   "fabric": [
     {
       "modId": "specutils",

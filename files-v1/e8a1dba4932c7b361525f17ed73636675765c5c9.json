@@ -1,6 +1,18 @@
 {
   "name": "[前置]fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ha28R6CL",
+      "versionId": "5Aq3SFbi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308769,
+      "fileId": 3887669
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-language-kotlin",

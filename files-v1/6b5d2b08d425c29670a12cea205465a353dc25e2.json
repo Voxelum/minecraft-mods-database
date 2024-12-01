@@ -1,6 +1,18 @@
 {
   "name": "libz-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yUBXc3AH",
+      "versionId": "soKX5h3N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841617,
+      "fileId": 4661485
+    }
+  ],
   "fabric": [
     {
       "modId": "libz",

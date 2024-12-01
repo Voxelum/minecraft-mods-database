@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tc7pAAJD",
+      "versionId": "uI35czA6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1030062,
+      "fileId": 5475843
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bhc",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bhc",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

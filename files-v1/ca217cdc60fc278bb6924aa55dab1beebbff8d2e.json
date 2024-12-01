@@ -1,6 +1,12 @@
 {
   "name": "dynamic-light-0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DJ1ZClf3",
+      "versionId": "IjelWNzA"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_dynamic_light",

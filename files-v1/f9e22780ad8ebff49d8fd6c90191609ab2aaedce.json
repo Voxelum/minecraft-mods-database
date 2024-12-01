@@ -1,6 +1,12 @@
 {
   "name": "kobolds-0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 559915,
+      "fileId": 3711305
+    }
+  ],
   "forge": [
     {
       "modId": "kobolds",

@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.16.5-4.12.0-transmission.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 478939,
+      "fileId": 3820101
+    }
+  ],
   "forge": [
     {
       "modId": "projectred-transmission",

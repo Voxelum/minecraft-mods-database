@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vNFbVrF1",
+      "versionId": "NfwFfYck"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860636,
+      "fileId": 5425069
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_netherracked",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_netherracked",
+      "version": "1.0.2"
+    }
+  ]
+}

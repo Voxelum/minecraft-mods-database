@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t0BYGbRl",
+      "versionId": "wNKlCeu1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soundboard-plasmo",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "kowoui",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "soundboard-core",
+      "version": "0.7.0"
+    }
+  ]
+}

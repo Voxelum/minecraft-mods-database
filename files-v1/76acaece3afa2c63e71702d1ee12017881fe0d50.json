@@ -1,6 +1,18 @@
 {
   "name": "starteritems-3.0-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kCxwmQBq",
+      "versionId": "kDlqDfyY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 602553,
+      "fileId": 4627692
+    }
+  ],
   "fabric": [
     {
       "modId": "starteritems",

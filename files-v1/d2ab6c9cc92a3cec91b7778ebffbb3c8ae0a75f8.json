@@ -1,6 +1,12 @@
 {
   "name": "mealapi-0.3.1+1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 404410,
+      "fileId": 3846923
+    }
+  ],
   "fabric": [
     {
       "modId": "mealapi",

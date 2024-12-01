@@ -1,6 +1,18 @@
 {
   "name": "PRP-Arch-Forge-1.0.1-Hotfix-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AqeDdB2c",
+      "versionId": "VzBRYoha"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 838913,
+      "fileId": 4443335
+    }
+  ],
   "forge": [
     {
       "modId": "archprp",

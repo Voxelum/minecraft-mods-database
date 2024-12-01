@@ -1,0 +1,24 @@
+{
+  "name": "SpeedRunIGT-14.2+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jnkd7LkJ",
+      "versionId": "4N0MyGyT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "speedrunigt",
+      "version": "14.2+1.21.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c6a"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.2.2+60c3209b6a"
+    }
+  ]
+}

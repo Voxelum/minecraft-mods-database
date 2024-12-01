@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "SimpleStorageNetwork-1.12.2-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cVIr8Vz1",
+      "versionId": "lCAnxBGD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268495,
+      "fileId": 5755625
+    }
+  ],
   "forge": [
     {
       "modId": "storagenetwork",

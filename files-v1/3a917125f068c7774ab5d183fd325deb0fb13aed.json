@@ -1,6 +1,12 @@
 {
   "name": "something is watching.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 957638,
+      "fileId": 5053382
+    }
+  ],
   "forge": [
     {
       "modId": "something_is_watching",

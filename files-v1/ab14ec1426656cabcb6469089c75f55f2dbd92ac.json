@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mBSHALKK",
+      "versionId": "rgOGC8L9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tdacmod",
+      "version": "0.0.1-1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

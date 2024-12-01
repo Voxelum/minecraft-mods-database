@@ -1,0 +1,16 @@
+{
+  "name": "[地形]lithosphere 1.2 25.06.2024.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Zombie-Horsemen-v1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5IpunicI",
+      "versionId": "GXctGYUb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1096039,
+      "fileId": 5688446
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zombie_horsemen",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombie_horsemen",
+      "version": "1"
+    }
+  ]
+}

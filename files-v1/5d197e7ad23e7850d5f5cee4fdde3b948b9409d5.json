@@ -1,6 +1,18 @@
 {
   "name": "nomowanderer-1.19.2_1.3.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BAGslLB8",
+      "versionId": "7qRA5v61"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354428,
+      "fileId": 5060188
+    }
+  ],
   "forge": [
     {
       "modId": "nomowanderer",

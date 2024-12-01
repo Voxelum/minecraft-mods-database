@@ -1,6 +1,18 @@
 {
   "name": "REIPluginCompatibilities-forge-9.0.43.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1PfY6b5p",
+      "versionId": "JsYqOhKJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521393,
+      "fileId": 4125211
+    }
+  ],
   "forge": [
     {
       "modId": "rei_plugin_compatibilities",

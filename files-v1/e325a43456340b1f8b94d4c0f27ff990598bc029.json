@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "redstoneclock-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VX298qOo",
+      "versionId": "O1s1YhEO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028187,
+      "fileId": 5387025
+    }
+  ],
   "forge": [
     {
       "modId": "redstoneclock",

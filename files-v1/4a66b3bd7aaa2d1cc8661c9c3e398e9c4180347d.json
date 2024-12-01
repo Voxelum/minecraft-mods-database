@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dc4g4seU",
+      "versionId": "X5xZejCK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868230,
+      "fileId": 5617953
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "online_emotes",
+      "version": "3.1.1+mc1.20.4-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    }
+  ]
+}

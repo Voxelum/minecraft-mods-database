@@ -1,0 +1,22 @@
+{
+  "name": "vestis-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 836208,
+      "fileId": 5777331
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vestis",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vestis",
+      "version": "1.0.1"
+    }
+  ]
+}

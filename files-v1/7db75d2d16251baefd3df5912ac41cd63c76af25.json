@@ -1,6 +1,12 @@
 {
   "name": "bugtorch-1.7.10-1.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6su8A6OH",
+      "versionId": "gPZXvCPi"
+    }
+  ],
   "forge": [
     {
       "modId": "bugtorch",

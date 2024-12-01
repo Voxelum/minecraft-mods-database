@@ -1,6 +1,18 @@
 {
   "name": "theimpossiblelibrary-1.16.5-0.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZyFWSztU",
+      "versionId": "lBoW0OT6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661115,
+      "fileId": 4742102
+    }
+  ],
   "forge": [
     {
       "modId": "theimpossiblelibrary",

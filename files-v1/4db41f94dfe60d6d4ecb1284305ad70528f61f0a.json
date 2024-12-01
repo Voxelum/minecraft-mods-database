@@ -1,6 +1,18 @@
 {
   "name": "friendsandfoes-forge-mc1.19.2-1.8.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BOCJKD49",
+      "versionId": "4H4cZ4BU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 602059,
+      "fileId": 4484561
+    }
+  ],
   "forge": [
     {
       "modId": "friendsandfoes",

@@ -1,6 +1,18 @@
 {
   "name": "exdeorum-1.38.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WP0FLyzv",
+      "versionId": "5xoDSGzT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901420,
+      "fileId": 5421677
+    }
+  ],
   "forge": [
     {
       "modId": "exdeorum",

@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "saddle-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pqSHJVVh",
+      "versionId": "1GxC8Q2q"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_saddle",

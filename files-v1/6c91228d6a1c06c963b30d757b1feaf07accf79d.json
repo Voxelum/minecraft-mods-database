@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "yfRlmBIB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 5443694
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "11.0.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.0.0-beta.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.0.0-beta.3"
+    },
+    {
+      "modId": "expandability",
+      "version": "11.0.0"
+    }
+  ]
+}

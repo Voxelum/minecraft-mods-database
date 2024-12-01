@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "trophymanager-1.16.5-0.1.6.0.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "pK0Ko6yV",
       "versionId": "9VJkPdTl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 510170,
+      "fileId": 3578488
+    }
+  ],
+  "forge": [
+    {
+      "modId": "trophymanager",
+      "version": "1.16.5-0.1.6.0"
     }
   ]
 }

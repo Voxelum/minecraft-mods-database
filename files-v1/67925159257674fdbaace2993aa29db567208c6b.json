@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "apoli",
+      "version": "2.12.0-alpha.11+mc.1.21.x"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.8.0+1.21"
+    },
+    {
+      "modId": "calio",
+      "version": "1.14.0-alpha.6+mc.1.21.x"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "modmenu",
+      "version": "11.0.1"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.10.0"
+    }
+  ]
+}

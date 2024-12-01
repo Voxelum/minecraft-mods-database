@@ -1,6 +1,18 @@
 {
   "name": "sculkhorde-1.20.1-0.8.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tBbdvEJc",
+      "versionId": "w8bvYE73"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 501766,
+      "fileId": 5051422
+    }
+  ],
   "forge": [
     {
       "modId": "sculkhorde",

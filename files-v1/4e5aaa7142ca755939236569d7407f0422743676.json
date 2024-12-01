@@ -1,6 +1,18 @@
 {
   "name": "Durability101-fabric-1.21-0.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yt3rEMOb",
+      "versionId": "TpHvBaS6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325020,
+      "fileId": 5505044
+    }
+  ],
   "fabric": [
     {
       "modId": "durability101",

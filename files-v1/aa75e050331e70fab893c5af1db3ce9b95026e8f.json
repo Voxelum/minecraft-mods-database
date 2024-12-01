@@ -1,6 +1,18 @@
 {
   "name": "ExpOre-1.20.1-0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1HwCh5vX",
+      "versionId": "bfo1eh6e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 907633,
+      "fileId": 5033824
+    }
+  ],
   "fabric": [
     {
       "modId": "expore",

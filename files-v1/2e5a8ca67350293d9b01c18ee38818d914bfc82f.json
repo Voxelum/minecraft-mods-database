@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HFlxNpln",
+      "versionId": "FaAuBgBG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506079,
+      "fileId": 5907295
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moremcmeta",
+      "version": "1.20.1-4.5.1"
+    },
+    {
+      "modId": "moremcmeta_texture_plugin",
+      "version": "1.20.1-1.0.1"
+    },
+    {
+      "modId": "moremcmeta_animation_plugin",
+      "version": "1.20.1-1.0.3"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.20+b3afc78b77"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a77"
+    },
+    {
+      "modId": "moremcmeta_json_parser_plugin",
+      "version": "1.20.1-1.1.1"
+    },
+    {
+      "modId": "moremcmeta_properties_parser_plugin",
+      "version": "1.20.1-1.1.5"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d77"
+    },
+    {
+      "modId": "moremcmeta_gui_plugin",
+      "version": "1.20.1-1.0.1"
+    }
+  ]
+}

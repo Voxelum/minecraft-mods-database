@@ -1,6 +1,18 @@
 {
   "name": "builtin-servers-2.1+1.19-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IupkwRPf",
+      "versionId": "asPea4ua"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473131,
+      "fileId": 4716313
+    }
+  ],
   "fabric": [
     {
       "modId": "builtinservers",

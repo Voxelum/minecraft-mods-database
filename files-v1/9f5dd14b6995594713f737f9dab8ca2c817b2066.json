@@ -1,6 +1,12 @@
 {
   "name": "Steam robots.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9cSVxvMK",
+      "versionId": "i1QnfHw6"
+    }
+  ],
   "forge": [
     {
       "modId": "create_steam_robots",

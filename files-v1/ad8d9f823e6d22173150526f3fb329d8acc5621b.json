@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "KuNKN7d2",
       "versionId": "ivLgwUFH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930207,
+      "fileId": 5650490
     }
   ],
   "forge": [

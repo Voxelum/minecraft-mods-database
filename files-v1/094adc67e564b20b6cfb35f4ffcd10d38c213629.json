@@ -1,6 +1,12 @@
 {
   "name": "naturalist-fabric-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627986,
+      "fileId": 3817546
+    }
+  ],
   "fabric": [
     {
       "modId": "naturalist",

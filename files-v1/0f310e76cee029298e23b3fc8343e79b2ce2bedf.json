@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2UeET9aA",
+      "versionId": "lWSgEm7w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610618,
+      "fileId": 5510051
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tpshud",
+      "version": "1.7.3+1.21"
+    },
+    {
+      "modId": "me_obsilabor_alert",
+      "version": "1.0.8"
+    }
+  ]
+}

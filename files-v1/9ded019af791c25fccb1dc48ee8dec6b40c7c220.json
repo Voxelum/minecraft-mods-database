@@ -1,6 +1,18 @@
 {
   "name": "berries_and_cherries-1.0.9-hotfix.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fltEIOux",
+      "versionId": "F8MpiwC9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 955743,
+      "fileId": 5126573
+    }
+  ],
   "forge": [
     {
       "modId": "berries_and_cherries",

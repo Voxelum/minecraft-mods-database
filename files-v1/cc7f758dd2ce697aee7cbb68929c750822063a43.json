@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cP5qAS1c",
+      "versionId": "AZx3mPDc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901181,
+      "fileId": 5428509
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.6"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

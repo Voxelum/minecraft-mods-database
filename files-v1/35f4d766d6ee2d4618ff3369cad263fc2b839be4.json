@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vanillaplusbiomes",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "1.0.0+build.4"
+    },
+    {
+      "modId": "terraform-biome-builder-api-v1",
+      "version": "1.0.0+build.4"
+    },
+    {
+      "modId": "terraform-overworld-biome-extensions-api-v1",
+      "version": "1.0.0+build.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "norecipebook-2.3+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TvL1V8O5",
+      "versionId": "jSRWGgq7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491407,
+      "fileId": 4493208
+    }
+  ],
   "fabric": [
     {
       "modId": "norecipebook",

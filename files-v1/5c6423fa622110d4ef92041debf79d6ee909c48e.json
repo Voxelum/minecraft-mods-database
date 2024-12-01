@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oc8u3EXG",
+      "versionId": "vqXj34xt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1063275,
+      "fileId": 5880326
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crossbowenchants",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.1"
+    }
+  ]
+}

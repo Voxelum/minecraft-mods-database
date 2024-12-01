@@ -1,6 +1,18 @@
 {
   "name": "styledplayerlist-2.2.2+1.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DQIfKUHf",
+      "versionId": "92EZUM0l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442282,
+      "fileId": 3902725
+    }
+  ],
   "fabric": [
     {
       "modId": "styledplayerlist",

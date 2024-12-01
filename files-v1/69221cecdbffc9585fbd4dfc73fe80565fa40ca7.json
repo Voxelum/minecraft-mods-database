@@ -1,6 +1,18 @@
 {
   "name": "yawp-1.19.2-0.0.2.9-beta3-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "py6EMmAJ",
+      "versionId": "oiLkDvse"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663276,
+      "fileId": 4702335
+    }
+  ],
   "forge": [
     {
       "modId": "yawp",

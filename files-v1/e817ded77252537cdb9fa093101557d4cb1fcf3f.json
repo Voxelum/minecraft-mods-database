@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "clockworkadditions",
+      "version": "1.20.1-0.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clockworkadditions",
+      "version": "1.20.1-0.0.5"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "3.2.0"
+    }
+  ]
+}

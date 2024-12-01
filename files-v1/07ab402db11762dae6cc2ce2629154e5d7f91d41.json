@@ -1,6 +1,18 @@
 {
   "name": "more_ships_1.16.5_NFTFlipper.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CewvovqI",
+      "versionId": "NmA8bnGX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 466978,
+      "fileId": 3763260
+    }
+  ],
   "forge": [
     {
       "modId": "more_ships",

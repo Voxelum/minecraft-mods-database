@@ -1,6 +1,12 @@
 {
   "name": "usefulslime-1.2-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CzM6C1W0",
+      "versionId": "7nvVKmlp"
+    }
+  ],
   "forge": [
     {
       "modId": "usefulslime",

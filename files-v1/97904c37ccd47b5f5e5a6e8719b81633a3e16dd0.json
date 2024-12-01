@@ -1,6 +1,18 @@
 {
   "name": "Campfire_Resting1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k9O8NrbO",
+      "versionId": "MeKlXtSf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815483,
+      "fileId": 4819922
+    }
+  ],
   "forge": [
     {
       "modId": "campfiresleeper",

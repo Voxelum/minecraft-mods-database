@@ -1,0 +1,30 @@
+{
+  "name": "aaa_particles-1.20.1-1.4.3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "En8uHTOK",
+      "versionId": "WwHzX5M9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979809,
+      "fileId": 5754182
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aaa_particles",
+      "version": "1.20.1-1.4.3"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

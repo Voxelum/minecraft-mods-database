@@ -1,6 +1,12 @@
 {
   "name": "ferritecore-2.0.3-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 429235,
+      "fileId": 3222546
+    }
+  ],
   "fabric": [
     {
       "modId": "ferritecore",

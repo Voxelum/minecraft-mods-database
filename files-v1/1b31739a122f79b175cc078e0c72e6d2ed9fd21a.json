@@ -1,6 +1,18 @@
 {
   "name": "dynamic-fullbright-1.2.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tF7P4IlX",
+      "versionId": "ZjeagbD8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867410,
+      "fileId": 5435135
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamic-fullbright",

@@ -1,6 +1,18 @@
 {
   "name": "ars_nouveau-1.19.2-3.21.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TKB6INcv",
+      "versionId": "e9HNjv3O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401955,
+      "fileId": 4788868
+    }
+  ],
   "forge": [
     {
       "modId": "ars_nouveau",

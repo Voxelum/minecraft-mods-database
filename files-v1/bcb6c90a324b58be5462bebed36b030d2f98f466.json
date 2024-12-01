@@ -1,6 +1,18 @@
 {
   "name": "musketmod-1.19.2-fabric-1.4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "967vM4zw",
+      "versionId": "kDlU23B7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354562,
+      "fileId": 4033562
+    }
+  ],
   "fabric": [
     {
       "modId": "musketmod",

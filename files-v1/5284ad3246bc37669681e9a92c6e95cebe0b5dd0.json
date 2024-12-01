@@ -1,6 +1,18 @@
 {
   "name": "whoisthepotato-1.18.2-0.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xURD31r3",
+      "versionId": "zTUoQ3Hj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 937279,
+      "fileId": 5003932
+    }
+  ],
   "forge": [
     {
       "modId": "whoisthepotato",

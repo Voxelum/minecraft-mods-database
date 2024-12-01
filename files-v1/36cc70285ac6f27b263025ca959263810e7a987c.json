@@ -1,6 +1,18 @@
 {
   "name": "sniffsweapons-1.9.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QNyIisib",
+      "versionId": "7UPY5q9a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 739757,
+      "fileId": 5082448
+    }
+  ],
   "forge": [
     {
       "modId": "sniffsweapons",

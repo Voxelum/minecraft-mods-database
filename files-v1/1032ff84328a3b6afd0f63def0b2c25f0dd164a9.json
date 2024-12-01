@@ -1,6 +1,18 @@
 {
   "name": "letsdo-API-fabric-1.2.12-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "uBWMN9Mp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864599,
+      "fileId": 5340531
+    }
+  ],
   "fabric": [
     {
       "modId": "doapi",

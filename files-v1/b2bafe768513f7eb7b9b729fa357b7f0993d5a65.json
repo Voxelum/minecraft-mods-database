@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eoxi2LJd",
+      "versionId": "I4LG0cWl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927561,
+      "fileId": 5580304
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flow",
+      "version": "2.0.1+1.20.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.4.4+1.20.1-fabric"
+    }
+  ]
+}

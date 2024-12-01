@@ -1,6 +1,18 @@
 {
   "name": "enchancement-1.19-19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6hN1V6wJ",
+      "versionId": "OC5PAcny"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 598056,
+      "fileId": 5094254
+    }
+  ],
   "fabric": [
     {
       "modId": "enchancement",

@@ -1,6 +1,18 @@
 {
   "name": "MaxHealthFix-Fabric-1.18.2-5.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mH8wdmqr",
+      "versionId": "96kUJyUZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 492246,
+      "fileId": 4609585
+    }
+  ],
   "fabric": [
     {
       "modId": "maxhealthfix",

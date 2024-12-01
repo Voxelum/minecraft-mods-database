@@ -1,6 +1,18 @@
 {
   "name": "mod_sets-1.7.2+sha.d472e7c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b313lC4Y",
+      "versionId": "ozOcfQNv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 890349,
+      "fileId": 5276051
+    }
+  ],
   "forge": [
     {
       "modId": "mod_sets-1.7.2+sha.d472e7c",

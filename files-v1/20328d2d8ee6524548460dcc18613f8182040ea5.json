@@ -1,6 +1,12 @@
 {
   "name": "RewardClaim-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sbgVdyNC",
+      "versionId": "UXnMtYTj"
+    }
+  ],
   "forge": [
     {
       "modId": "gravyrewardclaim",

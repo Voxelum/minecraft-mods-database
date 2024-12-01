@@ -1,6 +1,18 @@
 {
   "name": "ylssln-1.20.1-1.1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PYRN0y5M",
+      "versionId": "hL92ajUv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566198,
+      "fileId": 4593540
+    }
+  ],
   "forge": [
     {
       "modId": "ylssln",

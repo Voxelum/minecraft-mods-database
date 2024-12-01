@@ -1,6 +1,18 @@
 {
   "name": "mekanismfluxified-1.12.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2s2tmYs0",
+      "versionId": "hJD2nwVa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395269,
+      "fileId": 3003367
+    }
+  ],
   "forge": [
     {
       "modId": "mekanismfluxified",

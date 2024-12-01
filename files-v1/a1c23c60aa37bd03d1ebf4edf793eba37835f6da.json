@@ -1,6 +1,12 @@
 {
   "name": "spellbladenext-1.19.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VJkx9nDN",
+      "versionId": "SZklCHE4"
+    }
+  ],
   "fabric": [
     {
       "modId": "spellbladenext",

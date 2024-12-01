@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OjbSENEi",
+      "versionId": "oB8u6PTr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 840247,
+      "fileId": 4614658
+    }
+  ],
   "fabric": [
     {
       "modId": "fast-doll",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "celestialrealm",
+      "version": "2.3.3+1.20.1"
+    },
+    {
+      "modId": "com_github_jncrmx_discord-game-sdk4j",
+      "version": "5cdac341e3"
+    }
+  ]
+}

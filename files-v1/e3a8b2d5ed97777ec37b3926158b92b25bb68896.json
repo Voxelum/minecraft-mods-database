@@ -1,6 +1,18 @@
 {
   "name": "bobby-5.2.1+mc1.20.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M08ruV16",
+      "versionId": "70sKyIMv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409301,
+      "fileId": 5438731
+    }
+  ],
   "fabric": [
     {
       "modId": "bobby",

@@ -1,0 +1,26 @@
+{
+  "name": "modernfix-fabric-5.7.2+mc1.16.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "TtNOTwgu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 4728403
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modernfix",
+      "version": "5.7.2+mc1.16.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

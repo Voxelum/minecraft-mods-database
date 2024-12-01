@@ -1,6 +1,18 @@
 {
   "name": "vanity_invisible_armory-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dPFJcJUr",
+      "versionId": "GW3NVr7Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 982157,
+      "fileId": 5173419
+    }
+  ],
   "forge": [
     {
       "modId": "vanity_invisible_armory",

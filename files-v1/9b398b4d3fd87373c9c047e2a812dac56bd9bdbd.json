@@ -1,6 +1,18 @@
 {
   "name": "VideoPlayer-3.0.5-FORGE-1.20.X.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sSAANV7f",
+      "versionId": "FAPyG7dB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645407,
+      "fileId": 5771085
+    }
+  ],
   "forge": [
     {
       "modId": "videoplayer",

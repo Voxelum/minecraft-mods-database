@@ -1,0 +1,22 @@
+{
+  "name": "skyblock-sand-island-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UXskcSKa",
+      "versionId": "Hd0BFpkr"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_skyblock_sandisland",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_skyblock_sandisland",
+      "version": "1.0.2"
+    }
+  ]
+}

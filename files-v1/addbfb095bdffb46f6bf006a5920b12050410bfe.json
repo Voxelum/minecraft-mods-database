@@ -1,6 +1,18 @@
 {
   "name": "DistantHorizons-2.0.0-a-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uCdwusMi",
+      "versionId": "oYqpZUCe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508933,
+      "fileId": 4874148
+    }
+  ],
   "forge": [
     {
       "modId": "distanthorizons",

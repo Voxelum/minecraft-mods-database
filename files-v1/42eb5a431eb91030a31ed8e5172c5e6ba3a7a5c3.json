@@ -1,6 +1,18 @@
 {
   "name": "walljump-connector-1.20.1-1.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ulUgV6dN",
+      "versionId": "luNCxqoL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858060,
+      "fileId": 4865641
+    }
+  ],
   "fabric": [
     {
       "modId": "walljump",

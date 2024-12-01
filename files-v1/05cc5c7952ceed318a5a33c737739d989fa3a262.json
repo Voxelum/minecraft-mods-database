@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YuZD6Tkx",
+      "versionId": "HMlGsRdV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tempest",
+      "version": "0.1.13"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    }
+  ]
+}

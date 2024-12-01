@@ -1,6 +1,12 @@
 {
   "name": "enchant-tooltips-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uZGu7slq",
+      "versionId": "8UuWsPBV"
+    }
+  ],
   "fabric": [
     {
       "modId": "enchant-tooltips",

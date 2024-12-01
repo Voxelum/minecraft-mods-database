@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.96.1-rc1"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.26"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 916800,
+      "fileId": 4769531
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "catwalksinc",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "libmultipart_deps_container",
+      "version": "0.11.0"
+    }
+  ]
+}

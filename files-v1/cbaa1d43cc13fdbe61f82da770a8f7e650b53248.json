@@ -1,6 +1,18 @@
 {
   "name": "fixedanvilrepaircost_1.16.5-1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jmLyNFBG",
+      "versionId": "wDhFy4uy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390913,
+      "fileId": 3419540
+    }
+  ],
   "forge": [
     {
       "modId": "fixedanvilrepaircost",

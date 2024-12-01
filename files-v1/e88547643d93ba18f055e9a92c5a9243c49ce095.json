@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bfi1KBJV",
+      "versionId": "rxsQ1aP9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506536,
+      "fileId": 5837254
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lenientdeath",
+      "version": "1.2.5+1.21.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "jackfredlib-colour",
+      "version": "1.1.0+1.21.2"
+    },
+    {
+      "modId": "jackfredlib-config",
+      "version": "0.2.3+1.21.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "jackfredlib-lying",
+      "version": "0.5.5+1.21.2"
+    },
+    {
+      "modId": "jackfredlib-base",
+      "version": "1.4.1+1.21.2"
+    }
+  ]
+}

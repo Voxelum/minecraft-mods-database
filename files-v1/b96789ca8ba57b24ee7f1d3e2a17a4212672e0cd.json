@@ -1,6 +1,18 @@
 {
   "name": "replantingcrops-1.18.2-5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EXzIPtJo",
+      "versionId": "kagOKGGw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367051,
+      "fileId": 4851787
+    }
+  ],
   "forge": [
     {
       "modId": "replantingcrops",

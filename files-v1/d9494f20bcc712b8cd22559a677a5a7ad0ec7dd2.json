@@ -1,0 +1,26 @@
+{
+  "name": "flightassistant-2.3.4+mc1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CWqLEOPt",
+      "versionId": "3favhDJH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972881,
+      "fileId": 5689520
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flightassistant",
+      "version": "2.3.4+mc1.20.4"
+    },
+    {
+      "modId": "alternate-hudrendercallback",
+      "version": "0.1.3"
+    }
+  ]
+}

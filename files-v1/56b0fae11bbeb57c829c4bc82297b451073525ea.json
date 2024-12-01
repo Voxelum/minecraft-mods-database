@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Qdvz1OV",
+      "versionId": "3p3YbCg4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2-pre.14+1.20"
+    }
+  ]
+}

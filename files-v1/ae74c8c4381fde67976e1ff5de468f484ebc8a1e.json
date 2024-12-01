@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "waystones-fabric-1.20.6-17.0.2.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "LOpKHB2A",
       "versionId": "RJZj1nlX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 500087,
+      "fileId": 5421681
     }
   ],
   "fabric": [

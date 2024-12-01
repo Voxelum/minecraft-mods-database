@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cJlZ132G",
+      "versionId": "b8pGjNoS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1023333,
+      "fileId": 5814931
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatplus",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_alphacephei_vosk",
+      "version": "0.3.45"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "replaymod-1.19.1-2.6.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 775651,
+      "fileId": 4258186
+    }
+  ],
   "fabric": [
     {
       "modId": "replaymod",

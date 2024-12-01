@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VPv5c5nx",
+      "versionId": "JH2mEfkX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849235,
+      "fileId": 4530338
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simple_paraglider",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "depth-1.0.2-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DLNr6L6L",
+      "versionId": "IB5xrFMP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 607182,
+      "fileId": 3749404
+    }
+  ],
   "forge": [
     {
       "modId": "depth",

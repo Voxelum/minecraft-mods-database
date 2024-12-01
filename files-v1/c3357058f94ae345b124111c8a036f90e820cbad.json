@@ -1,6 +1,12 @@
 {
   "name": "mcw-fences-1.0.0-mc1.15.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 453925,
+      "fileId": 3231565
+    }
+  ],
   "forge": [
     {
       "modId": "mcwfences",

@@ -1,6 +1,18 @@
 {
   "name": "berserker-class-mod-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8hqOZzxM",
+      "versionId": "70nG9P6b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 991968,
+      "fileId": 5499339
+    }
+  ],
   "fabric": [
     {
       "modId": "berserker-rpg",

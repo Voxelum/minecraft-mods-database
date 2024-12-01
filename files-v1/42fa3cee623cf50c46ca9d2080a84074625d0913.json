@@ -1,6 +1,18 @@
 {
   "name": "recipe-book-is-pain-0.7.1-1.19-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "etNS9OnA",
+      "versionId": "V5ZubcEV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 643246,
+      "fileId": 4066256
+    }
+  ],
   "forge": [
     {
       "modId": "recipe_book_is_pain",

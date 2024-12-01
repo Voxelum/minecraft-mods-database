@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "meteor-additions",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "libjf-base",
+      "version": "3.17.3"
+    },
+    {
+      "modId": "google-chat",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "libjf-translate-v1",
+      "version": "3.17.3"
+    },
+    {
+      "modId": "libjf-config-core-v2",
+      "version": "3.17.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "rftoolsbuilder-1.15-2.0.1-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0IclJLr",
+      "versionId": "Se4ilW3w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347706,
+      "fileId": 2908608
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolsbuilder",

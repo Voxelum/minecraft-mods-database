@@ -1,6 +1,18 @@
 {
   "name": "DungeonsArise-1.17.1-2.1.47-fabric-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8DfbfASn",
+      "versionId": "88XWxvai"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511812,
+      "fileId": 3414936
+    }
+  ],
   "fabric": [
     {
       "modId": "dungeons_arise",

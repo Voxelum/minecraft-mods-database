@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "2.5.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.10+f09604ce18"
+    }
+  ]
+}

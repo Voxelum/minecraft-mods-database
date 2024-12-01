@@ -1,6 +1,18 @@
 {
   "name": "elevatorid-1.20.4-1.9.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hi2dSXTu",
+      "versionId": "n5ZiDknb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250832,
+      "fileId": 5117653
+    }
+  ],
   "forge": [
     {
       "modId": "elevatorid",

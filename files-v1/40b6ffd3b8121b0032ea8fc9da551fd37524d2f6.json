@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "rswires",
+      "version": "4.10.2"
+    },
+    {
+      "modId": "hctm-base",
+      "version": "3.5.1"
+    }
+  ]
+}

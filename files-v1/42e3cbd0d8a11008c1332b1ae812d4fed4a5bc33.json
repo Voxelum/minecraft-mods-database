@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "neptune",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "sponsor_core",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.7.2"
+    }
+  ]
+}

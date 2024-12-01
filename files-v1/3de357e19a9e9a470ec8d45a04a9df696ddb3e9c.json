@@ -1,6 +1,18 @@
 {
   "name": "where-is-my-stuff-1.1.4+1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JV1NYdVY",
+      "versionId": "PRK2ju7n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 527997,
+      "fileId": 4765621
+    }
+  ],
   "fabric": [
     {
       "modId": "mystuff",

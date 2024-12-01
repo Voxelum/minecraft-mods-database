@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Iudurxl8",
+      "versionId": "PeyITKHX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 855056,
+      "fileId": 5937803
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatnotify",
+      "version": "2.2.0+1.21.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

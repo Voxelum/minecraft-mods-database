@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "monkeyconfig-0.1.2+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uApL7Qhc",
+      "versionId": "LdbqkLBw"
+    }
+  ],
   "fabric": [
     {
       "modId": "monkeyconfig",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ctimber",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "timber",
+      "version": "1.4.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "hbm-1.8.2a-Gv2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYZIcnjM",
+      "versionId": "imrNQWkY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 435883,
+      "fileId": 4283916
+    }
+  ],
   "forge": [
     {
       "modId": "hbm",

@@ -1,6 +1,12 @@
 {
   "name": "wakes-0.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dlNu0RQY",
+      "versionId": "VkONGVZK"
+    }
+  ],
   "fabric": [
     {
       "modId": "wakes",

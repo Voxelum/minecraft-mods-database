@@ -1,0 +1,16 @@
+{
+  "name": "[VM汉化更新] VMTranslationUpdate-2.3.2+mc1.20.4.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "vmtranslationupdate",
+      "version": "2.3.2+mc1.20.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vmtranslationupdate",
+      "version": "2.3.2+mc1.20.4"
+    }
+  ]
+}

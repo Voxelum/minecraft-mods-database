@@ -1,0 +1,28 @@
+{
+  "name": "MedievalArmsCR-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fYcVkuT5",
+      "versionId": "4RH73JQf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 638558,
+      "fileId": 5812226
+    }
+  ],
+  "forge": [
+    {
+      "modId": "conq_medieval_arms",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conq_medieval_arms-mod",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7b5VoITI",
+      "versionId": "dZ5s0jOU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247895,
+      "fileId": 5658692
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "whats_that_slot",
+      "version": "1.3.6+1.21"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.5+78017270d1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "constantmusic-forge-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tvuSEM6E",
+      "versionId": "ACS5z8hk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949032,
+      "fileId": 4956295
+    }
+  ],
   "forge": [
     {
       "modId": "constantmusic",

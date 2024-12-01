@@ -1,6 +1,18 @@
 {
   "name": "twigs-2.0.0-beta.9+1.19-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RG50cUrX",
+      "versionId": "YeenQwCj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 496913,
+      "fileId": 3943447
+    }
+  ],
   "fabric": [
     {
       "modId": "twigs",

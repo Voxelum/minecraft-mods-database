@@ -1,6 +1,18 @@
 {
   "name": "fabric-diagonal-panes-0.6.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mGyrHcS3",
+      "versionId": "ZPaPHwPy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 339575,
+      "fileId": 4026479
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-diagonal-panes",

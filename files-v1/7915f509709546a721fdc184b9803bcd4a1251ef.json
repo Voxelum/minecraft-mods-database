@@ -1,6 +1,18 @@
 {
   "name": "g4mespeed-1.4.6-mc1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gW29KsnL",
+      "versionId": "Wyk2J4uw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544459,
+      "fileId": 4951825
+    }
+  ],
   "fabric": [
     {
       "modId": "g4mespeed",

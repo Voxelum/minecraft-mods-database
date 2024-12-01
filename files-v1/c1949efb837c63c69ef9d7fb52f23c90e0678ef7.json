@@ -1,0 +1,28 @@
+{
+  "name": "PrettyPipes-1.16.3-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XExdLWCQ",
+      "versionId": "JSbh9eTX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 376737,
+      "fileId": 5585045
+    }
+  ],
+  "forge": [
+    {
+      "modId": "prettypipes",
+      "version": "1.16.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "prettypipes",
+      "version": "0.0.0"
+    }
+  ]
+}

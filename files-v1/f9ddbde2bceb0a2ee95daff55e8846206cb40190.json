@@ -1,6 +1,18 @@
 {
   "name": "raised-fabric-23w16a-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nCQRBEiR",
+      "versionId": "fSun9BwT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570368,
+      "fileId": 4501074
+    }
+  ],
   "fabric": [
     {
       "modId": "raised",

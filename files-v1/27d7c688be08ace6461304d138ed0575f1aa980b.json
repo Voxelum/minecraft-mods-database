@@ -1,6 +1,12 @@
 {
   "name": "the-end-update-release-19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 859776,
+      "fileId": 4807776
+    }
+  ],
   "forge": [
     {
       "modId": "end_update",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sQBtfdN2",
+      "versionId": "dR1N6vea"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 371072,
+      "fileId": 5535818
+    }
+  ],
+  "forge": [
+    {
+      "modId": "craftableenchants",
+      "version": "8.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftableenchants",
+      "version": "8.0.0-fabric"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "XaerosWorldMap_1.30.3_Forge_1.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NcUtCpym",
+      "versionId": "AuVUfdfe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317780,
+      "fileId": 4550333
+    }
+  ],
   "forge": [
     {
       "modId": "xaeroworldmap",

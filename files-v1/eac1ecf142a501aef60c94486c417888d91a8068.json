@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oskghcoj",
+      "versionId": "n8BUOAXm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 941480,
+      "fileId": 5780059
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraspellattributes",
+      "version": "1.0.5+1.21.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

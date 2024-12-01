@@ -1,0 +1,26 @@
+{
+  "name": "barklings-1.20.1-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M5LgU2rP",
+      "versionId": "cGM7D5Kc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1108334,
+      "fileId": 5852227
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "barklings",
+      "version": "1.20.1-1.0.2"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

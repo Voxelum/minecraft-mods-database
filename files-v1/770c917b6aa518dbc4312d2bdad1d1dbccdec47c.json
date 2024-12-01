@@ -1,6 +1,18 @@
 {
   "name": "shroom_dealers-2.0.1-forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vel22qmI",
+      "versionId": "c6usd5aY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631695,
+      "fileId": 5526747
+    }
+  ],
   "forge": [
     {
       "modId": "shroom_dealers",

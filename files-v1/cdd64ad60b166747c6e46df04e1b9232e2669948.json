@@ -1,6 +1,12 @@
 {
   "name": "regrown-1.1.2-1.19.4-1.20.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W9i1AA1Q",
+      "versionId": "BXsz2U3P"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_regrown",

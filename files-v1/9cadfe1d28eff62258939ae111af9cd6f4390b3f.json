@@ -1,0 +1,22 @@
+{
+  "name": "homeostatic-1.20.1-2.9.8.1-FABRIC.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "homeostatic",
+      "version": "1.20.1-2.9.8.1-FABRIC"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.15+1.20.1"
+    }
+  ]
+}

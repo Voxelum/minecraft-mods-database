@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Pbxh4TB",
+      "versionId": "sGVIANO5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663222,
+      "fileId": 3945080
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "showyourself",
+      "version": "1.19-1.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

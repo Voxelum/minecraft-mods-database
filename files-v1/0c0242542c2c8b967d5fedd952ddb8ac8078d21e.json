@@ -1,0 +1,22 @@
+{
+  "name": "crystals_overhauled-v2.0.0-NEOFORGE-1.21.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 862001,
+      "fileId": 5719120
+    }
+  ],
+  "forge": [
+    {
+      "modId": "crystals_overhauled",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crystals_overhauled",
+      "version": "1.7.0"
+    }
+  ]
+}

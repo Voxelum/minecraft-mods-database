@@ -1,0 +1,28 @@
+{
+  "name": "quickpaths-1.21.1-3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IPbFTPzw",
+      "versionId": "MliIQRdw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 382877,
+      "fileId": 5609522
+    }
+  ],
+  "forge": [
+    {
+      "modId": "quickpaths",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickpaths",
+      "version": "3.5"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "wormhole-1.1.15-forge-mc1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 396803,
+      "fileId": 4749280
+    }
+  ],
   "forge": [
     {
       "modId": "wormhole",

@@ -1,6 +1,18 @@
 {
   "name": "AE2WTLib-12.9.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pNabrMMw",
+      "versionId": "Tj7dqeEY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459929,
+      "fileId": 4570564
+    }
+  ],
   "fabric": [
     {
       "modId": "ae2wtlib",

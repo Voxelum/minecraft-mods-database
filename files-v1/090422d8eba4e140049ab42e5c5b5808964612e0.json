@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XhOTBzVR",
+      "versionId": "xn8VrTEm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899132,
+      "fileId": 5669823
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xaeros-map-chest-tracker-integration",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.4.0"
+    }
+  ]
+}

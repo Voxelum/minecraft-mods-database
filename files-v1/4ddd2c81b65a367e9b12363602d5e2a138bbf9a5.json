@@ -1,6 +1,18 @@
 {
   "name": "recipe-book-delight-0.2.0-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cqC8Bgcm",
+      "versionId": "AB6NvNJH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857553,
+      "fileId": 4707527
+    }
+  ],
   "fabric": [
     {
       "modId": "recipe-book-delight",

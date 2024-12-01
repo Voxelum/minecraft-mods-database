@@ -1,6 +1,18 @@
 {
   "name": "shulkerbox-fabric-1.21.1-2.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PZAaSx6B",
+      "versionId": "CYSDGvfw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 253861,
+      "fileId": 5610978
+    }
+  ],
   "fabric": [
     {
       "modId": "shulkerbox",

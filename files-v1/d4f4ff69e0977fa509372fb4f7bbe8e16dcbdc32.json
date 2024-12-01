@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c1YGVwll",
+      "versionId": "cz4HqUVb"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "distorted_discs",
+      "version": "0.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distorted_discs",
+      "version": "0.7"
+    }
+  ]
+}

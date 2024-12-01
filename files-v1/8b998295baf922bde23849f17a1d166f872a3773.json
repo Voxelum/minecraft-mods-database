@@ -1,6 +1,18 @@
 {
   "name": "language-reload-1.6+1.20.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uLbm7CG6",
+      "versionId": "FeXDkhCI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 527334,
+      "fileId": 5343880
+    }
+  ],
   "fabric": [
     {
       "modId": "languagereload",

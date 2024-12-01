@@ -1,6 +1,18 @@
 {
   "name": "extendedmushrooms-1.18.2-2.0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XInCrQsd",
+      "versionId": "dvyirw4m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 365507,
+      "fileId": 4039335
+    }
+  ],
   "forge": [
     {
       "modId": "extendedmushrooms",

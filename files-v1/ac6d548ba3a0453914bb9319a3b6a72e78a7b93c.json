@@ -1,6 +1,18 @@
 {
   "name": "MoreVanillaTools-1.19.1-5.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJphSXip",
+      "versionId": "BtFmoGKo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349504,
+      "fileId": 3920012
+    }
+  ],
   "forge": [
     {
       "modId": "morevanillatools",

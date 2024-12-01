@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "updaterx",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.37+78d798af4f"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.21+ee30b13a4f"
+    }
+  ]
+}

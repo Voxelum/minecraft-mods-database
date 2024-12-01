@@ -1,0 +1,26 @@
+{
+  "name": "ArmorStatues-v21.0.1-1.21-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bbGCtEvb",
+      "versionId": "sjuCsolj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682566,
+      "fileId": 5652827
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armorstatues",
+      "version": "21.0.1"
+    },
+    {
+      "modId": "statuemenus",
+      "version": "21.0.2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MGHiBUyJ",
+      "versionId": "5VjvYMIJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1015414,
+      "fileId": 5913246
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "etherology",
+      "version": "1.21-0.1.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    }
+  ]
+}

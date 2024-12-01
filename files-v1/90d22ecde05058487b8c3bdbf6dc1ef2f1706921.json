@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-reflect",
+      "version": "2.0.21"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "jeed-1.18.2-1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EO27GKs1",
+      "versionId": "7MUS4acq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532286,
+      "fileId": 3736071
+    }
+  ],
   "forge": [
     {
       "modId": "jeed",

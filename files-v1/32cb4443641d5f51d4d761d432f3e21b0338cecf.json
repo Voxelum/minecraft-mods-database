@@ -1,6 +1,12 @@
 {
   "name": "passiveshield-fabric_1.19.x-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585934,
+      "fileId": 3821524
+    }
+  ],
   "fabric": [
     {
       "modId": "passiveshield-fabric",

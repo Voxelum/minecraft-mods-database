@@ -1,6 +1,12 @@
 {
   "name": "Jenny-Mod-Forge-1.12.2-v1.8.0.jar",
-  "domain": "resourcepacks",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 839684,
+      "fileId": 4446486
+    }
+  ],
   "forge": [
     {
       "modId": "sexmod",

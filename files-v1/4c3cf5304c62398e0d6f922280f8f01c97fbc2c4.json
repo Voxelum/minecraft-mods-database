@@ -1,0 +1,22 @@
+{
+  "name": "subsurface-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mGEL09gE",
+      "versionId": "7tLydftW"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_subsurface",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_subsurface",
+      "version": "1.0.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "magehand-1.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 567926,
+      "fileId": 3790472
+    }
+  ],
   "fabric": [
     {
       "modId": "magehand",

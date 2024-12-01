@@ -1,6 +1,18 @@
 {
   "name": "traverse-4.0.0-beta.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kXygSBVI",
+      "versionId": "yfJugO6U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308777,
+      "fileId": 3406867
+    }
+  ],
   "fabric": [
     {
       "modId": "traverse",

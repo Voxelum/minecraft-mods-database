@@ -1,6 +1,18 @@
 {
   "name": "ContentCreatorIntegration-1.19.2-Forge-1.11.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6Z8wT5tM",
+      "versionId": "25sQO36S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 302296,
+      "fileId": 4388978
+    }
+  ],
   "forge": [
     {
       "modId": "contentcreatorintegration",

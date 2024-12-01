@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XuHYu7cF",
+      "versionId": "zJVVKIIW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1071749,
+      "fileId": 5612601
+    }
+  ],
+  "forge": [
+    {
+      "modId": "northstar",
+      "version": "${0.1cb-1.19.2}"
+    }
+  ]
+}

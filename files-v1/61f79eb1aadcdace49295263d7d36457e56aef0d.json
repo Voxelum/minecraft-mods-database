@@ -1,6 +1,18 @@
 {
   "name": "mobs-attempt-parkour-0.5-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lh7ROUhC",
+      "versionId": "6CxMFXxG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391812,
+      "fileId": 4573663
+    }
+  ],
   "fabric": [
     {
       "modId": "mobs_attempt_parkour",

@@ -1,6 +1,18 @@
 {
   "name": "foodexpansion-1.6.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZgoSA17g",
+      "versionId": "qlSuQG3M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373456,
+      "fileId": 3109411
+    }
+  ],
   "forge": [
     {
       "modId": "foodexpansion",

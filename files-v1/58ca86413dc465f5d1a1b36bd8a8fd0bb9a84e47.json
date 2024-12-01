@@ -1,6 +1,12 @@
 {
   "name": "namepain-1.4.0 fabric-1.17.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 366263,
+      "fileId": 3352348
+    }
+  ],
   "fabric": [
     {
       "modId": "namepain",

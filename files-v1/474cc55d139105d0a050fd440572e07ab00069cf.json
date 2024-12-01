@@ -1,0 +1,14 @@
+{
+  "name": "Cobblemon-fabric-1.6.0+1.21.1-main-d3ae4cd.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cobblemon",
+      "version": "1.6.0+1.21.1-main-d3ae4cd"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.11.0+kotlin.2.0.0"
+    }
+  ]
+}

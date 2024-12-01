@@ -1,6 +1,18 @@
 {
   "name": "tarotcards-1.20-1.5-release.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pI0D4Hrs",
+      "versionId": "l3Jw4bB5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 670535,
+      "fileId": 4776233
+    }
+  ],
   "forge": [
     {
       "modId": "tarotcards",

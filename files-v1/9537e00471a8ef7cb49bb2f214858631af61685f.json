@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5BFVFWlo",
+      "versionId": "3lKpcaUY"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "blocky_siege",
+      "version": "6.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blocky_siege",
+      "version": "4.0.0"
+    }
+  ]
+}

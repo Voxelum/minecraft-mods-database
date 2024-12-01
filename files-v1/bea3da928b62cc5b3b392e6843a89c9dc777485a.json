@@ -1,6 +1,12 @@
 {
   "name": "kubejsadditions-forge-4.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZemjxZb",
+      "versionId": "vxmgUfCo"
+    }
+  ],
   "forge": [
     {
       "modId": "kubejsadditions",

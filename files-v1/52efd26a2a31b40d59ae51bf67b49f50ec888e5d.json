@@ -1,6 +1,12 @@
 {
   "name": "modtweaker-4.0.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7ZsHKFX3",
+      "versionId": "uu4ZB5sf"
+    }
+  ],
   "forge": [
     {
       "modId": "modtweaker",

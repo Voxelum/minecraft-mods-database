@@ -1,6 +1,18 @@
 {
   "name": "snuffles-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NYGhKUS6",
+      "versionId": "VQIXVfhD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 556372,
+      "fileId": 4513912
+    }
+  ],
   "forge": [
     {
       "modId": "snuffles",

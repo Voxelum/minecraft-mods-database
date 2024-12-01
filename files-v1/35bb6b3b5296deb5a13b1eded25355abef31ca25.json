@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jKzIQ1it",
+      "versionId": "looEXB8T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1048687,
+      "fileId": 5647875
+    }
+  ],
+  "forge": [
+    {
+      "modId": "gravecore",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gravecore",
+      "version": "1.0.4"
+    }
+  ]
+}

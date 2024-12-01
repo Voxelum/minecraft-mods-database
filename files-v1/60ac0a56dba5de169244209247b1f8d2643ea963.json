@@ -1,6 +1,18 @@
 {
   "name": "entity-view-distance-1.1.1+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ihnBJ6on",
+      "versionId": "rumDk18Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 539244,
+      "fileId": 4451608
+    }
+  ],
   "fabric": [
     {
       "modId": "entity-view-distance",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6M87Z355",
+      "versionId": "cEq3FfIE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473553,
+      "fileId": 5450179
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dark-enchanting",
+      "version": "1.1.0+1.20.6"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.4.3+1.20.6"
+    }
+  ]
+}

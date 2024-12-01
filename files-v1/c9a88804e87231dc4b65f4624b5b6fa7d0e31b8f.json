@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IrrG0G8l",
+      "versionId": "lTQHlvV4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "horsebuff",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.40+80f8cf51b0"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.46+73761d2eb0"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.4+c5fc38b3b0"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "5.0.16+ad474493b0"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.45+80f8cf51b0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.21+7b70ea8ab0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.0+c0e5481fb0"
+    }
+  ]
+}

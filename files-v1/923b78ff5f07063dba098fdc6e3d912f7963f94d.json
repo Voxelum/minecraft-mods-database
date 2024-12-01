@@ -1,6 +1,12 @@
 {
   "name": "warriorrage-fabric-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1BGsoydA",
+      "versionId": "1pPxukir"
+    }
+  ],
   "fabric": [
     {
       "modId": "warriorrage",

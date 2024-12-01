@@ -1,6 +1,18 @@
 {
   "name": "beautify-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9BPuv4vL",
+      "versionId": "pgpuJDlB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633252,
+      "fileId": 4706528
+    }
+  ],
   "forge": [
     {
       "modId": "beautify",

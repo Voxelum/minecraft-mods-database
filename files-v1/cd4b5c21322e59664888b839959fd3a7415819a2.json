@@ -1,0 +1,16 @@
+{
+  "name": "TheAnnoyingVillagersByPugilistSteve (176).jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "itemphysic",
+      "version": "1.7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemphysic",
+      "version": "${version}"
+    }
+  ]
+}

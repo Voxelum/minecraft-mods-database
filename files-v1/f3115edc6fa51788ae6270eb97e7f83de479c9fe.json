@@ -1,6 +1,12 @@
 {
   "name": "minimepets-forge-1.0.1-mc1.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 593627,
+      "fileId": 3919412
+    }
+  ],
   "forge": [
     {
       "modId": "minimepets",

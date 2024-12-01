@@ -1,6 +1,18 @@
 {
   "name": "enhanced_mushrooms-fabric-4.0.1+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4Zf7J76Q",
+      "versionId": "q9WG1G88"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 383725,
+      "fileId": 3865516
+    }
+  ],
   "fabric": [
     {
       "modId": "enhanced_mushrooms",

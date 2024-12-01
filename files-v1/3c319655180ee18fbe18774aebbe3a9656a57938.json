@@ -1,0 +1,26 @@
+{
+  "name": "【情人节食物】kafvalentine-fabric-1.4.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BAlSr7dy",
+      "versionId": "Lf3YZqhP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974853,
+      "fileId": 5203024
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kafvalentine",
+      "version": "1.4.0+1.20.1"
+    },
+    {
+      "modId": "lavender",
+      "version": "0.1.0-pre.18+1.20"
+    }
+  ]
+}

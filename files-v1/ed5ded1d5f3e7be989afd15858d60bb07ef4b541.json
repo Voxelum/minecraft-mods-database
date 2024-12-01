@@ -1,6 +1,18 @@
 {
   "name": "rechiseled-1.1.5-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B0g2vT6l",
+      "versionId": "p4WA0Stj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558998,
+      "fileId": 4803748
+    }
+  ],
   "fabric": [
     {
       "modId": "rechiseled",

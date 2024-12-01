@@ -1,0 +1,22 @@
+{
+  "name": "journeymap-forge-1.21.1-6.0.0-beta.29.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "GuoNSQpO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "journeymap",
+      "version": "1.21.1-6.0.0-beta.29"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap-wrongloader",
+      "version": "not a fabric mod"
+    }
+  ]
+}

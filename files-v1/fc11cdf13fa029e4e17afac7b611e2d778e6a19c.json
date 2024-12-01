@@ -1,6 +1,18 @@
 {
   "name": "configurablemobpotioneffects-1.20.1-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FspL3NLJ",
+      "versionId": "bpeEephh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414486,
+      "fileId": 5169047
+    }
+  ],
   "forge": [
     {
       "modId": "configurablemobpotioneffects",

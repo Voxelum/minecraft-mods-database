@@ -1,6 +1,18 @@
 {
   "name": "mosaic_carpentry-1.0.2-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NSnRfjks",
+      "versionId": "DBiCFqXZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 690226,
+      "fileId": 4071275
+    }
+  ],
   "forge": [
     {
       "modId": "mosaic_carpentry",

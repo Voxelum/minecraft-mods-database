@@ -1,0 +1,34 @@
+{
+  "name": "filament-0.8.6+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yANxwqSX",
+      "versionId": "kZ5Wuup9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118465,
+      "fileId": 5797998
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "filament",
+      "version": "0.8.6+1.21"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.12+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

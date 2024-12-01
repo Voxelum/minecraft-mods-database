@@ -1,6 +1,18 @@
 {
   "name": "mvs-4.1-1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OQAgZMH1",
+      "versionId": "ZTaX3qnO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656977,
+      "fileId": 4805818
+    }
+  ],
   "forge": [
     {
       "modId": "mvs",

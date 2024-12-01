@@ -1,6 +1,18 @@
 {
   "name": "outvoted-2.0.0-alpha.13-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "klAfKAj3",
+      "versionId": "js0tDK6v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 415057,
+      "fileId": 3455188
+    }
+  ],
   "fabric": [
     {
       "modId": "outvoted",

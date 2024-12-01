@@ -1,6 +1,18 @@
 {
   "name": "reinforced-chests-2.2.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWtAXlpg",
+      "versionId": "LPxyKOQ6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529873,
+      "fileId": 4023337
+    }
+  ],
   "fabric": [
     {
       "modId": "reinfchest",

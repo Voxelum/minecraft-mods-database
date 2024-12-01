@@ -1,6 +1,18 @@
 {
   "name": "RebornStorage-1.12.2-3.2.2.65.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NwazYrVH",
+      "versionId": "7QtKnjdx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256662,
+      "fileId": 2601717
+    }
+  ],
   "forge": [
     {
       "modId": "rebornstorage",

@@ -1,0 +1,28 @@
+{
+  "name": "fxntstorage-0.12-1.20.1-FABRIC+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "68AG9cQg",
+      "versionId": "H3voyod7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014980,
+      "fileId": 5492946
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fxntstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fxntstorage",
+      "version": "0.12-1.20.1-FABRIC+1.20.1"
+    }
+  ]
+}

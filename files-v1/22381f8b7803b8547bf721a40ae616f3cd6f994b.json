@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "controllable",
+      "version": "0.20.3"
+    },
+    {
+      "modId": "io_github_libsdl4j_libsdl4j",
+      "version": "2.26.4-1.2"
+    }
+  ]
+}

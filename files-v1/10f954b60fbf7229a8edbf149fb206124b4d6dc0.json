@@ -1,6 +1,12 @@
 {
   "name": "unstructured-0.4+1.18.2[FABRIC].jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 575348,
+      "fileId": 3743823
+    }
+  ],
   "fabric": [
     {
       "modId": "unstructured",

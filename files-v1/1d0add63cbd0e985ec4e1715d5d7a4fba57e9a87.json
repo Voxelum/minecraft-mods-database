@@ -1,6 +1,18 @@
 {
   "name": "athena-forge-1.20.1-3.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b1ZV3DIJ",
+      "versionId": "qArlnqK4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841890,
+      "fileId": 4718179
+    }
+  ],
   "forge": [
     {
       "modId": "athena",

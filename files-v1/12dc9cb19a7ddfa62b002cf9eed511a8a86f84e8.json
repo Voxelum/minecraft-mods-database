@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNRoUnGT",
+      "versionId": "QbeksZo4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682213,
+      "fileId": 5107574
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcpitanlibarch",
+      "version": "1.9.6-1.20.2-fabric"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.119"
+    }
+  ]
+}

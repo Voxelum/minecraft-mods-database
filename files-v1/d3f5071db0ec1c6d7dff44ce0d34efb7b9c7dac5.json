@@ -1,6 +1,18 @@
 {
   "name": "WaveyCapes-forge-1.2.0-mc1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYuIpRLv",
+      "versionId": "T4tfHi3g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521594,
+      "fileId": 3743875
+    }
+  ],
   "forge": [
     {
       "modId": "waveycapes",

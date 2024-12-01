@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gu7yAYhd",
+      "versionId": "afrVuuOn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.114.2"
+    },
+    {
+      "modId": "io_netty_netty-handler-proxy",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "io_netty_netty-codec-socks",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "cc_tweaked_cobalt",
+      "version": "0.9.5"
+    },
+    {
+      "modId": "com_jcraft_jzlib",
+      "version": "1.1.3"
+    }
+  ]
+}

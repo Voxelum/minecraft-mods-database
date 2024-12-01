@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "epa",
+      "version": "8.0.2+mc1.21.1-fabric"
+    },
+    {
+      "modId": "emotecraft",
+      "version": "3.0.0-a.14fcddc3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.1"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.0-alpha4+1.21.1"
+    }
+  ]
+}

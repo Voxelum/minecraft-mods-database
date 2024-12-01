@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I5NIj6Y1",
+      "versionId": "91xzPFLQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feathermorph-client",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "com_github_xiamozhishi_feathermorph-protocols",
+      "version": "09b2b0a077"
+    }
+  ]
+}

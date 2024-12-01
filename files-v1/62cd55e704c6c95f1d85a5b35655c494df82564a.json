@@ -1,6 +1,18 @@
 {
   "name": "spoornarmorattributes-1.0.6-1.18-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ETVGZR8P",
+      "versionId": "7CmRsp1U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637846,
+      "fileId": 3996250
+    }
+  ],
   "fabric": [
     {
       "modId": "spoornarmorattributes",

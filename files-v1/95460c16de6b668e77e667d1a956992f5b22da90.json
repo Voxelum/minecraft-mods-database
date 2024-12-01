@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fQWA1WGg",
+      "versionId": "eueCHpN6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1015076,
+      "fileId": 5516386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_guns",
+      "version": "1.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "lifesteal-7.1.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YX0eip4b",
+      "versionId": "ZCgYrLes"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645185,
+      "fileId": 5793157
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lifesteal",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lifesteal",
+      "version": "7.1.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.5-1.20.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "indestructible_blocks",
+      "version": "1.0.3"
+    }
+  ]
+}

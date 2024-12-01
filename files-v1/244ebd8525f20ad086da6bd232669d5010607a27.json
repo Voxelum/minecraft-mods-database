@@ -1,0 +1,28 @@
+{
+  "name": "beta-nether-V1-1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5TlMAiY5",
+      "versionId": "VY8m7JGC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 982973,
+      "fileId": 5158303
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_beta_nether",
+      "version": "1-V1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_beta_nether",
+      "version": "1-V1"
+    }
+  ]
+}

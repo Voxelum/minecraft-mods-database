@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "wynnvista-0.6.6.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "70ZxXDHX",
@@ -10,6 +11,12 @@
     {
       "projectId": 1098193,
       "fileId": 5715933
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynn-dh-range-limiter",
+      "version": "0.6.6"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "name": "refinedstorageaddons-0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z4Z5ccuT",
+      "versionId": "VUWPVKLg"
+    }
+  ],
   "forge": [
     {
       "modId": "refinedstorageaddons",

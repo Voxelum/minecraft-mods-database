@@ -1,0 +1,30 @@
+{
+  "name": "servux-fabric-1.21.0-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zQhsx8KF",
+      "versionId": "MBfJui8X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406323,
+      "fileId": 5486475
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servux",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c90"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.1.0+686dcdce90"
+    }
+  ]
+}

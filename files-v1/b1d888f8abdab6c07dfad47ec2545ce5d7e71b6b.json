@@ -1,6 +1,18 @@
 {
   "name": "majruszs-difficulty-fabric-1.20.1-1.9.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GGDBwjOg",
+      "versionId": "3cSdxjGO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430642,
+      "fileId": 5150897
+    }
+  ],
   "fabric": [
     {
       "modId": "majruszsdifficulty",

@@ -1,6 +1,18 @@
 {
   "name": "create_refined_recipes-1.0.1.a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jNGySbsv",
+      "versionId": "M5mAQtZ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1062293,
+      "fileId": 5525379
+    }
+  ],
   "forge": [
     {
       "modId": "create_refined_recipes",

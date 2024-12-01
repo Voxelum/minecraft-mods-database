@@ -1,6 +1,18 @@
 {
   "name": "ContingameIME-1.0.6-1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Z2YdwIT",
+      "versionId": "V8hbzvI0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835640,
+      "fileId": 4685354
+    }
+  ],
   "forge": [
     {
       "modId": "ingameime",

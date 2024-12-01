@@ -1,6 +1,12 @@
 {
   "name": "modelloader-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 277663,
+      "fileId": 2479208
+    }
+  ],
   "forge": [
     {
       "modId": "modelloader",

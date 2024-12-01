@@ -1,6 +1,12 @@
 {
   "name": "voicechat-forge-1.12.2-2.5.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 416089,
+      "fileId": 5207899
+    }
+  ],
   "forge": [
     {
       "modId": "voicechat",

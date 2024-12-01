@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GmwLse2I",
+      "versionId": "ojJTJmhx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 453925,
+      "fileId": 5442195
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwfences",

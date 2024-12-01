@@ -1,6 +1,12 @@
 {
   "name": "librarians-balance-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SoL6FwNo",
+      "versionId": "VuophC1r"
+    }
+  ],
   "forge": [
     {
       "modId": "librarians_balance_mr",

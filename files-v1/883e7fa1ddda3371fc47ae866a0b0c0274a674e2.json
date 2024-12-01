@@ -1,0 +1,24 @@
+{
+  "name": "fsit-2.5.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J5NAzRqK",
+      "versionId": "TEBSD3en"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fsit",
+      "version": "2.5.1+1.20.1"
+    },
+    {
+      "modId": "org_snakeyaml_snakeyaml-engine",
+      "version": "2.6"
+    },
+    {
+      "modId": "com_charleskorn_kaml_kaml-jvm",
+      "version": "0.54.0"
+    }
+  ]
+}

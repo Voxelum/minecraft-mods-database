@@ -1,6 +1,12 @@
 {
   "name": "ShadowMC-1.10.2-3.6.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 226780,
+      "fileId": 2345525
+    }
+  ],
   "forge": [
     {
       "modId": "shadowmc",

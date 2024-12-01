@@ -1,6 +1,12 @@
 {
   "name": "platinum-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 502111,
+      "fileId": 3387231
+    }
+  ],
   "forge": [
     {
       "modId": "platinum",

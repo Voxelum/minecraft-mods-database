@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PkgiQPwK",
+      "versionId": "lEzlgqVe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1018237,
+      "fileId": 5877394
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "versecraft",
+      "version": "4.1.1+1.21.3"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.3-mc1.21.2"
+    }
+  ]
+}

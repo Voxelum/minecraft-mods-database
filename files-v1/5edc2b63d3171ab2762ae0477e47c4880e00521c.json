@@ -1,6 +1,12 @@
 {
   "name": "DefaultSettings-1.8.x-1.12.x-2.2.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318012,
+      "fileId": 3253520
+    }
+  ],
   "forge": [
     {
       "modId": "defaultsettings",

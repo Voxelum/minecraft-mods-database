@@ -1,0 +1,22 @@
+{
+  "name": "standard-skyblock-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bbtyQ1Po",
+      "versionId": "KNGDiZ6q"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_standard_skyblock",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_standard_skyblock",
+      "version": "1.0.5"
+    }
+  ]
+}

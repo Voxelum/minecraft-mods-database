@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S3D3QF0M",
+      "versionId": "4twnFkOR"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "leawind_third_person",
+      "version": "2.0.8-beta.5"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

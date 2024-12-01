@@ -1,6 +1,18 @@
 {
   "name": "CraftTweaker-fabric-1.18.2-9.1.150.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xg35A4rS",
+      "versionId": "YOXp1Rab"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 239197,
+      "fileId": 3818683
+    }
+  ],
   "fabric": [
     {
       "modId": "crafttweaker",

@@ -1,6 +1,12 @@
 {
   "name": "megaparrot-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 561527,
+      "fileId": 3790474
+    }
+  ],
   "fabric": [
     {
       "modId": "megaparrot",

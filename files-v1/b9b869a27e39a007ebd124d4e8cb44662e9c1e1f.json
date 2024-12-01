@@ -1,6 +1,18 @@
 {
   "name": "enhanced-farming-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7NG8HLUy",
+      "versionId": "bXcvyhNZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 285105,
+      "fileId": 2612988
+    }
+  ],
   "forge": [
     {
       "modId": "enhancedfarming",

@@ -1,0 +1,26 @@
+{
+  "name": "Incantationem-2.0.3+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZmRxbKUp",
+      "versionId": "ivGrgU5k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483166,
+      "fileId": 5509386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "incantationem",
+      "version": "2.0.3+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

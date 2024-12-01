@@ -1,6 +1,12 @@
 {
   "name": "inventorypets-1.7.10-1.5.2-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229380,
+      "fileId": 2576154
+    }
+  ],
   "forge": [
     {
       "modId": "InventoryPets",

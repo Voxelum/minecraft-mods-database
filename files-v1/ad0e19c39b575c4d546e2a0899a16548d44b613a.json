@@ -1,6 +1,12 @@
 {
   "name": "woof-1.1.2-1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 653216,
+      "fileId": 3923701
+    }
+  ],
   "fabric": [
     {
       "modId": "woof",

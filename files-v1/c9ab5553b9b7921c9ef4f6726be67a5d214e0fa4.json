@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "emc",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emc",
+      "version": "17.0.0"
+    },
+    {
+      "modId": "emc-integrations",
+      "version": "1.21"
+    }
+  ]
+}

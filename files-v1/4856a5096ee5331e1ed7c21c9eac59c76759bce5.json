@@ -1,6 +1,12 @@
 {
   "name": "fakename-1.16.2-1.4.0.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256838,
+      "fileId": 3033139
+    }
+  ],
   "forge": [
     {
       "modId": "fakename",

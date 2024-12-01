@@ -1,0 +1,26 @@
+{
+  "name": "toastbegone-fabric-1.20-1.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g8reZf3x",
+      "versionId": "ixnLpbxR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1092015,
+      "fileId": 5669151
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toastbegone",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "dawn-config",
+      "version": "1.0.0"
+    }
+  ]
+}

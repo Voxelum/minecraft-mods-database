@@ -1,6 +1,12 @@
 {
   "name": "plexaddons-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 975894,
+      "fileId": 5115186
+    }
+  ],
   "forge": [
     {
       "modId": "plexaddons",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rvlC2Kdd",
+      "versionId": "1rL75PPQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 475856,
+      "fileId": 4588286
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "daylight_mobs_reborn",
+      "version": "1.2.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

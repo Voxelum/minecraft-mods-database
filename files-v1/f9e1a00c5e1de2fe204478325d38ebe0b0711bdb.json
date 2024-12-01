@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jawg7zT1",
+      "versionId": "NLBSiuC2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594750,
+      "fileId": 5916453
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cavedust",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.19.3+1.21.3"
+    }
+  ]
+}

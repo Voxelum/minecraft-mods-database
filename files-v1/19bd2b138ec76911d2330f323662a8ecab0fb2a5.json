@@ -1,6 +1,18 @@
 {
   "name": "fzzy_config-0.3.3+1.20.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "MZVZ6mvs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 5359075
+    }
+  ],
   "fabric": [
     {
       "modId": "fzzy_config",

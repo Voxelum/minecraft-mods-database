@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R5T1RmWr",
+      "versionId": "pB9HTnDR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316881,
+      "fileId": 5793736
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shulkerboxslot",
+      "version": "5.2.0+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.13.17+1.20.1"
+    }
+  ]
+}

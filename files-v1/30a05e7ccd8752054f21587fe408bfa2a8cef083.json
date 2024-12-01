@@ -1,0 +1,26 @@
+{
+  "name": "too-many-entities-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BvnRxzIF",
+      "versionId": "qCggWfLF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1061284,
+      "fileId": 5523111
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "too-many-entities",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "noglow-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WqItyXI2",
+      "versionId": "5kUDGBEC"
+    }
+  ],
   "fabric": [
     {
       "modId": "noglow",

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "teleporter_mod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "teleporter_example",
+      "version": "1.0.0"
+    }
+  ]
+}

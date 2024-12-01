@@ -1,6 +1,18 @@
 {
   "name": "architectury-6.0.37-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "m9TL0O0B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 3920491
+    }
+  ],
   "forge": [
     {
       "modId": "architectury",

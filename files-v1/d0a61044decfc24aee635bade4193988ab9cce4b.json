@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2U4cBE7v",
+      "versionId": "39piHYUo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965883,
+      "fileId": 5160622
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "suppressopengl1280",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "betterendrod-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sHufDzUa",
+      "versionId": "YwSHgK3X"
+    }
+  ],
   "fabric": [
     {
       "modId": "betterendrod",

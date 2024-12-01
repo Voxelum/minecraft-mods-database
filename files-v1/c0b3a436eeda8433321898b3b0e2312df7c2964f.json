@@ -1,6 +1,12 @@
 {
   "name": "healthbar-1.12-1.0.7-23.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 239440,
+      "fileId": 2463632
+    }
+  ],
   "forge": [
     {
       "modId": "healthbar",

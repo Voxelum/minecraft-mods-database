@@ -1,6 +1,12 @@
 {
   "name": "speedtrading-0.1.2+1.20.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ht0RRAt0",
+      "versionId": "rwmqPxpo"
+    }
+  ],
   "fabric": [
     {
       "modId": "fasttrading",

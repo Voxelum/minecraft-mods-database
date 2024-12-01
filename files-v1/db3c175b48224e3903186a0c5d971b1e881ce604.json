@@ -1,6 +1,18 @@
 {
   "name": "armor-visibility-6.0.1+1.19.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kvPlmCLX",
+      "versionId": "JsbfxdYz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 387962,
+      "fileId": 4032325
+    }
+  ],
   "fabric": [
     {
       "modId": "armor_visibility",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "toomanybinds",
+      "version": "0.3.2+1.17"
+    },
+    {
+      "modId": "toomanybinds-compat-1-19",
+      "version": "0.3.2+1.19"
+    }
+  ]
+}

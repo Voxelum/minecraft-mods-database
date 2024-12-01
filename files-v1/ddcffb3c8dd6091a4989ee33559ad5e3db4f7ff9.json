@@ -1,6 +1,18 @@
 {
   "name": "furnitura-1.12-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZHBMStee",
+      "versionId": "SiAiw27B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949061,
+      "fileId": 5219732
+    }
+  ],
   "forge": [
     {
       "modId": "furnitura",

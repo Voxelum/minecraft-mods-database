@@ -1,6 +1,18 @@
 {
   "name": "mc-fix-hardcoded-lava-level-1.19.3-1.x_1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WluFLY7i",
+      "versionId": "TLlILAEd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882257,
+      "fileId": 4615477
+    }
+  ],
   "fabric": [
     {
       "modId": "mc-fix-hardcoded-lava-level",

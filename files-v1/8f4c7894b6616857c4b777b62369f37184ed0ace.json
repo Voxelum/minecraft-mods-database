@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FOIvwGKz",
+      "versionId": "Fj9F9wC2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 874633,
+      "fileId": 5612411
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soundsbegone",
+      "version": "1.3.5"
+    },
+    {
+      "modId": "com_posthog_java_posthog",
+      "version": "1.1.0"
+    }
+  ]
+}

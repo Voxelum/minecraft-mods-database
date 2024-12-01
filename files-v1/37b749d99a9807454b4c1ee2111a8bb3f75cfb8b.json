@@ -1,0 +1,22 @@
+{
+  "name": "spawners-drop-treasure-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lbF2JjAi",
+      "versionId": "KcEOlgwf"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_spawners_droptreasure",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_spawners_droptreasure",
+      "version": "1.0.0"
+    }
+  ]
+}

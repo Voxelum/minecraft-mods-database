@@ -1,0 +1,16 @@
+{
+  "name": "ClockworkAdditions-1.18.2-0.0.6-forge-and-fabric.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "clockworkadditions",
+      "version": "1.18.2-0.0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clockworkadditions",
+      "version": "1.18.2-0.0.6"
+    }
+  ]
+}

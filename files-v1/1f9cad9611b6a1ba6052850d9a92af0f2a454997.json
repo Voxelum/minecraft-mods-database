@@ -1,6 +1,18 @@
 {
   "name": "FabricSit-1.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eM1KzRjc",
+      "versionId": "1ntwxlmn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 480257,
+      "fileId": 3462014
+    }
+  ],
   "fabric": [
     {
       "modId": "fabricsit",

@@ -1,6 +1,12 @@
 {
   "name": "cupboard-fabric-1.18.2-1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 326652,
+      "fileId": 4691987
+    }
+  ],
   "fabric": [
     {
       "modId": "cupboard",

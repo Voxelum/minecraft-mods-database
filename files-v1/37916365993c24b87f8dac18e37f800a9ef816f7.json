@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UHjbX5mk",
+      "versionId": "NkDFooTa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662867,
+      "fileId": 5890688
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gca",
+      "version": "mc1.21.1-2.9.0+build.84"
+    },
+    {
+      "modId": "jep_jep",
+      "version": "2.24"
+    }
+  ]
+}

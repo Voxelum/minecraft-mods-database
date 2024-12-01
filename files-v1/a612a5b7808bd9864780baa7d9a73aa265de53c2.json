@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "netherite_plus",
+      "version": "1.4.3-1.16.5"
+    },
+    {
+      "modId": "oro_config",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "multi_item_lib",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "architectury",
+      "version": "1.5.105"
+    }
+  ]
+}

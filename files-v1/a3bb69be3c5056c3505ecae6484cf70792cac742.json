@@ -1,6 +1,18 @@
 {
   "name": "jei-1.15.2-6.0.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "hU4OKp54"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 2944279
+    }
+  ],
   "forge": [
     {
       "modId": "jei",

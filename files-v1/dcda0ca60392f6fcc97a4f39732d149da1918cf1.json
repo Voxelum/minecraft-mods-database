@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "dynamic-fps-3.7.6+minecraft-1.19.0-forge.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "LQ3K71Q1",
       "versionId": "4GcUO4LK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 5860750
     }
   ],
   "forge": [

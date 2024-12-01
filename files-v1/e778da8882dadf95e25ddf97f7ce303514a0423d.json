@@ -1,6 +1,18 @@
 {
   "name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VSNURh3q",
+      "versionId": "meepZdLs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533097,
+      "fileId": 5583892
+    }
+  ],
   "fabric": [
     {
       "modId": "c2me",

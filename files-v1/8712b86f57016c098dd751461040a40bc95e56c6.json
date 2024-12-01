@@ -1,6 +1,18 @@
 {
   "name": "deathbutthree-1.18.2-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EyfnD02i",
+      "versionId": "BxZkoP4l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881336,
+      "fileId": 4965899
+    }
+  ],
   "forge": [
     {
       "modId": "deathbutthree",

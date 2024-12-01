@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EpwT0cx1",
+      "versionId": "uIPiV6Uc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blocksforbuilders",
+      "version": "4.2.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "DamageControl-1.12.2-1.3.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QhwFFQNr",
+      "versionId": "n7EmBeRN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 261427,
+      "fileId": 2810197
+    }
+  ],
   "forge": [
     {
       "modId": "dmgcontrol",

@@ -1,6 +1,12 @@
 {
   "name": "find-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LVzh5C2x",
+      "versionId": "H8uR8nT2"
+    }
+  ],
   "fabric": [
     {
       "modId": "find",

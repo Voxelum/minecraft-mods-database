@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ECVMthxr",
+      "versionId": "xeujYyF2"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "originaddons",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "originaddons",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223794,
+      "fileId": 3908720
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ae2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ae2",
+      "version": "12.0.2-alpha"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.0.2+1.18.2"
+    }
+  ]
+}

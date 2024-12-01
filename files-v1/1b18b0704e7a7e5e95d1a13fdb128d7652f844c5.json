@@ -1,6 +1,18 @@
 {
   "name": "FlectoneMix Mouse Wheelie.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u5Ic2U1u",
+      "versionId": "W6lK0S30"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317514,
+      "fileId": 4781059
+    }
+  ],
   "fabric": [
     {
       "modId": "mousewheelie",

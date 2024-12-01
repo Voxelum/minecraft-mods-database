@@ -1,6 +1,18 @@
 {
   "name": "nnvf-0.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j2cIyDv4",
+      "versionId": "dz5JtOl2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 703882,
+      "fileId": 4471122
+    }
+  ],
   "fabric": [
     {
       "modId": "nnvf",

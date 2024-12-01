@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SLhfoy0B",
+      "versionId": "MzxB1F7J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979675,
+      "fileId": 5483754
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fallenwizardsmod",
+      "version": "0.1.1-1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

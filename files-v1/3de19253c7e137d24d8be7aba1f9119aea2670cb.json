@@ -1,6 +1,18 @@
 {
   "name": "ImmediatelyFast-Forge-1.2.17+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "us6sBMnH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686911,
+      "fileId": 5389314
+    }
+  ],
   "forge": [
     {
       "modId": "immediatelyfast",

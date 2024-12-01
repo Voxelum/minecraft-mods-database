@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wuhuclient",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_18_2",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_19_4",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_20_1",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_20_2",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_20_4",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_20_6",
+      "version": "1.0.4+20241017"
+    },
+    {
+      "modId": "wuhuclient-1_21",
+      "version": "1.0.4+20241017"
+    }
+  ]
+}

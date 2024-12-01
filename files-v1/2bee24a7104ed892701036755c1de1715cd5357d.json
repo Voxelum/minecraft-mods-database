@@ -1,6 +1,18 @@
 {
   "name": "goldenhoppers-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Be8djzBC",
+      "versionId": "brMjbFYa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442268,
+      "fileId": 3444135
+    }
+  ],
   "fabric": [
     {
       "modId": "goldenhoppers",

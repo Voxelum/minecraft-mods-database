@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n73PVNjl",
+      "versionId": "mwcrIpM1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancedhud",
+      "version": "2.1.1+1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a7d1"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.11+8f3583aed1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8cd1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "cave_dust-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jawg7zT1",
+      "versionId": "Py33tow5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594750,
+      "fileId": 3712493
+    }
+  ],
   "fabric": [
     {
       "modId": "cavedust",

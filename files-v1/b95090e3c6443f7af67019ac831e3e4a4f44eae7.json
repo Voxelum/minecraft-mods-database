@@ -1,6 +1,12 @@
 {
   "name": "dragonfire-0.6.29-httyd.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 893082,
+      "fileId": 4661946
+    }
+  ],
   "forge": [
     {
       "modId": "geckolib3",

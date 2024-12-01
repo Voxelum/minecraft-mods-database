@@ -1,0 +1,22 @@
+{
+  "name": "mysticrift_pharaohs_legacy-1.6.14-forge-1.20.1.jar.disabled",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1033986,
+      "fileId": 5473253
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mysticrift_pharaohs_legacy",
+      "version": "1.6.14"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mysticrift_pharaohs_legacy",
+      "version": "1.6.13"
+    }
+  ]
+}

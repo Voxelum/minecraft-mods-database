@@ -1,6 +1,18 @@
 {
   "name": "Kaffee's_Dual_Ride-mc1.19.2-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dv1QW2PN",
+      "versionId": "gamvk0LR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 683156,
+      "fileId": 4827419
+    }
+  ],
   "fabric": [
     {
       "modId": "kaffees_dual_ride",

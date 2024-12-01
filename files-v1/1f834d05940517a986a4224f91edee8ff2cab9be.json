@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uAD9eaO7",
+      "versionId": "sqHYVPDL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056711,
+      "fileId": 5701160
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cat_vision",
+      "version": "1.4-1.21.1"
+    },
+    {
+      "modId": "owo",
+      "version": "0.12.11+1.21"
+    }
+  ]
+}

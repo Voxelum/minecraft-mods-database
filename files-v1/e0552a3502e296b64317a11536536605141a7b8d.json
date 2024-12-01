@@ -1,6 +1,18 @@
 {
   "name": "villagebellrecipe-1.20.1-3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u692zai1",
+      "versionId": "QK5DvdTg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450614,
+      "fileId": 4583467
+    }
+  ],
   "forge": [
     {
       "modId": "villagebellrecipe",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uN9Miy4p",
+      "versionId": "PZSVd8if"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574957,
+      "fileId": 5899059
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mmoparties",
+      "version": "3.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mmoparties",
+      "version": "3.1.0"
+    }
+  ]
+}

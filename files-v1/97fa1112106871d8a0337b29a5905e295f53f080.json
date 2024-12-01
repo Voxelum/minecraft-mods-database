@@ -1,6 +1,18 @@
 {
   "name": "held-item-info-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tEcWzCZz",
+      "versionId": "WqEWaVpN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 365615,
+      "fileId": 3030317
+    }
+  ],
   "fabric": [
     {
       "modId": "held-item-info",

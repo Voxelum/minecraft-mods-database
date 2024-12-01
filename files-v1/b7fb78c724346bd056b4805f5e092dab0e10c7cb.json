@@ -1,6 +1,18 @@
 {
   "name": "goldenfood-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zUg53pQP",
+      "versionId": "oWrK1tqH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873866,
+      "fileId": 4616408
+    }
+  ],
   "forge": [
     {
       "modId": "goldenfood",

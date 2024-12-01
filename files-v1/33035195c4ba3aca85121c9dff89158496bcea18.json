@@ -1,6 +1,12 @@
 {
   "name": "platforms-1.16-1.7.15.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244786,
+      "fileId": 3765385
+    }
+  ],
   "forge": [
     {
       "modId": "platforms",

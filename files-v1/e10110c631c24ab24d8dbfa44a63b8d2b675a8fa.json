@@ -1,6 +1,18 @@
 {
   "name": "zenith-1.1.7-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TLZe11Uj",
+      "versionId": "P1A3tJnZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 620928,
+      "fileId": 5212152
+    }
+  ],
   "fabric": [
     {
       "modId": "zenith",

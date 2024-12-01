@@ -1,6 +1,18 @@
 {
   "name": "CraftTweaker-1.16.5-7.1.0.314.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xg35A4rS",
+      "versionId": "TZKwzdBg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 239197,
+      "fileId": 3348521
+    }
+  ],
   "forge": [
     {
       "modId": "crafttweaker",

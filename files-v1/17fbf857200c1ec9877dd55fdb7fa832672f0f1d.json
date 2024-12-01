@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JUk0DjJ2",
+      "versionId": "Fj4sOKZX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504271,
+      "fileId": 4932949
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mchalo",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
+    }
+  ]
+}

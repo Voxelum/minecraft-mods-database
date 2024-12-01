@@ -1,6 +1,18 @@
 {
   "name": "norecipebookreborn-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VDMK7X5r",
+      "versionId": "tBdbkrdA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551314,
+      "fileId": 4725571
+    }
+  ],
   "forge": [
     {
       "modId": "norecipebookreborn",

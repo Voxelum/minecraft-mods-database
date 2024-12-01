@@ -1,6 +1,18 @@
 {
   "name": "terracartreloaded-1.16.5-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IplhrKMJ",
+      "versionId": "5meZ1zX1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 286417,
+      "fileId": 3196163
+    }
+  ],
   "forge": [
     {
       "modId": "terracart",

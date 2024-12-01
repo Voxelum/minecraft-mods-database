@@ -1,0 +1,26 @@
+{
+  "name": "brb-1.10.0-rc5+1.20.0-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vWIaVOTE",
+      "versionId": "1aOgaVwt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486485,
+      "fileId": 5460989
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brb",
+      "version": "1.10.0-rc5+1.20.0-1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

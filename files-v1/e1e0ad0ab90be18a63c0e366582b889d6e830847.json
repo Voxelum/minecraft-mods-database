@@ -1,6 +1,12 @@
 {
   "name": "trample-disabler-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 439805,
+      "fileId": 3833413
+    }
+  ],
   "fabric": [
     {
       "modId": "trampledisablerfabric",

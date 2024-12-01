@@ -1,6 +1,18 @@
 {
   "name": "toms_storage_fabric-1.19-1.5.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XZNI4Cpy",
+      "versionId": "vMv2JpvI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396826,
+      "fileId": 4560886
+    }
+  ],
   "fabric": [
     {
       "modId": "toms_storage",

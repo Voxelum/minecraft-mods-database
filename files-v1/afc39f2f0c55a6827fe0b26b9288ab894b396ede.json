@@ -1,6 +1,18 @@
 {
   "name": "roadstuff-1.18.2-6.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wdHMjzyQ",
+      "versionId": "eP4IiIPO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238984,
+      "fileId": 3952258
+    }
+  ],
   "forge": [
     {
       "modId": "roadstuff",

@@ -1,6 +1,18 @@
 {
   "name": "icy-incitement-1.1.4+1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zj1ND0rS",
+      "versionId": "7RTNQXWP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561319,
+      "fileId": 3931409
+    }
+  ],
   "fabric": [
     {
       "modId": "icy-incitement",

@@ -1,6 +1,18 @@
 {
   "name": "TerraFirmaCraft-Forge-1.20.1-3.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaCEZUhg",
+      "versionId": "zImsrUVb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 302973,
+      "fileId": 5425324
+    }
+  ],
   "forge": [
     {
       "modId": "tfc",

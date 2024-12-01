@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JpVB2WA8",
+      "versionId": "9YqfkULm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344821,
+      "fileId": 5609578
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moveminecarts",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moveminecarts",
+      "version": "3.6"
+    }
+  ]
+}

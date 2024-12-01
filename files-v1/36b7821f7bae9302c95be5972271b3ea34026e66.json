@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "visualores-0.2.6.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "tzkhlWzj",
       "versionId": "nThJ2ukV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895539,
+      "fileId": 5828524
     }
   ],
   "forge": [

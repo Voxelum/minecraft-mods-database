@@ -1,6 +1,12 @@
 {
   "name": "aether-1.17.1-1.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 418680,
+      "fileId": 3380386
+    }
+  ],
   "fabric": [
     {
       "modId": "the_aether",

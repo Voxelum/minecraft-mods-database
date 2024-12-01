@@ -1,6 +1,18 @@
 {
   "name": "Measurements-1.16.5-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wLINU2AB",
+      "versionId": "mdXIrNxf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 478559,
+      "fileId": 3515658
+    }
+  ],
   "forge": [
     {
       "modId": "measurements",

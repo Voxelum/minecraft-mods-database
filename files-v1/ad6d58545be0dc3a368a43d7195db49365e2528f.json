@@ -1,6 +1,18 @@
 {
   "name": "CustomScoreboard-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HLW5dnBW",
+      "versionId": "eDzVKrDd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681641,
+      "fileId": 4595125
+    }
+  ],
   "fabric": [
     {
       "modId": "customscoreboard",

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhxX1zVW",
+      "versionId": "RpJkNQ0v"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quarryplus",
+      "version": "21.3.111"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.3"
+    }
+  ]
+}

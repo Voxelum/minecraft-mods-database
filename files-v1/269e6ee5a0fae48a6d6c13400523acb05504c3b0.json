@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh6ZOMvp",
+      "versionId": "VOBJt47F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491290,
+      "fileId": 5637075
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smarterfarmers",
+      "version": "1.20-2.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

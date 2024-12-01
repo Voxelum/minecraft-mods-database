@@ -1,0 +1,22 @@
+{
+  "name": "vanity_viking_V1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 839022,
+      "fileId": 4443755
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vanity_viking",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanity_viking",
+      "version": "1.0.0"
+    }
+  ]
+}

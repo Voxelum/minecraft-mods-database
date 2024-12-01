@@ -1,6 +1,18 @@
 {
   "name": "nether-coords-1.19.x-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KHwGUCPn",
+      "versionId": "d8w9gIE3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 670779,
+      "fileId": 4049331
+    }
+  ],
   "fabric": [
     {
       "modId": "nether-coords",

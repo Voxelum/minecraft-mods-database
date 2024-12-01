@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rjsZCeTS",
+      "versionId": "MvaOqtpw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1032169,
+      "fileId": 5404803
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better-highlighting",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "org_eclipse_org_eclipse_tm4e_core",
+      "version": "0.12.1"
+    },
+    {
+      "modId": "org_jruby_joni_joni",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "org_snakeyaml_snakeyaml-engine",
+      "version": "2.7"
+    },
+    {
+      "modId": "org_jruby_jcodings_jcodings",
+      "version": "1.0.58"
+    }
+  ]
+}

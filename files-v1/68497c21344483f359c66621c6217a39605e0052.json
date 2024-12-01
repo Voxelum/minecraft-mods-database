@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 433948,
+      "fileId": 4874883
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "originsenhanced",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "fabric-blockrenderlayer-v1",
+      "version": "1.1.40+b3afc78b77"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.21+b3afc78b77"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.30+7abfd51577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da77"
+    },
+    {
+      "modId": "com_originrealms_enhanced_networking",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.9+132c48c177"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_jagrosh_discordipc",
+      "version": "0.5"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "3.0.7+b3afc78b77"
+    }
+  ]
+}

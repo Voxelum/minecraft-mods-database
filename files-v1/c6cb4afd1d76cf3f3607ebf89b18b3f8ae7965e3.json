@@ -1,6 +1,12 @@
 {
   "name": "chubbystuff-2.0.1-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 614985,
+      "fileId": 4049351
+    }
+  ],
   "fabric": [
     {
       "modId": "chubbystuff",

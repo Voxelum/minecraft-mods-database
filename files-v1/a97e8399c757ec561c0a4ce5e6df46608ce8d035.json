@@ -1,6 +1,12 @@
 {
   "name": "MetalBundles-v8.0.2-1.20.1-Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 891325,
+      "fileId": 5157077
+    }
+  ],
   "fabric": [
     {
       "modId": "metalbundles",

@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nqVt6aES",
+      "versionId": "ul64crHw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 782697,
+      "fileId": 5696965
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tardis_refined",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tardis_refined",
+      "version": "2.0.7"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

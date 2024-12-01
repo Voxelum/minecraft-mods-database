@@ -1,6 +1,18 @@
 {
   "name": "frightsdelight-fabric-1.20.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "awWvXlb2",
+      "versionId": "i7s2WlgX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927591,
+      "fileId": 5236913
+    }
+  ],
   "fabric": [
     {
       "modId": "frightsdelight",

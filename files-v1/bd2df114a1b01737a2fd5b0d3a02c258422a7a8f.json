@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SdT4Yu5L",
+      "versionId": "gS1dPAYC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1035665,
+      "fileId": 5676987
+    }
+  ],
+  "forge": [
+    {
+      "modId": "constructionwand",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "constructionwand",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

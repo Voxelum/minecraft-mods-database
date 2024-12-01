@@ -1,4 +1,20 @@
 {
   "name": "Naturalist Old Models.zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225901,
+      "fileId": 2219989
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.19+kotlin.1.9.23"
+    }
+  ]
 }

@@ -1,6 +1,12 @@
 {
   "name": "gottschcore-1.20.1-2.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 272450,
+      "fileId": 5650843
+    }
+  ],
   "forge": [
     {
       "modId": "gottschcore",

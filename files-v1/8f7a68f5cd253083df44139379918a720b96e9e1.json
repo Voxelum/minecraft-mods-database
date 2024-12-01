@@ -1,0 +1,16 @@
+{
+  "name": "chalk-1.6.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 533748,
+      "fileId": 5574848
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chalk",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

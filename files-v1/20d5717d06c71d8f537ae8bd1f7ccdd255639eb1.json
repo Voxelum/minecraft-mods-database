@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "extragenerators",
+      "version": "1.0.2-BETA+1.16"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.8.8"
+    }
+  ]
+}

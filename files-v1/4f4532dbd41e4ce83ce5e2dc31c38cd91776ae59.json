@@ -1,6 +1,12 @@
 {
   "name": "shuffle-fabric-9.0.01.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WUvGZLgB",
+      "versionId": "sPce9t3y"
+    }
+  ],
   "fabric": [
     {
       "modId": "shuffle",

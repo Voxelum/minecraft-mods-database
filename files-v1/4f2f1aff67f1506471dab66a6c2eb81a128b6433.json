@@ -1,6 +1,18 @@
 {
   "name": "wraith-croptosis-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9WJVOa29",
+      "versionId": "b8xOI3Et"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 437552,
+      "fileId": 3823457
+    }
+  ],
   "fabric": [
     {
       "modId": "croptosis",

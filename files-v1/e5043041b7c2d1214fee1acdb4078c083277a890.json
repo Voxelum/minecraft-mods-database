@@ -1,6 +1,18 @@
 {
   "name": "melody_fabric_1.0.6_MC_1.20.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CVT4pFB2",
+      "versionId": "hYM9p09l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938643,
+      "fileId": 5294552
+    }
+  ],
   "fabric": [
     {
       "modId": "melody",

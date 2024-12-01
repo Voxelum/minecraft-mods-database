@@ -1,6 +1,18 @@
 {
   "name": "Avaritia_furnace-2.2.1-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ItF9rhBe",
+      "versionId": "9FpvcuJc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416599,
+      "fileId": 3498210
+    }
+  ],
   "forge": [
     {
       "modId": "avaritiafurnace",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DMK2eYu7",
+      "versionId": "7a57QQtY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551215,
+      "fileId": 5609364
+    }
+  ],
+  "forge": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.6"
+    }
+  ]
+}

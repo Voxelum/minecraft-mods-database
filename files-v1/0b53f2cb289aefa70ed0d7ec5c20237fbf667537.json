@@ -1,6 +1,18 @@
 {
   "name": "VanillaExcavators-1.18.2-4.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B74Glkrx",
+      "versionId": "GGzMoUqP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 359786,
+      "fileId": 3916654
+    }
+  ],
   "forge": [
     {
       "modId": "vanillaexcavators",

@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "A2pscGC5",
+      "versionId": "ML4PSn9X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1016340,
+      "fileId": 5379209
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexdebug",
+      "version": "0.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "org_eclipse_lsp4j_org_eclipse_lsp4j",
+      "version": "0.23.0"
+    },
+    {
+      "modId": "org_eclipse_lsp4j_org_eclipse_lsp4j_debug",
+      "version": "0.23.0"
+    },
+    {
+      "modId": "org_eclipse_lsp4j_org_eclipse_lsp4j_jsonrpc",
+      "version": "0.23.0"
+    },
+    {
+      "modId": "org_eclipse_lsp4j_org_eclipse_lsp4j_jsonrpc_debug",
+      "version": "0.23.0"
+    },
+    {
+      "modId": "io_ktor_ktor-network-jvm",
+      "version": "2.3.10"
+    },
+    {
+      "modId": "io_ktor_ktor-utils-jvm",
+      "version": "2.3.10"
+    },
+    {
+      "modId": "io_ktor_ktor-io-jvm",
+      "version": "2.3.10"
+    }
+  ]
+}

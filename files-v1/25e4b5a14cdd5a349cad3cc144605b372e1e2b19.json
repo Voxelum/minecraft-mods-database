@@ -1,6 +1,12 @@
 {
   "name": "pyrotastic-1.18.2+0.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 596990,
+      "fileId": 3790890
+    }
+  ],
   "fabric": [
     {
       "modId": "pyrotastic",

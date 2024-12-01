@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wa72oW2W",
+      "versionId": "NlEThsvA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663213,
+      "fileId": 5334799
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feytweaks",
+      "version": "1.20.6-1.2.8"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.5"
+    }
+  ]
+}

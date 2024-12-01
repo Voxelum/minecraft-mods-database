@@ -1,6 +1,18 @@
 {
   "name": "Notes-1.19.2-2.0.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ko8Qabo1",
+      "versionId": "8uivKeQV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256087,
+      "fileId": 3937913
+    }
+  ],
   "fabric": [
     {
       "modId": "notes",

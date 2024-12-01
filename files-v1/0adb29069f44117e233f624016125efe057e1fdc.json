@@ -1,6 +1,12 @@
 {
   "name": "versioner-1.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 455383,
+      "fileId": 3257397
+    }
+  ],
   "forge": [
     {
       "modId": "versioner",

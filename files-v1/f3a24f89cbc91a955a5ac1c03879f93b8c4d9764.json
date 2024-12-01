@@ -1,6 +1,12 @@
 {
   "name": "ModernKeyBinding-Forge-1.8.9-2.1.0-mixinless.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 686846,
+      "fileId": 4034364
+    }
+  ],
   "forge": [
     {
       "modId": "mkb",

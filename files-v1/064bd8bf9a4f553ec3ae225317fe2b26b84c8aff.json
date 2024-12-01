@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c4Uf1TKc",
+      "versionId": "h8Ioc7iF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904056,
+      "fileId": 5692482
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "miapi",
+      "version": "1.1.31"
+    },
+    {
+      "modId": "com_ezylang_evalex",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "nucleus",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "nucleus_config",
+      "version": "1.1.5"
+    },
+    {
+      "modId": "nucleus_pose",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "nucleus_facet",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "nucleus_codec",
+      "version": "1.1.4"
+    }
+  ]
+}

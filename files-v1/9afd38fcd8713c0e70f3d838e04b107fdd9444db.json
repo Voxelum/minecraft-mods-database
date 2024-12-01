@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2M01OLQq",
+      "versionId": "qJ3IREvK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shulkerboxtooltip",
+      "version": "3.4.6+1.18.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.5.116"
+    }
+  ]
+}

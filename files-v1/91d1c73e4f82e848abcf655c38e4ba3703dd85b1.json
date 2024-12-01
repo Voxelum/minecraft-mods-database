@@ -1,6 +1,18 @@
 {
   "name": "ExtendedAE-1.20-0.1.3-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JiOqfoFM",
+      "versionId": "RUDAw88r"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 892005,
+      "fileId": 5084181
+    }
+  ],
   "fabric": [
     {
       "modId": "extendedae",

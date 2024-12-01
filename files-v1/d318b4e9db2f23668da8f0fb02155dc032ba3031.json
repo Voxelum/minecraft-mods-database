@@ -1,6 +1,18 @@
 {
   "name": "SnowUnderTrees-2.4.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XVnUIUAQ",
+      "versionId": "2nLuXwjq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693715,
+      "fileId": 5465745
+    }
+  ],
   "fabric": [
     {
       "modId": "snowundertrees",

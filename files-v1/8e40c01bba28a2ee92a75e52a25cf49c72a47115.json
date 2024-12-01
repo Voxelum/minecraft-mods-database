@@ -1,0 +1,32 @@
+{
+  "name": "artifacts-4.0.3+fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401236,
+      "fileId": 3570021
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "4.0.3+fabric"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "expandability",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    }
+  ]
+}

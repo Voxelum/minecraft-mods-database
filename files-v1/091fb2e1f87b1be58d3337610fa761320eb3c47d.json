@@ -1,6 +1,18 @@
 {
   "name": "AdvJS-2001forge-2.9.3-hotfix.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "djv5t1An",
+      "versionId": "4AGRuhlV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962731,
+      "fileId": 5326238
+    }
+  ],
   "forge": [
     {
       "modId": "advjs",

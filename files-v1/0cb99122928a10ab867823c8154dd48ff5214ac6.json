@@ -1,6 +1,18 @@
 {
   "name": "[输入法冲突修复] imblocker-1.16.5-3.1.2+patch4.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WMDesFsZ",
+      "versionId": "KLU2dkdX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483760,
+      "fileId": 4660150
+    }
+  ],
   "forge": [
     {
       "modId": "imblocker",

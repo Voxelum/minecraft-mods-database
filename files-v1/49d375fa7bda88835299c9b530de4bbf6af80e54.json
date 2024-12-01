@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qbqWvc0D",
+      "versionId": "xEyHEuK2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 593996,
+      "fileId": 5233090
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bagofholding",
+      "version": "20.4.3"
+    },
+    {
+      "modId": "iteminteractions",
+      "version": "20.4.5"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "20.4.1"
+    }
+  ]
+}

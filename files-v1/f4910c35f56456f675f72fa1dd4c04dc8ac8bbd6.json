@@ -1,6 +1,12 @@
 {
   "name": "PowerAE2CCBridge-1.1.0.0-1.20.1-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ooC9pr8V",
+      "versionId": "8BZs3EKD"
+    }
+  ],
   "fabric": [
     {
       "modId": "ae2cc",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FuRR0tKd",
+      "versionId": "5gyQErFL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881560,
+      "fileId": 4613702
+    }
+  ],
   "fabric": [
     {
       "modId": "async-pack-scan",

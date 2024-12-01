@@ -1,6 +1,18 @@
 {
   "name": "antique_pickaxe_V0.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DuA3nDX6",
+      "versionId": "ZYMC0q9Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 537113,
+      "fileId": 4077435
+    }
+  ],
   "forge": [
     {
       "modId": "antique_pickaxe",

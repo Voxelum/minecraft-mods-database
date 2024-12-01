@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "btYEf3o7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 4468689
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.9.1+kotlin.1.8.10"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "262"
+    },
+    {
+      "modId": "ustats",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_google_inject_guice",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "dynamic-fps-3.2.1+minecraft-1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "KBaicJn7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 4773499
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamic_fps",

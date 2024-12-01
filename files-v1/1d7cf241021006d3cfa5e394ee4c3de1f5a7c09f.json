@@ -1,0 +1,32 @@
+{
+  "name": "aaron-mod-1.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "axe0DxiW",
+      "versionId": "fUgN38AL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aaron-mod",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "me_nullicorn_nedit",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.2.1+1.20.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "com_github_cbyrneee_betterinject",
+      "version": "0.1.3"
+    }
+  ]
+}

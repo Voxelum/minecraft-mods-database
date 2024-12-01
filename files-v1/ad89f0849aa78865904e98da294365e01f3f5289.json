@@ -1,6 +1,18 @@
 {
   "name": "doapi-1.2.6d-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "gIayaZBp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864599,
+      "fileId": 4707436
+    }
+  ],
   "fabric": [
     {
       "modId": "doapi",

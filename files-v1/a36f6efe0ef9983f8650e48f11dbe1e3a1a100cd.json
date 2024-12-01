@@ -1,6 +1,18 @@
 {
   "name": "mace3d-fabric-1.21.X-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HFk2Vqdv",
+      "versionId": "N6Ixb5Mx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1037680,
+      "fileId": 5606950
+    }
+  ],
   "fabric": [
     {
       "modId": "mace3d",

@@ -1,6 +1,18 @@
 {
   "name": "palladium-4.1.4+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lt2zd42r",
+      "versionId": "vy2SgdN2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963363,
+      "fileId": 5480457
+    }
+  ],
   "forge": [
     {
       "modId": "palladium",

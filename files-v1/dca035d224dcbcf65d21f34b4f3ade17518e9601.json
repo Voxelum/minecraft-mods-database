@@ -1,6 +1,18 @@
 {
   "name": "MaFgLib-0.1.11-mc1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SKI34J7B",
+      "versionId": "PpRugc6z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910766,
+      "fileId": 5051999
+    }
+  ],
   "forge": [
     {
       "modId": "mafglib",

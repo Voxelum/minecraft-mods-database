@@ -1,6 +1,18 @@
 {
   "name": "dustydecorations-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KgFOuaiZ",
+      "versionId": "nCQHL8yg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 843344,
+      "fileId": 5072921
+    }
+  ],
   "forge": [
     {
       "modId": "dustydecorations",

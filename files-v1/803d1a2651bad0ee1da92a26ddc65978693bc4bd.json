@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_ctov-1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1135500,
+      "fileId": 5882450
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_ctov",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_ctov",
+      "version": "1"
+    }
+  ]
+}

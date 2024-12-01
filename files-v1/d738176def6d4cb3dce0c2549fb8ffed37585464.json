@@ -1,0 +1,16 @@
+{
+  "name": "death-count-1.0.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_death_count",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_death_count",
+      "version": "1.0"
+    }
+  ]
+}

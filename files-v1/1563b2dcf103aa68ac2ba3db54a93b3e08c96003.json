@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ironjetpacks",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iron-jetpacks",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.0-unstable"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.0"
+    }
+  ]
+}

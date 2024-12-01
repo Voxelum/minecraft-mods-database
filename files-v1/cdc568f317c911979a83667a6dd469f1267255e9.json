@@ -1,6 +1,18 @@
 {
   "name": "resource_explorer_forge_1.20.1-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O9EQyLyn",
+      "versionId": "KGLK7s8M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936066,
+      "fileId": 4869823
+    }
+  ],
   "forge": [
     {
       "modId": "resource_explorer",

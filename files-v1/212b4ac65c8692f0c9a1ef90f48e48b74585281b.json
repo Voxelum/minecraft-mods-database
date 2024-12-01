@@ -1,6 +1,18 @@
 {
   "name": "deepslatecutting-1.19-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IiuFShHs",
+      "versionId": "RgFw0ISL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504899,
+      "fileId": 3821633
+    }
+  ],
   "fabric": [
     {
       "modId": "deepslatecutting",

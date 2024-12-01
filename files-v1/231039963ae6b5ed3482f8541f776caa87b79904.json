@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "barriers-dont-block-rain-1.0.5.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "CXLh6wxz",
@@ -10,6 +11,12 @@
     {
       "projectId": 905901,
       "fileId": 5615743
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "barriers-dont-block-rain",
+      "version": "1.0.5"
     }
   ]
 }

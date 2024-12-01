@@ -1,6 +1,18 @@
 {
   "name": "Vanishmod-1.19.2-1.1.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MihN2cw5",
+      "versionId": "hZKxu8GI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423535,
+      "fileId": 5096929
+    }
+  ],
   "forge": [
     {
       "modId": "vmod",

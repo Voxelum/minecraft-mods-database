@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7qPEjpyt",
+      "versionId": "8WU8gVhX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344801,
+      "fileId": 5609582
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moveboats",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moveboats",
+      "version": "3.4"
+    }
+  ]
+}

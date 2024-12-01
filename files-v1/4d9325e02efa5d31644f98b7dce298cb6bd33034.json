@@ -1,6 +1,18 @@
 {
   "name": "firearrows-1.16.5-11-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NoajjpZQ",
+      "versionId": "FXaRIzJ9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 461166,
+      "fileId": 4370700
+    }
+  ],
   "forge": [
     {
       "modId": "firearrows",

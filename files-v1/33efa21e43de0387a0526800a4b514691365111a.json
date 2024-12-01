@@ -1,6 +1,12 @@
 {
   "name": "ceilingtorch-1.20.1-1.27.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V1XQ9Kbq",
+      "versionId": "LJ4fgULv"
+    }
+  ],
   "forge": [
     {
       "modId": "ceilingtorch",

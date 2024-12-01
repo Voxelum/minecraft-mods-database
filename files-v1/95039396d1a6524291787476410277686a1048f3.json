@@ -1,6 +1,18 @@
 {
   "name": "Mini-boss Boss Bars.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "A8rzsSSb",
+      "versionId": "YkyonTSZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1001151,
+      "fileId": 5368348
+    }
+  ],
   "forge": [
     {
       "modId": "miniboss_boss_bars",

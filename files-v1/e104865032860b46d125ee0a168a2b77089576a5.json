@@ -1,6 +1,18 @@
 {
   "name": "sebastrnlib-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a9K5upFZ",
+      "versionId": "NH2jHtGw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 709936,
+      "fileId": 4111365
+    }
+  ],
   "forge": [
     {
       "modId": "sebastrnlib",

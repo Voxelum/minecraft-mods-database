@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNIKP4CT",
+      "versionId": "G3zdyeB8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915336,
+      "fileId": 5653317
+    }
+  ],
+  "forge": [
+    {
+      "modId": "batsgalore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "batsgalore",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

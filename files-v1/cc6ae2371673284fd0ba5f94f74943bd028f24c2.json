@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vz96hXMh",
+      "versionId": "c5b0XCik"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "highlight",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.3.0"
+    }
+  ]
+}

@@ -1,4 +1,10 @@
 {
   "name": "[1.7.10]精灵球——Pokeball-V0.1.jar",
-  "domain": "shaderpacks"
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "pokeball",
+      "version": "V0.1 - 1.7.10"
+    }
+  ]
 }

@@ -1,6 +1,12 @@
 {
   "name": "hotel4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1107246,
+      "fileId": 5745279
+    }
+  ],
   "forge": [
     {
       "modId": "ht",

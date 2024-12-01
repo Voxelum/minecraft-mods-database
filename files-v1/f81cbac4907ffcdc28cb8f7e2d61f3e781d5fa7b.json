@@ -1,6 +1,18 @@
 {
   "name": "TaxDragonLegend+M.1.20.1+ForM.1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bg28PyPr",
+      "versionId": "QIg2ssJy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 831897,
+      "fileId": 5110950
+    }
+  ],
   "forge": [
     {
       "modId": "taxdl",

@@ -1,6 +1,12 @@
 {
   "name": "gravity-api-0.7.18-1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 704070,
+      "fileId": 4089787
+    }
+  ],
   "fabric": [
     {
       "modId": "gravity_api",

@@ -1,0 +1,24 @@
+{
+  "name": "minecells-1.9.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 618790,
+      "fileId": 5909435
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "1.9.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "gimm1q",
+      "version": "0.7.8+1.20.1"
+    }
+  ]
+}

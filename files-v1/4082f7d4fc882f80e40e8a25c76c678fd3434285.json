@@ -1,0 +1,22 @@
+{
+  "name": "simple-rpc-1.16.5-2.2-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "IM1UDlAY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 3343698
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simple-rpc",
+      "version": "1.16.5-${version}"
+    }
+  ]
+}

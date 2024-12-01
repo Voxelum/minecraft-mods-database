@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 5554007
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "roughlyenoughitems",
+      "version": "5.13.734"
+    },
+    {
+      "modId": "roughlyenoughitems-api",
+      "version": "5.13.734"
+    },
+    {
+      "modId": "roughlyenoughitems-default-plugin",
+      "version": "5.13.734"
+    },
+    {
+      "modId": "roughlyenoughitems-runtime",
+      "version": "5.13.734"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.2.0+daa38b3d7d"
+    },
+    {
+      "modId": "cloth-client-events-v0",
+      "version": "1.6.59"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "bottledair-1.20.1-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hvrrNux3",
+      "versionId": "ORDWhduL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514444,
+      "fileId": 4583727
+    }
+  ],
   "forge": [
     {
       "modId": "bottledair",

@@ -1,6 +1,12 @@
 {
   "name": "attribute-fix-fabric-1.17.1-1.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 422076,
+      "fileId": 3430571
+    }
+  ],
   "fabric": [
     {
       "modId": "attributefix",

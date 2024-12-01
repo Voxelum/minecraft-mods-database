@@ -1,6 +1,18 @@
 {
   "name": "DarkPaintings-fabric-1.17.1-4.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lFGQ4Hnk",
+      "versionId": "ivcWMmvH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377281,
+      "fileId": 3400950
+    }
+  ],
   "fabric": [
     {
       "modId": "darkpaintings",

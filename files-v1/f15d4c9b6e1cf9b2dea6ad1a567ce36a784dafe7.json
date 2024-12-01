@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RY1ITisM",
+      "versionId": "7IoBYIrp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elementalenchantments",
+      "version": "1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.4"
+    }
+  ]
+}

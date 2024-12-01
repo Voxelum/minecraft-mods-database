@@ -1,6 +1,12 @@
 {
   "name": "endorium-forge-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEAzPrqy",
+      "versionId": "INmfK66j"
+    }
+  ],
   "forge": [
     {
       "modId": "endreborn",

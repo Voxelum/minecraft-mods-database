@@ -1,6 +1,12 @@
 {
   "name": "buildersguides-1.10.2-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 222961,
+      "fileId": 2326706
+    }
+  ],
   "forge": [
     {
       "modId": "BuildersGuides",

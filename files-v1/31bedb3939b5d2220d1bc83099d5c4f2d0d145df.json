@@ -1,6 +1,18 @@
 {
   "name": "enchlevel-langpatch-2.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lf4kDKU9",
+      "versionId": "gl5hXvml"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529854,
+      "fileId": 4442171
+    }
+  ],
   "forge": [
     {
       "modId": "enchlevellangpatch",

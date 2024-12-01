@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "spellbound",
+      "version": "1.17.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "modify-drops-api",
+      "version": "0.5.1.1"
+    }
+  ]
+}

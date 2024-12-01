@@ -1,6 +1,18 @@
 {
   "name": "statuseffecttimer-1.2.0+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T9FDHbY5",
+      "versionId": "Aqavb1JB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 484738,
+      "fileId": 5045210
+    }
+  ],
   "fabric": [
     {
       "modId": "statuseffecttimer",

@@ -1,6 +1,12 @@
 {
   "name": "knightcore-1.19.2-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "83kfiVeL",
+      "versionId": "J6USOrB4"
+    }
+  ],
   "forge": [
     {
       "modId": "knightcore",

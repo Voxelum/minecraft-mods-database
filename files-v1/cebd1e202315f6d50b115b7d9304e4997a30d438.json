@@ -1,6 +1,18 @@
 {
   "name": "centered-crosshair+1.20.1-1.0.6+b2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xUTHly0N",
+      "versionId": "hiA1LsOR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968689,
+      "fileId": 5069033
+    }
+  ],
   "fabric": [
     {
       "modId": "centered-crosshair",

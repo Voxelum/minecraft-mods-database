@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fJi8nm80",
+      "versionId": "ZInygadG"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "clickthrough",
+      "version": "3.0+1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clickthrough",
+      "version": "3.0+1.19.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lPSTdJm7",
+      "versionId": "cTx0D3n9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1003151,
+      "fileId": 5659769
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "expcounter",
+      "version": "1.20.6-2-fabric"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.8+1.20.5"
+    }
+  ]
+}

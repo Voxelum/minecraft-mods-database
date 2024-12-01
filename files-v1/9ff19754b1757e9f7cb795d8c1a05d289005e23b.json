@@ -1,0 +1,20 @@
+{
+  "name": "mythicupgrades-4.0.0+mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ERH7cFoy",
+      "versionId": "7upUIt84"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicupgrades",
+      "version": "4.0.0+mc1.20.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

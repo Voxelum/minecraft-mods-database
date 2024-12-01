@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rOrXjyPb",
+      "versionId": "NtQH9tCs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bookshelfinspector",
+      "version": "1.4+1.21"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c19"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.12+6c1df36019"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.2.2+60c3209b19"
+    }
+  ]
+}

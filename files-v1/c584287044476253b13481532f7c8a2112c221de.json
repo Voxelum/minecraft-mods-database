@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lIQY64qr",
+      "versionId": "7GYKOXBg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 787887,
+      "fileId": 5329685
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tiptapshow",
+      "version": "1.6.0+1.20.6"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

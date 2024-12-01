@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JV2wFevs",
+      "versionId": "jGKQUjJr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamicsoundfilters",
+      "version": "1.4.0+1.21.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.1144185"
+    }
+  ]
+}

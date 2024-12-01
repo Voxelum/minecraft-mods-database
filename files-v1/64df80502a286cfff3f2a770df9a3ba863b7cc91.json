@@ -1,6 +1,12 @@
 {
   "name": "blossom-tpa-2.2.1+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y25EUH1s",
+      "versionId": "hL2Tb1mT"
+    }
+  ],
   "fabric": [
     {
       "modId": "blossom-tpa",

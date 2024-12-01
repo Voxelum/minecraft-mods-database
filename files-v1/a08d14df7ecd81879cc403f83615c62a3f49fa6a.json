@@ -1,6 +1,12 @@
 {
   "name": "walkers-1.2-forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K0br4bKQ",
+      "versionId": "OdfkpKSJ"
+    }
+  ],
   "forge": [
     {
       "modId": "walkers",

@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wkc3lwHo",
+      "versionId": "oNXwpluw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923030,
+      "fileId": 5480891
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_rpg_classes",
+      "version": "1.1.9-1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    }
+  ]
+}

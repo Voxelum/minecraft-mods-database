@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K23fxwUX",
+      "versionId": "aMhfkcXk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chiseledenchanting",
+      "version": "0.1.6+1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

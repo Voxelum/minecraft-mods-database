@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xp45cyDI",
+      "versionId": "yexqZeZI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 509414,
+      "fileId": 3405591
+    }
+  ],
+  "forge": [
+    {
+      "modId": "semitranslucency",
+      "version": "${mod_version}"
+    }
+  ]
+}

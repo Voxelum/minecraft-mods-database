@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "dynamic-fps-3.7.6+minecraft-1.16.4-fabric.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "LQ3K71Q1",
       "versionId": "WGmn5x4S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 5860721
     }
   ],
   "fabric": [

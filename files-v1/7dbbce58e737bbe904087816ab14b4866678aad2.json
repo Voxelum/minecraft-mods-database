@@ -1,0 +1,22 @@
+{
+  "name": "saturated-0.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eBiNxmRM",
+      "versionId": "hWJ5d1Wn"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_saturated",
+      "version": "0.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_saturated",
+      "version": "0.20"
+    }
+  ]
+}

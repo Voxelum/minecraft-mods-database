@@ -1,0 +1,96 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SU8cf42D",
+      "versionId": "F2wnSwjp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1070244,
+      "fileId": 5632994
+    }
+  ],
+  "forge": [
+    {
+      "modId": "serilumscustomizationbundle",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "serilumscustomizationbundle",
+      "version": "2.1"
+    },
+    {
+      "modId": "altereddamage",
+      "version": "3.5"
+    },
+    {
+      "modId": "alternativeworldsavelocation",
+      "version": "3.6"
+    },
+    {
+      "modId": "biomespawnpoint",
+      "version": "2.3"
+    },
+    {
+      "modId": "configurabledespawntimer",
+      "version": "4.2"
+    },
+    {
+      "modId": "configurableextramobdrops",
+      "version": "3.4"
+    },
+    {
+      "modId": "configurablefurnaceburntime",
+      "version": "2.4"
+    },
+    {
+      "modId": "configurablemobpotioneffects",
+      "version": "3.5"
+    },
+    {
+      "modId": "customcredits",
+      "version": "1.6"
+    },
+    {
+      "modId": "cycletitlescreensplash",
+      "version": "1.3"
+    },
+    {
+      "modId": "difficultylock",
+      "version": "4.6"
+    },
+    {
+      "modId": "firstjoinmessage",
+      "version": "3.6"
+    },
+    {
+      "modId": "hideexperimentalwarning",
+      "version": "1.2"
+    },
+    {
+      "modId": "saveandloadinventories",
+      "version": "3.4"
+    },
+    {
+      "modId": "setworldspawnpoint",
+      "version": "3.4"
+    },
+    {
+      "modId": "simplemenu",
+      "version": "1.5"
+    },
+    {
+      "modId": "starterkit",
+      "version": "7.1"
+    },
+    {
+      "modId": "starterstructure",
+      "version": "3.9"
+    }
+  ]
+}

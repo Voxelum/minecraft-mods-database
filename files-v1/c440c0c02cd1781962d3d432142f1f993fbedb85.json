@@ -1,6 +1,18 @@
 {
   "name": "starterkit-fabric_1.19.2-3.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "1uskVkb1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 527822,
+      "fileId": 3919605
+    }
+  ],
   "fabric": [
     {
       "modId": "starterkit-fabric",

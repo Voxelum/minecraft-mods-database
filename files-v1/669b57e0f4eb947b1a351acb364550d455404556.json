@@ -1,6 +1,18 @@
 {
   "name": "Chunky-1.2.217.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fALzjamp",
+      "versionId": "fIg7SKWd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433175,
+      "fileId": 3848173
+    }
+  ],
   "fabric": [
     {
       "modId": "chunky",

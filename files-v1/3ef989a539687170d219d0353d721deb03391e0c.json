@@ -1,6 +1,18 @@
 {
   "name": "John_Mod_Reborn_1.0.3_mc1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wbFL8rKi",
+      "versionId": "JOOLuqfb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 855896,
+      "fileId": 4544669
+    }
+  ],
   "forge": [
     {
       "modId": "john_mod_reborn",

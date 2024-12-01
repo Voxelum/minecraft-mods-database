@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CPzAGS06",
+      "versionId": "PZlwTBrw"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_better_sniffers",
+      "version": "4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_better_sniffers",
+      "version": "4.5"
+    }
+  ]
+}

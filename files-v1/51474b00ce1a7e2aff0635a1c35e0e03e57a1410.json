@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "flowery-forge-10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q4udWMch",
+      "versionId": "A9jh0mLa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 599263,
+      "fileId": 3757309
+    }
+  ],
   "forge": [
     {
       "modId": "flowery",

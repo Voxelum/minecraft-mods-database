@@ -1,6 +1,18 @@
 {
   "name": "Elitia_fabric_v0.4.2_mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6U9tjZdW",
+      "versionId": "9xzRglth"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 869550,
+      "fileId": 4582472
+    }
+  ],
   "forge": [
     {
       "modId": "elitia",

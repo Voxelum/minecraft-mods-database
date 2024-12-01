@@ -1,6 +1,12 @@
 {
   "name": "VendingMachine-1.16.3-1.0.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 392236,
+      "fileId": 4377389
+    }
+  ],
   "forge": [
     {
       "modId": "vm",

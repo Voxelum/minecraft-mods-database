@@ -1,6 +1,18 @@
 {
   "name": "veinmining-forge-1.18.2-0.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bRAPbNyF",
+      "versionId": "9EMgNTe8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431611,
+      "fileId": 4279191
+    }
+  ],
   "forge": [
     {
       "modId": "veinmining",

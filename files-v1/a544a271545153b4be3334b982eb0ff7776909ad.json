@@ -1,0 +1,24 @@
+{
+  "name": "EmeraldTools-Fabric-1.21-1.8.15.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 375954,
+      "fileId": 5601943
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emerald_tools",
+      "version": "1.8.15"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.8.18"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

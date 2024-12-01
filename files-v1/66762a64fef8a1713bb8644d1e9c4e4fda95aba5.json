@@ -1,0 +1,26 @@
+{
+  "name": "Legacy4J-1.21-1.7.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHvKJofA",
+      "versionId": "tZ0cXV9a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 955526,
+      "fileId": 5519464
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.693c75e-36"
+    }
+  ]
+}

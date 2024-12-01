@@ -1,6 +1,12 @@
 {
   "name": "battle-towers-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LSxfjfLO",
+      "versionId": "Sg2DpqDT"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_battle_towers",

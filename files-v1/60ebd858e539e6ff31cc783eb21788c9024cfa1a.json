@@ -1,6 +1,18 @@
 {
   "name": "spectrum-deeper-down-1.7.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3rc31Hgo",
+      "versionId": "5BpbBBgv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 556967,
+      "fileId": 5230721
+    }
+  ],
   "fabric": [
     {
       "modId": "spectrum",

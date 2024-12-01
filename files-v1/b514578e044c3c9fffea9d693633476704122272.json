@@ -1,6 +1,12 @@
 {
   "name": "fluidict-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 380260,
+      "fileId": 3098533
+    }
+  ],
   "forge": [
     {
       "modId": "fluidict",

@@ -1,6 +1,18 @@
 {
   "name": "twm-1.19.2-1.11.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UV3dvhVG",
+      "versionId": "DFtBRoTR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 829888,
+      "fileId": 4643749
+    }
+  ],
   "forge": [
     {
       "modId": "twm",

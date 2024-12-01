@@ -1,6 +1,18 @@
 {
   "name": "zombies_plus-2.1.0-1.20-.4(excl.3)-[forge-fabric].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eLHPztEV",
+      "versionId": "wbamJmgD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1072974,
+      "fileId": 5755644
+    }
+  ],
   "forge": [
     {
       "modId": "zombies_plus",

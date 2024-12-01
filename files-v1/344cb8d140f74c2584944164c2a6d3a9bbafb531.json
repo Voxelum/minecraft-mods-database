@@ -1,6 +1,18 @@
 {
   "name": "HideModded-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RO4toxtg",
+      "versionId": "ZX7cnTWs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 976150,
+      "fileId": 5116409
+    }
+  ],
   "fabric": [
     {
       "modId": "hidemodded",

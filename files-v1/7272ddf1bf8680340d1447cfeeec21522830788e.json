@@ -1,6 +1,18 @@
 {
   "name": "fsb-interop-1.3.2+mc1.19.3-build.41.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HpdHOPOp",
+      "versionId": "74BvhExX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 697845,
+      "fileId": 4640004
+    }
+  ],
   "fabric": [
     {
       "modId": "fsb-interop",

@@ -1,0 +1,30 @@
+{
+  "name": "accessories_tclayer-3.8.1-beta.13+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TkWgV1AW",
+      "versionId": "nUeUocAI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005680,
+      "fileId": 5768903
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tclayer",
+      "version": "3.8.1+beta.13"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "explorations-forge-1.20.1-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pcGnjJ39",
+      "versionId": "tKU4bG2v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550247,
+      "fileId": 4607717
+    }
+  ],
   "forge": [
     {
       "modId": "explorations",

@@ -1,6 +1,18 @@
 {
   "name": "Forge-1.18-Plasmo-Voice-1.2.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "BBRW8P3o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 3863789
+    }
+  ],
   "forge": [
     {
       "modId": "plasmo_voice",

@@ -1,6 +1,18 @@
 {
   "name": "PathToDirt-1.4.2-mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hKSuCliU",
+      "versionId": "SMcSGPIF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373323,
+      "fileId": 3833489
+    }
+  ],
   "forge": [
     {
       "modId": "pathtodirt",

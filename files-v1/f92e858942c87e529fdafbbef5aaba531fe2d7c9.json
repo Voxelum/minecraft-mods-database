@@ -1,6 +1,18 @@
 {
   "name": "smartermobs-0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SiYyDKBW",
+      "versionId": "PIWZAqaK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597958,
+      "fileId": 3717728
+    }
+  ],
   "fabric": [
     {
       "modId": "smartermobs",

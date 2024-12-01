@@ -1,6 +1,18 @@
 {
   "name": "bft-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XTJUiumo",
+      "versionId": "kuTtAWhU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1025421,
+      "fileId": 5373917
+    }
+  ],
   "forge": [
     {
       "modId": "mr_bft",

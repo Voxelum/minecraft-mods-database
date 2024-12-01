@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "nolijium-0.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KstN3eSL",
+      "versionId": "eZ3HHRcu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969602,
+      "fileId": 5748232
+    }
+  ],
   "forge": [
     {
       "modId": "nolijium",

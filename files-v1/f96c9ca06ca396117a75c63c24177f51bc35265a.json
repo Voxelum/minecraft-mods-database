@@ -1,0 +1,26 @@
+{
+  "name": "gigeresque-connector-1.20.1-0.5.60.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2kXK3iBI",
+      "versionId": "iXpKYFvf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535416,
+      "fileId": 4914070
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gigeresque",
+      "version": "0.5.60"
+    },
+    {
+      "modId": "bettercrawling",
+      "version": "1.0.4"
+    }
+  ]
+}

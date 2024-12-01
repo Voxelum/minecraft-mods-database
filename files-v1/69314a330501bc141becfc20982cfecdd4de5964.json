@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-torches-5.1+bp.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AK1n0IqM",
+      "versionId": "SjPbf9ab"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "5.1+bp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_dynamic_torches",
+      "version": "5.1+bp"
+    }
+  ]
+}
