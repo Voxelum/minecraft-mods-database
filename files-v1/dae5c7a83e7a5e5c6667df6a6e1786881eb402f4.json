@@ -1,6 +1,18 @@
 {
   "name": "DramaticDoors-Fabric-1.19.2-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aQ7h7gal",
+      "versionId": "eKdHPMuc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 380617,
+      "fileId": 4579234
+    }
+  ],
   "fabric": [
     {
       "modId": "dramaticdoors",

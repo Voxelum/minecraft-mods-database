@@ -1,0 +1,60 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1TowMm2v",
+      "versionId": "A2ojU221"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fuji",
+      "version": "1.1.8"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.11.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-text-minimessage",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-plain",
+      "version": "4.15.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-compress",
+      "version": "1.24.0"
+    },
+    {
+      "modId": "commons-io_commons-io",
+      "version": "2.14.0"
+    },
+    {
+      "modId": "org_quartz-scheduler_quartz",
+      "version": "2.5.0-rc1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.4.0+1.20.4"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.2-GA"
+    }
+  ]
+}

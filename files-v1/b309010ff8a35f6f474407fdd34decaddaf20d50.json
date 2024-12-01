@@ -1,6 +1,18 @@
 {
   "name": "wanderingcollector-1.2.1+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "enYiOcBu",
+      "versionId": "LxEjAAHI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443476,
+      "fileId": 4549525
+    }
+  ],
   "fabric": [
     {
       "modId": "wandering_collector",

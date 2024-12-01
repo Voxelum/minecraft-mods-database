@@ -1,0 +1,34 @@
+{
+  "name": "fpsdisplay-4.2.2+1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DIlqwRFH",
+      "versionId": "DvUqzGDj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440228,
+      "fileId": 5863619
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fpsdisplay",
+      "version": "4.2.2+1.21.3"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.4.0+4402f4ee40"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4340"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.49+d21566ae40"
+    }
+  ]
+}

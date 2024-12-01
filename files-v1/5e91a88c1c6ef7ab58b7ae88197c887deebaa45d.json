@@ -1,6 +1,18 @@
 {
   "name": "ars_nouveau-1.19.2-3.19.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TKB6INcv",
+      "versionId": "y8LyFmNc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401955,
+      "fileId": 4781439
+    }
+  ],
   "forge": [
     {
       "modId": "ars_nouveau",

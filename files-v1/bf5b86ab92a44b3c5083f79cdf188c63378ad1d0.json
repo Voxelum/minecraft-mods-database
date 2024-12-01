@@ -1,0 +1,20 @@
+{
+  "name": "whereisit-2.2.6+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCTyEqkn",
+      "versionId": "UzfHc4f5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "whereisit",
+      "version": "2.2.6+1.20.1"
+    },
+    {
+      "modId": "jackfredlib",
+      "version": "0.7.7+1.20.1"
+    }
+  ]
+}

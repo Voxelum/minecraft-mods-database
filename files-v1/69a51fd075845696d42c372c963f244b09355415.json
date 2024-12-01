@@ -1,6 +1,18 @@
 {
   "name": "FancyBlockParticles-1.20.4-fabric-1.0.3.0-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S2guHrs2",
+      "versionId": "s4OwR9Ep"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 937011,
+      "fileId": 5126800
+    }
+  ],
   "fabric": [
     {
       "modId": "fbp",

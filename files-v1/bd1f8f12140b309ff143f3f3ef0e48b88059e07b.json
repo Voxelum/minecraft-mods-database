@@ -1,6 +1,18 @@
 {
   "name": "lostcities-1.16-4.0.11-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VDCUS3b",
+      "versionId": "Mhb0XnMG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 269024,
+      "fileId": 3606586
+    }
+  ],
   "forge": [
     {
       "modId": "lostcities",

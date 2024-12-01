@@ -1,6 +1,12 @@
 {
   "name": "randomloot-1.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301631,
+      "fileId": 2812175
+    }
+  ],
   "forge": [
     {
       "modId": "randomloot",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "petowner",
+      "version": "1.8.3-1.19+"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a3a9"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.18+9ff28f40a9"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.1.0+33fbc738a9"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.10.14+9ff28f40a9"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.5.2"
+    }
+  ]
+}

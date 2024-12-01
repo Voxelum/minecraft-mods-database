@@ -1,6 +1,18 @@
 {
   "name": "blur-forge-3.0.0-1.19.2 блюр.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o4Wx4DUB",
+      "versionId": "qums7rLq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 823106,
+      "fileId": 4512112
+    }
+  ],
   "forge": [
     {
       "modId": "blur",

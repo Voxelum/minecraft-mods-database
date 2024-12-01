@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZORMkttv",
+      "versionId": "aadF29hI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347595,
+      "fileId": 5609654
+    }
+  ],
+  "forge": [
+    {
+      "modId": "guicompass",
+      "version": "4.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "guicompass",
+      "version": "4.8"
+    }
+  ]
+}

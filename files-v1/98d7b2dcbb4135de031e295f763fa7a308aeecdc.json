@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JLjSjB3e",
+      "versionId": "b4ghnXdS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabdicord",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-collections4",
+      "version": "4.4"
+    },
+    {
+      "modId": "net_sf_trove4j_core",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.1"
+    },
+    {
+      "modId": "net_dv8tion_jda",
+      "version": "5.0.0-beta.24"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.14"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.12.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.9.0"
+    }
+  ]
+}

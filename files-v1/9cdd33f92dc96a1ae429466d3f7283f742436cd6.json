@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N5SFtmYz",
+      "versionId": "zxFKgpQ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1106950,
+      "fileId": 5758083
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobgyms",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

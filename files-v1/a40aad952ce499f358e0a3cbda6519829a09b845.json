@@ -1,6 +1,18 @@
 {
   "name": "tcdcommons.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eldc1g37",
+      "versionId": "5PUU6vdx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711539,
+      "fileId": 4605142
+    }
+  ],
   "fabric": [
     {
       "modId": "tcdcommons",

@@ -1,6 +1,18 @@
 {
   "name": "stopvillagertrades-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QTxN6w28",
+      "versionId": "8m3NLo5y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 887063,
+      "fileId": 4636102
+    }
+  ],
   "forge": [
     {
       "modId": "disabledtrades",

@@ -1,6 +1,18 @@
 {
   "name": "coralreef-forge-1.18.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bkT340xR",
+      "versionId": "3LBk0MM1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 248994,
+      "fileId": 3963014
+    }
+  ],
   "forge": [
     {
       "modId": "coralreef",

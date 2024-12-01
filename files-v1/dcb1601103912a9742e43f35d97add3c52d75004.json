@@ -1,6 +1,18 @@
 {
   "name": "Tinkers-Thinking-0.1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yMtiecO6",
+      "versionId": "SE7OTwhY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850772,
+      "fileId": 4669257
+    }
+  ],
   "forge": [
     {
       "modId": "tinkers_thinking",

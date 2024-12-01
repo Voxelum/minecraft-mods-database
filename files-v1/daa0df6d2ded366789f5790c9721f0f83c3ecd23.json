@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "quickbackupmulti",
+      "version": "2.1.0+build.97"
+    },
+    {
+      "modId": "org_quartz-scheduler_quartz",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "de_bwaldvogel_mongo-java-server-h2-backend",
+      "version": "1.45.0"
+    },
+    {
+      "modId": "de_bwaldvogel_mongo-java-server",
+      "version": "1.45.0"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-sync",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_lz4_lz4-java",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-core",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_mongodb_bson",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "de_bwaldvogel_mongo-java-server-core",
+      "version": "1.45.0"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "2.2.224"
+    },
+    {
+      "modId": "io_github_skydynamic_incremental-storage-lib",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "dev_morphia_morphia_morphia-core",
+      "version": "2.3.9"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    }
+  ]
+}

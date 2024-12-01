@@ -1,6 +1,12 @@
 {
   "name": "fletchery-1.20.1-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SSsSvXda",
+      "versionId": "1HKACrL2"
+    }
+  ],
   "fabric": [
     {
       "modId": "fletchery",

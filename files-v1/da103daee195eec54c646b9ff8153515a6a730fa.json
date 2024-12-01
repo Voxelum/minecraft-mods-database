@@ -1,6 +1,18 @@
 {
   "name": "BiomesOPlenty-1.12.2-7.0.1.2399-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HXF82T3G",
+      "versionId": "CDUfzxfe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 220318,
+      "fileId": 2596390
+    }
+  ],
   "forge": [
     {
       "modId": "biomesoplenty",

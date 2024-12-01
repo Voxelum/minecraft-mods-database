@@ -1,0 +1,22 @@
+{
+  "name": "desert-scourge-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wseEf42M",
+      "versionId": "UAk6uPaT"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_desert_scourge",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_desert_scourge",
+      "version": "1.2"
+    }
+  ]
+}

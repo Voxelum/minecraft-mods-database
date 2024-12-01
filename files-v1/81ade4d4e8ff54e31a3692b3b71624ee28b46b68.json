@@ -1,0 +1,20 @@
+{
+  "name": "forgottengraves-1.18.2-2.5.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 550480,
+      "fileId": 3757822
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgottengraves",
+      "version": "1.18.2-2.5.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

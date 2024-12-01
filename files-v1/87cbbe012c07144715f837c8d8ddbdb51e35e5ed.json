@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "hidden-realm-0.1.4+1.21.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "HLRBi7Ly",
       "versionId": "j887BapQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1097304,
+      "fileId": 5807629
     }
   ],
   "fabric": [

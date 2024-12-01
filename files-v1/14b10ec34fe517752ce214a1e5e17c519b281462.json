@@ -1,6 +1,12 @@
 {
   "name": "Wandering Trapper-forge-1.18.2-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 359929,
+      "fileId": 3939099
+    }
+  ],
   "forge": [
     {
       "modId": "wandering_trapper",

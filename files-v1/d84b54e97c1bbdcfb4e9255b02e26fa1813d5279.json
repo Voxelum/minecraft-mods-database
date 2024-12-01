@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ins7SzzR",
+      "versionId": "YhVRZabX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639987,
+      "fileId": 5635937
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neat",
+      "version": "1.21-36-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "edf-remastered-5.0-beta4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HQsBdHGd",
+      "versionId": "zL0UHyGf"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_edf_remastered",
+      "version": "5.0-beta4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_edf_remastered",
+      "version": "5.0-beta4"
+    }
+  ]
+}

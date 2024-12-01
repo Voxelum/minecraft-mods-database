@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223794,
+      "fileId": 3487384
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "appliedenergistics2",
+      "version": "8.4.0-alpha.3"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.8.7"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.8.7"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.8.7"
+    },
+    {
+      "modId": "fasttransferlib",
+      "version": "0.4.2"
+    }
+  ]
+}

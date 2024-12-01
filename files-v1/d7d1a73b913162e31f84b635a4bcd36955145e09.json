@@ -1,6 +1,18 @@
 {
   "name": "mining master [3.0.6].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xu8V0UlK",
+      "versionId": "HDR4310L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 534956,
+      "fileId": 3945284
+    }
+  ],
   "forge": [
     {
       "modId": "miningmaster",

@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8",
+      "version": "1.9.0"
+    }
+  ]
+}

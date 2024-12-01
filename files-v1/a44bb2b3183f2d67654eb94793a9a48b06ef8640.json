@@ -1,6 +1,18 @@
 {
   "name": "NaturesCompass-1.17.1-2.0.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fPetb5Kh",
+      "versionId": "EiqUWpG9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 252848,
+      "fileId": 3404860
+    }
+  ],
   "fabric": [
     {
       "modId": "naturescompass",

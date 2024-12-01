@@ -1,6 +1,12 @@
 {
   "name": "lapidary-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 610032,
+      "fileId": 3748727
+    }
+  ],
   "forge": [
     {
       "modId": "lapidary",

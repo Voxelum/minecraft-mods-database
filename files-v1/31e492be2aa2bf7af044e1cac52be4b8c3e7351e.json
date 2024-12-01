@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "eyespy",
+      "version": "1.3.7+1.21.2"
+    },
+    {
+      "modId": "jackfredlib-colour",
+      "version": "1.1.0+1.21.2"
+    },
+    {
+      "modId": "jackfredlib-config",
+      "version": "0.2.3+1.21.2"
+    },
+    {
+      "modId": "jackfredlib-toasts",
+      "version": "1.1.1+1.21.2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "jackfredlib-lying",
+      "version": "0.5.5+1.21.2"
+    },
+    {
+      "modId": "jackfredlib-base",
+      "version": "1.4.1+1.21.2"
+    }
+  ]
+}

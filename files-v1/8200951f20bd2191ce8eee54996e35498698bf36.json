@@ -1,6 +1,18 @@
 {
   "name": "builtin-servers-2.0-BETA+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IupkwRPf",
+      "versionId": "becck95J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473131,
+      "fileId": 3857543
+    }
+  ],
   "fabric": [
     {
       "modId": "builtinservers",

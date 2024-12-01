@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uv6GyJOZ",
+      "versionId": "xCgg1bSb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1092106,
+      "fileId": 5818268
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crosshairtweaks",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

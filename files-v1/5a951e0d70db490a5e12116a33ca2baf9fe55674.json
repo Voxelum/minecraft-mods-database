@@ -1,6 +1,18 @@
 {
   "name": "Night Vision V2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z58WQNTg",
+      "versionId": "89HTIuUN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965353,
+      "fileId": 5617213
+    }
+  ],
   "forge": [
     {
       "modId": "night_vision_curios",

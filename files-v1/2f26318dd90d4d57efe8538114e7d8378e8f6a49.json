@@ -1,6 +1,18 @@
 {
   "name": "restApi-0.9-1.20.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPg0PTH3",
+      "versionId": "siA3RtE5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917700,
+      "fileId": 4878761
+    }
+  ],
   "fabric": [
     {
       "modId": "restapi",

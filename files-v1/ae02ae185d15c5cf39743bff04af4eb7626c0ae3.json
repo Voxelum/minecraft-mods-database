@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWkVbeKr",
+      "versionId": "KswOLxGI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1073545,
+      "fileId": 5845408
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glideaway",
+      "version": "1.3.0+1.21.3"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

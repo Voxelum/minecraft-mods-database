@@ -1,6 +1,18 @@
 {
   "name": "alphaskins-1.19-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkdHZGfL",
+      "versionId": "2d2cXqxS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560578,
+      "fileId": 3848862
+    }
+  ],
   "forge": [
     {
       "modId": "alphaskins",

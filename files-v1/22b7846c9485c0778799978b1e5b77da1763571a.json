@@ -1,6 +1,18 @@
 {
   "name": "ledger-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LVN9ygNV",
+      "versionId": "KwzHK3mh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491137,
+      "fileId": 3821659
+    }
+  ],
   "fabric": [
     {
       "modId": "ledger",

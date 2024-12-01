@@ -1,6 +1,12 @@
 {
   "name": "mvs-2.5.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 656977,
+      "fileId": 3942004
+    }
+  ],
   "fabric": [
     {
       "modId": "mvs",

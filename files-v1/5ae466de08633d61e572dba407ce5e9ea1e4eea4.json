@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "CcoEu2DH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap",
+      "version": "5.9.22"
+    },
+    {
+      "modId": "journeymap-api-fabric",
+      "version": "1.20-1.9-fabric-SNAPSHOT"
+    }
+  ]
+}

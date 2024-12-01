@@ -1,0 +1,22 @@
+{
+  "name": "make_bubbles_pop-0.3.0-forge-mc1.19-1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gPCdW0Wr",
+      "versionId": "I0QE76AM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 605235,
+      "fileId": 5532596
+    }
+  ],
+  "forge": [
+    {
+      "modId": "make_bubbles_pop",
+      "version": "${file.jarVersion}-forge"
+    }
+  ]
+}

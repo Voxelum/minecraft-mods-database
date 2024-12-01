@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ybSlbzWT",
+      "versionId": "q1jx01fV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1113311,
+      "fileId": 5850957
+    }
+  ],
+  "forge": [
+    {
+      "modId": "black_archive",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "black_archive",
+      "version": "1.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "battlemages-0.0.1-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1058059,
+      "fileId": 5506657
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "battlemages",
+      "version": "0.0.1-1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

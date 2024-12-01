@@ -1,6 +1,18 @@
 {
   "name": "mostructures-fabric-1.5.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PTGd6dWp",
+      "versionId": "PJDAHUHg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378266,
+      "fileId": 5456726
+    }
+  ],
   "fabric": [
     {
       "modId": "mostructures",

@@ -1,6 +1,18 @@
 {
   "name": "AdditionalEnchantedMiner-1.19.2-1192.3.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhxX1zVW",
+      "versionId": "ati1kbf9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282837,
+      "fileId": 4757393
+    }
+  ],
   "forge": [
     {
       "modId": "quarryplus",

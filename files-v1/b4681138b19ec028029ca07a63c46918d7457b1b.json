@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S1jG5YV5",
+      "versionId": "wun5XaHi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "voicechat-discord",
+      "version": "3.0.5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "saplanting-forge-1.12.2-0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vo4uFiz0",
+      "versionId": "aqCYcTNx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576864,
+      "fileId": 4795157
+    }
+  ],
   "forge": [
     {
       "modId": "saplanting",

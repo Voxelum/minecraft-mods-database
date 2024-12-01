@@ -1,6 +1,18 @@
 {
   "name": "chutes-1.12.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O0IWXueP",
+      "versionId": "ZWW7BoOe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 300296,
+      "fileId": 2599813
+    }
+  ],
   "forge": [
     {
       "modId": "chutes",

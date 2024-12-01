@@ -1,6 +1,12 @@
 {
   "name": "CreateVillagerology.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 916864,
+      "fileId": 4772277
+    }
+  ],
   "forge": [
     {
       "modId": "new_villagers",

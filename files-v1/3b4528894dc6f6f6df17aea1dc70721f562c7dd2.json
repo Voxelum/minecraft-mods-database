@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "carpet-ams-addition",
+      "version": "2.50.0"
+    },
+    {
+      "modId": "annotationtoolbox",
+      "version": "0.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "com_esotericsoftware_yamlbeans_yamlbeans",
+      "version": "1.17"
+    }
+  ]
+}

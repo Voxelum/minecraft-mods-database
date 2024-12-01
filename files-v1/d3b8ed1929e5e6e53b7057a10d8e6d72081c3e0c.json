@@ -1,6 +1,12 @@
 {
-  "name": "redirectionor-1.4 for 1.12.2-1.8.8.jar",
+  "name": "redirectionor-1.4.for.1.12.2-1.8.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 907559,
+      "fileId": 5370600
+    }
+  ],
   "forge": [
     {
       "modId": "redirectionor",

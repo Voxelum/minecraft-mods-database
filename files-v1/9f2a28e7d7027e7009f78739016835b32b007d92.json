@@ -1,6 +1,12 @@
 {
   "name": "ForceLowerCaseCommandsFabric-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CwxVUnPT",
+      "versionId": "KVK7fcgj"
+    }
+  ],
   "fabric": [
     {
       "modId": "forcelowercasecommands",

@@ -1,6 +1,18 @@
 {
   "name": "straighten-up-1.2.0+fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbit8m82",
+      "versionId": "yOYDvj0u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341351,
+      "fileId": 4572060
+    }
+  ],
   "fabric": [
     {
       "modId": "straightenup",

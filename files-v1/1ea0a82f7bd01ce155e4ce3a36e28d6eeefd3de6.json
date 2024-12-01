@@ -1,0 +1,24 @@
+{
+  "name": "blame-log-0.4.1-1.18.2-build.50.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6N4iGk9g",
+      "versionId": "DNrmLPCi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blame-log",
+      "version": "0.4.1-1.18.2-build.50"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.0.0-1.20.1-build.481"
+    },
+    {
+      "modId": "dark-matter-instrumentation",
+      "version": "4.0.0-1.20.1-build.481"
+    }
+  ]
+}

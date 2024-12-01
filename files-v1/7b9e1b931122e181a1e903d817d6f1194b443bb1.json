@@ -1,6 +1,12 @@
 {
   "name": "oculus-1.2.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 581495,
+      "fileId": 3949695
+    }
+  ],
   "forge": [
     {
       "modId": "oculus",

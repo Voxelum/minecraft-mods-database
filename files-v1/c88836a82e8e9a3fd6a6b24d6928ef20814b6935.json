@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N9RJtCKs",
+      "versionId": "1T5Pr7qh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easyfind",
+      "version": "1.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "me_xdrop_fuzzywuzzy",
+      "version": "1.4.0"
+    }
+  ]
+}

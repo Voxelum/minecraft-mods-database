@@ -1,6 +1,18 @@
 {
   "name": "memoryleakfix-1.19-0.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRjRiSSD",
+      "versionId": "f12YQRLF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627566,
+      "fileId": 3912178
+    }
+  ],
   "fabric": [
     {
       "modId": "memoryleakfix",

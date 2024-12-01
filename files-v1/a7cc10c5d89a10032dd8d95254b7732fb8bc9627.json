@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "elixirum-fabric-1.21.1-0.2.2.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "oYe4cXFm",
       "versionId": "2dMpDOWi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1107849,
+      "fileId": 5827509
     }
   ],
   "fabric": [

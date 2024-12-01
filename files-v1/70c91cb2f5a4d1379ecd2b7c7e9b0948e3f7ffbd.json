@@ -1,0 +1,26 @@
+{
+  "name": "bankstorage-1.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RyNZlwbP",
+      "versionId": "Zr8fkDIm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916710,
+      "fileId": 5798724
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bankstorage",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

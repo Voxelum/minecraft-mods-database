@@ -1,6 +1,18 @@
 {
   "name": "ars_creo-1.18.2-2.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fZ324GMc",
+      "versionId": "yJOpqtBQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 575698,
+      "fileId": 4055900
+    }
+  ],
   "forge": [
     {
       "modId": "ars_creo",

@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EkkPwdCY",
+      "versionId": "TDYPRE7M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367806,
+      "fileId": 5583940
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unionlib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unionlib",
+      "version": "12.0.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "roughtweaks-1.19-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uJPRsP9Q",
+      "versionId": "TOfR9tKt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 415822,
+      "fileId": 4475372
+    }
+  ],
   "forge": [
     {
       "modId": "roughtweaks",

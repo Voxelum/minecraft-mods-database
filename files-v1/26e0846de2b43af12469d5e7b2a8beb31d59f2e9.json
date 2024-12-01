@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551520,
+      "fileId": 3598710
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterfpsdist",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterfpsdist",
+      "version": "1.18-1.5"
+    }
+  ]
+}

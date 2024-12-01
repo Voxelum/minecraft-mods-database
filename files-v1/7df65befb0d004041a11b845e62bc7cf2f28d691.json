@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "piano",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "piano",
+      "version": "1.0.0"
+    }
+  ]
+}

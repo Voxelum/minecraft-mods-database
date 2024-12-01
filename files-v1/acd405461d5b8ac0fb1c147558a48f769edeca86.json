@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UfcXqFy3",
+      "versionId": "HIgMksKu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1080575,
+      "fileId": 5610586
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pasco",
+      "version": "0.0.5"
+    },
+    {
+      "modId": "com_googlecode_json-simple_json-simple",
+      "version": "1.1.1"
+    }
+  ]
+}

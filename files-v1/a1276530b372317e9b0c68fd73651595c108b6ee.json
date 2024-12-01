@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential",
+      "version": "1.3.5.3"
+    },
+    {
+      "modId": "essential-loader",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.19+kotlin.1.9.23"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "365"
+    },
+    {
+      "modId": "vigilance",
+      "version": "306"
+    },
+    {
+      "modId": "elementa",
+      "version": "670"
+    },
+    {
+      "modId": "org_jetbrains_annotations",
+      "version": "23.0.0"
+    }
+  ]
+}

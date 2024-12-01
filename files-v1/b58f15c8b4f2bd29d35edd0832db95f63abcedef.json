@@ -1,6 +1,18 @@
 {
   "name": "Thermal And Space-1.20.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xBWXLTu7",
+      "versionId": "1yDOC4z1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895787,
+      "fileId": 5420535
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_and_space",

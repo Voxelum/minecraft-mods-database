@@ -1,6 +1,18 @@
 {
   "name": "darkrtp-fabric-1.20.3-1.20.4-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWdh93Ig",
+      "versionId": "6ghI2Xwq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 677277,
+      "fileId": 5038198
+    }
+  ],
   "fabric": [
     {
       "modId": "darkrtp",

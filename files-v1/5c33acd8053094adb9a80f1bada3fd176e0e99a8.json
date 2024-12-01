@@ -1,0 +1,32 @@
+{
+  "name": "ArmorSoundTweak-5.0.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 277668,
+      "fileId": 3561813
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armorsoundtweak",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.1+b4f4f6cdc8"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.4.10+c15ca335c8"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

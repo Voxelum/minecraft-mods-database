@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gUv10ywC",
+      "versionId": "p3ruHkCa"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controllerx",
+      "version": "20.1.4+pre.1"
+    },
+    {
+      "modId": "io_github_libsdl4j_libsdl4j",
+      "version": "2.28.4-1.6"
+    }
+  ]
+}

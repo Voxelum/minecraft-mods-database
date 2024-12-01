@@ -1,0 +1,62 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j5niDupl",
+      "versionId": "N4XW15zD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 572651,
+      "fileId": 5549396
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "goml",
+      "version": "1.13.1+1.21"
+    },
+    {
+      "modId": "rtree-3i-lite-fabric",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.6+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.1+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    }
+  ]
+}

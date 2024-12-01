@@ -1,0 +1,10 @@
+{
+  "name": "EnhancedPortals-1.6.4-3.0.0b5c.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "EnhancedPortals3",
+      "version": "${version}"
+    }
+  ]
+}

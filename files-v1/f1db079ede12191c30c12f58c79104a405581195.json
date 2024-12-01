@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 737045,
+      "fileId": 4413176
+    }
+  ],
+  "forge": [
+    {
+      "modId": "more_chests",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_chests",
+      "version": "${version}"
+    }
+  ]
+}

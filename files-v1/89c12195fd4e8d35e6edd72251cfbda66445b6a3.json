@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SdT4Yu5L",
+      "versionId": "vQw4OLOu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1035665,
+      "fileId": 5662003
+    }
+  ],
+  "forge": [
+    {
+      "modId": "constructionwand",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "constructionwand",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

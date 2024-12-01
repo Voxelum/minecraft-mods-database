@@ -1,6 +1,18 @@
 {
   "name": "libreexpfix-0.2.5+1.18b12-BETA-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qOQALrK4",
+      "versionId": "OBV18g7X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676174,
+      "fileId": 5193769
+    }
+  ],
   "fabric": [
     {
       "modId": "libreexpfix",

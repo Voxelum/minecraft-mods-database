@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.19.2-4.18.0-integration.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229045,
+      "fileId": 5452529
+    }
+  ],
   "forge": [
     {
       "modId": "projectred_integration",

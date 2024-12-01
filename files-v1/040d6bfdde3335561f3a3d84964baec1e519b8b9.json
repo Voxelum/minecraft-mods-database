@@ -1,6 +1,12 @@
 {
   "name": "startup_time-1.19.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZRWcncy3",
+      "versionId": "oOwb44Ps"
+    }
+  ],
   "fabric": [
     {
       "modId": "startup_time",

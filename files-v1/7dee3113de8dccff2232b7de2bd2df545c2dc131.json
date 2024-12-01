@@ -1,0 +1,28 @@
+{
+  "name": "creeper-healing-0.1.9-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umAqxZ6n",
+      "versionId": "XOIlvpJx"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creeper-healing",
+      "version": "0.1.9-1.20"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    }
+  ]
+}

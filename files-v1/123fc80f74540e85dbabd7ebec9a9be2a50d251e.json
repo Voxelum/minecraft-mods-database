@@ -1,6 +1,12 @@
 {
   "name": "Better Cave Dweller-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 922411,
+      "fileId": 5010444
+    }
+  ],
   "forge": [
     {
       "modId": "cave_dweller",

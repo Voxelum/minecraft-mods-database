@@ -1,0 +1,22 @@
+{
+  "name": "Boss Music Mod 1.20.x v1.2.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 501159,
+      "fileId": 5865191
+    }
+  ],
+  "forge": [
+    {
+      "modId": "boss_music_mod",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "boss_music_mod",
+      "version": "1.2.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "muffins-slimegolem-1.19.x-1.1.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hI3Tmydh",
+      "versionId": "lzVTnJPm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 707734,
+      "fileId": 4516757
+    }
+  ],
   "fabric": [
     {
       "modId": "slimegolem",

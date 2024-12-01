@@ -1,0 +1,28 @@
+{
+  "name": "blabber-0.4.0-standalone.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 565396,
+      "fileId": 3908780
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blabber",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.1-SNAPSHOT"
+    }
+  ]
+}

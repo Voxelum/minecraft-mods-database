@@ -1,6 +1,18 @@
 {
   "name": "trinketofundying-fabric-2.0.0-1.17.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5GyyYkp",
+      "versionId": "jI9tmrbX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395547,
+      "fileId": 3344127
+    }
+  ],
   "fabric": [
     {
       "modId": "trinketofundying",

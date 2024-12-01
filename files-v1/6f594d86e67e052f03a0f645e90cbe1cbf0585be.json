@@ -1,6 +1,18 @@
 {
   "name": "ImmersiveUI-FORGE-0.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9wv7LuMc",
+      "versionId": "TeAN4qB6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1021685,
+      "fileId": 5618264
+    }
+  ],
   "forge": [
     {
       "modId": "immersiveui",

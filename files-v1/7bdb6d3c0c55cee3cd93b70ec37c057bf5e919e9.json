@@ -1,6 +1,12 @@
 {
   "name": "",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 678540,
+      "fileId": 4025590
+    }
+  ],
   "forge": [
     {
       "modId": "craftable_mob_spawner",

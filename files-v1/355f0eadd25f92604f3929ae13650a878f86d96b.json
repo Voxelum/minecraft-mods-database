@@ -1,6 +1,18 @@
 {
   "name": "immersive_aircraft-0.6.2+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3HZvrj6",
+      "versionId": "Jeqng1Io"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666014,
+      "fileId": 4750634
+    }
+  ],
   "fabric": [
     {
       "modId": "immersive_aircraft",

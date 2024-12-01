@@ -1,6 +1,18 @@
 {
   "name": "vanillazoom-1.20.1-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CDbpcSM6",
+      "versionId": "O96M4uGo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695354,
+      "fileId": 4583468
+    }
+  ],
   "forge": [
     {
       "modId": "vanillazoom",

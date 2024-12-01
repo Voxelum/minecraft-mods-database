@@ -1,6 +1,18 @@
 {
   "name": "bettertaskbar-forge-mc1.18.2-mc1.19.2-1.5.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gPEcet33",
+      "versionId": "59c1IKOl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538793,
+      "fileId": 4276730
+    }
+  ],
   "forge": [
     {
       "modId": "bettertaskbar",

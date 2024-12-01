@@ -1,6 +1,18 @@
 {
   "name": "taiga-1.16.5-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ftsGgOyF",
+      "versionId": "dJdcykJW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 513667,
+      "fileId": 4385009
+    }
+  ],
   "forge": [
     {
       "modId": "taiga",

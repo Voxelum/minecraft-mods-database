@@ -1,0 +1,40 @@
+{
+  "name": "cave-survey-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tjrUvbJd",
+      "versionId": "UXIR1Beo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cave-survey",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "ir_mehradn_common_",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cave-survey-client",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.5.3+1.20.1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.5.3+1.20.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    }
+  ]
+}

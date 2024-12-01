@@ -1,6 +1,18 @@
 {
   "name": "elementalmaces-fabric-1.21-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZRT4oxpT",
+      "versionId": "787VVw4m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1046692,
+      "fileId": 5605504
+    }
+  ],
   "fabric": [
     {
       "modId": "elementalmaces",

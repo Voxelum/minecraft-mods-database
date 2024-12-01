@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhHNjn7K",
+      "versionId": "NJkAZ0HU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 990853,
+      "fileId": 5811957
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastconfigapi",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "creategoggles-1.19.2-0.5.5.f-[FABRIC].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L1RT5SJc",
+      "versionId": "NOBJgi0S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377835,
+      "fileId": 5062835
+    }
+  ],
   "forge": [
     {
       "modId": "creategoggles",

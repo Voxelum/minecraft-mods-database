@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFqQfIBR",
+      "versionId": "C0vvGTAe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297038,
+      "fileId": 5480954
+    }
+  ],
+  "forge": [
+    {
+      "modId": "craftpresence",
+      "version": "2.4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "2.4.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "rats-3.2.21-1.12.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 439001,
+      "fileId": 3711122
+    }
+  ],
   "forge": [
     {
       "modId": "rats",

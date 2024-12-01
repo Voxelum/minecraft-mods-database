@@ -1,0 +1,20 @@
+{
+  "name": "CTM Selector-0.1.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6OpnBWtt",
+      "versionId": "cKgzFVyj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctms",
+      "version": "0.1.2+1.20.1"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "merequester-1.19.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6BFl96N",
+      "versionId": "cw9oZEFo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688367,
+      "fileId": 4502644
+    }
+  ],
   "forge": [
     {
       "modId": "merequester",

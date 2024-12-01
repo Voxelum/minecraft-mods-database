@@ -1,6 +1,12 @@
 {
   "name": "LivelierPokemon-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TrneBt3p",
+      "versionId": "DohTNJy3"
+    }
+  ],
   "fabric": [
     {
       "modId": "livelier-pokemon",

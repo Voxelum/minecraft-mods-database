@@ -1,6 +1,18 @@
 {
   "name": "capsey-archeology-1.19.2-0.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LWE2KdIY",
+      "versionId": "23JAJZ7L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 539957,
+      "fileId": 4401799
+    }
+  ],
   "fabric": [
     {
       "modId": "archeology",

@@ -1,6 +1,18 @@
 {
   "name": "shadowizardlib-1.19.2-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DNECjG17",
+      "versionId": "vCb9icZN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 887125,
+      "fileId": 4658761
+    }
+  ],
   "forge": [
     {
       "modId": "shadowizardlib",

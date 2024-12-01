@@ -1,6 +1,18 @@
 {
   "name": "apexcore-1.18.2-4.13.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xl3myxch",
+      "versionId": "1Y9sPCk7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550778,
+      "fileId": 4011544
+    }
+  ],
   "forge": [
     {
       "modId": "apexcore",

@@ -1,6 +1,18 @@
 {
   "name": "AutoTranslation-1.2.1+mc1.20.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rXiN1g54",
+      "versionId": "E1d8Ptoc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 919497,
+      "fileId": 4993675
+    }
+  ],
   "fabric": [
     {
       "modId": "autotranslation",

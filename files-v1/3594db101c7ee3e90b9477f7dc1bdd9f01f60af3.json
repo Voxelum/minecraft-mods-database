@@ -1,6 +1,12 @@
 {
   "name": "freecam-forge-1.1.6+1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 557076,
+      "fileId": 4141421
+    }
+  ],
   "forge": [
     {
       "modId": "freecam",

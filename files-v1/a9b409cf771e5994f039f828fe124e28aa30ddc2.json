@@ -1,6 +1,18 @@
 {
   "name": "copycats-2.1.2+mc.1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UT2M39wf",
+      "versionId": "KQoThE68"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968398,
+      "fileId": 5593339
+    }
+  ],
   "forge": [
     {
       "modId": "copycats",

@@ -1,6 +1,18 @@
 {
   "name": "Bongo-1.16.5-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yGjlqgPG",
+      "versionId": "XT2vUgLg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406119,
+      "fileId": 3317959
+    }
+  ],
   "forge": [
     {
       "modId": "bongo",

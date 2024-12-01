@@ -1,6 +1,18 @@
 {
   "name": "dungeon_difficulty-1.2.1+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ENZmbSFZ",
+      "versionId": "ymAJ3UJx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645559,
+      "fileId": 4160608
+    }
+  ],
   "fabric": [
     {
       "modId": "dungeon_difficulty",

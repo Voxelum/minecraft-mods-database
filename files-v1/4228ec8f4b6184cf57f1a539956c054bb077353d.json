@@ -1,6 +1,12 @@
 {
   "name": "moonlight-1.20-2.5.4-forge.jar",
-  "domain": "resourcepacks",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "AWhKa778"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 499980,

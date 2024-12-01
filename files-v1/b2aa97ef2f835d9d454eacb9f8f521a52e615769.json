@@ -1,6 +1,18 @@
 {
   "name": "spell_engine-0.13.3+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XvoWJaA2",
+      "versionId": "sbx3ZGCG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 807653,
+      "fileId": 5225679
+    }
+  ],
   "fabric": [
     {
       "modId": "spell_engine",

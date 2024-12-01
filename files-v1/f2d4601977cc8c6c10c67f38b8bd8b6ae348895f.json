@@ -1,0 +1,22 @@
+{
+  "name": "qraftys-bunkers-2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xlB8CNvE",
+      "versionId": "jUD6K6Ev"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_qraftys_bunkers",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_qraftys_bunkers",
+      "version": "2.2"
+    }
+  ]
+}

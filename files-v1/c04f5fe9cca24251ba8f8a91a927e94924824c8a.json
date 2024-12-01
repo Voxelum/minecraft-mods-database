@@ -1,6 +1,18 @@
 {
   "name": "hideexperimentalwarning-1.19.2-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rm4OOdHd",
+      "versionId": "LhvBWCBa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1009556,
+      "fileId": 5362391
+    }
+  ],
   "forge": [
     {
       "modId": "hideexperimentalwarning",

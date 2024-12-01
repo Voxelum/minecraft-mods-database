@@ -1,6 +1,18 @@
 {
   "name": "lootgoblins-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C2NPhwqM",
+      "versionId": "x1zXGepA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610490,
+      "fileId": 3821815
+    }
+  ],
   "fabric": [
     {
       "modId": "lootgoblins",

@@ -1,0 +1,26 @@
+{
+  "name": "WilderWild-3.0.3-mc1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "hWYBImCG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648511,
+      "fileId": 5861980
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "3.0.3-mc1.21.1"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.1-mc1.21.1"
+    }
+  ]
+}

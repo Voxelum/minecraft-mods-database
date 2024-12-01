@@ -1,6 +1,12 @@
 {
   "name": "amendments-1.20-1.1.10-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6iTJugQR",
+      "versionId": "uLfrgh8c"
+    }
+  ],
   "fabric": [
     {
       "modId": "amendments",

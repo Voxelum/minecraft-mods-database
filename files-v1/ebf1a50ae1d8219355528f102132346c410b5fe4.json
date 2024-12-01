@@ -1,6 +1,18 @@
 {
   "name": "[玻璃板贴合] windowlogging-mc1.19.2_v0.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C6AFOWnr",
+      "versionId": "HoFaI6aR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 408759,
+      "fileId": 4743012
+    }
+  ],
   "forge": [
     {
       "modId": "windowlogging",

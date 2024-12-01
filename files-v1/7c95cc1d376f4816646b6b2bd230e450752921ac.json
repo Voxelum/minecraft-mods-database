@@ -1,0 +1,64 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UiTVKucn",
+      "versionId": "mN2WUh1I"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chattriggers",
+      "version": "3.0.0-beta_1.19.4-fabric"
+    },
+    {
+      "modId": "fabricloader",
+      "version": "0.14.23"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.85.0+1.19.4"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.9.4+kotlin.1.8.21"
+    },
+    {
+      "modId": "com_github_chattriggers_rhino",
+      "version": "96d0c07966"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.13.2"
+    },
+    {
+      "modId": "com_fifesoft_rsyntaxtextarea",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-serialization-json",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "com_github_char_koffee",
+      "version": "3a78d8a437"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.8"
+    },
+    {
+      "modId": "vigilance",
+      "version": "295"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "316"
+    },
+    {
+      "modId": "elementa",
+      "version": "610"
+    }
+  ]
+}

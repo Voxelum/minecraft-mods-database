@@ -1,6 +1,18 @@
 {
   "name": "eureka-1.1.0-beta.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EO8aSHxh",
+      "versionId": "TxfUDq9t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 654384,
+      "fileId": 4720834
+    }
+  ],
   "forge": [
     {
       "modId": "vs_eureka",

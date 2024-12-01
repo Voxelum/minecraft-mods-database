@@ -1,6 +1,18 @@
 {
   "name": "CodeChickenLib-1.12.2-3.2.1.350-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2gq0ALnz",
+      "versionId": "pC76gZS0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242818,
+      "fileId": 2597168
+    }
+  ],
   "forge": [
     {
       "modId": "codechickenlib",

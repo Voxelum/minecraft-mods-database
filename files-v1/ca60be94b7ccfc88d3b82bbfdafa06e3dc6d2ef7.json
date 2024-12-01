@@ -1,6 +1,18 @@
 {
   "name": "mcw-windows-2.3.2-mc1.21fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C7I0BCni",
+      "versionId": "wZUnPxRg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363569,
+      "fileId": 5592083
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwwindows",

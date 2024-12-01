@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oVrn4xsC",
+      "versionId": "Kh74AxCm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390121,
+      "fileId": 5572069
+    }
+  ],
   "forge": [
     {
       "modId": "placeableblazerods",

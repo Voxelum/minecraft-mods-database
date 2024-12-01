@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UHjbX5mk",
+      "versionId": "Z8vZh5PS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gca",
+      "version": "mc1.21.1-2.9.0+build.80"
+    },
+    {
+      "modId": "jep_jep",
+      "version": "2.24"
+    }
+  ]
+}

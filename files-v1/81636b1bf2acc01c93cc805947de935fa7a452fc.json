@@ -1,6 +1,18 @@
 {
   "name": "rftoolsstorage-1.15-1.1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tx4M6qRg",
+      "versionId": "qrOa1qWe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 350006,
+      "fileId": 3057526
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolsstorage",

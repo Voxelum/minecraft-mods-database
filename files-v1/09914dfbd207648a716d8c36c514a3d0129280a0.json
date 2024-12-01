@@ -1,6 +1,18 @@
 {
   "name": "CustomPlayerModels-Fabric-1.20-0.6.14c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h1E7sQNL",
+      "versionId": "Fy1nNqgE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440597,
+      "fileId": 5089745
+    }
+  ],
   "fabric": [
     {
       "modId": "cpm",

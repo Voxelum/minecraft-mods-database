@@ -1,6 +1,18 @@
 {
   "name": "moredoors-1.19-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6fRQa2pB",
+      "versionId": "hdZmNmyn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498747,
+      "fileId": 3845759
+    }
+  ],
   "forge": [
     {
       "modId": "moredoors",

@@ -1,6 +1,12 @@
 {
   "name": "ogres-0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 559553,
+      "fileId": 3711300
+    }
+  ],
   "forge": [
     {
       "modId": "ogres",

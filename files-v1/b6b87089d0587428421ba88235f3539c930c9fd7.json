@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jE0SjGuf",
+      "versionId": "i9BVykdM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397510,
+      "fileId": 5618679
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-tis-addition",
+      "version": "1.63.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

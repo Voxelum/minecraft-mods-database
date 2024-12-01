@@ -1,6 +1,12 @@
 {
   "name": "aa_java_enforcer-1.7.10-1.1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 241964,
+      "fileId": 2289031
+    }
+  ],
   "forge": [
     {
       "modId": "java_enforcer",

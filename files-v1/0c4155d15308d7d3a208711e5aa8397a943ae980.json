@@ -1,6 +1,18 @@
 {
   "name": "betterarcheology-1.2.0-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zCh7omyG",
+      "versionId": "LSyNevQ8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835687,
+      "fileId": 5668732
+    }
+  ],
   "forge": [
     {
       "modId": "betterarcheology",

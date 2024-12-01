@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 581847,
+      "fileId": 4062215
+    }
+  ],
+  "forge": [
+    {
+      "modId": "theoneprobe",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "theoneprobe",
+      "version": "1.19-6.2.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.6"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

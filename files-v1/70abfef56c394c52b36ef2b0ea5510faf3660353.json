@@ -1,6 +1,12 @@
 {
   "name": "NoJumpDelay-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2JTzNba1",
+      "versionId": "wN6E2tLl"
+    }
+  ],
   "fabric": [
     {
       "modId": "jumpfastuse",

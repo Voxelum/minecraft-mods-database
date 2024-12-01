@@ -1,0 +1,22 @@
+{
+  "name": "Plutonium-1.1.6-mc1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "plutonium",
+      "version": "1.1.6-mc1.20.1"
+    },
+    {
+      "modId": "io_netty_incubator_netty-incubator-transport-classes-io_uring",
+      "version": "0.0.15"
+    },
+    {
+      "modId": "io_netty_incubator_netty-incubator-transport-nativ1acc2b1d81ab5a",
+      "version": "0.0.15"
+    },
+    {
+      "modId": "com_github_luben_zstd-jni",
+      "version": "1.5.6-6"
+    }
+  ]
+}

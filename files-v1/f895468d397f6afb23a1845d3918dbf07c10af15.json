@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iw8lsmHb",
+      "versionId": "NCz5DjDW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "islandutils",
+      "version": "1.6.8"
+    },
+    {
+      "modId": "com_github_jncrmx_discord-game-sdk4j",
+      "version": "v0.5.5"
+    }
+  ]
+}

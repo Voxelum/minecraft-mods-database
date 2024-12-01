@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8RtckdKf",
+      "versionId": "m7Chnsgl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpgstats",
+      "version": "5.2.2+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

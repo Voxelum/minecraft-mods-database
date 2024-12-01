@@ -1,6 +1,18 @@
 {
   "name": "ThermalExtra-3.0.4-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QejnMYJo",
+      "versionId": "WMRRbMso"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 573674,
+      "fileId": 4764582
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_extra",

@@ -1,6 +1,12 @@
 {
   "name": "arclight-0.1.2-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 635165,
+      "fileId": 3999476
+    }
+  ],
   "fabric": [
     {
       "modId": "arclight",

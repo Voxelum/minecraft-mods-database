@@ -1,6 +1,12 @@
 {
   "name": "timedisplay-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mmJ59jTu",
+      "versionId": "wBwQdAbi"
+    }
+  ],
   "fabric": [
     {
       "modId": "timedisplay",

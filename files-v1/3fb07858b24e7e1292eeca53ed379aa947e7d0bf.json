@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2i7tg1Wv",
+      "versionId": "qkfDSUlt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 279429,
+      "fileId": 5487187
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autorun",
+      "version": "0.6.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

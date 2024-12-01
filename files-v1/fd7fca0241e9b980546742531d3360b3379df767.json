@@ -1,0 +1,16 @@
+{
+  "name": "bbs-1.19.2-1.1.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 630342,
+      "fileId": 4128425
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bbs",
+      "version": "${version}"
+    }
+  ]
+}

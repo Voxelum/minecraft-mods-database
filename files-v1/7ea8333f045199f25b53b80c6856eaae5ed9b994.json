@@ -1,6 +1,12 @@
 {
   "name": "fabric-3.1.4+mc1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 510648,
+      "fileId": 5076276
+    }
+  ],
   "fabric": [
     {
       "modId": "obsidianboat",

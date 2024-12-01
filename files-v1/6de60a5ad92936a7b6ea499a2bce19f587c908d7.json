@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "firstperson-forge-2.4.4-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H5XMjpHi",
+      "versionId": "TumuPDRM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 333287,
+      "fileId": 5577722
+    }
+  ],
   "forge": [
     {
       "modId": "firstperson",

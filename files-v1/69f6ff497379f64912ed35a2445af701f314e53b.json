@@ -1,6 +1,18 @@
 {
   "name": "highspeed-rail-0.4.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d7PCSOkD",
+      "versionId": "sZpVjhCs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576896,
+      "fileId": 4615229
+    }
+  ],
   "fabric": [
     {
       "modId": "highspeed-rail",

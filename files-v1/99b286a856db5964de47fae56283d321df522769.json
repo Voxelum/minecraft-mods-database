@@ -1,6 +1,12 @@
 {
   "name": "nowheel-1.2.1+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNhuDBbS",
+      "versionId": "Gl2i8kjs"
+    }
+  ],
   "fabric": [
     {
       "modId": "nowheel",

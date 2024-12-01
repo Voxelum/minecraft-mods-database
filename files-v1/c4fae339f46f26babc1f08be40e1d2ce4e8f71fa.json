@@ -1,6 +1,12 @@
 {
   "name": "moonlight-1.20-2.8.13-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "idIlWA9u"
+    }
+  ],
   "forge": [
     {
       "modId": "moonlight",

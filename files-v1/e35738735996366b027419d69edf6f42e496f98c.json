@@ -1,6 +1,18 @@
 {
   "name": "shieldexex-1.1-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4qZj1oRi",
+      "versionId": "xJ1NHlMC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886903,
+      "fileId": 4732389
+    }
+  ],
   "forge": [
     {
       "modId": "shieldexex",

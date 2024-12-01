@@ -1,6 +1,12 @@
 {
   "name": "scriptor-0.4.5-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 817436,
+      "fileId": 4549560
+    }
+  ],
   "fabric": [
     {
       "modId": "scriptor",

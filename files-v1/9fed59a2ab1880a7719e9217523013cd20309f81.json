@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 955798,
+      "fileId": 4993339
+    }
+  ],
+  "forge": [
+    {
+      "modId": "portalgun",
+      "version": "5.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "portalgun",
+      "version": "${version}"
+    }
+  ]
+}

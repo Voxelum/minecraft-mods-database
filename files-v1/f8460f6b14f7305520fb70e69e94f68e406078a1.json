@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "dampening-enchantment-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WbAruEQv",
+      "versionId": "NfBL82Hl"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_dampening_enchantment",

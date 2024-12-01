@@ -1,6 +1,18 @@
 {
   "name": "LuckyRocks-1.1-1.20.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ar5KaXvh",
+      "versionId": "ASNG07EX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 939585,
+      "fileId": 4883584
+    }
+  ],
   "fabric": [
     {
       "modId": "luckyrocks",

@@ -1,6 +1,12 @@
 {
   "name": "Luna-FORGE-MC1.18.X-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 880620,
+      "fileId": 4766652
+    }
+  ],
   "forge": [
     {
       "modId": "luna",

@@ -1,6 +1,18 @@
 {
   "name": "alexsmobsinteraction-2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cQPcBgTD",
+      "versionId": "fYLA70Ys"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975640,
+      "fileId": 5274637
+    }
+  ],
   "forge": [
     {
       "modId": "alexsmobsinteraction",

@@ -1,6 +1,18 @@
 {
   "name": "realistic-cobwebs-1.12.2-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KbSE3UgH",
+      "versionId": "erMfw5XA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250393,
+      "fileId": 2682567
+    }
+  ],
   "forge": [
     {
       "modId": "cobwebs",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8shC1gFX",
+      "versionId": "KNbHopYR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401648,
+      "fileId": 4030555
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterf3",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.1.40"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.9+5847535018"
+    }
+  ]
+}

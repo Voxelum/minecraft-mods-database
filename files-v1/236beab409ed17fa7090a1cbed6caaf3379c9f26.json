@@ -1,6 +1,12 @@
 {
   "name": "timeclock-fabric-1.20.1-1.1.0.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZOjyOXV",
+      "versionId": "f18wex8d"
+    }
+  ],
   "fabric": [
     {
       "modId": "timeclock",

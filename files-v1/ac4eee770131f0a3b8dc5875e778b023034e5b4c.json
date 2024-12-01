@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cgm",
+      "version": "${file.jarVersion}}"
+    }
+  ]
+}

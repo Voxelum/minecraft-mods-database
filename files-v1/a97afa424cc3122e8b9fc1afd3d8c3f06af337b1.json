@@ -1,6 +1,18 @@
 {
   "name": "extendedbonemeal-1.19.2-3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bHkCoxMs",
+      "versionId": "z4bZjSsw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367534,
+      "fileId": 5284428
+    }
+  ],
   "forge": [
     {
       "modId": "extendedbonemeal",

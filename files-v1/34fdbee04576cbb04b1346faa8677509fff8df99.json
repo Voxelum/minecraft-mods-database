@@ -1,0 +1,20 @@
+{
+  "name": "chatplus-fabric-2.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cJlZ132G",
+      "versionId": "U4u2FHHI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatplus",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "com_alphacephei_vosk",
+      "version": "0.3.45"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ArdaPaths-1.2.0-SNAPSHOT-b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2tSS2Gg9",
+      "versionId": "B0KznZXI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ardapaths",
+      "version": "1.2.0-SNAPSHOT-b"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

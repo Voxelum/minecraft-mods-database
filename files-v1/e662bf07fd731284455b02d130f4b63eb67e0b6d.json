@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "IFmJuF78"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 4282373
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pehkui",
+      "version": "3.6.2+1.14.4-1.19.3"
+    },
+    {
+      "modId": "kanos_config",
+      "version": "0.3.1+1.14.4-1.19"
+    }
+  ]
+}

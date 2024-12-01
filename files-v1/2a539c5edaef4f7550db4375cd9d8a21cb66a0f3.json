@@ -1,6 +1,18 @@
 {
   "name": "NightConfigFixes-v7.0.0-1.20-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HgALhmVM",
+      "versionId": "nACR9d7Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 813369,
+      "fileId": 4618368
+    }
+  ],
   "forge": [
     {
       "modId": "nightconfigfixes",

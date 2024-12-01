@@ -1,6 +1,18 @@
 {
   "name": "cryingportals-1.20.1-2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3RkVNglH",
+      "versionId": "l1GZ9YnO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547844,
+      "fileId": 4583691
+    }
+  ],
   "forge": [
     {
       "modId": "cryingportals",

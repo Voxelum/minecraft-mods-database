@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FspL3NLJ",
+      "versionId": "yi5oYPWS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414486,
+      "fileId": 5847421
+    }
+  ],
+  "forge": [
+    {
+      "modId": "configurablemobpotioneffects",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurablemobpotioneffects",
+      "version": "3.5"
+    }
+  ]
+}

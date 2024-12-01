@@ -1,6 +1,18 @@
 {
   "name": "EnchantmentDescriptions-1.15.2-2.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UVtY3ZAC",
+      "versionId": "dTgW7xfv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250419,
+      "fileId": 2967790
+    }
+  ],
   "forge": [
     {
       "modId": "enchdesc",

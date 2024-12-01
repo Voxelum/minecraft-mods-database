@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Oo4rJCDP",
+      "versionId": "8mcLw6pS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 831523,
+      "fileId": 5578495
+    }
+  ],
   "forge": [
     {
       "modId": "unloaded_activity",

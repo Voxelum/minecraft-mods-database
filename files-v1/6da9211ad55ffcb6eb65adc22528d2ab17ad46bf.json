@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kIjBa4ZK",
+      "versionId": "3L1DIfRO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1063220,
+      "fileId": 5531806
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adm2",
+      "version": "1.0.1-mc1.20.1-fabric"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

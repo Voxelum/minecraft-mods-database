@@ -1,4 +1,16 @@
 {
   "name": "qfapi.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qvIfYCYJ",
+      "versionId": "AmlAy82C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634179,
+      "fileId": 4439746
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 32274,
+      "fileId": 5777473
+    }
+  ],
+  "forge": [
+    {
+      "modId": "journeymap",
+      "version": "1.21-6.0.0-beta.27"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap-wrongloader",
+      "version": "not a fabric mod"
+    }
+  ]
+}

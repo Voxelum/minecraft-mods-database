@@ -1,0 +1,26 @@
+{
+  "name": "Adorn-6.0.0+1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6FUtRJh",
+      "versionId": "iL4gBcjA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320215,
+      "fileId": 5773270
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adorn",
+      "version": "6.0.0+1.21.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

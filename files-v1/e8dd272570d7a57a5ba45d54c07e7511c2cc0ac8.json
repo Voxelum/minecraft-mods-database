@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "sodiumoptionsapi-fabric-1.0.5-1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Es5v4eyq",
+      "versionId": "9mH6wdMJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1103431,
+      "fileId": 5857607
+    }
+  ],
   "forge": [
     {
       "modId": "sodiumoptionsapi",

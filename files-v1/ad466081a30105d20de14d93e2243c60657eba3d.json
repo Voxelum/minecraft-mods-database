@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OQ8To4FT",
+      "versionId": "OVcatXhy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 542473,
+      "fileId": 5565257
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "disenchanter",
+      "version": "0.1.10+1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    }
+  ]
+}

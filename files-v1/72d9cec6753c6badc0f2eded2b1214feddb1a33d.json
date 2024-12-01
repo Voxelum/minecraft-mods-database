@@ -1,6 +1,18 @@
 {
   "name": "cryingghasts_1.16.5-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SFBuyD9e",
+      "versionId": "FTmCV2bk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344360,
+      "fileId": 3379868
+    }
+  ],
   "forge": [
     {
       "modId": "cryingghasts",

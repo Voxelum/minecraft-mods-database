@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fuji",
+      "version": "6.0.0-0fe4718dac-mc1.21.2"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.7.2+1.21.2"
+    },
+    {
+      "modId": "com_jayway_jsonpath_json-path",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    },
+    {
+      "modId": "net_luckperms_api",
+      "version": "5.4"
+    },
+    {
+      "modId": "org_quartz-scheduler_quartz",
+      "version": "2.5.0-rc1"
+    }
+  ]
+}

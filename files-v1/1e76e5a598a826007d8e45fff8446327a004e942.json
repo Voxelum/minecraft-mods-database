@@ -1,0 +1,26 @@
+{
+  "name": "suppressopengl1280-1.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2U4cBE7v",
+      "versionId": "ooI81cpo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965883,
+      "fileId": 5329928
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "suppressopengl1280",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

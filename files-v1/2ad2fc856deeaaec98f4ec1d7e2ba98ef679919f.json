@@ -1,6 +1,12 @@
 {
   "name": "letsdo-vinery-forge-1.4.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 704465,
+      "fileId": 4692341
+    }
+  ],
   "forge": [
     {
       "modId": "vinery",

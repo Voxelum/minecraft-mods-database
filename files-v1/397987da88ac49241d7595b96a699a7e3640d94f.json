@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dDDOS7ke",
+      "versionId": "MeqTaXVk"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "iron_repair_kits",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iron_repair_kits",
+      "version": "2.0"
+    }
+  ]
+}

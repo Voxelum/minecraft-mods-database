@@ -1,6 +1,18 @@
 {
   "name": "azurelib-forge-1.19.2-1.0.39.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7zlUOZvb",
+      "versionId": "RR16eUUF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817423,
+      "fileId": 4968634
+    }
+  ],
   "forge": [
     {
       "modId": "azurelib",

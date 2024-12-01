@@ -1,6 +1,18 @@
 {
   "name": "areas-1.20.1-5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NWvsqJ2Z",
+      "versionId": "3qZWMsqx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391701,
+      "fileId": 4601865
+    }
+  ],
   "forge": [
     {
       "modId": "areas",

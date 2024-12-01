@@ -1,6 +1,12 @@
 {
   "name": "GreaterEye-Forge-1.19.2-1.4.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 374520,
+      "fileId": 4000630
+    }
+  ],
   "forge": [
     {
       "modId": "greater_eye",

@@ -1,6 +1,18 @@
 {
   "name": "cobblegen-5.1.1+1.19.2b28-BETA-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qRogT5Gy",
+      "versionId": "ceny0uST"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581293,
+      "fileId": 4785510
+    }
+  ],
   "forge": [
     {
       "modId": "cobblegen",

@@ -1,6 +1,12 @@
 {
   "name": "aas-1.19_1.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 639971,
+      "fileId": 4020552
+    }
+  ],
   "forge": [
     {
       "modId": "apollo",

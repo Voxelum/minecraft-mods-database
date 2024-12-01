@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ef9ZREBZ",
+      "versionId": "ydEKVfE3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 465383,
+      "fileId": 5827769
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armor-stand-editor",
+      "version": "2.6.0+1.21.2-rc1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.7.0+1.21.2"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.6.0+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    }
+  ]
+}

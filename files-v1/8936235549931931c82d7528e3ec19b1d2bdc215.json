@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "xplus-autofish-1.2.0-fabric-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2H1rLgy4",
+      "versionId": "tKa0O9X6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 879846,
+      "fileId": 5507025
+    }
+  ],
   "fabric": [
     {
       "modId": "autofish",

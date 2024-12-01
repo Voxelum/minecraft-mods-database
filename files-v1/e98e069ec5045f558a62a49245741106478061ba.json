@@ -1,6 +1,18 @@
 {
   "name": "visuality-forge-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z13R7Et1",
+      "versionId": "koB0XJAm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704256,
+      "fileId": 4595948
+    }
+  ],
   "forge": [
     {
       "modId": "visuality",

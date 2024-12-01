@@ -1,6 +1,12 @@
 {
   "name": "dehydration-1.2.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 410830,
+      "fileId": 3786010
+    }
+  ],
   "fabric": [
     {
       "modId": "dehydration",

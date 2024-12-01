@@ -1,6 +1,18 @@
 {
   "name": "clickthrough-1.16.5-fabric0.30.0-0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z5b0cAlD",
+      "versionId": "C5dkN3yQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405262,
+      "fileId": 3233414
+    }
+  ],
   "fabric": [
     {
       "modId": "clickthrough",

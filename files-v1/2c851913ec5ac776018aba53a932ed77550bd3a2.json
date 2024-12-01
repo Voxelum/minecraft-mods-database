@@ -1,6 +1,18 @@
 {
   "name": "mavm-1.2.0-mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zitu8weW",
+      "versionId": "V0DyIuBa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498797,
+      "fileId": 4127480
+    }
+  ],
   "forge": [
     {
       "modId": "mavm",

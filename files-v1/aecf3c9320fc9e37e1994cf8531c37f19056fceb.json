@@ -1,0 +1,28 @@
+{
+  "name": "Moonrise-Fabric-0.2.0-beta.2+ceb4936.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KOHu7RCS",
+      "versionId": "e8kWPpuH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moonrise",
+      "version": "0.2.0-beta.2+ceb4936"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.36+c47b9d4340"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.49+d21566ae40"
+    }
+  ]
+}

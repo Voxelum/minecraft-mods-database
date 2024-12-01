@@ -1,6 +1,18 @@
 {
   "name": "HeadhunterMod-1.19.2-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FqbsJS1V",
+      "versionId": "IWLeapim"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882896,
+      "fileId": 4642944
+    }
+  ],
   "forge": [
     {
       "modId": "headhunter_mod",

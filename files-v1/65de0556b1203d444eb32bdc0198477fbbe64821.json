@@ -1,6 +1,12 @@
 {
   "name": "TES-forge-1.20.1-1.4.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 830420,
+      "fileId": 4979147
+    }
+  ],
   "forge": [
     {
       "modId": "tslatentitystatus",

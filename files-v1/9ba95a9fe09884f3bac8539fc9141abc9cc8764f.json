@@ -1,6 +1,18 @@
 {
   "name": "food-plus-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWOWH92B",
+      "versionId": "qzd9z5CE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 517224,
+      "fileId": 3842641
+    }
+  ],
   "fabric": [
     {
       "modId": "foodplusid",

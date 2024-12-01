@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tagwiZkJ",
+      "versionId": "yPIvYQkJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388800,
+      "fileId": 5378175
+    }
+  ],
   "fabric": [
     {
       "modId": "polymorph",

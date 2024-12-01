@@ -1,6 +1,18 @@
 {
   "name": "moreloottables-1.12.0-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B0Ni1fFi",
+      "versionId": "ijxCLxrZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 253887,
+      "fileId": 2432679
+    }
+  ],
   "forge": [
     {
       "modId": "moreloottables",

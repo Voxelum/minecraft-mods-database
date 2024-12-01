@@ -1,6 +1,18 @@
 {
   "name": "flan-1.20.1-1.10.0-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Si383TIH",
+      "versionId": "KlIv1hoc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 493246,
+      "fileId": 5290172
+    }
+  ],
   "forge": [
     {
       "modId": "flan",

@@ -1,6 +1,12 @@
 {
   "name": "chatlagfix-1.16.5+1.17.1-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fKi1znuF",
+      "versionId": "2DcOW6is"
+    }
+  ],
   "fabric": [
     {
       "modId": "chatlagfix",

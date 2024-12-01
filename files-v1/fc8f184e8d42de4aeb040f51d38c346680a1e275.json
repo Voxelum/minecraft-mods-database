@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gch9FNn6",
+      "versionId": "LBrouPr5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414350,
+      "fileId": 5169063
+    }
+  ],
+  "forge": [
+    {
+      "modId": "configurableextramobdrops",
+      "version": "3.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configurableextramobdrops",
+      "version": "3.3"
+    }
+  ]
+}

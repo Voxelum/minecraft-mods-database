@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "daycounter-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RWVRgj8Z",
+      "versionId": "ihwAr4nC"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_daycounter",

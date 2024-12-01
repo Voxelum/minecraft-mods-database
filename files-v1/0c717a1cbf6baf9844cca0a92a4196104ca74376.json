@@ -1,0 +1,30 @@
+{
+  "name": "dcintegration-fabric-3.0.2-1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rbJ7eS5V",
+      "versionId": "7fw9e8yR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 493679,
+      "fileId": 4702635
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dcintegration-fabric",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.0+1.19.4"
+    },
+    {
+      "modId": "de_erdbeerbaerlp_dcintegration_common",
+      "version": "3.0.2"
+    }
+  ]
+}

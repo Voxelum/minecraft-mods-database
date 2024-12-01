@@ -1,6 +1,12 @@
 {
   "name": "nexus-frame-1.0.8+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dk0J1riW",
+      "versionId": "zzopnGYZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "nexusframe",

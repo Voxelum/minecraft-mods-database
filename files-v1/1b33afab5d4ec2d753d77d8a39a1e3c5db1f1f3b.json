@@ -1,6 +1,12 @@
 {
   "name": "cataclysm_tools-1.1.0-forge-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1037520,
+      "fileId": 5489320
+    }
+  ],
   "forge": [
     {
       "modId": "cataclysm_tools",

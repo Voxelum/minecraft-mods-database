@@ -1,6 +1,18 @@
 {
   "name": "playertrackingcompass_1.16.5-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mSuqFRIc",
+      "versionId": "1hbFSUSb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377858,
+      "fileId": 3379796
+    }
+  ],
   "forge": [
     {
       "modId": "playertrackingcompass",

@@ -1,6 +1,18 @@
 {
   "name": "[帕秋莉手册加载补丁跨平台版] PRP-Arch-Forge-1.0.1-Hotfix-1.18.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AqeDdB2c",
+      "versionId": "msizLmQ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 838913,
+      "fileId": 4443331
+    }
+  ],
   "forge": [
     {
       "modId": "archprp",

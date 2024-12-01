@@ -1,6 +1,18 @@
 {
   "name": "ArmorHUD-1.1-1.8.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6yx5ezKh",
+      "versionId": "1pFfXTp6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 653019,
+      "fileId": 3909938
+    }
+  ],
   "forge": [
     {
       "modId": "armorhud",

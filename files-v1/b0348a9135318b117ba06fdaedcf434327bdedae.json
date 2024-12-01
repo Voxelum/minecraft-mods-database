@@ -1,6 +1,18 @@
 {
   "name": "truly_custom_horse_tack-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b7wNdzcU",
+      "versionId": "j52AwYQ6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952957,
+      "fileId": 5018439
+    }
+  ],
   "forge": [
     {
       "modId": "truly_custom_horse_tack",

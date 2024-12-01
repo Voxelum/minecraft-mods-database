@@ -1,6 +1,18 @@
 {
   "name": "chunkumulator-1.0.3+MC1.16.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NdXjQHpc",
+      "versionId": "l2M64WzA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909640,
+      "fileId": 4735431
+    }
+  ],
   "fabric": [
     {
       "modId": "chunkumulator",

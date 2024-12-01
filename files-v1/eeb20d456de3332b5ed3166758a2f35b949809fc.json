@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lRwTUnD7",
+      "versionId": "PLPPU3AH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1009534,
+      "fileId": 5780897
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rctmod",
+      "version": 0
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rctmod",
+      "version": "0.12.0-beta"
+    }
+  ]
+}

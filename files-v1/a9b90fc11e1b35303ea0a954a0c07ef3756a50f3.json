@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-7.1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6X5wjPTJ",
+      "versionId": "hSP4qiy2"
+    }
+  ],
   "forge": [
     {
       "modId": "BuildCraft|Builders",

@@ -1,6 +1,18 @@
 {
   "name": "BetterThanMending-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Lvv4SHrK",
+      "versionId": "nKxB1PNj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 264738,
+      "fileId": 2711958
+    }
+  ],
   "forge": [
     {
       "modId": "betterthanmending",

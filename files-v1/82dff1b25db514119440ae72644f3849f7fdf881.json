@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tbAZnTrE",
+      "versionId": "d6okp0nc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1048301,
+      "fileId": 5594555
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sss_translate",
+      "version": "1.5.2+MC1.21"
+    },
+    {
+      "modId": "sss_translate_base",
+      "version": "1.5.2+MC1.21"
+    }
+  ]
+}

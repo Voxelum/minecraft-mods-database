@@ -1,6 +1,18 @@
 {
   "name": "blockus-2.7.13+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zFiY2Go0",
+      "versionId": "pdKkC1Qv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312289,
+      "fileId": 5323343
+    }
+  ],
   "fabric": [
     {
       "modId": "blockus",

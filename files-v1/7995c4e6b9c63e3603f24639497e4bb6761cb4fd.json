@@ -1,6 +1,18 @@
 {
   "name": "waystones-forge-1.18.2-10.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LOpKHB2A",
+      "versionId": "WFGUxsrx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245755,
+      "fileId": 4412697
+    }
+  ],
   "forge": [
     {
       "modId": "waystones",

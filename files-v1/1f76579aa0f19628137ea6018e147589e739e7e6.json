@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VD1aynYU",
+      "versionId": "P53YUepR"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "inventory_tabs",
+      "version": "1.3.3+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventory-tabs",
+      "version": "1.3.3+1.20"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.1"
+    }
+  ]
+}

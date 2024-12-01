@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uSdcnlts",
+      "versionId": "vJ8ltk8Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347405,
+      "fileId": 3645449
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoswitch",
+      "version": "3.5.2"
+    },
+    {
+      "modId": "org_aeonbits_owner_owner",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "autoswitch-api",
+      "version": "1.0.0"
+    }
+  ]
+}

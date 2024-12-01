@@ -1,6 +1,18 @@
 {
   "name": "CamoCreepers-1.12.2-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5wySvh3t",
+      "versionId": "N3vK6k7j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525333,
+      "fileId": 3759454
+    }
+  ],
   "forge": [
     {
       "modId": "camocreepers",

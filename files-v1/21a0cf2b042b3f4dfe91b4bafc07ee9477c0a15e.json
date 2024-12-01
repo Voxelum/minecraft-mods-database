@@ -1,0 +1,28 @@
+{
+  "name": "vanillazoom-1.21.0-2.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CDbpcSM6",
+      "versionId": "JTvM9Ndg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695354,
+      "fileId": 5425593
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vanillazoom",
+      "version": "2.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanillazoom",
+      "version": "2.5"
+    }
+  ]
+}

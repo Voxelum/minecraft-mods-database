@@ -1,6 +1,12 @@
 {
   "name": "athenaeum-1.12.2-1.17.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 284350,
+      "fileId": 2780353
+    }
+  ],
   "forge": [
     {
       "modId": "athenaeum",

@@ -1,6 +1,18 @@
 {
   "name": "hwid_anti_alts-4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wslWWn2c",
+      "versionId": "PSFN9G8v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324400,
+      "fileId": 5353184
+    }
+  ],
   "forge": [
     {
       "modId": "hwid_anti_alts",

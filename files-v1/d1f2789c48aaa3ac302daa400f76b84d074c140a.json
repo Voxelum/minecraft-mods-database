@@ -1,6 +1,18 @@
 {
   "name": "infernal-expansion-forge-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZrpxHZN4",
+      "versionId": "smhY5ZEa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395078,
+      "fileId": 3183888
+    }
+  ],
   "forge": [
     {
       "modId": "infernalexp",

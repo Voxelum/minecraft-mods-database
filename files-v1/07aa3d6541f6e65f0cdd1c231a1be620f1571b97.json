@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "graveyard",
+      "version": "2.9"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.2-1.18.1"
+    }
+  ]
+}

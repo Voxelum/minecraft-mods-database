@@ -1,0 +1,26 @@
+{
+  "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KuNKN7d2",
+      "versionId": "M4c8aGZ4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930207,
+      "fileId": 5874931
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noisium",
+      "version": "2.4.0+mc1.21.2-1.21.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

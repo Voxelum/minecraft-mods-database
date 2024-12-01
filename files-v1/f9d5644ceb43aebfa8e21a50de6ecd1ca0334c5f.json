@@ -1,6 +1,18 @@
 {
   "name": "peripheralworks-fabric-1.20.1-1.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sf7QBsRP",
+      "versionId": "llME0vcm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621851,
+      "fileId": 5077950
+    }
+  ],
   "forge": [
     {
       "modId": "peripheralworks",

@@ -1,6 +1,18 @@
 {
   "name": "toomanyplayers-1.20.2-1.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPVN4aiJ",
+      "versionId": "uAvIUjIM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663273,
+      "fileId": 4801328
+    }
+  ],
   "fabric": [
     {
       "modId": "toomanyplayers",

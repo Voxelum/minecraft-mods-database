@@ -1,6 +1,18 @@
 {
   "name": "disenchanter-0.1.6+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OQ8To4FT",
+      "versionId": "TtTjbFXV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 542473,
+      "fileId": 3763996
+    }
+  ],
   "fabric": [
     {
       "modId": "disenchanter",

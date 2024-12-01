@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CUQhzQjg",
+      "versionId": "cGuAidm3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857968,
+      "fileId": 5751721
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enderzoology",
+      "version": "8.0.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    }
+  ]
+}

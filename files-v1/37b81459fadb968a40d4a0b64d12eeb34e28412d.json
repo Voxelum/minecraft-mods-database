@@ -1,6 +1,18 @@
 {
   "name": "dismountentity-1.19.2-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H7N61Wcl",
+      "versionId": "osu0fWd1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348262,
+      "fileId": 4965124
+    }
+  ],
   "forge": [
     {
       "modId": "dismountentity",

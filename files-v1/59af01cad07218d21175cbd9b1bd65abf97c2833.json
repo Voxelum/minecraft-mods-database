@@ -1,6 +1,12 @@
 {
   "name": "Player API.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228969,
+      "fileId": 2279518
+    }
+  ],
   "forge": [
     {
       "modId": "PlayerAPI",

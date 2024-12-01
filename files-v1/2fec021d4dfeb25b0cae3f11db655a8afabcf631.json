@@ -1,0 +1,22 @@
+{
+  "name": "pv-addon-soundphysics-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K1y8brkJ",
+      "versionId": "E3AxqvF3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pv_addon_soundphysics",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pv-addon-soundphysics",
+      "version": "1.1.0"
+    }
+  ]
+}

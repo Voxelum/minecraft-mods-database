@@ -1,6 +1,18 @@
 {
   "name": "economical-villager-trading-1.2.5+MC1.18-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MpaztjRf",
+      "versionId": "M1nTNCXp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395573,
+      "fileId": 3694716
+    }
+  ],
   "fabric": [
     {
       "modId": "economical_villager_trading",

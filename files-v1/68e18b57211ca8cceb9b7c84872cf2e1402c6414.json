@@ -1,6 +1,18 @@
 {
   "name": "YetAnotherConfigLib-2.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "51iCmuDG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 4492181
+    }
+  ],
   "fabric": [
     {
       "modId": "yet-another-config-lib",

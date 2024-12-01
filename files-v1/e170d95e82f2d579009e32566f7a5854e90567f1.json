@@ -1,6 +1,12 @@
 {
   "name": "jarm-1.12.2.24.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eYNun4zG",
+      "versionId": "yjlrMvnN"
+    }
+  ],
   "forge": [
     {
       "modId": "jarm",

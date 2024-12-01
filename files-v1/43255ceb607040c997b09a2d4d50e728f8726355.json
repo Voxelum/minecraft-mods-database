@@ -1,6 +1,18 @@
 {
   "name": "Epic Dungeons-0.1.04-Forge-1.19-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iAwGa4r9",
+      "versionId": "5S6XCkrM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 985881,
+      "fileId": 5486805
+    }
+  ],
   "forge": [
     {
       "modId": "overhauledstructures",

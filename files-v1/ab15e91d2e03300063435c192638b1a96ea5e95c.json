@@ -1,6 +1,12 @@
 {
   "name": "DamagedDweller.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 957215,
+      "fileId": 5002159
+    }
+  ],
   "forge": [
     {
       "modId": "cave_dweller",

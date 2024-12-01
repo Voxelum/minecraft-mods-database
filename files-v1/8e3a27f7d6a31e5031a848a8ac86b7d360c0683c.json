@@ -1,6 +1,18 @@
 {
   "name": "weaponleveling-1.18.2-2.1.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IuFgFiGE",
+      "versionId": "n4NVuY1j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 644704,
+      "fileId": 5078187
+    }
+  ],
   "forge": [
     {
       "modId": "weaponleveling",

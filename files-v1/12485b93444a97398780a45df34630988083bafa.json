@@ -1,6 +1,18 @@
 {
   "name": "Controlling-For-Fabric-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "lmlQP29s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308841,
+      "fileId": 3331405
+    }
+  ],
   "fabric": [
     {
       "modId": "controlling",

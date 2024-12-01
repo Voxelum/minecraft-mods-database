@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vskzdsyT",
+      "versionId": "hfpfMFdc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1116812,
+      "fileId": 5864905
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivelanterns",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivelanterns",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

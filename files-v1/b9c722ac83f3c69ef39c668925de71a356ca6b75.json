@@ -1,6 +1,18 @@
 {
   "name": "aesthetics-1.12.2-1.6.0.23.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m21cDGZ3",
+      "versionId": "xCMxrKIA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 227662,
+      "fileId": 2635768
+    }
+  ],
   "forge": [
     {
       "modId": "aesthetics",

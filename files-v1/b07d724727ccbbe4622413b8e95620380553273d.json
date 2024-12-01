@@ -1,6 +1,12 @@
 {
   "name": "SleepKiller-forge-1.19.2-1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 998579,
+      "fileId": 5335815
+    }
+  ],
   "forge": [
     {
       "modId": "sleep_killer",

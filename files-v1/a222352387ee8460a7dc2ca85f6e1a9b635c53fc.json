@@ -1,6 +1,12 @@
 {
   "name": "TerrainControl.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 240482,
+      "fileId": 2300953
+    }
+  ],
   "forge": [
     {
       "modId": "TerrainControl",

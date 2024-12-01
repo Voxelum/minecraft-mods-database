@@ -1,6 +1,18 @@
 {
   "name": "ForgeClientResetPacket-0.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y2PnCYl0",
+      "versionId": "4PzRoSkM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 862147,
+      "fileId": 4657349
+    }
+  ],
   "forge": [
     {
       "modId": "clientresetpacket",

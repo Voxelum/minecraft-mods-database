@@ -1,6 +1,12 @@
 {
   "name": "crockpot-1.14.11.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vLvLjFmc",
+      "versionId": "1bo5VpLI"
+    }
+  ],
   "fabric": [
     {
       "modId": "crockpot",

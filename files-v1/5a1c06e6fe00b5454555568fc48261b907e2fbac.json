@@ -1,6 +1,18 @@
 {
   "name": "strange-berries-2.3.2-1.19.2-BETA.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xpf9z8eH",
+      "versionId": "vmUdR2zF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450646,
+      "fileId": 4680698
+    }
+  ],
   "fabric": [
     {
       "modId": "strangeberries",

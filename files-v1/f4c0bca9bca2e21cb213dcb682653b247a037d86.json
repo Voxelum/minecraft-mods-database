@@ -1,6 +1,12 @@
 {
   "name": "grass-pass-1.17-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 418819,
+      "fileId": 3328770
+    }
+  ],
   "fabric": [
     {
       "modId": "grass_pass",

@@ -1,0 +1,16 @@
+{
+  "name": "FoamFix-1.7.10-universal-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 278494,
+      "fileId": 3993484
+    }
+  ],
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

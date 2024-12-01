@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5PsMUIsq",
+      "versionId": "C1tbOaLE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vinurl",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.10.6+1.19.4"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "wthit-2.10.15-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 440979,
+      "fileId": 3831594
+    }
+  ],
   "fabric": [
     {
       "modId": "wthit",

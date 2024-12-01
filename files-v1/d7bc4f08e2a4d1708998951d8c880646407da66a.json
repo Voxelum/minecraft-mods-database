@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LMEONxlN",
+      "versionId": "IuwaCNDU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 451554,
+      "fileId": 3770970
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lifts",
+      "version": "1.4.1-BETA+1.18"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

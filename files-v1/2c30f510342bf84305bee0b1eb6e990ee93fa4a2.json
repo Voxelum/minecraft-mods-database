@@ -1,6 +1,12 @@
 {
   "name": "audioplayer-1.19.2-1.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRlzjEBS",
+      "versionId": "2cm1mjlp"
+    }
+  ],
   "fabric": [
     {
       "modId": "audioplayer",

@@ -1,6 +1,12 @@
 {
   "name": "modmenu-1.7.17+build.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "kQDE01D3"
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu",

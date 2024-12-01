@@ -1,6 +1,12 @@
 {
   "name": "iron_chests_mod_1.7.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228756,
+      "fileId": 2230896
+    }
+  ],
   "forge": [
     {
       "modId": "IronChest",

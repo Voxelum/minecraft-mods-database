@@ -1,0 +1,16 @@
+{
+  "name": "【优化】[美观与性能]aesthetic-and-performant-1.5.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_aesthetic_andperformant",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_aesthetic_andperformant",
+      "version": "1.5"
+    }
+  ]
+}

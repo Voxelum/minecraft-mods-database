@@ -1,0 +1,20 @@
+{
+  "name": "TheVeggieWay_Fabric-1.21.1-1.6.10.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 380345,
+      "fileId": 5615207
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "veggie_way",
+      "version": "1.6.10"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8shC1gFX",
+      "versionId": "HPporrSc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401648,
+      "fileId": 5873287
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterf3",
+      "version": "12.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.6+e82f21f740"
+    }
+  ]
+}

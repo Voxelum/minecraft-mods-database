@@ -1,6 +1,18 @@
 {
   "name": "midnightlib-0.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "codAaoxh",
+      "versionId": "s2fTj4LM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 488090,
+      "fileId": 3947116
+    }
+  ],
   "fabric": [
     {
       "modId": "midnightlib",

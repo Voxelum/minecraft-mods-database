@@ -1,6 +1,12 @@
 {
   "name": "No Increasing Repair Cost-forge-1.20.1-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 349910,
+      "fileId": 4626471
+    }
+  ],
   "forge": [
     {
       "modId": "noincreasingrepaircost",

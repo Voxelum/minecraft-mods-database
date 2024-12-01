@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "NimbleReWynnded-0.5.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "DVph1325",
@@ -10,6 +11,12 @@
     {
       "projectId": 1100833,
       "fileId": 5715928
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nimblerewynnded",
+      "version": "0.5.1"
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
   "name": "uselessreptile-0.2.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YE4QRt8F",
+      "versionId": "LmHwh0n5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 677634,
+      "fileId": 4595599
+    }
+  ],
   "fabric": [
     {
       "modId": "uselessreptile",

@@ -1,6 +1,18 @@
 {
   "name": "cosmetica-1.19.1-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9hF9QGp",
+      "versionId": "OFjqgmsm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581009,
+      "fileId": 4592250
+    }
+  ],
   "fabric": [
     {
       "modId": "cosmetica",

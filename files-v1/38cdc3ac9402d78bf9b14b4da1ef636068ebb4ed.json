@@ -1,6 +1,12 @@
 {
   "name": "locksmith-forge-1.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544352,
+      "fileId": 4650915
+    }
+  ],
   "forge": [
     {
       "modId": "locksmith",

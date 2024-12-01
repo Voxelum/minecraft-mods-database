@@ -1,0 +1,26 @@
+{
+  "name": "zzz-rawr-2.1.0+1.19.2+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LK8s0Mbk",
+      "versionId": "kJc7RSxk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974261,
+      "fileId": 5121538
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zzz_rawr",
+      "version": "2.1.0+1.19.2+fabric"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.2.0+1.2.0-beta.5"
+    }
+  ]
+}

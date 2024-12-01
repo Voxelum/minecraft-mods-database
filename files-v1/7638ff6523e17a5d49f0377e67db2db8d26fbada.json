@@ -1,0 +1,28 @@
+{
+  "name": "eat_an_omelette-merged-1.20.1-1.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VqI5EAmI",
+      "versionId": "9Qpijgu3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 859307,
+      "fileId": 5875966
+    }
+  ],
+  "forge": [
+    {
+      "modId": "eat_an_omelette",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eat_an_omelette",
+      "version": "1.5.0"
+    }
+  ]
+}

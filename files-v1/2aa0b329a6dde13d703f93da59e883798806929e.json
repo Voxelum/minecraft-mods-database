@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ouch",
+      "version": "1.2.0+1.21.3"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.6.0+1.21.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.10.0+1.21.2"
+    }
+  ]
+}

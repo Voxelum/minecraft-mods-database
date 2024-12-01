@@ -1,6 +1,12 @@
 {
   "name": "technomodel-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BX3at1x4",
+      "versionId": "vJxDhOqb"
+    }
+  ],
   "fabric": [
     {
       "modId": "technomodel",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "appleskin",
+      "version": "2.5.1+mc1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

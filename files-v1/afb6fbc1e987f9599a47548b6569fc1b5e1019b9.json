@@ -1,6 +1,18 @@
 {
   "name": "BetterThanLlamas-1.20.1-Fabric-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tDYBzXM0",
+      "versionId": "yDTXG29y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 822688,
+      "fileId": 4618844
+    }
+  ],
   "fabric": [
     {
       "modId": "betterthanllamas",

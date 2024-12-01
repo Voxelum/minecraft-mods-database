@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fermion",
+      "version": "2.9.221"
+    },
+    {
+      "modId": "fermion-modkeys",
+      "version": "1.10.221"
+    },
+    {
+      "modId": "fermion-varia",
+      "version": "2.6.221"
+    },
+    {
+      "modId": "fermion-simulator",
+      "version": "1.8.221"
+    },
+    {
+      "modId": "special-circumstances",
+      "version": "1.8.221"
+    },
+    {
+      "modId": "fermion-gui",
+      "version": "2.5.221"
+    },
+    {
+      "modId": "fermion-orientation",
+      "version": "1.2.218"
+    }
+  ]
+}

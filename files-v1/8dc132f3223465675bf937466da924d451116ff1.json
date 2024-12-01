@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oXj4ct3c",
+      "versionId": "5spMoysu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hwr",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.2"
+    }
+  ]
+}

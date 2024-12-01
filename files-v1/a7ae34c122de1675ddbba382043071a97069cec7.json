@@ -1,0 +1,22 @@
+{
+  "name": "flower-tweaks-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JSMwcdt3",
+      "versionId": "brD7aTtS"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_flower_tweaks",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_flower_tweaks",
+      "version": "2"
+    }
+  ]
+}

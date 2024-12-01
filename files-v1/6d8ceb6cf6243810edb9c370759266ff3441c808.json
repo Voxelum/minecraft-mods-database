@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ni4SrKmq",
+      "versionId": "AR6QjQFh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397217,
+      "fileId": 5740832
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chesttracker",
+      "version": "2.5.4+1.21.1"
+    },
+    {
+      "modId": "searchables",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "whereisit",
+      "version": "2.6.2+1.21.1"
+    }
+  ]
+}

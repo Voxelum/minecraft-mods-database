@@ -1,0 +1,92 @@
+{
+  "name": "yttr-7.681+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZCLrWdGm",
+      "versionId": "6TgXCgP2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yttr",
+      "version": "7.681+1.19.2"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.19"
+    },
+    {
+      "modId": "lib39-core",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-lockpick",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-fractal",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-tunnel",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-phantom",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-waypoint",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-weld",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-sandman",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-crowbar",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-keygen",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-dessicant",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-deferral",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-machination",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-util",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-ripple",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-recoil",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-mesh",
+      "version": "1.5.0-pre3+1.19.2"
+    },
+    {
+      "modId": "lib39-aqi",
+      "version": "1.5.0-pre3+1.19.2"
+    }
+  ]
+}

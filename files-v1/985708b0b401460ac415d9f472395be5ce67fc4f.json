@@ -1,0 +1,10 @@
+{
+  "name": "zombieawareness-new.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "zombieawareness",
+      "version": "1.19.2-1.12.3"
+    }
+  ]
+}

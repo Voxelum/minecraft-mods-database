@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entitybanners",
+      "version": "1.0-BETA"
+    },
+    {
+      "modId": "bannerpp",
+      "version": "2.0.3-snapshot+mc.1.16.2-rc1"
+    }
+  ]
+}

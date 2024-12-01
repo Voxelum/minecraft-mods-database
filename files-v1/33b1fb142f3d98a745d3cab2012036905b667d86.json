@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WpXfePbg",
+      "versionId": "Mqo5ATdc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fowlplay",
+      "version": "0.5.5-alpha+1.21.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

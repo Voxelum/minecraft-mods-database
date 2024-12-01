@@ -1,6 +1,18 @@
 {
   "name": "strayspawn-1.18.2-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2lg2mCPe",
+      "versionId": "g9ji8OpX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348172,
+      "fileId": 4397417
+    }
+  ],
   "forge": [
     {
       "modId": "strayspawn",

@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "FancyHealthBar-1.1.1-1.20.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "d5wz0u1I",
       "versionId": "BW7EIwWC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 990963,
+      "fileId": 5668537
     }
   ],
   "fabric": [

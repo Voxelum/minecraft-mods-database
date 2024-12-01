@@ -1,6 +1,12 @@
 {
   "name": "ad_extendra-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UOZ8LNHE",
+      "versionId": "4Avof7Hx"
+    }
+  ],
   "forge": [
     {
       "modId": "ad_extendra",

@@ -1,6 +1,18 @@
 {
   "name": "numeralping-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XLd8Sh64",
+      "versionId": "ByTRzpuq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 559653,
+      "fileId": 5361003
+    }
+  ],
   "fabric": [
     {
       "modId": "numeralping",

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "yedelmod",
+      "version": "1.5.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yedelmod",
+      "version": "1.5.0"
+    }
+  ]
+}

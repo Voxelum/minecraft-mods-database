@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qQyHxfxd",
+      "versionId": "KXGjfvHh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634062,
+      "fileId": 3940075
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nochatreports",
+      "version": "1.19.2-v1.10.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.10+e62f51a390"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.3+5eb68ef290"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.25+f05effaf90"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.10.15+9ff28f4090"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.6.0+6bee109e90"
+    }
+  ]
+}

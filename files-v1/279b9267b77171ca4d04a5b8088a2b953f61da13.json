@@ -1,6 +1,18 @@
 {
   "name": "mcjtylib-1.18-6.0.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1Zu0uTEE",
+      "versionId": "6dy2MBOj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233105,
+      "fileId": 3825684
+    }
+  ],
   "forge": [
     {
       "modId": "mcjtylib",

@@ -1,6 +1,18 @@
 {
   "name": "workers-1.19.2-1.7.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pqlv7VM3",
+      "versionId": "wD1fVxjT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 567450,
+      "fileId": 4862375
+    }
+  ],
   "forge": [
     {
       "modId": "workers",

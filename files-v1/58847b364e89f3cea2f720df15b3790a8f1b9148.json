@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "smoothscrollingeverywhere",
+      "version": "3.0.3-unstable"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    }
+  ]
+}

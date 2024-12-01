@@ -1,6 +1,12 @@
 {
   "name": "more-geodes-1.9.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oGmBThKh",
+      "versionId": "OMInTIaI"
+    }
+  ],
   "fabric": [
     {
       "modId": "geodes",

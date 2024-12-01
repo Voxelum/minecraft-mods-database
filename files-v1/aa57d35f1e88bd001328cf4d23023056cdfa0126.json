@@ -1,6 +1,18 @@
 {
   "name": "flowermimics-1.20.1-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1r5vvCad",
+      "versionId": "cE0nrb3J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930056,
+      "fileId": 5572556
+    }
+  ],
   "forge": [
     {
       "modId": "flowermimics",

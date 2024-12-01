@@ -1,0 +1,22 @@
+{
+  "name": "qraftys-halloween-villages-2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NW6TKDob",
+      "versionId": "QAOT68fg"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_qraftys_halloweenvillages",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_qraftys_halloweenvillages",
+      "version": "2.2"
+    }
+  ]
+}

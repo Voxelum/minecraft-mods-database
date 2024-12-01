@@ -1,6 +1,12 @@
 {
   "name": "MixOfGood.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 520422,
+      "fileId": 3438500
+    }
+  ],
   "forge": [
     {
       "modId": "a_good_mix",

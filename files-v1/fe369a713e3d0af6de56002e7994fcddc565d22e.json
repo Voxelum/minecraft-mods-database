@@ -1,6 +1,18 @@
 {
   "name": "witcher-class-mod-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4eW1c7Gj",
+      "versionId": "qg8HhMEb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 992290,
+      "fileId": 5608241
+    }
+  ],
   "fabric": [
     {
       "modId": "witcher-rpg",

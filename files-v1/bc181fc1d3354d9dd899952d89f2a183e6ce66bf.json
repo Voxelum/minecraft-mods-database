@@ -1,6 +1,18 @@
 {
   "name": "minerally-1.19.2-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DKG1CVAt",
+      "versionId": "nz1dxeXY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 887708,
+      "fileId": 4770939
+    }
+  ],
   "fabric": [
     {
       "modId": "minerally",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHvKJofA",
+      "versionId": "u7kno2DB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 955526,
+      "fileId": 5743094
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy",
+      "version": "1.7.4"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.693c75e-36"
+    }
+  ]
+}

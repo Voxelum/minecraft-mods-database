@@ -1,6 +1,12 @@
 {
   "name": "shingeki-no-craft-2.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MLwQGRjp",
+      "versionId": "EHSTNapx"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_shingeki_nocraft",

@@ -1,6 +1,18 @@
 {
   "name": "[口渴] ThirstWasTaken-1.20.1-1.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iUheEnjm",
+      "versionId": "SBL7j9WD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 679270,
+      "fileId": 5071555
+    }
+  ],
   "forge": [
     {
       "modId": "thirst",

@@ -1,6 +1,18 @@
 {
   "name": "Alex's Mobs music mod.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ynxotL0Y",
+      "versionId": "kaLubdSg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 500532,
+      "fileId": 3470718
+    }
+  ],
   "forge": [
     {
       "modId": "alexsmobsmusic",

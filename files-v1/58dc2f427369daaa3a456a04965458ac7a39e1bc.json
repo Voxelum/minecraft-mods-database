@@ -1,6 +1,12 @@
 {
   "name": "enchantery-1.20.1-0.0.9-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IAmBzGUb",
+      "versionId": "vM5n9ajI"
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantery",

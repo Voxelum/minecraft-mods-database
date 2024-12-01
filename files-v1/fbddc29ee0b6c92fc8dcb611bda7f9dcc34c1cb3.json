@@ -1,6 +1,18 @@
 {
   "name": "kubejs-thermal-1902.1.9-build.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "taN3HInZ",
+      "versionId": "4coWDthR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421694,
+      "fileId": 4651048
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs_thermal",

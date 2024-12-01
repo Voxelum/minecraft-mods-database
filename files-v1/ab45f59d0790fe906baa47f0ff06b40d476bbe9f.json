@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HBh83VYL",
+      "versionId": "mhEMFAzY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 869089,
+      "fileId": 4774977
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rain-world-origins",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

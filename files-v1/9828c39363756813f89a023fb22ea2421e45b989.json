@@ -1,0 +1,20 @@
+{
+  "name": "puffish_attributes-0.6.4-1.20-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCFcFw09",
+      "versionId": "KVmWfGdw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puffish_attributes",
+      "version": "0.6.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

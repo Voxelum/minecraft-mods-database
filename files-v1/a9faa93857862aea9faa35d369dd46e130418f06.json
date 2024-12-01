@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FzE9gshV",
+      "versionId": "gjrAQqoH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hdskins",
+      "version": "6.12.3+1.20.5"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.18.0+1.20.5"
+    }
+  ]
+}

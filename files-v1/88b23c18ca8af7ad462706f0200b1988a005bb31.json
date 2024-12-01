@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlOA6mdQ",
+      "versionId": "gbCq2Ws8"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moderntrainparts",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moderntrainparts",
+      "version": "0.1.7-fabric-mc1.20.1-cr0.5.1-f"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

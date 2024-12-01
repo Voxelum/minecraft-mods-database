@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "UndergroundBunkers-1.0.4-1.21.x-fabric.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "MRK4tULJ",
       "versionId": "IOxi2RHE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 961418,
+      "fileId": 5625514
     }
   ],
   "fabric": [

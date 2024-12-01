@@ -1,0 +1,26 @@
+{
+  "name": "omnihopper-2.3.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i2u9r3li",
+      "versionId": "sYu6uIlq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610606,
+      "fileId": 5476745
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "omnihopper",
+      "version": "2.3.2+1.21"
+    },
+    {
+      "modId": "cooldown-coordinator",
+      "version": "0.7.2"
+    }
+  ]
+}

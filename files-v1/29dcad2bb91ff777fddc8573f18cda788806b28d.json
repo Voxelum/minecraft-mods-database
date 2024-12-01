@@ -1,4 +1,16 @@
 {
   "name": "iChunUtil1.0.1.zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229060,
+      "fileId": 2232029
+    }
+  ],
+  "forge": [
+    {
+      "modId": "iChunUtil",
+      "version": "1.0.1"
+    }
+  ]
 }

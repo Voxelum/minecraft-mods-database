@@ -1,6 +1,18 @@
 {
   "name": "便携牛奶 splash_milk-1.18.2-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ELrdP6OH",
+      "versionId": "eE2JAoKk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 564244,
+      "fileId": 3697193
+    }
+  ],
   "forge": [
     {
       "modId": "splash_milk",

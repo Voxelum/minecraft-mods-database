@@ -1,0 +1,20 @@
+{
+  "name": "methane-3.8.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkI4SefA",
+      "versionId": "1ZzlWdyQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "methane",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "libmcdev-fabric",
+      "version": "1.4.2"
+    }
+  ]
+}

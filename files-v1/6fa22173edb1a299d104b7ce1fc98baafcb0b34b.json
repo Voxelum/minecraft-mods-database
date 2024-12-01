@@ -1,0 +1,26 @@
+{
+  "name": "noclip-1.1.5+1.20-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yDx6WroB",
+      "versionId": "ZFpp6mPh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 653377,
+      "fileId": 4573313
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noclip",
+      "version": "1.1.5+1.20-fabric"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    }
+  ]
+}

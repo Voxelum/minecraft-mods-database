@@ -1,6 +1,18 @@
 {
   "name": "BedBenefits.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wl8l4Sim",
+      "versionId": "kF7hMms8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377051,
+      "fileId": 4714734
+    }
+  ],
   "forge": [
     {
       "modId": "bedbenefits",

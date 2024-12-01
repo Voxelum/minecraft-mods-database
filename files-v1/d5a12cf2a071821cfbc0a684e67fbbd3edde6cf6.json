@@ -1,6 +1,18 @@
 {
   "name": "data-loader-1.1.5+1.20.2-1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gEUERjxK",
+      "versionId": "yae0S7x5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558571,
+      "fileId": 5143274
+    }
+  ],
   "fabric": [
     {
       "modId": "dataloader",

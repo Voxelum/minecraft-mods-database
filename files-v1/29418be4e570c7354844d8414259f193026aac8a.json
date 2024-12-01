@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 375954,
+      "fileId": 5737041
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emerald_tools",
+      "version": "1.8.17"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.8.19"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

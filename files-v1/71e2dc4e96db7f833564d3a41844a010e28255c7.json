@@ -1,6 +1,18 @@
 {
   "name": "MysticalAgriculture-1.15.2-3.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C95ReXie",
+      "versionId": "nDLQcgGG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246640,
+      "fileId": 3022674
+    }
+  ],
   "forge": [
     {
       "modId": "mysticalagriculture",

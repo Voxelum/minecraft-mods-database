@@ -1,6 +1,18 @@
 {
   "name": "DuraDisplay-1.20.1-Forge-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hjotWeH6",
+      "versionId": "5vs6xkfw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1009842,
+      "fileId": 5313546
+    }
+  ],
   "forge": [
     {
       "modId": "duradisplay",

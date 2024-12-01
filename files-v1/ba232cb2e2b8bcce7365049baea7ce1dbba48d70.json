@@ -1,6 +1,18 @@
 {
   "name": "kelpfertilizer-1.19.2-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eKxUpBGQ",
+      "versionId": "qEvDeQhB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367598,
+      "fileId": 4964598
+    }
+  ],
   "forge": [
     {
       "modId": "kelpfertilizer",

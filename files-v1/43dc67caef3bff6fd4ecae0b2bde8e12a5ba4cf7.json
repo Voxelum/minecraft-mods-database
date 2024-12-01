@@ -1,6 +1,12 @@
 {
   "name": "mysticalworld-1.12.2-1.6.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 282940,
+      "fileId": 2838234
+    }
+  ],
   "forge": [
     {
       "modId": "mysticalworld",

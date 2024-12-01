@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5GyyYkp",
+      "versionId": "5v3AJE3r"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316873,
+      "fileId": 5397061
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charmofundying",
+      "version": "8.0.0+1.20.6"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.16.0+1.20.6"
+    }
+  ]
+}

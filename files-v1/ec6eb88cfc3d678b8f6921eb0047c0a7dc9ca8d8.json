@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "enchantments-encore-1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GD1QoExk",
+      "versionId": "G0Ilv4nD"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_enchantments_encore",

@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-networking-blockentity-v0",
+      "version": "0.2.9+3cc0f0907d"
+    }
+  ]
+}

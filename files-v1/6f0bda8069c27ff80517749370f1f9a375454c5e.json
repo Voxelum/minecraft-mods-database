@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PUyoLtZT",
+      "versionId": "52gPFmNP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 988099,
+      "fileId": 5206398
+    }
+  ],
   "fabric": [
     {
       "modId": "fishingparadise",

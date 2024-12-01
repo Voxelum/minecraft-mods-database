@@ -1,6 +1,18 @@
 {
   "name": "NBTac-FORGE-1.19.2-1.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UR0ocuEt",
+      "versionId": "PsIVD2L6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 813557,
+      "fileId": 4800558
+    }
+  ],
   "forge": [
     {
       "modId": "nbt_ac",

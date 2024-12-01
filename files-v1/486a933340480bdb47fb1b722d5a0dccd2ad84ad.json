@@ -1,6 +1,18 @@
 {
   "name": "randomium-1.19.2-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lz9WMhfG",
+      "versionId": "orX2FOl5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523013,
+      "fileId": 4022847
+    }
+  ],
   "forge": [
     {
       "modId": "randomium",

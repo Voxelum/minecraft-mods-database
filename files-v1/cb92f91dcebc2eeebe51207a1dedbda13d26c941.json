@@ -1,6 +1,18 @@
 {
   "name": "deathlog-0.4.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TPAYeAOc",
+      "versionId": "kzo0m0Wn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 496150,
+      "fileId": 5488936
+    }
+  ],
   "fabric": [
     {
       "modId": "deathlog",

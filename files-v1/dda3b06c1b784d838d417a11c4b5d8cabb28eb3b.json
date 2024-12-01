@@ -1,6 +1,12 @@
 {
   "name": "jsonem-0.2.1+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fumdX4iT",
+      "versionId": "3zGY0qIL"
+    }
+  ],
   "fabric": [
     {
       "modId": "jsonem",

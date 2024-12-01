@@ -1,6 +1,12 @@
 {
   "name": "astrocraft-1.2.4-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DCWEXia7",
+      "versionId": "PdG6r4Mw"
+    }
+  ],
   "fabric": [
     {
       "modId": "astrocraft",

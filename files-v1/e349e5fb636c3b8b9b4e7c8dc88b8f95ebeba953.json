@@ -1,6 +1,18 @@
 {
   "name": "evenmoreinstruments-fabric-1.20-1.20.2-3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mcs3cqJ1",
+      "versionId": "uKvCpN9H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 898118,
+      "fileId": 4940826
+    }
+  ],
   "fabric": [
     {
       "modId": "evenmoreinstruments",

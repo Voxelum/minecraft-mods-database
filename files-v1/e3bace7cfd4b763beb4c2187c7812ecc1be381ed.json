@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F3kLpGw6",
+      "versionId": "pzmBR2lS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363543,
+      "fileId": 3884558
+    }
+  ],
   "forge": [
     {
       "modId": "divinerpg",

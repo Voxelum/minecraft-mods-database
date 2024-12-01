@@ -1,6 +1,12 @@
 {
   "name": "CustomSkinLoader_ForgeLegacy-14.15.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "idMHQ4n2",
+      "versionId": "skh1soYP"
+    }
+  ],
   "forge": [
     {
       "modId": "customskinloader",

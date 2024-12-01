@@ -1,4 +1,22 @@
 {
   "name": "appeng-rv13-c-mc15x.zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AlDk2AVa",
+      "versionId": "n9BbByov"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 223793,
+      "fileId": 2212861
+    }
+  ],
+  "forge": [
+    {
+      "modId": "AppliedEnergistics",
+      "version": "rv13.c"
+    }
+  ]
 }

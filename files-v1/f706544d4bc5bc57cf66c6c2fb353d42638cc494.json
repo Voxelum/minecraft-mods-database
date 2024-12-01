@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MopriG0p",
+      "versionId": "7QDWVZwD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ingamestreamchat",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "mcef",
+      "version": "2.1.6"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YmiD4MZg",
+      "versionId": "UG1IcSgV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 908191,
+      "fileId": 5321185
+    }
+  ],
   "forge": [
     {
       "modId": "portalgun",

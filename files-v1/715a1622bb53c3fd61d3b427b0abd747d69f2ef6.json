@@ -1,6 +1,12 @@
 {
   "name": "walljump-forge-1.15.2-1.3.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 295319,
+      "fileId": 2899166
+    }
+  ],
   "forge": [
     {
       "modId": "walljump",

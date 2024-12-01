@@ -1,6 +1,18 @@
 {
   "name": "vintageimprovements-1.19.2-0.1.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S27aYArf",
+      "versionId": "XuvHnrOC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 946579,
+      "fileId": 5210959
+    }
+  ],
   "forge": [
     {
       "modId": "vintageimprovements",

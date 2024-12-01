@@ -1,6 +1,18 @@
 {
   "name": "create_power_loader-1.4.0-mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wPQ6GgFE",
+      "versionId": "iJQVeEMm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936020,
+      "fileId": 5062116
+    }
+  ],
   "forge": [
     {
       "modId": "create_power_loader",

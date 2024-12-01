@@ -1,0 +1,16 @@
+{
+  "name": "[Soot的三明治]sootsandwichcraft1.2.3[1.18.2].jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "breadcraft",
+      "version": "1.2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "breadcraft",
+      "version": "1.2.3"
+    }
+  ]
+}

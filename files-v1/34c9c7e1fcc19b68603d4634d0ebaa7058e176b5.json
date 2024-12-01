@@ -1,6 +1,18 @@
 {
   "name": "createutilities-0.3.0+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PRHeWeBs",
+      "versionId": "TeeRwKXl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881586,
+      "fileId": 5225303
+    }
+  ],
   "forge": [
     {
       "modId": "createutilities",

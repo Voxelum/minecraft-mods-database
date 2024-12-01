@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJR6V0I2",
+      "versionId": "qpRAwRNN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909654,
+      "fileId": 5878131
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moremobs",
+      "version": "1.5.3+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moremobs",
+      "version": "1.5.3+mod"
+    }
+  ]
+}

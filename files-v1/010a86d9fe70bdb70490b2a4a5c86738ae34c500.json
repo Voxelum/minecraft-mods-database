@@ -1,6 +1,12 @@
 {
   "name": "journeymap-1.18.2-5.9.7p1-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 32274,
+      "fileId": 5157808
+    }
+  ],
   "fabric": [
     {
       "modId": "journeymap-fabric",

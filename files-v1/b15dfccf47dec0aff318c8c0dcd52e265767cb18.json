@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gi80Z09B",
+      "versionId": "BiRJ7IMI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 746391,
+      "fileId": 5847092
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterstructure",
+      "version": "3.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterstructure",
+      "version": "3.9"
+    }
+  ]
+}

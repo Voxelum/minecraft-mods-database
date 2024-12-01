@@ -1,6 +1,18 @@
 {
   "name": "hud_texts_v2.0_1.20.1_[FORGE].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sgFIOK5w",
+      "versionId": "q7wBiFtu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896641,
+      "fileId": 4832047
+    }
+  ],
   "forge": [
     {
       "modId": "ags_hud_texts",

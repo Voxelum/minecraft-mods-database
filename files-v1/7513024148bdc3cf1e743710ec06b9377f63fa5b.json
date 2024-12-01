@@ -1,6 +1,12 @@
 {
   "name": "boatcontainer-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 526274,
+      "fileId": 3455844
+    }
+  ],
   "fabric": [
     {
       "modId": "boatcontainer",

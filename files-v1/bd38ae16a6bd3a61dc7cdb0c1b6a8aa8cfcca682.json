@@ -1,0 +1,30 @@
+{
+  "name": "skyblock-mod-1.20.2-1.8.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GTIrlvJk",
+      "versionId": "7KrfYlne"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658094,
+      "fileId": 4765202
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyblockmod",
+      "version": "1.8.4"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.4.0.202211300538-r"
+    },
+    {
+      "modId": "renderer",
+      "version": "1.0"
+    }
+  ]
+}

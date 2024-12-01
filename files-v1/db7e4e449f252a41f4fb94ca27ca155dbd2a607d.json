@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "guitPqEi",
+      "versionId": "KECuk8f9"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "storagedrawers",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "storagedrawers",
+      "version": "12.10.4"
+    }
+  ]
+}

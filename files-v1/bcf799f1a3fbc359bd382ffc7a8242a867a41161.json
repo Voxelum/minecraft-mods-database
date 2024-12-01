@@ -1,6 +1,12 @@
 {
   "name": "blahaj-totem-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aJb4vlkM",
+      "versionId": "WNJD6af1"
+    }
+  ],
   "fabric": [
     {
       "modId": "blahaj-totem",

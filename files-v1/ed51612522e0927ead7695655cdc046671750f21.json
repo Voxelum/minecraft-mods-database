@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "45F9B0j8",
+      "versionId": "ruIUf5y0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 635110,
+      "fileId": 3840222
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unsaddle",
+      "version": "0.1.0+1.17"
+    },
+    {
+      "modId": "unsaddle-core",
+      "version": "0.1.0"
+    }
+  ]
+}

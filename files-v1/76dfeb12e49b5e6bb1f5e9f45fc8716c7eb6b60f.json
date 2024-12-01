@@ -1,6 +1,18 @@
 {
   "name": "bounced-4.1.0-fabric1.20.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2mlOZXZr",
+      "versionId": "TvRLoo0V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 844458,
+      "fileId": 5235353
+    }
+  ],
   "fabric": [
     {
       "modId": "bounced",

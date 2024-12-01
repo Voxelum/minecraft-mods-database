@@ -1,6 +1,18 @@
 {
   "name": "Beyond-Earth-1.20.1-7.0-PRERELEASE.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xSfkjdDu",
+      "versionId": "NVCE3ueP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377448,
+      "fileId": 5262054
+    }
+  ],
   "forge": [
     {
       "modId": "beyond_earth",

@@ -1,6 +1,18 @@
 {
   "name": "carpet-tis-addition-mc1.20.2-v1.55.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jE0SjGuf",
+      "versionId": "k8obAh0N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397510,
+      "fileId": 4969192
+    }
+  ],
   "fabric": [
     {
       "modId": "carpet-tis-addition",

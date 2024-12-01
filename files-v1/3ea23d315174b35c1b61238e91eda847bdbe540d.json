@@ -1,0 +1,34 @@
+{
+  "name": "midnightcontrols-fabric-1.10.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bXX9h73M",
+      "versionId": "bwBto4CW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621768,
+      "fileId": 5896777
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "midnightcontrols",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "obsidianui",
+      "version": "0.2.7+mc1.21"
+    },
+    {
+      "modId": "org_aperlambda_lambdajcommon",
+      "version": "1.8.1"
+    }
+  ]
+}

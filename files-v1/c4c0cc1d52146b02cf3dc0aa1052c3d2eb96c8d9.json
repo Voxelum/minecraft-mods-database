@@ -1,6 +1,12 @@
 {
   "name": "lieutenant-1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 295303,
+      "fileId": 2796815
+    }
+  ],
   "forge": [
     {
       "modId": "lieutenant",

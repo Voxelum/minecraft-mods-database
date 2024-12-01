@@ -1,6 +1,18 @@
 {
   "name": "Quit-Forge-1.19.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bcIar9jW",
+      "versionId": "z9KwTtvs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 684750,
+      "fileId": 4017627
+    }
+  ],
   "forge": [
     {
       "modId": "quit",

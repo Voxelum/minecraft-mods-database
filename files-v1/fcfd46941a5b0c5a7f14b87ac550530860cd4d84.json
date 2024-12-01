@@ -1,6 +1,18 @@
 {
   "name": "TradingPost-v7.0.0-1.20-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8pcjMDgj",
+      "versionId": "CNdo5HIf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 539057,
+      "fileId": 4580320
+    }
+  ],
   "forge": [
     {
       "modId": "tradingpost",

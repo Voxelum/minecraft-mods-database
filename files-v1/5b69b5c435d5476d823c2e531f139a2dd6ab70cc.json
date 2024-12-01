@@ -1,6 +1,12 @@
 {
   "name": "k9mod-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZvTlFBC",
+      "versionId": "oZZCeC21"
+    }
+  ],
   "fabric": [
     {
       "modId": "k9mod",

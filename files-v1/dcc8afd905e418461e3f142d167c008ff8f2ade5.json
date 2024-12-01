@@ -1,6 +1,12 @@
 {
   "name": "liquidburner-1.19.2-0.4.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kDFtUgr8",
+      "versionId": "gCyIl54e"
+    }
+  ],
   "forge": [
     {
       "modId": "liquidburner",

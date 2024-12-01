@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yjvKidNM",
+      "versionId": "Qiv1UPsr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 986380,
+      "fileId": 5415764
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lighty",
+      "version": "3.0.0-beta.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.40+80f8cf51b0"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.4+c5fc38b3b0"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "4.2.4+b21c00cbb0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.1.0+c0e5481fb0"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.45+80f8cf51b0"
+    }
+  ]
+}

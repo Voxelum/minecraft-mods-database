@@ -1,6 +1,18 @@
 {
   "name": "TMechworks_mc1.6.4_0.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fzl1Nrfy",
+      "versionId": "OHXZX09u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 78057,
+      "fileId": 784610
+    }
+  ],
   "forge": [
     {
       "modId": "TMechworks",

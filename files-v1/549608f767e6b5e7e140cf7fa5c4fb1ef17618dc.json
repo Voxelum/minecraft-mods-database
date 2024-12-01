@@ -1,0 +1,24 @@
+{
+  "name": "spelunker-1.5.2-mc1.19.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 572592,
+      "fileId": 4377245
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spelunker",
+      "version": "1.5.2-mc1.19"
+    },
+    {
+      "modId": "tweed4_data",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "tweed4_data_hjson",
+      "version": "1.1.0"
+    }
+  ]
+}

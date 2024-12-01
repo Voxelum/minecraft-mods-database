@@ -1,0 +1,42 @@
+{
+  "name": "nightautoconfig-1.0.6-fabric.1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HQpcCFZg",
+      "versionId": "dgjhefjt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1061154,
+      "fileId": 5541581
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nightautoconfig",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_json",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_hocon",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_yaml",
+      "version": "3.8.0"
+    }
+  ]
+}

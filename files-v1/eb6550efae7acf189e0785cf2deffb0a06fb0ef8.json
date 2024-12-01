@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnIz9L5P",
+      "versionId": "GcbL2Vbk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1039188,
+      "fileId": 5752051
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sawmillhouse",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sawmillhouse",
+      "version": "1.3.0"
+    }
+  ]
+}

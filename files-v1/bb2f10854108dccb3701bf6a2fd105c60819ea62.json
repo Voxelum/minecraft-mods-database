@@ -1,0 +1,28 @@
+{
+  "name": "journeymap-fabric-1.21.3-6.0.0-beta.29.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 32274,
+      "fileId": 5866548
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap",
+      "version": "1.21.3-6.0.0-beta.29"
+    },
+    {
+      "modId": "ar_com_hjg_pngj",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "journeymap-api-fabric",
+      "version": "2.0.0-1.21.3-SNAPSHOT"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.17-1.21.3"
+    }
+  ]
+}

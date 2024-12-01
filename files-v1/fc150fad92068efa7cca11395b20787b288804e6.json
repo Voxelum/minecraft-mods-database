@@ -1,6 +1,12 @@
 {
   "name": "PacketFixer-forge-1.1.7-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 689467,
+      "fileId": 4742651
+    }
+  ],
   "forge": [
     {
       "modId": "packetfixer",

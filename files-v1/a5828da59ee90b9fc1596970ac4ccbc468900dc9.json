@@ -1,6 +1,18 @@
 {
   "name": "Blood-Smeltery-1.16.5-1.1.5a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1a7pNmC7",
+      "versionId": "J8WV4oX3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 476863,
+      "fileId": 4021240
+    }
+  ],
   "forge": [
     {
       "modId": "bloodsmeltery",

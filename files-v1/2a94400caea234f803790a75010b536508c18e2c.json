@@ -1,6 +1,12 @@
 {
   "name": "crab-forge-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8y8sDTPF",
+      "versionId": "97RszsBQ"
+    }
+  ],
   "forge": [
     {
       "modId": "crab",

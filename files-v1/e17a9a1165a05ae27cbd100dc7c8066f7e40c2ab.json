@@ -1,6 +1,18 @@
 {
   "name": "entity_model_features_fabric_1.19.4-0.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4I1XuqiY",
+      "versionId": "TEAO0eWy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 844662,
+      "fileId": 4483682
+    }
+  ],
   "fabric": [
     {
       "modId": "entity_model_features",

@@ -1,0 +1,26 @@
+{
+  "name": "Myths_and_Legends-1.6.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CaOWby9K",
+      "versionId": "NfmD6cUw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1037337,
+      "fileId": 5827315
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythsandlegends",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

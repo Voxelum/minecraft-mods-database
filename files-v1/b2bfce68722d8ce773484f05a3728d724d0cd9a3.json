@@ -1,0 +1,22 @@
+{
+  "name": "village-hero-plus-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZnc0tTs",
+      "versionId": "FWg3Gvk4"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_village_heroplus",
+      "version": "4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_village_heroplus",
+      "version": "4"
+    }
+  ]
+}

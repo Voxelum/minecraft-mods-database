@@ -1,6 +1,18 @@
 {
   "name": "movingelevators-1.4.4-forge-mc1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9KZOe6HD",
+      "versionId": "VZVSwhAx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373051,
+      "fileId": 4768674
+    }
+  ],
   "forge": [
     {
       "modId": "movingelevators",

@@ -1,6 +1,18 @@
 {
   "name": "1.19.2-forge-betteramethyst-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "od3DqJ7M",
+      "versionId": "Iug4SYvR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 559220,
+      "fileId": 4808335
+    }
+  ],
   "forge": [
     {
       "modId": "betteramethyst",

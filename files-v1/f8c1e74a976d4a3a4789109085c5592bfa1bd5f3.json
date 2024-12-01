@@ -1,6 +1,12 @@
 {
   "name": "methane-3.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkI4SefA",
+      "versionId": "DwSSQZK7"
+    }
+  ],
   "fabric": [
     {
       "modId": "methane",

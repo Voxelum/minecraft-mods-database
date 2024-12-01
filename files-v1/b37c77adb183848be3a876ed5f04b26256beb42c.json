@@ -1,0 +1,32 @@
+{
+  "name": "Couplings-1.8.0+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 311120,
+      "fileId": 3684132
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "couplings",
+      "version": "1.8.0+1.18.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.3+d7c144a860"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.0.20+d882b91560"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

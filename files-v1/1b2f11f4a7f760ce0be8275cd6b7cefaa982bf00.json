@@ -1,0 +1,28 @@
+{
+  "name": "barebackhorseriding-1.20.1-2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gc78ZRwD",
+      "versionId": "6Wh10nby"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949932,
+      "fileId": 5572960
+    }
+  ],
+  "forge": [
+    {
+      "modId": "barebackhorseriding",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "barebackhorseriding",
+      "version": "2.2"
+    }
+  ]
+}

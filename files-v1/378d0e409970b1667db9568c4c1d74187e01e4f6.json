@@ -1,6 +1,18 @@
 {
   "name": "createliquidfuel-2.0.1-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sH9tXU9f",
+      "versionId": "GxuUBJGD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 840734,
+      "fileId": 4684881
+    }
+  ],
   "forge": [
     {
       "modId": "createliquidfuel",

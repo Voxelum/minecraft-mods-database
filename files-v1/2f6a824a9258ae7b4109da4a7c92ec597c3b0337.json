@@ -1,0 +1,26 @@
+{
+  "name": "Mambience-5.5.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qPzLkTsE",
+      "versionId": "yAEaUcEd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317590,
+      "fileId": 5620825
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mambience",
+      "version": "5.5.1+1.21.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

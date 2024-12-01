@@ -1,6 +1,18 @@
 {
   "name": "jmi-forge-1.18.2-0.13-31.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M1ZKbfkJ",
+      "versionId": "aOH3RQr1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525447,
+      "fileId": 3965092
+    }
+  ],
   "forge": [
     {
       "modId": "jmi",

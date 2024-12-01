@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AKkcXPCY",
+      "versionId": "vQWY9gPM"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "star_wars_order_six_six",
+      "version": "1.9.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "star_wars_order_six_six",
+      "version": "1.4"
+    }
+  ]
+}

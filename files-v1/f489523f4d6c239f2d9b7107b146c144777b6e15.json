@@ -1,6 +1,18 @@
 {
   "name": "Clumps-5.0.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wnxd13zP",
+      "versionId": "KBjSLpWi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256717,
+      "fileId": 3041924
+    }
+  ],
   "forge": [
     {
       "modId": "clumps",

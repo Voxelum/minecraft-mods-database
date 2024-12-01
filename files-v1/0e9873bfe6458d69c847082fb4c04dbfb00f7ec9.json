@@ -1,0 +1,26 @@
+{
+  "name": "shulkerboxslot-fabric-6.0.0+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R5T1RmWr",
+      "versionId": "M83bv1l4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316881,
+      "fileId": 5802203
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shulkerboxslot",
+      "version": "6.0.0+1.21.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.17.2+1.21"
+    }
+  ]
+}

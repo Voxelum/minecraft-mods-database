@@ -1,6 +1,18 @@
 {
   "name": "Mocap-FORGE-1.19.2-1.3.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gWu44BYU",
+      "versionId": "lDkCw1KZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656300,
+      "fileId": 5689204
+    }
+  ],
   "forge": [
     {
       "modId": "mocap",

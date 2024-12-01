@@ -1,155 +1,41 @@
 {
-  "name": "Morpheus-1.16.5-4.2.70.jar",
+  "name": "createchunkloading-1.6.0-forge.jar",
   "domain": "mods",
   "modrinth": [
-    {
-      "projectId": "yNL1NF5j",
-      "versionId": "ARM0tZaQ"
-    },
     {
       "projectId": "eldBwa5V",
       "versionId": "IC08UVaf"
     }
   ],
-  "forge": [
+  "curseforge": [
     {
-      "modId": "morpheus",
-      "version": "4.2.70"
+      "projectId": 620784,
+      "fileId": 5407755
     },
     {
-      "modId": "clumps",
-      "version": "4.0.1"
-    },
-    {
-      "modId": "majruszs_difficulty",
-      "version": "1.16.4-0.2.2"
-    },
-    {
-      "modId": "rhino",
-      "version": "1802.2.1-build.252"
-    },
-    {
-      "modId": "logprot",
-      "version": "1.4"
-    },
-    {
-      "modId": "berriespp",
-      "version": "1.5.6"
-    },
-    {
-      "modId": "toofast",
-      "version": "0.0.1.2"
-    },
-    {
-      "modId": "mininggadgets",
-      "version": "1.15.6"
-    },
-    {
-      "modId": "quarkoddities",
-      "version": "1.20.1"
+      "projectId": 312353,
+      "fileId": 5414790
     }
   ],
-  "fabric": [
+  "forge": [
     {
-      "modId": "roughlyenoughresources",
-      "version": "2.6.0"
+      "modId": "woodenshears",
+      "version": "1.18.2-1.2.1.2"
     },
     {
-      "modId": "magiclib-1_20_1",
-      "version": "0.7.376+bce84f9-beta"
-    },
-    {
-      "modId": "customwindowtitle",
-      "version": "1.1.1"
-    },
-    {
-      "modId": "iris",
-      "version": "1.6.10"
-    },
-    {
-      "modId": "org_anarres_jcpp",
-      "version": "1.4.14"
-    },
-    {
-      "modId": "fabric-key-binding-api-v1",
-      "version": "1.0.23+aaaf9d332d"
-    },
-    {
-      "modId": "io_github_douira_glsl-transformer",
-      "version": "2.0.0-pre13"
-    },
-    {
-      "modId": "org_antlr_antlr4-runtime",
-      "version": "4.11.1"
-    },
-    {
-      "modId": "toolstats",
-      "version": "12.0.2"
-    },
-    {
-      "modId": "sodium",
-      "version": "0.5.5"
-    },
-    {
-      "modId": "fabric-api-base",
-      "version": "0.4.34+f31bf8813b"
-    },
-    {
-      "modId": "fabric-block-view-api-v2",
-      "version": "1.0.2+73761d2e3b"
-    },
-    {
-      "modId": "fabric-rendering-fluids-v1",
-      "version": "3.0.31+f4b7e4243b"
-    },
-    {
-      "modId": "fabric-rendering-data-attachment-v1",
-      "version": "0.3.40+73761d2e3b"
-    },
-    {
-      "modId": "fabric-resource-loader-v0",
-      "version": "0.11.14+f31bf8813b"
-    },
-    {
-      "modId": "gammautils",
-      "version": "1.7.14-beta"
-    },
-    {
-      "modId": "creeperaiupdated",
-      "version": "1.5.2"
+      "modId": "RegionalWater-1.7.10-1.0.1",
+      "version": ""
     },
     {
       "modId": "createchunkloading",
       "version": "1.6.0"
     },
     {
-      "modId": "lengthyladders",
-      "version": "1.0.5"
-    },
-    {
-      "modId": "dynview",
-      "version": "1.20.1-3.2"
-    },
-    {
-      "modId": "iris",
-      "version": "1.6.7"
-    },
-    {
-      "modId": "org_anarres_jcpp",
-      "version": "1.4.14"
-    },
-    {
-      "modId": "fabric-key-binding-api-v1",
-      "version": "1.0.23+aaaf9d332d"
-    },
-    {
-      "modId": "io_github_douira_glsl-transformer",
-      "version": "2.0.0-pre13"
-    },
-    {
-      "modId": "org_antlr_antlr4-runtime",
-      "version": "4.11.1"
-    },
+      "modId": "artifacts",
+      "version": "9.5.11"
+    }
+  ],
+  "fabric": [
     {
       "modId": "chalk",
       "version": "2.2.0"
@@ -157,6 +43,10 @@
     {
       "modId": "simplefabric",
       "version": "1.0.0"
+    },
+    {
+      "modId": "sodium-extra",
+      "version": "0.6.0-beta.4+mc1.21.3"
     }
   ]
 }

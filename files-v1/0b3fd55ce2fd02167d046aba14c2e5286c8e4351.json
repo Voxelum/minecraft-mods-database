@@ -1,6 +1,18 @@
 {
   "name": "1.17.1-additionalbars-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hgNzwsf3",
+      "versionId": "AwYNZeVK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431823,
+      "fileId": 3380193
+    }
+  ],
   "fabric": [
     {
       "modId": "additionalbars",

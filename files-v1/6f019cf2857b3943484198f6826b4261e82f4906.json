@@ -1,6 +1,18 @@
 {
   "name": "togenc-forge-1.20.x-v1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OzKqGHgZ",
+      "versionId": "VxsIGLmM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891161,
+      "fileId": 4657182
+    }
+  ],
   "forge": [
     {
       "modId": "togenc",

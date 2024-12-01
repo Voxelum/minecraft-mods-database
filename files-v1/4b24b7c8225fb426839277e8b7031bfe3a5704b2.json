@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VFKE55Wa",
+      "versionId": "jXj2bVsi"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lios_seafaring_dungeons",
+      "version": "0.0.2-1.18.2-1.21-Universal"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lios_seafaring_dungeons",
+      "version": "1.18.2-1.21-v0.0.2"
+    }
+  ]
+}

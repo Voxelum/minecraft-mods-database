@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CaOWby9K",
+      "versionId": "FRKJQ1UC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1037337,
+      "fileId": 5510086
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythsandlegends",
+      "version": "1.5-HOTFIX"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

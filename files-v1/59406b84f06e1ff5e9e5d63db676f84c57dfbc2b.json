@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8CsGxc95",
+      "versionId": "EQnLGPXn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shared-resources",
+      "version": "1.9.1+1.20.4"
+    },
+    {
+      "modId": "shared-resources-api",
+      "version": "1.9.1"
+    }
+  ]
+}

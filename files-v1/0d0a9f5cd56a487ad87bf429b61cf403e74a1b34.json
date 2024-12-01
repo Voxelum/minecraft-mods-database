@@ -1,0 +1,22 @@
+{
+  "name": "no-player-nametags-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NJYLZYQk",
+      "versionId": "4hp1cTqQ"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_no_playernametags",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_no_playernametags",
+      "version": "2"
+    }
+  ]
+}

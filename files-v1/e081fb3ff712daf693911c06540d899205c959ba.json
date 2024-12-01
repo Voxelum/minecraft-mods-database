@@ -1,6 +1,12 @@
 {
   "name": "skippy-pearls-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KM7gMSY1",
+      "versionId": "BLpa18LT"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_skippy_pearls",

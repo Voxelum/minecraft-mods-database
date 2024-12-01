@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y8uFrUil",
+      "versionId": "APODDi4p"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ukulib",
+      "version": "1.5.0+1.21.2"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4373"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.5+c47b9d4373"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.35+c47b9d4373"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

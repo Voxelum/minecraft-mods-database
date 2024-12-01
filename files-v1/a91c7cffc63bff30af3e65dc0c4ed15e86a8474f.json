@@ -1,0 +1,28 @@
+{
+  "name": "[增强视觉效果／拓展视觉效果] EnhancedVisuals_FABRIC_v1.5.5_mc1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KjL0jE2w",
+      "versionId": "56osy0w0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255389,
+      "fileId": 3804783
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.5.5"
+    }
+  ]
+}

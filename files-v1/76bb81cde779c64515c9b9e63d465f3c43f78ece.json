@@ -1,6 +1,18 @@
 {
   "name": "puffish_skills-0.9.0-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hqQqvaa4",
+      "versionId": "qD9XyQgj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835091,
+      "fileId": 4744361
+    }
+  ],
   "fabric": [
     {
       "modId": "puffish_skills",

@@ -1,0 +1,26 @@
+{
+  "name": "theimpossiblelibrary-1.20.1-fabric-0.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZyFWSztU",
+      "versionId": "lN3Z5yKr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661115,
+      "fileId": 4742107
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "theimpossiblelibrary",
+      "version": "1.20.1-fabric-0.3.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

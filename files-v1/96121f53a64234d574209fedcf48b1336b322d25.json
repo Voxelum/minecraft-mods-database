@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XTAy8Fqs",
+      "versionId": "kKnWhXxo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967792,
+      "fileId": 5068040
+    }
+  ],
   "forge": [
     {
       "modId": "shieldbannerfix",

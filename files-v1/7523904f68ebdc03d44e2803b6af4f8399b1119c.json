@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "totem-party",
+      "version": "1.1.1-1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

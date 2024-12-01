@@ -1,6 +1,18 @@
 {
   "name": "sit-1.17.1-13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VKXzIykF",
+      "versionId": "vPtybpyi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 328163,
+      "fileId": 3434198
+    }
+  ],
   "fabric": [
     {
       "modId": "sit",

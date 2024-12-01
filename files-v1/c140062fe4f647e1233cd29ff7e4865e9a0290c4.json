@@ -1,6 +1,12 @@
 {
   "name": "oceanic-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wL0X4qCW",
+      "versionId": "LW4QZ0FE"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_oceanic",

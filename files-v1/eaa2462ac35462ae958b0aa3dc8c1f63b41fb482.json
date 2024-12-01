@@ -1,0 +1,22 @@
+{
+  "name": "NoMoreMineshafts.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 725778,
+      "fileId": 4172204
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nomoremineshaft",
+      "version": "0.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nomoremineshaft",
+      "version": "0.0.1"
+    }
+  ]
+}

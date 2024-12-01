@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iwvovClp",
+      "versionId": "HGmUeZma"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldexport",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "de_javagl_obj",
+      "version": "0.3.0"
+    }
+  ]
+}

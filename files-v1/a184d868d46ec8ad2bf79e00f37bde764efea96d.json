@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HXF82T3G",
+      "versionId": "45wd2iUK"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biomesoplenty",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

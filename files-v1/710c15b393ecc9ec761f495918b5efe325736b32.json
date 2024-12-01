@@ -1,6 +1,18 @@
 {
   "name": "victus-0.1.12+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sy5mAKPK",
+      "versionId": "xU13RTDm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 534492,
+      "fileId": 3972659
+    }
+  ],
   "fabric": [
     {
       "modId": "victus",

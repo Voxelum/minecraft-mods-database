@@ -1,6 +1,18 @@
 {
   "name": "AFKfish-0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cP5qAS1c",
+      "versionId": "iKL62AwI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901181,
+      "fileId": 4953591
+    }
+  ],
   "fabric": [
     {
       "modId": "autofish",

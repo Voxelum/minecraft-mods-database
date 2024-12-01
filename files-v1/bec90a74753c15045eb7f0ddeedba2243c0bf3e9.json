@@ -1,6 +1,18 @@
 {
   "name": "RecipeStages-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qXkLFB0L",
+      "versionId": "qn8SFcD2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 280554,
+      "fileId": 3200327
+    }
+  ],
   "forge": [
     {
       "modId": "recipestages",

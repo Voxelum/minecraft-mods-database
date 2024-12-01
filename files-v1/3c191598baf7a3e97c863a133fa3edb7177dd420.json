@@ -1,6 +1,18 @@
 {
   "name": "millenairejei-1.12.2-1.0.0-beta001.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9LyZKUm5",
+      "versionId": "ddBKDFSB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414410,
+      "fileId": 3088162
+    }
+  ],
   "forge": [
     {
       "modId": "millenairejei",

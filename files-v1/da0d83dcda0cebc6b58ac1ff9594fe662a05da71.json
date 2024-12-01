@@ -1,6 +1,18 @@
 {
   "name": "vanity_colossal_weapons-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PzD3qsuR",
+      "versionId": "ciJR5Mv2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835017,
+      "fileId": 5173417
+    }
+  ],
   "forge": [
     {
       "modId": "vanity_colossal_weapons",

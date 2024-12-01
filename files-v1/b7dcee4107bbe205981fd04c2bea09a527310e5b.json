@@ -1,0 +1,32 @@
+{
+  "name": "weeping_angels-46.0.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TEzJJY7H",
+      "versionId": "DoWzl1gH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291249,
+      "fileId": 5363875
+    }
+  ],
+  "forge": [
+    {
+      "modId": "weeping_angels",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weeping_angels",
+      "version": "46.0.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

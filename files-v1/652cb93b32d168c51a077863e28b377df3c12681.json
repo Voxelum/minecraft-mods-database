@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eCxwIAgh",
+      "versionId": "Pmoik6wP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stardoms_client",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

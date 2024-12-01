@@ -1,6 +1,18 @@
 {
   "name": "DoggyTalentsNext-1.20.1-1.18.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oXgmplvv",
+      "versionId": "7D5TQknD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 694492,
+      "fileId": 4981358
+    }
+  ],
   "forge": [
     {
       "modId": "doggytalents",

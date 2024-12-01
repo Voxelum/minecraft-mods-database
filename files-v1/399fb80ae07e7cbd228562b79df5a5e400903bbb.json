@@ -1,6 +1,18 @@
 {
   "name": "spacecatcustomprofessions-forge-20.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NHs909GQ",
+      "versionId": "riNLfDgp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 509398,
+      "fileId": 5072879
+    }
+  ],
   "forge": [
     {
       "modId": "spacecatcustomprofessions",

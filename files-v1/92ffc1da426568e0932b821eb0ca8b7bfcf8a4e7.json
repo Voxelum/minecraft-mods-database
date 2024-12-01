@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YWJRdoG6",
+      "versionId": "Tgn6aky9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcbot",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_14_x",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_15_x",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_16_x",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_17_x",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_18_x",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_19_2",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_19_3",
+      "version": "2.1.6"
+    },
+    {
+      "modId": "mcbot-1_19_4",
+      "version": "2.1.6"
+    }
+  ]
+}

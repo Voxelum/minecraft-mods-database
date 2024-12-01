@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uMCiFGlD",
+      "versionId": "hENvM4Ym"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912133,
+      "fileId": 5062757
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_renewable_blackstone",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_renewable_blackstone",
+      "version": "1.1.1"
+    }
+  ]
+}

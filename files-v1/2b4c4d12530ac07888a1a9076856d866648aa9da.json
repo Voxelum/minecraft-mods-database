@@ -1,6 +1,18 @@
 {
   "name": "darkness-fabric-mc118-2.0.91.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ja7zPEaN",
+      "versionId": "Kf8pZbaq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 337243,
+      "fileId": 3815312
+    }
+  ],
   "fabric": [
     {
       "modId": "darkness",

@@ -1,0 +1,26 @@
+{
+  "name": "craftedcore-5.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dg7PHdkJ",
+      "versionId": "TpIMYhkc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923377,
+      "fileId": 5897983
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftedcore",
+      "version": "5.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

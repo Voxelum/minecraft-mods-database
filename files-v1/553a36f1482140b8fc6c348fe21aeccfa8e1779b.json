@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pVlXMty",
+      "versionId": "7iQRlapD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010300,
+      "fileId": 5801163
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bronze",
+      "version": "1.0.11+1.21"
+    },
+    {
+      "modId": "trimmed",
+      "version": "3.0.0"
+    }
+  ]
+}

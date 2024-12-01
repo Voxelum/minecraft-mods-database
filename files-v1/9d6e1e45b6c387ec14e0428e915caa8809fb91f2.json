@@ -1,6 +1,12 @@
 {
   "name": "blossom-blade-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UMmSTwE0",
+      "versionId": "GbmURQT5"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_blossom_blade",

@@ -1,6 +1,18 @@
 {
   "name": "EpicFight-19.5.25-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vu3NZ5Ma",
+      "versionId": "lO1h844u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405076,
+      "fileId": 5500827
+    }
+  ],
   "forge": [
     {
       "modId": "epicfight",

@@ -1,6 +1,18 @@
 {
   "name": "particle-rain-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrikgvxm",
+      "versionId": "MHFlELRU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421897,
+      "fileId": 3845717
+    }
+  ],
   "fabric": [
     {
       "modId": "particlerain",

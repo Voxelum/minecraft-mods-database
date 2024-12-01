@@ -1,6 +1,18 @@
 {
   "name": "Bygone-Nether-v1.1.1-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kt3BLgXB",
+      "versionId": "gI0GEz6f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576124,
+      "fileId": 3741761
+    }
+  ],
   "forge": [
     {
       "modId": "bygonenether",

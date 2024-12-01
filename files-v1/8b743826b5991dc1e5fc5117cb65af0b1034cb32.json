@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFPOjWlN",
+      "versionId": "OPUaDuxl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "2.7.0-mc.1.20.1-.4"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

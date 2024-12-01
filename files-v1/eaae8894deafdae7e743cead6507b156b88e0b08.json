@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "vTPbJEL2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.4.2-b.build.55"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.0-alpha4+1.21.1"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "5.0"
+    }
+  ]
+}

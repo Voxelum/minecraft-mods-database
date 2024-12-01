@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YLA7UeSL",
+      "versionId": "Z0j5vc8q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yk_nyaacat_utils",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

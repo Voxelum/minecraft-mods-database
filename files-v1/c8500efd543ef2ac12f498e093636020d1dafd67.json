@@ -1,6 +1,12 @@
 {
   "name": "gravelminer-forge-1.20-16.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iAzrhsju",
+      "versionId": "xAFl7siQ"
+    }
+  ],
   "forge": [
     {
       "modId": "gravelminer",

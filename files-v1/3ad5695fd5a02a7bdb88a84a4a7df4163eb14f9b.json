@@ -1,6 +1,18 @@
 {
   "name": "TrampleNoMore-Fabric-1.19.2-9.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bc9bwujS",
+      "versionId": "KYXuXKtK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377313,
+      "fileId": 3944259
+    }
+  ],
   "fabric": [
     {
       "modId": "tramplenomore",

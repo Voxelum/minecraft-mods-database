@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SPMW1tzD",
+      "versionId": "63c6FSFq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448106,
+      "fileId": 5417452
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hwg",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.10-1.20.6"
+    }
+  ]
+}

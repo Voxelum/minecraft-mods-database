@@ -1,6 +1,12 @@
 {
   "name": "DCCH-1.18.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 404400,
+      "fileId": 3710782
+    }
+  ],
   "fabric": [
     {
       "modId": "dcch",

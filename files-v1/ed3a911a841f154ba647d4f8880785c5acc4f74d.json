@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zSS7GIKK",
+      "versionId": "3QPrNC6b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pipeplus",
+      "version": "1.16.5-1.0.7"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.4.7"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.3"
+    }
+  ]
+}

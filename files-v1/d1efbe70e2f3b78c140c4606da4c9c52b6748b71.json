@@ -1,0 +1,28 @@
+{
+  "name": "Leon's Backport Paintings fabric 1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P86fl1mK",
+      "versionId": "A7BWLIpO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014226,
+      "fileId": 5523617
+    }
+  ],
+  "forge": [
+    {
+      "modId": "paintings_backport",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paintings_backport",
+      "version": "2.0.0"
+    }
+  ]
+}

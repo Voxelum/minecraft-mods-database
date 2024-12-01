@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MSLd8JEC",
+      "versionId": "NaTT2hnm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1094831,
+      "fileId": 5793653
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eclipse_do_caos",
+      "version": "0.9.4-1.20.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

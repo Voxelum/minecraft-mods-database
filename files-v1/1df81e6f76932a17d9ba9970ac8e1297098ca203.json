@@ -1,6 +1,12 @@
 {
   "name": "registrator-1.16.5-1.4.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 550146,
+      "fileId": 3811795
+    }
+  ],
   "forge": [
     {
       "modId": "registrator",

@@ -1,6 +1,12 @@
 {
   "name": "ShoulderSurfing-Forge-1.18.2-2.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 243190,
+      "fileId": 4610687
+    }
+  ],
   "forge": [
     {
       "modId": "shouldersurfing",

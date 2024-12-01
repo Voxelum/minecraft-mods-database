@@ -1,0 +1,16 @@
+{
+  "name": "unbreakables-1.12.2-1.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 368728,
+      "fileId": 3003557
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unbreakables",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

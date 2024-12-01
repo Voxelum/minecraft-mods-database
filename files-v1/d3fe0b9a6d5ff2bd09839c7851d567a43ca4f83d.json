@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iG6ZHsUV",
+      "versionId": "npgMY1Bo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 619718,
+      "fileId": 3868400
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cull-less-leaves",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.11"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.0"
+    }
+  ]
+}

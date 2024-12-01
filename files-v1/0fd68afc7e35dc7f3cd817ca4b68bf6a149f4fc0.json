@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "sparechange-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5RzlQCKE",
+      "versionId": "bmNTOax3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1039229,
+      "fileId": 5633168
+    }
+  ],
   "forge": [
     {
       "modId": "sparechange",

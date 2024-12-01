@@ -1,6 +1,18 @@
 {
   "name": "FeederHelmet-43.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lHGxGDJv",
+      "versionId": "JrPd0eTp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292257,
+      "fileId": 4510574
+    }
+  ],
   "forge": [
     {
       "modId": "feederhelmet",

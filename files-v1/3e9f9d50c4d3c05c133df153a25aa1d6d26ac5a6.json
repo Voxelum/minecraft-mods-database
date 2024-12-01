@@ -1,6 +1,18 @@
 {
   "name": "tinyinv-1.16.5-1.0.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eg2PfUjr",
+      "versionId": "fhYelLgh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455299,
+      "fileId": 3640062
+    }
+  ],
   "forge": [
     {
       "modId": "tinyinv",

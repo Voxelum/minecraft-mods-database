@@ -1,6 +1,18 @@
 {
   "name": "diamethysts-1.9.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "57MyRE0A",
+      "versionId": "cD6iDy5Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 606423,
+      "fileId": 4862475
+    }
+  ],
   "forge": [
     {
       "modId": "diamethysts",

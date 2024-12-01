@@ -1,0 +1,20 @@
+{
+  "name": "MoreWaystones-Fabric-1.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 965989,
+      "fileId": 5389936
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_waystones",
+      "version": "Fabric-1.1.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

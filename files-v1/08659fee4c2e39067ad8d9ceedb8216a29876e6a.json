@@ -1,6 +1,18 @@
 {
   "name": "tcdcommons-3.11.1+fabric-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eldc1g37",
+      "versionId": "EbhWGkSn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711539,
+      "fileId": 5454426
+    }
+  ],
   "fabric": [
     {
       "modId": "tcdcommons",

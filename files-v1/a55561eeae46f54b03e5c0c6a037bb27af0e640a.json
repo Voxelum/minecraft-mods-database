@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BSVvfllR",
+      "versionId": "Yupm62q4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 436740,
+      "fileId": 5568489
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "music_control",
+      "version": "1.8.3+1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    }
+  ]
+}

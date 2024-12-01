@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "Fog-forge-1.4.1-1.20.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "WuGVWUF2",
       "versionId": "nABmPzXb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815438,
+      "fileId": 5710597
     }
   ],
   "forge": [

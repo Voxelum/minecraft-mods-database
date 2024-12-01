@@ -1,6 +1,12 @@
 {
   "name": "create_ore_excavation_plus-0.2.3-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 730824,
+      "fileId": 5160772
+    }
+  ],
   "forge": [
     {
       "modId": "create_ore_excavation_plus",

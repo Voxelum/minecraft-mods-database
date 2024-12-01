@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "indrev",
+      "version": "1.9.17-BETA"
+    },
+    {
+      "modId": "fasttransferlib",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.4.0+1.16.5"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.16.4-50-FABRIC"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.8.5"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.8.5"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.8.5"
+    },
+    {
+      "modId": "magna",
+      "version": "0.2.1-1.16.5"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-durability-bar-api-v1",
+      "version": "1.5.47"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "dynamiccrosshair-5.0+1.18.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZcR9weSm",
+      "versionId": "aT7BTmm2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623800,
+      "fileId": 4329973
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamiccrosshair",

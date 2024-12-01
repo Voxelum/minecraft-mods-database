@@ -1,6 +1,18 @@
 {
   "name": "ObsidianUI-fabric-0.2.3+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E0L8mfJZ",
+      "versionId": "3osMYaKS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 684718,
+      "fileId": 5279712
+    }
+  ],
   "fabric": [
     {
       "modId": "obsidianui",

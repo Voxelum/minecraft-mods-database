@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "notes",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "artifality-mc1.17.1-0.3.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IsKsViE2",
+      "versionId": "4GqTxtJa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 490812,
+      "fileId": 3448249
+    }
+  ],
   "fabric": [
     {
       "modId": "artifality",

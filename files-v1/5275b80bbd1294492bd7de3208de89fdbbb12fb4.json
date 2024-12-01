@@ -1,6 +1,12 @@
 {
   "name": "boze.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 976226,
+      "fileId": 5116981
+    }
+  ],
   "fabric": [
     {
       "modId": "boze",

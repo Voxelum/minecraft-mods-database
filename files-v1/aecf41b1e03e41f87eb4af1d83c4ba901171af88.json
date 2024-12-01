@@ -1,6 +1,18 @@
 {
   "name": "MinecraftCapes Forge 1.16.5-11.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9gNVPfzw",
+      "versionId": "qKzstJZM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 359836,
+      "fileId": 4557609
+    }
+  ],
   "forge": [
     {
       "modId": "minecraftcapes",

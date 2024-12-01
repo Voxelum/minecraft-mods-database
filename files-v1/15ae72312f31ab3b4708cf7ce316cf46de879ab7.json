@@ -1,6 +1,12 @@
 {
   "name": "FPSBoost 1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1072962,
+      "fileId": 5575903
+    }
+  ],
   "forge": [
     {
       "modId": "fpsboostremake",

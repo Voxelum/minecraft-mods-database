@@ -1,6 +1,18 @@
 {
   "name": "CullLessLeaves-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iG6ZHsUV",
+      "versionId": "9MlXQrkw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 619718,
+      "fileId": 3939539
+    }
+  ],
   "fabric": [
     {
       "modId": "cull-less-leaves",

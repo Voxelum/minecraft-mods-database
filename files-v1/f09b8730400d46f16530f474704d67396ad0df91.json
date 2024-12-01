@@ -1,0 +1,62 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K01OU20C",
+      "versionId": "UiFscSdF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318449,
+      "fileId": 3639222
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardinal-components",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.0+65d505fc9c"
+    },
+    {
+      "modId": "fabric-networking-v0",
+      "version": "0.3.3+65d505fc9c"
+    }
+  ]
+}

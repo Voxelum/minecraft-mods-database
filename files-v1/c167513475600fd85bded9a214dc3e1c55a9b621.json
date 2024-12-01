@@ -1,6 +1,12 @@
 {
   "name": "spirit-1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 495509,
+      "fileId": 3438436
+    }
+  ],
   "fabric": [
     {
       "modId": "spirit",

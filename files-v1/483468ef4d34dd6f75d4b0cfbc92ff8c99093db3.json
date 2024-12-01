@@ -1,6 +1,18 @@
 {
   "name": "thaumicboots-1.1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tZDbLYKJ",
+      "versionId": "N1oey3xq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 935217,
+      "fileId": 4992637
+    }
+  ],
   "forge": [
     {
       "modId": "thaumicboots",

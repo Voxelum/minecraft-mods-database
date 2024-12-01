@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dupeutils",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "library",
+      "version": "1.0.0"
+    }
+  ]
+}

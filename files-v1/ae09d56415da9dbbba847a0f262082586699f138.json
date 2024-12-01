@@ -1,6 +1,12 @@
 {
   "name": "cobblefossil-0.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VVoACIjO",
+      "versionId": "SLHYSyGu"
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblefossil",

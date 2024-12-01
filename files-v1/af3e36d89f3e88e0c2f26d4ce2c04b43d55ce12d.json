@@ -1,6 +1,18 @@
 {
   "name": "appeng-rv14-finale3-mc16x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AlDk2AVa",
+      "versionId": "patE6mCG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 223793,
+      "fileId": 2212864
+    }
+  ],
   "forge": [
     {
       "modId": "AppliedEnergistics",

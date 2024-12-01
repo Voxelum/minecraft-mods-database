@@ -1,6 +1,18 @@
 {
   "name": "prehistoricspawns-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ooetw1Fp",
+      "versionId": "2eMnr53g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250183,
+      "fileId": 3962532
+    }
+  ],
   "forge": [
     {
       "modId": "prehistoricspawns",

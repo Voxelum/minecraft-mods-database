@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "petowner",
+      "version": "1.8.1-1.17-rc1+"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.3.0+a02b4463a0"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.4+a02b4463a0"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.4.4+a02b4463a0"
+    },
+    {
+      "modId": "cloth-config-lite",
+      "version": "2.0.6"
+    }
+  ]
+}

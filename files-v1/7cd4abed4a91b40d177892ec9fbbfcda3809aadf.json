@@ -1,0 +1,40 @@
+{
+  "name": "Estrogen-4.2.9+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HhIJW8n1",
+      "versionId": "aJqveBxn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850410,
+      "fileId": 5486067
+    }
+  ],
+  "forge": [
+    {
+      "modId": "estrogen",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "estrogen",
+      "version": "4.2.9+1.20.1-fabric"
+    },
+    {
+      "modId": "jukeboxfix",
+      "version": "1.0.0+1.20.1"
+    },
+    {
+      "modId": "baubly",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

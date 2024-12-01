@@ -1,0 +1,28 @@
+{
+  "name": "soul-fire-d-fabric-1.20.1-4.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d6MhxwRo",
+      "versionId": "6feuOJas"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 662413,
+      "fileId": 5680637
+    }
+  ],
+  "forge": [
+    {
+      "modId": "soul_fire_d",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soul_fire_d",
+      "version": "4.0.3"
+    }
+  ]
+}

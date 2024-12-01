@@ -1,6 +1,18 @@
 {
   "name": "piglinproliferation-1.19.2-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iRE67WIn",
+      "versionId": "4dfnMaGj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 657831,
+      "fileId": 4446302
+    }
+  ],
   "forge": [
     {
       "modId": "piglinproliferation",

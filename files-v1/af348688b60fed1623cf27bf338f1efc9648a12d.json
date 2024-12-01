@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFPOjWlN",
+      "versionId": "S1tEjzje"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "2.7.0-mc.1.20.5-.6"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

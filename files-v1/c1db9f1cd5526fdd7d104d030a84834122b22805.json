@@ -1,6 +1,18 @@
 {
   "name": "yuushya-1.16.5-forge-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfVtagkm",
+      "versionId": "1f5Z0Ebl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533104,
+      "fileId": 4749008
+    }
+  ],
   "forge": [
     {
       "modId": "yuushya",

@@ -1,6 +1,18 @@
 {
   "name": "wthit-fabric-3.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6AQIaxuO",
+      "versionId": "a3q7LxU1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440979,
+      "fileId": 3453929
+    }
+  ],
   "fabric": [
     {
       "modId": "wthit",

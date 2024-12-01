@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CFbmoKik",
+      "versionId": "40COR1YH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antighost",
+      "version": "1.21-fabric0.100.4-1.2.0"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

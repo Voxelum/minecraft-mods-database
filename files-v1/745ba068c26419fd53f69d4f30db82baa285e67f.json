@@ -1,6 +1,12 @@
 {
   "name": "inventory-tabs-1.1.8+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VD1aynYU",
+      "versionId": "lMnVgGxn"
+    }
+  ],
   "fabric": [
     {
       "modId": "inventory-tabs",

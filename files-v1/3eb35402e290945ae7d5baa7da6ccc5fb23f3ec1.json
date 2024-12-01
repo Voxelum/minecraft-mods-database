@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QnR9F4Jw",
+      "versionId": "RwuEXD10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xp_slurp",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "litematica-printer-1.21-3.5.0-sakura.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3llatzyE",
+      "versionId": "qhdxEOEi"
+    }
+  ],
   "fabric": [
     {
       "modId": "litematica-printer",

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544350,
+      "fileId": 4284718
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pollen",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

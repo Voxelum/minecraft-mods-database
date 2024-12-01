@@ -1,10 +1,16 @@
 {
   "name": "EclecticTrove-noconfig-1.20.1-1.2.0.zip",
-  "domain": "resourcepacks",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "8GunilxB",
       "versionId": "86FpvUpo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538850,
+      "fileId": 4827556
     }
   ]
 }

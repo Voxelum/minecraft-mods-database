@@ -1,6 +1,18 @@
 {
   "name": "FET-1.0.1-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aetFpEaA",
+      "versionId": "DywMKYrG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 776426,
+      "fileId": 4275771
+    }
+  ],
   "forge": [
     {
       "modId": "foodeffecttooltips",

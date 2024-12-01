@@ -1,6 +1,12 @@
 {
   "name": "sptp-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "duYiW9oM",
+      "versionId": "VVB0ZWWW"
+    }
+  ],
   "fabric": [
     {
       "modId": "sptp",

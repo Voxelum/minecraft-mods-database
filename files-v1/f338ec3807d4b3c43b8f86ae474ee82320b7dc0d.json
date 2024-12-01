@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1078935,
+      "fileId": 5602751
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "internals",
+      "version": "2.16.4"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

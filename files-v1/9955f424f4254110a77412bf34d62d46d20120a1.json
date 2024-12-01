@@ -1,0 +1,26 @@
+{
+  "name": "IronChests-2.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7mHyGgvW",
+      "versionId": "rHtTi59k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498534,
+      "fileId": 5782222
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironchest",
+      "version": "2.0.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.1.0+1.21"
+    }
+  ]
+}

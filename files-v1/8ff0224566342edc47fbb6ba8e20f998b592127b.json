@@ -1,6 +1,12 @@
 {
   "name": "create-mod-trims-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q4F90RHI",
+      "versionId": "ByiqtTHM"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_create_modtrims",

@@ -1,6 +1,18 @@
 {
   "name": "jei_1.10.2-3.13.3.380.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "uAIa1PBc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 2346527
+    }
+  ],
   "forge": [
     {
       "modId": "JEI",

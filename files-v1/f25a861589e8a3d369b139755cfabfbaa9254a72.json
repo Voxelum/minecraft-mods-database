@@ -1,6 +1,18 @@
 {
   "name": "phantomconfig-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h6o0VkT3",
+      "versionId": "JdHaNewP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623883,
+      "fileId": 3793253
+    }
+  ],
   "fabric": [
     {
       "modId": "phantomconfig",

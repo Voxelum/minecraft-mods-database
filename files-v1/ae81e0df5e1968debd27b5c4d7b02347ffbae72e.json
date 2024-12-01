@@ -1,6 +1,12 @@
 {
   "name": "Saros-Create-Addon-1.20.1-2.0-[Forge].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pLu6875x",
+      "versionId": "IzFctPtM"
+    }
+  ],
   "forge": [
     {
       "modId": "saros_create_addon_forge",

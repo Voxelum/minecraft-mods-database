@@ -1,6 +1,18 @@
 {
   "name": "VampiresNeedUmbrellas-1.19.2-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FaUysFni",
+      "versionId": "Lhd7CQyP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 364129,
+      "fileId": 3986591
+    }
+  ],
   "forge": [
     {
       "modId": "vampiresneedumbrellas",

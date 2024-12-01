@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wOZRkmgG",
+      "versionId": "sxaTrNon"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506426,
+      "fileId": 5881399
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oxidized",
+      "version": "1.8.4"
+    },
+    {
+      "modId": "saflib",
+      "version": "1.1.1"
+    }
+  ]
+}

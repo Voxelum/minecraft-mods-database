@@ -1,0 +1,44 @@
+{
+  "name": "skylands-0.3.6+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wbrBu6hJ",
+      "versionId": "YLxJPEX2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skylands",
+      "version": "0.3.6+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "fantasy",
+      "version": "0.4.7+1.19.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-rc.1+1.19.3"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "1.4.18+1.19.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

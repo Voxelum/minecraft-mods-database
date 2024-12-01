@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WZoCbc26",
+      "versionId": "WEVmYjH8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ygm76",
+      "version": "0.0.12"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

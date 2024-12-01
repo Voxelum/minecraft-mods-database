@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aT8BzaOj",
+      "versionId": "kL3koEFa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 258587,
+      "fileId": 5323474
+    }
+  ],
   "fabric": [
     {
       "modId": "itemphysic",

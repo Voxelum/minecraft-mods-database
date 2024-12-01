@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W6FxNQeL",
+      "versionId": "qvJ1Gvyr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "saturative",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

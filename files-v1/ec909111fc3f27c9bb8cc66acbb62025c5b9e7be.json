@@ -1,6 +1,18 @@
 {
   "name": "imbued_gear-0.3.4+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UfJHrpa9",
+      "versionId": "bQOdNM5W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905218,
+      "fileId": 5186825
+    }
+  ],
   "fabric": [
     {
       "modId": "imbued_gear",

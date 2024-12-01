@@ -1,6 +1,18 @@
 {
   "name": "imst_n-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fECIioDQ",
+      "versionId": "DQPdL75T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 856434,
+      "fileId": 4579784
+    }
+  ],
   "forge": [
     {
       "modId": "imst_n",

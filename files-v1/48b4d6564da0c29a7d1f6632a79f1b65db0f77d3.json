@@ -1,6 +1,18 @@
 {
   "name": "deepslatecutting-forge-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IiuFShHs",
+      "versionId": "NCerf3v5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504899,
+      "fileId": 4015318
+    }
+  ],
   "forge": [
     {
       "modId": "deepslatecutting_forge",

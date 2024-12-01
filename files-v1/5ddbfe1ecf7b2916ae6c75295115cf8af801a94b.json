@@ -1,6 +1,18 @@
 {
   "name": "Bamboo_Combat-1.19.x-v1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DwwbOcmt",
+      "versionId": "7bEzUXpG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631472,
+      "fileId": 4643783
+    }
+  ],
   "fabric": [
     {
       "modId": "bamboocombat",

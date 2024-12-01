@@ -1,6 +1,18 @@
 {
   "name": "ToolStats-Forge-1.18.2-9.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vuGFx44e",
+      "versionId": "Ip66WWIY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377109,
+      "fileId": 3801128
+    }
+  ],
   "forge": [
     {
       "modId": "toolstats",

@@ -1,0 +1,48 @@
+{
+  "name": "Bombastic.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4PhSSMsR",
+      "versionId": "S9YqIJBr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bombastic",
+      "version": "1.1.1-SNAPSHOT"
+    },
+    {
+      "modId": "specter",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-core",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-config",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-serialization",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-item",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-block",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-registry",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-render",
+      "version": "1.0.6"
+    }
+  ]
+}

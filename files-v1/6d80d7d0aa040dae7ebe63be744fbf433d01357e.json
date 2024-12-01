@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318004,
+      "fileId": 3248131
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple_pipes_dep_container",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "simple_pipes",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.4.7"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.5.0"
+    }
+  ]
+}

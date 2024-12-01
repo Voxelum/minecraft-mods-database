@@ -1,6 +1,12 @@
 {
   "name": "nonarrator-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1ufrSla2",
+      "versionId": "P4UFvo3Y"
+    }
+  ],
   "fabric": [
     {
       "modId": "nonarrator",

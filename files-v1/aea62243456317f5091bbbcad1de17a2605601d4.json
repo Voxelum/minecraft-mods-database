@@ -1,6 +1,18 @@
 {
   "name": "custom-default-world-preset-1.0.2+mc.1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1BduonQp",
+      "versionId": "olxL7efI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 847463,
+      "fileId": 4560711
+    }
+  ],
   "fabric": [
     {
       "modId": "custom_default_world_preset",

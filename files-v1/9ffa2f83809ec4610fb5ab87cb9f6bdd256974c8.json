@@ -1,6 +1,12 @@
 {
   "name": "mobhealthbar-forge-1.20.1-2.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wtk2r10e",
+      "versionId": "RccPwfw7"
+    }
+  ],
   "forge": [
     {
       "modId": "mobhealthbar",

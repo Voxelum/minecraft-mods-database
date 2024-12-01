@@ -1,6 +1,18 @@
 {
   "name": "BiomeParticleWeather-5.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XH09j5fH",
+      "versionId": "FaFAImBQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 575109,
+      "fileId": 5617169
+    }
+  ],
   "fabric": [
     {
       "modId": "biomeparticleweather",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kw7Sm3Xf",
+      "versionId": "6hMHQSHz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noxesium",
+      "version": "2.3.1+f6d5cf0"
+    },
+    {
+      "modId": "com_noxcrew_noxesium_api",
+      "version": "2.3.1+f6d5cf0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "org_khelekore_prtree",
+      "version": "1.5"
+    }
+  ]
+}

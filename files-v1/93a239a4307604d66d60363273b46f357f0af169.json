@@ -1,6 +1,12 @@
 {
   "name": "wandering trader trades.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 850964,
+      "fileId": 4584954
+    }
+  ],
   "forge": [
     {
       "modId": "wandering_trader_trades",

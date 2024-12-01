@@ -1,6 +1,18 @@
 {
   "name": "moyai-1.19.2-2.0.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z7WhFkyW",
+      "versionId": "HWcRedxo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577252,
+      "fileId": 4545979
+    }
+  ],
   "fabric": [
     {
       "modId": "moyai",

@@ -1,0 +1,26 @@
+{
+  "name": "BlockRunner-v21.1.0-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1VSGxqkt",
+      "versionId": "9d5Maqz6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442842,
+      "fileId": 5711453
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockrunner",
+      "version": "21.1.0"
+    },
+    {
+      "modId": "neoforgedatapackextensions",
+      "version": "21.1.0"
+    }
+  ]
+}

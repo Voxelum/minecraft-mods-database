@@ -1,6 +1,18 @@
 {
   "name": "ImmediatelyFast-1.1.15+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "eiqdESrg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686911,
+      "fileId": 4582705
+    }
+  ],
   "fabric": [
     {
       "modId": "immediatelyfast",

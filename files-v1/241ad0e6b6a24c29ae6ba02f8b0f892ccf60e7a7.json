@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5TABPEIf",
+      "versionId": "75mihtGc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1090535,
+      "fileId": 5764218
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glass",
+      "version": "0.1.1+alpha"
+    },
+    {
+      "modId": "immersive_portals",
+      "version": "6.0.3"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.1.0+1.21"
+    }
+  ]
+}

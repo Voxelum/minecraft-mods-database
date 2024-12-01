@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mGy2hslt",
+      "versionId": "9Z6UzYDp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plantsjunk",
+      "version": "1.0.4-1.21.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    }
+  ]
+}

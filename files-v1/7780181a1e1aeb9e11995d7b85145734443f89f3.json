@@ -1,6 +1,18 @@
 {
   "name": "SnowyWeaponry-v1.5.0-for-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AMH4OStF",
+      "versionId": "QJEAsB1I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 424431,
+      "fileId": 3970619
+    }
+  ],
   "forge": [
     {
       "modId": "snowyweaponry",

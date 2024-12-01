@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xsng1aJf",
+      "versionId": "vz2atooR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1110775,
+      "fileId": 5765666
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bigglobe",
+      "version": "3.12.0"
+    },
+    {
+      "modId": "builderb0y_autocodec",
+      "version": "4.11.0"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.4"
+    }
+  ]
+}

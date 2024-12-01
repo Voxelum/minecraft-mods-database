@@ -1,0 +1,22 @@
+{
+  "name": "lootintegration_wda-1.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1142880,
+      "fileId": 5912078
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegration_wda",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegration_wda",
+      "version": "1"
+    }
+  ]
+}

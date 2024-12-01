@@ -1,6 +1,18 @@
 {
   "name": "peripheralium-0.4.22-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vV2a9qrZ",
+      "versionId": "NKyztNfU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621088,
+      "fileId": 4665910
+    }
+  ],
   "forge": [
     {
       "modId": "peripheralium",

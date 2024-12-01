@@ -1,6 +1,18 @@
 {
   "name": "compost-fabric-1.20-pre4-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1hn9SStW",
+      "versionId": "5AtSIAXQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581323,
+      "fileId": 4548171
+    }
+  ],
   "fabric": [
     {
       "modId": "compost",

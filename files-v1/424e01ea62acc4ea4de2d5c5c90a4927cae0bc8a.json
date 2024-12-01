@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "68AG9cQg",
+      "versionId": "jXsGQMme"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014980,
+      "fileId": 5489830
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fxntstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fxntstorage",
+      "version": "0.11-1.20.1-FABRIC+1.20.1"
+    }
+  ]
+}

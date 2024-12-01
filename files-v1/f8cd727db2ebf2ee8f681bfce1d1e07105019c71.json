@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "YoAibXot"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639842,
+      "fileId": 5650598
+    }
+  ],
   "fabric": [
     {
       "modId": "bettercombat",

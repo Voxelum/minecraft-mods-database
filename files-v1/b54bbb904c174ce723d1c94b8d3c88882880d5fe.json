@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "monsters-in-the-closet-1.0.3+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GMA8jFBD",
+      "versionId": "iBLoBKBc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 429222,
+      "fileId": 5563582
+    }
+  ],
   "fabric": [
     {
       "modId": "monsters_in_the_closet",

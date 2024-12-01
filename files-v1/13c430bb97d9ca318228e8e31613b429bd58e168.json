@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bD2TXJg9",
+      "versionId": "Vqeux7LI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extremeend",
+      "version": "1.2.3-1.21.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    }
+  ]
+}

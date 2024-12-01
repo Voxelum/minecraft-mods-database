@@ -1,0 +1,20 @@
+{
+  "name": "craftedcore-5-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 923377,
+      "fileId": 5538175
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftedcore",
+      "version": "5"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    }
+  ]
+}

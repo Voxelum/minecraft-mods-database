@@ -1,6 +1,18 @@
 {
   "name": "HexCircus 1.1.2 [FORGE].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "awUeK8jg",
+      "versionId": "d4LVj56y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1006655,
+      "fileId": 5514189
+    }
+  ],
   "forge": [
     {
       "modId": "hex_circus",

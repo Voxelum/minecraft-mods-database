@@ -1,6 +1,12 @@
 {
   "name": "dynviewdist-1.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 366140,
+      "fileId": 3051535
+    }
+  ],
   "forge": [
     {
       "modId": "dynview",

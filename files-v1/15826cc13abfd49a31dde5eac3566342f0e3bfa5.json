@@ -1,6 +1,18 @@
 {
   "name": "EMITrades-fabric-1.0.2+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j2HhbEE7",
+      "versionId": "rfnQYYSe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 735523,
+      "fileId": 4171477
+    }
+  ],
   "fabric": [
     {
       "modId": "emitrades",

@@ -1,6 +1,18 @@
 {
   "name": "windchimes-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iM50gcBD",
+      "versionId": "wBCMyoJp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 477895,
+      "fileId": 3829369
+    }
+  ],
   "fabric": [
     {
       "modId": "windchimes",

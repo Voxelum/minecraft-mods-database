@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1ogeQFvR",
+      "versionId": "sLyPYLY0"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_exp_leveluphealth",
+      "version": "1.0.0_mc1.16-1.20.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_exp_leveluphealth",
+      "version": "1.0.0_mc1.16-1.20.6"
+    }
+  ]
+}

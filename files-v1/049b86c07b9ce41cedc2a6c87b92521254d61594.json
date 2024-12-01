@@ -1,6 +1,18 @@
 {
   "name": "SimpleDiscordRichPresence-fabric-2.0.1-build.17+mc1.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SCAopByd",
+      "versionId": "IW2U36O6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334853,
+      "fileId": 3907528
+    }
+  ],
   "fabric": [
     {
       "modId": "sdrp",

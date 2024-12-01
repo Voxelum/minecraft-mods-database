@@ -1,6 +1,12 @@
 {
   "name": "API-surveyor-0.5.01.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4KjqhPc9",
+      "versionId": "tUfwS4Bo"
+    }
+  ],
   "fabric": [
     {
       "modId": "surveyor",

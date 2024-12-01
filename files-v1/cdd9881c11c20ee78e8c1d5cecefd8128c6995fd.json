@@ -1,6 +1,12 @@
 {
   "name": "minecells-1.7.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 618790,
+      "fileId": 5265450
+    }
+  ],
   "fabric": [
     {
       "modId": "minecells",

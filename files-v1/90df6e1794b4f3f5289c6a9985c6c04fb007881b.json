@@ -1,6 +1,12 @@
 {
   "name": "supplementaries-1.20-2.5.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "9LH2MSxo"
+    }
+  ],
   "forge": [
     {
       "modId": "supplementaries",

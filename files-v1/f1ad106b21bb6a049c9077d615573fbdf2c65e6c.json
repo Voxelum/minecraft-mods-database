@@ -1,6 +1,18 @@
 {
   "name": "apocalypsenow-3.0.3-forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "itxv4X52",
+      "versionId": "1MgnWP4z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448410,
+      "fileId": 5815034
+    }
+  ],
   "forge": [
     {
       "modId": "apocalypsenow",

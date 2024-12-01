@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qbbO7Jns",
+      "versionId": "wtRNt8ZC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681783,
+      "fileId": 5760211
+    }
+  ],
   "fabric": [
     {
       "modId": "emi_loot",

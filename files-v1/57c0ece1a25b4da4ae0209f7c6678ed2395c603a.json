@@ -1,6 +1,18 @@
 {
   "name": "MemorySweep-1.18.2-0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3oJ7L0Iq",
+      "versionId": "Sp3IX0M6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 784959,
+      "fileId": 4351578
+    }
+  ],
   "forge": [
     {
       "modId": "memorysweep",

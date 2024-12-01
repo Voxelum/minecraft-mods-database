@@ -1,6 +1,12 @@
 {
   "name": "anvilpatch-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 320093,
+      "fileId": 3169324
+    }
+  ],
   "forge": [
     {
       "modId": "anvilpatch",

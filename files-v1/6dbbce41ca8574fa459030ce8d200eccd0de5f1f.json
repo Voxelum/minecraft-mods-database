@@ -1,6 +1,18 @@
 {
   "name": "guardvillagers-1.19.2-1.5.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H1sntfo8",
+      "versionId": "FDyptF3C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360203,
+      "fileId": 3970122
+    }
+  ],
   "forge": [
     {
       "modId": "guardvillagers",

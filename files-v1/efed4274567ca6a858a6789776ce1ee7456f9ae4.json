@@ -1,0 +1,38 @@
+{
+  "name": "filament-0.9.4+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yANxwqSX",
+      "versionId": "1TaYpKT3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118465,
+      "fileId": 5842859
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "filament",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.183+1.21.1"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.12+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

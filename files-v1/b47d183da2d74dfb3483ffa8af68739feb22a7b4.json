@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TkWgV1AW",
+      "versionId": "c605Bv8U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005680,
+      "fileId": 5594350
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tclayer",
+      "version": "3.8.1+beta.5"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

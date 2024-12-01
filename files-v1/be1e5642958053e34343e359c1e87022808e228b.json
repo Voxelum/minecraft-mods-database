@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7zlUOZvb",
+      "versionId": "1vbBfBUF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817423,
+      "fileId": 4675591
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "azurelib",
+      "version": "1.0.23"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

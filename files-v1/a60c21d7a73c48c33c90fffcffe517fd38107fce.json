@@ -1,6 +1,12 @@
 {
   "name": "plaingrinder-1.16.5-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 452000,
+      "fileId": 3489206
+    }
+  ],
   "forge": [
     {
       "modId": "plaingrinder",

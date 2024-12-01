@@ -1,6 +1,12 @@
 {
   "name": "caxton-0.5.5+1.20.2-FABRIC.jar.disabled",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k8iIgzXE",
+      "versionId": "hOPx1KKA"
+    }
+  ],
   "fabric": [
     {
       "modId": "caxton",

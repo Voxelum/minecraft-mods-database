@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHoB7SHO",
+      "versionId": "sTTrZ9bx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421377,
+      "fileId": 5856018
+    }
+  ],
+  "forge": [
+    {
+      "modId": "treechop",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treechop",
+      "version": "0.19.2"
+    }
+  ]
+}

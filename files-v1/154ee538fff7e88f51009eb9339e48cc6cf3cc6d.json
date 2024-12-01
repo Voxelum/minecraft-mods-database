@@ -1,6 +1,18 @@
 {
   "name": "chunkloaders-1.2.3-forge-mc1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t1VgucWo",
+      "versionId": "8PzYfFJm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 402924,
+      "fileId": 4287988
+    }
+  ],
   "forge": [
     {
       "modId": "chunkloaders",

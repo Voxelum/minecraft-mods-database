@@ -1,0 +1,30 @@
+{
+  "name": "wraith-fabricaeexnihilo-1.0.0+mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j9JARqmz",
+      "versionId": "Xgwvhj78"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 596911,
+      "fileId": 5298550
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricaeexnihilo",
+      "version": "1.0.0+mc1.20.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.4.1+1.20.1-fabric"
+    },
+    {
+      "modId": "config_toolkit",
+      "version": "1.0.0"
+    }
+  ]
+}

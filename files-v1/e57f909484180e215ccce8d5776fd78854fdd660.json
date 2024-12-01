@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Uc5JNWEf",
+      "versionId": "RgPpWvUN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomedimension",
+      "version": "0.0.7-1.20.1"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta64-1.20"
+    }
+  ]
+}

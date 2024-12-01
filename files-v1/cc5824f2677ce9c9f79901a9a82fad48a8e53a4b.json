@@ -1,6 +1,18 @@
 {
   "name": "fish_of_thieves-mc1.19.2-v2.2.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BzOTnuqM",
+      "versionId": "nQ6qPHyR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568372,
+      "fileId": 4583146
+    }
+  ],
   "fabric": [
     {
       "modId": "fishofthieves",

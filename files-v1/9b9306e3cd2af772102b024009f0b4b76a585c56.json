@@ -1,6 +1,18 @@
 {
   "name": "BronySpecs-1.16.5-1.2.0-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WG4S9QD2",
+      "versionId": "YIaHLatU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 888702,
+      "fileId": 4749862
+    }
+  ],
   "forge": [
     {
       "modId": "bronyspecs",

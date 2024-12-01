@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.19.2-4.18.0-fabrication.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 230111,
+      "fileId": 5452527
+    }
+  ],
   "forge": [
     {
       "modId": "projectred_fabrication",

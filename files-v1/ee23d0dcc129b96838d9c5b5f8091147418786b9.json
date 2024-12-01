@@ -1,0 +1,76 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EJYYAJ4W",
+      "versionId": "ZYv1OTZT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1070249,
+      "fileId": 5620534
+    }
+  ],
+  "forge": [
+    {
+      "modId": "serilumsspawnbundle",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "serilumsspawnbundle",
+      "version": "2.0"
+    },
+    {
+      "modId": "boggedspawn",
+      "version": "1.1"
+    },
+    {
+      "modId": "breezespawn",
+      "version": "1.1"
+    },
+    {
+      "modId": "cavespiderspawn",
+      "version": "1.2"
+    },
+    {
+      "modId": "giantspawn",
+      "version": "5.2"
+    },
+    {
+      "modId": "huskspawn",
+      "version": "3.6"
+    },
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.6"
+    },
+    {
+      "modId": "mooshroomtweaks",
+      "version": "3.5"
+    },
+    {
+      "modId": "morezombievillagers",
+      "version": "3.6"
+    },
+    {
+      "modId": "skeletonhorsespawn",
+      "version": "4.0"
+    },
+    {
+      "modId": "strayspawn",
+      "version": "3.7"
+    },
+    {
+      "modId": "zombiehorsespawn",
+      "version": "5.1"
+    },
+    {
+      "modId": "zombievillagersfromspawner",
+      "version": "3.9"
+    }
+  ]
+}

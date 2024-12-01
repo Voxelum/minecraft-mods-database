@@ -1,6 +1,12 @@
 {
   "name": "debugify_reforged-1.0.0-forge-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 666041,
+      "fileId": 3957255
+    }
+  ],
   "forge": [
     {
       "modId": "debugify",

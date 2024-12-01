@@ -1,6 +1,18 @@
 {
   "name": "bushierflowers-0.0.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OK421ZCh",
+      "versionId": "Gy3954xg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682644,
+      "fileId": 4035417
+    }
+  ],
   "forge": [
     {
       "modId": "bushierflowers",

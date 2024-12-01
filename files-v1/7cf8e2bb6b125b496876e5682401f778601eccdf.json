@@ -1,6 +1,12 @@
 {
   "name": "1.19.2forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 932407,
+      "fileId": 4926381
+    }
+  ],
   "forge": [
     {
       "modId": "fnaf_plushie_mod",

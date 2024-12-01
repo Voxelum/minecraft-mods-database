@@ -1,6 +1,18 @@
 {
   "name": "CustomMachinery-forge-1.19.2-0.9.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OrB5XFtI",
+      "versionId": "4R4XAz4Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 457017,
+      "fileId": 4776339
+    }
+  ],
   "forge": [
     {
       "modId": "custommachinery",

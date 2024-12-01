@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WMDesFsZ",
+      "versionId": "a0Kb0Vgl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483760,
+      "fileId": 5171844
+    }
+  ],
+  "forge": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.9b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imblocker",
+      "version": "4.0.9b"
+    }
+  ]
+}

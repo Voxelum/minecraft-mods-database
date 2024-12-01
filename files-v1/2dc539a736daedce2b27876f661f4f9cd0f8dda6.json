@@ -1,6 +1,12 @@
 {
   "name": "ProjectRed-1.16.5-4.12.0-exploration.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229049,
+      "fileId": 3820100
+    }
+  ],
   "forge": [
     {
       "modId": "projectred-exploration",

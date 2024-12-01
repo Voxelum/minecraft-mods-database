@@ -1,6 +1,12 @@
 {
   "name": "farsight-fabric-1.21-4.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 579192,
+      "fileId": 5505669
+    }
+  ],
   "fabric": [
     {
       "modId": "farsight",

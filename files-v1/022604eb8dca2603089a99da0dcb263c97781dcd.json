@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kVIxLqso",
+      "versionId": "JKc4JvSv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1028420,
+      "fileId": 5824646
+    }
+  ],
   "forge": [
     {
       "modId": "trainutilities",

@@ -1,6 +1,18 @@
 {
   "name": "kubejs-fabric-1902.6.2-build.54.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "csaRR7jH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 5064768
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejs",

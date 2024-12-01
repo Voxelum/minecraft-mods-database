@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g2FGQs4R",
+      "versionId": "XlTGhfoS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 273744,
+      "fileId": 5593165
+    }
+  ],
+  "forge": [
+    {
+      "modId": "uteamcore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uteamcore",
+      "version": "5.6.0.318"
+    }
+  ]
+}

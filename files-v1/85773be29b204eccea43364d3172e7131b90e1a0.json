@@ -1,6 +1,18 @@
 {
   "name": "ProgressiveBosses-3.6.6-mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zxspe0HA",
+      "versionId": "XRJkbAKh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 289466,
+      "fileId": 4602490
+    }
+  ],
   "forge": [
     {
       "modId": "progressivebosses",

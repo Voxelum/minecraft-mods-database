@@ -1,6 +1,18 @@
 {
   "name": "untoggle-sprint-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gsqkChIL",
+      "versionId": "8w1tgtnK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056348,
+      "fileId": 5497512
+    }
+  ],
   "fabric": [
     {
       "modId": "untoggle-sprint",

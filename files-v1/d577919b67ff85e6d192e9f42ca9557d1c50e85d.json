@@ -1,0 +1,22 @@
+{
+  "name": "bat-membrane-v.2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vz3NiXrd",
+      "versionId": "VNhUAWib"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_bat_membrane",
+      "version": "1-v.2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bat_membrane",
+      "version": "1-v.2.1.0"
+    }
+  ]
+}

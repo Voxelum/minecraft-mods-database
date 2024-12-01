@@ -1,6 +1,18 @@
 {
   "name": "ArPhEx-3.2.4-forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k0RPP4IO",
+      "versionId": "t8RTVY4t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967672,
+      "fileId": 5830695
+    }
+  ],
   "forge": [
     {
       "modId": "arphex",

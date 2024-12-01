@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bqOyYdKi",
+      "versionId": "ElaDXNBf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gravity_api",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0"
+    }
+  ]
+}

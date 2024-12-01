@@ -1,6 +1,18 @@
 {
   "name": "ceramicshears-1.19-1.7.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qaMUpFM4",
+      "versionId": "u8c6Vz6b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363553,
+      "fileId": 3844313
+    }
+  ],
   "forge": [
     {
       "modId": "ceramicshears",

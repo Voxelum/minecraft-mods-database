@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v3CYg2V9",
+      "versionId": "jMDasm1L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511770,
+      "fileId": 5794088
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "drippyloadingscreen",
+      "version": "3.0.8"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

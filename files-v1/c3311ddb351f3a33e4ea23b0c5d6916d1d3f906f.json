@@ -1,6 +1,18 @@
 {
   "name": "ChickenChunks-1.12.2-2.4.1.71-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2JkvF271",
+      "versionId": "CZqo8nMm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 243883,
+      "fileId": 2509854
+    }
+  ],
   "forge": [
     {
       "modId": "chickenchunks",

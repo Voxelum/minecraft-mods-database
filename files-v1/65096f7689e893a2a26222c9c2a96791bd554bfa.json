@@ -1,6 +1,12 @@
 {
   "name": "Mod Whitelist [1.1.0].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uqa8tezN",
+      "versionId": "3Ui3awew"
+    }
+  ],
   "forge": [
     {
       "modId": "mod_whitelist",

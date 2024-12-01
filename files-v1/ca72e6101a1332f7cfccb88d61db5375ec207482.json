@@ -1,6 +1,18 @@
 {
   "name": "createmetallurgy-0.0.5-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Soft45xC",
+      "versionId": "1pVTgap1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007404,
+      "fileId": 5526095
+    }
+  ],
   "forge": [
     {
       "modId": "createmetallurgy",

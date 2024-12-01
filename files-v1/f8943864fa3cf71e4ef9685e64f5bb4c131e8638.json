@@ -1,6 +1,18 @@
 {
   "name": "config-2-3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "dhr1Royh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348521,
+      "fileId": 2938583
+    }
+  ],
   "forge": [
     {
       "modId": "cloth-config2",

@@ -1,6 +1,18 @@
 {
   "name": "galospheretrimming-1.20.1-1.0.0-quilt.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pzuy21SU",
+      "versionId": "Xb1wSvrn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927107,
+      "fileId": 4991706
+    }
+  ],
   "fabric": [
     {
       "modId": "galospheretrimming",

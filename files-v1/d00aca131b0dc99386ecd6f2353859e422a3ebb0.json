@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modern_industrialization",
+      "version": "0.4.0-alpha.10"
+    },
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "0.2.2+3185237c7d"
+    },
+    {
+      "modId": "fabric-api-lookup-api-v1",
+      "version": "1.2.0+84310a227d"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.2.9"
+    },
+    {
+      "modId": "cardinal-components",
+      "version": "2.8.2"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.16.2-44-FABRIC"
+    },
+    {
+      "modId": "cloth-armor-api-v1",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "cloth-common-events-v1",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "cloth-durability-bar-api-v1",
+      "version": "1.5.47"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "magna",
+      "version": "1.5.1-1.16.5"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "fasttransferlib",
+      "version": "0.3.1"
+    }
+  ]
+}

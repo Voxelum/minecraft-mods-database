@@ -1,6 +1,18 @@
 {
   "name": "lambdacontrols-fabric-1.6.0+1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W1D3UXEc",
+      "versionId": "NexczI3X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354231,
+      "fileId": 3243672
+    }
+  ],
   "fabric": [
     {
       "modId": "lambdacontrols",

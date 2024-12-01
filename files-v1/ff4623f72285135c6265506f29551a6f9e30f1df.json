@@ -1,0 +1,28 @@
+{
+  "name": "gold-nugget-recycling-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EGpifGzW",
+      "versionId": "dNGudnxW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118538,
+      "fileId": 5837659
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_gold_nuggetrecycling",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_gold_nuggetrecycling",
+      "version": "1.0"
+    }
+  ]
+}

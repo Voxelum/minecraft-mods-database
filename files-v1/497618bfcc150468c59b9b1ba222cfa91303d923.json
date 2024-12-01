@@ -1,6 +1,18 @@
 {
   "name": "createbigcannons-5.5.1-mc.1.19.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GWp4jCJj",
+      "versionId": "t8xKYZve"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 646668,
+      "fileId": 5598844
+    }
+  ],
   "forge": [
     {
       "modId": "createbigcannons",

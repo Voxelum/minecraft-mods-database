@@ -1,6 +1,18 @@
 {
   "name": "cavespiderspawn-1.21.1-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9IUlkb2K",
+      "versionId": "VRwAOcqG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952294,
+      "fileId": 5609794
+    }
+  ],
   "forge": [
     {
       "modId": "cavespiderspawn",

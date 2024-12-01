@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y2Rds0HS",
+      "versionId": "dH2oxSXE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373138,
+      "fileId": 3612063
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "campanion",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

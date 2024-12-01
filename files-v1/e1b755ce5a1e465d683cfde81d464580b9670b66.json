@@ -1,6 +1,18 @@
 {
   "name": "MaxHealthFix-NeoForge-1.20.4-15.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mH8wdmqr",
+      "versionId": "sHFMBi83"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 492246,
+      "fileId": 5127434
+    }
+  ],
   "forge": [
     {
       "modId": "maxhealthfix",

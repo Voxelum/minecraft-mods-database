@@ -1,6 +1,18 @@
 {
   "name": "carpet-fixes-1.19-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7Jaxgqip",
+      "versionId": "IhpVAiXl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529720,
+      "fileId": 4026788
+    }
+  ],
   "fabric": [
     {
       "modId": "carpet-fixes",

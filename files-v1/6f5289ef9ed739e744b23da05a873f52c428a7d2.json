@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tx85779b",
+      "versionId": "yfYJxbVb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reinfbarrel",
+      "version": "2.5.1+1.21"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "4.0.1+1.21"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "ruok-1.5.2-1.20.1_forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aTsegPV0",
+      "versionId": "7MRFilAn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910904,
+      "fileId": 5389210
+    }
+  ],
   "forge": [
     {
       "modId": "ruokmod",

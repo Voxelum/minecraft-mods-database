@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "armorful",
+      "version": "2.0.2+1.19"
+    },
+    {
+      "modId": "static-content",
+      "version": "1.0.1-1.16.2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "WilderWild-3.0.4-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "7rYI0v4M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648511,
+      "fileId": 5863581
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "3.0.4-mc1.20.1"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.1-mc1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

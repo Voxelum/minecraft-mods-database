@@ -1,0 +1,20 @@
+{
+  "name": "lootbeams-2.5.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFPOjWlN",
+      "versionId": "90WHHotd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootbeams",
+      "version": "2.5.6"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

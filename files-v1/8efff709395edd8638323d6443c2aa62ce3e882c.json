@@ -1,6 +1,18 @@
 {
   "name": "Neat-1.19.3-33.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ins7SzzR",
+      "versionId": "tIvVeDtU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238372,
+      "fileId": 4365517
+    }
+  ],
   "forge": [
     {
       "modId": "neat",

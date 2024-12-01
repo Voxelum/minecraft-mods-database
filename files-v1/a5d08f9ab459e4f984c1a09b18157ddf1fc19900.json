@@ -1,6 +1,12 @@
 {
   "name": "xnet-1.20-6.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 260912,
+      "fileId": 5283909
+    }
+  ],
   "forge": [
     {
       "modId": "xnet",

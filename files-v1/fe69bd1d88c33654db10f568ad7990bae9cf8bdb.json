@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SaCpeal4",
+      "versionId": "vUdakIzK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "comforts",
+      "version": "8.0.1+1.20.6"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.16.1+1.20.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.0.0-beta.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.0.0-beta.3"
+    }
+  ]
+}

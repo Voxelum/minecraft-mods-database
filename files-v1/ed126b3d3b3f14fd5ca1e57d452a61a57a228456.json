@@ -1,0 +1,30 @@
+{
+  "name": "kinecraft-serialization-1.16.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "epmEbmF0",
+      "versionId": "XmDPVZir"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118733,
+      "fileId": 5799447
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kinecraft_serialization",
+      "version": "1.16.0"
+    },
+    {
+      "modId": "kinecraft_serialization_1_20",
+      "version": "1.16.0"
+    },
+    {
+      "modId": "kinecraft_serialization_1_21",
+      "version": "1.16.0"
+    }
+  ]
+}

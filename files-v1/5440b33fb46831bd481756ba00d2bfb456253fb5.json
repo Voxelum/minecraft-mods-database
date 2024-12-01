@@ -1,6 +1,18 @@
 {
   "name": "clockwork-1.19.2-0.1.16-forge-1c97c03c94.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "84USeAvk",
+      "versionId": "nFXocypA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1029458,
+      "fileId": 5392259
+    }
+  ],
   "forge": [
     {
       "modId": "vs_clockwork",

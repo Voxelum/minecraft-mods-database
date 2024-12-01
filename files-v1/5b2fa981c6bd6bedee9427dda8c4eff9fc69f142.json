@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "entropy",
+      "version": "1.2.0+mc1.16.5"
+    },
+    {
+      "modId": "satin",
+      "version": "1.5.1"
+    },
+    {
+      "modId": "com_github_pircbotx_pircbotx",
+      "version": "2.2"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "1.7.30"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "SimpleDiscordRichPresence-forge-4.0.0-build.32+mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SCAopByd",
+      "versionId": "3htFWFop"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334853,
+      "fileId": 4576370
+    }
+  ],
   "forge": [
     {
       "modId": "sdrp",

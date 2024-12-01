@@ -1,6 +1,18 @@
 {
   "name": "dpanvil-1.18.2-3.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7zu3jG0v",
+      "versionId": "3zzoYJwy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 432817,
+      "fileId": 3820869
+    }
+  ],
   "forge": [
     {
       "modId": "dpanvil",

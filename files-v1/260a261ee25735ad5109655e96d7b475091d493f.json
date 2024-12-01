@@ -1,6 +1,18 @@
 {
   "name": "Mo-Glass-1.7-MC1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SI5mk2b6",
+      "versionId": "IxENJp0J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353426,
+      "fileId": 4954413
+    }
+  ],
   "fabric": [
     {
       "modId": "mo_glass",

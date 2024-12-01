@@ -1,6 +1,18 @@
 {
   "name": "world-name-gen-0.1.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iNOl2vfE",
+      "versionId": "yxYzkqil"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 720699,
+      "fileId": 4175565
+    }
+  ],
   "fabric": [
     {
       "modId": "worldnamegen",

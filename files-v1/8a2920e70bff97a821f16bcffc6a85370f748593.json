@@ -1,6 +1,12 @@
 {
   "name": "rotten-1.4.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 365273,
+      "fileId": 3769502
+    }
+  ],
   "fabric": [
     {
       "modId": "rotten",

@@ -1,6 +1,18 @@
 {
   "name": "Barsita-1.18.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vod0bt60",
+      "versionId": "ORAj2cIE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552324,
+      "fileId": 3767343
+    }
+  ],
   "forge": [
     {
       "modId": "barista",

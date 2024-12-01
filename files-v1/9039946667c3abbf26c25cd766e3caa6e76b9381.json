@@ -1,6 +1,18 @@
 {
   "name": "trimeffects-1.0.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BL7ADJ7w",
+      "versionId": "th1IUV8s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870275,
+      "fileId": 4577836
+    }
+  ],
   "forge": [
     {
       "modId": "trimeffects",

@@ -1,6 +1,18 @@
 {
   "name": "chococraft_1.12.1-0.9.1.52.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bPTEaC7v",
+      "versionId": "mBebASEQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225280,
+      "fileId": 2473983
+    }
+  ],
   "forge": [
     {
       "modId": "chococraft",

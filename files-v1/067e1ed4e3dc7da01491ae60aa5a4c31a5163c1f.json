@@ -1,10 +1,24 @@
 {
   "name": "MSM-SNAP-3.0.0e-For-MC-1.7.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nSec3DCW",
+      "versionId": "OFdVzItC"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 59903,
       "fileId": 2224957
+    },
+    {
+      "projectId": 59203,
+      "fileId": 2250071
+    },
+    {
+      "projectId": 225667,
+      "fileId": 2219286
     }
   ],
   "forge": [

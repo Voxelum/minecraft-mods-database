@@ -1,6 +1,18 @@
 {
   "name": "Extra Compat-1.4.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZEmnOZbp",
+      "versionId": "ouKiZkft"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923005,
+      "fileId": 5288323
+    }
+  ],
   "forge": [
     {
       "modId": "extra_compat",

@@ -1,6 +1,12 @@
 {
   "name": "light-overlay-6.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 325492,
+      "fileId": 3668243
+    }
+  ],
   "fabric": [
     {
       "modId": "lightoverlay",

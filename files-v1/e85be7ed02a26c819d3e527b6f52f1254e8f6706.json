@@ -1,0 +1,26 @@
+{
+  "name": "Neat-1.20.1-41-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ins7SzzR",
+      "versionId": "lA2qbY0w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639987,
+      "fileId": 5838484
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neat",
+      "version": "1.20.1-41-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

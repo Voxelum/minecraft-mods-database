@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bpgdc65F",
+      "versionId": "Pld1n1Sp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952040,
+      "fileId": 5337028
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchant_icon",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "QuarkOddities-1.15.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qeEEslrN",
+      "versionId": "9y3xOkZO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 301051,
+      "fileId": 2914445
+    }
+  ],
   "forge": [
     {
       "modId": "quarkoddities",

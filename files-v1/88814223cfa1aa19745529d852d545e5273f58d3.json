@@ -1,6 +1,18 @@
 {
   "name": "animatica-0.4+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PRN43VSY",
+      "versionId": "uoIGWJxI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533006,
+      "fileId": 3664303
+    }
+  ],
   "fabric": [
     {
       "modId": "animatica",

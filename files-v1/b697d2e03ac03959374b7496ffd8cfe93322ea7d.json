@@ -1,0 +1,16 @@
+{
+  "name": "FishBonanza-1.12.2-1.1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1093478,
+      "fileId": 5850449
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fishbonanza",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "cobweb-forge-1.18.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQcfqGbl",
+      "versionId": "xWL45jfA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968456,
+      "fileId": 5441021
+    }
+  ],
   "forge": [
     {
       "modId": "cobweb",

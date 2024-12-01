@@ -1,6 +1,18 @@
 {
   "name": "1.7.11-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3rc31Hgo",
+      "versionId": "xxCtR2DV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 556967,
+      "fileId": 5351056
+    }
+  ],
   "fabric": [
     {
       "modId": "spectrum",

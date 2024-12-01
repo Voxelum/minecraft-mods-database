@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 714353,
+      "fileId": 5616081
+    }
+  ],
+  "forge": [
+    {
+      "modId": "overgrowth",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

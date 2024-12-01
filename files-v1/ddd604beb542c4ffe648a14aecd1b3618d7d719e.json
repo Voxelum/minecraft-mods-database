@@ -1,0 +1,26 @@
+{
+  "name": "SimpleRadio-fabric-1.20.1-2.4.6.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S7b8mMXS",
+      "versionId": "jRK9rzce"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 820070,
+      "fileId": 5480188
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simpleradio",
+      "version": "2.4.6.1"
+    },
+    {
+      "modId": "polymer-registry-sync-manipulator",
+      "version": "0.5.19+1.20.1"
+    }
+  ]
+}

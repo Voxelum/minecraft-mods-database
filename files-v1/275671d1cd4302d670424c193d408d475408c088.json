@@ -1,6 +1,18 @@
 {
   "name": "EnchantmentGroups-1.4.0+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i2K44Qi6",
+      "versionId": "xx9C7q7X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585917,
+      "fileId": 4777071
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantment_groups",

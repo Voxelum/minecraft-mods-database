@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O7pXTXac",
+      "versionId": "TFPXRwSu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394007,
+      "fileId": 3192468
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decorative",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "midnight-hats",
+      "version": "2.0.1"
+    }
+  ]
+}

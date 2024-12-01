@@ -1,6 +1,18 @@
 {
   "name": "ae2wtlib-15.0.1-betag.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pNabrMMw",
+      "versionId": "bInEuaKb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 459929,
+      "fileId": 4588148
+    }
+  ],
   "forge": [
     {
       "modId": "ae2wtlib",

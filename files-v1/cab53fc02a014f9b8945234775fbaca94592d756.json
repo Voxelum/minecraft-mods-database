@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tacocraft",
+      "version": "1.5.2+mc.1.16.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.4.0+1.16.5"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "structurized",
+      "version": "1.2.0-1.16.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "wares-1.19.2-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jz71ddli",
+      "versionId": "6EL6ZtL4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 839158,
+      "fileId": 4856623
+    }
+  ],
   "forge": [
     {
       "modId": "wares",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1Pu0kUBv",
+      "versionId": "IsH4W8Ud"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1117998,
+      "fileId": 5801346
+    }
+  ],
   "forge": [
     {
       "modId": "zombie_mode",

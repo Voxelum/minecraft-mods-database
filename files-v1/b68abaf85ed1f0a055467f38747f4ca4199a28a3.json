@@ -1,6 +1,12 @@
 {
   "name": "DiscordIntegration-mc1.12.2-3.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 245288,
+      "fileId": 2542101
+    }
+  ],
   "forge": [
     {
       "modId": "discordintegration",

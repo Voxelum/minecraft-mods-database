@@ -1,6 +1,18 @@
 {
   "name": "archon-0.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "td9zQQBq",
+      "versionId": "lZt13Wur"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 575339,
+      "fileId": 5533234
+    }
+  ],
   "fabric": [
     {
       "modId": "archon",

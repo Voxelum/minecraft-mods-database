@@ -1,6 +1,18 @@
 {
   "name": "compressedcreativity-1.18.2-0.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mt3rcQKj",
+      "versionId": "IFluZbak"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549381,
+      "fileId": 4626919
+    }
+  ],
   "forge": [
     {
       "modId": "compressedcreativity",

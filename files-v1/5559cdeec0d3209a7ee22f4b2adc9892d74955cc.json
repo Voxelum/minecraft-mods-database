@@ -1,6 +1,18 @@
 {
   "name": "RLFoliage-MC1.12-2.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UYCC0zlc",
+      "versionId": "Cgqga6UD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 970462,
+      "fileId": 5079523
+    }
+  ],
   "forge": [
     {
       "modId": "betterfoliage",

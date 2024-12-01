@@ -1,6 +1,18 @@
 {
   "name": "everythingcopper-1.18.2-0.1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "73MCa9Po",
+      "versionId": "LsmUBkxA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 579545,
+      "fileId": 4417571
+    }
+  ],
   "forge": [
     {
       "modId": "everythingcopper",

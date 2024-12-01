@@ -1,6 +1,18 @@
 {
   "name": "skillcloaks-1.19.2-1.1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SpoXB0Dc",
+      "versionId": "WMeHnQnQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597907,
+      "fileId": 4660845
+    }
+  ],
   "forge": [
     {
       "modId": "skillcloaks",

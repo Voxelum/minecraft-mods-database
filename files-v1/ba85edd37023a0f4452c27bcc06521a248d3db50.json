@@ -1,6 +1,18 @@
 {
   "name": "Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KOHu7RCS",
+      "versionId": "1ZrRaRbq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1096335,
+      "fileId": 5848370
+    }
+  ],
   "fabric": [
     {
       "modId": "moonrise",

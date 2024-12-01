@@ -1,0 +1,26 @@
+{
+  "name": "SimpleCopperPipes-mc1.21.1-2.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9r4ZkgSN",
+      "versionId": "4P7GtiZx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 571336,
+      "fileId": 5876587
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple_copper_pipes",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.3-mc1.21.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mfONdVnp",
+      "versionId": "RQjyCfZx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623925,
+      "fileId": 5669693
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "proxy_protocol_support",
+      "version": "1.0.4-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-haproxy",
+      "version": "4.1.112.Final"
+    }
+  ]
+}

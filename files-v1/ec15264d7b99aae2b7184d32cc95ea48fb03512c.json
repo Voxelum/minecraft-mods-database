@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "626Ed6yH",
+      "versionId": "T8BD8KXW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettermultishot",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "bettermultishot-common",
+      "version": "2.5.0"
+    }
+  ]
+}

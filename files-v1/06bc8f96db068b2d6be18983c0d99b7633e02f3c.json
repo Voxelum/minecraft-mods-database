@@ -1,6 +1,12 @@
 {
   "name": "campful-1.16.5-3.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 429901,
+      "fileId": 3230821
+    }
+  ],
   "forge": [
     {
       "modId": "campful",

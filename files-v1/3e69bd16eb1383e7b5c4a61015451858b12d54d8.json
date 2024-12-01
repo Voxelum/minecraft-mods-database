@@ -1,6 +1,18 @@
 {
   "name": "vampirismco_peculiarities-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "piX6w0OE",
+      "versionId": "GXTJzYKI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972638,
+      "fileId": 5243970
+    }
+  ],
   "forge": [
     {
       "modId": "vampirismco_peculiarities",

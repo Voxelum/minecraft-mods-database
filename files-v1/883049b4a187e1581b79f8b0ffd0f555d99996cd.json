@@ -1,6 +1,18 @@
 {
   "name": "binnie-mods-1.7.10-2.0.22.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jcZf13lh",
+      "versionId": "ptanreoH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 223525,
+      "fileId": 2467142
+    }
+  ],
   "forge": [
     {
       "modId": "BinnieCore",

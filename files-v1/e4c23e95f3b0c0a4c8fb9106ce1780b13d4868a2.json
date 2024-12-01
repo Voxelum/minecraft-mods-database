@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_vanilla-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1128055,
+      "fileId": 5851183
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_vanilla",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_vanilla",
+      "version": "1"
+    }
+  ]
+}

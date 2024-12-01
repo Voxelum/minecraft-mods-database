@@ -1,6 +1,18 @@
 {
   "name": "silentscreenshots-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z9pjbhjW",
+      "versionId": "KSPUWD7M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 955236,
+      "fileId": 5285832
+    }
+  ],
   "forge": [
     {
       "modId": "silentscreenshots",

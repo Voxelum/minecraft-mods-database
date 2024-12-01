@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6e2SlzR4",
+      "versionId": "MsLULKlk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923277,
+      "fileId": 5657608
+    }
+  ],
   "forge": [
     {
       "modId": "garnished",

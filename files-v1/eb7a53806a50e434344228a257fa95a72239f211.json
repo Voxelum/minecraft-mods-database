@@ -1,6 +1,18 @@
 {
   "name": "Fastload-1.1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kCpssoSb",
+      "versionId": "C2LwOzJk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630620,
+      "fileId": 3858803
+    }
+  ],
   "fabric": [
     {
       "modId": "fastload",

@@ -1,6 +1,18 @@
 {
   "name": "mousewheelie-1.13.0+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u5Ic2U1u",
+      "versionId": "5R7l84zv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317514,
+      "fileId": 4781054
+    }
+  ],
   "fabric": [
     {
       "modId": "mousewheelie",

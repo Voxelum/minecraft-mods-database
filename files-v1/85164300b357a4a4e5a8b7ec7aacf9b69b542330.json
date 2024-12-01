@@ -1,0 +1,18 @@
+{
+  "name": "quickbind-1.4+1.19.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "command-gui-buttons",
+      "version": "1.4+1.19.2"
+    },
+    {
+      "modId": "com_googlecode_json-simple_json-simple",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "6.0.1+1.19"
+    }
+  ]
+}

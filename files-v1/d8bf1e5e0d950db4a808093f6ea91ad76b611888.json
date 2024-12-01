@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cpqKG67r",
+      "versionId": "QWE2qf29"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1072349,
+      "fileId": 5752754
+    }
+  ],
   "forge": [
     {
       "modId": "create_pattern_schematics",

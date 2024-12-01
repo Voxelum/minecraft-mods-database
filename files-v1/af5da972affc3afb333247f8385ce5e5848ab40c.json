@@ -1,6 +1,18 @@
 {
   "name": "separatedleaves-2.3.0-fabric-1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xEu0FTVG",
+      "versionId": "gQ3P9F3t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905482,
+      "fileId": 4983130
+    }
+  ],
   "fabric": [
     {
       "modId": "separatedleaves",

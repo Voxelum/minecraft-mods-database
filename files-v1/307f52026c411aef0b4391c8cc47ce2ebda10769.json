@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uBKACKpl",
+      "versionId": "VEc2s37H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627824,
+      "fileId": 5685942
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shimmer",
+      "version": "1.20.1-0.2.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

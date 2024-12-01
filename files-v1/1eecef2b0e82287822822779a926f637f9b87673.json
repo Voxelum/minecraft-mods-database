@@ -1,6 +1,12 @@
 {
   "name": "Bookshelf-1.14.4-4.4.74.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uy4Cnpcm",
+      "versionId": "TiSKmPrC"
+    }
+  ],
   "forge": [
     {
       "modId": "bookshelf",

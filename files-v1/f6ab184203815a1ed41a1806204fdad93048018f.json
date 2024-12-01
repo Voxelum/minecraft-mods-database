@@ -1,0 +1,28 @@
+{
+  "name": "biggerspongeabsorptionradius-1.20.1-3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3PLAyBxz",
+      "versionId": "cfNshH9q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391896,
+      "fileId": 4583736
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biggerspongeabsorptionradius",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biggerspongeabsorptionradius",
+      "version": "3.1"
+    }
+  ]
+}

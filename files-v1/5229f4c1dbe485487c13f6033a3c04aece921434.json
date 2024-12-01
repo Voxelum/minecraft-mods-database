@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "kibe",
+      "version": "1.7-BETA"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.8.7"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.8.7"
+    }
+  ]
+}

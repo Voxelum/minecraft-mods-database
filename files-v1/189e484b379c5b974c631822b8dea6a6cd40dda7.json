@@ -1,6 +1,18 @@
 {
   "name": "jei-1.21-forge-19.8.2.99.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "Ioj7c71U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238222,
+      "fileId": 5609863
+    }
+  ],
   "forge": [
     {
       "modId": "jei",

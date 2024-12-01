@@ -1,0 +1,40 @@
+{
+  "name": "derelict-2.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 928990,
+      "fileId": 5848521
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "derelict",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "gimm1q",
+      "version": "0.6.1+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "biolith",
+      "version": "1.0.0-beta.2"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "7.0.3"
+    }
+  ]
+}

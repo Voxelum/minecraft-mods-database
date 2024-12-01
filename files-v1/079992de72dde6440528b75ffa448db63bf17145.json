@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ME0bwGV6",
+      "versionId": "oO0cOBAX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1100334,
+      "fileId": 5800969
+    }
+  ],
+  "forge": [
+    {
+      "modId": "frozify",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frozify",
+      "version": "1.0.1"
+    }
+  ]
+}

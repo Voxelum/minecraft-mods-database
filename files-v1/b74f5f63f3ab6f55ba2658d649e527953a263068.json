@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 378238,
+      "fileId": 5333769
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ring_of_miner",
+      "version": "1.6.30"
+    },
+    {
+      "modId": "pugh_tools",
+      "version": "1.7.18"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "RoguelikeDungeons-2.0.8-1.21-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MFpvbNGE",
+      "versionId": "v0qI49QE"
+    }
+  ],
   "fabric": [
     {
       "modId": "roguelike",

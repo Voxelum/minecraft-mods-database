@@ -1,6 +1,12 @@
 {
   "name": "frozenup-2.1.0-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 430652,
+      "fileId": 4139740
+    }
+  ],
   "fabric": [
     {
       "modId": "frozenup",

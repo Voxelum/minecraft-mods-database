@@ -1,0 +1,26 @@
+{
+  "name": "toomanybinds-0.3.3+1.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "548fsydf",
+      "versionId": "RVf1jdvv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412915,
+      "fileId": 4362270
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toomanybinds",
+      "version": "0.3.3+1.16"
+    },
+    {
+      "modId": "toomanybinds-compat-1-16",
+      "version": "0.3.3"
+    }
+  ]
+}

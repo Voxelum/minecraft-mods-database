@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RsZDxTI3",
+      "versionId": "NHiKwIkK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 362669,
+      "fileId": 4592290
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickshulker",
+      "version": "1.4.0-1.19.4"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.3-1.19.4"
+    },
+    {
+      "modId": "shulkerutils",
+      "version": "1.0.4-1.19"
+    }
+  ]
+}

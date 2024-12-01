@@ -1,6 +1,12 @@
 {
   "name": "fastrandom-1.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RfFxanNh",
+      "versionId": "rNgmMAGr"
+    }
+  ],
   "fabric": [
     {
       "modId": "fastrandom",

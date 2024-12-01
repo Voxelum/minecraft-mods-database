@@ -1,5 +1,6 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "CORVJbiT",
@@ -10,6 +11,12 @@
     {
       "projectId": 1083173,
       "fileId": 5799978
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynnventory",
+      "version": "0.8.8"
     }
   ]
 }

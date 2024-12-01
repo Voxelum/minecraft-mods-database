@@ -1,0 +1,20 @@
+{
+  "name": "elegantarmour-1.1-SNAPSHOT.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1LrBk5C6",
+      "versionId": "fPToZFbM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elegantarmour",
+      "version": "1.1-SNAPSHOT"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

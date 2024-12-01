@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VQksBiY",
+      "versionId": "yssg5k3o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858897,
+      "fileId": 5766087
+    }
+  ],
   "forge": [
     {
       "modId": "creatingspace",

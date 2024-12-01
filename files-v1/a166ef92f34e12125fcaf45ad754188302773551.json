@@ -1,6 +1,18 @@
 {
   "name": "TooManyOrigins-1.0.0-beta.19+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xDjN28OB",
+      "versionId": "zl8EPXrN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 469658,
+      "fileId": 4730376
+    }
+  ],
   "fabric": [
     {
       "modId": "toomanyorigins",

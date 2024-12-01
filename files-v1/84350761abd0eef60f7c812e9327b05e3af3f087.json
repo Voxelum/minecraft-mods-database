@@ -1,0 +1,28 @@
+{
+  "name": "TPA++ - 1.6.0-1.20.x-UNTESTED-BETA-3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QuPbmyCQ",
+      "versionId": "mRuNJ4RO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945501,
+      "fileId": 5713217
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tpaplusplus",
+      "version": "1.6.0-1.20.x-UNTESTED-BETA-3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tpaplusplus",
+      "version": "1.6.0-1.20.x-UNTESTED-BETA-3"
+    }
+  ]
+}

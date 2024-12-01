@@ -1,0 +1,20 @@
+{
+  "name": "doors-closed-1.0.0+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L49j7sQG",
+      "versionId": "fdAdmwpI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doors-closed",
+      "version": "1.0.0+1.19.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

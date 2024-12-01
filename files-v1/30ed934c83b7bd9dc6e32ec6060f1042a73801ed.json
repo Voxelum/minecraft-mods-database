@@ -1,6 +1,18 @@
 {
   "name": "Adorn-2.1.5+1.17.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6FUtRJh",
+      "versionId": "PMcVhh7K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320215,
+      "fileId": 3460564
+    }
+  ],
   "fabric": [
     {
       "modId": "adorn",

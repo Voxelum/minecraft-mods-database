@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8TWzoOby",
+      "versionId": "khe90rQk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 444729,
+      "fileId": 5609490
+    }
+  ],
+  "forge": [
+    {
+      "modId": "recast",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recast",
+      "version": "3.5"
+    }
+  ]
+}

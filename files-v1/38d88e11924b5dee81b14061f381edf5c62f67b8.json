@@ -1,0 +1,20 @@
+{
+  "name": "RebornCore-5.0.9-beta+build.131.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 237903,
+      "fileId": 3485056
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reborncore",
+      "version": "5.0.9-beta+build.131"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

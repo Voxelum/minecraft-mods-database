@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bnNJHw3R",
+      "versionId": "cdxuSOml"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "achievements",
+      "version": "11.4.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "achievements",
+      "version": "9.2.8"
+    }
+  ]
+}

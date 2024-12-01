@@ -1,6 +1,18 @@
 {
   "name": "Cool-Elytra-1.5-for-minecraft-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TnJMIIQ2",
+      "versionId": "lanT2KkY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 518515,
+      "fileId": 4009069
+    }
+  ],
   "fabric": [
     {
       "modId": "cool_elytra",

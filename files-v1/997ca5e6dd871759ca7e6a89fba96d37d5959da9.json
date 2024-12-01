@@ -1,6 +1,18 @@
 {
   "name": "Super-Ore-Block-4.1.0-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lFr5Bbfo",
+      "versionId": "eDlBoPy4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861181,
+      "fileId": 4702817
+    }
+  ],
   "fabric": [
     {
       "modId": "super_ore_block",

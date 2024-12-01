@@ -1,6 +1,18 @@
 {
   "name": "Tough As Nails-1.18.2-7.0.0.69.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ge1sOdFH",
+      "versionId": "6p20Qecf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246391,
+      "fileId": 3722886
+    }
+  ],
   "forge": [
     {
       "modId": "toughasnails",

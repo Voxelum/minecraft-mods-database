@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dynamic_fps",
+      "version": "3.5.1"
+    },
+    {
+      "modId": "net_lostluma_battery",
+      "version": "1.0.1"
+    }
+  ]
+}

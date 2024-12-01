@@ -1,6 +1,18 @@
 {
   "name": "handcrafted-forge-1.19.4-2.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pJmCFF0p",
+      "versionId": "SOwrisFm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538214,
+      "fileId": 4438942
+    }
+  ],
   "forge": [
     {
       "modId": "handcrafted",

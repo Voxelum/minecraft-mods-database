@@ -1,6 +1,18 @@
 {
   "name": "GamingDeco 1.8.3 Forge 1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tTPzEplo",
+      "versionId": "F64ccmKA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 494133,
+      "fileId": 4404387
+    }
+  ],
   "forge": [
     {
       "modId": "gamingdeco",

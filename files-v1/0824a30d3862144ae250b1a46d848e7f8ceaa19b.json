@@ -1,6 +1,12 @@
 {
   "name": "immersive-portals-0.11(for mc 1.15 with fabric).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 332273,
+      "fileId": 2874890
+    }
+  ],
   "fabric": [
     {
       "modId": "immersive_portals",

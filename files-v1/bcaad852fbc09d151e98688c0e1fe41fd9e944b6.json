@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "Controlify-2.0.0-beta.19+1.20.1-fabric.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "DOUdJVEm",
       "versionId": "ME0GSDzt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835847,
+      "fileId": 5857175
     }
   ],
   "fabric": [

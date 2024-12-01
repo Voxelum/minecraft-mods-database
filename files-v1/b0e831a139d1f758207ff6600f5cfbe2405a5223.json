@@ -1,6 +1,18 @@
 {
   "name": "Patchouli-1.15.2-1.2-35.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "oFXdEP6M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 306770,
+      "fileId": 3000903
+    }
+  ],
   "forge": [
     {
       "modId": "patchouli",

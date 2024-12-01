@@ -1,6 +1,12 @@
 {
   "name": "librarian-trade-finder-2.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cpbKeMPQ",
+      "versionId": "mIfMdmvt"
+    }
+  ],
   "fabric": [
     {
       "modId": "librarian-trade-finder",

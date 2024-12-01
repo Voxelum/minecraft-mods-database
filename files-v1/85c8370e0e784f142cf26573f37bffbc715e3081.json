@@ -1,0 +1,30 @@
+{
+  "name": "mcpitanlib-3.0.7-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNRoUnGT",
+      "versionId": "7mvNlhRF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682213,
+      "fileId": 5907932
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcpitanlib",
+      "version": "3.0.7-1.20.1-fabric"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

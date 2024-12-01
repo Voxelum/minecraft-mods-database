@@ -1,6 +1,12 @@
 {
   "name": "PeripheralJumper-forge-1.19.2-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1039080,
+      "fileId": 5439523
+    }
+  ],
   "forge": [
     {
       "modId": "peripheral_jumper",

@@ -1,4 +1,16 @@
 {
   "name": "1.5.2_DamageIndicators_v2.7.0.1.zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 59489,
+      "fileId": 712193
+    }
+  ],
+  "forge": [
+    {
+      "modId": "DamageIndicatorsMod",
+      "version": "2.7.0.1"
+    }
+  ]
 }

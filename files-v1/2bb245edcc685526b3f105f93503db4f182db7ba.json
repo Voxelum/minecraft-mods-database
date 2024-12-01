@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Es5v4eyq",
+      "versionId": "D72Dqsl3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.5"
+    }
+  ]
+}

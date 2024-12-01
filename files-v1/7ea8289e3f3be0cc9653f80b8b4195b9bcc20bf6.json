@@ -1,6 +1,18 @@
 {
   "name": "pplib-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hAtLRaH5",
+      "versionId": "dYNSEgro"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904848,
+      "fileId": 4848426
+    }
+  ],
   "forge": [
     {
       "modId": "peskypirates",

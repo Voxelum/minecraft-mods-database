@@ -1,6 +1,12 @@
 {
   "name": "pal-1.7.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 359522,
+      "fileId": 4143860
+    }
+  ],
   "fabric": [
     {
       "modId": "playerabilitylib",

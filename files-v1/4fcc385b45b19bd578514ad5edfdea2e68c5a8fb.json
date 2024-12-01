@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9MhQ9NoM",
+      "versionId": "psgMgAb8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 971077,
+      "fileId": 5539452
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrocktools76",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

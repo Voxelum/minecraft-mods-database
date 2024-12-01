@@ -1,6 +1,18 @@
 {
   "name": "BetterDrowning-1.15.2-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "40HLagab",
+      "versionId": "iUZUbxfx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 376809,
+      "fileId": 2935820
+    }
+  ],
   "forge": [
     {
       "modId": "betterdrowning",

@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nourish",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "2.5.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "2.5.4"
+    }
+  ]
+}

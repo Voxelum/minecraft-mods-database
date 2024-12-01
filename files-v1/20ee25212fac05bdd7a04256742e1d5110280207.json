@@ -1,6 +1,12 @@
 {
   "name": "indrev-1.16.5-BETA-Hotfix.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f6Sw2pW6",
+      "versionId": "M9GwiXWK"
+    }
+  ],
   "fabric": [
     {
       "modId": "indrev",

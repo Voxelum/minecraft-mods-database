@@ -1,6 +1,18 @@
 {
   "name": "curiousshulkerboxes-FORGE-1.15.2-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R5T1RmWr",
+      "versionId": "NsrTsygx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316881,
+      "fileId": 2971405
+    }
+  ],
   "forge": [
     {
       "modId": "curiousshulkerboxes",

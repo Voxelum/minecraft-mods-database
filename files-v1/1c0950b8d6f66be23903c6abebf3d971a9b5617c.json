@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LMoBD2pV",
+      "versionId": "wL8VbrOn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no-peeking",
+      "version": "${modVersion}"
+    }
+  ]
+}

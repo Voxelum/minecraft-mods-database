@@ -1,6 +1,18 @@
 {
   "name": "SlimyBoyos-fabric-1.19.2-5.0.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aT62gFqe",
+      "versionId": "TMRRNmst"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 281993,
+      "fileId": 4019894
+    }
+  ],
   "fabric": [
     {
       "modId": "slimyboyos",

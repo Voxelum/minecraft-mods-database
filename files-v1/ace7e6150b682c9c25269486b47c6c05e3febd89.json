@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TnVGOosc",
+      "versionId": "D2zyxyOM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasticgun",
+      "version": "1.9.6"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "polymer-autohost",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.9+1.21"
+    }
+  ]
+}

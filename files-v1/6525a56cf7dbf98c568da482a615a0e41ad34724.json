@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CmDgNtOI",
+      "versionId": "ifeiOJva"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 528135,
+      "fileId": 5851989
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "incapacitated",
+      "version": "1.8.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.1"
+    }
+  ]
+}

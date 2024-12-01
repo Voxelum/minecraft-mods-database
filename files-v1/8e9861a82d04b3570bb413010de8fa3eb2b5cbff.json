@@ -1,6 +1,12 @@
 {
   "name": "rustic-1.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256141,
+      "fileId": 2746408
+    }
+  ],
   "forge": [
     {
       "modId": "rustic",

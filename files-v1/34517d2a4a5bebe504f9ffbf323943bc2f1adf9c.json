@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "decimal_coins",
+      "version": "${mc_version}-${mod_version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decimal_coins",
+      "version": "1.16.2-1.2.0"
+    }
+  ]
+}

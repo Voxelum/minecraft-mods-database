@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VuT1FX12",
+      "versionId": "DK2oX7mU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "screenshots",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.10"
+    }
+  ]
+}

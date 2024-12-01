@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "jsblock",
+      "version": "1.2.2+mc1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jsblock",
+      "version": "1.2.2+mc1.20"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "FlectoneMix Ambient Environment.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DyTvM1dv",
+      "versionId": "3cvbT7gE"
+    }
+  ],
   "fabric": [
     {
       "modId": "ambientenvironment",

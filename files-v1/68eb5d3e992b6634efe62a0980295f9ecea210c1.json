@@ -1,0 +1,30 @@
+{
+  "name": "ledger-1.3.4.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LVN9ygNV",
+      "versionId": "mb29Srom"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491137,
+      "fileId": 5446733
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ledger",
+      "version": "1.3.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

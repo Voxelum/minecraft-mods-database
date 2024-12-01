@@ -1,6 +1,12 @@
 {
   "name": "rusticresources.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 585295,
+      "fileId": 3735365
+    }
+  ],
   "forge": [
     {
       "modId": "rustic_resources",

@@ -1,6 +1,18 @@
 {
   "name": "yungsbetterdeserttemples-1.19.2-forge-2.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XNlO7sBv",
+      "versionId": "QqT68vQL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631016,
+      "fileId": 4031660
+    }
+  ],
   "forge": [
     {
       "modId": "betterdeserttemples",

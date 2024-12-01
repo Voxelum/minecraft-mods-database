@@ -1,6 +1,18 @@
 {
   "name": "cat_jam-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3s69afN",
+      "versionId": "kWCh1X47"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 859716,
+      "fileId": 4619866
+    }
+  ],
   "fabric": [
     {
       "modId": "cat_jam",

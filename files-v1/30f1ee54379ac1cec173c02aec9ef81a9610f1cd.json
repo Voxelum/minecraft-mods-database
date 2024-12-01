@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DnRocHsW",
+      "versionId": "4j9PzVOC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 428946,
+      "fileId": 4625454
+    }
+  ],
+  "forge": [
+    {
+      "modId": "exsartagine",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "ic2patcher-2.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456402,
+      "fileId": 4617517
+    }
+  ],
   "forge": [
     {
       "modId": "ic2patcher",

@@ -1,6 +1,18 @@
 {
   "name": "new_slab_variants-merged-1.21-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ns0BvMIG",
+      "versionId": "PMdmbPTK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896385,
+      "fileId": 5534832
+    }
+  ],
   "forge": [
     {
       "modId": "new_slab_variants",

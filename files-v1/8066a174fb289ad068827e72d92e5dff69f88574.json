@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L8Vo4ZS1",
+      "versionId": "kizL8omu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "playertracker",
+      "version": "0.2-fabric-1.20.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.2+1.20.2"
+    }
+  ]
+}

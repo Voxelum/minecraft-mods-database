@@ -1,6 +1,18 @@
 {
   "name": "puffish_skills-0.13.2-1.18.2-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hqQqvaa4",
+      "versionId": "H8wxHZ1L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835091,
+      "fileId": 5551793
+    }
+  ],
   "forge": [
     {
       "modId": "puffish_skills",

@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OnDQctNr",
+      "versionId": "tBkISdKZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868350,
+      "fileId": 4936868
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advanced-chat",
+      "version": "1.4-1.20.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.34+f31bf8813b"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.18+23e8616e3b"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.28+9468a19d3b"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "6.0.3+ebb154963b"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.3.0+1.20.3"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.4.0+1.20.3"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.3.0+1.20.2"
+    }
+  ]
+}

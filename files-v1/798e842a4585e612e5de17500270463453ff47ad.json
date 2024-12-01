@@ -1,6 +1,18 @@
 {
   "name": "mcdw-9.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FZmGDE43",
+      "versionId": "O8JgP5eC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 407311,
+      "fileId": 5263794
+    }
+  ],
   "fabric": [
     {
       "modId": "mcdw",

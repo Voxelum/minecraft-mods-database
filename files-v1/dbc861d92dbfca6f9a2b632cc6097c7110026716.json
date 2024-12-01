@@ -1,6 +1,18 @@
 {
   "name": "goated-1.19.2-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L7dBwZPX",
+      "versionId": "QSjysyto"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 805646,
+      "fileId": 4467721
+    }
+  ],
   "forge": [
     {
       "modId": "goated",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DLsxkJLC",
+      "versionId": "5Tob96Cb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118478,
+      "fileId": 5876915
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tsa-decorations",
+      "version": "2.1.1+1.21.2-1.21.3"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.1+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.7.0+1.21.2"
+    }
+  ]
+}

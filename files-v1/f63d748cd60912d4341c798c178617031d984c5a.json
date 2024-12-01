@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cfQx2fbQ",
+      "versionId": "ta4gQZJ7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 697926,
+      "fileId": 5767002
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemalchemy",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

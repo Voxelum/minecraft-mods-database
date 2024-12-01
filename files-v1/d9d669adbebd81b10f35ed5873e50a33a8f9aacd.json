@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "En8uHTOK",
+      "versionId": "pvvRGT6U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979809,
+      "fileId": 5834275
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aaa_particles",
+      "version": "1.21-1.4.7"
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.8"
+    }
+  ]
+}

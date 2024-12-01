@@ -1,6 +1,18 @@
 {
   "name": "supermartijn642corelib-1.1.10-forge-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rOUBggPv",
+      "versionId": "z6UtG178"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 454372,
+      "fileId": 4601826
+    }
+  ],
   "forge": [
     {
       "modId": "supermartijn642corelib",

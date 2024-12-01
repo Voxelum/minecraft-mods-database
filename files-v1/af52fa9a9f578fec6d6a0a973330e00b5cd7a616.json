@@ -1,6 +1,18 @@
 {
   "name": "[食物扩展：重构想] foodexpansion-1.10.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZgoSA17g",
+      "versionId": "cKlZ8POi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373456,
+      "fileId": 4692141
+    }
+  ],
   "forge": [
     {
       "modId": "foodexpansion",

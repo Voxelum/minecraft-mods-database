@@ -1,0 +1,20 @@
+{
+  "name": "SlotCycler-v21.1.0-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3kl8Lmm9",
+      "versionId": "CvPUjtHD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "slotcycler",
+      "version": "21.1.0"
+    },
+    {
+      "modId": "hotbarslotcycling",
+      "version": "21.1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "ForgeMultipart-1.12.2-2.5.0.71-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LmvnWWSV",
+      "versionId": "uCyTIrqi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 258426,
+      "fileId": 2600448
+    }
+  ],
   "forge": [
     {
       "modId": "microblockcbe",

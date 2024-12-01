@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223852,
+      "fileId": 5915606
+    }
+  ],
+  "forge": [
+    {
+      "modId": "storagedrawers",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "storagedrawers",
+      "version": "12.10.4"
+    }
+  ]
+}

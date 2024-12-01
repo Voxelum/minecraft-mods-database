@@ -1,6 +1,18 @@
 {
   "name": "FiskHeroes-1.7.10-2.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eFDDpt8w",
+      "versionId": "wfSSuVzD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630788,
+      "fileId": 4581062
+    }
+  ],
   "forge": [
     {
       "modId": "fisktag",

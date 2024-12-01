@@ -1,0 +1,10 @@
+{
+  "name": "Calclavia Core-1.1.1.68.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "CalclaviaCore",
+      "version": "@MAJOR@.@MINOR@.@REVIS@"
+    }
+  ]
+}

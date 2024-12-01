@@ -1,6 +1,18 @@
 {
   "name": "PokePatch-1.2b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w5xYJ4ml",
+      "versionId": "td7ybfA3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 729495,
+      "fileId": 4407378
+    }
+  ],
   "forge": [
     {
       "modId": "pokepatch",

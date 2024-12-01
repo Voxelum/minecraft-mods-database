@@ -1,6 +1,18 @@
 {
   "name": "mmlib-1.2.2-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ntMyNH8c",
+      "versionId": "QkDvf41g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368098,
+      "fileId": 4621169
+    }
+  ],
   "forge": [
     {
       "modId": "mmlib",

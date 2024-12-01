@@ -1,6 +1,18 @@
 {
   "name": "ItemStages-Forge-1.20.1-8.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1WAfmxKu",
+      "versionId": "sQ1ri9ut"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 280316,
+      "fileId": 5214094
+    }
+  ],
   "forge": [
     {
       "modId": "itemstages",

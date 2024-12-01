@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "amecs",
+      "version": "1.3.10+mc.1.17"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.4.0+mc1.17.1"
+    }
+  ]
+}

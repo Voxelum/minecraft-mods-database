@@ -1,6 +1,18 @@
 {
   "name": "entityculling-neoforge-1.6.3.1-mc1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "Ek0VIX9q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448233,
+      "fileId": 4950408
+    }
+  ],
   "forge": [
     {
       "modId": "entityculling",

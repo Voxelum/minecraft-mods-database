@@ -1,6 +1,12 @@
 {
   "name": "XPFromHarvest-1.20.1-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FfR6U4UK",
+      "versionId": "7SwV9zsu"
+    }
+  ],
   "forge": [
     {
       "modId": "xpfromharvest",

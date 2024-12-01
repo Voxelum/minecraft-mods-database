@@ -1,6 +1,18 @@
 {
   "name": "smallships-forge-1.19.2-2.0.0-b1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rGWEHQrP",
+      "versionId": "VeF58TU9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450659,
+      "fileId": 5324996
+    }
+  ],
   "forge": [
     {
       "modId": "smallships",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc2Pektv",
+      "versionId": "tuT2hSeB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917144,
+      "fileId": 5395209
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "basicweapons",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

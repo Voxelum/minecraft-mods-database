@@ -1,6 +1,18 @@
 {
   "name": "onsoulfire-1.21-r1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HfTvoVqY",
+      "versionId": "xXYd4Yvp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394667,
+      "fileId": 5551541
+    }
+  ],
   "fabric": [
     {
       "modId": "onsoulfire",

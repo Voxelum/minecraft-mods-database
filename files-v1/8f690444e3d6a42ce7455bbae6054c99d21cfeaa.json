@@ -1,6 +1,12 @@
 {
   "name": "musicdr-3.0.0-hotfix.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 400131,
+      "fileId": 4027677
+    }
+  ],
   "forge": [
     {
       "modId": "musicdr",

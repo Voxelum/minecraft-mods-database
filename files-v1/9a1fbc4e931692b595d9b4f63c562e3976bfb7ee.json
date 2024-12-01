@@ -1,6 +1,18 @@
 {
   "name": "twigs-3.0.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RG50cUrX",
+      "versionId": "6Q3mryfg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 496913,
+      "fileId": 4531496
+    }
+  ],
   "fabric": [
     {
       "modId": "twigs",

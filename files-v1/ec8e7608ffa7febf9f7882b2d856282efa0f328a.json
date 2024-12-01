@@ -1,6 +1,18 @@
 {
   "name": "mobstrength-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sah0xpk9",
+      "versionId": "WScRWuHe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682878,
+      "fileId": 4171796
+    }
+  ],
   "forge": [
     {
       "modId": "mobstrength",

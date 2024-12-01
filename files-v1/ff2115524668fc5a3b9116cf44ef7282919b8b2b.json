@@ -1,6 +1,18 @@
 {
   "name": "BetterFurnaces-1.19.2-1.0.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZXOYCX2A",
+      "versionId": "Co5eLyy4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395653,
+      "fileId": 4708868
+    }
+  ],
   "forge": [
     {
       "modId": "betterfurnacesreforged",

@@ -1,0 +1,22 @@
+{
+  "name": "missing-recipes-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UM5deFR1",
+      "versionId": "oCG2tA8H"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_missing_recipes",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_missing_recipes",
+      "version": "1.0.0"
+    }
+  ]
+}

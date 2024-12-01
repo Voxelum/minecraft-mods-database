@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "awesoft_technologies",
+      "version": "0.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "awesoft_technologies",
+      "version": "0.3.5"
+    }
+  ]
+}

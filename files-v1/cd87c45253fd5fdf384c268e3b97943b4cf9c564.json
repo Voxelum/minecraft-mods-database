@@ -1,6 +1,18 @@
 {
   "name": "BotanicalMachinery-1.18.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CTJzhcfH",
+      "versionId": "dQBDmuNu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395617,
+      "fileId": 3877708
+    }
+  ],
   "forge": [
     {
       "modId": "botanicalmachinery",

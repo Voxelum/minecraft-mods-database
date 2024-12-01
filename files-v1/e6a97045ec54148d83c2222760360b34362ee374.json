@@ -1,6 +1,18 @@
 {
   "name": "dawn-3.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "meZK2DCX",
+      "versionId": "8FVAcXqk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399309,
+      "fileId": 3722593
+    }
+  ],
   "fabric": [
     {
       "modId": "dawn",

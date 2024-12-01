@@ -1,6 +1,12 @@
 {
   "name": "cardiac-1.20.1-0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C5PewmIj",
+      "versionId": "K8Hl3BeT"
+    }
+  ],
   "forge": [
     {
       "modId": "cardiac",

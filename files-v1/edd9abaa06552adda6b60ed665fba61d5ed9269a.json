@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hard-hat-steve",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "1.0.1"
+    }
+  ]
+}

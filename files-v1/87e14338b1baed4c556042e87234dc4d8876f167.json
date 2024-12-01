@@ -1,0 +1,28 @@
+{
+  "name": "developer-resources-1.6.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZS3lIxKu",
+      "versionId": "Vu7afFvf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1003675,
+      "fileId": 5636186
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_developer_resources",
+      "version": "1.6.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_developer_resources",
+      "version": "1.6.3"
+    }
+  ]
+}

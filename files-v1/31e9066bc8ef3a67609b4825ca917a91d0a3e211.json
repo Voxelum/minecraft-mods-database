@@ -1,6 +1,12 @@
 {
   "name": "embeddiumextension-1.16.5-0.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 920353,
+      "fileId": 4908146
+    }
+  ],
   "forge": [
     {
       "modId": "embeddiumextension",

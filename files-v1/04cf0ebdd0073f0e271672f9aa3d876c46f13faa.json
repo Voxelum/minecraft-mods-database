@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d0f1a75r",
+      "versionId": "GLEmpiUX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523423,
+      "fileId": 5925289
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uncraftingtable76",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

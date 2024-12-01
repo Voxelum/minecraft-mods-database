@@ -1,6 +1,12 @@
 {
   "name": "citadel-1.7.1-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 331936,
+      "fileId": 3346836
+    }
+  ],
   "forge": [
     {
       "modId": "citadel",

@@ -1,6 +1,18 @@
 {
   "name": "[1.20.1] SecurityCraft v1.9.7-beta1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v8jzRtAt",
+      "versionId": "pAOYhSFG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 64760,
+      "fileId": 4605459
+    }
+  ],
   "forge": [
     {
       "modId": "securitycraft",

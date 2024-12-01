@@ -1,6 +1,18 @@
 {
   "name": "head_in_the_clouds-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Agw7MFEL",
+      "versionId": "CwYQrBh0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821759,
+      "fileId": 4579655
+    }
+  ],
   "fabric": [
     {
       "modId": "head_in_the_clouds",

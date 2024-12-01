@@ -1,0 +1,28 @@
+{
+  "name": "biomespawnpoint-1.18.2-2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mtfbtanr",
+      "versionId": "dfR6WOXv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695238,
+      "fileId": 4854157
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biomespawnpoint",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomespawnpoint",
+      "version": "2.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "GameMenuRemoveGFARB-1.16.4-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bKQclmIt",
+      "versionId": "UYl6FVQP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 420519,
+      "fileId": 3599600
+    }
+  ],
   "forge": [
     {
       "modId": "gamemenuremovegfarb",

@@ -1,6 +1,18 @@
 {
   "name": "durabilitytooltip-1.1.5-fabric-mc1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "smUP7V3r",
+      "versionId": "fPhKEOHh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511040,
+      "fileId": 4741028
+    }
+  ],
   "fabric": [
     {
       "modId": "durabilitytooltip",

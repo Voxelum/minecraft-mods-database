@@ -1,6 +1,12 @@
 {
   "name": "duckling-1.0.6-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 597248,
+      "fileId": 3925778
+    }
+  ],
   "forge": [
     {
       "modId": "duckling",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "zQP1NGGG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 526606,
+      "fileId": 4194378
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective-fabric",
+      "version": "5.45"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

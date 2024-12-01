@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "SKfkZKbj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410127,
+      "fileId": 5295637
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.19.7+1.20.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.3+1.20.3"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.6.0+1.20.4"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    }
+  ]
+}

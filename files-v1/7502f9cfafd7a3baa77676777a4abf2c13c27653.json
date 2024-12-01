@@ -1,6 +1,18 @@
 {
   "name": "StructureGelApi.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T8TGycIQ",
+      "versionId": "Yj94wn7H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378802,
+      "fileId": 4721879
+    }
+  ],
   "forge": [
     {
       "modId": "structure_gel",

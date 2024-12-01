@@ -1,0 +1,26 @@
+{
+  "name": "leawind_third_person-v2.2.0-beta.2-mc1.20-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S3D3QF0M",
+      "versionId": "tYmWQLVZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930880,
+      "fileId": 5863527
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "leawind_third_person",
+      "version": "2.2.0-beta.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

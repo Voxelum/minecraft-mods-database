@@ -1,0 +1,26 @@
+{
+  "name": "cristellib-fabric-1.2.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cl223EMc",
+      "versionId": "pcnAJaO5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 856996,
+      "fileId": 5871655
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cristellib",
+      "version": "1.2.9"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

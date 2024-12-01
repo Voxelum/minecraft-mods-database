@@ -1,6 +1,18 @@
 {
   "name": "ConquestRecipes-v0.0.8-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q29DWqht",
+      "versionId": "P6LG6rJa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550523,
+      "fileId": 5144926
+    }
+  ],
   "fabric": [
     {
       "modId": "conquestrecipes",

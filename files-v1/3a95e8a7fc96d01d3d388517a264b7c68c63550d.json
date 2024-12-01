@@ -1,0 +1,88 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ex3jKEPK",
+      "versionId": "5aFb34cm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ducky-updater-rework",
+      "version": "2024.7.1"
+    },
+    {
+      "modId": "modmenu-badges-lib",
+      "version": "2023.6.1"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.12.3"
+    },
+    {
+      "modId": "io_ktor_ktor-client-cio-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-client-content-negotiation-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-client-core-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-events-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-http-cio-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-http-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-io-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-network-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-network-tls-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-kotlinx-json-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-kotlinx-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "io_ktor_ktor-utils-jvm",
+      "version": "2.3.7"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.44.1.0"
+    },
+    {
+      "modId": "com_zaxxer_hikaricp",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    }
+  ]
+}

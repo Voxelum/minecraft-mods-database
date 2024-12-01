@@ -1,6 +1,12 @@
 {
   "name": "simple.nuke-1.16.5-FORGE.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 709217,
+      "fileId": 4112522
+    }
+  ],
   "forge": [
     {
       "modId": "nuke",

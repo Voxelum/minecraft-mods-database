@@ -1,6 +1,18 @@
 {
   "name": "earthbounds-1.18.2-1.1.2a.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kCMvEtYh",
+      "versionId": "AZ9SXwzu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574411,
+      "fileId": 3794927
+    }
+  ],
   "fabric": [
     {
       "modId": "earthbounds",

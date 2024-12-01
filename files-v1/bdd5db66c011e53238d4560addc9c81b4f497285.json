@@ -1,6 +1,18 @@
 {
   "name": "DungeonsArise-1.19-2.1.51-fabric-beta-hf.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8DfbfASn",
+      "versionId": "Qtvjt3qS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511812,
+      "fileId": 3854946
+    }
+  ],
   "fabric": [
     {
       "modId": "dungeons_arise",

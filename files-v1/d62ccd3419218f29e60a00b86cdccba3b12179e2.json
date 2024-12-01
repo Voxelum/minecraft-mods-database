@@ -1,6 +1,18 @@
 {
   "name": "radiantgear-fabric-2.0.1+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtT9wm5O",
+      "versionId": "6O6DlyI7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688450,
+      "fileId": 4325447
+    }
+  ],
   "fabric": [
     {
       "modId": "radiantgear",

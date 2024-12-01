@@ -1,0 +1,28 @@
+{
+  "name": "Mods-Yggdrasil-2.0.9-for-1.21-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hwNDseBp",
+      "versionId": "WRqCDMPt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1135665,
+      "fileId": 5882076
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_yggdrasil_structure",
+      "version": "2.0.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_yggdrasil_structure",
+      "version": "2.0.9"
+    }
+  ]
+}

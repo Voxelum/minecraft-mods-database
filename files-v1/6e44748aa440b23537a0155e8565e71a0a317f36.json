@@ -1,0 +1,84 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wHVvdn1m",
+      "versionId": "qilFp98E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1070241,
+      "fileId": 5620548
+    }
+  ],
+  "forge": [
+    {
+      "modId": "serilumsclientbundle",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "serilumsclientbundle",
+      "version": "2.0"
+    },
+    {
+      "modId": "advancementscreenshot",
+      "version": "4.9"
+    },
+    {
+      "modId": "beautifiedchatclient",
+      "version": "2.6"
+    },
+    {
+      "modId": "currentgamemusictrack",
+      "version": "2.2"
+    },
+    {
+      "modId": "fullbrightnesstoggle",
+      "version": "4.2"
+    },
+    {
+      "modId": "globalnarrationtoggle",
+      "version": "1.4"
+    },
+    {
+      "modId": "guiclock",
+      "version": "4.6"
+    },
+    {
+      "modId": "guicompass",
+      "version": "4.8"
+    },
+    {
+      "modId": "guifollowers",
+      "version": "3.8"
+    },
+    {
+      "modId": "hidehands",
+      "version": "4.4"
+    },
+    {
+      "modId": "improvedsignediting",
+      "version": "1.4"
+    },
+    {
+      "modId": "omegamute",
+      "version": "4.2"
+    },
+    {
+      "modId": "passiveshield",
+      "version": "3.6"
+    },
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.5"
+    },
+    {
+      "modId": "vanillazoom",
+      "version": "2.7"
+    }
+  ]
+}

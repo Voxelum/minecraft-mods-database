@@ -1,6 +1,18 @@
 {
   "name": "minis-1.16.5-1.6+11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AagJT5ms",
+      "versionId": "KY7A8RCL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 472352,
+      "fileId": 3318867
+    }
+  ],
   "forge": [
     {
       "modId": "minis",

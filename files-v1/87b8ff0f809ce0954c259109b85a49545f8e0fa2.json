@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EWQifKYI",
+      "versionId": "7QV93R0V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952629,
+      "fileId": 5309690
+    }
+  ],
+  "forge": [
+    {
+      "modId": "improvedsignediting",
+      "version": "1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "improvedsignediting",
+      "version": "1.3"
+    }
+  ]
+}

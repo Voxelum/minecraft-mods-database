@@ -1,0 +1,30 @@
+{
+  "name": "cc_vs-1.20.1-fabric-0.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bvgy8HrZ",
+      "versionId": "stNnHsTg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958065,
+      "fileId": 5867166
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cc_vs",
+      "version": "1.20.1-fabric-0.1.1"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.1.12"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

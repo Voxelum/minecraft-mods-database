@@ -1,0 +1,56 @@
+{
+  "name": "origins-enhanced-fabric-1.8.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 433948,
+      "fileId": 4361683
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "originsenhanced",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.3+1b46dc7890"
+    },
+    {
+      "modId": "com_originrealms_enhanced_networking",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.14+6e0787e690"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_jagrosh_discordipc",
+      "version": "0.5"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "1.12.0+d8ef690890"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.25+5c4fce2890"
+    },
+    {
+      "modId": "fabric-blockrenderlayer-v1",
+      "version": "1.1.23+c6af733c90"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.8.3+251d254a90"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z6se2s8f",
+      "versionId": "nOFnE4q4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418933,
+      "fileId": 5866147
+    }
+  ],
+  "forge": [
+    {
+      "modId": "viaforge",
+      "version": "3.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaaprilfools",
+      "version": "3.0.5-SNAPSHOT"
+    }
+  ]
+}

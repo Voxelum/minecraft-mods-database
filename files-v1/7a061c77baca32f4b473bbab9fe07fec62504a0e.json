@@ -1,6 +1,18 @@
 {
   "name": "mythicmetals-0.13.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "G2grEKBo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410127,
+      "fileId": 3725977
+    }
+  ],
   "fabric": [
     {
       "modId": "mythicmetals",

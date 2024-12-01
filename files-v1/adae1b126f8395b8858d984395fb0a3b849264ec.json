@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "1.0.0+34590acc42"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "horseman-1.20.1-1.1.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qIv5FhAA",
+      "versionId": "kuemfgmZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1082085,
+      "fileId": 5681172
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "horseman",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "cloth-config-11.1.106-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 686419,
+      "fileId": 4031815
+    }
+  ],
   "fabric": [
     {
       "modId": "viewmodel",

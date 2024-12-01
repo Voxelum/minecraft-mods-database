@@ -1,6 +1,12 @@
 {
   "name": "sliceanddice-forge-3.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GmjmRQ0A",
+      "versionId": "rYnuEPwn"
+    }
+  ],
   "forge": [
     {
       "modId": "sliceanddice",

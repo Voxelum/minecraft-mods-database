@@ -1,6 +1,18 @@
 {
   "name": "EnchantmentDescriptions-Fabric-1.16.5-2.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UVtY3ZAC",
+      "versionId": "gJyF8m7f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250419,
+      "fileId": 3365169
+    }
+  ],
   "fabric": [
     {
       "modId": "enchdesc",

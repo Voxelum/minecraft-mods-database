@@ -1,6 +1,18 @@
 {
   "name": "healing+bed+1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J6y5L5vM",
+      "versionId": "6MECByJq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538686,
+      "fileId": 3497131
+    }
+  ],
   "forge": [
     {
       "modId": "healing_bed",

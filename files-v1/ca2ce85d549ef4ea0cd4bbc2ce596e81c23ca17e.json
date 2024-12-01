@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iaFWBDP2",
+      "versionId": "pIl7Bbfy"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_upgraded_mobs",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_upgraded_mobs",
+      "version": "1.4.0"
+    }
+  ]
+}

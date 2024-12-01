@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cSIsh4gX",
+      "versionId": "eZKELknN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 517791,
+      "fileId": 5128700
+    }
+  ],
   "fabric": [
     {
       "modId": "display_case",

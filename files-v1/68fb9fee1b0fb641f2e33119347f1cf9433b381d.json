@@ -1,6 +1,18 @@
 {
   "name": "rftools-1.12-7.55.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FwyGRcXc",
+      "versionId": "AyhPOIjl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 224641,
+      "fileId": 2581913
+    }
+  ],
   "forge": [
     {
       "modId": "rftools",

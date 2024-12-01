@@ -1,6 +1,18 @@
 {
   "name": "nether-s-exoticism-1.18.2-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3e4LaIlU",
+      "versionId": "677srxWk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486029,
+      "fileId": 4301256
+    }
+  ],
   "forge": [
     {
       "modId": "nethers_exoticism",

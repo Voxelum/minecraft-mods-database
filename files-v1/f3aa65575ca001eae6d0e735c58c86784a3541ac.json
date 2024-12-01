@@ -1,6 +1,18 @@
 {
   "name": "Satin.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fRbqPLg4",
+      "versionId": "20d9NeV2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 385463,
+      "fileId": 4577591
+    }
+  ],
   "fabric": [
     {
       "modId": "satin",

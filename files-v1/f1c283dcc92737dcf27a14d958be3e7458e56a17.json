@@ -1,6 +1,18 @@
 {
   "name": "reinforced-barrels-2.3.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tx85779b",
+      "versionId": "4WaYqVk9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529875,
+      "fileId": 4023347
+    }
+  ],
   "fabric": [
     {
       "modId": "reinfbarrel",

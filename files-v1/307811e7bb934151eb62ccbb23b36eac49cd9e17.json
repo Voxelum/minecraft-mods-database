@@ -1,6 +1,18 @@
 {
   "name": "DistantWorlds-Reborn-1.18.2-v1.0.7-Beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z0aFiDQz",
+      "versionId": "23CZN1Lx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 422072,
+      "fileId": 5222324
+    }
+  ],
   "forge": [
     {
       "modId": "distant_worlds",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kRYhslBa",
+      "versionId": "5CkMY0Tt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658569,
+      "fileId": 5547425
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "combatify",
+      "version": "1.20.6-1.2.0-Fabric"
+    },
+    {
+      "modId": "atlas-lib",
+      "version": "1.0.2"
+    }
+  ]
+}

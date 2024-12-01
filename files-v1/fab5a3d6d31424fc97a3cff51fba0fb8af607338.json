@@ -1,6 +1,18 @@
 {
   "name": "pop-1.18-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nlFgvj7M",
+      "versionId": "PHhPNw1t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 457826,
+      "fileId": 3549587
+    }
+  ],
   "forge": [
     {
       "modId": "pop",

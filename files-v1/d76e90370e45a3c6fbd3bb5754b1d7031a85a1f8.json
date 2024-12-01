@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9auOqb3o",
+      "versionId": "5acg0vgF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cyansethome",
+      "version": "0.1.15+1.20.1"
+    },
+    {
+      "modId": "cyanlib",
+      "version": "0.5.2+1.20.1"
+    }
+  ]
+}

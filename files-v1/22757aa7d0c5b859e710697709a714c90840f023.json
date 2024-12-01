@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "defaultoptions-fabric-1.21.1-21.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WEg59z5b",
+      "versionId": "GWn9yrIl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547694,
+      "fileId": 5623453
+    }
+  ],
   "fabric": [
     {
       "modId": "defaultoptions",

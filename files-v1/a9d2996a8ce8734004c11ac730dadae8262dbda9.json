@@ -1,0 +1,26 @@
+{
+  "name": "[铁砧修复] AnvilFix-1.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EB79Qy8k",
+      "versionId": "JQFr0bWk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 305480,
+      "fileId": 3679882
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "anvil_fix",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.17+801ec85b60"
+    }
+  ]
+}

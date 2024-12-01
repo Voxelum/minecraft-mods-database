@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EutyxFnb",
+      "versionId": "upRfwKwe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 460652,
+      "fileId": 5856253
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sihywtcamd",
+      "version": "1.11.1+1.21"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "multihopper",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    }
+  ]
+}

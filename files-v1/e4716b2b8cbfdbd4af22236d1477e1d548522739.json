@@ -1,6 +1,18 @@
 {
   "name": "spyglass-improvements-1.5.1+mc1.20+fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z6ykjRlM",
+      "versionId": "4PmfgG4q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 571264,
+      "fileId": 5296171
+    }
+  ],
   "fabric": [
     {
       "modId": "spyglass-improvements",

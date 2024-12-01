@@ -1,6 +1,12 @@
 {
   "name": "vulpine-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kAckHNrf",
+      "versionId": "J7hmuAvW"
+    }
+  ],
   "fabric": [
     {
       "modId": "vulpine",

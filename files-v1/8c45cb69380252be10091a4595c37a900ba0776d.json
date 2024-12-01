@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "flowerycore-5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CbUFLD9r",
+      "versionId": "P3JdMukT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 608507,
+      "fileId": 3807987
+    }
+  ],
   "forge": [
     {
       "modId": "flowerycore",

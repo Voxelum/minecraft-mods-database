@@ -1,6 +1,18 @@
 {
   "name": "letsdo-nethervinery-fabric-1.2.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4TTDxtOx",
+      "versionId": "tZvsSGFm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930072,
+      "fileId": 5221326
+    }
+  ],
   "fabric": [
     {
       "modId": "nethervinery",

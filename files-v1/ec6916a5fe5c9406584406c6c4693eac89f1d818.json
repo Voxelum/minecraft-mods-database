@@ -1,6 +1,18 @@
 {
   "name": "pantheonsent-1.1.0+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SIKMQqt0",
+      "versionId": "fZfYWj2t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968457,
+      "fileId": 5288521
+    }
+  ],
   "forge": [
     {
       "modId": "pantheonsent",

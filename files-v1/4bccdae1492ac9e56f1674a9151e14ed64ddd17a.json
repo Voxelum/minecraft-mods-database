@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FrZIkosK",
+      "versionId": "pYnh33JT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550480,
+      "fileId": 5389369
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgottengraves",
+      "version": "1.19.2-3.2.2-hotfix"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.3.103"
+    }
+  ]
+}

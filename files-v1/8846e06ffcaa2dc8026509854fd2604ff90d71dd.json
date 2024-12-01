@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P4PAsklC",
+      "versionId": "n22gCKB8"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "terralith_andesite_patch",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith_andesite_patch",
+      "version": "2.4.11"
+    }
+  ]
+}

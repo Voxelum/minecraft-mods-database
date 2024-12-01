@@ -1,6 +1,18 @@
 {
   "name": "ThaumicTweaker-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rORImU12",
+      "versionId": "fYTUewZx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916078,
+      "fileId": 5089749
+    }
+  ],
   "forge": [
     {
       "modId": "thaumictweaker",

@@ -1,6 +1,18 @@
 {
   "name": "furnacerecycle-1.20.1-2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HyKmtI3L",
+      "versionId": "2lrmBUgV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551140,
+      "fileId": 4583639
+    }
+  ],
   "forge": [
     {
       "modId": "furnacerecycle",

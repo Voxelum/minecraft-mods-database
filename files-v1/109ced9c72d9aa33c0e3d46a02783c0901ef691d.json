@@ -1,6 +1,18 @@
 {
   "name": "anvilrestoration-1.20.1-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bd8nwTGy",
+      "versionId": "YE08ghDV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523801,
+      "fileId": 4854230
+    }
+  ],
   "forge": [
     {
       "modId": "anvilrestoration",

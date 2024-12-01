@@ -1,6 +1,12 @@
 {
   "name": "replanter-fabric-1.18.2-1.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 480657,
+      "fileId": 3840177
+    }
+  ],
   "fabric": [
     {
       "modId": "replanter",

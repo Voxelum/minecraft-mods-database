@@ -1,6 +1,12 @@
 {
   "name": "createbb-1.19.2-2.3.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 635620,
+      "fileId": 4860176
+    }
+  ],
   "forge": [
     {
       "modId": "createbb",

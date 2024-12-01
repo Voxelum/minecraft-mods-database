@@ -1,0 +1,26 @@
+{
+  "name": "DiagonalWalls-v21.1.2-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FQgc8dib",
+      "versionId": "CeH1sDcA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969422,
+      "fileId": 5918893
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diagonalwalls",
+      "version": "21.1.2"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "21.1.2"
+    }
+  ]
+}

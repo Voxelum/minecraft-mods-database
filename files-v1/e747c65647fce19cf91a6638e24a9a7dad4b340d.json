@@ -1,0 +1,30 @@
+{
+  "name": "the_bumblezone-7.6.22+1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eA8SXqWL",
+      "versionId": "IARmxdUv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363949,
+      "fileId": 5603192
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the_bumblezone",
+      "version": "7.6.22+1.21-fabric"
+    },
+    {
+      "modId": "athena",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.0.9"
+    }
+  ]
+}

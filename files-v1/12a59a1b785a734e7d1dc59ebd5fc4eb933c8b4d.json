@@ -1,6 +1,18 @@
 {
   "name": "theoneprobe-1.15-2.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eyw0UxEx",
+      "versionId": "ODrDHjQ3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245211,
+      "fileId": 3040732
+    }
+  ],
   "forge": [
     {
       "modId": "theoneprobe",

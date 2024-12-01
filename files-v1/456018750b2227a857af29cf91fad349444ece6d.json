@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "the_world_of_herobrine",
+      "version": "8.12.18"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the_world_of_herobrine",
+      "version": "5.9.15"
+    }
+  ]
+}

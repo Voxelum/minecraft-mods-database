@@ -1,6 +1,18 @@
 {
   "name": "show-me-your-skin-1.3.4+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bD7YqcA3",
+      "versionId": "TNIvIBtL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622010,
+      "fileId": 3989217
+    }
+  ],
   "fabric": [
     {
       "modId": "showmeyourskin",

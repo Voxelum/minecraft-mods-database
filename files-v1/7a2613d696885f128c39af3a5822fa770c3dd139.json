@@ -1,6 +1,12 @@
 {
   "name": "oceanic-2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wL0X4qCW",
+      "versionId": "HEIHQiP3"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_oceanic",

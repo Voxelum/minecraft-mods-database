@@ -1,6 +1,18 @@
 {
   "name": "earlystage-1.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lw05gEDu",
+      "versionId": "6muWidyv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 736803,
+      "fileId": 4754395
+    }
+  ],
   "fabric": [
     {
       "modId": "earlystage",

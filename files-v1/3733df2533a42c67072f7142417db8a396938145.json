@@ -1,6 +1,12 @@
 {
   "name": "baritone-standalone-forge-1.10.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1119902,
+      "fileId": 5804581
+    }
+  ],
   "forge": [
     {
       "modId": "baritoe",

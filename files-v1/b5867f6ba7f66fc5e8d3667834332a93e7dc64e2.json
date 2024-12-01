@@ -1,0 +1,20 @@
+{
+  "name": "tatimod-0.0.7-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 964815,
+      "fileId": 5485759
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tatimod",
+      "version": "0.0.7-1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

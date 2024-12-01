@@ -1,6 +1,12 @@
 {
   "name": "SpelunkersCharm-2.6.0-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667520,
+      "fileId": 4049416
+    }
+  ],
   "forge": [
     {
       "modId": "prelaws_tremors_mod",

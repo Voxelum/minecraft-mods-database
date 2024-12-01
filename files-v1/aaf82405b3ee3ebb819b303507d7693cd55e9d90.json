@@ -1,6 +1,18 @@
 {
   "name": "nomorescore-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aRooc1Sw",
+      "versionId": "Pj3rvMce"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 518306,
+      "fileId": 4806339
+    }
+  ],
   "fabric": [
     {
       "modId": "nomorescore",

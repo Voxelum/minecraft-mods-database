@@ -1,6 +1,18 @@
 {
   "name": "azuredoom-chunk-loader-mod-1_16_5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r1HsUZkp",
+      "versionId": "HWOXYNGq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399513,
+      "fileId": 3100608
+    }
+  ],
   "forge": [
     {
       "modId": "chunk",

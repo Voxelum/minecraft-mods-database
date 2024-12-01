@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ouNrBQtq",
+      "versionId": "TUaiiqt5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": "1.20.4-3.20.6.41"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "20.4.0"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "3.1.0-beta+1.20.4"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "3.1.0-beta+1.20.4"
+    }
+  ]
+}

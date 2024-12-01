@@ -1,0 +1,14 @@
+{
+  "name": "sodium-extra-0.3.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sodium-extra",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "reeses-sodium-options",
+      "version": "1.0.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "polylib-2100.0.3-build.160-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6lvkzFFj",
+      "versionId": "bxT33K8K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576589,
+      "fileId": 5783007
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polylib",
+      "version": "2100.0.3-build.160"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

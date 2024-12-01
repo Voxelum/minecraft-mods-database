@@ -1,6 +1,18 @@
 {
   "name": "compactmachines-4.5.0a-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "abFBFCgY",
+      "versionId": "WViQgyZ0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648676,
+      "fileId": 3934889
+    }
+  ],
   "forge": [
     {
       "modId": "carryon",

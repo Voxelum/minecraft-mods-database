@@ -1,6 +1,12 @@
 {
   "name": "rigmod-1.18.2-1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411911,
+      "fileId": 3688942
+    }
+  ],
   "forge": [
     {
       "modId": "rigmod",

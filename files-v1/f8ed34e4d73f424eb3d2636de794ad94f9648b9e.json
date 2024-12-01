@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t2pMCVgG",
+      "versionId": "eXuedcFv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1135664,
+      "fileId": 5882074
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_beyondenchant",
+      "version": "1.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_beyondenchant",
+      "version": "1.6.0"
+    }
+  ]
+}

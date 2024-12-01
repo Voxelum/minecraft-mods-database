@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1068882,
+      "fileId": 5554263
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.19.999-sakura.8"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8cd1"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.2.0+ab7edbacd1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.2.0+7e687b32d1"
+    }
+  ]
+}

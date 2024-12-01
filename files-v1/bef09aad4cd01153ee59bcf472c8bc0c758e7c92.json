@@ -1,6 +1,12 @@
 {
   "name": "IGI-BloodMagic-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 250328,
+      "fileId": 2549047
+    }
+  ],
   "forge": [
     {
       "modId": "igi|bloodmagicintegration",

@@ -1,6 +1,18 @@
 {
   "name": "create_connected-0.7.2-mc1.19.2-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vg5TIO6d",
+      "versionId": "elXyoxAP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 947914,
+      "fileId": 5102261
+    }
+  ],
   "forge": [
     {
       "modId": "create_connected",

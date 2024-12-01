@@ -1,6 +1,12 @@
 {
   "name": "strongfarmland-1.16.3-1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 333875,
+      "fileId": 3072127
+    }
+  ],
   "forge": [
     {
       "modId": "strongfarmland",

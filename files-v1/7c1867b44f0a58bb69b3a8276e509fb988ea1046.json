@@ -1,0 +1,70 @@
+{
+  "name": "QuickBackupMulti-mc1.21-v2.2.0+pre-release.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DgWBIBY5",
+      "versionId": "8EBjXiN9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 951047,
+      "fileId": 5806143
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quickbackupmulti",
+      "version": "2.2.0+pre-release.3"
+    },
+    {
+      "modId": "de_bwaldvogel_mongo-java-server",
+      "version": "1.45.0"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-sync",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-core",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "org_lz4_lz4-java",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "io_github_skydynamic_incremental-storage-lib",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "de_bwaldvogel_mongo-java-server-h2-backend",
+      "version": "1.45.0"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "2.2.224"
+    },
+    {
+      "modId": "org_mongodb_bson",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "dev_morphia_morphia_morphia-core",
+      "version": "2.3.9"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "de_bwaldvogel_mongo-java-server-core",
+      "version": "1.45.0"
+    },
+    {
+      "modId": "org_quartz-scheduler_quartz",
+      "version": "2.3.2"
+    }
+  ]
+}

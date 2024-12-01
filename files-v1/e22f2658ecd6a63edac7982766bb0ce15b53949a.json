@@ -1,0 +1,26 @@
+{
+  "name": "kubejs-fabric-2001.6.5-build.16.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "umyGl7zF",
+      "versionId": "kPLHkyoJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238086,
+      "fileId": 5853321
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kubejs",
+      "version": "2001.6.5-build.16"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

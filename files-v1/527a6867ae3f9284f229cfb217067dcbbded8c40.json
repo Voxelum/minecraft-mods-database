@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kkmrDlKT",
+      "versionId": "MfY1c0QZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565956,
+      "fileId": 3619748
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrablender",
+      "version": "1.1.0.73"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.4"
+    }
+  ]
+}

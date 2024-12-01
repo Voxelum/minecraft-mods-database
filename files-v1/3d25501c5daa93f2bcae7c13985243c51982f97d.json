@@ -1,6 +1,18 @@
 {
   "name": "crafting-on-a-stick-1.16.5-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tg5fXO1x",
+      "versionId": "Y8lScn2B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577850,
+      "fileId": 4927297
+    }
+  ],
   "forge": [
     {
       "modId": "crafting_on_a_stick",

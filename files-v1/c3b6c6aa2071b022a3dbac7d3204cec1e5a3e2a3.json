@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y8uFrUil",
+      "versionId": "btWlZkx3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ukulib",
+      "version": "1.1.1+1.20.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "gs_mclo_java_mclogs-java",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.14+f31bf8813b"
+    }
+  ]
+}

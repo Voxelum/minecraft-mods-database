@@ -1,6 +1,12 @@
 {
   "name": "wilderworld-2.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 551211,
+      "fileId": 3825335
+    }
+  ],
   "fabric": [
     {
       "modId": "wilderworld",

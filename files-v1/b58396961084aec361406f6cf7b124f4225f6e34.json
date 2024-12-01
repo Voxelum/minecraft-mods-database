@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uV6OSNDy",
+      "versionId": "TmuedEPT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 998417,
+      "fileId": 5541607
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fadedwidgets",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_animation",
+      "version": "2.6.4-mc1.20"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_visual",
+      "version": "2.6.4-mc1.20"
+    },
+    {
+      "modId": "com_github_krlite_equator-v2_math",
+      "version": "2.6.4-mc1.20"
+    }
+  ]
+}

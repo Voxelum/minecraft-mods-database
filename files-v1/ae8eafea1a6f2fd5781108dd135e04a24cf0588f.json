@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 528005,
+      "fileId": 5640377
+    }
+  ],
+  "forge": [
+    {
+      "modId": "signtools",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "signtools",
+      "version": "1.0.3"
+    }
+  ]
+}

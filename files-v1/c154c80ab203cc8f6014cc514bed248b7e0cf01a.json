@@ -1,6 +1,18 @@
 {
   "name": "morenugget-2.0-1.19-1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sVLDwFmg",
+      "versionId": "g7bLsjwy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618809,
+      "fileId": 4248113
+    }
+  ],
   "forge": [
     {
       "modId": "morenugget",

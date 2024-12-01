@@ -1,6 +1,18 @@
 {
   "name": "Corgilib-Forge-1.20.1-4.0.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ziOp6EO8",
+      "versionId": "Yqj1EXvL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693313,
+      "fileId": 5677073
+    }
+  ],
   "forge": [
     {
       "modId": "corgilib",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "76TqKW7O",
+      "versionId": "tCEmOmK4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 990016,
+      "fileId": 5398997
+    }
+  ],
   "forge": [
     {
       "modId": "create_deepfried",

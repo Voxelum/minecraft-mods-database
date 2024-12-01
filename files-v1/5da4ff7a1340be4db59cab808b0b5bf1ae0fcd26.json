@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AqaIIO6D",
+      "versionId": "Mj5snp7k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962162,
+      "fileId": 5251416
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ranged_weapon_api",
+      "version": "1.1.0+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

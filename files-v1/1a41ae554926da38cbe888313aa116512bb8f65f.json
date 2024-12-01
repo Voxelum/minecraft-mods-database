@@ -1,6 +1,18 @@
 {
   "name": "architectury-4.5.76-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "4QsePUaY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 3855244
+    }
+  ],
   "forge": [
     {
       "modId": "architectury",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iqZQWhrH",
+      "versionId": "5Oyxgd3U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704141,
+      "fileId": 5633522
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplemusket",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "21.0.0"
+    }
+  ]
+}

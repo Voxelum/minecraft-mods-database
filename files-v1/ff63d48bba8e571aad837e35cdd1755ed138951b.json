@@ -1,6 +1,18 @@
 {
   "name": "glasscutter-1.16.4-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gcr3s1P7",
+      "versionId": "paTUrJJT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368921,
+      "fileId": 3185268
+    }
+  ],
   "forge": [
     {
       "modId": "glasscutter",

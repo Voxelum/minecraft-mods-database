@@ -1,6 +1,18 @@
 {
   "name": "everycomp-1.19.2-2.5.11-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eiktJyw1",
+      "versionId": "KwABZa9P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 4809742
+    }
+  ],
   "fabric": [
     {
       "modId": "everycomp",

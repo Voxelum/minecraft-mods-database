@@ -1,0 +1,20 @@
+{
+  "name": "consistency_plus-fabric-0.5.2-rc.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nDHcEOt3",
+      "versionId": "j79xOfCe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "consistency_plus",
+      "version": "0.5.2-rc.5+1.20.1"
+    },
+    {
+      "modId": "stonecutter_recipe_tags",
+      "version": "5.2.0+1.19.4.fabric"
+    }
+  ]
+}

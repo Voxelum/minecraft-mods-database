@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKwQAwke",
+      "versionId": "YSswQLTj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482600,
+      "fileId": 3786030
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libjf",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-base",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-config-v0",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-data-manipulation-v0",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-data-v0",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-translate-v1",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-unsafe-v0",
+      "version": "2.8.1"
+    },
+    {
+      "modId": "libjf-web-v0",
+      "version": "2.8.1"
+    }
+  ]
+}

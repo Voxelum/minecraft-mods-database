@@ -1,6 +1,18 @@
 {
   "name": "gildedarmor-1.8.0+fabric-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8W2LklBN",
+      "versionId": "IxVkf6Kp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395953,
+      "fileId": 4733987
+    }
+  ],
   "fabric": [
     {
       "modId": "gildedarmor",

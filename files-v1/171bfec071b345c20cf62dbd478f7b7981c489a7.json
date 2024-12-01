@@ -1,6 +1,18 @@
 {
   "name": "sit-1.19.2-20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VKXzIykF",
+      "versionId": "chIzzjRQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 328163,
+      "fileId": 3824652
+    }
+  ],
   "fabric": [
     {
       "modId": "sit",

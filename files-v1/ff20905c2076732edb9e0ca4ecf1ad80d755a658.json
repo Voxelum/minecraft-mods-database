@@ -1,6 +1,18 @@
 {
   "name": "brightnessslider-forge-1.0-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXleiZbk",
+      "versionId": "YIWXIAwc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 685037,
+      "fileId": 4024588
+    }
+  ],
   "forge": [
     {
       "modId": "brightnessslider",

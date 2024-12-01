@@ -1,6 +1,18 @@
 {
   "name": "yet-another-config-lib-fabric-3.0.1+1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "9ACWUOXp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 4574146
+    }
+  ],
   "fabric": [
     {
       "modId": "yet_another_config_lib_v3",

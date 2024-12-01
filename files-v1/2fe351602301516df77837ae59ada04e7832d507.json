@@ -1,0 +1,48 @@
+{
+  "name": "Estrogen-4.3.0+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HhIJW8n1",
+      "versionId": "zMRp7AEJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 850410,
+      "fileId": 5888567
+    }
+  ],
+  "forge": [
+    {
+      "modId": "estrogen",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "estrogen",
+      "version": "4.3.0+1.20.1-fabric"
+    },
+    {
+      "modId": "baubly",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "critter_lib",
+      "version": "0.1-beta.11"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "jukeboxfix",
+      "version": "1.0.0+1.20.1"
+    },
+    {
+      "modId": "com_teamresourceful_resourceful-cosmetics-4j",
+      "version": "1.0.4"
+    }
+  ]
+}

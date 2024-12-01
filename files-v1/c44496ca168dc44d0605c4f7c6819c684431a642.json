@@ -1,6 +1,18 @@
 {
   "name": "elytrabounce-1.19.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hieJmvD9",
+      "versionId": "yiw3j1nd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658644,
+      "fileId": 3972801
+    }
+  ],
   "forge": [
     {
       "modId": "elytrabounce",

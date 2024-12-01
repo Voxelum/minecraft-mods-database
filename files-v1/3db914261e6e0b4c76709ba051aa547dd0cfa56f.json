@@ -1,6 +1,18 @@
 {
   "name": "[飘扬披风] waveycapes-forge-1.3.2-mc1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYuIpRLv",
+      "versionId": "ncpMltbE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521594,
+      "fileId": 4392077
+    }
+  ],
   "forge": [
     {
       "modId": "waveycapes",

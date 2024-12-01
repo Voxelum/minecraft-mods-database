@@ -1,6 +1,18 @@
 {
   "name": "table_top_craft-1.16-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IO0hAHwQ",
+      "versionId": "9cIqqlwz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467136,
+      "fileId": 4203256
+    }
+  ],
   "forge": [
     {
       "modId": "table_top_craft",

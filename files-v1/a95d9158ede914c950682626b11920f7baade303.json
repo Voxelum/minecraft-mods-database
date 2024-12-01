@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dpkYdLu5",
+      "versionId": "DVCTZCQE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tier-tagger",
+      "version": "1.8.1+mc1.20.4"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.19+78d798af4f"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "async-pack-scan-0.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FuRR0tKd",
+      "versionId": "OYOLjRTX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881560,
+      "fileId": 5191641
+    }
+  ],
   "fabric": [
     {
       "modId": "async-pack-scan",

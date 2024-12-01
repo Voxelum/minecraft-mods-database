@@ -1,6 +1,12 @@
 {
   "name": "InventoryHud_[1.16.2-1.16.5].forge-3.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 357540,
+      "fileId": 3296748
+    }
+  ],
   "forge": [
     {
       "modId": "inventoryhud",

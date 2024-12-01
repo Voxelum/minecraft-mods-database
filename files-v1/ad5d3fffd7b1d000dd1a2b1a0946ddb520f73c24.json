@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JOGZQCse",
+      "versionId": "7TORQmWH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1022790,
+      "fileId": 5862392
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magiclib",
+      "version": "0.8.641+cdafc60-beta"
+    },
+    {
+      "modId": "magiclib_core",
+      "version": "0.8.134+5b4e21a-beta"
+    },
+    {
+      "modId": "magiclib_malilib_extra",
+      "version": "0.8.61+f5d31eb-beta"
+    },
+    {
+      "modId": "magiclib_minecraft_api",
+      "version": "0.6.76+342aa27-beta"
+    },
+    {
+      "modId": "magiclib-1_21_1",
+      "version": "0.8.31+1c5d91f-beta"
+    }
+  ]
+}

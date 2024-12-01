@@ -1,0 +1,22 @@
+{
+  "name": "NoMoreVanillaMineshafts - 1.18.x.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 725778,
+      "fileId": 4406348
+    }
+  ],
+  "forge": [
+    {
+      "modId": "no_more_vanilla_mineshafts",
+      "version": "0.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_more_vanilla_mineshafts",
+      "version": "0.0.1"
+    }
+  ]
+}

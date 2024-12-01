@@ -1,6 +1,12 @@
 {
   "name": "draw_bridge-1.12.2-1.2.1.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 306058,
+      "fileId": 2798902
+    }
+  ],
   "forge": [
     {
       "modId": "drawbridge",

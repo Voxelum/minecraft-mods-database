@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 813116,
+      "fileId": 4361379
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ender_space",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ender_space",
+      "version": "1.0.0"
+    }
+  ]
+}

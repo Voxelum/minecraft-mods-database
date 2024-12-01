@@ -1,6 +1,18 @@
 {
   "name": "Well-Mod-v1.0.1-mc1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DUptQY5h",
+      "versionId": "L4jSEbyY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 696185,
+      "fileId": 4136291
+    }
+  ],
   "forge": [
     {
       "modId": "well",

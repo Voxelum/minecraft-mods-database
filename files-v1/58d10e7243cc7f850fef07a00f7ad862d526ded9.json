@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "rogues-1.0.9+1.20.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "3MKqoGuP",
       "versionId": "NwGoBPZx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1048409,
+      "fileId": 5514013
     }
   ],
   "fabric": [

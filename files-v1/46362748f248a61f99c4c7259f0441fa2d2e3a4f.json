@@ -1,0 +1,28 @@
+{
+  "name": "CraftPresence-2.3.7+1.7.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFqQfIBR",
+      "versionId": "lQCWFBPV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297038,
+      "fileId": 5236338
+    }
+  ],
+  "forge": [
+    {
+      "modId": "craftpresence",
+      "version": "2.3.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "2.3.7"
+    }
+  ]
+}

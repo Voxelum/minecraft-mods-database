@@ -1,6 +1,18 @@
 {
   "name": "bedrockify-1.10.1+mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "3nHbIP4m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403858,
+      "fileId": 5618385
+    }
+  ],
   "fabric": [
     {
       "modId": "bedrockify",

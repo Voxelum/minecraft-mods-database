@@ -1,6 +1,18 @@
 {
   "name": "LunaSlimes-1.8.1-Fabric+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "29SwBNOk",
+      "versionId": "HSZex2Cj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 775534,
+      "fileId": 5533856
+    }
+  ],
   "fabric": [
     {
       "modId": "lunaslimes",

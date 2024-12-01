@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iY4NbBcW",
+      "versionId": "tzEpwEit"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "middleground",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

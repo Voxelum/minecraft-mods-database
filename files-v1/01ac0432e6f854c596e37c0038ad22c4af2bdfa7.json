@@ -1,6 +1,18 @@
 {
   "name": "thermal_locomotion-1.18.2-9.2.0.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L3eFR8i3",
+      "versionId": "PLLfuIgu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406959,
+      "fileId": 4382347
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_locomotion",

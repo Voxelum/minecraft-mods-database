@@ -1,6 +1,12 @@
 {
   "name": "goodall-1.0.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 613215,
+      "fileId": 3800466
+    }
+  ],
   "forge": [
     {
       "modId": "goodall",

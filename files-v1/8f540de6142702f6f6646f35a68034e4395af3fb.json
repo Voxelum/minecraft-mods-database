@@ -1,6 +1,18 @@
 {
   "name": "spyglass_astronomy-1.0.5-mc1.20+.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EdBSdqge",
+      "versionId": "kQznCan3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 822372,
+      "fileId": 4583212
+    }
+  ],
   "fabric": [
     {
       "modId": "spyglass_astronomy",

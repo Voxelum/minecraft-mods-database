@@ -1,6 +1,18 @@
 {
   "name": "CobbleForDays-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hi71AUZ0",
+      "versionId": "xGILh0jy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349460,
+      "fileId": 2906926
+    }
+  ],
   "forge": [
     {
       "modId": "cobblefordays",

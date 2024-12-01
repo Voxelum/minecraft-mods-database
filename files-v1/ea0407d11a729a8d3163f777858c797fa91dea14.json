@@ -1,6 +1,18 @@
 {
   "name": "More Babies-forge-1.18.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZK4bBM3B",
+      "versionId": "M3OkvSOb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 590517,
+      "fileId": 4121063
+    }
+  ],
   "forge": [
     {
       "modId": "more_babies",

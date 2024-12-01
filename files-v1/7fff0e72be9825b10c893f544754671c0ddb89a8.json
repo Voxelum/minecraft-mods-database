@@ -1,6 +1,18 @@
 {
   "name": "simpleshopsfix-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YyCCUIjA",
+      "versionId": "A7i0OEv1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972639,
+      "fileId": 5249461
+    }
+  ],
   "forge": [
     {
       "modId": "simpleshopsfix",

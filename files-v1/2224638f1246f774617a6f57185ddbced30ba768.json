@@ -1,6 +1,12 @@
 {
   "name": "paintings-fabric-1.17.1-1.0.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 517702,
+      "fileId": 3461842
+    }
+  ],
   "fabric": [
     {
       "modId": "paintings",

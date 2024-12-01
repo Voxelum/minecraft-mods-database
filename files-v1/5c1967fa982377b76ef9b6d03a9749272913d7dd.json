@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Uj82AMD7",
+      "versionId": "5dB8DUiC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexecuteif",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

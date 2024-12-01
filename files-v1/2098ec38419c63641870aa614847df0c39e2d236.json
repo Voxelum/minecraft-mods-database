@@ -1,6 +1,18 @@
 {
   "name": "betterweapons-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6jGXJkhA",
+      "versionId": "PAJI2YtN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 971770,
+      "fileId": 5086522
+    }
+  ],
   "fabric": [
     {
       "modId": "betterweapons",

@@ -1,6 +1,12 @@
 {
   "name": "organ-museum-1.19.2-Beta.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 925407,
+      "fileId": 4812711
+    }
+  ],
   "forge": [
     {
       "modId": "sos_organ_museum",

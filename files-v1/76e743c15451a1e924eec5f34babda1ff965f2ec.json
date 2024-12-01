@@ -1,6 +1,18 @@
 {
   "name": "saplanting-fabric-1.18.2-1.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vo4uFiz0",
+      "versionId": "EanA6NEp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576864,
+      "fileId": 4847526
+    }
+  ],
   "fabric": [
     {
       "modId": "saplanting",

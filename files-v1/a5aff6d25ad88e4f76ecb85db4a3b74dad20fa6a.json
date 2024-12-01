@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "peripheralworks-forge-1.20.1-1.4.3.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "Sf7QBsRP",
       "versionId": "QtN8MXjF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621851,
+      "fileId": 5077951
     }
   ],
   "forge": [

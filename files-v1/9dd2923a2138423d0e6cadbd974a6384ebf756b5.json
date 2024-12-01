@@ -1,6 +1,18 @@
 {
   "name": "buildcraft-A-3.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6X5wjPTJ",
+      "versionId": "JQWMCbDb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 61811,
+      "fileId": 719726
+    }
+  ],
   "forge": [
     {
       "modId": "BuildCraft|Builders",

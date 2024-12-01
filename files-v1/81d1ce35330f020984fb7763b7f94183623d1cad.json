@@ -1,6 +1,18 @@
 {
   "name": "midnightcontrols-1.9.5+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bXX9h73M",
+      "versionId": "HWizO7gR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621768,
+      "fileId": 5301815
+    }
+  ],
   "fabric": [
     {
       "modId": "midnightcontrols",

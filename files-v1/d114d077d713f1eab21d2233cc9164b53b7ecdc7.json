@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E6FUtRJh",
+      "versionId": "rvIRt4mz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320215,
+      "fileId": 3126604
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adorn",
+      "version": "1.12.2+1.16.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.1.0+1.16.3"
+    },
+    {
+      "modId": "jankson",
+      "version": "3.0.1+j1.2.0"
+    },
+    {
+      "modId": "libcd",
+      "version": "3.0.3+1.16.3"
+    }
+  ]
+}

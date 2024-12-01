@@ -1,0 +1,22 @@
+{
+  "name": "cauldron-expansion-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MOmKAAGq",
+      "versionId": "JIvl9H79"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_cauldron_expansion",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_cauldron_expansion",
+      "version": "1.0.1"
+    }
+  ]
+}

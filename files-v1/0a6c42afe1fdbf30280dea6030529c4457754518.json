@@ -1,6 +1,18 @@
 {
   "name": "More-Doors-1.20.2-1.6-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6fRQa2pB",
+      "versionId": "tv4C8nJZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498747,
+      "fileId": 5470016
+    }
+  ],
   "fabric": [
     {
       "modId": "moredoors",

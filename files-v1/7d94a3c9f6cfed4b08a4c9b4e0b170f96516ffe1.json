@@ -1,6 +1,12 @@
 {
   "name": "boat-step-up-1.2.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vhnZxUfZ",
+      "versionId": "C4MPCIJ0"
+    }
+  ],
   "fabric": [
     {
       "modId": "boat_step_up",

@@ -1,6 +1,18 @@
 {
   "name": "marbledsarsenal-1.16.5-2.1.0c.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GBB5TIXx",
+      "versionId": "2UU3tz45"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 776273,
+      "fileId": 5292060
+    }
+  ],
   "forge": [
     {
       "modId": "marbledsarsenal",

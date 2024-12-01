@@ -1,6 +1,18 @@
 {
   "name": "cobblegen-5.3.2+1.20.1b37-BETA-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qRogT5Gy",
+      "versionId": "o4HOPddY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581293,
+      "fileId": 5152920
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblegen",

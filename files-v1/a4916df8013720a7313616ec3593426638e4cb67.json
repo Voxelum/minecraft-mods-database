@@ -1,0 +1,26 @@
+{
+  "name": "MetalBundles-v21.1.0-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pY6oEMg",
+      "versionId": "QR16fJpY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891325,
+      "fileId": 5743836
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "metalbundles",
+      "version": "21.1.0"
+    },
+    {
+      "modId": "iteminteractions",
+      "version": "21.1.0"
+    }
+  ]
+}

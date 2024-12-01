@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "POQ2i9zu",
+      "versionId": "JQQE0MDN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551364,
+      "fileId": 3945853
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "1.5.6"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.0.12"
+    }
+  ]
+}

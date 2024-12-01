@@ -1,6 +1,18 @@
 {
   "name": "IronMan-1.12.2-Beta-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MM3XDZNL",
+      "versionId": "GuLh3TqG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 230652,
+      "fileId": 2555806
+    }
+  ],
   "forge": [
     {
       "modId": "ironman",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4sP0LXxp",
+      "versionId": "RLHqUo4T"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "veinminer-enchantment",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

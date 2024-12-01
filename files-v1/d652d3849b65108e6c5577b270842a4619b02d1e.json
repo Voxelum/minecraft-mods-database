@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3FJ8AhW0",
+      "versionId": "UExsKmQm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 897171,
+      "fileId": 5487466
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medievalorigins",
+      "version": "6.4.1+1.20.1-fabric"
+    },
+    {
+      "modId": "apugli",
+      "version": "2.10.2+1.20.1-fabric"
+    },
+    {
+      "modId": "autotag",
+      "version": "2.0.2+1.20"
+    },
+    {
+      "modId": "projectile_damage",
+      "version": "3.2.2+1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

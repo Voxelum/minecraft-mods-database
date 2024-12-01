@@ -1,6 +1,12 @@
 {
   "name": "village-employment-1.16.5-1.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 483391,
+      "fileId": 3351920
+    }
+  ],
   "forge": [
     {
       "modId": "village_employment",

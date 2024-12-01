@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-object-builder-api-v1",
+      "version": "1.9.6+3cc0f0907d"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "puddles-2.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 463169,
+      "fileId": 5641907
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puddles",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.6+1.21"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.6+1.21"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.9.6+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

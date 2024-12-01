@@ -1,6 +1,12 @@
 {
   "name": "brazier-3.0.9-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 402616,
+      "fileId": 3353003
+    }
+  ],
   "forge": [
     {
       "modId": "brazier",

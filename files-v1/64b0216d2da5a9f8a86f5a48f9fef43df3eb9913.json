@@ -1,6 +1,18 @@
 {
   "name": "Snow_Pig-1.18.2-4.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CJ0YrpAC",
+      "versionId": "UmtTNB6t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410500,
+      "fileId": 3894741
+    }
+  ],
   "forge": [
     {
       "modId": "snowpig",

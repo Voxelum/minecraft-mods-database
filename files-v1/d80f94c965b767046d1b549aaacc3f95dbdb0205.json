@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P86fl1mK",
+      "versionId": "5Ykxj3XT"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "paintings_backport",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "paintings_backport",
+      "version": "1.0.0"
+    }
+  ]
+}

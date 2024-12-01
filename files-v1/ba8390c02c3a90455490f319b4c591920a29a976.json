@@ -1,6 +1,12 @@
 {
   "name": "time-in-a-bottle-1.6.1-mc1.18.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 440243,
+      "fileId": 3668585
+    }
+  ],
   "fabric": [
     {
       "modId": "timeinabottle",

@@ -1,6 +1,12 @@
 {
   "name": "smelting-plus-v1.0.2-(fabric-forge-quilt).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 759685,
+      "fileId": 4430242
+    }
+  ],
   "forge": [
     {
       "modId": "smelting_plus_mr",

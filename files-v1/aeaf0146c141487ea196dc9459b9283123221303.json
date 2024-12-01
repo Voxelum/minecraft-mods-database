@@ -1,0 +1,10 @@
+{
+  "name": "aaa.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dust",
+      "version": "1.0.0"
+    }
+  ]
+}

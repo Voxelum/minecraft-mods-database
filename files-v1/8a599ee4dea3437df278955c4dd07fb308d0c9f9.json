@@ -1,6 +1,18 @@
 {
   "name": "auto-workstations-[MC1.19]-v1.0-SNAPSHOT-19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rrCzPouM",
+      "versionId": "faPwpKR4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623678,
+      "fileId": 4001771
+    }
+  ],
   "fabric": [
     {
       "modId": "auto-workstations",

@@ -1,6 +1,18 @@
 {
   "name": "knightquest-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VEOQ4Jz4",
+      "versionId": "lDf0uI8d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1018043,
+      "fileId": 5510614
+    }
+  ],
   "forge": [
     {
       "modId": "knightquest",

@@ -1,6 +1,12 @@
 {
   "name": "genesis-1.19-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 478902,
+      "fileId": 4199790
+    }
+  ],
   "fabric": [
     {
       "modId": "genesis",

@@ -1,6 +1,12 @@
 {
   "name": "creaturechat-1.1.0+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rvR0de1E",
+      "versionId": "d6ycaHhC"
+    }
+  ],
   "fabric": [
     {
       "modId": "creaturechat",

@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-datetime-jvm",
+      "version": "0.6.1"
+    }
+  ]
+}

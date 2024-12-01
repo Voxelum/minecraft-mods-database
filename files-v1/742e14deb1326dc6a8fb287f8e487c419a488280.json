@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "wynnchattoggle-1.2.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "AGShh2Na",
@@ -10,6 +11,12 @@
     {
       "projectId": 1095210,
       "fileId": 5699138
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynn_chat_toggle",
+      "version": "1.2.1"
     }
   ]
 }

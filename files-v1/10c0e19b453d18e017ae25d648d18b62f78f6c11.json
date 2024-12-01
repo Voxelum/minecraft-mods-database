@@ -1,6 +1,12 @@
 {
   "name": "Patcher.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242878,
+      "fileId": 2287047
+    }
+  ],
   "forge": [
     {
       "modId": "ChocoPatcher",

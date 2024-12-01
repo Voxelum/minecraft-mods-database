@@ -1,6 +1,12 @@
 {
   "name": "sleep_config-1.1.0+1.20.1-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 721804,
+      "fileId": 4853574
+    }
+  ],
   "fabric": [
     {
       "modId": "sleep_config",

@@ -1,6 +1,18 @@
 {
   "name": "Grass_Overhaul-Forge1.18.2-22.10.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Eeb4VkF6",
+      "versionId": "ccFU4KEv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 640973,
+      "fileId": 4034379
+    }
+  ],
   "forge": [
     {
       "modId": "sod",

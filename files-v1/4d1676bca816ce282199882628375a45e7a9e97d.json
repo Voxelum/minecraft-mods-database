@@ -1,6 +1,18 @@
 {
   "name": "iris-mc1.19.1-1.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "q2kq4WQK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 3899705
+    }
+  ],
   "fabric": [
     {
       "modId": "iris",

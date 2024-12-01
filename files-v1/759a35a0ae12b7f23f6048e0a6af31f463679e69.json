@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9KZOe6HD",
+      "versionId": "PoP2eGwB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 373051,
+      "fileId": 5891468
+    }
+  ],
+  "forge": [
+    {
+      "modId": "movingelevators",
+      "version": "1.4.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "movingelevators",
+      "version": "1.4.10"
+    }
+  ]
+}

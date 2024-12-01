@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vl1qd1sW",
+      "versionId": "Tn81Zrpq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 699577,
+      "fileId": 5847249
+    }
+  ],
+  "forge": [
+    {
+      "modId": "manure",
+      "version": "3.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "manure",
+      "version": "3.7"
+    }
+  ]
+}

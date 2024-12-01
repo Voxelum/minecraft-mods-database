@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 406876,
+      "fileId": 3282091
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.94.0"
+    },
+    {
+      "modId": "cloth-utils-v1",
+      "version": "1.4.5"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "javax_vecmath_vecmath",
+      "version": "1.5.2"
+    }
+  ]
+}

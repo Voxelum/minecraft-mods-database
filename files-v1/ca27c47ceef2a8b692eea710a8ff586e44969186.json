@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vSdZ5THv",
+      "versionId": "9AaOzsWN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "danse",
+      "version": "1.0.3+1.20.4"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.6"
+    }
+  ]
+}

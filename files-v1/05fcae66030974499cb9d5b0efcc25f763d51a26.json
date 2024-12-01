@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blanket-client-tweaks",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.1.48"
+    }
+  ]
+}

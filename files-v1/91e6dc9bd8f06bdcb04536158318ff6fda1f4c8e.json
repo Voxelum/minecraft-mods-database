@@ -1,0 +1,28 @@
+{
+  "name": "Bovines-And-Buttercups-Fabric-1.11.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BDg6nMn3",
+      "versionId": "po6PQPol"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bovinesandbuttercups",
+      "version": "1.11.2+1.20.1-fabric"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

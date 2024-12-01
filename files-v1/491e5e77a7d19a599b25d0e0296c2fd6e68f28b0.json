@@ -1,0 +1,22 @@
+{
+  "name": "fancy-balloons-0.1.1-alpha.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BhpGT6y6",
+      "versionId": "DwHs93Qj"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_fancy_balloons",
+      "version": "0.1.1-alpha"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_fancy_balloons",
+      "version": "0.1.1-alpha"
+    }
+  ]
+}

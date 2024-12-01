@@ -1,6 +1,18 @@
 {
   "name": "simplytea-1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T5Jqatse",
+      "versionId": "KnLdZz1O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268373,
+      "fileId": 2713499
+    }
+  ],
   "forge": [
     {
       "modId": "simplytea",

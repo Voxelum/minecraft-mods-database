@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "MRU-1.0.4+1.21.3+fabric.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "SNVQ2c0g",
       "versionId": "1ldByxW8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 669659,
+      "fileId": 5848513
     }
   ],
   "fabric": [

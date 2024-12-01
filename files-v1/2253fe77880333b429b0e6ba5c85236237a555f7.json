@@ -1,6 +1,12 @@
 {
   "name": "banner-flags-2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cCStmVIN",
+      "versionId": "cK7vHjWQ"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_banner_flags",

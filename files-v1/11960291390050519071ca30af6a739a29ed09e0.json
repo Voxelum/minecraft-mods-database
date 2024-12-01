@@ -1,6 +1,12 @@
 {
   "name": "audioplayer-fabric-1.21-1.10.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRlzjEBS",
+      "versionId": "1ml6cwS0"
+    }
+  ],
   "fabric": [
     {
       "modId": "audioplayer",

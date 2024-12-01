@@ -1,6 +1,12 @@
 {
   "name": "vanilla_degus-1.17.1-v1.2.0-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 463073,
+      "fileId": 3424260
+    }
+  ],
   "fabric": [
     {
       "modId": "vanilla_degus",

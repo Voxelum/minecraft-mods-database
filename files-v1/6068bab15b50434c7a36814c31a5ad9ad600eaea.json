@@ -1,0 +1,28 @@
+{
+  "name": "simplebackup-1.2.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 614578,
+      "fileId": 3898435
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplebackup",
+      "version": "1.2.8"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "com_github_spoorn_tar-lz4-java",
+      "version": "1.0.1"
+    }
+  ]
+}

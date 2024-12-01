@@ -1,0 +1,30 @@
+{
+  "name": "BetterF3-10.0.2-Fabric-1.20.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8shC1gFX",
+      "versionId": "pOSEJ8yy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 401648,
+      "fileId": 5429122
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterf3",
+      "version": "10.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432cff"
+    }
+  ]
+}

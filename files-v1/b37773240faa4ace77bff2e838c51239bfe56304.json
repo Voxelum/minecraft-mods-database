@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ded5u7eL",
+      "versionId": "ncfNJCZ2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shield-disruptor",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "shield-disruptor-mc120",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "shield-disruptor-mc16",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "shield-disruptor-mc17-181",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "shield-disruptor-mc182-192",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "shield-disruptor-mc193",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "shield-disruptor-mcpre120",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

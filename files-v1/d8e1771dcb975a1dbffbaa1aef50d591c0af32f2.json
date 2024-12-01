@@ -1,6 +1,18 @@
 {
   "name": "heyberryshutup-1.20.0-2.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EQGqfQ69",
+      "versionId": "taAUHAFD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634227,
+      "fileId": 4577784
+    }
+  ],
   "forge": [
     {
       "modId": "heyberryshutup",

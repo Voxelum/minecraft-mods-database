@@ -1,0 +1,22 @@
+{
+  "name": "rhino-2100.2.5-build.48.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 416294,
+      "fileId": 5650008
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "2100.2.5-build.48"
+    }
+  ]
+}

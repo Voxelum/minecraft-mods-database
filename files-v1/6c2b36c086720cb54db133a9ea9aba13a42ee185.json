@@ -1,6 +1,18 @@
 {
   "name": "tooltiptweaks-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "evJ7VC0w",
+      "versionId": "CcaGP3Ru"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627322,
+      "fileId": 3823747
+    }
+  ],
   "fabric": [
     {
       "modId": "tooltiptweaks",

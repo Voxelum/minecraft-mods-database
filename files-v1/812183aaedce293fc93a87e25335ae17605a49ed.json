@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "MoreToolVariants-1.0.3+1.21-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kI2bVWDr",
+      "versionId": "9eqSIr9V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1114937,
+      "fileId": 5850604
+    }
+  ],
   "fabric": [
     {
       "modId": "mstv-mtoolv",

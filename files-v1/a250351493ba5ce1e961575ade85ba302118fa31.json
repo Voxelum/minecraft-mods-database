@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 32274,
+      "fileId": 5672397
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap",
+      "version": "1.21-6.0.0-beta.22"
+    },
+    {
+      "modId": "ar_com_hjg_pngj",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.16-1.21"
+    },
+    {
+      "modId": "journeymap-api-fabric",
+      "version": "2.0.0-1.21-SNAPSHOT"
+    }
+  ]
+}

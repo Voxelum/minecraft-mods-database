@@ -1,6 +1,18 @@
 {
   "name": "droptherock-1.18.2-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QJ491IVy",
+      "versionId": "3ityKemm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533614,
+      "fileId": 4371660
+    }
+  ],
   "forge": [
     {
       "modId": "droptherock",

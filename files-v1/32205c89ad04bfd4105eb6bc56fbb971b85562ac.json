@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OuSEOOSY",
+      "versionId": "jdHWYtKO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977129,
+      "fileId": 5542040
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexkeys",
+      "version": "0.1.3"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

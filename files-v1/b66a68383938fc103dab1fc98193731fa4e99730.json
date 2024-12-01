@@ -1,0 +1,22 @@
+{
+  "name": "librarians-balance-3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SoL6FwNo",
+      "versionId": "w9FAXasb"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_librarians_balance",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_librarians_balance",
+      "version": "3.5"
+    }
+  ]
+}

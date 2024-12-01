@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "rightclickharvest-fabric-4.4.2+1.21.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cnejf5xM",
+      "versionId": "3RgLmik1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 452834,
+      "fileId": 5851964
+    }
+  ],
   "fabric": [
     {
       "modId": "rightclickharvest",

@@ -1,6 +1,18 @@
 {
   "name": "healing bed 1.19.2 (Fabric).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J6y5L5vM",
+      "versionId": "czOsApir"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538686,
+      "fileId": 4716785
+    }
+  ],
   "fabric": [
     {
       "modId": "healingbed",

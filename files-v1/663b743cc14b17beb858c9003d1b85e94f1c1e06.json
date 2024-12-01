@@ -1,6 +1,18 @@
 {
   "name": "LevelTextFix-Fabric-1.19.2-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "trJAIZhE",
+      "versionId": "oZbJLP5i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 840817,
+      "fileId": 4457508
+    }
+  ],
   "fabric": [
     {
       "modId": "leveltextfix",

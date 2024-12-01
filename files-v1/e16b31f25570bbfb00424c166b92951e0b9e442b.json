@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbFe1FWa",
+      "versionId": "DxDhy0br"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "respawnablepets",
+      "version": "1.21-r2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.1"
+    }
+  ]
+}

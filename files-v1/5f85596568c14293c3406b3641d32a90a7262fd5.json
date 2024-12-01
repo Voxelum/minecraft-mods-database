@@ -1,6 +1,18 @@
 {
   "name": "essentials-1.12.2-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M09T0qPI",
+      "versionId": "r5ecGNQw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 293752,
+      "fileId": 2709104
+    }
+  ],
   "forge": [
     {
       "modId": "essentials",

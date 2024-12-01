@@ -1,0 +1,30 @@
+{
+  "name": "WilderWild-2.4.6-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "P0MAa5Ji"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648511,
+      "fileId": 5533824
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "2.4.6-mc1.20.1"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.8-mc1.20.1"
+    }
+  ]
+}

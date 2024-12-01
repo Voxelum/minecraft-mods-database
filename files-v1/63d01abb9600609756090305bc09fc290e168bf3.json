@@ -1,6 +1,12 @@
 {
   "name": "Schematics-1.12.2.12.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 294075,
+      "fileId": 2601927
+    }
+  ],
   "forge": [
     {
       "modId": "schematics",

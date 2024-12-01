@@ -1,6 +1,18 @@
 {
   "name": "chattoggle-5.0.0+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k6aAChpa",
+      "versionId": "mzBH69nP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 737481,
+      "fileId": 5004470
+    }
+  ],
   "fabric": [
     {
       "modId": "chattoggle",

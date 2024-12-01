@@ -1,6 +1,18 @@
 {
   "name": "CreateDrinks-1.0.2-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AodOqbPi",
+      "versionId": "2SJSSC3j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905897,
+      "fileId": 4729703
+    }
+  ],
   "forge": [
     {
       "modId": "create_drinks",

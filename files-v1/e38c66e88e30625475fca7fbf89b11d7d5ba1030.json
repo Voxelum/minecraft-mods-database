@@ -1,0 +1,28 @@
+{
+  "name": "zume-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o6qsdrrQ",
+      "versionId": "5J6WsndO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927564,
+      "fileId": 5861244
+    }
+  ],
+  "forge": [
+    {
+      "modId": "zume",
+      "version": "1.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zume",
+      "version": "1.1.4"
+    }
+  ]
+}

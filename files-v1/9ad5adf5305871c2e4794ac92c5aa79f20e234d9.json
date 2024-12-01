@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wTfH1dkt",
+      "versionId": "t5GP30o9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bbm",
+      "version": "2.2.6-1.20.4+fabric"
+    },
+    {
+      "modId": "dev_nyon_konfig",
+      "version": "2.0.2-1.20.4"
+    }
+  ]
+}

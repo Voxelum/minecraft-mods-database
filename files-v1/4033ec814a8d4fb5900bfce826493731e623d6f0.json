@@ -1,6 +1,18 @@
 {
   "name": "trinkets-3.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5aaWibi9",
+      "versionId": "WiXqMygm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341284,
+      "fileId": 3820928
+    }
+  ],
   "fabric": [
     {
       "modId": "trinkets",

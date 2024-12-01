@@ -1,0 +1,26 @@
+{
+  "name": "reinforced-chests-3.0.1+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FWtAXlpg",
+      "versionId": "2xHQAVoo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529873,
+      "fileId": 5434025
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reinfchest",
+      "version": "3.0.1+1.21"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "4.0.1+1.21"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "dyed-fabric-1.18.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5mFDTffy",
+      "versionId": "rO5FHAc6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577468,
+      "fileId": 4524242
+    }
+  ],
   "fabric": [
     {
       "modId": "dyed",

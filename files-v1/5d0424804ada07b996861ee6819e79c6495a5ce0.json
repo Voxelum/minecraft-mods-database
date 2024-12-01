@@ -1,6 +1,12 @@
 {
   "name": "ForgeConfigAPIPort-v20.2.5-1.20.2-Fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 5030024
+    }
+  ],
   "forge": [
     {
       "modId": "forgeconfigapiport",
@@ -17,6 +23,11 @@
       "version": "3.6.6"
     },
     {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    }
+  ]
+}   {
       "modId": "com_electronwill_night-config_toml",
       "version": "3.6.6"
     }

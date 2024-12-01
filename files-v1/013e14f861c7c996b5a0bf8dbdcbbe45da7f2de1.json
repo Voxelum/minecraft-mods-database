@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 292908,
+      "fileId": 3542673
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illuminations",
+      "version": "1.10.2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

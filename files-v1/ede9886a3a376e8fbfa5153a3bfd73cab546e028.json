@@ -1,6 +1,18 @@
 {
   "name": "connectiblechains-2.1.1+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ykSfIgTw",
+      "versionId": "45biHkt5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 415681,
+      "fileId": 3712726
+    }
+  ],
   "fabric": [
     {
       "modId": "connectiblechains",

@@ -1,6 +1,18 @@
 {
   "name": "AmbientSounds.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fM515JnW",
+      "versionId": "OCSsOHGW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254284,
+      "fileId": 4438533
+    }
+  ],
   "forge": [
     {
       "modId": "ambientsounds",

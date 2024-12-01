@@ -1,4 +1,16 @@
 {
   "name": "PortalGun1.5.2.zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229084,
+      "fileId": 2232245
+    }
+  ],
+  "forge": [
+    {
+      "modId": "PortalGun",
+      "version": "1.5.2"
+    }
+  ]
 }

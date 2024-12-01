@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f44hEoWP",
+      "versionId": "THh0G3AZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "titan",
+      "version": "6e96b77"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.1"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.5.0.202303070854-r"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.112"
+    },
+    {
+      "modId": "com_github_jncrmx_discord-game-sdk4j",
+      "version": "v0.5.5"
+    }
+  ]
+}

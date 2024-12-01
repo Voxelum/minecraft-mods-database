@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "legacy",
+      "version": "1.6.3b"
+    },
+    {
+      "modId": "io_github_libsdl4j_libsdl4j",
+      "version": "2.28.4-1.6"
+    }
+  ]
+}

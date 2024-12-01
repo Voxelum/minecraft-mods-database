@@ -1,6 +1,18 @@
 {
   "name": "falsepatternlib-mc1.7.10-0.11.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eGLBEILf",
+      "versionId": "a2KKspHo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665627,
+      "fileId": 4549102
+    }
+  ],
   "forge": [
     {
       "modId": "falsepatternlib",

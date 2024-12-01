@@ -1,6 +1,18 @@
 {
   "name": "incantationem-1.1.3+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZmRxbKUp",
+      "versionId": "Yy0ZTvwv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483166,
+      "fileId": 3661225
+    }
+  ],
   "fabric": [
     {
       "modId": "incantationem",

@@ -1,0 +1,44 @@
+{
+  "name": "pvplegacyutils-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SlPzzauK",
+      "versionId": "iSShMuV3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pvplegacyutils",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-19",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-19-3",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-19-3-exclusive",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-19-4",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-20-2",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-20-4",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "pvplegacyutils-1-20-6",
+      "version": "1.1.1"
+    }
+  ]
+}

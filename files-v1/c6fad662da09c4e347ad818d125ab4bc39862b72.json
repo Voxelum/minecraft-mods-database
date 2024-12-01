@@ -1,6 +1,12 @@
 {
   "name": "create_so-1.4+forge-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "23nOkgI0",
+      "versionId": "FODEnzWc"
+    }
+  ],
   "forge": [
     {
       "modId": "create_so",

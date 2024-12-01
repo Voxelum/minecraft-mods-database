@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qCvSZ8ra",
+      "versionId": "7MGnbJsm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "server-replay",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

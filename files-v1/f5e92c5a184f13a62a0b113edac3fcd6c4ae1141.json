@@ -1,6 +1,18 @@
 {
   "name": "ChickenChunks_1.7.10_Recommended.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2JkvF271",
+      "versionId": "CX2psz3t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 229316,
+      "fileId": 2233249
+    }
+  ],
   "forge": [
     {
       "modId": "ChickenChunks",

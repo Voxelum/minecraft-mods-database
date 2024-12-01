@@ -1,0 +1,24 @@
+{
+  "name": "craftgr-1.8.2-mc1.21.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lKYr4L6w",
+      "versionId": "o1M00dvj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftgr",
+      "version": "1.8.2"
+    },
+    {
+      "modId": "com_github_umjammer_jlayer",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.6"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "【前置】fzzy_config-0.3.4+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "jlmiVDHF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 5425343
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_config",
+      "version": "0.3.4+1.20.1"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt_tomlkt-jvm",
+      "version": "0.3.7"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

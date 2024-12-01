@@ -1,0 +1,42 @@
+{
+  "name": "enchancement-1.20-26.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6hN1V6wJ",
+      "versionId": "mGY2pNFa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 598056,
+      "fileId": 5353407
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchancement",
+      "version": "1.20-26"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    }
+  ]
+}

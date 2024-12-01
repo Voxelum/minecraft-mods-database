@@ -1,0 +1,28 @@
+{
+  "name": "huskspawn-1.20.1-3.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pfNveXQV",
+      "versionId": "4O5kANbI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348176,
+      "fileId": 5572361
+    }
+  ],
+  "forge": [
+    {
+      "modId": "huskspawn",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "huskspawn",
+      "version": "3.6"
+    }
+  ]
+}

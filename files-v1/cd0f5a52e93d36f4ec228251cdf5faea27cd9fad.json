@@ -1,6 +1,18 @@
 {
   "name": "altorigingui-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ldWHqZwQ",
+      "versionId": "vo7rxrv2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873788,
+      "fileId": 4719461
+    }
+  ],
   "fabric": [
     {
       "modId": "altorigingui",

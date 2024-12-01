@@ -1,6 +1,18 @@
 {
   "name": "alekiEHM-FORGE-1.0.3-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5hMNyIoI",
+      "versionId": "VJLjVJco"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 953157,
+      "fileId": 5253115
+    }
+  ],
   "forge": [
     {
       "modId": "alekiehm",

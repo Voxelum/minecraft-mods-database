@@ -1,6 +1,18 @@
 {
   "name": "worldprimer-1.12.2-0.6.0-dev.20190814.220944.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Le2hzZwk",
+      "versionId": "xGjcQcM1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 258911,
+      "fileId": 2788426
+    }
+  ],
   "forge": [
     {
       "modId": "worldprimer",

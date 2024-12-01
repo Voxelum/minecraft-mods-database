@@ -1,6 +1,12 @@
 {
   "name": "随机生物大小randommobsizes-forge-1.20.1-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ccz0Dj7d",
+      "versionId": "mpcAdskv"
+    }
+  ],
   "forge": [
     {
       "modId": "random_mob_sizes",

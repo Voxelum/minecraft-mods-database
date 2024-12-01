@@ -1,6 +1,18 @@
 {
   "name": "architectury-4.9.84-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "TZRm0P23"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 3983970
+    }
+  ],
   "forge": [
     {
       "modId": "architectury",

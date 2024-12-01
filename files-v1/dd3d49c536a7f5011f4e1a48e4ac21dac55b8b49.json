@@ -1,6 +1,18 @@
 {
   "name": "bettercombat-forge-1.5.2+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "T4rZupi3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639842,
+      "fileId": 4141740
+    }
+  ],
   "forge": [
     {
       "modId": "bettercombat",

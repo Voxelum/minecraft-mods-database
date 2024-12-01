@@ -1,6 +1,18 @@
 {
   "name": "forcemaster-class-mod-1.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K3yHebFL",
+      "versionId": "7WoaQolY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 992388,
+      "fileId": 5499366
+    }
+  ],
   "fabric": [
     {
       "modId": "forcemaster-rpg",

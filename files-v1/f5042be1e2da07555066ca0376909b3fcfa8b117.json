@@ -1,0 +1,26 @@
+{
+  "name": "BagOfHolding-v21.1.0-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qbqWvc0D",
+      "versionId": "adCbWhbO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 593996,
+      "fileId": 5743853
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bagofholding",
+      "version": "21.1.0"
+    },
+    {
+      "modId": "iteminteractions",
+      "version": "21.1.0"
+    }
+  ]
+}

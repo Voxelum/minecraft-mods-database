@@ -1,0 +1,20 @@
+{
+  "name": "openpac-bluemap-integration-remapped-1.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c8fL4H0n",
+      "versionId": "s6esP76C"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "openpac-bluemap-integration-remapped",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "org_quiltmc_qup_json",
+      "version": "0.2.0"
+    }
+  ]
+}

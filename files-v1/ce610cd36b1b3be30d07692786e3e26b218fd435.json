@@ -1,6 +1,18 @@
 {
   "name": "mysticsbiomes-1.20.1-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kUpOjknA",
+      "versionId": "bElejzXl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397962,
+      "fileId": 5202875
+    }
+  ],
   "forge": [
     {
       "modId": "mysticsbiomes",

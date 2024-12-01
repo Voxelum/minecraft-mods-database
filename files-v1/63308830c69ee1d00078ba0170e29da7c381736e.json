@@ -1,6 +1,12 @@
 {
   "name": "HealthOverlay-1.19.2-7.2.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 313219,
+      "fileId": 4293389
+    }
+  ],
   "fabric": [
     {
       "modId": "healthoverlay",

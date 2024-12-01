@@ -1,0 +1,16 @@
+{
+  "name": "From The Fog for Beta 1.20.1.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "watching",
+      "version": "1.9.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watching",
+      "version": "1.9.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "automated-crafting-1.4.15-1+MC1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KwD3Y4Jn",
+      "versionId": "oozeGpP8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 389435,
+      "fileId": 5037442
+    }
+  ],
   "fabric": [
     {
       "modId": "automated_crafting",

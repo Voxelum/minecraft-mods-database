@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "smscFOAi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 5460203
+    }
+  ],
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "7.63"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "7.63"
+    }
+  ]
+}

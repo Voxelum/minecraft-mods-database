@@ -1,0 +1,20 @@
+{
+  "name": "creatoroverlays-3.0.0-1.20.2-1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPiLAv6e",
+      "versionId": "5pocwo7l"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creatoroverlays",
+      "version": "3.0.0-1.20.2-1.20.4"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.1+1.20.2"
+    }
+  ]
+}

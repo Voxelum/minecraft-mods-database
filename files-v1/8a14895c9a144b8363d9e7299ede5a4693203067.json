@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kqc8wQyk",
+      "versionId": "S0Ey9gGS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663375,
+      "fileId": 5480270
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glsl-common",
+      "version": "0.2.6"
+    },
+    {
+      "modId": "glsl",
+      "version": "0.2.6"
+    },
+    {
+      "modId": "glsl",
+      "version": "0.2.6"
+    },
+    {
+      "modId": "glsl",
+      "version": "0.2.6"
+    },
+    {
+      "modId": "glsl",
+      "version": "0.2.6"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "visualoverhaul-4.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YQnwl5Vv",
+      "versionId": "MUk2Z2Zv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 432008,
+      "fileId": 3684046
+    }
+  ],
   "fabric": [
     {
       "modId": "visualoverhaul",

@@ -1,6 +1,18 @@
 {
   "name": "geckolib-forge-1.21-4.5.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "TUMEJhCC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 5605712
+    }
+  ],
   "forge": [
     {
       "modId": "geckolib",

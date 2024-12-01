@@ -1,6 +1,18 @@
 {
   "name": "letsdo-vinery-fabric-1.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1DWmBJVA",
+      "versionId": "iTD6I6Ed"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704465,
+      "fileId": 4692342
+    }
+  ],
   "fabric": [
     {
       "modId": "vinery",

@@ -1,6 +1,18 @@
 {
   "name": "create_jetpack-forge-3.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "BxQpUvIz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 655608,
+      "fileId": 4791803
+    }
+  ],
   "forge": [
     {
       "modId": "create_jetpack",

@@ -1,6 +1,12 @@
 {
   "name": "pollen-forge-1.5.0+1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 544350,
+      "fileId": 3972060
+    }
+  ],
   "forge": [
     {
       "modId": "pollen",

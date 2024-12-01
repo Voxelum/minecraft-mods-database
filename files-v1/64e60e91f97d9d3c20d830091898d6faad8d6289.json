@@ -1,0 +1,52 @@
+{
+  "name": "sophisticatedcore-1.21.1-0.6.50.61.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9jxwkYQL",
+      "versionId": "pMD1uLsC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedcore",
+      "version": "1.21.1-0.6.50.61"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.1"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "3.1.0+1.21.1"
+    }
+  ]
+}

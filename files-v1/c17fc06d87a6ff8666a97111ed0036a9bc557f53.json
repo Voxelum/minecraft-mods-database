@@ -1,6 +1,12 @@
 {
   "name": "Craftable Spawner and Spawn Eggs (1.20.1 H version).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 865172,
+      "fileId": 4736577
+    }
+  ],
   "forge": [
     {
       "modId": "craftable_spawner",

@@ -1,6 +1,12 @@
 {
   "name": "autorelog-0.0.7+1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PZILPxJ6",
+      "versionId": "qNKvOB6P"
+    }
+  ],
   "fabric": [
     {
       "modId": "autorelog",

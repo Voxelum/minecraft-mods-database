@@ -1,6 +1,12 @@
 {
   "name": "megane-5.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408118,
+      "fileId": 3461841
+    }
+  ],
   "fabric": [
     {
       "modId": "megane",

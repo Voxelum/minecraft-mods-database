@@ -1,6 +1,18 @@
 {
   "name": "capetweaks-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PIG91bQ2",
+      "versionId": "AonmmMYb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 513559,
+      "fileId": 3535345
+    }
+  ],
   "fabric": [
     {
       "modId": "capetweaks",

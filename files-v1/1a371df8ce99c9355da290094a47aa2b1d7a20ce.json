@@ -1,6 +1,12 @@
 {
   "name": "cofh_core-1.16.4-1.2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 69162,
+      "fileId": 3249453
+    }
+  ],
   "forge": [
     {
       "modId": "cofh_core",

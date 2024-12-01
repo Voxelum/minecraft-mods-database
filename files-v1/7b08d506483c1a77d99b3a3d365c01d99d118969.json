@@ -1,6 +1,18 @@
 {
   "name": "worldedit-mod-7.3.4-beta-01.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1u6JkXh5",
+      "versionId": "JOJ9WbGc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225608,
+      "fileId": 5443868
+    }
+  ],
   "fabric": [
     {
       "modId": "worldedit",

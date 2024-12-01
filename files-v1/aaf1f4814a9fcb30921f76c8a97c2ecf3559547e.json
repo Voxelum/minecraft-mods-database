@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y6DuFGwJ",
+      "versionId": "7IrSEJ5F"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyblocker",
+      "version": "1.21.0+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    },
+    {
+      "modId": "meteordevelopment_discord-ipc",
+      "version": "1.1"
+    },
+    {
+      "modId": "com_logisticscraft_occlusionculling",
+      "version": "0.0.8-SNAPSHOT"
+    },
+    {
+      "modId": "moe_nea_neurepoparser",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.9.0.202403050737-r"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    }
+  ]
+}

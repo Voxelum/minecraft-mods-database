@@ -1,6 +1,12 @@
 {
   "name": "WTS-1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 247895,
+      "fileId": 2432160
+    }
+  ],
   "forge": [
     {
       "modId": "wts",

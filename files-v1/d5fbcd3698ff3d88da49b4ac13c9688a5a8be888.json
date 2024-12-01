@@ -1,6 +1,12 @@
 {
   "name": "majruszs-difficulty-1.16.4-0.2.2.json",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 430642,
+      "fileId": 3156090
+    }
+  ],
   "forge": [
     {
       "modId": "majruszs_difficulty",

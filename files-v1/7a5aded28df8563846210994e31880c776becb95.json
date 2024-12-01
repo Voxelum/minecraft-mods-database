@@ -1,6 +1,12 @@
 {
   "name": "mcw-doors-1.0.3-mc1.15.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 378646,
+      "fileId": 3340794
+    }
+  ],
   "forge": [
     {
       "modId": "mcwdoors",

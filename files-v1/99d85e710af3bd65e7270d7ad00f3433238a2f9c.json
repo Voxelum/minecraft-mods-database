@@ -1,6 +1,18 @@
 {
   "name": "fishingruler.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2g6vOSXZ",
+      "versionId": "6NtOYgOh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 843900,
+      "fileId": 4583307
+    }
+  ],
   "fabric": [
     {
       "modId": "fishing_ruler",

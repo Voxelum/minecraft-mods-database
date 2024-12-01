@@ -1,6 +1,18 @@
 {
   "name": "boggedspawn-1.21.1-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1TyQZUcH",
+      "versionId": "3GfUGxPO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1036810,
+      "fileId": 5609812
+    }
+  ],
   "forge": [
     {
       "modId": "boggedspawn",

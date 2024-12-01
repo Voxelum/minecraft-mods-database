@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "onxZNw3d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.3.1+1.19.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.4"
+    }
+  ]
+}

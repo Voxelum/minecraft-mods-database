@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "rebind-all-the-keys-1.6.0+1.21.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "TpKqzzMu",
@@ -10,6 +11,12 @@
     {
       "projectId": 398407,
       "fileId": 5717805
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rebind_all_the_keys",
+      "version": "1.6.0+1.21"
     }
   ]
 }

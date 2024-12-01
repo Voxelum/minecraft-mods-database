@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rJvxBgdw",
+      "versionId": "K9qRtjMt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959533,
+      "fileId": 5781565
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacies_and_legends",
+      "version": "1.21.1-v1.4.0"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.8.6-mc1.21.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "screenshotcopy-1.2.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aru7gAyl",
+      "versionId": "tI2kaE5A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574902,
+      "fileId": 3915912
+    }
+  ],
   "fabric": [
     {
       "modId": "screencopy",

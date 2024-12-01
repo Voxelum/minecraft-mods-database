@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dml-refabricated",
+      "version": "0.3.3-beta1"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.0.0-beta.1+1.16.2-rc2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.7.0-unstable"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.2.0-unstable"
+    },
+    {
+      "modId": "ktdatataglib",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "com_github_nathanpb_safer",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.2.1"
+    }
+  ]
+}

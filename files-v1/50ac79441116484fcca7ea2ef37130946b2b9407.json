@@ -1,6 +1,18 @@
 {
   "name": "servercountryflags-1.10.2-1.20.6-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L6HW4EbG",
+      "versionId": "dlvBPNIw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841311,
+      "fileId": 5336165
+    }
+  ],
   "fabric": [
     {
       "modId": "servercountryflags",

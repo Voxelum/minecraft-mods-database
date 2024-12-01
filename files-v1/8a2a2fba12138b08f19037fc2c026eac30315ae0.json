@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbFe1FWa",
+      "versionId": "ubXbccxW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319582,
+      "fileId": 3687422
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "respawnablepets",
+      "version": "1.18-4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    }
+  ]
+}

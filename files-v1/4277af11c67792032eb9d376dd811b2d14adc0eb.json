@@ -1,6 +1,18 @@
 {
   "name": "supermartijn642configlib-1.1.7-fabric-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LN9BxssP",
+      "versionId": "RFbUW7MX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438332,
+      "fileId": 4629801
+    }
+  ],
   "fabric": [
     {
       "modId": "supermartijn642configlib",

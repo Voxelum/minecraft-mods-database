@@ -1,6 +1,18 @@
 {
   "name": "TreeChop-1.19.4-forge-0.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHoB7SHO",
+      "versionId": "aZbvxos5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421377,
+      "fileId": 4675421
+    }
+  ],
   "forge": [
     {
       "modId": "treechop",

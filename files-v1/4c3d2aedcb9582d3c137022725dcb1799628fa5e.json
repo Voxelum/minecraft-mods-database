@@ -1,6 +1,18 @@
 {
   "name": "watermedia-2.0.71.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G922NeHS",
+      "versionId": "6ui6crmh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 869524,
+      "fileId": 5702065
+    }
+  ],
   "forge": [
     {
       "modId": "watermedia",

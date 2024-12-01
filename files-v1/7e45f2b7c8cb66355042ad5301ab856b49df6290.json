@@ -1,0 +1,20 @@
+{
+  "name": "publicenderchest-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "72qdVlp0",
+      "versionId": "joS9DgIt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "publicenderchest",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.46.0.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9r4ZkgSN",
+      "versionId": "knOqHFPW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 571336,
+      "fileId": 5867348
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple_copper_pipes",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.2-mc1.21.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zFiY2Go0",
+      "versionId": "LSQaGN5A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312289,
+      "fileId": 5430865
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockus",
+      "version": "2.9.1+1.21"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    }
+  ]
+}

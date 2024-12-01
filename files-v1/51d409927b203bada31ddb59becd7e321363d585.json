@@ -1,0 +1,26 @@
+{
+  "name": "things-0.4.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VzAGdu9D",
+      "versionId": "C9vVXLgu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456151,
+      "fileId": 5720823
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "things",
+      "version": "0.4.2+1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.13+1.21"
+    }
+  ]
+}

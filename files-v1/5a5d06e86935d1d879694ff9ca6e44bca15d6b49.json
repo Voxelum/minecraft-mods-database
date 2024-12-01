@@ -1,6 +1,18 @@
 {
   "name": "tools_complement-1.19.2-3.2.0.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zTaQC7Hx",
+      "versionId": "664xG8pT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552642,
+      "fileId": 4382367
+    }
+  ],
   "forge": [
     {
       "modId": "tools_complement",

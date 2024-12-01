@@ -1,6 +1,12 @@
 {
   "name": "psicaster-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 435119,
+      "fileId": 3204251
+    }
+  ],
   "forge": [
     {
       "modId": "psicaster",

@@ -1,0 +1,22 @@
+{
+  "name": "Storage Drawers-fabric-1.20.1-12.10.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223852,
+      "fileId": 5889881
+    }
+  ],
+  "forge": [
+    {
+      "modId": "storagedrawers",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "storagedrawers",
+      "version": "12.10.3"
+    }
+  ]
+}

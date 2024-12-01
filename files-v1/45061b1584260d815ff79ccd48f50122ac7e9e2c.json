@@ -1,6 +1,18 @@
 {
   "name": "vt-downloader-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1E2sq1cp",
+      "versionId": "P8dCLvcZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 432425,
+      "fileId": 4028758
+    }
+  ],
   "fabric": [
     {
       "modId": "vt_downloader",

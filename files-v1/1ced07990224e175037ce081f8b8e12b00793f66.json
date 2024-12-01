@@ -1,6 +1,18 @@
 {
   "name": "wraith-alloy-forgery-2.0.13+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhl28YkY",
+      "versionId": "RnZ1rNwY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 438718,
+      "fileId": 3758381
+    }
+  ],
   "fabric": [
     {
       "modId": "alloy_forgery",

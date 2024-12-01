@@ -1,6 +1,12 @@
 {
   "name": "XaerosWorldMap.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NcUtCpym",
+      "versionId": "upEWzPL7"
+    }
+  ],
   "fabric": [
     {
       "modId": "xaeroworldmap",

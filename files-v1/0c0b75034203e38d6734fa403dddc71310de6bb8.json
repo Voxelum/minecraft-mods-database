@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MCnBYP0b",
+      "versionId": "OegcvXrX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1094533,
+      "fileId": 5864450
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_limesplatus_ending",
+      "version": "1-v1.1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_true_ending",
+      "version": "1-v1.1.3"
+    }
+  ]
+}

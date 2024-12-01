@@ -1,6 +1,18 @@
 {
   "name": "nounusedchunks-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U8avpWmO",
+      "versionId": "ILRXywIW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645755,
+      "fileId": 4293584
+    }
+  ],
   "forge": [
     {
       "modId": "nounusedchunks",

@@ -1,6 +1,18 @@
 {
   "name": "hokum-1.1-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wk1Fb81g",
+      "versionId": "aWmTXOWz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891063,
+      "fileId": 4703089
+    }
+  ],
   "forge": [
     {
       "modId": "hokum",

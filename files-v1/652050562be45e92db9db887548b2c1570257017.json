@@ -1,6 +1,18 @@
 {
   "name": "InvMove-1.18-0.8.1-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "REfW2AEX",
+      "versionId": "FJ91FXja"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581854,
+      "fileId": 3905169
+    }
+  ],
   "forge": [
     {
       "modId": "invmove",

@@ -1,6 +1,12 @@
 {
   "name": "End Origins.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 570150,
+      "fileId": 3865262
+    }
+  ],
   "fabric": [
     {
       "modId": "end_origins",

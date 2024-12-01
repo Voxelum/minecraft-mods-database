@@ -1,6 +1,18 @@
 {
   "name": "omniwand-1.12.2-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4CuKFhRy",
+      "versionId": "3mqggin3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923677,
+      "fileId": 4805869
+    }
+  ],
   "forge": [
     {
       "modId": "omniwand",

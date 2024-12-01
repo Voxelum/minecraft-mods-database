@@ -1,6 +1,18 @@
 {
   "name": "open-parties-and-claims-forge-1.19.2-0.16.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gF3BGWvG",
+      "versionId": "xZzL2vM0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636608,
+      "fileId": 4344797
+    }
+  ],
   "forge": [
     {
       "modId": "openpartiesandclaims",

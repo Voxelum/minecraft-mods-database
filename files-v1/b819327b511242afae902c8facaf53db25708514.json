@@ -1,6 +1,18 @@
 {
   "name": "BuildCraftRF-2.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MhqIcygN",
+      "versionId": "etS56VVy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421463,
+      "fileId": 4631742
+    }
+  ],
   "forge": [
     {
       "modId": "bcrf",

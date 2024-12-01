@@ -1,0 +1,34 @@
+{
+  "name": "letsdo-API-fabric-1.3.0-beta-release-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "UTi4NVLW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 864599,
+      "fileId": 5730907
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doapi",
+      "version": "1.3.0-beta-release"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

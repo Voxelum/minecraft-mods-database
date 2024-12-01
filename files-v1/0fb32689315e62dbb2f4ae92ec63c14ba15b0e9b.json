@@ -1,6 +1,12 @@
 {
   "name": "armor-indicator-0.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AHH3ZcfB",
+      "versionId": "pWS8EMMe"
+    }
+  ],
   "fabric": [
     {
       "modId": "armor_indicator",

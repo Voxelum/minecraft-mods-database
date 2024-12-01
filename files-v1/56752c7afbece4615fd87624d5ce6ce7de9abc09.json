@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FIlZB9L0",
+      "versionId": "DErjl2jl"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terra",
+      "version": "6.5.0-BETA+b7326c0ff"
+    },
+    {
+      "modId": "cloud",
+      "version": "2.0.0-beta.9"
+    }
+  ]
+}

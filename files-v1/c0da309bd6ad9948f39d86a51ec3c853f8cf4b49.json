@@ -1,6 +1,12 @@
 {
   "name": "mastertech-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 446756,
+      "fileId": 3203692
+    }
+  ],
   "forge": [
     {
       "modId": "mastertech",

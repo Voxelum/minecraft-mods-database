@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cobblemon-wiki-gui",
+      "version": "1.0.0-1.20.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    }
+  ]
+}

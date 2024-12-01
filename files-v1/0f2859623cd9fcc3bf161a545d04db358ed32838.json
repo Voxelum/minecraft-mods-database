@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kqc8wQyk",
+      "versionId": "jHnB4vr6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663375,
+      "fileId": 4787471
+    }
+  ],
   "fabric": [
     {
       "modId": "glsl_panorama",

@@ -1,6 +1,18 @@
 {
   "name": "GraveKeeper-1.12.2-0.6.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P2u0jxmV",
+      "versionId": "Ln2zl0br"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400212,
+      "fileId": 3498503
+    }
+  ],
   "forge": [
     {
       "modId": "gravekeeper",

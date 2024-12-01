@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301609,
+      "fileId": 4549541
+    }
+  ],
+  "forge": [
+    {
+      "modId": "atianxray",
+      "version": "2.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xray",
+      "version": "${version}"
+    }
+  ]
+}

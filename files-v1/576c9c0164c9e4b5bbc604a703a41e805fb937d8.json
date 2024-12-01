@@ -1,6 +1,18 @@
 {
   "name": "resourcefulconfig-fabric-1.21-3.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M1953qlQ",
+      "versionId": "PkHTcGx5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 714059,
+      "fileId": 5481991
+    }
+  ],
   "fabric": [
     {
       "modId": "resourcefulconfig",

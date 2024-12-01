@@ -1,6 +1,12 @@
 {
   "name": "lodestone-1.18.2-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 616457,
+      "fileId": 3986845
+    }
+  ],
   "forge": [
     {
       "modId": "lodestone",

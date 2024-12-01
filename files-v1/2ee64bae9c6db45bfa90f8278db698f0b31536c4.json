@@ -1,6 +1,12 @@
 {
   "name": "Steam_Rails-1.2.2+forge-mc1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 4504510
+    }
+  ],
   "forge": [
     {
       "modId": "railways",

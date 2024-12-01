@@ -1,0 +1,26 @@
+{
+  "name": "oxidized-1.8.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wOZRkmgG",
+      "versionId": "QAQOQnXb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506426,
+      "fileId": 5535795
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oxidized",
+      "version": "1.8.3"
+    },
+    {
+      "modId": "saflib",
+      "version": "1.1.1"
+    }
+  ]
+}

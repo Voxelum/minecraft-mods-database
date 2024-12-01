@@ -1,6 +1,18 @@
 {
   "name": "twilightdelight-1.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d6cSefpO",
+      "versionId": "ZveZv3AJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871735,
+      "fileId": 4614890
+    }
+  ],
   "forge": [
     {
       "modId": "twilightdelight",

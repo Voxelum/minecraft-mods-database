@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sh0YauEf",
+      "versionId": "rtVmg0Ey"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541320,
+      "fileId": 5002187
+    }
+  ],
   "forge": [
     {
       "modId": "sdlink",

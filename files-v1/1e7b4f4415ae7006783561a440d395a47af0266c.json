@@ -1,6 +1,18 @@
 {
   "name": "mcwfencesbyg-1.18.2-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YwnqoRu0",
+      "versionId": "WDRIWxCq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 620582,
+      "fileId": 3926837
+    }
+  ],
   "forge": [
     {
       "modId": "mcwfencesbyg",

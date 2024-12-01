@@ -1,6 +1,18 @@
 {
   "name": "vanity_aesthetic_armory-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEDzaSHn",
+      "versionId": "yLjYlOcH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977009,
+      "fileId": 5192919
+    }
+  ],
   "forge": [
     {
       "modId": "vanity_aesthetic_armory",

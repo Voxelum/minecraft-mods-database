@@ -1,0 +1,22 @@
+{
+  "name": "netherdragon1_18_2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 648628,
+      "fileId": 4565009
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nether_dragon",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nether_dragon",
+      "version": "1.2"
+    }
+  ]
+}

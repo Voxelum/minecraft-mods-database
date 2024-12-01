@@ -1,6 +1,18 @@
 {
   "name": "better_climbing-fabric-2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZucWZEBV",
+      "versionId": "8I9KvsCg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 655619,
+      "fileId": 4589732
+    }
+  ],
   "fabric": [
     {
       "modId": "better_climbing",

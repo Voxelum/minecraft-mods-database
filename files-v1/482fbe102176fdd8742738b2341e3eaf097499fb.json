@@ -1,6 +1,12 @@
 {
   "name": "configured-1.5.2-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 457570,
+      "fileId": 3780620
+    }
+  ],
   "forge": [
     {
       "modId": "configured",

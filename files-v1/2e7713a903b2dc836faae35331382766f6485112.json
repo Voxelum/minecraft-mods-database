@@ -1,6 +1,18 @@
 {
   "name": "almostunified-fabric-1.19.2-0.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sdaSaQEz",
+      "versionId": "PJdf652f"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633823,
+      "fileId": 4765499
+    }
+  ],
   "fabric": [
     {
       "modId": "almostunified",

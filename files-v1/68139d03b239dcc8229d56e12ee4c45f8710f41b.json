@@ -1,6 +1,18 @@
 {
   "name": "sushigocrafting-1.16.5-0.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G9WbcGQ2",
+      "versionId": "TKkmhfcJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 452500,
+      "fileId": 3538112
+    }
+  ],
   "forge": [
     {
       "modId": "sushigocrafting",

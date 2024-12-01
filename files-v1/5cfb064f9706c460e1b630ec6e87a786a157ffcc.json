@@ -1,6 +1,18 @@
 {
   "name": "daily_rewards_1.16.5-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IsAmLg1d",
+      "versionId": "LV8ZXIZX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628798,
+      "fileId": 4084374
+    }
+  ],
   "forge": [
     {
       "modId": "daily_rewards",

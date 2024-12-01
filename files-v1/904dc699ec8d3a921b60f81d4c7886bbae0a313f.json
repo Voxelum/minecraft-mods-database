@@ -1,6 +1,18 @@
 {
   "name": "reignitedhud-forge-1.16.5-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z8BTj1V5",
+      "versionId": "bewWaURt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014664,
+      "fileId": 5352393
+    }
+  ],
   "forge": [
     {
       "modId": "reignitedhud",

@@ -1,6 +1,18 @@
 {
   "name": "completeconfig-2.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtqG8z1h",
+      "versionId": "DBWiFPtY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 381257,
+      "fileId": 4650029
+    }
+  ],
   "fabric": [
     {
       "modId": "completeconfig",

@@ -1,0 +1,28 @@
+{
+  "name": "lithosphere-1.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iv9jp2k9",
+      "versionId": "yrTaxqqx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 995122,
+      "fileId": 5668274
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.3"
+    }
+  ]
+}

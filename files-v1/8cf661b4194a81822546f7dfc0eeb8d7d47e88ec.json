@@ -1,0 +1,28 @@
+{
+  "name": "sodiumoptionsapi-forge-1.0.6-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Es5v4eyq",
+      "versionId": "qFD08jfR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1103431,
+      "fileId": 5917933
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumoptionsapi",
+      "version": "1.0.5"
+    }
+  ]
+}

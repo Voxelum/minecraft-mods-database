@@ -1,6 +1,12 @@
 {
   "name": "fabric-hammers-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0YRlpMU",
+      "versionId": "YPhol9YR"
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric-hammers",

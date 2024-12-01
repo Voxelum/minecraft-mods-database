@@ -1,6 +1,12 @@
 {
   "name": "HorseBuff-1.19-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IrrG0G8l",
+      "versionId": "DvXgcRxr"
+    }
+  ],
   "fabric": [
     {
       "modId": "horsebuff",

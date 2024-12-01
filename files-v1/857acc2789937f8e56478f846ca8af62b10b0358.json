@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P3nMObBl",
+      "versionId": "txKwBRol"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_sky_voidamplifiednether",
+      "version": "1.0.1+amplified_nether-1.2.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_sky_voidamplifiednether",
+      "version": "1.0.1+amplified_nether-1.2.5"
+    }
+  ]
+}

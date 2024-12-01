@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9gx5Xvc5",
+      "versionId": "J6o2cCid"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simply-no-shading",
+      "version": "6.0.7+1.20.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.0.0+1.20"
+    }
+  ]
+}

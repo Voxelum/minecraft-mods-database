@@ -1,6 +1,18 @@
 {
   "name": "culinaryconstruct-fabric-5.2.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i0hioBIg",
+      "versionId": "DD3ouXQC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 296676,
+      "fileId": 4814118
+    }
+  ],
   "fabric": [
     {
       "modId": "culinaryconstruct",

@@ -1,6 +1,18 @@
 {
   "name": "easyelytratakeoff-1.19.2-4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3hqwGCUB",
+      "versionId": "aQHYS7BG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347898,
+      "fileId": 4965067
+    }
+  ],
   "forge": [
     {
       "modId": "easyelytratakeoff",

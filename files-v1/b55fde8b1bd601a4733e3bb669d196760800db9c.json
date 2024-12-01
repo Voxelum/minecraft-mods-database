@@ -1,6 +1,12 @@
 {
   "name": "fuelinfo-1.0.1+1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 489631,
+      "fileId": 3954147
+    }
+  ],
   "fabric": [
     {
       "modId": "fuelinfo",

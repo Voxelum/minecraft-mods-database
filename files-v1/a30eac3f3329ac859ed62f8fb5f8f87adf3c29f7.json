@@ -1,6 +1,12 @@
 {
   "name": "decimalCoins-forge-1.16.5-1.3.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394362,
+      "fileId": 3365950
+    }
+  ],
   "forge": [
     {
       "modId": "decimal_coins",

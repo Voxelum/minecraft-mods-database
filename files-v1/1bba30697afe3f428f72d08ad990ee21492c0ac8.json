@@ -1,6 +1,12 @@
 {
   "name": "Waila_1.5.2a.zip",
-  "domain": "resourcepacks",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 73488,
+      "fileId": 786719
+    }
+  ],
   "forge": [
     {
       "modId": "Waila",

@@ -1,0 +1,14 @@
+{
+  "name": "skillmmo-0.1.11-fabric1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "skillmmo",
+      "version": "0.1.11"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.1+1.20"
+    }
+  ]
+}

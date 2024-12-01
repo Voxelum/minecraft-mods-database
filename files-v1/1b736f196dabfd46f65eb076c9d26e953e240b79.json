@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ch1rCuC6",
+      "versionId": "ZjBNsiSl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1129464,
+      "fileId": 5866231
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frights_and_foliage",
+      "version": "1.20.1-1.0.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.1"
+    }
+  ]
+}

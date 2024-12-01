@@ -1,6 +1,18 @@
 {
   "name": "PureCopperTools-v1.0.0-1.19.2-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hUL2cjNA",
+      "versionId": "HwP2HEcj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 831058,
+      "fileId": 4410864
+    }
+  ],
   "forge": [
     {
       "modId": "purecoppertools",

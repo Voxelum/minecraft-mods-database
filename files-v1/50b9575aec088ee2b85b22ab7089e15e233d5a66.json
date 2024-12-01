@@ -1,6 +1,18 @@
 {
   "name": "wraith-waystones-2.6.0+mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sTZr7NVo",
+      "versionId": "qN4yNsRz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410902,
+      "fileId": 4187192
+    }
+  ],
   "fabric": [
     {
       "modId": "waystones",

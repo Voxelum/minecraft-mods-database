@@ -1,6 +1,18 @@
 {
   "name": "tetraextras-0.1.4-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wDvpvvcU",
+      "versionId": "AtUSLKRR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 926060,
+      "fileId": 5334310
+    }
+  ],
   "forge": [
     {
       "modId": "tetraextras",

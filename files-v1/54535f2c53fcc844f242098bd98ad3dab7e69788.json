@@ -1,6 +1,12 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4XJZeZbM",
+      "versionId": "CN7bcW4D"
+    }
+  ],
   "forge": [
     {
       "modId": "doapi",

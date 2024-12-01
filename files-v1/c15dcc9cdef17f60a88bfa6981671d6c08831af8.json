@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 903444,
+      "fileId": 5307599
+    }
+  ],
+  "forge": [
+    {
+      "modId": "random_crits",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "random_crits",
+      "version": "1.0.2"
+    }
+  ]
+}

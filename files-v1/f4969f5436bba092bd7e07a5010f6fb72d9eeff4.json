@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1H9ZkJwF",
+      "versionId": "89ROawe0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 402739,
+      "fileId": 4542658
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "backslot",
+      "version": "1.2.13"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.3.9+mc1.19.4"
+    }
+  ]
+}

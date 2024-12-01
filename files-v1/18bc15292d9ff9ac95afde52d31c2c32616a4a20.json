@@ -1,6 +1,18 @@
 {
   "name": "WorldTools-fabric-1.2.4+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FlFKBOIX",
+      "versionId": "rJ4zo8F9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909868,
+      "fileId": 5141597
+    }
+  ],
   "fabric": [
     {
       "modId": "worldtools",

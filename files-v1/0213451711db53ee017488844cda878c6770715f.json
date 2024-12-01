@@ -1,6 +1,18 @@
 {
   "name": "more_beautiful_torches-merged-1.21-3.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C341qvJ5",
+      "versionId": "nA3d08SF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860325,
+      "fileId": 5479417
+    }
+  ],
   "forge": [
     {
       "modId": "more_beautiful_torches",

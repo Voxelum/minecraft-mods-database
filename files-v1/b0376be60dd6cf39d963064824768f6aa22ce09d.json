@@ -1,6 +1,18 @@
 {
   "name": "chestpresents-0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kmgGEmQE",
+      "versionId": "SKRiluIv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 705430,
+      "fileId": 4110372
+    }
+  ],
   "forge": [
     {
       "modId": "chestpresents",

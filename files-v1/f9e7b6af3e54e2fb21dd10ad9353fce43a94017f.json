@@ -1,6 +1,18 @@
 {
   "name": "vanity-fabric-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kEcg2xYc",
+      "versionId": "JaqGYZ32"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548155,
+      "fileId": 5174809
+    }
+  ],
   "fabric": [
     {
       "modId": "vanity",

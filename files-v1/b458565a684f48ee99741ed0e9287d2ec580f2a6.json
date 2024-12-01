@@ -1,10 +1,20 @@
 {
   "name": "craftingtweaks-neoforge-1.21.1-21.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p19vrgc2",
+      "versionId": "Z8Hlv22C"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 233071,
       "fileId": 5856228
+    },
+    {
+      "projectId": 854949,
+      "fileId": 5679902
     }
   ]
 }

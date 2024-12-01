@@ -1,6 +1,18 @@
 {
   "name": "simple-hud-enhanced+1.21-4.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PE656UHx",
+      "versionId": "vi7Zsgzr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866605,
+      "fileId": 5523403
+    }
+  ],
   "fabric": [
     {
       "modId": "simplehudenhanced",

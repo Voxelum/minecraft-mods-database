@@ -1,6 +1,18 @@
 {
   "name": "simple-rpc-fabric-1.19.x-3.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "7blHJxBS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 4674499
+    }
+  ],
   "fabric": [
     {
       "modId": "simple-rpc",

@@ -1,6 +1,12 @@
 {
   "name": "TES-neoforge-1.20.1-1.2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 830420,
+      "fileId": 4701902
+    }
+  ],
   "forge": [
     {
       "modId": "tslatentitystatus",

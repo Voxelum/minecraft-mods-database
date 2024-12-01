@@ -1,0 +1,28 @@
+{
+  "name": "packedup-1.0.30b-fabric-mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZbFzEauY",
+      "versionId": "P8vtfs57"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361867,
+      "fileId": 5652579
+    }
+  ],
+  "forge": [
+    {
+      "modId": "packedup",
+      "version": "1.0.30+a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "packedup",
+      "version": "1.0.30+b"
+    }
+  ]
+}

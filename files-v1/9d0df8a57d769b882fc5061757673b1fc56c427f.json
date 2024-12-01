@@ -1,6 +1,18 @@
 {
   "name": "scalable-cats-force-fabric-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zr0QMQMo",
+      "versionId": "sZloD5D6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320926,
+      "fileId": 4568613
+    }
+  ],
   "fabric": [
     {
       "modId": "kotori_scala",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KmhsAdOt",
+      "versionId": "5109nKBs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 457082,
+      "fileId": 3853129
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "upgradedechests",
+      "version": "1.0.4-1.18"
+    },
+    {
+      "modId": "shulkerutils",
+      "version": "1.0.4-1.18"
+    }
+  ]
+}

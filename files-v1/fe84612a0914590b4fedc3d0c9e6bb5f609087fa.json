@@ -1,6 +1,18 @@
 {
   "name": "workshop_for_handsome_adventurer--mc1.20.1--1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6lu9blWp",
+      "versionId": "VfrYAHHN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 875843,
+      "fileId": 4969334
+    }
+  ],
   "forge": [
     {
       "modId": "workshop_for_handsome_adventurer",

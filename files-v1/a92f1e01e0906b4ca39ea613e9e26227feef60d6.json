@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-all-7.99.24.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 61811,
+      "fileId": 2796760
+    }
+  ],
   "forge": [
     {
       "modId": "buildcraftcompat",

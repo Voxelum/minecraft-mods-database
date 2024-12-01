@@ -1,6 +1,18 @@
 {
   "name": "owo-lib-0.7.2+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ccKDOlHs",
+      "versionId": "F4LqV8lu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532610,
+      "fileId": 3781251
+    }
+  ],
   "fabric": [
     {
       "modId": "owo",

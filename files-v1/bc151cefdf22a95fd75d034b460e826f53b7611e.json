@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 704247,
+      "fileId": 5482607
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "njols-hud",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "njols-config-framework",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "njols-ui-framework",
+      "version": "1.1.1"
+    }
+  ]
+}

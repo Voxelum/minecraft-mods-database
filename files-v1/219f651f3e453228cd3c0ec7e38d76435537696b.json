@@ -1,6 +1,18 @@
 {
   "name": "mvw-2.3.3b_beta-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkqU7XM6",
+      "versionId": "DKbxflU1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410999,
+      "fileId": 5490296
+    }
+  ],
   "forge": [
     {
       "modId": "mvw",

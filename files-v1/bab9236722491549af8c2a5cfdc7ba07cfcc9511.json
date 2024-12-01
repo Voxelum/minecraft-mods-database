@@ -1,6 +1,18 @@
 {
   "name": "The Hordes.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O3HDffUR",
+      "versionId": "WEapWoBm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 485779,
+      "fileId": 4756198
+    }
+  ],
   "forge": [
     {
       "modId": "hordes",

@@ -1,6 +1,18 @@
 {
   "name": "fxcontrol-1.16-2.0.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Y4LQBHG",
+      "versionId": "H5aPZzJ5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 313477,
+      "fileId": 3884253
+    }
+  ],
   "forge": [
     {
       "modId": "fxcontrol",

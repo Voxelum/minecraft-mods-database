@@ -1,6 +1,18 @@
 {
   "name": "armorhide-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dst0bRuX",
+      "versionId": "qQqkA52q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630096,
+      "fileId": 5180205
+    }
+  ],
   "fabric": [
     {
       "modId": "armorhide",

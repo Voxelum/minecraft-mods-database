@@ -1,6 +1,12 @@
 {
   "name": "tctcore-1.4-forge-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1060479,
+      "fileId": 5834833
+    }
+  ],
   "forge": [
     {
       "modId": "tctcore",

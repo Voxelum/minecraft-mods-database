@@ -1,6 +1,18 @@
 {
   "name": "PymTech-1.16.4-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KP2WhfaM",
+      "versionId": "E0sfigvW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 316946,
+      "fileId": 3163217
+    }
+  ],
   "forge": [
     {
       "modId": "pymtech",

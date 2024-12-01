@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HtGckJVc",
+      "versionId": "wMJlsfCI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693995,
+      "fileId": 5721365
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stack-to-nearby-chests",
+      "version": "0.5.10"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.2+1.20"
+    }
+  ]
+}

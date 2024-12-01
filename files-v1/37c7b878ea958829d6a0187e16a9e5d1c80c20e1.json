@@ -1,6 +1,12 @@
 {
   "name": "twigs-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 496913,
+      "fileId": 3455185
+    }
+  ],
   "fabric": [
     {
       "modId": "twigs",

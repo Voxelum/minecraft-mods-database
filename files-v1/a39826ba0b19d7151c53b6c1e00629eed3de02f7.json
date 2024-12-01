@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OhduvhIc",
+      "versionId": "VN4KhfyJ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "veinminer",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "de_miraculixx_core_",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

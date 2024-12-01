@@ -1,6 +1,18 @@
 {
   "name": "Voodoo-Fabric-1.19.1-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2u9JONvp",
+      "versionId": "EVqLxhrx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 510930,
+      "fileId": 3989428
+    }
+  ],
   "forge": [
     {
       "modId": "voodoo",

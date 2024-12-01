@@ -1,6 +1,12 @@
 {
   "name": "phantasm-0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JGfljjtd",
+      "versionId": "LkRTTczm"
+    }
+  ],
   "forge": [
     {
       "modId": "phantasm",

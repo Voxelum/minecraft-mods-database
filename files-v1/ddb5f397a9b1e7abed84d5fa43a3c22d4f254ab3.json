@@ -1,6 +1,18 @@
 {
   "name": "travelers-backpack-1.19.2-8.2.30.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "QlbG8Rg1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541171,
+      "fileId": 4788719
+    }
+  ],
   "fabric": [
     {
       "modId": "travelersbackpack",

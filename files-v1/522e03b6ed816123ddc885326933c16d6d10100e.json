@@ -1,0 +1,16 @@
+{
+  "name": "motorassistance-2.1.0-MC1.21.1-fabric-sources.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PpYYCciX",
+      "versionId": "1kkdEDhA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "motorassistance",
+      "version": "${version}"
+    }
+  ]
+}

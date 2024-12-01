@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "allow-portal-guis-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UVHxud51",
+      "versionId": "Gm3u8Bwi"
+    }
+  ],
   "fabric": [
     {
       "modId": "allow-portal-guis",

@@ -1,0 +1,32 @@
+{
+  "name": "pickyourpoison-1.0.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 596706,
+      "fileId": 3817058
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pickyourpoison",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "satin",
+      "version": "1.7.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20211205"
+    }
+  ]
+}

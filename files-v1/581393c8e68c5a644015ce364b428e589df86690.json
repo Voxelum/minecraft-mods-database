@@ -1,6 +1,18 @@
 {
   "name": "Methane+-+2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pkI4SefA",
+      "versionId": "UeIVXNrx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899014,
+      "fileId": 4683096
+    }
+  ],
   "fabric": [
     {
       "modId": "methane",

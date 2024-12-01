@@ -1,6 +1,12 @@
 {
   "name": "catloaf-1.1.1-1.19.x-FORGE.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 978666,
+      "fileId": 5218143
+    }
+  ],
   "forge": [
     {
       "modId": "catloaf",

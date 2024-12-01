@@ -1,0 +1,32 @@
+{
+  "name": "MagicLib-mc1.21.3-fabric-0.8.641-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JOGZQCse",
+      "versionId": "BLoOLgju"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magiclib",
+      "version": "0.8.641+cdafc60-beta"
+    },
+    {
+      "modId": "magiclib_core",
+      "version": "0.8.134+5b4e21a-beta"
+    },
+    {
+      "modId": "magiclib-1_21_3",
+      "version": "0.8.31+1c5d91f-beta"
+    },
+    {
+      "modId": "magiclib_minecraft_api",
+      "version": "0.6.76+342aa27-beta"
+    },
+    {
+      "modId": "magiclib_malilib_extra",
+      "version": "0.8.61+f5d31eb-beta"
+    }
+  ]
+}

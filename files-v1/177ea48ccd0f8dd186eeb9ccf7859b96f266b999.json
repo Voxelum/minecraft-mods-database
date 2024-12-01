@@ -1,0 +1,34 @@
+{
+  "name": "VMod-Fabric-1.20.1-0.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qS1ot7R2",
+      "versionId": "TxPLy2oN"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "valkyrien_mod",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "valkyrien_mod",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "elementa",
+      "version": "649"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "323"
+    },
+    {
+      "modId": "valkyrien_ship_schematics",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "JustEnoughProfessions-1.18.2-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kB56GtWA",
+      "versionId": "OnLlkOCY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417645,
+      "fileId": 3670345
+    }
+  ],
   "forge": [
     {
       "modId": "justenoughprofessions",

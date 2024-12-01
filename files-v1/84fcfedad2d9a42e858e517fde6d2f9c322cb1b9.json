@@ -1,0 +1,26 @@
+{
+  "name": "autoinfelytra-5.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8flZ0yt8",
+      "versionId": "Hc5HypeG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1003224,
+      "fileId": 5536810
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autoinfelytra",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.9"
+    }
+  ]
+}

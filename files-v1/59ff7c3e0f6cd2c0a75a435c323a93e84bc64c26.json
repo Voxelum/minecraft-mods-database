@@ -1,6 +1,18 @@
 {
   "name": "BloodMagic-1.16.3-3.0.3-8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PbNc6qBY",
+      "versionId": "HNlePk2w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 224791,
+      "fileId": 3149693
+    }
+  ],
   "forge": [
     {
       "modId": "bloodmagic",

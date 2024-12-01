@@ -1,0 +1,18 @@
+{
+  "name": "vaulted-end-1.0.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vaulted-end",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.10+1.21.1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.10+1.21.1"
+    }
+  ]
+}

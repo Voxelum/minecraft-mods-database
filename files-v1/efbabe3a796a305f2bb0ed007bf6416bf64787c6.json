@@ -1,6 +1,12 @@
 {
   "name": "clutter-1.20-0.5.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZAmykow",
+      "versionId": "zuD1P17E"
+    }
+  ],
   "fabric": [
     {
       "modId": "clutter",

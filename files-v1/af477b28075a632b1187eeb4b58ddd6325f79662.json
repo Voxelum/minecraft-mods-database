@@ -1,0 +1,26 @@
+{
+  "name": "craftgr-1.6.1-mc1.20.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lKYr4L6w",
+      "versionId": "9WuE4tw7"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "craftgr",
+      "version": "1.6.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftgr",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "com_github_umjammer_jlayer",
+      "version": "1.0.3"
+    }
+  ]
+}

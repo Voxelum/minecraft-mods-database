@@ -1,6 +1,12 @@
 {
   "name": "Lockdown-1.12.1-7.0.1-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244019,
+      "fileId": 2477270
+    }
+  ],
   "forge": [
     {
       "modId": "lockdown",

@@ -1,6 +1,12 @@
 {
   "name": "enderchests-forge-1.16.2-lts-1.7.17.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 363535,
+      "fileId": 4623808
+    }
+  ],
   "forge": [
     {
       "modId": "enderchests",

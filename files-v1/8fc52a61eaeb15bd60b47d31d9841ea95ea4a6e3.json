@@ -1,6 +1,18 @@
 {
   "name": "athena-neoforge-1.20.4-3.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b1ZV3DIJ",
+      "versionId": "wRbahgtb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841890,
+      "fileId": 5176890
+    }
+  ],
   "forge": [
     {
       "modId": "athena",

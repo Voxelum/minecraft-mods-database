@@ -1,6 +1,12 @@
 {
   "name": "fabric_blank_discs_1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LOAzExdy",
+      "versionId": "FsLFyTSY"
+    }
+  ],
   "forge": [
     {
       "modId": "blank_discs",

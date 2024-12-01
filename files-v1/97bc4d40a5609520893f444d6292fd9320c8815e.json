@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PTGd6dWp",
+      "versionId": "WmavOaUA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mostructures",
+      "version": "1.4.6+1.20.6"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.4.3+1.20.6"
+    }
+  ]
+}

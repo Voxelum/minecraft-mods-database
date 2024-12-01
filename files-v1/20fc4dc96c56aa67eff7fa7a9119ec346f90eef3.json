@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JuNhazXF",
+      "versionId": "4LyLWlBU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325892,
+      "fileId": 3020489
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mysticaladaptations",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

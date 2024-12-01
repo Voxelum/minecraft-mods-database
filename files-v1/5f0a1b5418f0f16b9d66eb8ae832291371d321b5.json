@@ -1,6 +1,18 @@
 {
   "name": "scout-1.19.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QRYqnI15",
+      "versionId": "pU8oyH0U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631922,
+      "fileId": 4333756
+    }
+  ],
   "fabric": [
     {
       "modId": "scout",

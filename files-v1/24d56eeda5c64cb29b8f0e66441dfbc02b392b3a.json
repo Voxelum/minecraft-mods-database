@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 417768,
+      "fileId": 4633227
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lottweaks",
+      "version": "2.3.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

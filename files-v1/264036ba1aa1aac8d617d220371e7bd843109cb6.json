@@ -1,6 +1,18 @@
 {
   "name": "forcecraft-1.16.5-1.0.8.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nwz7U1QT",
+      "versionId": "lCPw4gpe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 454802,
+      "fileId": 3567717
+    }
+  ],
   "forge": [
     {
       "modId": "forcecraft",

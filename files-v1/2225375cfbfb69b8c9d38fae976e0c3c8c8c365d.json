@@ -1,0 +1,26 @@
+{
+  "name": "astrocraft-1.4.5+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DCWEXia7",
+      "versionId": "McOSLqa0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010757,
+      "fileId": 5845300
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "astrocraft",
+      "version": "1.4.5+1.21.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    }
+  ]
+}

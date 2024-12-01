@@ -1,0 +1,30 @@
+{
+  "name": "show-me-your-skin-1.11.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bD7YqcA3",
+      "versionId": "IoqhrPe7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622010,
+      "fileId": 5555185
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "showmeyourskin",
+      "version": "1.11.2+1.21"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    }
+  ]
+}

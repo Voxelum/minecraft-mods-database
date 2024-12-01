@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "fzzy_config-0.5.0+1.20.1+forge.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "hYykXjDp",
       "versionId": "AT8bwOXr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 5756590
     }
   ],
   "forge": [

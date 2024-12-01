@@ -1,0 +1,20 @@
+{
+  "name": "BasicEndOres-fabric-1.21-5.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 536269,
+      "fileId": 5456949
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beo",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

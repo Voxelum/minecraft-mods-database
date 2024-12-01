@@ -1,6 +1,18 @@
 {
   "name": "skinrestorer-forge-2.0.3+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ghrZDhGW",
+      "versionId": "JaPqjoOS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443823,
+      "fileId": 5646728
+    }
+  ],
   "forge": [
     {
       "modId": "skinrestorer",

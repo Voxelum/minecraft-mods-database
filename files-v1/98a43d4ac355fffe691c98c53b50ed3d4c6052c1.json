@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VNmsFeXY",
+      "versionId": "VS8fkjpR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 520869,
+      "fileId": 5659224
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytracapes",
+      "version": "2.3-1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.130"
+    }
+  ]
+}

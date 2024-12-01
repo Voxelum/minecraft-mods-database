@@ -1,6 +1,12 @@
 {
   "name": "tombstone-1.12.2-4.6.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 243707,
+      "fileId": 5141256
+    }
+  ],
   "forge": [
     {
       "modId": "tombstone",

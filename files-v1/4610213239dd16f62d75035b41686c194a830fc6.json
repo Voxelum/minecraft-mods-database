@@ -1,6 +1,18 @@
 {
   "name": "coalexplosion-1.16.5-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pcjc08X",
+      "versionId": "goNrfM9F"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410164,
+      "fileId": 3439019
+    }
+  ],
   "forge": [
     {
       "modId": "coalexplosion",

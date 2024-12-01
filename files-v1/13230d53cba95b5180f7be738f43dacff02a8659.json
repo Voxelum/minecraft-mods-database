@@ -1,6 +1,18 @@
 {
   "name": "YouThief-1.19.2-1.1.0-FORGE.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iW1mqMeb",
+      "versionId": "fu7jXTR3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938723,
+      "fileId": 4932886
+    }
+  ],
   "forge": [
     {
       "modId": "youthief",

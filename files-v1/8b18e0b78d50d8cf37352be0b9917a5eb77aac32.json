@@ -1,6 +1,18 @@
 {
   "name": "[Forge 1.20.1] Spooky_paintings_-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zO2AAKf6",
+      "versionId": "FApjbC5m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1001389,
+      "fileId": 5252192
+    }
+  ],
   "forge": [
     {
       "modId": "spooky_paintings_",

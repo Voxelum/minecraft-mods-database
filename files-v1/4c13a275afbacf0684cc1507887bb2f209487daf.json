@@ -1,6 +1,12 @@
 {
   "name": "DummyCore1.13.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 230103,
+      "fileId": 2244260
+    }
+  ],
   "forge": [
     {
       "modId": "DummyCore",

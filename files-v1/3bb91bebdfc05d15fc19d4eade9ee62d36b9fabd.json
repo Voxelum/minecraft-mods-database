@@ -1,4 +1,16 @@
 {
   "name": "BiblioCraft[v1.5.5].zip",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228027,
+      "fileId": 2229127
+    }
+  ],
+  "forge": [
+    {
+      "modId": "BiblioCraft",
+      "version": "1.5.5"
+    }
+  ]
 }

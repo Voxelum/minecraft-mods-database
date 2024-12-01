@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IZaMGxb0",
+      "versionId": "1kUmQEOY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577411,
+      "fileId": 5340728
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "excavated_variants",
+      "version": "4.2.2"
+    },
+    {
+      "modId": "defaultresources",
+      "version": "3.5.3"
+    }
+  ]
+}

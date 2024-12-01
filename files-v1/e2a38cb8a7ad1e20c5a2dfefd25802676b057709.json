@@ -1,6 +1,12 @@
 {
   "name": "ElecCore-1.12.2-1.9.452.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 227391,
+      "fileId": 2679741
+    }
+  ],
   "forge": [
     {
       "modId": "eleccoreloader",

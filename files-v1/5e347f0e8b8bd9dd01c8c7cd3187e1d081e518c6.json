@@ -1,6 +1,18 @@
 {
   "name": "PickUpNotifier-v4.2.0-1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZX66K16c",
+      "versionId": "Q6BIFIhD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 351441,
+      "fileId": 3945867
+    }
+  ],
   "fabric": [
     {
       "modId": "pickupnotifier",

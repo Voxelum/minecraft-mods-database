@@ -1,6 +1,12 @@
 {
   "name": "warden-with-loot-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T2Z3j2pD",
+      "versionId": "FMEjneTS"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_warden_withloot",

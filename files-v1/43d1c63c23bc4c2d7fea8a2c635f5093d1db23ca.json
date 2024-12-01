@@ -1,6 +1,18 @@
 {
   "name": "endrem_forge-5.2.3-r-1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZJTGwAND",
+      "versionId": "27FhBFfh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404183,
+      "fileId": 4608003
+    }
+  ],
   "forge": [
     {
       "modId": "endrem",

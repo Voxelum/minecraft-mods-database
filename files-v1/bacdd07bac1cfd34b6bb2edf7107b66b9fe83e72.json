@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "itHGiR2v",
+      "versionId": "9zE8mR5m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633449,
+      "fileId": 5676070
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fixed-villager-trades",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.1"
+    }
+  ]
+}

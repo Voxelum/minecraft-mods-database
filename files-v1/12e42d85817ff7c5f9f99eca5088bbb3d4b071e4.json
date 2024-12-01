@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "CustomItemAttributes-FORGE-1.20.X-2.0.0.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "6wP3NByD",
       "versionId": "IB69jb6V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965954,
+      "fileId": 5610928
     }
   ],
   "fabric": [

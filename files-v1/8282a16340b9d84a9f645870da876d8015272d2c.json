@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mocolors",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "3.2.0+1.16.3"
+    }
+  ]
+}

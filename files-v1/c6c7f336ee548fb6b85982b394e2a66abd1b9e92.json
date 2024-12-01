@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "muf0XoRe",
+      "versionId": "hfIaM0WR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391366,
+      "fileId": 3639302
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "3.3.9+1.18.1"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.0.8"
+    }
+  ]
+}

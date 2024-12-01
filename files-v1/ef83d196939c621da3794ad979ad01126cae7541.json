@@ -1,0 +1,22 @@
+{
+  "name": "weather-control-2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BJvwQKb4",
+      "versionId": "V2KDolHa"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_weather_control",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_weather_control",
+      "version": "2"
+    }
+  ]
+}

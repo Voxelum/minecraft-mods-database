@@ -1,6 +1,18 @@
 {
   "name": "expanded-weapon-enchanting-1.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aa4EyFDP",
+      "versionId": "UZrNX0K8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487024,
+      "fileId": 4590290
+    }
+  ],
   "fabric": [
     {
       "modId": "expanded_weapon_enchanting",

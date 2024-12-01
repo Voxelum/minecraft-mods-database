@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hn8Ot3qH",
+      "versionId": "TZAlE8zr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vowcloud",
+      "version": "1.4"
+    },
+    {
+      "modId": "de_maxhenkel_opus4j_opus4j",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    },
+    {
+      "modId": "de_maxhenkel_configbuilder_configbuilder",
+      "version": "2.0.1"
+    }
+  ]
+}

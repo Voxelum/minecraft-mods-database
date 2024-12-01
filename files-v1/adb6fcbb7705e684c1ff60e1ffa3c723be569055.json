@@ -1,0 +1,38 @@
+{
+  "name": "DumplingsDelightRewrapped-1.21-1.2.0+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DqKMBArS",
+      "versionId": "WtzqE7jo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1093375,
+      "fileId": 5796977
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dumplings_delight",
+      "version": "1.21-1.2.0+fabric"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "3.1.0-beta+fdrf.1+1.21"
+    }
+  ]
+}

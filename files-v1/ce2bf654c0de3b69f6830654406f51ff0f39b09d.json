@@ -1,0 +1,22 @@
+{
+  "name": "Configurable-2.2.1-neoforge-yarn+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lGffrQ3O",
+      "versionId": "tvosOlUn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1092048,
+      "fileId": 5848281
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "${mod_id}",
+      "version": "${version}"
+    }
+  ]
+}

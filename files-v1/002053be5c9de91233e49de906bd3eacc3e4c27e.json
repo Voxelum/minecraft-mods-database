@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uvyhfdbG",
+      "versionId": "kId69lK5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modelshifter",
+      "version": "1.1.3_1.21.1"
+    },
+    {
+      "modId": "com_github_games647_craftapi",
+      "version": "0.5.1"
+    }
+  ]
+}

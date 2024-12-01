@@ -1,6 +1,18 @@
 {
   "name": "heartstone-1.18-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NBY6AFje",
+      "versionId": "qlcUei4W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 573152,
+      "fileId": 3624965
+    }
+  ],
   "forge": [
     {
       "modId": "heartstone",

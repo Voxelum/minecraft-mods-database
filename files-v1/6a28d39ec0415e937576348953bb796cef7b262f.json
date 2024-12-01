@@ -1,6 +1,18 @@
 {
   "name": "IGauntlet.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TnnyrDbS",
+      "versionId": "9Og2ibgH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312404,
+      "fileId": 2792298
+    }
+  ],
   "forge": [
     {
       "modId": "igauntlet",

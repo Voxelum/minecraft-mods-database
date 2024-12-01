@@ -1,6 +1,12 @@
 {
   "name": "WorldPreGenerator-1.19.2-3.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 388157,
+      "fileId": 3962555
+    }
+  ],
   "forge": [
     {
       "modId": "world_pre_generator",

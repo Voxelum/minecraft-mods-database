@@ -1,6 +1,18 @@
 {
   "name": "mavm-1.1.0-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zitu8weW",
+      "versionId": "xd0bnr6l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498797,
+      "fileId": 3859108
+    }
+  ],
   "forge": [
     {
       "modId": "mavm",

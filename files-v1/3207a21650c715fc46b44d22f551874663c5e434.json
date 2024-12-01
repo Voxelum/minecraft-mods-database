@@ -1,0 +1,26 @@
+{
+  "name": "antixray-fabric-1.4.6+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sml2FMaA",
+      "versionId": "9Fb0twuI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511697,
+      "fileId": 5634620
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antixray",
+      "version": "1.4.6"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

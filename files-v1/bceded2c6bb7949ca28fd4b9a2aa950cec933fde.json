@@ -1,0 +1,22 @@
+{
+  "name": "content-tweaks-1.1.15.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "contenttweaks",
+      "version": "1.1.15"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.4"
+    }
+  ]
+}

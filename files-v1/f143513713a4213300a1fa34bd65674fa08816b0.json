@@ -1,0 +1,16 @@
+{
+  "name": "pamhc2foodcore-1.16.1-1.0.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 372534,
+      "fileId": 3048476
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pamhc2foodcore",
+      "version": "${version}"
+    }
+  ]
+}

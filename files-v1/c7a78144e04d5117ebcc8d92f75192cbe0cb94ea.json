@@ -1,6 +1,12 @@
 {
   "name": "sapience-1.18.2-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 426097,
+      "fileId": 4503097
+    }
+  ],
   "forge": [
     {
       "modId": "sapience",

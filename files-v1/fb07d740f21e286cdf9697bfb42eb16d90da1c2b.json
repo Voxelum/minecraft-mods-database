@@ -1,6 +1,18 @@
 {
   "name": "YouDied-1.19.3-2.2.0.15-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QgxY6tZf",
+      "versionId": "t3JKLBVU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 582464,
+      "fileId": 4547952
+    }
+  ],
   "forge": [
     {
       "modId": "you_died",

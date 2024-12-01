@@ -1,6 +1,18 @@
 {
   "name": "letsdo-bakery-fabric-1.1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WFwYiVoG",
+      "versionId": "cyJS0dJI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886559,
+      "fileId": 5340513
+    }
+  ],
   "fabric": [
     {
       "modId": "bakery",

@@ -1,6 +1,18 @@
 {
   "name": "Etcetera-1.20.1-1.1.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TaRVOwJr",
+      "versionId": "42Dm5geR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891054,
+      "fileId": 4659102
+    }
+  ],
   "fabric": [
     {
       "modId": "etcetera",

@@ -1,6 +1,12 @@
 {
   "name": "filtpick-fabric-mc1.20.1-1.2.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SgWttYEe",
+      "versionId": "TwuydK6Z"
+    }
+  ],
   "fabric": [
     {
       "modId": "filtpick",

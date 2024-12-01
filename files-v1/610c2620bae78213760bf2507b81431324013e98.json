@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HCbarMw6",
+      "versionId": "vRKLUXbH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 760725,
+      "fileId": 5785620
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "litematica-server-paster",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "fanetlib",
+      "version": "0.1.10"
+    }
+  ]
+}

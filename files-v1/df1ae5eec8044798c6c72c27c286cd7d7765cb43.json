@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cj8jrU7n",
+      "versionId": "PbUO0bQO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemounts",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

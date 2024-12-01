@@ -1,6 +1,12 @@
 {
   "name": "flashLight-2.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 451109,
+      "fileId": 3962953
+    }
+  ],
   "forge": [
     {
       "modId": "flashlight",

@@ -1,6 +1,18 @@
 {
   "name": "HeardMentality-Forge-1.18.2-7.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zOBrENMH",
+      "versionId": "lohfV5hi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377572,
+      "fileId": 4426719
+    }
+  ],
   "forge": [
     {
       "modId": "herdmentality",

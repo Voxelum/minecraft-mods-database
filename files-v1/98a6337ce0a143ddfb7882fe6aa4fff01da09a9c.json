@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fNM5n4ac",
+      "versionId": "nO19XmQz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1131669,
+      "fileId": 5907263
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dragnlivestock",
+      "version": "${1.18.2-1.3}"
+    }
+  ]
+}

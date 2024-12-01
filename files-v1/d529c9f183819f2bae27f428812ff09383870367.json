@@ -1,0 +1,28 @@
+{
+  "name": "accessories-fabric-1.0.0-beta.22+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 938917,
+      "fileId": 5570407
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "accessories",
+      "version": "1.0.0-beta.22+1.20.1"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.7"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.4"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.3"
+    }
+  ]
+}

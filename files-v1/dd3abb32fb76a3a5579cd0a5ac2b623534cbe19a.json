@@ -1,6 +1,18 @@
 {
   "name": "TextAnimator-1.20.1-fabric-2.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HBIG5nRf",
+      "versionId": "H7hCIDIa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881778,
+      "fileId": 5375339
+    }
+  ],
   "fabric": [
     {
       "modId": "textanimator",

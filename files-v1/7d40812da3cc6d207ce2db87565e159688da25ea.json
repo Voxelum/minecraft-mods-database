@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WKwQAwke",
+      "versionId": "INsCbBKZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482600,
+      "fileId": 4706092
+    }
+  ],
   "fabric": [
     {
       "modId": "libjf",

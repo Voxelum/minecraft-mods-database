@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zSJW5sNv",
+      "versionId": "SOwX90tl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 985388,
+      "fileId": 5663296
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cosmos",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cosmos",
+      "version": "1.0.0"
+    }
+  ]
+}

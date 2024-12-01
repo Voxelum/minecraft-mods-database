@@ -1,6 +1,18 @@
 {
   "name": "FauxCustomEntityData-fabric-1.18.2-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E7ZFR7qk",
+      "versionId": "VQExNmoP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 575305,
+      "fileId": 3835810
+    }
+  ],
   "fabric": [
     {
       "modId": "faux-custom-entity-data",

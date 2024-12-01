@@ -1,6 +1,18 @@
 {
   "name": "chaosawakens-1.16.5-0.12.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "frSNDQkA",
+      "versionId": "geCoBkvH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 475414,
+      "fileId": 5593351
+    }
+  ],
   "forge": [
     {
       "modId": "chaosawakens",

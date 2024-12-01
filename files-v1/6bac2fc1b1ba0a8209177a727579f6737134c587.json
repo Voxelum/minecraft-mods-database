@@ -1,6 +1,18 @@
 {
   "name": "SharinganAddon v1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xgqlV2a1",
+      "versionId": "WMykNQF1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 980306,
+      "fileId": 5167578
+    }
+  ],
   "forge": [
     {
       "modId": "sharinganaddon",

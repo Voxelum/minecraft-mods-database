@@ -1,6 +1,18 @@
 {
   "name": "CodeChickenCore-1.6.4-0.9.0.9-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtposSQj",
+      "versionId": "bgudnVpL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 222213,
+      "fileId": 2207571
+    }
+  ],
   "forge": [
     {
       "modId": "CodeChickenCore",

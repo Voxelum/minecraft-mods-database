@@ -1,6 +1,18 @@
 {
   "name": "[Alex's Mobs Music] Mod 1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ynxotL0Y",
+      "versionId": "wRvPXTkW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 500532,
+      "fileId": 5220233
+    }
+  ],
   "forge": [
     {
       "modId": "peepomod",

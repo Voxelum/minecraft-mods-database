@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "panda-temple-V1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z0qJSbtP",
+      "versionId": "gWekfLjC"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_panda_temple",

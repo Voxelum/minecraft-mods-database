@@ -1,0 +1,22 @@
+{
+  "name": "FlowerBreeding-Fabric-Neo-Forge-Quilt-1.20.x.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 850779,
+      "fileId": 4947945
+    }
+  ],
+  "forge": [
+    {
+      "modId": "acmc",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "acmc",
+      "version": "1.2.0"
+    }
+  ]
+}

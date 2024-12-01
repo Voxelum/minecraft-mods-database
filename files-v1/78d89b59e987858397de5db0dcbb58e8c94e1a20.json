@@ -1,6 +1,18 @@
 {
   "name": "blast-1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hrVBD9fd",
+      "versionId": "tifNCUFN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349938,
+      "fileId": 3838824
+    }
+  ],
   "fabric": [
     {
       "modId": "blast",

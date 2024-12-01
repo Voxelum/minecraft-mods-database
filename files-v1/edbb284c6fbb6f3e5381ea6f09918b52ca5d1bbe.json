@@ -1,6 +1,18 @@
 {
   "name": "dragondropselytra-1.18.2-3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DPkbo3dg",
+      "versionId": "lRuCMVg6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 302422,
+      "fileId": 4327777
+    }
+  ],
   "forge": [
     {
       "modId": "dragondropselytra",

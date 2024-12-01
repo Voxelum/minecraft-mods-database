@@ -1,6 +1,18 @@
 {
   "name": "ic2cuumatter-1.12.2-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FOVCOVzb",
+      "versionId": "UEJOg6zD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827219,
+      "fileId": 4491020
+    }
+  ],
   "forge": [
     {
       "modId": "ic2cuumatter",

@@ -1,6 +1,18 @@
 {
   "name": "modernfix.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nmDcB62a",
+      "versionId": "XDyibw2U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 4714461
+    }
+  ],
   "fabric": [
     {
       "modId": "modernfix",

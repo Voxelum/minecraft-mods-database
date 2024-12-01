@@ -1,0 +1,20 @@
+{
+  "name": "monkeylib538-2.0.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gYap5A8T",
+      "versionId": "GVPrw18r"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "monkeylib538",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "monkeylib538-common",
+      "version": "2.0.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oOi0CKes",
+      "versionId": "mwIl45jn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891328,
+      "fileId": 5918169
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diagonalwindows",
+      "version": "8.1.5"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "8.0.6"
+    }
+  ]
+}

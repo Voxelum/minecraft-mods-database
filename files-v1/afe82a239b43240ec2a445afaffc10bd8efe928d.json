@@ -1,0 +1,22 @@
+{
+  "name": "recipetweaks-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yfCkCdhj",
+      "versionId": "75CvnlAl"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_recipetweaks",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_recipetweaks",
+      "version": "1.1"
+    }
+  ]
+}

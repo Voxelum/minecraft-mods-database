@@ -1,0 +1,26 @@
+{
+  "name": "tenseambience-1.18.2-1.21.1-FABRIC-1.7.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9qIVVBj8",
+      "versionId": "hjRzjTDo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1071762,
+      "fileId": 5816869
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tenseambience",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "com_github_umjammer_jlayer",
+      "version": "1.0.2"
+    }
+  ]
+}

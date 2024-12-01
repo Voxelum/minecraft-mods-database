@@ -1,6 +1,18 @@
 {
   "name": "creatingspace-1.19.2-1.7.0c-hf.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VQksBiY",
+      "versionId": "KMC0cdhM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858897,
+      "fileId": 5174802
+    }
+  ],
   "forge": [
     {
       "modId": "creatingspace",

@@ -1,6 +1,18 @@
 {
   "name": "SneakyCurses-v8.0.2-1.20.1-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TivKCwTx",
+      "versionId": "MuAWBqPq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 322733,
+      "fileId": 4872493
+    }
+  ],
   "fabric": [
     {
       "modId": "sneakycurses",

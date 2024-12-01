@@ -1,6 +1,18 @@
 {
   "name": "allomancy-2.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mTS4CGDB",
+      "versionId": "BrOVD9Ta"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256282,
+      "fileId": 2559701
+    }
+  ],
   "forge": [
     {
       "modId": "allomancy",

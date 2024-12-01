@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xnfo5zEj",
+      "versionId": "hyT82QTr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kelui",
+      "version": "2.0.0-dev_build.4.1"
+    },
+    {
+      "modId": "meteordevelopment_starscript",
+      "version": "0.2.2"
+    }
+  ]
+}

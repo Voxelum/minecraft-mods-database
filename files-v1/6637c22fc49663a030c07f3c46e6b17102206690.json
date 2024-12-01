@@ -1,6 +1,18 @@
 {
   "name": "FactoryAPI-1.20.1-2.1.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nkTZHOLD",
+      "versionId": "Z9jBmGZS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704136,
+      "fileId": 5168344
+    }
+  ],
   "fabric": [
     {
       "modId": "factory_api",

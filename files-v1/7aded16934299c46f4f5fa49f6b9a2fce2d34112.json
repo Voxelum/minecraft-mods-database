@@ -1,6 +1,18 @@
 {
   "name": "ProjectExpansion-1.20.1-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a7yNQPzW",
+      "versionId": "KDgDJCJO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 579177,
+      "fileId": 5232445
+    }
+  ],
   "forge": [
     {
       "modId": "projectexpansion",
