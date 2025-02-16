@@ -1,0 +1,26 @@
+{
+  "name": "Linkart-5.4.5-1.20.6-build.29.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc4Mu9Zu",
+      "versionId": "KkB5NDDW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622736,
+      "fileId": 5458644
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "linkart",
+      "version": "5.4.5-1.20.6-build.29"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "4.0.0-1.20.1-build.481"
+    }
+  ]
+}

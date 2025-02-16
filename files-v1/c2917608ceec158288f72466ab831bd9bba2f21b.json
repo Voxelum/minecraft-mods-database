@@ -1,6 +1,18 @@
 {
   "name": "holograms-1.5.2+1.20-legacy-edition.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dl7wmhr3",
+      "versionId": "kmGRyicl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 494722,
+      "fileId": 4581837
+    }
+  ],
   "fabric": [
     {
       "modId": "holograms",

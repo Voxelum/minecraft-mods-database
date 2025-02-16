@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZS3lIxKu",
+      "versionId": "sLbfB1Q6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1003675,
+      "fileId": 5379644
+    }
+  ],
   "forge": [
     {
       "modId": "mr_developer_resources",

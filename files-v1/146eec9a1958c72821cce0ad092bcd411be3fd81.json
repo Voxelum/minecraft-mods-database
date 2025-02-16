@@ -1,6 +1,18 @@
 {
   "name": "JustEnoughResources-Fabric-1.19.2-1.2.2.200.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uEfK2CXF",
+      "versionId": "YpCqI9J2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 240630,
+      "fileId": 4440345
+    }
+  ],
   "fabric": [
     {
       "modId": "jeresources",

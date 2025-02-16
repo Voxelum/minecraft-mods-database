@@ -1,6 +1,18 @@
 {
   "name": "1.16.5Nonexistent4.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fCTJbUVi",
+      "versionId": "CmkvXoQ5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344306,
+      "fileId": 5001497
+    }
+  ],
   "forge": [
     {
       "modId": "nonexistentplus",

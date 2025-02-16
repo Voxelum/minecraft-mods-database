@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dU5Gb9Ab",
+      "versionId": "aE2Xhw2B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303451,
+      "fileId": 5640804
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynntils",
+      "version": "2.0.8"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.0+56599129d1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    }
+  ]
+}

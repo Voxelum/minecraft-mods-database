@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "Controlling-fabric-1.17.1-8.0.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "yhUO28QC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250398,
+      "fileId": 4351208
+    }
+  ],
   "fabric": [
     {
       "modId": "controlling",

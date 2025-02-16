@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iP3wH1ha",
+      "versionId": "D1oZt8cz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1119394,
+      "fileId": 5802482
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwstairs",

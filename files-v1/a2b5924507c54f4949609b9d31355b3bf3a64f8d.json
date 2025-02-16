@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 509479,
+      "fileId": 4391895
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrathunder",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "seedfix",
+      "version": "1.0.2"
+    }
+  ]
+}

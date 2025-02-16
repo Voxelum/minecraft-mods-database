@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VafD51Dc",
+      "versionId": "kCS8N6zo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 900242,
+      "fileId": 5788435
+    }
+  ],
   "fabric": [
     {
       "modId": "usefulfood",

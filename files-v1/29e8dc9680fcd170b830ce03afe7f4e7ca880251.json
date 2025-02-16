@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 309275,
+      "fileId": 3488811
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabric-language-scala",
+      "version": "2.0.0+scala.3.0.2"
+    },
+    {
+      "modId": "org_scala-lang_scala3-library_3",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "org_scala-lang_scala-library",
+      "version": "2.13.6"
+    }
+  ]
+}

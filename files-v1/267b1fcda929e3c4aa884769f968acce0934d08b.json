@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pY6oEMg",
+      "versionId": "ZtTC7vnk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891325,
+      "fileId": 5233095
+    }
+  ],
   "fabric": [
     {
       "modId": "metalbundles",

@@ -1,0 +1,22 @@
+{
+  "name": "light-overlay-5.8.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 325492,
+      "fileId": 3207256
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lightoverlay",
+      "version": "5.8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lightoverlay",
+      "version": "5.8.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "epiccompat_parcool-forge-1.18.2-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2hNqxmi2",
+      "versionId": "7D2VCv5n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974309,
+      "fileId": 5282397
+    }
+  ],
   "forge": [
     {
       "modId": "epiccompat_parcool",

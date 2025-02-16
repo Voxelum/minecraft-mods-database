@@ -1,6 +1,18 @@
 {
   "name": "rewardz-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8bUt1WVk",
+      "versionId": "B4VUHxlA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 908906,
+      "fileId": 4834512
+    }
+  ],
   "fabric": [
     {
       "modId": "rewardz",

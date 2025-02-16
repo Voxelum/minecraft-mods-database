@@ -1,0 +1,20 @@
+{
+  "name": "blockus-2.6.3+1.19.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 312289,
+      "fileId": 4411968
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockus",
+      "version": "2.6.3+1.19.3"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "5.0.0"
+    }
+  ]
+}

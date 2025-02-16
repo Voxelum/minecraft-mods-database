@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "cwb-forge-3.0.0+mc1.21.3.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "ETlrkaYF",
       "versionId": "ZvZWPPM0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975120,
+      "fileId": 5855572
     }
   ],
   "forge": [

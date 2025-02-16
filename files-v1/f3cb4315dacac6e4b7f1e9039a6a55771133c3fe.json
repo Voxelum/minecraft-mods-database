@@ -1,0 +1,68 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2FJutzEL",
+      "versionId": "9KLOnNlG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oreganized",
+      "version": "2.0.3-fabric"
+    },
+    {
+      "modId": "custom_armor_models",
+      "version": "1.2d+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_client_events",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_data",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_level_events",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_builders",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    }
+  ]
+}

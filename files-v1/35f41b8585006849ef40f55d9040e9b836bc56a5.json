@@ -1,6 +1,18 @@
 {
   "name": "create_so-1.5+forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "23nOkgI0",
+      "versionId": "zYRF2YQ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901289,
+      "fileId": 4693057
+    }
+  ],
   "forge": [
     {
       "modId": "create_so",

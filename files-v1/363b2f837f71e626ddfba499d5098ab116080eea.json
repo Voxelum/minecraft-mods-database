@@ -1,0 +1,38 @@
+{
+  "name": "cc-restitched-1.102.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eldBwa5V",
+      "versionId": "XZ4nB6es"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 462672,
+      "fileId": 4153752
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "computercraft",
+      "version": "1.102.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.77.Final"
+    },
+    {
+      "modId": "org_squiddev_cobalt",
+      "version": "0.5.5"
+    }
+  ]
+}

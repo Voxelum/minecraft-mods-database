@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OClpEDe3",
+      "versionId": "cKn2SRkT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagerconfig",
+      "version": "4.0.1+1.19.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.21+70be179c85"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.1+3fc4752e85"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.10+23a79c8a85"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.5+a91e48b785"
+    },
+    {
+      "modId": "fabric-transitive-access-wideners-v1",
+      "version": "2.3.1+40dc7a9485"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.1"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

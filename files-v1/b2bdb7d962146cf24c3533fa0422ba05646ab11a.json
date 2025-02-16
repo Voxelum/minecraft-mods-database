@@ -1,6 +1,18 @@
 {
   "name": "DarkUtilities-1.14.4-2.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CkqTAIaP",
+      "versionId": "85J2KZPn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242195,
+      "fileId": 2842269
+    }
+  ],
   "forge": [
     {
       "modId": "darkutils",

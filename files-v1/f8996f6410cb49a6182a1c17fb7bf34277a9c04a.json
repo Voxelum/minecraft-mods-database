@@ -1,6 +1,12 @@
 {
   "name": "fixRtm-2.0.28.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 365235,
+      "fileId": 4654155
+    }
+  ],
   "forge": [
     {
       "modId": "JarInJarLoaderCoreMod",

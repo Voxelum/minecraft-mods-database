@@ -1,6 +1,18 @@
 {
   "name": "RS_CraftingMonitorInGrid-1.19.2-3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JOA9kmlg",
+      "versionId": "9g5Bqtjy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 865533,
+      "fileId": 4550683
+    }
+  ],
   "forge": [
     {
       "modId": "rs_cmig",

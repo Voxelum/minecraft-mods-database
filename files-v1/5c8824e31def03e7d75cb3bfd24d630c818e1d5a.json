@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1OTbF7Uq",
+      "versionId": "yNCFL6yQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945609,
+      "fileId": 5941407
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "additionalsmallstairs",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

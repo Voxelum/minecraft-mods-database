@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "odyssey-lite",
+      "version": "4.1.1+1.21.2"
+    },
+    {
+      "modId": "alternate-hudrendercallback",
+      "version": "2.0.0"
+    }
+  ]
+}

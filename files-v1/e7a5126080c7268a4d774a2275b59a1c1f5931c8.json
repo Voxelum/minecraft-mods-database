@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bHJp2GRg",
+      "versionId": "S5cjv083"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857971,
+      "fileId": 5627775
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherchested",
+      "version": "21.0.0"
+    },
+    {
+      "modId": "limitlesscontainers",
+      "version": "21.0.0"
+    }
+  ]
+}

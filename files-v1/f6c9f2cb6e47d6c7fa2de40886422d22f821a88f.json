@@ -1,0 +1,20 @@
+{
+  "name": "eden-ring-20.4.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 972090,
+      "fileId": 5536375
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "edenring",
+      "version": "20.4.20"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

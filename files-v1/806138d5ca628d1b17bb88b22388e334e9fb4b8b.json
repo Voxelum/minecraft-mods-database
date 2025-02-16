@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bettercrawling",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercrawling",
+      "version": "1.0.101"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

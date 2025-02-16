@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pLu6875x",
+      "versionId": "JBYxqsDp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 834892,
+      "fileId": 4848451
+    }
+  ],
+  "forge": [
+    {
+      "modId": "saros_create_addon_forge",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "saros_create_addon_fabric",
+      "version": "1.0.0"
+    }
+  ]
+}

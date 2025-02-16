@@ -1,6 +1,18 @@
 {
   "name": "wwta-1.18-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8IRT4egS",
+      "versionId": "5EVLI16P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397184,
+      "fileId": 3543419
+    }
+  ],
   "forge": [
     {
       "modId": "wwta",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0-beta.2"
+    }
+  ]
+}

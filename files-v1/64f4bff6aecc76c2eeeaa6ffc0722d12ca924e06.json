@@ -1,6 +1,12 @@
 {
   "name": "paintbrush-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v8WesXLL",
+      "versionId": "5oUvDt11"
+    }
+  ],
   "fabric": [
     {
       "modId": "paintbrush",

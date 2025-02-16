@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4wDQsby8",
+      "versionId": "3X7EDIr7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 945133,
+      "fileId": 5972224
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "provihealth",
+      "version": "2.1.3+1.21.4"
+    },
+    {
+      "modId": "lilylib",
+      "version": "3.0.0+1.21.4"
+    }
+  ]
+}

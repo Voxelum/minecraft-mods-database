@@ -1,6 +1,18 @@
 {
   "name": "letsdo-addon-compat-fabric-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FNi5IMiX",
+      "versionId": "O1sTezmx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 992333,
+      "fileId": 5228370
+    }
+  ],
   "fabric": [
     {
       "modId": "letsdoaddon-compat",

@@ -1,0 +1,20 @@
+{
+  "name": "bloomysettingsimport-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jQicXDdm",
+      "versionId": "A4MhNqmB"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bloomysettingsimport",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.1.1+1.20.1"
+    }
+  ]
+}

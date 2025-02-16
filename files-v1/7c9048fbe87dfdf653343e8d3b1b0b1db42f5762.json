@@ -1,6 +1,18 @@
 {
   "name": "macos-input-fixes-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x9BrsVME",
+      "versionId": "JMQcAP5p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678691,
+      "fileId": 4398272
+    }
+  ],
   "fabric": [
     {
       "modId": "macos_input_fixes",

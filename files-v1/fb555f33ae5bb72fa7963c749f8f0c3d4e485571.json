@@ -1,6 +1,18 @@
 {
   "name": "TMechworks-1.14.4-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fzl1Nrfy",
+      "versionId": "Wq0o6ARv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 78057,
+      "fileId": 2818567
+    }
+  ],
   "forge": [
     {
       "modId": "tmechworks",

@@ -1,6 +1,18 @@
 {
   "name": "breakprogress-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RfPERAmo",
+      "versionId": "c2iKy8hq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416406,
+      "fileId": 3133167
+    }
+  ],
   "fabric": [
     {
       "modId": "breakprogress",

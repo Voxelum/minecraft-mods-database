@@ -1,0 +1,30 @@
+{
+  "name": "kits-1.5.0-mc1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yeVTVdYd",
+      "versionId": "nohiZoDQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 507127,
+      "fileId": 4358674
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kits",
+      "version": "1.5.0-mc1.19.3"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.1+1.19.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

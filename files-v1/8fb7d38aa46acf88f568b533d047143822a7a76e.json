@@ -1,6 +1,18 @@
 {
   "name": "mcjtylib-1.14-3.5.17-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1Zu0uTEE",
+      "versionId": "2iK42q23"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233105,
+      "fileId": 2843740
+    }
+  ],
   "forge": [
     {
       "modId": "mcjtylib",

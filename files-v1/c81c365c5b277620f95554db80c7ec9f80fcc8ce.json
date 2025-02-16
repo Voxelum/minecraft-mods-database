@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PvssKrgi",
+      "versionId": "XVO7oJpC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 926511,
+      "fileId": 5492060
+    }
+  ],
   "fabric": [
     {
       "modId": "thaumon",

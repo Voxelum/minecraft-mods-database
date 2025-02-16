@@ -1,6 +1,18 @@
 {
   "name": "ironshulkerboxes-1.19.4-5.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fxaE37Sf",
+      "versionId": "m8yPBFBh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 314911,
+      "fileId": 4596096
+    }
+  ],
   "forge": [
     {
       "modId": "ironshulkerbox",

@@ -1,6 +1,12 @@
 {
   "name": "Book Fishing 1.0.0 - 1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 511858,
+      "fileId": 3722448
+    }
+  ],
   "forge": [
     {
       "modId": "book_fishing",

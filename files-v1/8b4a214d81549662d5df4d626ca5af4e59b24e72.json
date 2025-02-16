@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "449MGcoI",
+      "versionId": "mk4CtTr5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carrot-scythe",
+      "version": "1.1.2+1.20.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

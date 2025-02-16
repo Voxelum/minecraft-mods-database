@@ -1,6 +1,18 @@
 {
   "name": "Gothic_RPG_1.0.0_Forge_1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q1UbI8cX",
+      "versionId": "KklVKKOl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 862549,
+      "fileId": 4539590
+    }
+  ],
   "forge": [
     {
       "modId": "gothic",

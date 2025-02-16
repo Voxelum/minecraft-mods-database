@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Re68IQWW",
+      "versionId": "wsYXGI6X"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deadsimplebags",
+      "version": "v1.1.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.11+1.21.1"
+    }
+  ]
+}

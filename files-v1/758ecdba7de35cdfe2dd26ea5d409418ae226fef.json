@@ -1,6 +1,12 @@
 {
   "name": "fasterrandom-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RfFxanNh",
+      "versionId": "y18jeQaR"
+    }
+  ],
   "fabric": [
     {
       "modId": "fastrandom",

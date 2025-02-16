@@ -1,6 +1,12 @@
 {
   "name": "car-traffic-generator-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sttRLTaT",
+      "versionId": "LUyGZTQP"
+    }
+  ],
   "forge": [
     {
       "modId": "car_trafficgenerator_mr",

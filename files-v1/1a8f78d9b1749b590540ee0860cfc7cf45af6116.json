@@ -1,6 +1,12 @@
 {
   "name": "somnia-1.12.2-1.11-beta.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 400796,
+      "fileId": 3281615
+    }
+  ],
   "forge": [
     {
       "modId": "somnia",

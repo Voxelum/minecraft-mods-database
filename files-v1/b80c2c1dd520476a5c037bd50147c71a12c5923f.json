@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sfEDKnlo",
+      "versionId": "F6RpZYYV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 336018,
+      "fileId": 3887924
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "multiconnect",
+      "version": "1.6-beta.20"
+    },
+    {
+      "modId": "multiconnect-api",
+      "version": "1.6-beta.20"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.5+a6d2f785a9"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "caupona-1.19.4-0.4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EFoYZIZL",
+      "versionId": "dMBwSOdh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656147,
+      "fileId": 4644225
+    }
+  ],
   "forge": [
     {
       "modId": "caupona",

@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wxKGvopS",
+      "versionId": "9oG3Yly4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581435,
+      "fileId": 4528614
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgero",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-core",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-fabric-core",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-common",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-fabric-compat",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-vanilla",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-extended",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-compat",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "forgero-structures",
+      "version": "0.10.9-rc1+1.18.2"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.7"
+    }
+  ]
+}

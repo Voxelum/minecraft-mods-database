@@ -1,6 +1,12 @@
 {
   "name": "ultris-5.6.7g.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tA7mQv7R",
+      "versionId": "WjNWO6NS"
+    }
+  ],
   "forge": [
     {
       "modId": "ultris_mr",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lQqKCDhg",
+      "versionId": "5qh0jImU"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "jsblock",
+      "version": "2.0.0-beta.5+1.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jsblock",
+      "version": "2.0.0-beta.5+1.19.2"
+    }
+  ]
+}

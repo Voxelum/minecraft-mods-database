@@ -1,6 +1,18 @@
 {
   "name": "more-geodes-1.6.4+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oGmBThKh",
+      "versionId": "xjRclHZn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 437712,
+      "fileId": 4366069
+    }
+  ],
   "fabric": [
     {
       "modId": "geodes",

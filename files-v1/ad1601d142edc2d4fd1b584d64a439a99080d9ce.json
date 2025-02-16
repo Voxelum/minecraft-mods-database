@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DRzJPZ5e",
+      "versionId": "D3F904OQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 966385,
+      "fileId": 5057535
+    }
+  ],
   "fabric": [
     {
       "modId": "encaspects",

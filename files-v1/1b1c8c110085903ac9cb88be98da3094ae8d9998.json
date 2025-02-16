@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ITxRECBA",
+      "versionId": "YqY7xWDY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007432,
+      "fileId": 5282275
+    }
+  ],
   "fabric": [
     {
       "modId": "rei-enchantment-info",

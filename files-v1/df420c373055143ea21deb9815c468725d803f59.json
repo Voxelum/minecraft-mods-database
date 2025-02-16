@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EdBSdqge",
+      "versionId": "adlolCft"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 822372,
+      "fileId": 5884901
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spyglass_astronomy",
+      "version": "1.0.15-mc1.21.2+"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "giantspawn-1.19.2-5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWwn7s9U",
+      "versionId": "tNoZRemN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347921,
+      "fileId": 4976370
+    }
+  ],
   "forge": [
     {
       "modId": "giantspawn",

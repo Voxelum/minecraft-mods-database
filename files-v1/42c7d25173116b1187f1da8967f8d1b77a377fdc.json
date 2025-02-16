@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "petfriends",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-lang3",
+      "version": "3.12.0"
+    }
+  ]
+}

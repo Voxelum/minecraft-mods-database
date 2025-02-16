@@ -1,6 +1,12 @@
 {
   "name": "modid-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DLgVcBVW",
+      "versionId": "td5jdjUk"
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantment",

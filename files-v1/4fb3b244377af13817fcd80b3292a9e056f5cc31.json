@@ -1,6 +1,12 @@
 {
   "name": "oculus-mc1.19.2-1.2.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GchcoXML",
+      "versionId": "A6aEs4bJ"
+    }
+  ],
   "forge": [
     {
       "modId": "oculus",

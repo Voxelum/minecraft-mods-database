@@ -1,6 +1,18 @@
 {
   "name": "RoughlyEnoughItems-14.1.714-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nfn13YXA",
+      "versionId": "rcWy5Yek"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310111,
+      "fileId": 5268053
+    }
+  ],
   "fabric": [
     {
       "modId": "roughlyenoughitems",

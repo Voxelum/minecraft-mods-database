@@ -1,6 +1,12 @@
 {
   "name": "MTR-Russian-Metro-Addon-fabric-1.19.4-3.2.2-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TiXnKmME",
+      "versionId": "lcXCsNM2"
+    }
+  ],
   "fabric": [
     {
       "modId": "russianmetro",

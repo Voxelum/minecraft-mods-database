@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VzNdDnci",
+      "versionId": "dnAwwtHa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 825512,
+      "fileId": 4969818
+    }
+  ],
   "fabric": [
     {
       "modId": "stacked_trims",

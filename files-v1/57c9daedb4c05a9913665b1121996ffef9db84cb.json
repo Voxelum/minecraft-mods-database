@@ -1,6 +1,18 @@
 {
   "name": "AutoRegLib-1.4-35.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NvZ9ZhwE",
+      "versionId": "ptPKTPct"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250363,
+      "fileId": 2821794
+    }
+  ],
   "forge": [
     {
       "modId": "arl",

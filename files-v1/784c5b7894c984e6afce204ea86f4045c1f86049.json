@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CgGEe1h3",
+      "versionId": "bevt6C10"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 559312,
       "fileId": 5917942
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easy_npc",
+      "version": "5.7.6"
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
   "name": "IronJetpacks-1.14.4-2.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DWIEOniQ",
+      "versionId": "Yh2Wa9Lu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 284497,
+      "fileId": 2819308
+    }
+  ],
   "forge": [
     {
       "modId": "ironjetpacks",

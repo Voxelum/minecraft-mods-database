@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "updaterx-loader",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cars",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "emotecraft",
+      "version": "2.4.0-a.3e9ef8ad"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.97.1+1.20.4"
+    },
+    {
+      "modId": "plasmovoice",
+      "version": "2.0.9"
+    },
+    {
+      "modId": "rpmclient",
+      "version": "2.5.3"
+    }
+  ]
+}

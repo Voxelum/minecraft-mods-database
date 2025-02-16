@@ -1,0 +1,20 @@
+{
+  "name": "StrawStatues-v21.0.0-1.21-Fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 682564,
+      "fileId": 5524230
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "strawstatues",
+      "version": "21.0.0"
+    },
+    {
+      "modId": "statuemenus",
+      "version": "21.0.0"
+    }
+  ]
+}

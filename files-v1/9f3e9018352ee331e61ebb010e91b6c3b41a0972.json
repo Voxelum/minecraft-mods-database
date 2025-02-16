@@ -1,6 +1,12 @@
 {
   "name": "raknetify-fabric-0.1.0+alpha.5.128-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5IovSY3u",
+      "versionId": "gchRoKmg"
+    }
+  ],
   "fabric": [
     {
       "modId": "raknetify",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IkQufrWh",
+      "versionId": "afawrbv1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958083,
+      "fileId": 5905412
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "playeranimatorapi",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "zigysmultiloaderutils",
+      "version": "1.3.0"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JUl6WIK2",
+      "versionId": "JtmvwVI0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterhud",
+      "version": "1.9.2.DEV-312"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "net_kyori_adventure-platform-mod-shared-fabric-repack",
+      "version": "6.1.0"
+    }
+  ]
+}

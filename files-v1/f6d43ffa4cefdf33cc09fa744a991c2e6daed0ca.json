@@ -1,0 +1,28 @@
+{
+  "name": "fishontheline-1.21.4-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R6PYx1PW",
+      "versionId": "Mt7U4H5S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 450603,
+      "fileId": 5967634
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fishontheline",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fishontheline",
+      "version": "3.4"
+    }
+  ]
+}

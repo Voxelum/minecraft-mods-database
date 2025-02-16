@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NWvsqJ2Z",
+      "versionId": "aPfhgcl3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391701,
+      "fileId": 5460258
+    }
+  ],
   "forge": [
     {
       "modId": "areas",

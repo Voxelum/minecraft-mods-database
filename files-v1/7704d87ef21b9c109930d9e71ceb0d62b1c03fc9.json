@@ -1,0 +1,96 @@
+{
+  "name": "create-fabric-0.5.1-i-build.1608+mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xbc0uyRg",
+      "versionId": "cVnXjt7x"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 624165,
+      "fileId": 5958509
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create-fabric-0.5.1-i-build.1608+mc1.19.2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create",
+      "version": "0.5.1-i-build.1608+mc1.19.2"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "flywheel",
+      "version": "0.6.11-9"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.1.58-MC1.19.2"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "milk",
+      "version": "1.0.51"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    },
+    {
+      "modId": "porting_lib_fake_players",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.1.1453+1.19.2"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "3.0"
+    }
+  ]
+}

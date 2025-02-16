@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OClpEDe3",
+      "versionId": "RduCvcfn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400741,
+      "fileId": 5959539
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagerconfig",
+      "version": "4.3.1+1.21.4"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.5"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

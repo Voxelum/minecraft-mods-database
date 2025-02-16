@@ -1,0 +1,46 @@
+{
+  "name": "modmenu-12.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "4xPSbh0l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 5960778
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "12.0.0"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.4.0+4402f4ee40"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4340"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.33+c47b9d4340"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.49+d21566ae40"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.6+e82f21f740"
+    }
+  ]
+}

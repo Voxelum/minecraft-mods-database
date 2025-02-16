@@ -1,6 +1,18 @@
 {
   "name": "universal_shops-1.5.0+1.20.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cnIatHrN",
+      "versionId": "1iw0f7sf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 705362,
+      "fileId": 4928629
+    }
+  ],
   "fabric": [
     {
       "modId": "universal_shops",

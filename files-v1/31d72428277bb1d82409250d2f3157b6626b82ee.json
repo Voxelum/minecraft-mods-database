@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "servercore-fabric-1.5.8+1.21.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WWQxlQP",
+      "versionId": "PgKTFLEL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550579,
+      "fileId": 5929268
+    }
+  ],
   "fabric": [
     {
       "modId": "servercore",

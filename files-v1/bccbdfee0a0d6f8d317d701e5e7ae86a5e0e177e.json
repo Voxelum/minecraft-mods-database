@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ggc20boo",
+      "versionId": "Ag9HmPGI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960481,
+      "fileId": 5022460
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jime",
+      "version": "1.0.0+1.20-1.20.4"
+    },
+    {
+      "modId": "suggestions-api",
+      "version": "1.0.3+1.20.x"
+    }
+  ]
+}

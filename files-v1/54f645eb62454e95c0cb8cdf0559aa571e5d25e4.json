@@ -1,0 +1,16 @@
+{
+  "name": "BlockWhitelist-1.0.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 271511,
+      "fileId": 2447364
+    }
+  ],
+  "forge": [
+    {
+      "modId": "blockwhitelist",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "ecotones-0.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5uBYDjU",
+      "versionId": "8ycxvZVY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356678,
+      "fileId": 4462890
+    }
+  ],
   "fabric": [
     {
       "modId": "ecotones",

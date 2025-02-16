@@ -1,6 +1,12 @@
 {
   "name": "fabrication-3.3.5+1.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 414445,
+      "fileId": 4662563
+    }
+  ],
   "fabric": [
     {
       "modId": "fabrication",

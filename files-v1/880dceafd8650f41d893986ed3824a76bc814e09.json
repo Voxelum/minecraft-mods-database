@@ -1,0 +1,10 @@
+{
+  "name": "ctjs-0.18.4-SNAPSHOT-1.8.9.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ct.js",
+      "version": "@MOD_VERSION@"
+    }
+  ]
+}

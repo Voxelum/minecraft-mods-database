@@ -1,0 +1,28 @@
+{
+  "name": "hoetweaks-1.21.4-3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9vlChzlU",
+      "versionId": "6ZdIVQYS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523830,
+      "fileId": 5967598
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hoetweaks",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hoetweaks",
+      "version": "3.5"
+    }
+  ]
+}

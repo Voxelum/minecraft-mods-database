@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sgQirvDi",
+      "versionId": "hz6lftzL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 725821,
+      "fileId": 5640643
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "swplanets",
+      "version": "2.4.2"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    }
+  ]
+}

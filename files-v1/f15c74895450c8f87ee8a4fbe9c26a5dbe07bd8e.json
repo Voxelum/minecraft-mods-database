@@ -1,0 +1,28 @@
+{
+  "name": "moveboats-1.21.0-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7qPEjpyt",
+      "versionId": "ASXNXgnZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344801,
+      "fileId": 5572241
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moveboats",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moveboats",
+      "version": "3.4"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "giantspawn-1.21.4-5.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWwn7s9U",
+      "versionId": "YMbsXdSz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347921,
+      "fileId": 5967623
+    }
+  ],
+  "forge": [
+    {
+      "modId": "giantspawn",
+      "version": "5.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "giantspawn",
+      "version": "5.2"
+    }
+  ]
+}

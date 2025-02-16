@@ -1,6 +1,12 @@
 {
   "name": "MinecraftMod 1_16_4 Catch Enty Ball.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 423502,
+      "fileId": 3126423
+    }
+  ],
   "forge": [
     {
       "modId": "bkcatchentityball",

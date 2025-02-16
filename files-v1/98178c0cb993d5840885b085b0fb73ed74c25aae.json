@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PXaH6GuW",
+      "versionId": "F9BVm2GC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118755,
+      "fileId": 5803170
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_mobs",
+      "version": "2.1.1+1.20.1"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.12+1.20.1"
+    }
+  ]
+}

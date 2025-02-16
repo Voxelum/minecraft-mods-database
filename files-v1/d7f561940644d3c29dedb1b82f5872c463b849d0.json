@@ -1,0 +1,20 @@
+{
+  "name": "Patchouli-1.19.4-79.1-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "qXopWA1k"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "1.19.4-79.1-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

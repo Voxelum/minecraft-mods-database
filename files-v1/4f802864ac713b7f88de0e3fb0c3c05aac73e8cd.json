@@ -1,6 +1,18 @@
 {
   "name": "BedBenefits-Forge-1.19.4-11.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wl8l4Sim",
+      "versionId": "6KY2iUrv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377051,
+      "fileId": 4447245
+    }
+  ],
   "forge": [
     {
       "modId": "bedbenefits",

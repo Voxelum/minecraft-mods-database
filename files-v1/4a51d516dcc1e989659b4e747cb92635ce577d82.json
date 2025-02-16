@@ -1,6 +1,18 @@
 {
   "name": "npc-variety-1.20.4-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GYQZng8F",
+      "versionId": "48fYulww"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 476200,
+      "fileId": 5003838
+    }
+  ],
   "fabric": [
     {
       "modId": "npcvariety",

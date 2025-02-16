@@ -1,6 +1,18 @@
 {
   "name": "multirecipe-fabric-0.49.2_1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wwz277OG",
+      "versionId": "J7aoetUn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 939493,
+      "fileId": 4940734
+    }
+  ],
   "fabric": [
     {
       "modId": "multirecipe",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iF6szt3y",
+      "versionId": "r8L0yDKg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "alternative-auth",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "net_moznion_uribuilder-tiny",
+      "version": "2.7.1"
+    }
+  ]
+}

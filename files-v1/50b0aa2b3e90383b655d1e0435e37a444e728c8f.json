@@ -1,6 +1,18 @@
 {
   "name": "arachnids-1.20.1-0.0.33.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AOs8oaMT",
+      "versionId": "Y20TdGe7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514628,
+      "fileId": 4828299
+    }
+  ],
   "fabric": [
     {
       "modId": "arachnids",

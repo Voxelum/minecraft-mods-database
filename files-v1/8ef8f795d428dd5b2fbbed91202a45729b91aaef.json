@@ -1,6 +1,12 @@
 {
   "name": "buildguide-1.16.4-0.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 465690,
+      "fileId": 4780933
+    }
+  ],
   "forge": [
     {
       "modId": "buildguide",

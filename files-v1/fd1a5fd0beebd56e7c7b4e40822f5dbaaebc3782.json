@@ -1,6 +1,12 @@
 {
   "name": "netherdepthsupgrade-fabric-2.0.4-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 670011,
+      "fileId": 4379554
+    }
+  ],
   "fabric": [
     {
       "modId": "netherdepthsupgrade",

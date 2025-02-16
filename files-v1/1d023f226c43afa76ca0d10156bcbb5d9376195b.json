@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MOqt4Z5n",
+      "versionId": "MTvcOi4I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560042,
+      "fileId": 4642421
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatpatches",
+      "version": "201.5.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "breezespawn-1.21.4-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fxCEHNcr",
+      "versionId": "yBAr1xnb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1036823,
+      "fileId": 5967712
+    }
+  ],
+  "forge": [
+    {
+      "modId": "breezespawn",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "breezespawn",
+      "version": "1.1"
+    }
+  ]
+}

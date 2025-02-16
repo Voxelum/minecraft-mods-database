@@ -1,6 +1,12 @@
 {
   "name": "",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228981,
+      "fileId": 2279519
+    }
+  ],
   "forge": [
     {
       "modId": "RenderPlayerAPI",

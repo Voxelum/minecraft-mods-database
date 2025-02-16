@@ -1,6 +1,18 @@
 {
   "name": "anomaly-1.4.0-forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xGZQ2Gvn",
+      "versionId": "H89GY2HO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1074293,
+      "fileId": 5607611
+    }
+  ],
   "forge": [
     {
       "modId": "anomaly",

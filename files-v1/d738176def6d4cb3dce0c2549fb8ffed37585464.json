@@ -1,6 +1,12 @@
 {
   "name": "death-count-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaEZg1D1",
+      "versionId": "FcgoqeXc"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_death_count",

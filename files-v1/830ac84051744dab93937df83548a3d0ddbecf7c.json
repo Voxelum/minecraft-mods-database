@@ -1,6 +1,12 @@
 {
   "name": "nmc-2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "azfbyO6s",
+      "versionId": "zJCethp1"
+    }
+  ],
   "fabric": [
     {
       "modId": "nmc",

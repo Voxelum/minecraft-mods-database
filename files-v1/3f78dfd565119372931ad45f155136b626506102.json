@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VOFv2Rsg",
+      "versionId": "eaQkaSxC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "formidulus",
+      "version": "0.1.0-beta"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "yayconfig",
+      "version": "1.0.1"
+    }
+  ]
+}

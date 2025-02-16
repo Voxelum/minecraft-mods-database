@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MLYQ9VGP",
+      "versionId": "NjOwf6oN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cardboard",
+      "version": "3"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.16"
+    },
+    {
+      "modId": "net_md-5_specialsource",
+      "version": "1.11.2"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "brrrrock-extra",
+      "version": "1.4.0-1.21.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.16+1.21.2"
+    }
+  ]
+}

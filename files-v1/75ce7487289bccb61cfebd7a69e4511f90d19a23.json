@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blockus",
+      "version": "2.10.1+1.21.3"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "12.0.0-alpha.1"
+    }
+  ]
+}

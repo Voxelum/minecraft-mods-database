@@ -1,6 +1,18 @@
 {
   "name": "TES-neoforge-1.20.1-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4A86JsDZ",
+      "versionId": "jkcsvVkc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 830420,
+      "fileId": 4746281
+    }
+  ],
   "forge": [
     {
       "modId": "tslatentitystatus",

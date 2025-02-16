@@ -1,6 +1,12 @@
 {
   "name": "buildcraft-7.1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6X5wjPTJ",
+      "versionId": "Z8Z2GIQL"
+    }
+  ],
   "forge": [
     {
       "modId": "BuildCraft|Energy",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XKZVYHER",
+      "versionId": "ssvCptQk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891784,
+      "fileId": 4996077
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "triggerhappy",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

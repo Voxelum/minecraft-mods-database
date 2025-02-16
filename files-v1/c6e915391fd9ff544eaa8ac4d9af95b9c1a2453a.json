@@ -1,6 +1,18 @@
 {
   "name": "IFPatcher-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U9iYRngS",
+      "versionId": "Dd9H2jtH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456083,
+      "fileId": 4140235
+    }
+  ],
   "forge": [
     {
       "modId": "ifpatcher",

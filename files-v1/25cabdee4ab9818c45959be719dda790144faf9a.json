@@ -1,0 +1,42 @@
+{
+  "name": "owo-lib-0.12.19+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ccKDOlHs",
+      "versionId": "u6nBP9Dt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532610,
+      "fileId": 5983893
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "owo",
+      "version": "0.12.19+1.21.4"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.6"
+    },
+    {
+      "modId": "io_wispforest_endec_jankson",
+      "version": "0.1.6"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.9"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.5"
+    }
+  ]
+}

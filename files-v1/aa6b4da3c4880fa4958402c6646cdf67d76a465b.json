@@ -1,6 +1,12 @@
 {
   "name": "desiredservers-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 564161,
+      "fileId": 3595210
+    }
+  ],
   "fabric": [
     {
       "modId": "featuredservers",

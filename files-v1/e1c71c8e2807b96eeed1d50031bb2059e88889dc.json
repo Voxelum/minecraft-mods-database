@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SRlzjEBS",
+      "versionId": "we6TNJhS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549719,
+      "fileId": 5959527
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "audioplayer",
+      "version": "1.21.4-1.13.1"
+    },
+    {
+      "modId": "admiral",
+      "version": "0.4.7+1.21.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.52+8ca5486f82"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.39+e496eb1582"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.5.2+bf2a60eb82"
+    }
+  ]
+}

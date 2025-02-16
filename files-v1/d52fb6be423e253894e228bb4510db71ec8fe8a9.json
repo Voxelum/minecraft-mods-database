@@ -1,6 +1,12 @@
 {
   "name": "guard-villagers-fabric-1.0.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 571503,
+      "fileId": 3680874
+    }
+  ],
   "fabric": [
     {
       "modId": "guardvillagers",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hqQqvaa4",
+      "versionId": "RK0qoJDM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835091,
+      "fileId": 5551795
+    }
+  ],
   "forge": [
     {
       "modId": "puffish_skills",

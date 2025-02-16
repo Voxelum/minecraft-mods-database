@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tVeR4oKO",
+      "versionId": "W9MuiNYR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977886,
+      "fileId": 5961021
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diggusmaximus",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    }
+  ]
+}

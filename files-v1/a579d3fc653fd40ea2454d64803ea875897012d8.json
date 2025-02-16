@@ -1,6 +1,18 @@
 {
   "name": "WaterWalkingFix-Forge-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nzLZsW88",
+      "versionId": "m5EsVW2Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 872140,
+      "fileId": 4574963
+    }
+  ],
   "forge": [
     {
       "modId": "wwfix",

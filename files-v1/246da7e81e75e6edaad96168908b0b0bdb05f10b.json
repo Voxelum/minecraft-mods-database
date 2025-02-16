@@ -1,6 +1,12 @@
 {
   "name": "jennymod.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 589403,
+      "fileId": 3676024
+    }
+  ],
   "forge": [
     {
       "modId": "sexmod",

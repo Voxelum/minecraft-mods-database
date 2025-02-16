@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9jxwkYQL",
+      "versionId": "D4CdkfMP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979317,
+      "fileId": 5450726
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedcore-0.5.109+mc1.19.4-SNAPSHOT-build.105",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedcore",
+      "version": "0.5.109+mc1.19.4-SNAPSHOT-build.105"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.2+1.19.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "6.0.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

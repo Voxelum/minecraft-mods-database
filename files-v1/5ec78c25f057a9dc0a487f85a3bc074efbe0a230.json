@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dwxBClup",
+      "versionId": "bC0YslpI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1062289,
+      "fileId": 5525340
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblemon_fixedstarterivs",

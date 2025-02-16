@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L0bOPIqR",
+      "versionId": "kgdWGcf2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-org-addition",
+      "version": "1.35.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

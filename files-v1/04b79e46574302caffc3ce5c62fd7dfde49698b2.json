@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 287321,
+      "fileId": 3599016
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wgblockreplacer",
+      "version": "2.3.2+1.12.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wgblockreplacer",
+      "version": "3.0.0+1.17.1"
+    }
+  ]
+}

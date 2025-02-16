@@ -1,6 +1,12 @@
 {
   "name": "Bookshelf-Fabric-1.18.1-12.0.20.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228525,
+      "fileId": 3668081
+    }
+  ],
   "fabric": [
     {
       "modId": "bookshelf",

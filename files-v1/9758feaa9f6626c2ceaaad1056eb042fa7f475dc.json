@@ -1,0 +1,26 @@
+{
+  "name": "deepslatecutting-fabric-1.6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IiuFShHs",
+      "versionId": "uUkG1LY2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504899,
+      "fileId": 4152937
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deepslatecutting",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "maybe-data",
+      "version": "1.3.2-1.19.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "rcmod-1.0-forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z3lVimF1",
+      "versionId": "4lE0jwKz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1082674,
+      "fileId": 5642649
+    }
+  ],
   "forge": [
     {
       "modId": "rcmod",

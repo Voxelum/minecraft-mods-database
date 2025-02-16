@@ -1,6 +1,18 @@
 {
   "name": "MysticalAgriculture-1.19.4-6.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C95ReXie",
+      "versionId": "lPXkyHvj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246640,
+      "fileId": 4743027
+    }
+  ],
   "forge": [
     {
       "modId": "mysticalagriculture",

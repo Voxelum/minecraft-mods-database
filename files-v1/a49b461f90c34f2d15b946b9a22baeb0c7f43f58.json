@@ -1,6 +1,12 @@
 {
   "name": "secret-rooms-1.0.0r-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 637329,
+      "fileId": 3849160
+    }
+  ],
   "fabric": [
     {
       "modId": "examplemod",

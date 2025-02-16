@@ -1,6 +1,18 @@
 {
   "name": "ToughAsNails-1.16.5-4.0.1.23-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ge1sOdFH",
+      "versionId": "gRu71tmR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246391,
+      "fileId": 3203067
+    }
+  ],
   "forge": [
     {
       "modId": "toughasnails",

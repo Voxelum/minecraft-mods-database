@@ -1,6 +1,12 @@
 {
   "name": "Aquaculture-1.19.4-2.4.16.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 60028,
+      "fileId": 4608452
+    }
+  ],
   "forge": [
     {
       "modId": "aquaculture",

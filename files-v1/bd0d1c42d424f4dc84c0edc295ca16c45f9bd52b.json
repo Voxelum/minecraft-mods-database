@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZrHxHT33",
+      "versionId": "vbIXj9oV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nobaaddons",
+      "version": "0.1.0-Alpha.10"
+    },
+    {
+      "modId": "dev_celestialfault_celestial-config",
+      "version": "1.0-rc.1"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.1.0+1.21"
+    }
+  ]
+}

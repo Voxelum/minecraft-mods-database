@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JUl6WIK2",
+      "versionId": "KN9KdLsq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterhud",
+      "version": "1.9.2"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.1+1.21"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.9.18+1.21.1"
+    }
+  ]
+}

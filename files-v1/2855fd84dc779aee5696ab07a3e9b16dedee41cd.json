@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lNDRiXkY",
+      "versionId": "vZFo4WKO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "variantsandventures",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

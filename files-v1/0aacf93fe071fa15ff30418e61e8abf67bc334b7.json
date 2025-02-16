@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BeIrqZR",
+      "versionId": "nznoDHZS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391943,
+      "fileId": 5953317
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "origins",
+      "version": "1.13.0-alpha.10+mc.1.21.x"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.12.0-alpha.13+mc.1.21.x"
+    }
+  ]
+}

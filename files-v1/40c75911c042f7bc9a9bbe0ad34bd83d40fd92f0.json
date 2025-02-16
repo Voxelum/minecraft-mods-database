@@ -1,0 +1,10 @@
+{
+  "name": "fabric-registry-sync-v0-2.1.3+a383ab97f4-sources.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "${version}"
+    }
+  ]
+}

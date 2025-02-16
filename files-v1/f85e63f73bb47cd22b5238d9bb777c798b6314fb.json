@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QmCOBeSP",
+      "versionId": "ozGB3plK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 651738,
+      "fileId": 5843554
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ironbookshelves",
+      "version": "1.21.3-1.4.0-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "8.2.5-fabric"
+    }
+  ]
+}

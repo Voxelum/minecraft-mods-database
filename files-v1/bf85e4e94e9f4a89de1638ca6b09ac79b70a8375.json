@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fZqxffZK",
+      "versionId": "ugaFizgb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 935678,
+      "fileId": 4959433
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eyespy",
+      "version": "1.3.4+1.20.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "jackfredlib-base",
+      "version": "1.2.0+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-config",
+      "version": "0.2.3+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-colour",
+      "version": "1.0.3+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-lying",
+      "version": "0.5.1+1.20.1"
+    },
+    {
+      "modId": "jackfredlib-toasts",
+      "version": "1.0.4+1.20.1"
+    }
+  ]
+}

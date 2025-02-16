@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GON0Fdk5",
+      "versionId": "rfyq4B3C"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skin_overrides",
+      "version": "2.2.2+1.21.4-rc3"
+    },
+    {
+      "modId": "org_mineskin_java-client",
+      "version": "3.0.1-SNAPSHOT"
+    },
+    {
+      "modId": "org_mineskin_java-client-apache",
+      "version": "3.0.1-SNAPSHOT"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.14"
+    }
+  ]
+}

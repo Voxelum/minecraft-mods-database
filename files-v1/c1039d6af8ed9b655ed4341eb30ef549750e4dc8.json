@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M1ZKbfkJ",
+      "versionId": "Ld7hKNPn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525447,
+      "fileId": 5279038
+    }
+  ],
   "fabric": [
     {
       "modId": "jmi",

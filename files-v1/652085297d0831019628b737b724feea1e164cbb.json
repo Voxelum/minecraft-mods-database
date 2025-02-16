@@ -1,6 +1,12 @@
 {
   "name": "Elytra Swap (для 1.16.5 - 1.16.2).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 353164,
+      "fileId": 3039912
+    }
+  ],
   "fabric": [
     {
       "modId": "elytra_swap",

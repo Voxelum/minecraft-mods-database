@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HQNCq9HG",
+      "versionId": "NlDeYOAW"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bosswhackers",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bosswhackers",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "monkeyconfig538",
+      "version": "${modVersion}"
+    }
+  ]
+}

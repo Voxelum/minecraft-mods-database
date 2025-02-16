@@ -1,6 +1,18 @@
 {
   "name": "whereisit-2.5.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCTyEqkn",
+      "versionId": "7aXwwLYh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 378036,
+      "fileId": 5424281
+    }
+  ],
   "fabric": [
     {
       "modId": "whereisit",

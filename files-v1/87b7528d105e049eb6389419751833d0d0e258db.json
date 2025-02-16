@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "gravitycrypto",
+      "version": "${version}"
+    }
+  ]
+}

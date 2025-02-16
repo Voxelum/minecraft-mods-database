@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "halplibe",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-lang3",
+      "version": "3.12.0"
+    }
+  ]
+}

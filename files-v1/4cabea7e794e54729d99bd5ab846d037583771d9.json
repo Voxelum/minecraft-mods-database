@@ -1,6 +1,12 @@
 {
   "name": "weaponmod-1.14.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 75525,
+      "fileId": 2216459
+    }
+  ],
   "forge": [
     {
       "modId": "weaponmod",

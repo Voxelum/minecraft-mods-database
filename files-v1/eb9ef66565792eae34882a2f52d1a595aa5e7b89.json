@@ -1,6 +1,18 @@
 {
   "name": "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XKPAmI6u",
+      "versionId": "H0yHV2yE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 266707,
+      "fileId": 4505539
+    }
+  ],
   "fabric": [
     {
       "modId": "mtr",

@@ -1,0 +1,22 @@
+{
+  "name": "BaseCampFabric1_5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 681852,
+      "fileId": 4947428
+    }
+  ],
+  "forge": [
+    {
+      "modId": "base_camp",
+      "version": "1.4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "base_camp",
+      "version": "1.5"
+    }
+  ]
+}

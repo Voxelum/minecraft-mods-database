@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EkkPwdCY",
+      "versionId": "yKtGy2jg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367806,
+      "fileId": 5944888
+    }
+  ],
+  "forge": [
+    {
+      "modId": "unionlib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unionlib",
+      "version": "12.0.8"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.4"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.4"
+    }
+  ]
+}

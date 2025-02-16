@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sTkQBVyo",
+      "versionId": "AjRPkDLN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678306,
+      "fileId": 5991772
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xanders-sodium-options",
+      "version": "2.3.0+1.21.4"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.3.0+1.17"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.2+1.21.4-fabric"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    }
+  ]
+}

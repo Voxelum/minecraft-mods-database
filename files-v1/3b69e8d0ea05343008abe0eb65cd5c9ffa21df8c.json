@@ -1,6 +1,12 @@
 {
   "name": "no-resource-pack-warnings-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6xKUDQcB",
+      "versionId": "hejC8hg2"
+    }
+  ],
   "fabric": [
     {
       "modId": "no-resource-pack-warnings",

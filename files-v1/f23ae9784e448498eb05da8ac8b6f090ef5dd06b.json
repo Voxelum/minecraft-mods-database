@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3je4UK0t",
+      "versionId": "nolXMSrI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "silk-api",
+      "version": "1.20-0.2.1"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

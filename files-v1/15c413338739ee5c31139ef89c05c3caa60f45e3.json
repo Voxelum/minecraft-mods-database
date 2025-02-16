@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1PgJc580",
+      "versionId": "kqK3kAKT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 640144,
+      "fileId": 5170261
+    }
+  ],
   "fabric": [
     {
       "modId": "vanillarice",

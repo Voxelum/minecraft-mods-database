@@ -1,6 +1,18 @@
 {
   "name": "completeconfig-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtqG8z1h",
+      "versionId": "Gp370KF1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 381257,
+      "fileId": 4391763
+    }
+  ],
   "fabric": [
     {
       "modId": "completeconfig",

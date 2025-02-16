@@ -1,0 +1,36 @@
+{
+  "name": "essential_commands-0.35.2-mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6VdDUivB",
+      "versionId": "kev3hDqV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "essential_commands",
+      "version": "0.35.2-mc1.21"
+    },
+    {
+      "modId": "ec-core",
+      "version": "1.3.0-mc1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0-pre.2+1.21"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.10.0"
+    }
+  ]
+}

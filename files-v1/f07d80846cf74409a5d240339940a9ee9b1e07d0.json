@@ -1,6 +1,18 @@
 {
   "name": "wraith-silkspawners-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yD9G9SN0",
+      "versionId": "tsRJYmTP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410896,
+      "fileId": 3823602
+    }
+  ],
   "fabric": [
     {
       "modId": "silkspawners",

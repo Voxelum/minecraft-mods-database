@@ -1,6 +1,18 @@
 {
   "name": "lostsouls_1.12_1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Unrx5yh",
+      "versionId": "8YPgeIYh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 271998,
+      "fileId": 2465796
+    }
+  ],
   "forge": [
     {
       "modId": "lostsouls",

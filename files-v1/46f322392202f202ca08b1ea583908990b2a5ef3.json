@@ -1,6 +1,12 @@
 {
   "name": "EssentialClient-1.5.2+mc1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sH0dfrKf",
+      "versionId": "8ABJFrgA"
+    }
+  ],
   "fabric": [
     {
       "modId": "essential-client",

@@ -1,6 +1,12 @@
 {
   "name": "spectre-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KiRlULA1",
+      "versionId": "zump3S8O"
+    }
+  ],
   "fabric": [
     {
       "modId": "spectre",

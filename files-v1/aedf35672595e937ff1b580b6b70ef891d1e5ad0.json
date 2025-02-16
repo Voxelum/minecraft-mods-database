@@ -1,6 +1,18 @@
 {
   "name": "redstone-bits-1.8.2+fabric-mc1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4RK1aHVB",
+      "versionId": "MSMSX3im"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 321014,
+      "fileId": 3810366
+    }
+  ],
   "fabric": [
     {
       "modId": "redstonebits",

@@ -1,4 +1,16 @@
 {
   "name": "Corpse-Mod-1.17.1.jar",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 316582,
+      "fileId": 3526680
+    }
+  ],
+  "forge": [
+    {
+      "modId": "corpse",
+      "version": "1.17.1-1.0.5"
+    }
+  ]
 }

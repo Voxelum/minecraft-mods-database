@@ -1,6 +1,12 @@
 {
   "name": "ASP + GS Patcher.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242878,
+      "fileId": 2287046
+    }
+  ],
   "forge": [
     {
       "modId": "ChocoPatcher",

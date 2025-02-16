@@ -1,0 +1,38 @@
+{
+  "name": "tweakermore-v3.23.0-mc1.17.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GBeCx05I",
+      "versionId": "4A8p6nkX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531235,
+      "fileId": 5965908
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tweakermore",
+      "version": "3.23.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.0+cf39a74318"
+    },
+    {
+      "modId": "fabric-command-api-v1",
+      "version": "1.1.4+cf39a74318"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

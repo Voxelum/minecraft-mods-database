@@ -1,0 +1,22 @@
+{
+  "name": "beta-recipes-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GWfrxllc",
+      "versionId": "zVhS53eV"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_beta_recipes",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_beta_recipes",
+      "version": "1.0.1"
+    }
+  ]
+}

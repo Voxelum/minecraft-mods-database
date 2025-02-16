@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DlcfxdlN",
+      "versionId": "OXWgRY4z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959460,
+      "fileId": 5016446
+    }
+  ],
   "fabric": [
     {
       "modId": "simplemod",

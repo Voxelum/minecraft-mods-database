@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZnGlaJ2R",
+      "versionId": "40OGoJNL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 819596,
+      "fileId": 5483503
+    }
+  ],
   "forge": [
     {
       "modId": "personalspace",

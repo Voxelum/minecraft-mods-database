@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cP5qAS1c",
+      "versionId": "ycA9IufD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autofish",
+      "version": "0.9"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "17.0.142"
+    }
+  ]
+}

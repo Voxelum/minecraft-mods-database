@@ -1,6 +1,18 @@
 {
   "name": "PowerDrop-MC1.12.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "570N0E4A",
+      "versionId": "PjGvkofP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 269153,
+      "fileId": 2557519
+    }
+  ],
   "forge": [
     {
       "modId": "powerdrop",

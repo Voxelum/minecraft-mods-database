@@ -1,0 +1,18 @@
+{
+  "name": "mythic_charms-1.2.2.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mythic_charms",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

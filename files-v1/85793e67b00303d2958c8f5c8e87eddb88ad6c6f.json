@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EdpPAW77",
+      "versionId": "M0EjUlLZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1064730,
+      "fileId": 5547338
+    }
+  ],
+  "forge": [
+    {
+      "modId": "glass",
+      "version": "1.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glass",
+      "version": "1.2.0-fabric"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "MiniEffects-1.19.2-fabric-5.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UqcThEX0",
+      "versionId": "jwNRklvZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 545836,
+      "fileId": 4393877
+    }
+  ],
   "fabric": [
     {
       "modId": "minieffects",

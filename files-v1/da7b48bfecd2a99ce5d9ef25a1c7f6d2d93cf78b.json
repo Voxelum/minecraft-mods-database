@@ -1,6 +1,18 @@
 {
   "name": "SnowRealMagic-1.19.4-fabric-8.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iJNje1E8",
+      "versionId": "jIPF2Beb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560441,
+      "fileId": 4509417
+    }
+  ],
   "fabric": [
     {
       "modId": "snowrealmagic",

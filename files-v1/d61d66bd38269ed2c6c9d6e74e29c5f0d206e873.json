@@ -1,6 +1,18 @@
 {
   "name": "pnjurassic-1.12.2-1.02.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fNu33Txs",
+      "versionId": "aXkSyb4T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 984814,
+      "fileId": 5574443
+    }
+  ],
   "forge": [
     {
       "modId": "pnjurassic",

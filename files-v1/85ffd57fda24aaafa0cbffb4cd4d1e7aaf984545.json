@@ -1,0 +1,112 @@
+{
+  "name": "create-fabric-0.5.1-j-build.1609+mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xbc0uyRg",
+      "versionId": "lNcgFlF8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 624165,
+      "fileId": 5958511
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create-fabric-0.5.1-j-build.1609+mc1.20.1",
+      "version": ""
+    },
+    {
+      "modId": "create-fabric-0.5.1-j-build.1609-mc1.20.1",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create",
+      "version": "0.5.1-j-build.1609+mc1.20.1"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_client_events",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.3.79-MC1.20.1"
+    },
+    {
+      "modId": "milk",
+      "version": "1.2.60"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "flywheel",
+      "version": "0.6.11-4"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_brewing",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.8+1.20.1"
+    }
+  ]
+}

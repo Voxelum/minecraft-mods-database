@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JirFBOYr",
+      "versionId": "wQoSPl8d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple-whitelist",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_zaxxer_hikaricp",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "9.0.0"
+    }
+  ]
+}

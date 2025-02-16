@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pku8gW1",
+      "versionId": "KbeUkMUm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 782147,
+      "fileId": 5421198
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "energizedpower",
+      "version": "1.20.6-2.11.2-fabric"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.0.0"
+    }
+  ]
+}

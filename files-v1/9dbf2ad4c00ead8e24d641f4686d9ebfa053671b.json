@@ -1,6 +1,18 @@
 {
   "name": "modtweaker-4.0.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7ZsHKFX3",
+      "versionId": "c4SkGpTQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 220954,
+      "fileId": 2616246
+    }
+  ],
   "forge": [
     {
       "modId": "modtweaker",

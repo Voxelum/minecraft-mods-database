@@ -1,0 +1,28 @@
+{
+  "name": "immersivemc-1.4.1-1.20.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XJ9is6vj",
+      "versionId": "WCDzIvS9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 607017,
+      "fileId": 4819940
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivemc",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivemc",
+      "version": "1.4.0"
+    }
+  ]
+}

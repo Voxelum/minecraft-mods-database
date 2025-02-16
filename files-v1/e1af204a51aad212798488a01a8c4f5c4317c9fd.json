@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbFe1FWa",
+      "versionId": "9Keoy2BR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319582,
+      "fileId": 5965798
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "respawnablepets",
+      "version": "1.21.4-r1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.2.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.6"
+    }
+  ]
+}

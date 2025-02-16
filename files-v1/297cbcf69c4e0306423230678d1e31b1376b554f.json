@@ -1,6 +1,18 @@
 {
   "name": "notenoughwands-1.12-1.5.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ElVMD7Qz",
+      "versionId": "KLI2WL7q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 235595,
+      "fileId": 2447415
+    }
+  ],
   "forge": [
     {
       "modId": "notenoughwands",

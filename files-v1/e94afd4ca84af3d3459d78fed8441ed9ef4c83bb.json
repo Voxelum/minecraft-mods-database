@@ -1,0 +1,28 @@
+{
+  "name": "combat_effects-fabric-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DRRYP3ch",
+      "versionId": "kiHxf9Ak"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1148519,
+      "fileId": 5940869
+    }
+  ],
+  "forge": [
+    {
+      "modId": "combat_effects",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "combat_effects",
+      "version": "1.0.0"
+    }
+  ]
+}

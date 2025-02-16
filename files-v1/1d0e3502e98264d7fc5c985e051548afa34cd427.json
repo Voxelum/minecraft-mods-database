@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "crow_skill_tree",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crow_skill_tree",
+      "version": "1.0"
+    }
+  ]
+}

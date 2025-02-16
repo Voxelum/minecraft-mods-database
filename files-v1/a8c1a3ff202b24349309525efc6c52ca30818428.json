@@ -1,0 +1,40 @@
+{
+  "name": "trade-cycling-fabric-1.19.2-1.0.15.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 570431,
+      "fileId": 5793974
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trade_cycling",
+      "version": "1.19.2-1.0.15"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.9+e62f51a390"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.18+9ff28f4090"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.1.0+33fbc73890"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.2+5eb68ef290"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.5.6+5f1a85e090"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.24+f05effaf90"
+    }
+  ]
+}

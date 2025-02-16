@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x0SkO6LO",
+      "versionId": "NHJu0zUn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 787938,
+      "fileId": 5903603
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "daycountmod",
+      "version": "1.3.0_1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

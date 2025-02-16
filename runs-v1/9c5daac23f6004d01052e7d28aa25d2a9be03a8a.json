@@ -1,0 +1,33 @@
+{
+  "mods": [
+    "b8723b0d5098efac0ad32435dcd02553b803d953",
+    "d86651acd0ac945d928f81f13e2d47c1ef7eb83d",
+    "baaee00a0b33a24b15b02d67f258df1f9a78398d",
+    "427c4f03022aaf75447cdb747f160dda5f92a2cb",
+    "7002f3d1dbfca2b409995abc2c4d696438f16492",
+    "5569769f66eda6d51ca3ae56d58d5a4657f19ef9",
+    "717a005d680d86e22a9406b227f85decd88513a0",
+    "2b7f7f96571285868e962e269762987e817094ff",
+    "292dd61803e8e7c0f18db77a11b1aaaaa6b07ccc",
+    "6213120772192040a0aeb5c7cfe330c068605b1f",
+    "6f0fdeb7e9096e8d54c6a8d3e83561435e90ece7",
+    "5f61f50e36f1f957dbb87eda02da95d847b4a943",
+    "6e8e522f67c7a6b2022ea2bf3bb476ff7354321c",
+    "17babc1f306bab306eeae6513e6b66f74592f906",
+    "66160fac4fdb9ddd854c5ed068fc329d24d09fd1",
+    "a653cc8d30a28d600ad6e1b3045564ebf9d67efc",
+    "97452cfadfde1f8f8c67838643019eabafa58fbb",
+    "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
+    "b69817848dd6a5451eee5ac0bf3682e7805fabb8",
+    "3e77439154fada468475b08a268de7012c8d90f3",
+    "3e36fb8c0baec24e8ef472269aef1a21fb2c0599"
+  ],
+  "runtime": {
+    "minecraft": "1.21.1",
+    "fabricLoader": "0.16.9"
+  },
+  "java": {
+    "majorVersion": 21,
+    "version": "21.0.5"
+  }
+}

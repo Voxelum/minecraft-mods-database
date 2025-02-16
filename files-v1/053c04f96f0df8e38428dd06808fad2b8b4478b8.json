@@ -1,0 +1,14 @@
+{
+  "name": "DimThread-1.2.5.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "dimthread",
+      "version": "1.2.5"
+    },
+    {
+      "modId": "com_github_wearblackallday_javautils",
+      "version": "1b369d41cd"
+    }
+  ]
+}

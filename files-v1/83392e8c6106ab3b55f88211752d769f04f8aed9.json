@@ -1,6 +1,18 @@
 {
   "name": "crossroads-1.16.5-2.6.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AucYCd0o",
+      "versionId": "y6x4emDY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250231,
+      "fileId": 3347113
+    }
+  ],
   "forge": [
     {
       "modId": "crossroads",

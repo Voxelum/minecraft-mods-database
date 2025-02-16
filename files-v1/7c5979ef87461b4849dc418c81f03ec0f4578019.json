@@ -1,6 +1,12 @@
 {
   "name": "aether-1.12.2-v1.5.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 255308,
+      "fileId": 3158333
+    }
+  ],
   "forge": [
     {
       "modId": "aether_legacy",

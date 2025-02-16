@@ -1,6 +1,12 @@
 {
   "name": "silk-all-1.10.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aTaCgKLW",
+      "versionId": "AhrXv1da"
+    }
+  ],
   "fabric": [
     {
       "modId": "silk-all",

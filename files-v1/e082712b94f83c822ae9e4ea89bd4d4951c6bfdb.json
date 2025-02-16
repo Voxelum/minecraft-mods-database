@@ -1,0 +1,20 @@
+{
+  "name": "armor-indicator-5.0.0+1.21.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AHH3ZcfB",
+      "versionId": "WtFWiuMY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armor-indicator",
+      "version": "5.0.0+1.21.2"
+    },
+    {
+      "modId": "alternate-hudrendercallback",
+      "version": "2.0.0"
+    }
+  ]
+}

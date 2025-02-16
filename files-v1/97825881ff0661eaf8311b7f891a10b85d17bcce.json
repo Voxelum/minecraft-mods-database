@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "styMEyoE",
+      "versionId": "hIvsqrmi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960741,
+      "fileId": 5109863
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "techhammers",
+      "version": "${version}"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.1"
+    },
+    {
+      "modId": "magna",
+      "version": "1.7.1-1.18-pre1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wb5oqrBJ",
+      "versionId": "FYJt8pHm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 407206,
+      "fileId": 5577366
+    }
+  ],
   "forge": [
     {
       "modId": "chat_heads",

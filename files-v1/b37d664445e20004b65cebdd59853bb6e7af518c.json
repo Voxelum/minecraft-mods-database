@@ -1,6 +1,12 @@
 {
   "name": "vending-1.12.2-3.0.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 243315,
+      "fileId": 2489400
+    }
+  ],
   "forge": [
     {
       "modId": "vending",

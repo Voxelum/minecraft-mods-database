@@ -1,6 +1,12 @@
 {
   "name": "various-starting-loot-4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cs85BmwR",
+      "versionId": "4THJiBAI"
+    }
+  ],
   "fabric": [
     {
       "modId": "mr_various_startingloot",

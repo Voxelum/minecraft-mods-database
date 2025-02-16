@@ -1,6 +1,18 @@
 {
   "name": "qu-enchantments-1.2.4-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5RGE5YW5",
+      "versionId": "MStc8Dl4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 622228,
+      "fileId": 3992990
+    }
+  ],
   "fabric": [
     {
       "modId": "qu-enchantments",

@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "epa",
+      "version": "7.1.3+mc1.21.1-fabric"
+    },
+    {
+      "modId": "emotecraft",
+      "version": "3.0.0-a.64e15479"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.1"
+    }
+  ]
+}

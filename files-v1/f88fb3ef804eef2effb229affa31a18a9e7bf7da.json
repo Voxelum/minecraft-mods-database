@@ -1,0 +1,30 @@
+{
+  "name": "iceandfire-0.7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpmCsizY",
+      "versionId": "Hq64Nd6I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040076,
+      "fileId": 5896683
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iceandfire",
+      "version": "0.7.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

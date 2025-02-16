@@ -1,0 +1,20 @@
+{
+  "name": "tiered-1.2.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 615948,
+      "fileId": 4441256
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tiered",
+      "version": "1.2.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

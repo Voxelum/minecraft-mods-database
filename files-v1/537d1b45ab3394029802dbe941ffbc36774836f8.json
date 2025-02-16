@@ -1,0 +1,26 @@
+{
+  "name": "AllTheTrims-5.0.1-fabric+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pnsUKrap",
+      "versionId": "xUFWApCx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876154,
+      "fileId": 5828484
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "allthetrims",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

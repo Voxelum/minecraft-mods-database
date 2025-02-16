@@ -1,6 +1,18 @@
 {
   "name": "ModTweaker2-0.9.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7ZsHKFX3",
+      "versionId": "9J3TQUZi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 220954,
+      "fileId": 2270009
+    }
+  ],
   "forge": [
     {
       "modId": "modtweaker2",

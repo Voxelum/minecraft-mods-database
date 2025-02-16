@@ -1,6 +1,18 @@
 {
   "name": "Numina-1.19.2-2.3.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MRNzikxs",
+      "versionId": "xOWx8sCb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 235440,
+      "fileId": 5020295
+    }
+  ],
   "forge": [
     {
       "modId": "numina",

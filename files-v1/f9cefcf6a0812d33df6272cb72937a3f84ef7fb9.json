@@ -1,0 +1,26 @@
+{
+  "name": "online-emotes-3.2.3+mc1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dc4g4seU",
+      "versionId": "TxKQBvID"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 868230,
+      "fileId": 5928000
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "online_emotes",
+      "version": "3.2.3+mc1.21.1-fabric"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    }
+  ]
+}

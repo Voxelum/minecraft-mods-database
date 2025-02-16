@@ -1,6 +1,18 @@
 {
   "name": "oregrowth-1.0.8-forge-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "psKAO98W",
+      "versionId": "ySdgLe4y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 919885,
+      "fileId": 4855244
+    }
+  ],
   "forge": [
     {
       "modId": "oregrowth",

@@ -1,6 +1,12 @@
 {
   "name": "compress-em-[v1.5].jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 508359,
+      "fileId": 3550327
+    }
+  ],
   "fabric": [
     {
       "modId": "compress",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HnD1GX6e",
+      "versionId": "aicF5m0R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544912,
+      "fileId": 5629688
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yigd",
+      "version": "2.4.5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    }
+  ]
+}

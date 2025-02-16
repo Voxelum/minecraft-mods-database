@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j3bYIyWM",
+      "versionId": "1dbgYr5L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663279,
+      "fileId": 4526353
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemwallet",
+      "version": "1.19.2-1.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.0.75"
+    },
+    {
+      "modId": "libninepatch",
+      "version": "1.1.0"
+    }
+  ]
+}

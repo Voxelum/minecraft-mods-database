@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "gigeresque",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gigeresque",
+      "version": "0.5.71"
+    },
+    {
+      "modId": "bettercrawling",
+      "version": "1.0.101"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BarteringStation-v6.0.0-1.19.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EOig9U0j",
+      "versionId": "gqYXib4X"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "barteringstation",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    }
+  ]
+}

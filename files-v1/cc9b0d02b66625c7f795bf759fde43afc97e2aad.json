@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WC4UgDcZ",
+      "versionId": "zBHuFQ6z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 379680,
+      "fileId": 4553233
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grindenchantments",
+      "version": "3.1.1+1.19.4"
+    },
+    {
+      "modId": "codec-config-api",
+      "version": "1.0.2+1.19.3"
+    }
+  ]
+}

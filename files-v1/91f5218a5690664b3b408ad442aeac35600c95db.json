@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "peaceful_hunger",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peaceful_hunger",
+      "version": "1.0.2"
+    }
+  ]
+}

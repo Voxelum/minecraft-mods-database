@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "11xpUsIf",
+      "versionId": "xqwWdiLk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distance_travel",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.6"
+    }
+  ]
+}

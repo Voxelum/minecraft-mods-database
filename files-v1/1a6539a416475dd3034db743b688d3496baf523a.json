@@ -1,6 +1,18 @@
 {
   "name": "JustOutdoorStuffs-1.19.2-fabric-v1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6hCfRrRD",
+      "versionId": "yY4Ig0ig"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896219,
+      "fileId": 4691716
+    }
+  ],
   "forge": [
     {
       "modId": "justoutdoorstuffs",

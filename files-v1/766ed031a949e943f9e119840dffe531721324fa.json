@@ -1,6 +1,12 @@
 {
   "name": "totemcounter-1.2.4+mc1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T9R7YTnA",
+      "versionId": "KNicCGkm"
+    }
+  ],
   "fabric": [
     {
       "modId": "totemcounter",

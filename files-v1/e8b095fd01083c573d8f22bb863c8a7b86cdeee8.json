@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kd03i2oU",
+      "versionId": "dcGYBM2V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912326,
+      "fileId": 5382933
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantmentdisabler",
+      "version": "1.0.0+1.19"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

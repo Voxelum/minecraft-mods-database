@@ -1,6 +1,18 @@
 {
   "name": "tempad-fabric-1.19.2-1.4.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gKNwt7xu",
+      "versionId": "mSrGEA5h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514923,
+      "fileId": 3994389
+    }
+  ],
   "fabric": [
     {
       "modId": "tempad",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "4UrwSLvV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamic_fps",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "net_lostluma_battery",
+      "version": "1.1.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "geodeforge-1.1.9-1.19.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 620784,
+      "fileId": 4442117
+    }
+  ],
   "forge": [
     {
       "modId": "geode_plus",

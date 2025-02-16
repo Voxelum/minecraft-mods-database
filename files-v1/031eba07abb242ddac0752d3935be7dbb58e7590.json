@@ -1,6 +1,18 @@
 {
   "name": "bpo-1.16.5-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hjcE1tku",
+      "versionId": "P7hr9gLR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 604071,
+      "fileId": 3728395
+    }
+  ],
   "forge": [
     {
       "modId": "bpo",

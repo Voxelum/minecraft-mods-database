@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S9DUh1tA",
+      "versionId": "wTNURk0b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409802,
+      "fileId": 4820053
+    }
+  ],
   "fabric": [
     {
       "modId": "assortedtools",

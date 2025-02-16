@@ -1,0 +1,34 @@
+{
+  "name": "Sounds-2.3.0+1.21+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZouiUX7t",
+      "versionId": "1AvPOGQT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 925889,
+      "fileId": 5993844
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sounds",
+      "version": "2.3.0+1.21+fabric"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.2+1.21-fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.2"
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.6"
+    }
+  ]
+}

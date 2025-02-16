@@ -1,6 +1,18 @@
 {
   "name": "ZeroCore2-1.16.5-2.1.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rHpb85Mf",
+      "versionId": "1zRXshBz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247921,
+      "fileId": 4015347
+    }
+  ],
   "forge": [
     {
       "modId": "zerocore",

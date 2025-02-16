@@ -1,6 +1,12 @@
 {
   "name": "mcwifipnp-1.7.0-1.21-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RTWpcTBp",
+      "versionId": "fzjSXbDq"
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwifipnp",

@@ -1,6 +1,18 @@
 {
   "name": "voidfog-1.16.5-2.0.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cAptbNNE",
+      "versionId": "BMdYwfEh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 267244,
+      "fileId": 3741699
+    }
+  ],
   "forge": [
     {
       "modId": "voidfog",

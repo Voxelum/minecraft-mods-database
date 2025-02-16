@@ -1,0 +1,24 @@
+{
+  "name": "Fog-fabric-1.2.0-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WuGVWUF2",
+      "versionId": "J5BJ4pQp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fog",
+      "version": "1.2.0-1.21"
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.6"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

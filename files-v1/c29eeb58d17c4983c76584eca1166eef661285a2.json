@@ -1,6 +1,12 @@
 {
   "name": "ecologics-FORGE-1.18.1-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NCKpPR0Z",
+      "versionId": "kC3xFh5w"
+    }
+  ],
   "forge": [
     {
       "modId": "ecologics",

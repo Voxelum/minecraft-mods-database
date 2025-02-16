@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 228529,
+      "fileId": 3335093
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterfoliage",
+      "version": "2.6.5+368b50a"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.24"
+    },
+    {
+      "modId": "me_zeroeightsix_fiber",
+      "version": "0.8.0-2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "craftpresence",
+      "version": "@VERSION_ID@"
+    }
+  ]
+}

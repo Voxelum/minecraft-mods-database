@@ -1,6 +1,12 @@
 {
   "name": "mythic_charms-fabric-1.20.1-0.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 923650,
+      "fileId": 4865747
+    }
+  ],
   "fabric": [
     {
       "modId": "mythic_charms",

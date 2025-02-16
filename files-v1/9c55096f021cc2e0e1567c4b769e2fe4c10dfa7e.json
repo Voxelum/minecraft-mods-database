@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RIclBGxM",
+      "versionId": "b6pPCnKv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1134075,
+      "fileId": 5874025
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bundleweight",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "tommylib",
+      "version": "28.0.2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Unicopia-1.2.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9K7RJlvM",
+      "versionId": "3br19ARs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unicopia",
+      "version": "1.2.2+1.20.1"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.15.4+1.20"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.3"
+    },
+    {
+      "modId": "fabwork",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "romanizer",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.0-beta.1"
+    }
+  ]
+}

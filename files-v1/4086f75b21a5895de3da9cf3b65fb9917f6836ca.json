@@ -1,0 +1,20 @@
+{
+  "name": "snuffles-1.0.0+1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nUsNRn4i",
+      "versionId": "dCl0JXYg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snuffles",
+      "version": "1.0.0+1.19.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

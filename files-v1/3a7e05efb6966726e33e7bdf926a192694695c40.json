@@ -1,6 +1,12 @@
 {
   "name": "everycomp-1.20-2.6.17-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 628539,
+      "fileId": 4871825
+    }
+  ],
   "fabric": [
     {
       "modId": "everycomp",

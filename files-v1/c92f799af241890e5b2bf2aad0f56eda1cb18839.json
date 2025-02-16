@@ -1,6 +1,18 @@
 {
   "name": "figura-0.1.4+1.18.2-forge-mc.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9gIPDom",
+      "versionId": "9YVrv5Mn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901503,
+      "fileId": 5151782
+    }
+  ],
   "forge": [
     {
       "modId": "figura",

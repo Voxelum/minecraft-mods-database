@@ -1,6 +1,18 @@
 {
   "name": "extrakeybinds-0.4.0+1.17-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vzxBRBiJ",
+      "versionId": "jbbQERHo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 474612,
+      "fileId": 4031145
+    }
+  ],
   "fabric": [
     {
       "modId": "extrakeybinds",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o1tyE5vJ",
+      "versionId": "lVd36x4I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242995,
+      "fileId": 5982936
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "custom-crosshair-mod",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "hwyla-addon-horseinfo-0.4.1-1.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 390027,
+      "fileId": 3568159
+    }
+  ],
   "fabric": [
     {
       "modId": "horseinfo",

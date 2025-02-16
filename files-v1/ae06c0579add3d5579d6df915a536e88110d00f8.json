@@ -1,6 +1,12 @@
 {
   "name": "questbook-3.0.0-1.12.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242106,
+      "fileId": 2484139
+    }
+  ],
   "forge": [
     {
       "modId": "questbook",

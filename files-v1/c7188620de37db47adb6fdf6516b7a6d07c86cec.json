@@ -1,6 +1,12 @@
 {
   "name": "foragecraft-1.14.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 241444,
+      "fileId": 2521324
+    }
+  ],
   "forge": [
     {
       "modId": "foragecraft",

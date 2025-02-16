@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.23.0-sakura.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.52+8ca5486f82"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.3.7+cc0fa2fe82"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.9+203e6b2382"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "betterpets-v2.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5XRPRPTb",
+      "versionId": "NMyiF72K"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_betterpets",
+      "version": "1-v2.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_betterpets",
+      "version": "1-v2.0.2"
+    }
+  ]
+}

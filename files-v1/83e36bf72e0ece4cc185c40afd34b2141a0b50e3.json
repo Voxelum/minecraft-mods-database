@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ss0QuCRx",
+      "versionId": "nL36mf6Z"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "switchy",
+      "version": "2.9.7+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "switchy",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-cardinal",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-cardinal-ui",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-client",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-compat",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-compat-ui",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-core",
+      "version": "2.9.7+1.20"
+    },
+    {
+      "modId": "switchy-ui",
+      "version": "2.9.7+1.20"
+    }
+  ]
+}

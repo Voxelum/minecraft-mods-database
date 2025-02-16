@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNVQ2c0g",
+      "versionId": "BSEPHAQQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 669659,
+      "fileId": 5620730
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mru",
+      "version": "0.4.5+1.20.6"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.4.2+1.20.5-fabric"
+    }
+  ]
+}

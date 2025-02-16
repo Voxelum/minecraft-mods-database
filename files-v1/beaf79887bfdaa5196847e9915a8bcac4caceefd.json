@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pf8PJBb5",
+      "versionId": "mtT5o00u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 906926,
+      "fileId": 5897155
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkness",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.9+1.20.5"
+    }
+  ]
+}

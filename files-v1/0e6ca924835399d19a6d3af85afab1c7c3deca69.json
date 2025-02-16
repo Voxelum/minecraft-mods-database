@@ -1,6 +1,18 @@
 {
   "name": "ThaumicJEI-1.12.2-1.5.4-22.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5eheMGzC",
+      "versionId": "ShUanzAe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 285492,
+      "fileId": 2625264
+    }
+  ],
   "forge": [
     {
       "modId": "thaumicjei",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "byNkmv5G",
+      "versionId": "nec4631X"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "skyhanni",
+      "version": "0.25"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libninepatch",
+      "version": "1.2.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "discord4fabric-1.20.1-1.10.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qc4oLwfr",
+      "versionId": "fY3XuhMg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630956,
+      "fileId": 4642454
+    }
+  ],
   "fabric": [
     {
       "modId": "d4f",

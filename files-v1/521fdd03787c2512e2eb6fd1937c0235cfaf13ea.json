@@ -1,6 +1,12 @@
 {
   "name": "MinecraftCapes Fabric 1.16.5-11.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9gNVPfzw",
+      "versionId": "ypy1L6Ks"
+    }
+  ],
   "fabric": [
     {
       "modId": "minecraftcapes",

@@ -1,6 +1,18 @@
 {
   "name": "light-overlay-7.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YfOlc91N",
+      "versionId": "IqHeaKqA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325492,
+      "fileId": 4278072
+    }
+  ],
   "fabric": [
     {
       "modId": "lightoverlay",

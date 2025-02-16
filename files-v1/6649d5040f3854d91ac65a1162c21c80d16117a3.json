@@ -1,6 +1,18 @@
 {
   "name": "milk_plus-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OCxj9VC8",
+      "versionId": "VEYFkWqP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473632,
+      "fileId": 3773319
+    }
+  ],
   "fabric": [
     {
       "modId": "milk_plus",

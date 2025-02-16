@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eo1wLeXR",
+      "versionId": "yEEmPA6j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 408480,
+      "fileId": 5650969
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chestcavity",
+      "version": "2.16.7"
+    },
+    {
+      "modId": "modify-drops-api",
+      "version": "0.5.1.1"
+    }
+  ]
+}

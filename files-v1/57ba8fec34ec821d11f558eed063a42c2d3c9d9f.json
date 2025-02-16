@@ -1,6 +1,18 @@
 {
   "name": "NetherSheep-1.7-1.20-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hOrDPU58",
+      "versionId": "1oONoZuf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815777,
+      "fileId": 4591710
+    }
+  ],
   "fabric": [
     {
       "modId": "nethersheep",

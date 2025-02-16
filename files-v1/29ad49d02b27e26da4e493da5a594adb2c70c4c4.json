@@ -1,0 +1,62 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hagcl1FT",
+      "versionId": "c2gaabGb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 973778,
+      "fileId": 5926510
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neepmeat",
+      "version": "0.7.2-beta+1.20.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-collections4",
+      "version": "4.5.0-M1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "flywheel",
+      "version": "0.6.11-3"
+    },
+    {
+      "modId": "milk",
+      "version": "1.2.60"
+    },
+    {
+      "modId": "myron-neepmeat",
+      "version": "1.6.3+1.20.1"
+    }
+  ]
+}

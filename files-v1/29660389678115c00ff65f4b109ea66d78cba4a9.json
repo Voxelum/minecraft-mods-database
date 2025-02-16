@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Th33t82F",
+      "versionId": "X8GVjZvh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848032,
+      "fileId": 5284920
+    }
+  ],
   "fabric": [
     {
       "modId": "transmog",

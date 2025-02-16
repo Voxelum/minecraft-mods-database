@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bHJp2GRg",
+      "versionId": "9kIoJ9QL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherchested",
+      "version": "21.3.0"
+    },
+    {
+      "modId": "limitlesscontainers",
+      "version": "21.3.0"
+    }
+  ]
+}

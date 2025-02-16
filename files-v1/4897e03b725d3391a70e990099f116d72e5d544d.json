@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6hN1V6wJ",
+      "versionId": "YeiApIhe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 598056,
+      "fileId": 5955024
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchancement",
+      "version": "1.21-r14"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.2"
+    },
+    {
+      "modId": "tooltipfix",
+      "version": "1.1.1-1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.1.2"
+    }
+  ]
+}

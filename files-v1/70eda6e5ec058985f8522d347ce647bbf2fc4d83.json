@@ -1,6 +1,12 @@
 {
   "name": "FABRIC_1.16.5_chipped-1.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456956,
+      "fileId": 3423820
+    }
+  ],
   "fabric": [
     {
       "modId": "chipped",

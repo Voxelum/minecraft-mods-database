@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "BGhINW6Q",
       "versionId": "rcCa6xc8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411224,
+      "fileId": 3407847
+    }
+  ],
+  "forge": [
+    {
+      "modId": "extendedcreativeinventory",
+      "version": "1.6"
     }
   ]
 }

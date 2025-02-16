@@ -1,0 +1,14 @@
+{
+  "name": "WilderWild-3.0.11-mc1.21.4.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "3.0.11-mc1.21.4"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.6-mc1.21.4"
+    }
+  ]
+}

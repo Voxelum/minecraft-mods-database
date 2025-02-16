@@ -1,6 +1,12 @@
 {
   "name": "xray-1.12.2-1.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256256,
+      "fileId": 2578668
+    }
+  ],
   "forge": [
     {
       "modId": "xray",

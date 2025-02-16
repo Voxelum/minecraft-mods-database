@@ -1,6 +1,18 @@
 {
   "name": "player-animation-lib-fabric-1.0.2+1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gedNE4y2",
+      "versionId": "3tNyGwmk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658587,
+      "fileId": 4418155
+    }
+  ],
   "fabric": [
     {
       "modId": "player-animator",

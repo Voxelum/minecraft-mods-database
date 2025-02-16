@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 631923,
+      "fileId": 5170250
+    }
+  ],
+  "forge": [
+    {
+      "modId": "industrialrenewal",
+      "version": "${file.jarVersion}-1.0.0"
+    }
+  ]
+}

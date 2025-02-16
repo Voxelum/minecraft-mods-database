@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "mythicupgrades-4.0.2+mc1.20.4.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "ERH7cFoy",
       "versionId": "KqpOSqHC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663567,
+      "fileId": 5529173
     }
   ],
   "fabric": [

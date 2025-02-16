@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vSdZ5THv",
+      "versionId": "o6fA7uei"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1118803,
+      "fileId": 5963902
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "danse",
+      "version": "1.0.4+1.21.4"
+    },
+    {
+      "modId": "bil",
+      "version": "1.1.14+1.21.4"
+    }
+  ]
+}

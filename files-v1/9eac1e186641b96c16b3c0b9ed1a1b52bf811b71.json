@@ -1,6 +1,18 @@
 {
   "name": "simplepipes-all-0.8.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ls90k6B8",
+      "versionId": "SF3P5Cg1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318004,
+      "fileId": 4465017
+    }
+  ],
   "fabric": [
     {
       "modId": "simple_pipes_dep_container",

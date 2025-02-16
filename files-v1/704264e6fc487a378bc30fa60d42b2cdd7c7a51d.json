@@ -1,6 +1,18 @@
 {
   "name": "Bloxys Structures 1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vo7reSUa",
+      "versionId": "ioEzLzqo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 503374,
+      "fileId": 4582361
+    }
+  ],
   "forge": [
     {
       "modId": "bloxys_structures",

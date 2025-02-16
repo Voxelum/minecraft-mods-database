@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yv3OK08E",
+      "versionId": "oNxZW3Xy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 921259,
+      "fileId": 5959685
+    }
+  ],
+  "forge": [
+    {
+      "modId": "selfexpression",
+      "version": "2.19.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "selfexpression",
+      "version": "2.6.1"
+    }
+  ]
+}

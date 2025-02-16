@@ -1,6 +1,18 @@
 {
   "name": "1.16.5-robs_floating_islands-v1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZliMkJKA",
+      "versionId": "fB0olzs4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 692073,
+      "fileId": 4044000
+    }
+  ],
   "forge": [
     {
       "modId": "robs_floating_islands",

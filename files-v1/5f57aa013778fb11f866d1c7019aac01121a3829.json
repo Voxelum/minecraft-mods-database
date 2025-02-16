@@ -1,0 +1,22 @@
+{
+  "name": "rzns-hallucinate-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ezNcmZjv",
+      "versionId": "lMpyGVZM"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_rzns_hallucinate",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_rzns_hallucinate",
+      "version": "1.2"
+    }
+  ]
+}

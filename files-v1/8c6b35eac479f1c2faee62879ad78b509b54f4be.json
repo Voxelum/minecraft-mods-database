@@ -1,6 +1,18 @@
 {
   "name": "mysticalagriculture-1.12-1.6.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C95ReXie",
+      "versionId": "gjQeaQYU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246640,
+      "fileId": 2511036
+    }
+  ],
   "forge": [
     {
       "modId": "mysticalagriculture",

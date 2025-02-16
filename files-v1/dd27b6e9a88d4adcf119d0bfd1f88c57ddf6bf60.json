@@ -1,6 +1,18 @@
 {
   "name": "xnet-1.12-1.7.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iu1jkWqa",
+      "versionId": "718Y9AER"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 260912,
+      "fileId": 2616384
+    }
+  ],
   "forge": [
     {
       "modId": "xnet",

@@ -1,6 +1,18 @@
 {
   "name": "irons_spellbooks-1.19.2-1.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s4OWxYQQ",
+      "versionId": "hpcuIu4g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 855414,
+      "fileId": 4693051
+    }
+  ],
   "forge": [
     {
       "modId": "irons_spellbooks",

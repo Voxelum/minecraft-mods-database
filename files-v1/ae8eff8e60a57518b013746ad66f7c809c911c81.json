@@ -1,6 +1,18 @@
 {
   "name": "automaticdoors-1.19.4-4.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PGBgocFc",
+      "versionId": "hFWknt8T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347635,
+      "fileId": 4439419
+    }
+  ],
   "forge": [
     {
       "modId": "automaticdoors",

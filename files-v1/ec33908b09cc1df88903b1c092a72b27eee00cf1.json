@@ -1,6 +1,18 @@
 {
   "name": "t_and_t-1.12.1-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DjLobEOy",
+      "versionId": "o3vR2FH6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 626761,
+      "fileId": 5162903
+    }
+  ],
   "forge": [
     {
       "modId": "t_and_t",

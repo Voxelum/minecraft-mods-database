@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J6U9o3JG",
+      "versionId": "TdX91cpK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849217,
+      "fileId": 5440728
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "huskhomes",
+      "version": "4.6.3-33d9868"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.13.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0-pre.1+1.20.5"
+    },
+    {
+      "modId": "redis_clients_jedis",
+      "version": "5.1.3"
+    },
+    {
+      "modId": "org_apache_commons_commons-pool2",
+      "version": "2.12.0"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "8.4.0"
+    },
+    {
+      "modId": "org_mariadb_jdbc_mariadb-java-client",
+      "version": "3.4.0"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.46.0.0"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "2.2.220"
+    }
+  ]
+}

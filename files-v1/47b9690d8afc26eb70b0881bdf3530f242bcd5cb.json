@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AbPBTO0Y",
+      "versionId": "CgcI86Qa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 782155,
+      "fileId": 5675346
+    }
+  ],
   "forge": [
     {
       "modId": "SpiceOfLife",

@@ -1,0 +1,26 @@
+{
+  "name": "Zoomi-1.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lnTa8VO5",
+      "versionId": "dkjJHz6j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1037483,
+      "fileId": 5991665
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoomi",
+      "version": "1.6"
+    },
+    {
+      "modId": "owo",
+      "version": "0.12.19+1.21.4"
+    }
+  ]
+}

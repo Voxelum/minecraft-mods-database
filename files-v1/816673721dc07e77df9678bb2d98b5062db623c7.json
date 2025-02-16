@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "incendium",
+      "version": "5.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "incendium",
+      "version": "5.3.5"
+    }
+  ]
+}

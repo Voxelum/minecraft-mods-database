@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XZNI4Cpy",
+      "versionId": "vCfZmtDS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_storage",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    }
+  ]
+}

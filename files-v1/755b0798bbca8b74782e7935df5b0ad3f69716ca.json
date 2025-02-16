@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r0zJa8lV",
+      "versionId": "MSEuF3Z4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849595,
+      "fileId": 4651213
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mutationcraft",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mutationcraft_origins",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "XaerosWorldMap_1.14.1.27_Forge_1.7.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NcUtCpym",
+      "versionId": "BEDFycdT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317780,
+      "fileId": 4685525
+    }
+  ],
   "forge": [
     {
       "modId": "XaeroWorldMap",

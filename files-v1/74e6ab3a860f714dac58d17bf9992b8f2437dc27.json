@@ -1,6 +1,18 @@
 {
   "name": "GeOre-1.18.2-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xw6zG9hl",
+      "versionId": "4Uz81xFx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 530544,
+      "fileId": 4009998
+    }
+  ],
   "forge": [
     {
       "modId": "geore",

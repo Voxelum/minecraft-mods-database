@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kfr0BQO9",
+      "versionId": "D6SFe5d3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618800,
+      "fileId": 5317118
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantmentsplus",

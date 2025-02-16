@@ -1,6 +1,12 @@
 {
   "name": "vinery-forge-1.2.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 704465,
+      "fileId": 4546140
+    }
+  ],
   "forge": [
     {
       "modId": "vinery",

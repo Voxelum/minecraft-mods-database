@@ -1,6 +1,18 @@
 {
   "name": "nether-chest-mc1.20-5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "okOUGirG",
+      "versionId": "zzztVW2K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 494585,
+      "fileId": 4969445
+    }
+  ],
   "fabric": [
     {
       "modId": "nether_chest",

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mtr_addon_sign_fabric_",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mtr_addon_sign_fabric_",
+      "version": "1.0.0"
+    }
+  ]
+}

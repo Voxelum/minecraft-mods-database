@@ -1,6 +1,12 @@
 {
   "name": "luggage-1.3.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 594709,
+      "fileId": 3870818
+    }
+  ],
   "forge": [
     {
       "modId": "luggage",

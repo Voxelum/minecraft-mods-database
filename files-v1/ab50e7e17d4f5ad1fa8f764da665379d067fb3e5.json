@@ -1,0 +1,20 @@
+{
+  "name": "Camerapture-1.6.0+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9dzLWnmZ",
+      "versionId": "5BuTgH8U"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "camerapture",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "io_github_darkxanter_webp-imageio",
+      "version": "0.3.2"
+    }
+  ]
+}

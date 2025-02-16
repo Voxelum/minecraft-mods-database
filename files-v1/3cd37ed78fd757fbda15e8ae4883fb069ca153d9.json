@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BsfnmJP5",
+      "versionId": "clYk2ddV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autocraft",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "libgui",
+      "version": "7.0.0-beta.2+1.19.4"
+    }
+  ]
+}

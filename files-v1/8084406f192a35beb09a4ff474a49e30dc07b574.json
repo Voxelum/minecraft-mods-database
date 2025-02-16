@@ -1,0 +1,16 @@
+{
+  "name": "mahoutsukai-1.21.0-v1.35.30.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 342543,
+      "fileId": 5945741
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mahoutsukai",
+      "version": "${version}"
+    }
+  ]
+}

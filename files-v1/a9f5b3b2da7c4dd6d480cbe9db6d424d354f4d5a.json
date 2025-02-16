@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oUoetxfR",
+      "versionId": "RpLUF9tv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909143,
+      "fileId": 5920602
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "walljump",
+      "version": "1.21.1-1.2.8-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "7.2.5-fabric"
+    },
+    {
+      "modId": "keybindfixtxf",
+      "version": "1.1.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "capsey-archeology-0.1.9-1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LWE2KdIY",
+      "versionId": "puw3ZUsW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 539957,
+      "fileId": 3827231
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "archeology",
+      "version": "0.1.9"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.4"
+    }
+  ]
+}

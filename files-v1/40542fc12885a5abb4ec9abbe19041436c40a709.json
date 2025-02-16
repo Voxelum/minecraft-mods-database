@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rcTfTZr3",
+      "versionId": "aMMNePbZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 334259,
+      "fileId": 5956105
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "presencefootsteps",
+      "version": "1.10.1+1.20.5"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.18.0+1.20.5"
+    }
+  ]
+}

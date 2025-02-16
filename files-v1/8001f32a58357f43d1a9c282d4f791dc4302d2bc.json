@@ -1,6 +1,12 @@
 {
   "name": "sonarcore-1.12.2-5.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 239418,
+      "fileId": 2512472
+    }
+  ],
   "forge": [
     {
       "modId": "sonarcore",

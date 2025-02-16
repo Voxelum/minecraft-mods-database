@@ -1,6 +1,18 @@
 {
   "name": "tenshilib-1.18.2-1.7.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P2rffivS",
+      "versionId": "XU4zx63z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312040,
+      "fileId": 4814658
+    }
+  ],
   "forge": [
     {
       "modId": "tenshilib",

@@ -1,6 +1,18 @@
 {
   "name": "geophilic-1.19.4-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hl5OLM95",
+      "versionId": "kVzJHQxV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711216,
+      "fileId": 4459596
+    }
+  ],
   "forge": [
     {
       "modId": "geophilic",

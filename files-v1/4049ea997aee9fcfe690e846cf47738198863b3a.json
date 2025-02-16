@@ -1,6 +1,18 @@
 {
   "name": "InventoryProfilesNext-fabric-1.16-1.10.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O7RBXm3n",
+      "versionId": "QSCgM2i8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495267,
+      "fileId": 4601358
+    }
+  ],
   "fabric": [
     {
       "modId": "inventoryprofilesnext",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LIYB1RfI",
+      "versionId": "PhEdEJ0k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1018536,
+      "fileId": 5483666
+    }
+  ],
   "fabric": [
     {
       "modId": "firehud",

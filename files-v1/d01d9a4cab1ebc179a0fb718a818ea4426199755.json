@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kt4RVKEd",
+      "versionId": "Er8wXYv6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 711899,
+      "fileId": 5523282
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beekeeperhut",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

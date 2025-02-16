@@ -1,6 +1,18 @@
 {
   "name": "no-more-purple-1.0.1+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "32J251wv",
+      "versionId": "76PbBP62"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 664464,
+      "fileId": 3950683
+    }
+  ],
   "fabric": [
     {
       "modId": "no_more_purple",

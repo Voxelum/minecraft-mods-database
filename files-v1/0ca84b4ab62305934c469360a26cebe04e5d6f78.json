@@ -1,0 +1,20 @@
+{
+  "name": "MobCatcher-Fabric-1.21-1.5.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 498389,
+      "fileId": 5424717
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mob_catcher",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

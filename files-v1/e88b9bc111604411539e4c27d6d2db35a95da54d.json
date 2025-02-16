@@ -1,6 +1,18 @@
 {
   "name": "AoA3-1.19.4-3.6.26.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9qn2AQBc",
+      "versionId": "llHli4yt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 311054,
+      "fileId": 4550483
+    }
+  ],
   "forge": [
     {
       "modId": "aoa3",

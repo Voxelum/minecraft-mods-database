@@ -1,6 +1,18 @@
 {
   "name": "block_limit_fix-1.0.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oJtNN7Tj",
+      "versionId": "zyizcPKh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 757020,
+      "fileId": 4783504
+    }
+  ],
   "forge": [
     {
       "modId": "block_limit_fix",

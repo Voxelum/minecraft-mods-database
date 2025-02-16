@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHfCZDqf",
+      "versionId": "O2f0XKSj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 650569,
+      "fileId": 5920691
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "foodtxf",
+      "version": "1.21.3-1.7.9-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "8.2.5-fabric"
+    }
+  ]
+}

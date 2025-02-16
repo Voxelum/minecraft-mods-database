@@ -1,6 +1,18 @@
 {
   "name": "polylib-fabric-1801.0.2-build.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6lvkzFFj",
+      "versionId": "pXI4LsTl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576589,
+      "fileId": 3813295
+    }
+  ],
   "fabric": [
     {
       "modId": "polylib",

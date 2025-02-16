@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g8w1NapE",
+      "versionId": "73qNl1YK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390114,
+      "fileId": 5428364
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabrictailor",
+      "version": "2.4.2"
+    },
+    {
+      "modId": "config2brigadier",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

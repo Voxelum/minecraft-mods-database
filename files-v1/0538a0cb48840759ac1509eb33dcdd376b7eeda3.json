@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-data-generation-api-v1",
+      "version": "21.0.17+fd37071f40"
+    }
+  ]
+}

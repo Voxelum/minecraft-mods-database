@@ -1,0 +1,22 @@
+{
+  "name": "EnhancedVisuals_FABRIC_v1.6.4_mc1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KjL0jE2w",
+      "versionId": "Kp2DNhap"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.6.4"
+    }
+  ]
+}

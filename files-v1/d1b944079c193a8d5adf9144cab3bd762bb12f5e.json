@@ -1,6 +1,12 @@
 {
   "name": "entityculling-fabric-mc1.18-1.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 448233,
+      "fileId": 3642143
+    }
+  ],
   "fabric": [
     {
       "modId": "entityculling",

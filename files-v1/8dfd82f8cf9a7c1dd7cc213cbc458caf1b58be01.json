@@ -1,6 +1,18 @@
 {
   "name": "kubejs_tfc-1.18.2-0.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mhtClB2S",
+      "versionId": "R0CZq64Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841001,
+      "fileId": 4809974
+    }
+  ],
   "forge": [
     {
       "modId": "kubejs_tfc",

@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5TABPEIf",
+      "versionId": "wEFp0avd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1090535,
+      "fileId": 5916325
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glassier",
+      "version": "0.1.1+alpha+1.20.1"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "3.3.9"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.1.1+1.20.1"
+    },
+    {
+      "modId": "q_misc_util",
+      "version": "3.3.9"
+    }
+  ]
+}

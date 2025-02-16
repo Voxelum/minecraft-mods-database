@@ -1,6 +1,18 @@
 {
   "name": "Jellyfishing-1.6.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dtHW7aaA",
+      "versionId": "V356d9WT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397703,
+      "fileId": 3197244
+    }
+  ],
   "forge": [
     {
       "modId": "jellyfishing",

@@ -1,0 +1,16 @@
+{
+  "name": "nophantomnocry-1.16.5-3.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 349482,
+      "fileId": 3320863
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nophantomnocry",
+      "version": "${version}"
+    }
+  ]
+}

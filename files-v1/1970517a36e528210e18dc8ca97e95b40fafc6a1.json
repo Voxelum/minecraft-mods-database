@@ -1,6 +1,12 @@
 {
   "name": "startinv-1.0.0-fabric-1.20.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 944149,
+      "fileId": 4950605
+    }
+  ],
   "fabric": [
     {
       "modId": "startinv",

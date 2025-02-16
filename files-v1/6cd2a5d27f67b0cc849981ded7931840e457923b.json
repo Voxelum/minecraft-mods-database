@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vFAmwl6B",
+      "versionId": "3Xe9yeOx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1052708,
+      "fileId": 5962166
+    }
+  ],
+  "forge": [
+    {
+      "modId": "customnpcs",
+      "version": "1.20.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customnpcs",
+      "version": "1.0.0"
+    }
+  ]
+}

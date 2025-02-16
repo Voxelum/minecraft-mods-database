@@ -1,6 +1,12 @@
 {
   "name": "Meteor-Client-Mod-Fabric-1.19.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 858928,
+      "fileId": 4576634
+    }
+  ],
   "fabric": [
     {
       "modId": "meteor-client",

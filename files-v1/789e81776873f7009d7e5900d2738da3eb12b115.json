@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WECKae1F",
+      "versionId": "gr53g2LS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dimlib",
+      "version": "1.0.2+mc1.20.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.1"
+    }
+  ]
+}

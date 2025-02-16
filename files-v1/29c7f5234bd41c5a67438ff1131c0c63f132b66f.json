@@ -1,6 +1,18 @@
 {
   "name": "Industrial Agriculture[Core]-1.19.2-1.9.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mCkStePk",
+      "versionId": "J47LLin1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356483,
+      "fileId": 4439101
+    }
+  ],
   "forge": [
     {
       "modId": "industrialagriculture",

@@ -1,0 +1,46 @@
+{
+  "name": "sodium-fabric-0.6.3+mc1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AANobbMI",
+      "versionId": "iPRNybGo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394468,
+      "fileId": 5970298
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "0.6.3+mc1.21.4"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.56+73761d2e82"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.18+7feeb73382"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.52+8ca5486f82"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.9+203e6b2382"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "5.0.0+84404cdd82"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.17+7feeb73382"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "infinite-music-0.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OJLdOa8k",
+      "versionId": "YeKqV93s"
+    }
+  ],
   "fabric": [
     {
       "modId": "infinite-music",

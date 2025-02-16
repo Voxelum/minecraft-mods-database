@@ -1,6 +1,18 @@
 {
   "name": "Futurepack-1.16.5-31.3.7005.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PQswOZLO",
+      "versionId": "qQC3pgiN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237333,
+      "fileId": 3603244
+    }
+  ],
   "forge": [
     {
       "modId": "futurepack",

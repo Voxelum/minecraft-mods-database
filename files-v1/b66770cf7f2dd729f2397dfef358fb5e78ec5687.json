@@ -1,6 +1,18 @@
 {
   "name": "lootbagmod-1.16.5-1.6.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CfkXuc7e",
+      "versionId": "Q3Z2xVn7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356236,
+      "fileId": 3184320
+    }
+  ],
   "forge": [
     {
       "modId": "lootbagmod",

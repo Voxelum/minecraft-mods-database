@@ -1,6 +1,12 @@
 {
   "name": "stutterfix-mc1.21-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FimwF33K",
+      "versionId": "8shnjIoG"
+    }
+  ],
   "fabric": [
     {
       "modId": "stutterfix",

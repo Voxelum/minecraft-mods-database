@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y8o1j1Sf",
+      "versionId": "6FB2l9zd"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better-fabric-console",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_fusesource_jansi_jansi",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "org_jline_jline-terminal-jansi",
+      "version": "3.27.0"
+    },
+    {
+      "modId": "org_jline_jline",
+      "version": "3.27.0"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.11"
+    },
+    {
+      "modId": "net_fabricmc_mapping-io",
+      "version": "0.6.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.1"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.1"
+    }
+  ]
+}

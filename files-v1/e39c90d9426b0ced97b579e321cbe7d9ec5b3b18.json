@@ -1,0 +1,40 @@
+{
+  "name": "defile-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DfvI9QGt",
+      "versionId": "fcGEQCfX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "defile",
+      "version": "1.0.0-1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "datasync_minecraft",
+      "version": "0.6.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.14.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    }
+  ]
+}

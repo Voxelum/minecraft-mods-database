@@ -1,0 +1,28 @@
+{
+  "name": "rhino-2101.2.6-build.56.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sk9knFPE",
+      "versionId": "QHSbxlEq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416294,
+      "fileId": 5987883
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "2101.2.6-build.56"
+    }
+  ]
+}

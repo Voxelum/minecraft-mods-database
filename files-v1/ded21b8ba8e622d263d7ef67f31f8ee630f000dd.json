@@ -1,6 +1,18 @@
 {
   "name": "tellme-forge-1.19.2-0.10.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ytk7UEym",
+      "versionId": "NcfuKEtu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 225781,
+      "fileId": 4139851
+    }
+  ],
   "forge": [
     {
       "modId": "tellme",

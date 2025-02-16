@@ -1,0 +1,26 @@
+{
+  "name": "MineMath-2.0.0-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YAbaLUgy",
+      "versionId": "PjH7eebl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910327,
+      "fileId": 5609409
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minemath",
+      "version": "2.0.0-1.21.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    }
+  ]
+}

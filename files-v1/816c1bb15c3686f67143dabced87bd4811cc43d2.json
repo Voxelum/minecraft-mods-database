@@ -1,0 +1,28 @@
+{
+  "name": "continuity-3.0.0+1.20.1.forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1IjD5062",
+      "versionId": "9KbAcWSO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531351,
+      "fileId": 5981334
+    }
+  ],
+  "forge": [
+    {
+      "modId": "continuity",
+      "version": "3.0.0+1.20.1.forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "continuity",
+      "version": "3.0.0+1.20.1.forge"
+    }
+  ]
+}

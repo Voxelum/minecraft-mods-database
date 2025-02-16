@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lcr6Ckb4",
+      "versionId": "2u7rqT99"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 983033,
+      "fileId": 5416898
+    }
+  ],
   "fabric": [
     {
       "modId": "electromechanics",

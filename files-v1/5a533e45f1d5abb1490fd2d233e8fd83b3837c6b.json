@@ -1,6 +1,12 @@
 {
   "name": "brain-over-brawn-0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s95VNRi1",
+      "versionId": "odW5Rn2e"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_brain_overbrawn",

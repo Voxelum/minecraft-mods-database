@@ -1,6 +1,18 @@
 {
   "name": "qcraft-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uwzLLQUA",
+      "versionId": "lsPUi68v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594482,
+      "fileId": 3785496
+    }
+  ],
   "fabric": [
     {
       "modId": "qcraft",

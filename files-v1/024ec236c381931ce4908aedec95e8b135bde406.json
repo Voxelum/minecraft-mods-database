@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "etNS9OnA",
+      "versionId": "CZTbg5HK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recipe-book-is-pain",
+      "version": "0.11.0-1.20.1"
+    },
+    {
+      "modId": "dark-matter-base",
+      "version": "3.1.0-1.20"
+    },
+    {
+      "modId": "dark-matter-minecraft",
+      "version": "3.1.0-1.20"
+    },
+    {
+      "modId": "dark-matter-enums",
+      "version": "3.1.0-1.20"
+    },
+    {
+      "modId": "dark-matter-recipe-book",
+      "version": "3.1.0-1.20"
+    }
+  ]
+}

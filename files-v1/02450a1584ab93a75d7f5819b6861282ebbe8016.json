@@ -1,6 +1,12 @@
 {
   "name": "builtin-servers-2.0-BETA+1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 473131,
+      "fileId": 3857552
+    }
+  ],
   "fabric": [
     {
       "modId": "builtinservers",

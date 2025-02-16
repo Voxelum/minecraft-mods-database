@@ -1,6 +1,18 @@
 {
   "name": "Unexperienced-1.20-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y0iFTQ9H",
+      "versionId": "rM8mkD60"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552526,
+      "fileId": 4579066
+    }
+  ],
   "forge": [
     {
       "modId": "unexperienced",

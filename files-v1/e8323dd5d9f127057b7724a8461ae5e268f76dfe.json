@@ -1,6 +1,18 @@
 {
   "name": "chunksfadein-v3.0.7-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaNmzvA8",
+      "versionId": "iFcLLQFI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 720811,
+      "fileId": 4320576
+    }
+  ],
   "fabric": [
     {
       "modId": "chunksfadein",

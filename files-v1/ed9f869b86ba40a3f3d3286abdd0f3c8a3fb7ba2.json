@@ -1,0 +1,24 @@
+{
+  "name": "fzmm-mc1.21.1-0.2.15.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tAvlhiZW",
+      "versionId": "Qwqp8I2H"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzmm",
+      "version": "0.2.15"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.13+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.1+1.21"
+    }
+  ]
+}

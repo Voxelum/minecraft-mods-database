@@ -1,6 +1,12 @@
 {
   "name": "conduit-1.0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 322124,
+      "fileId": 2850235
+    }
+  ],
   "forge": [
     {
       "modId": "conduit",

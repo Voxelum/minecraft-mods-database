@@ -1,6 +1,12 @@
 {
   "name": "easyflint-1.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZULGshGp",
+      "versionId": "Swff2dNl"
+    }
+  ],
   "forge": [
     {
       "modId": "easyflint_mr",

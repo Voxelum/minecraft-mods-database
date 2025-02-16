@@ -1,6 +1,12 @@
 {
   "name": "consistency_plus-0.5.0-RC1+1.18.1-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 430445,
+      "fileId": 3608048
+    }
+  ],
   "fabric": [
     {
       "modId": "consistency_plus",

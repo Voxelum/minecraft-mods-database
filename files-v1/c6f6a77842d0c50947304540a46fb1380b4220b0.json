@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oX6SohLj",
+      "versionId": "5j3bf1T2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632066,
+      "fileId": 5605934
+    }
+  ],
   "fabric": [
     {
       "modId": "soulsweapons",

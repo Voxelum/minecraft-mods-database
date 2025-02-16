@@ -1,6 +1,12 @@
 {
   "name": "scenic-1.16.5-1.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 552017,
+      "fileId": 3546439
+    }
+  ],
   "forge": [
     {
       "modId": "scenic",

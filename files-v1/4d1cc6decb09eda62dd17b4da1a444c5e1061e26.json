@@ -1,9 +1,16 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "clPzT5Yw",
       "versionId": "52h06zBr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yanva_moonphase",
+      "version": "1.0"
     }
   ]
 }

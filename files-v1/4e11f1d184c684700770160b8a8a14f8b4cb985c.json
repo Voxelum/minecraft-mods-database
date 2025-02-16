@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "backrooms",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta66-1.21"
+    }
+  ]
+}

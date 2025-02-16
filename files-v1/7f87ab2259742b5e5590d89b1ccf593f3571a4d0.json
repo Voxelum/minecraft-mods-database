@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "temczoTQ",
+      "versionId": "Ksjb1AQt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623806,
+      "fileId": 5945102
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autohud",
+      "version": "8.0"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "2.1"
+    }
+  ]
+}

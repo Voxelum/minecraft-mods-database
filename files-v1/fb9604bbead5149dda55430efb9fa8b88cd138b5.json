@@ -1,0 +1,148 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cp13oI7e",
+      "versionId": "wpRumYKS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bbsentials",
+      "version": "0.99.2.8"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.9"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "7.0.0.202409031743-r"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.12.0"
+    },
+    {
+      "modId": "moe_nea_neurepoparser",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "me_nullicorn_nedit",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_github_jncrmx_discord-game-sdk4j",
+      "version": "0.5.5"
+    },
+    {
+      "modId": "net_dv8tion_jda",
+      "version": "5.1.1"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.12.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk8",
+      "version": "1.9.10"
+    },
+    {
+      "modId": "net_sf_trove4j_core",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.2"
+    },
+    {
+      "modId": "com_google_crypto_tink_tink",
+      "version": "1.14.1"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "2.0.13"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.14"
+    },
+    {
+      "modId": "club_minnced_opus-java",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-collections4",
+      "version": "4.4"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.28.0-GA"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-jdk7",
+      "version": "1.9.10"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "1.9.10"
+    },
+    {
+      "modId": "com_google_code_gson_gson",
+      "version": "2.10.1"
+    },
+    {
+      "modId": "com_google_errorprone_error_prone_annotations",
+      "version": "2.22.0"
+    },
+    {
+      "modId": "com_google_protobuf_protobuf-java",
+      "version": "3.25.3"
+    },
+    {
+      "modId": "club_minnced_opus-java-api",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "club_minnced_opus-java-natives",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "net_java_dev_jna_jna",
+      "version": "4.4.0"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib-common",
+      "version": "1.9.10"
+    },
+    {
+      "modId": "org_jetbrains_annotations",
+      "version": "13.0"
+    }
+  ]
+}

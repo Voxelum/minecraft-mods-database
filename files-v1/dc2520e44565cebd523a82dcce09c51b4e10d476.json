@@ -1,0 +1,28 @@
+{
+  "name": "illager_expansion-1.5.0+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zkp424MG",
+      "versionId": "QEfKdKOW"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illagerexp",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.8.1+1.21.4"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

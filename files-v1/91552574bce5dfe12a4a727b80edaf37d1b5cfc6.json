@@ -1,6 +1,12 @@
 {
   "name": "secretrooms-6.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 59652,
+      "fileId": 2819661
+    }
+  ],
   "forge": [
     {
       "modId": "secretroomsmod",

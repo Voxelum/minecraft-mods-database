@@ -1,0 +1,26 @@
+{
+  "name": "torchmaster-fabric-1.21.1-21.1.5-beta.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tl8ESrhX",
+      "versionId": "7awgE9ZB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 254268,
+      "fileId": 5827076
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "torchmaster",
+      "version": "21.1.5-beta"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.11+1.21"
+    }
+  ]
+}

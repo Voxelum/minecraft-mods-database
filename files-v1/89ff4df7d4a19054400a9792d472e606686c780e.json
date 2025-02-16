@@ -1,6 +1,12 @@
 {
   "name": "musictriggers-1.19.2-fabric-6.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RXDYkg6Z",
+      "versionId": "lwdnAPeu"
+    }
+  ],
   "fabric": [
     {
       "modId": "musictriggers",

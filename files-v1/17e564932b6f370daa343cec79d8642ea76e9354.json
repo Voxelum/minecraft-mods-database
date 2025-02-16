@@ -1,6 +1,12 @@
 {
   "name": "enchantwithmob-fabric-1.19.2+1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391187,
+      "fileId": 4120688
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantwithmob",

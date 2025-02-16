@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZdEfcqro",
+      "versionId": "cF9NS4W0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1137971,
+      "fileId": 5954720
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trickster",
+      "version": "2.0.0-beta.8"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "io_vavr_vavr",
+      "version": "0.10.5"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.14+1.21"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "lavender-md-owo-ui",
+      "version": "0.1.2+1.21"
+    }
+  ]
+}

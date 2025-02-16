@@ -1,6 +1,12 @@
 {
   "name": "topaddons-1.12.2-1.9.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 247111,
+      "fileId": 2625848
+    }
+  ],
   "forge": [
     {
       "modId": "topaddons",

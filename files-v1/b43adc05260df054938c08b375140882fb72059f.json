@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PKI5O2ED",
+      "versionId": "nJfW0VP8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687162,
+      "fileId": 5949468
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smallstairs",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "mcpitanlib_checker",
+      "version": "100.1.0.4"
+    }
+  ]
+}

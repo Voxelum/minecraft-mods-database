@@ -1,6 +1,18 @@
 {
   "name": "grieflogger-1.1.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8oGVUFuX",
+      "versionId": "ADjSUSJN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 435029,
+      "fileId": 5104753
+    }
+  ],
   "forge": [
     {
       "modId": "grieflogger",

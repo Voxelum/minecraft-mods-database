@@ -1,6 +1,12 @@
 {
   "name": "platforms-forge-1.16.2-lts-1.7.18.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244786,
+      "fileId": 4859127
+    }
+  ],
   "forge": [
     {
       "modId": "platforms",

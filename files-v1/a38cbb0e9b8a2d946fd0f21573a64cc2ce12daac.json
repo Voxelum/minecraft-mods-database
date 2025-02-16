@@ -1,6 +1,12 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WpZeWuIG",
+      "versionId": "1riAZaNG"
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric_kotlin_extensions",

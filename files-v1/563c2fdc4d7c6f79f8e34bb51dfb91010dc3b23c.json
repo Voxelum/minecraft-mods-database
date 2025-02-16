@@ -1,0 +1,28 @@
+{
+  "name": "spwn-0.2.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IIovhOMS",
+      "versionId": "ZopZH31B"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spwn",
+      "version": "0.2.1+1.21.1"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.1"
+    },
+    {
+      "modId": "owo",
+      "version": "0.12.14-pre.1+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

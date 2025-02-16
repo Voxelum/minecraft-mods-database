@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 332273,
+      "fileId": 3252475
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "0.88"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "0.88"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.11.15"
+    },
+    {
+      "modId": "modmenu",
+      "version": "v1.16.8+unknown.bd9230a"
+    }
+  ]
+}

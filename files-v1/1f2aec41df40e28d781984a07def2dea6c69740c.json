@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gA5euN8S",
+      "versionId": "D4gm3QVe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594006,
+      "fileId": 5233100
+    }
+  ],
   "fabric": [
     {
       "modId": "easyshulkerboxes",

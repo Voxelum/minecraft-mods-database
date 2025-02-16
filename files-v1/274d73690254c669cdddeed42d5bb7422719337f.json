@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZfVQ3Rjs",
+      "versionId": "qUmmiJbu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mealapi",
+      "version": "0.3+1.16"
+    },
+    {
+      "modId": "cloth-config-lite",
+      "version": "1.0.4"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1s5x833P",
+      "versionId": "M9uQNAgP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851046,
+      "fileId": 5988655
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "2.2.6"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "org_apache_httpcomponents_core5_httpcore5",
+      "version": "5.3.1"
+    },
+    {
+      "modId": "org_apache_maven_maven-artifact",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "org_kohsuke_github-api",
+      "version": "1.318"
+    }
+  ]
+}

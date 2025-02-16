@@ -1,6 +1,18 @@
 {
   "name": "trashcans-1.0.18a-forge-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4QrnfueM",
+      "versionId": "GY4uDvwe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394535,
+      "fileId": 4665996
+    }
+  ],
   "forge": [
     {
       "modId": "trashcans",

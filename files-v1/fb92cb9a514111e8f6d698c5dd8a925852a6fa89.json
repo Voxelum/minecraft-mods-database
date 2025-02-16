@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TwYypE5e",
+      "versionId": "nKuR3WHI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1132220,
+      "fileId": 5864859
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clearview",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.4"
+    }
+  ]
+}

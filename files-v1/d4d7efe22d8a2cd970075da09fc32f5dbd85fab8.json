@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H0x6CMOI",
+      "versionId": "R977jWFw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431171,
+      "fileId": 5258966
+    }
+  ],
   "fabric": [
     {
       "modId": "third_person_maps",

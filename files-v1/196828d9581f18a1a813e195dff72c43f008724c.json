@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.8+1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0-beta.2"
+    }
+  ]
+}

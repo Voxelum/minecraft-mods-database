@@ -1,6 +1,12 @@
 {
   "name": "world-host-0.4.8+1.19.4-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2AIZDfYo",
+      "versionId": "gXuD95df"
+    }
+  ],
   "fabric": [
     {
       "modId": "world-host",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EzhRF5Uw",
+      "versionId": "ElMwDqdG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 544804,
+      "fileId": 5471823
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mahjongcraft",
+      "version": "0.3.13"
+    },
+    {
+      "modId": "com_github_mahjong4j_mahjong4j",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "10.0.0+1.20.6"
+    }
+  ]
+}

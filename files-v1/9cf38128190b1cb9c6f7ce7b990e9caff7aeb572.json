@@ -1,6 +1,18 @@
 {
   "name": "fallingtrees-0.7-beta-fabric-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i2kUe4lq",
+      "versionId": "BZRjHtYY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880630,
+      "fileId": 4855592
+    }
+  ],
   "fabric": [
     {
       "modId": "fallingtrees",

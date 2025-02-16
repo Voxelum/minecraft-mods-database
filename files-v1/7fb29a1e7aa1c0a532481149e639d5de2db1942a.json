@@ -1,6 +1,18 @@
 {
   "name": "immersive_armors-1.5.2+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eE2Db4YU",
+      "versionId": "nArYo9sW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580681,
+      "fileId": 4277697
+    }
+  ],
   "fabric": [
     {
       "modId": "immersive_armors",

@@ -1,6 +1,12 @@
 {
   "name": "adventurepack-1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 289654,
+      "fileId": 3223635
+    }
+  ],
   "forge": [
     {
       "modId": "adventurepack",

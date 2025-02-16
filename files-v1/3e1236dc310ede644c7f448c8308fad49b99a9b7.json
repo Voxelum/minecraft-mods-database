@@ -1,6 +1,12 @@
 {
   "name": "minimotd-fabric-mc1.20.1-2.0.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "16vhQOQN",
+      "versionId": "SxaMhttu"
+    }
+  ],
   "fabric": [
     {
       "modId": "minimotd-fabric",

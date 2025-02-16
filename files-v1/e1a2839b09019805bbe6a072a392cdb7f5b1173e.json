@@ -1,0 +1,16 @@
+{
+  "name": "nuclearcraft-1.12.2-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 488116,
+      "fileId": 5341300
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cotro",
+      "version": "@VERSION@"
+    }
+  ]
+}

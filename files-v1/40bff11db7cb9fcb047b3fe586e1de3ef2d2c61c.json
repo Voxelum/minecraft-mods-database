@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XiRvJdl1",
+      "versionId": "cWtMFOcK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930256,
+      "fileId": 5430133
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomesquisher",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "dev_lukebemish_opensesame_opensesame-fabric",
+      "version": "0.5.13"
+    },
+    {
+      "modId": "io_github_xfacthd_pnj",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "moveboats-1.19.2-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7qPEjpyt",
+      "versionId": "SLnGlTGF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344801,
+      "fileId": 4964323
+    }
+  ],
   "forge": [
     {
       "modId": "moveboats",

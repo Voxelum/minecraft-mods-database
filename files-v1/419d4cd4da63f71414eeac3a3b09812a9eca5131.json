@@ -1,6 +1,12 @@
 {
   "name": "wired-redstone-0.4.17+1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 639871,
+      "fileId": 4414946
+    }
+  ],
   "fabric": [
     {
       "modId": "wiredredstone",

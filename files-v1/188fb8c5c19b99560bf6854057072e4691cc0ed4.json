@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "swbUV1cr",
       "versionId": "1zhVy0wv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406463,
+      "fileId": 5725787
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bluemap",
+      "version": "5.4"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "SkyHanni-mc1.8.9-0.28.Beta.18.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "skyhanni",
+      "version": "0.28.Beta.18"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyhanni",
+      "version": "0.28.Beta.18"
+    }
+  ]
+}

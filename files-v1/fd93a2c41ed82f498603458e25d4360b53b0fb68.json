@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z8BTj1V5",
+      "versionId": "zLl8XtIT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reignitedhud",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "calculator-1.12.2-5.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225104,
+      "fileId": 2509148
+    }
+  ],
   "forge": [
     {
       "modId": "calculator",

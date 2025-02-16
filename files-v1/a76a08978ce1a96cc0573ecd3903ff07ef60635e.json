@@ -1,6 +1,18 @@
 {
   "name": "shorkmod-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ioagFVzF",
+      "versionId": "WoqiWAuQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 828821,
+      "fileId": 4402960
+    }
+  ],
   "forge": [
     {
       "modId": "shorkmod",

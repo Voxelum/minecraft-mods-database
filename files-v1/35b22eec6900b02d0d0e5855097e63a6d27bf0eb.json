@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SlTIlcVM",
+      "versionId": "C07HaWbR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418373,
+      "fileId": 3105400
+    }
+  ],
   "fabric": [
     {
       "modId": "playerless",

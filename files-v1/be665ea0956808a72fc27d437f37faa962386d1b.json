@@ -1,0 +1,30 @@
+{
+  "name": "AdditionalEnchantedMiner-1.21.1-fabric-21.1.116.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhxX1zVW",
+      "versionId": "xjWN3oGd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282837,
+      "fileId": 5973090
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quarryplus",
+      "version": "21.1.116"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.7.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.7.3"
+    }
+  ]
+}

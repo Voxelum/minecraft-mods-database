@@ -1,0 +1,30 @@
+{
+  "name": "DynamicSurroundings-Fabric-1.17.1-0.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H7fshfpD",
+      "versionId": "nNjFR1QZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535715,
+      "fileId": 3497605
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dsurround",
+      "version": "0.0.4"
+    },
+    {
+      "modId": "org_openjdk_nashorn_nashorn-core",
+      "version": "15.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    }
+  ]
+}

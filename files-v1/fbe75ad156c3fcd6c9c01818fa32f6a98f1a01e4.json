@@ -1,0 +1,28 @@
+{
+  "name": "selfexpression-2.19.1-forge-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yv3OK08E",
+      "versionId": "AbM2LISD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 921259,
+      "fileId": 5949322
+    }
+  ],
+  "forge": [
+    {
+      "modId": "selfexpression",
+      "version": "2.19.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "selfexpression",
+      "version": "2.6.1"
+    }
+  ]
+}

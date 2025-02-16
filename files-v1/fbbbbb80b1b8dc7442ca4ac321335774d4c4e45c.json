@@ -1,0 +1,78 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aZj58GfX",
+      "versionId": "lRzVGc9w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 503866,
+      "fileId": 5899807
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easyauth",
+      "version": "3.0.19"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.0.0+1.20"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "de_mkammerer_argon2-jvm",
+      "version": "2.11"
+    },
+    {
+      "modId": "de_mkammerer_argon2-jvm-nolibs",
+      "version": "2.11"
+    },
+    {
+      "modId": "at_favre_lib_bcrypt",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "at_favre_lib_bytes",
+      "version": "1.5.0"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_iq80_leveldb_leveldb-api",
+      "version": "0.12"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-sync",
+      "version": "4.7.2"
+    },
+    {
+      "modId": "org_mongodb_mongodb-driver-core",
+      "version": "4.7.2"
+    },
+    {
+      "modId": "org_mongodb_bson",
+      "version": "4.7.2"
+    },
+    {
+      "modId": "com_mysql_mysql-connector-j",
+      "version": "8.0.33"
+    },
+    {
+      "modId": "net_java_dev_jna_jna",
+      "version": "5.12.1"
+    }
+  ]
+}

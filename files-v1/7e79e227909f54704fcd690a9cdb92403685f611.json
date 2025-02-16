@@ -1,6 +1,12 @@
 {
   "name": "roost-1.12-1.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 277711,
+      "fileId": 2504280
+    }
+  ],
   "forge": [
     {
       "modId": "roost",

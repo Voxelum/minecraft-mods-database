@@ -1,6 +1,12 @@
 {
   "name": "cauldron-dyeing-1.0.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5AgJnN8I",
+      "versionId": "u2xLJKr8"
+    }
+  ],
   "fabric": [
     {
       "modId": "cauldron_dyeing",

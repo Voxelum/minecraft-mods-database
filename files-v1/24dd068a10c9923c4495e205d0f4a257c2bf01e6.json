@@ -1,6 +1,18 @@
 {
   "name": "cobblefoods-1.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RS9D8OA1",
+      "versionId": "UxpBd6qc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 965579,
+      "fileId": 5141177
+    }
+  ],
   "fabric": [
     {
       "modId": "cobblefoods",

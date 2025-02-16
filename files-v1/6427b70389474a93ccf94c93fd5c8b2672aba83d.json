@@ -1,6 +1,18 @@
 {
   "name": "castleblocks-1.20.x-1.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Npcn4hpS",
+      "versionId": "1BX0MXI3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447162,
+      "fileId": 4660099
+    }
+  ],
   "fabric": [
     {
       "modId": "castleblocks",

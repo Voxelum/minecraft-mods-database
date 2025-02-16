@@ -1,6 +1,18 @@
 {
   "name": "queencats-1.0.4-1.19.2-Forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ajTHC1q6",
+      "versionId": "on87vUK3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 684706,
+      "fileId": 4490814
+    }
+  ],
   "forge": [
     {
       "modId": "queencats",

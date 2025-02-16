@@ -1,0 +1,26 @@
+{
+  "name": "essential_1-3-5-5_fabric_1-21-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k2ZPuTBm",
+      "versionId": "UZ6Zubin"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 546670,
+      "fileId": 5959915
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "essential-container",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "essential-loader",
+      "version": "1.2.3"
+    }
+  ]
+}

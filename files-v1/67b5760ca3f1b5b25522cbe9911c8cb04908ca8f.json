@@ -1,6 +1,18 @@
 {
   "name": "Forgematica-0.1.9-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dCKRaeBC",
+      "versionId": "3CPbjHDF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912441,
+      "fileId": 5381680
+    }
+  ],
   "forge": [
     {
       "modId": "forgematica",

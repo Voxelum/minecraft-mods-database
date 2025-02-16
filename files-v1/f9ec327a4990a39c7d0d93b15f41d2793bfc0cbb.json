@@ -1,6 +1,18 @@
 {
   "name": "biobutchers-delight-2.02.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tbxlThC8",
+      "versionId": "ck7pHeJL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1093935,
+      "fileId": 5719809
+    }
+  ],
   "forge": [
     {
       "modId": "mr_biobutchers_delight",

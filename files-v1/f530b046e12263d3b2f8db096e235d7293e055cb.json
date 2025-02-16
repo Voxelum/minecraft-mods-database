@@ -1,6 +1,18 @@
 {
   "name": "InventoryProfilesNext-forge-1.16-1.1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O7RBXm3n",
+      "versionId": "CF67T5xA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495267,
+      "fileId": 3533025
+    }
+  ],
   "forge": [
     {
       "modId": "inventoryprofilesnext",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YWGP4Y1d",
+      "versionId": "Umphbl9E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 533748,
+      "fileId": 5979986
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chalk",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

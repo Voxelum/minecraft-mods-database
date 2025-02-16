@@ -1,6 +1,12 @@
 {
   "name": "volumefix-1.1.0+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Iywe4QI4",
+      "versionId": "JT0G5l1c"
+    }
+  ],
   "fabric": [
     {
       "modId": "volumefix",

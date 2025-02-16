@@ -1,6 +1,12 @@
 {
   "name": "camerautils-fabric-1.19.2-1.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rrwQMaWQ",
+      "versionId": "qcLHgn3C"
+    }
+  ],
   "fabric": [
     {
       "modId": "camerautils",

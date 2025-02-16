@@ -1,6 +1,12 @@
 {
   "name": "mechtech-0.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 462540,
+      "fileId": 3428944
+    }
+  ],
   "forge": [
     {
       "modId": "mechtech",

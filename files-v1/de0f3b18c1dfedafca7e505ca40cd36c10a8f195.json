@@ -1,6 +1,18 @@
 {
   "name": "Resourcify (1.8.9-forge)-1.2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "6MUjiLfy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 4984509
+    }
+  ],
   "forge": [
     {
       "modId": "resourcify",

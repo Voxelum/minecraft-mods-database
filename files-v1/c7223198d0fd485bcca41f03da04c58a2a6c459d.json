@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UsIxG2yq",
+      "versionId": "ySj1tfXA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1115157,
+      "fileId": 5948440
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "liby",
+      "version": "1.21.1-build-1.4"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.2-GA"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

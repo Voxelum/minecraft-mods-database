@@ -1,0 +1,14 @@
+{
+  "name": "eft-mod-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "eftmod",
+      "version": "${version}"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20230227"
+    }
+  ]
+}

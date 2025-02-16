@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wxKGvopS",
+      "versionId": "vOUVx1Bm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581435,
+      "fileId": 5341264
+    }
+  ],
   "fabric": [
     {
       "modId": "forgero",

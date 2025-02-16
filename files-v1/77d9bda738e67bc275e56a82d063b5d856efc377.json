@@ -1,0 +1,26 @@
+{
+  "name": "reactivemusic-0.2.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bqnfeesx",
+      "versionId": "2rgBBIi9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960382,
+      "fileId": 5460875
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reactivemusic",
+      "version": "0.2.0-1.20.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

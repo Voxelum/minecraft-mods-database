@@ -1,6 +1,12 @@
 {
   "name": "Projectiles-1.0.0-1.19.2-Forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 917416,
+      "fileId": 5147605
+    }
+  ],
   "forge": [
     {
       "modId": "projectiles",

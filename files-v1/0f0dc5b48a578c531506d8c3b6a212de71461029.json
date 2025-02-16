@@ -1,6 +1,18 @@
 {
   "name": "better-nether-7.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MpzVLzy5",
+      "versionId": "MaTuYgp1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 311377,
+      "fileId": 4090927
+    }
+  ],
   "fabric": [
     {
       "modId": "betternether",

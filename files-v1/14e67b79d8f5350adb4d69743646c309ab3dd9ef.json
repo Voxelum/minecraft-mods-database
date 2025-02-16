@@ -1,0 +1,30 @@
+{
+  "name": "cccbridge-1.3.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fXt291FO",
+      "versionId": "F6VLKITg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656214,
+      "fileId": 4026948
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cccbridge",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oiqIsXbP",
+      "versionId": "eMSVYdlI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 984286,
+      "fileId": 5176445
+    }
+  ],
   "fabric": [
     {
       "modId": "monkey-banners",

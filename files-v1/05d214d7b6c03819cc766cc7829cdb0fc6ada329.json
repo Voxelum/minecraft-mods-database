@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "38Vc7azQ",
+      "versionId": "gYQhuny1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861561,
+      "fileId": 5368455
+    }
+  ],
   "fabric": [
     {
       "modId": "sherdduplication",

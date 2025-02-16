@@ -1,6 +1,12 @@
 {
   "name": "duckcraft-3.0.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 253103,
+      "fileId": 2702103
+    }
+  ],
   "forge": [
     {
       "modId": "duckcraft",

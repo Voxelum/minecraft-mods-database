@@ -1,6 +1,12 @@
 {
   "name": "WirelessRedstone-2.0.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 520255,
+      "fileId": 3736159
+    }
+  ],
   "fabric": [
     {
       "modId": "wireless_redstone",

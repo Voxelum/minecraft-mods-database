@@ -1,6 +1,18 @@
 {
   "name": "the_bumblezone_forge-6.9.7+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "38tpSycf",
+      "versionId": "op9v0Gkq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 362479,
+      "fileId": 5103298
+    }
+  ],
   "forge": [
     {
       "modId": "the_bumblezone",

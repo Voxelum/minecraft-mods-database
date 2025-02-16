@@ -1,6 +1,18 @@
 {
   "name": "EffectTooltips-Fabric-1.19.2-5.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qc0LobOe",
+      "versionId": "a7QGRCw4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 520367,
+      "fileId": 4019432
+    }
+  ],
   "fabric": [
     {
       "modId": "effecttooltips",

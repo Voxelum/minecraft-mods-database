@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q4fx1eTg",
+      "versionId": "Z3NtwFm4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1002635,
+      "fileId": 5962096
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-ams-addition",
+      "version": "2.50.1"
+    },
+    {
+      "modId": "annotationtoolbox",
+      "version": "0.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "com_esotericsoftware_yamlbeans_yamlbeans",
+      "version": "1.17"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "3.1.0-BFT_mod-1.21-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XTJUiumo",
+      "versionId": "uLK0S6Um"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1025421,
+      "fileId": 5888325
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_bft",
+      "version": "3.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bft",
+      "version": "3.1.0"
+    }
+  ]
+}

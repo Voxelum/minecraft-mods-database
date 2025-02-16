@@ -1,6 +1,12 @@
 {
   "name": "firstperson-forge-2.1.0-mc1.17.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 333287,
+      "fileId": 3519854
+    }
+  ],
   "forge": [
     {
       "modId": "firstpersonmod",

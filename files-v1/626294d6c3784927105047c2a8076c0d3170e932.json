@@ -1,6 +1,18 @@
 {
   "name": "CrosshairBobbing-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "paCz780b",
+      "versionId": "23kp0bl8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 884276,
+      "fileId": 4624287
+    }
+  ],
   "forge": [
     {
       "modId": "CrosshairBobbing-1.0",

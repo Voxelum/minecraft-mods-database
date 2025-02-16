@@ -1,6 +1,18 @@
 {
   "name": "ezmodlib-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LRuGhy2q",
+      "versionId": "1N6QZ08K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487185,
+      "fileId": 3900243
+    }
+  ],
   "forge": [
     {
       "modId": "ezmodlib",

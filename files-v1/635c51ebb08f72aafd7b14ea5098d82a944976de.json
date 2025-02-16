@@ -1,6 +1,12 @@
 {
   "name": "meadow-1.1.2-1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 821483,
+      "fileId": 4468471
+    }
+  ],
   "fabric": [
     {
       "modId": "meadow",

@@ -1,6 +1,12 @@
 {
   "name": "t_and_t-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DjLobEOy",
+      "versionId": "EP09dj1p"
+    }
+  ],
   "fabric": [
     {
       "modId": "t_and_t",

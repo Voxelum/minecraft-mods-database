@@ -1,6 +1,18 @@
 {
   "name": "Cucumber-1.14.4-2.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rw1NrDzF",
+      "versionId": "Fhiz8vTH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 272335,
+      "fileId": 2842421
+    }
+  ],
   "forge": [
     {
       "modId": "cucumber",

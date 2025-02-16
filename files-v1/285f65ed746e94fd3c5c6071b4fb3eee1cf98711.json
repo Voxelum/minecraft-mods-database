@@ -1,6 +1,12 @@
 {
   "name": "campfire-1.12-v1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 271615,
+      "fileId": 2476307
+    }
+  ],
   "forge": [
     {
       "modId": "campfire",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KPid9MeX",
+      "versionId": "ncZBf1f2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1060988,
+      "fileId": 5870883
+    }
+  ],
   "forge": [
     {
       "modId": "create",

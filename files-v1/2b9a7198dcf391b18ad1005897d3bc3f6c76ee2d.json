@@ -1,6 +1,18 @@
 {
   "name": "BetterEatingMod-0.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wC1HWnah",
+      "versionId": "lVPYJT4C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 395987,
+      "fileId": 4675909
+    }
+  ],
   "fabric": [
     {
       "modId": "bettereating",

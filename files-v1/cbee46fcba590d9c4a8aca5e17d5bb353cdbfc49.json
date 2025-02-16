@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jftVY6uu",
+      "versionId": "VQWGakzE"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "marcus_mod",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "marcus_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

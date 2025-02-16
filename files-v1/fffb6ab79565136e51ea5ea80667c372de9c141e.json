@@ -1,6 +1,18 @@
 {
   "name": "MagnumTorch-v4.2.1-1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jorDmSKv",
+      "versionId": "DAYzr8yH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 593981,
+      "fileId": 4352694
+    }
+  ],
   "fabric": [
     {
       "modId": "magnumtorch",

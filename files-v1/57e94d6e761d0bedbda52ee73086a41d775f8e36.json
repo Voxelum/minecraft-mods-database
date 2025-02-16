@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GN3JeDnr",
+      "versionId": "Ma9o1MOg"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_crafting_unbound",
+      "version": "1.21.2-1.21.4_v1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_crafting_unbound",
+      "version": "1.21.2-1.21.4_v1.3"
+    }
+  ]
+}

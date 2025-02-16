@@ -1,6 +1,18 @@
 {
   "name": "anycapes-1.1.0+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "22VRXMac",
+      "versionId": "YG0SQC9D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 581449,
+      "fileId": 3673195
+    }
+  ],
   "fabric": [
     {
       "modId": "anycapes",

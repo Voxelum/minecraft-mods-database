@@ -1,6 +1,18 @@
 {
   "name": "projectiledamage-forge-2.2.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AOyJhFvl",
+      "versionId": "OqfciHlH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 643780,
+      "fileId": 3989244
+    }
+  ],
   "forge": [
     {
       "modId": "projectiledamage",

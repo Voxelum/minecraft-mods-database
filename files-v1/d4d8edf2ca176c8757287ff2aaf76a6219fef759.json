@@ -1,6 +1,18 @@
 {
   "name": "mysticalagradditions-1.12-1.2.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pl0jGXIx",
+      "versionId": "AiPMc81l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256247,
+      "fileId": 2503986
+    }
+  ],
   "forge": [
     {
       "modId": "mysticalagradditions",

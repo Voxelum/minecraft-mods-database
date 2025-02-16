@@ -1,6 +1,18 @@
 {
   "name": "Assembly Line 1.16.5-0.3.0-0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SoWP7zzK",
+      "versionId": "aZNlUbdj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404360,
+      "fileId": 3521910
+    }
+  ],
   "forge": [
     {
       "modId": "assemblyline",

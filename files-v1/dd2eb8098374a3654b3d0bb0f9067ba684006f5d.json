@@ -1,6 +1,18 @@
 {
   "name": "CameraJavaPort-2.2-Fabric+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fmWrNxMj",
+      "versionId": "PZrycu88"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597465,
+      "fileId": 5533852
+    }
+  ],
   "fabric": [
     {
       "modId": "camera_port",

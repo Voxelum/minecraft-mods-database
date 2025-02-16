@@ -1,0 +1,32 @@
+{
+  "name": "hide-armour-2.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PEDVX3Ka",
+      "versionId": "q3sbvDgz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hide-armour",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "cc_carm_lib_easyconfiguration-core",
+      "version": "3.9.1"
+    },
+    {
+      "modId": "cc_carm_lib_yamlcommentwriter",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "org_bspfsystems_yamlconfiguration",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cc_carm_lib_easyconfiguration-yaml",
+      "version": "3.9.1"
+    }
+  ]
+}

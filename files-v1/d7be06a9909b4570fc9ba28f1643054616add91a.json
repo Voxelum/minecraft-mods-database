@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PvmIdtag",
+      "versionId": "kduyyyZe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glowup",
+      "version": "1.2.0+1.21.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

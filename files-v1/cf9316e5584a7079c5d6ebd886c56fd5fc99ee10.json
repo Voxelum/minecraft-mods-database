@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1A2mKfBx",
+      "versionId": "Mhp9cKak"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hypixel-mod-api",
+      "version": "1.0.1+build.1+mc1.20.5"
+    },
+    {
+      "modId": "net_hypixel_mod-api",
+      "version": "1.0.1"
+    }
+  ]
+}

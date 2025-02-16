@@ -1,0 +1,42 @@
+{
+  "name": "lighty-fabric-3.0.0-beta.7+1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yjvKidNM",
+      "versionId": "rpjz7mUs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 986380,
+      "fileId": 5890490
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lighty",
+      "version": "3.0.0-beta.7"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+2127dc7240"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.22+c47b9d4340"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "8.0.5+c47b9d4340"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.5+c47b9d4340"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4340"
+    }
+  ]
+}

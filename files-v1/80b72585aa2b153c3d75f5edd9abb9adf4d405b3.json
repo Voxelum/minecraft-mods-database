@@ -1,0 +1,30 @@
+{
+  "name": "player-roles-1.6.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rt1mrUHm",
+      "versionId": "BRahLXkh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394363,
+      "fileId": 4159874
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "player_roles",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "player_roles_api",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "more_codecs",
+      "version": "0.3.0+1.19.3"
+    }
+  ]
+}

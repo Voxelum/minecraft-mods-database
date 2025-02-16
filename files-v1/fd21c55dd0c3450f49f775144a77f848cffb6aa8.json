@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DCs54QMw",
+      "versionId": "Pxwhiu6J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1055915,
+      "fileId": 5941176
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "depression",
+      "version": "0.1.5.1+1.20.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    }
+  ]
+}

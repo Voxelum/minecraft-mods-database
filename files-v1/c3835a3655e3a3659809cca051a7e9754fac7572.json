@@ -1,6 +1,18 @@
 {
   "name": "3dplaceablefoodUPDATE-1.1.1 1.19.2 forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MFgnFY8Z",
+      "versionId": "OnKV47mz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886102,
+      "fileId": 5154272
+    }
+  ],
   "forge": [
     {
       "modId": "placeable_food",

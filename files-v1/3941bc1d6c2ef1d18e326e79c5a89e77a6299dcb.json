@@ -1,0 +1,14 @@
+{
+  "name": "sizeshiftingpotions-1.7.1-fabric.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "sizeshiftingpotions",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

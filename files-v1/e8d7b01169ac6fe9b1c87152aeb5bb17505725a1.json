@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P2rffivS",
+      "versionId": "FLaJvJmr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552662,
+      "fileId": 5240454
+    }
+  ],
   "fabric": [
     {
       "modId": "tenshilib",

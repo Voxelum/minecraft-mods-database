@@ -1,6 +1,18 @@
 {
   "name": "visualoverhaul-neoforge-5.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YQnwl5Vv",
+      "versionId": "2hskTr6k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 432008,
+      "fileId": 5131158
+    }
+  ],
   "forge": [
     {
       "modId": "visualoverhaul",

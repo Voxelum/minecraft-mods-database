@@ -1,6 +1,12 @@
 {
   "name": "create-origins-v1.2.1-fabric-quilt+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PnhmwLM0",
+      "versionId": "5WH0wd6t"
+    }
+  ],
   "fabric": [
     {
       "modId": "createorigins",

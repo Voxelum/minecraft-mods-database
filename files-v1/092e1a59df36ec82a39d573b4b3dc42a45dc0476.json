@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "registrate-fabric",
+      "version": "1.3.79-MC1.20.1"
+    },
+    {
+      "modId": "fabric-data-generation-api-v1",
+      "version": "12.2.0+6c31357e77"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_model_generators",
+      "version": "2.1.1090+1.20"
+    },
+    {
+      "modId": "porting_lib_data",
+      "version": "2.1.1090+1.20"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "cactusfix-1.2.1-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z29y9YGt",
+      "versionId": "9MnXKOl9"
+    }
+  ],
   "fabric": [
     {
       "modId": "cactusfix",

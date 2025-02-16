@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHeYlxN5",
+      "versionId": "XWmjXx3c"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455755,
+      "fileId": 5582010
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autotorch",
+      "version": "1.2.5+build.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

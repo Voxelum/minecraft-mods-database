@@ -1,6 +1,18 @@
 {
   "name": "CubicWorldGen-1.12.2-0.0.152.0-SNAPSHOT-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ONVu3r1l",
+      "versionId": "V16X4pfb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 304171,
+      "fileId": 3546646
+    }
+  ],
   "forge": [
     {
       "modId": "cubicgen",

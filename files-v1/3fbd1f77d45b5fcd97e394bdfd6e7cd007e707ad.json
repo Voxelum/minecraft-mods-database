@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "MinersMoon1.20.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "HuJzK25C",
       "versionId": "X2i7DHej"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051270,
+      "fileId": 5646110
     }
   ],
   "forge": [

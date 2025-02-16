@@ -1,6 +1,12 @@
 {
   "name": "butter-1.1.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LyjwwOg9",
+      "versionId": "hqJApMWN"
+    }
+  ],
   "fabric": [
     {
       "modId": "butter",

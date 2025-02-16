@@ -1,6 +1,18 @@
 {
   "name": "SilentGear-1.14.4-1.4.6+72.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "73mSSnCf",
+      "versionId": "rJt930YF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297039,
+      "fileId": 2849573
+    }
+  ],
   "forge": [
     {
       "modId": "silentgear",

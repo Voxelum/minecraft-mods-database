@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bqnfeesx",
+      "versionId": "9Tu3vwt6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960382,
+      "fileId": 5484861
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reactivemusic",
+      "version": "0.3.0-1.20.4"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

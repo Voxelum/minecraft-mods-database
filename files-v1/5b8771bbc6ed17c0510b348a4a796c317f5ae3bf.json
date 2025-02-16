@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fEwhuw0Y",
+      "versionId": "Xy0Lit82"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chestprotection",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.8.1+1.21.4"
+    }
+  ]
+}

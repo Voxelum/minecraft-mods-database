@@ -1,6 +1,18 @@
 {
   "name": "bmpv-1mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sbJwgakQ",
+      "versionId": "E9ePCaku"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 904381,
+      "fileId": 4713638
+    }
+  ],
   "fabric": [
     {
       "modId": "bmpv",

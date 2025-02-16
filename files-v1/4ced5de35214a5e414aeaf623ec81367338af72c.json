@@ -1,6 +1,12 @@
 {
   "name": "drinkbeer-1.17.1-2.3.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534161,
+      "fileId": 3521849
+    }
+  ],
   "forge": [
     {
       "modId": "drinkbeer",

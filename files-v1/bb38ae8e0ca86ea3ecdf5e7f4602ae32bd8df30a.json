@@ -1,6 +1,18 @@
 {
   "name": "ExtraPlayerRenderer-1.21-3.0.0-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7q8r8AtY",
+      "versionId": "AReNuXJz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 372888,
+      "fileId": 5533351
+    }
+  ],
   "fabric": [
     {
       "modId": "explayerenderer",

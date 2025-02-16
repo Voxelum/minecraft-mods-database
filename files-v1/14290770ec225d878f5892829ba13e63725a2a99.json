@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "potato",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "potato",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "Quark-r1.5-130.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 243121,
+      "fileId": 2620164
+    }
+  ],
   "forge": [
     {
       "modId": "quark",

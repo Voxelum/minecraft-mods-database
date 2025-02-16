@@ -1,0 +1,26 @@
+{
+  "name": "forgottengraves-1.19.3-3.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FrZIkosK",
+      "versionId": "F2RXl9Si"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550480,
+      "fileId": 4775140
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgottengraves",
+      "version": "1.19.3-3.2.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "9.0.94"
+    }
+  ]
+}

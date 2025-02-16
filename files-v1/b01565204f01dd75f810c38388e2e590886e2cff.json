@@ -1,6 +1,18 @@
 {
   "name": "Public-Transport-Mod-10.2-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HsJqzlnt",
+      "versionId": "Gidg0G9O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 562157,
+      "fileId": 3993596
+    }
+  ],
   "forge": [
     {
       "modId": "transportmod",

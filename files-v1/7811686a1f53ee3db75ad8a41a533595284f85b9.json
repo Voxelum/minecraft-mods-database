@@ -1,0 +1,32 @@
+{
+  "name": "experiencedworlds-2.0.5a+1.21.4+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OlqO2jmh",
+      "versionId": "69i46Dsz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687578,
+      "fileId": 5978541
+    }
+  ],
+  "forge": [
+    {
+      "modId": "experiencedworlds",
+      "version": "2.0.5a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "experiencedworlds",
+      "version": "2.0.5a"
+    },
+    {
+      "modId": "com_vicious_persist",
+      "version": "21-1.1.6"
+    }
+  ]
+}

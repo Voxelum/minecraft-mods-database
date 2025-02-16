@@ -1,9 +1,16 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "iDiIfZLX",
       "versionId": "KLnQaIP9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.11.4"
     }
   ]
 }

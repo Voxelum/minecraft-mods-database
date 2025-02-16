@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WSn8hdKM",
+      "versionId": "AmLLaOzC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1122724,
+      "fileId": 5969302
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "arborealnature",
+      "version": "0.2.9"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0"
+    }
+  ]
+}

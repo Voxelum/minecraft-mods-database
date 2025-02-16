@@ -1,6 +1,12 @@
 {
   "name": "DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 226188,
+      "fileId": 2225179
+    }
+  ],
   "forge": [
     {
       "modId": "defaultworldgenerator",

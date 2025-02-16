@@ -1,6 +1,18 @@
 {
   "name": "potionidpacketfixer-1.18.1-v1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4Hg9aqWG",
+      "versionId": "jlLFjDcB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566466,
+      "fileId": 3604185
+    }
+  ],
   "forge": [
     {
       "modId": "potionidpacketfixer",

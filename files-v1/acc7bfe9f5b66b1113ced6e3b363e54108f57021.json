@@ -1,6 +1,12 @@
 {
   "name": "horse-stats-vanilla-4.5.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 351393,
+      "fileId": 4973427
+    }
+  ],
   "fabric": [
     {
       "modId": "horsestatsvanilla",

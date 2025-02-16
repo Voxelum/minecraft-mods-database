@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dq3STxps",
+      "versionId": "w6jA2y2n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 935929,
+      "fileId": 5999622
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createrailwaysnavigator",
+      "version": "1.20.1-beta-0.7.1"
+    },
+    {
+      "modId": "dragonlib",
+      "version": "1.20.1-2.2.22"
+    }
+  ]
+}

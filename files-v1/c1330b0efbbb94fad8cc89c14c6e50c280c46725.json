@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S3D3QF0M",
+      "versionId": "mQSrw5Rh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 930880,
+      "fileId": 5588808
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "leawind_third_person",
+      "version": "2.0.9"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

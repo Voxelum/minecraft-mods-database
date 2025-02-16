@@ -1,6 +1,12 @@
 {
   "name": "ScreamingGoats-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VTXrBQ38",
+      "versionId": "RV1kjOI6"
+    }
+  ],
   "fabric": [
     {
       "modId": "screaminggoats",

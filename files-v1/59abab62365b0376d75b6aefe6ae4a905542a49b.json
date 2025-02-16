@@ -1,6 +1,12 @@
 {
   "name": "Backpacks-Mod.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 59143,
+      "fileId": 2211791
+    }
+  ],
   "forge": [
     {
       "modId": "Backpack",

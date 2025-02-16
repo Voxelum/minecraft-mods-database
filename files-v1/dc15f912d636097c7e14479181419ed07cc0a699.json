@@ -1,6 +1,18 @@
 {
   "name": "create_power_loader-1.3.2-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wPQ6GgFE",
+      "versionId": "HoSVdbEP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936020,
+      "fileId": 5012025
+    }
+  ],
   "forge": [
     {
       "modId": "create_power_loader",

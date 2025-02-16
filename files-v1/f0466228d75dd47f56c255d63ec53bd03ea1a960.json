@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qpPoAL6m",
+      "versionId": "pCRH0GhH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trade_cycling",
+      "version": "1.20.6-1.0.11"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.40+80f8cf51ff"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432cff"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.4+c5fc38b3ff"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.45+80f8cf51ff"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.0.8+0dca0349ff"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.21+7b70ea8aff"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "crowmap-1.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301943,
+      "fileId": 2779345
+    }
+  ],
   "forge": [
     {
       "modId": "crowmap",

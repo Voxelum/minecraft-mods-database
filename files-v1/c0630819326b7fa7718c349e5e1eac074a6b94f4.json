@@ -1,6 +1,16 @@
 {
-  "name": "",
+  "name": "wolfman-1.19.2-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1136168,
+      "fileId": 5884463
+    },
+    {
+      "projectId": 1066976,
+      "fileId": 5546544
+    }
+  ],
   "forge": [
     {
       "modId": "wolfman",

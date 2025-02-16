@@ -1,0 +1,26 @@
+{
+  "name": "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o1C1Dkj5",
+      "versionId": "fQ7EjDPE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525586,
+      "fileId": 5954809
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterdungeons",
+      "version": "1.21.1-Fabric-5.1.4"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

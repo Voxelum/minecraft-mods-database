@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "triadtech-1.0.0+1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fQMVANbQ",
+      "versionId": "4VSErOW7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1053056,
+      "fileId": 5486421
+    }
+  ],
   "forge": [
     {
       "modId": "triadtech",

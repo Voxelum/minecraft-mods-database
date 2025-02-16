@@ -1,6 +1,18 @@
 {
   "name": "elementus_arcane-0.2.0-20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qBbql9R8",
+      "versionId": "gX1XV6qU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 954013,
+      "fileId": 4992129
+    }
+  ],
   "forge": [
     {
       "modId": "elementus_arcane",

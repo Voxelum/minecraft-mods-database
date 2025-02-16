@@ -1,0 +1,20 @@
+{
+  "name": "WWOO-FABRIC-3.1.11.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 490686,
+      "fileId": 4284030
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wwoo",
+      "version": "3.1.11"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    }
+  ]
+}

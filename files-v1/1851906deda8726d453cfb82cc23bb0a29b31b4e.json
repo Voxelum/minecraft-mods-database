@@ -1,6 +1,18 @@
 {
   "name": "rftoolsdim-1.16-7.0.20-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N4D9AicU",
+      "versionId": "e2jHf85I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 240950,
+      "fileId": 3598203
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolsdim",

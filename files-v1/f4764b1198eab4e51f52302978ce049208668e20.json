@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1TowMm2v",
+      "versionId": "40w1AiGy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1096649,
+      "fileId": 5976522
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fuji",
+      "version": "6.0.0-374776caac-mc1.21.4"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.8.1+1.21.4"
+    },
+    {
+      "modId": "com_jayway_jsonpath_json-path",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.1+1.21.3"
+    },
+    {
+      "modId": "net_luckperms_api",
+      "version": "5.4"
+    },
+    {
+      "modId": "org_quartz-scheduler_quartz",
+      "version": "2.5.0-rc1"
+    }
+  ]
+}

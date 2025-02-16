@@ -1,6 +1,12 @@
 {
   "name": "weather-changer-0.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nhSHTGyl",
+      "versionId": "4ziDq8dK"
+    }
+  ],
   "fabric": [
     {
       "modId": "weather-changer",

@@ -1,6 +1,12 @@
 {
   "name": "bounced-1.19-3.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2mlOZXZr",
+      "versionId": "KB3jnguu"
+    }
+  ],
   "fabric": [
     {
       "modId": "bounced",

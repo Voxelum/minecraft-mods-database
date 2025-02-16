@@ -1,6 +1,12 @@
 {
   "name": "mcw-paths-1.0.3fabric-mc1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 629153,
+      "fileId": 4585095
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwpaths",

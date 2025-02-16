@@ -1,6 +1,12 @@
 {
   "name": "rad-1.16-4.1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 305373,
+      "fileId": 3280843
+    }
+  ],
   "forge": [
     {
       "modId": "rad",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cs6FaYWt",
+      "versionId": "BT24h7dK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1002626,
+      "fileId": 5507544
+    }
+  ],
   "fabric": [
     {
       "modId": "moreladders",

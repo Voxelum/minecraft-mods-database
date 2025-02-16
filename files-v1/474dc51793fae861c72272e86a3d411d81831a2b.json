@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523327,
+      "fileId": 5350452
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dragonfight",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dragonfight",
+      "version": "1.19.2-4.5"
+    }
+  ]
+}

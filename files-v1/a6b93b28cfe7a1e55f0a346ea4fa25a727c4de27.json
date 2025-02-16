@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "questutils-0.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g2zIBpiP",
+      "versionId": "RiejnEu6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291674,
+      "fileId": 2704402
+    }
+  ],
   "forge": [
     {
       "modId": "questutils",

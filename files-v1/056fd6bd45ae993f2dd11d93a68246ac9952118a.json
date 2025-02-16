@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NLx6lJPJ",
+      "versionId": "zUARCHiY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404348,
+      "fileId": 4623956
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "player_events",
+      "version": "2.4.5"
+    },
+    {
+      "modId": "player_events_api",
+      "version": "2.4.5"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.2+1.20.1"
+    }
+  ]
+}

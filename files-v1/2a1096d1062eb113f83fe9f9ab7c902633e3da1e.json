@@ -1,6 +1,18 @@
 {
   "name": "blockmeter-1.7-HEAD.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oGU9LXKC",
+      "versionId": "JEMRlxY2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 369343,
+      "fileId": 3910838
+    }
+  ],
   "fabric": [
     {
       "modId": "blockmeter",

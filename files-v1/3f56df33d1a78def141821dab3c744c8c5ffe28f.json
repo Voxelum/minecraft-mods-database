@@ -1,6 +1,12 @@
 {
   "name": "forkedproxy-2.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 687633,
+      "fileId": 4810992
+    }
+  ],
   "forge": [
     {
       "modId": "integrated_proxy",

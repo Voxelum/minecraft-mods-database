@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TEzJJY7H",
+      "versionId": "1rNzfPHA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291249,
+      "fileId": 5995997
+    }
+  ],
+  "forge": [
+    {
+      "modId": "weeping_angels",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "weeping_angels",
+      "version": "46.1.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

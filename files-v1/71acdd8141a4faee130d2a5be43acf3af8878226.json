@@ -1,6 +1,12 @@
 {
   "name": "eden-ring-0.5.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 546590,
+      "fileId": 3827244
+    }
+  ],
   "fabric": [
     {
       "modId": "edenring",

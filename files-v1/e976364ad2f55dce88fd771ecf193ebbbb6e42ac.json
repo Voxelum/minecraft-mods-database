@@ -1,0 +1,30 @@
+{
+  "name": "trafficcraft-fabric-1.20.1-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y1PXWvWn",
+      "versionId": "LGfRN6cQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852322,
+      "fileId": 5888902
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trafficcraft",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "dragonlib",
+      "version": "1.20.1-2.2.20"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ihnBJ6on",
+      "versionId": "DvEdX91O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 539244,
+      "fileId": 5951066
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "entity-view-distance",
+      "version": "1.4.0+1.21.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    }
+  ]
+}

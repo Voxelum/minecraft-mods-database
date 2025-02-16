@@ -1,6 +1,18 @@
 {
   "name": "optigui-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JuksLGBQ",
+      "versionId": "P6myMR8K"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 619986,
+      "fileId": 4572760
+    }
+  ],
   "fabric": [
     {
       "modId": "optigui",

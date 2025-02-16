@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sPYwFCE0",
+      "versionId": "4oBEk8ah"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421375,
+      "fileId": 5331516
+    }
+  ],
   "fabric": [
     {
       "modId": "inventory_control_tweaks",

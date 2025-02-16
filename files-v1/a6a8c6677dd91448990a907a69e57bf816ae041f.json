@@ -1,6 +1,18 @@
 {
   "name": "EnderMail-1.16.5-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WrQH56oT",
+      "versionId": "bDr0vGIq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 374771,
+      "fileId": 3548225
+    }
+  ],
   "forge": [
     {
       "modId": "endermail",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGKYL7st",
+      "versionId": "9kp2Pvcp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678036,
+      "fileId": 5638469
+    }
+  ],
   "fabric": [
     {
       "modId": "combatroll",

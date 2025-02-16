@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3s19I5jr",
+      "versionId": "yFoyGO0w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876386,
+      "fileId": 5492542
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinshuffle",
+      "version": "2.0.0+1.21"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    },
+    {
+      "modId": "org_jsoup_jsoup",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "com_konghq_unirest-java_standalone",
+      "version": "3.11.09"
+    },
+    {
+      "modId": "commons-validator_commons-validator",
+      "version": "1.7"
+    },
+    {
+      "modId": "cicada",
+      "version": "0.8.1+1.21-and-above"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.1.0+1.21"
+    },
+    {
+      "modId": "org_mineskin_java-client",
+      "version": "1.2.4-SNAPSHOT"
+    }
+  ]
+}

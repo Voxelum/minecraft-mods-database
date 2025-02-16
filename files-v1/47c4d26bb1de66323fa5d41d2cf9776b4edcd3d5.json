@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xRu8OXEJ",
+      "versionId": "SIMkTqBl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903236,
+      "fileId": 5559659
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reden",
+      "version": "0.3.696-beta+1.21.f3f9d63.gh-ci-632"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit_ssh_jsch",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "com_jcraft_jsch",
+      "version": "0.1.55"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.2.0"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit_ssh_apache",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "com_redenmc_brigadier-kotlin-dsl",
+      "version": "1.0-SNAPSHOT"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.11.0"
+    }
+  ]
+}

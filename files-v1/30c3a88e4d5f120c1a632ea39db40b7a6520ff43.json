@@ -1,6 +1,12 @@
 {
   "name": "nameplate-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9J82qMn9",
+      "versionId": "IOpwTVd2"
+    }
+  ],
   "fabric": [
     {
       "modId": "nameplate",

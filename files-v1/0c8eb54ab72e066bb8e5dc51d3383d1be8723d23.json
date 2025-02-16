@@ -1,6 +1,18 @@
 {
   "name": "L_Enders_Cataclysm-1.99.2-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "46KJle7n",
+      "versionId": "w4W9Q43A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551586,
+      "fileId": 5320260
+    }
+  ],
   "forge": [
     {
       "modId": "cataclysm",

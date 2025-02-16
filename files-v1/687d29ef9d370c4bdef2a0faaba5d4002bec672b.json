@@ -1,0 +1,20 @@
+{
+  "name": "EnchantedToolTips-1.3.5-1.18.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 331965,
+      "fileId": 3554179
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantedtooltips",
+      "version": "1.3.5-1.18"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.2.6-1.18"
+    }
+  ]
+}

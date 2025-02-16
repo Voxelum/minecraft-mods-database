@@ -1,6 +1,12 @@
 {
   "name": "seeds-1.18.2-1.1.3b.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 601515,
+      "fileId": 4624860
+    }
+  ],
   "forge": [
     {
       "modId": "seeds",

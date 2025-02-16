@@ -1,6 +1,12 @@
 {
   "name": "CQC-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 287138,
+      "fileId": 2529818
+    }
+  ],
   "forge": [
     {
       "modId": "cqc",

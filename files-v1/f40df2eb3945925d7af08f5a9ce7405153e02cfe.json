@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "3.3.5+8dd72ea377"
+    }
+  ]
+}

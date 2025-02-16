@@ -1,6 +1,18 @@
 {
   "name": "UncraftingTable-forge-1.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d0f1a75r",
+      "versionId": "JBg8f0Yi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523423,
+      "fileId": 4639579
+    }
+  ],
   "forge": [
     {
       "modId": "uncraftingtable76",

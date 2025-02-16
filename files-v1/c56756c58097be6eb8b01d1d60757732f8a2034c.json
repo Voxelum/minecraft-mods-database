@@ -1,6 +1,18 @@
 {
   "name": "piercing-paxels-1.0.3+1.18.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHkzYDn7",
+      "versionId": "9uYDKZjy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656453,
+      "fileId": 3959239
+    }
+  ],
   "fabric": [
     {
       "modId": "piercingpaxels",

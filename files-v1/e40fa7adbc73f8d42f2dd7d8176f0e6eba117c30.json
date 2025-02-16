@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HZGv2FlJ",
+      "versionId": "ePrm3yzg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861357,
+      "fileId": 5368322
+    }
+  ],
   "fabric": [
     {
       "modId": "archaeologybanners",

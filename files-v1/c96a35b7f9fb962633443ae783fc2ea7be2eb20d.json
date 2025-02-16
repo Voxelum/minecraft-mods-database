@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "nanhealthfixer-1.12.2-0.0.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "GcowSBDA",
       "versionId": "3OywTpZN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 828656,
+      "fileId": 4958912
     }
   ],
   "forge": [

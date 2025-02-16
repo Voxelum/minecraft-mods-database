@@ -1,6 +1,12 @@
 {
   "name": "caelum-1.0.5+ArdaCraft.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QAQLxRo9",
+      "versionId": "E9ytfJRB"
+    }
+  ],
   "fabric": [
     {
       "modId": "caelum",

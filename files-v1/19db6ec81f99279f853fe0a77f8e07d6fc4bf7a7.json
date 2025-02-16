@@ -1,6 +1,18 @@
 {
   "name": "biomemakeover-FABRIC-1.19.2-1.6.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jG8Q2YwT",
+      "versionId": "xRlqxEOM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412182,
+      "fileId": 4127075
+    }
+  ],
   "fabric": [
     {
       "modId": "biomemakeover",

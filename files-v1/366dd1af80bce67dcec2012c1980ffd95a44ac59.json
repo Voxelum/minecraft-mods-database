@@ -1,0 +1,28 @@
+{
+  "name": "petnames-1.20.1-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tOoh2eQm",
+      "versionId": "EsKwFHMD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344884,
+      "fileId": 5572083
+    }
+  ],
+  "forge": [
+    {
+      "modId": "petnames",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "petnames",
+      "version": "3.4"
+    }
+  ]
+}

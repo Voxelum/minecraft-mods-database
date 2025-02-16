@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eYMDCaUb",
+      "versionId": "XEWsGTTN"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 967139,
       "fileId": 5061499
+    }
+  ],
+  "forge": [
+    {
+      "modId": "furniturecraft",
+      "version": "1.0.0"
     }
   ]
 }

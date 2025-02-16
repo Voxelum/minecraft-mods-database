@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mvESKiJR",
+      "versionId": "Ri7kSYJL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958544,
+      "fileId": 5468532
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lanishextendedstaves",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r3VgI4QN",
+      "versionId": "h2SpAUPP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648781,
+      "fileId": 5852115
+    }
+  ],
   "fabric": [
     {
       "modId": "reacharound",

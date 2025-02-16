@@ -1,0 +1,16 @@
+{
+  "name": "craftingstation-0.1.7b.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318551,
+      "fileId": 2825047
+    }
+  ],
+  "forge": [
+    {
+      "modId": "craftingstation",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

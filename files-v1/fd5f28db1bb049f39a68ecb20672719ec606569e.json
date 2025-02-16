@@ -1,6 +1,18 @@
 {
   "name": "ShulkerTooltip-1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TwL8m46w",
+      "versionId": "ekjwPSqK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292899,
+      "fileId": 5372920
+    }
+  ],
   "forge": [
     {
       "modId": "shulkertooltip",

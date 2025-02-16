@@ -1,0 +1,22 @@
+{
+  "name": "mrp-1.18.2-0.2.0-indev.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wbhB1VPG",
+      "versionId": "ZQe7UaMk"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mrp",
+      "version": "0.2.0+1.18.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mrp",
+      "version": "0.2.0+1.18.2"
+    }
+  ]
+}

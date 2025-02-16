@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cloud",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cloud",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-core_",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-brigadier_",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cloud_commandframework_cloud-services_",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    }
+  ]
+}

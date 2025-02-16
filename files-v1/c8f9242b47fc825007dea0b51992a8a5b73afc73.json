@@ -1,6 +1,18 @@
 {
   "name": "minecells-0.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Qdvz1OV",
+      "versionId": "HCE3ITXZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618790,
+      "fileId": 4050464
+    }
+  ],
   "fabric": [
     {
       "modId": "minecells",

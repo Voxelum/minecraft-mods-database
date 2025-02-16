@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "packedup-0.5.3-beta.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "opsrwaeY",
       "versionId": "LfGFVuxU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007751,
+      "fileId": 5869123
     }
   ],
   "forge": [

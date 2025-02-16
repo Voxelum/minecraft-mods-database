@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LnbEnCHn",
+      "versionId": "JPqrXcCq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 875721,
+      "fileId": 5388662
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "better-sign-edit",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

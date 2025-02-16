@@ -1,0 +1,16 @@
+{
+  "name": "instrumentus-1.16.4-1.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 231242,
+      "fileId": 3196444
+    }
+  ],
+  "forge": [
+    {
+      "modId": "instrumentus",
+      "version": "${version}"
+    }
+  ]
+}

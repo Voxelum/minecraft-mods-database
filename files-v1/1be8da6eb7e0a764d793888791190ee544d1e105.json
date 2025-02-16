@@ -1,6 +1,12 @@
 {
   "name": "replanter-1.19.2-1.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 480657,
+      "fileId": 4021912
+    }
+  ],
   "forge": [
     {
       "modId": "replanter",

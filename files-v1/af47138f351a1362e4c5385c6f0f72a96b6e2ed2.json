@@ -1,6 +1,12 @@
 {
   "name": "glydur-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 665111,
+      "fileId": 3953570
+    }
+  ],
   "forge": [
     {
       "modId": "paraglider",

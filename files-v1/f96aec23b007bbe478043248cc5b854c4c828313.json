@@ -1,0 +1,24 @@
+{
+  "name": "scoreboardoverhaul-1.2.2-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2YIQkF2v",
+      "versionId": "s9IZ5pT5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scoreboard-overhaul",
+      "version": "1.2.2-mc1.20.1"
+    },
+    {
+      "modId": "scoreboard-overhaul-common",
+      "version": "1.2.2-common"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.12.0+kotlin.2.0.10"
+    }
+  ]
+}

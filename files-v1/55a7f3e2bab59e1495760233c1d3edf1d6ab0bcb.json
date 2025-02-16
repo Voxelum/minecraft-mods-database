@@ -1,6 +1,18 @@
 {
   "name": "morefood-1.20.1-v0.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U2QZYFHC",
+      "versionId": "PSZr2JZ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895031,
+      "fileId": 4690895
+    }
+  ],
   "fabric": [
     {
       "modId": "morefood",

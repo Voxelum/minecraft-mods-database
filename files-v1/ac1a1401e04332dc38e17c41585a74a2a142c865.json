@@ -1,6 +1,18 @@
 {
   "name": "double_hotbar-1.3.2.1-mc1.20.1-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OpX7IHIc",
+      "versionId": "PUahAcNP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 554026,
+      "fileId": 5236983
+    }
+  ],
   "forge": [
     {
       "modId": "double_hotbar",

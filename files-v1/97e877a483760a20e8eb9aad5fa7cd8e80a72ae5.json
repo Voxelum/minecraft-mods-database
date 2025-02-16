@@ -1,6 +1,18 @@
 {
   "name": "Blastcraft-1.19.2-0.3.3-0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qzSqkQKb",
+      "versionId": "vzsN3dkx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405322,
+      "fileId": 5022892
+    }
+  ],
   "forge": [
     {
       "modId": "blastcraft",

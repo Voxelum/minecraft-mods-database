@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M08ruV16",
+      "versionId": "LmUX0lM1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409301,
+      "fileId": 3228848
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bobby",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "confabricate",
+      "version": "2.0.3+4.0.0"
+    }
+  ]
+}

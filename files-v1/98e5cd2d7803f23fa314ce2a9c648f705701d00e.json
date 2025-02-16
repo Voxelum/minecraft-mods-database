@@ -1,6 +1,18 @@
 {
   "name": "OpenLoader-fabric-1.17.1-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KwWsINvD",
+      "versionId": "kSupphgT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354339,
+      "fileId": 3400977
+    }
+  ],
   "fabric": [
     {
       "modId": "openloader",

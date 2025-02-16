@@ -1,6 +1,18 @@
 {
   "name": "PassableFoliage-1.20.1-fabric-8.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uaLW6JVR",
+      "versionId": "qPN5Jetz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552617,
+      "fileId": 4688474
+    }
+  ],
   "fabric": [
     {
       "modId": "passablefoliage",

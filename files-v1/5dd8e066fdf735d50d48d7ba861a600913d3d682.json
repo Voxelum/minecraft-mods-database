@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tyANotOf",
+      "versionId": "9FEy0tmo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emogg [Forged]",
+      "version": "2.0.1+1.20-1.20.1-forged"
+    },
+    {
+      "modId": "suggestions-api",
+      "version": "1.0.6+1.20-1.20.4-fabric"
+    }
+  ]
+}

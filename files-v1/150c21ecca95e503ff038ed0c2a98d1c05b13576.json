@@ -1,6 +1,12 @@
 {
   "name": "xenon-0.3.5+mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aWDwN8NN",
+      "versionId": "OpcKJKui"
+    }
+  ],
   "forge": [
     {
       "modId": "xenon",

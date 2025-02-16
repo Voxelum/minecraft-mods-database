@@ -1,6 +1,18 @@
 {
   "name": "minecraft-comes-alive-7.4.8+1.18.2-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1W98a849",
+      "versionId": "2kmclJpe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535291,
+      "fileId": 4461660
+    }
+  ],
   "forge": [
     {
       "modId": "mca",

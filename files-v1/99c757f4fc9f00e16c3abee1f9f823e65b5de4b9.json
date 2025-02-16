@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hHVaPgFK",
+      "versionId": "DE9rIS61"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mob_armor_trims",
+      "version": "2.4.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "swe-1.12.2-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 290070,
+      "fileId": 2544463
+    }
+  ],
   "forge": [
     {
       "modId": "mod_swe",

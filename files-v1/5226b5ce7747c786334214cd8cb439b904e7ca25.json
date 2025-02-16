@@ -1,6 +1,18 @@
 {
   "name": "XaerosWorldMap_1.30.0_Fabric_1.19.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NcUtCpym",
+      "versionId": "zjxfdYdF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317780,
+      "fileId": 4492958
+    }
+  ],
   "fabric": [
     {
       "modId": "xaeroworldmap",

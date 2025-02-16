@@ -1,6 +1,18 @@
 {
   "name": "intwheel-1.12-1.2.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BOLRqEGC",
+      "versionId": "7TeEatfQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256287,
+      "fileId": 2441962
+    }
+  ],
   "forge": [
     {
       "modId": "intwheel",

@@ -1,6 +1,18 @@
 {
   "name": "colytra-forge-1.18.1-5.2.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ulY7WPQy",
+      "versionId": "husKm8z6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 280200,
+      "fileId": 4087911
+    }
+  ],
   "forge": [
     {
       "modId": "colytra",

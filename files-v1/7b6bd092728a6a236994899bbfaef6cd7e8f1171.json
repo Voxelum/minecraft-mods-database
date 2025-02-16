@@ -1,6 +1,18 @@
 {
   "name": "Built-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VZwdoLer",
+      "versionId": "DXTFhHv5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 982827,
+      "fileId": 5163130
+    }
+  ],
   "forge": [
     {
       "modId": "built",

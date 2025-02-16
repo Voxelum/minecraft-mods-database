@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BZemjxZb",
+      "versionId": "WmkiAFFH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594387,
+      "fileId": 5817337
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kubejsadditions",
+      "version": "4.3.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

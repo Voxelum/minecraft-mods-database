@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N8s60DWW",
+      "versionId": "1wc03vcD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 999525,
+      "fileId": 5457823
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soundboard-svc",
+      "version": "0.3.0+1.21"
+    },
+    {
+      "modId": "soundboard-core",
+      "version": "0.3.0+1.21"
+    }
+  ]
+}

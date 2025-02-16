@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fabricskyboxes",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabricskyboxes",
+      "version": "0.7.2+mc1.20.1"
+    }
+  ]
+}

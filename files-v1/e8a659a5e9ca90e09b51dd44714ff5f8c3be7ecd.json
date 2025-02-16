@@ -1,6 +1,18 @@
 {
   "name": "emojiful-1.16.4-2.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "72GXx2MO",
+      "versionId": "J7pt95qh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 284324,
+      "fileId": 3184796
+    }
+  ],
   "forge": [
     {
       "modId": "emojiful",

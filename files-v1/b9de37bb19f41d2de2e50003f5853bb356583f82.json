@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hNRL1Wry",
+      "versionId": "xwCqM7BZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618812,
+      "fileId": 4509216
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lostfeatures",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.2"
+    }
+  ]
+}

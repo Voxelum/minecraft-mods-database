@@ -1,6 +1,18 @@
 {
   "name": "lootbags-fabric-1.19.2-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eE4G2ag6",
+      "versionId": "pXwGfTdz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687082,
+      "fileId": 4112029
+    }
+  ],
   "fabric": [
     {
       "modId": "lootbags",

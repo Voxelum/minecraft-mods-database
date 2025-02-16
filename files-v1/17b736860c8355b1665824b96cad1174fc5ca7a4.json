@@ -1,0 +1,20 @@
+{
+  "name": "aiutd-0.9.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tgacmJEn",
+      "versionId": "UtQ1fbOi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aiutd",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

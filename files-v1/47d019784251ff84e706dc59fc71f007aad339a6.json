@@ -1,0 +1,22 @@
+{
+  "name": "bedrerodium-0.2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zNuzb72d",
+      "versionId": "lO4YBmsP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1156128,
+      "fileId": 5978828
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrerodium",
+      "version": "${version}"
+    }
+  ]
+}
