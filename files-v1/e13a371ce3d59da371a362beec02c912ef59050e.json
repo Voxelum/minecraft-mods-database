@@ -1,6 +1,18 @@
 {
   "name": "create_jetpack_curios-1.2.0-forge-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BBhCMftF",
+      "versionId": "OggqqjBI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1057194,
+      "fileId": 5887730
+    }
+  ],
   "forge": [
     {
       "modId": "create_jetpack_curios",

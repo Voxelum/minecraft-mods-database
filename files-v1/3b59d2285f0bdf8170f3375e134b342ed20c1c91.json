@@ -1,0 +1,36 @@
+{
+  "name": "CustomNameTags-0.2.3+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TizFPouK",
+      "versionId": "vuKz3L2C"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nametag",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.9.2+1.21"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.4.0-pre.2+1.21"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.5.1+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

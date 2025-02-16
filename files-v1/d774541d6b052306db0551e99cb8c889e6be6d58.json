@@ -1,6 +1,18 @@
 {
   "name": "Bookshelf-1.12.2-2.3.520.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uy4Cnpcm",
+      "versionId": "hwwt2Y9Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 228525,
+      "fileId": 2520456
+    }
+  ],
   "forge": [
     {
       "modId": "bookshelf",

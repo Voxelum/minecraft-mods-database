@@ -1,0 +1,28 @@
+{
+  "name": "betterbeaconplacement-1.21.0-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GOKA9KZY",
+      "versionId": "9lkBrTQA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 350018,
+      "fileId": 5572937
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterbeaconplacement",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterbeaconplacement",
+      "version": "3.4"
+    }
+  ]
+}

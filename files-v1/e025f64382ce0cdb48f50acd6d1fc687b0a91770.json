@@ -1,6 +1,18 @@
 {
   "name": "matc-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4fCwcdXD",
+      "versionId": "dhCMKUA0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 299045,
+      "fileId": 4473167
+    }
+  ],
   "forge": [
     {
       "modId": "matc",

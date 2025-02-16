@@ -1,9 +1,16 @@
 {
-  "name": "",
+  "name": "MoreToolMod-neoforge1.21.1-v1.0.9.jar",
+  "domain": "mods",
   "curseforge": [
     {
       "projectId": 405210,
       "fileId": 5911602
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moretool",
+      "version": "1.0.9"
     }
   ]
 }

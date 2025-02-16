@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "doqSKB0e",
+      "versionId": "b7ivf9W5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 493348,
+      "fileId": 5945151
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "styledchat",
+      "version": "2.7.1+1.21.3"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.6.0+1.21.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.1+1.21.3"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.7.0+1.21.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    }
+  ]
+}

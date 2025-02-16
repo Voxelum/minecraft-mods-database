@@ -1,0 +1,26 @@
+{
+  "name": "oritech-fabric-0.12.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4sYI62kA",
+      "versionId": "RCAJRuYA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1030830,
+      "fileId": 5968207
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oritech",
+      "version": "0.12.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

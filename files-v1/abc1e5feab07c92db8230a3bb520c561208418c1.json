@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uFJODQCA",
+      "versionId": "MWFmXn1c"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eggolib",
+      "version": "1.10.4"
+    },
+    {
+      "modId": "apoli",
+      "version": "2.9.0"
+    },
+    {
+      "modId": "breathinglib",
+      "version": "1.0.4"
+    }
+  ]
+}

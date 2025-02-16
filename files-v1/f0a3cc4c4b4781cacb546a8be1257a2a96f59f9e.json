@@ -1,6 +1,18 @@
 {
   "name": "extractinator-forge-1.19.2-2.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2EPioYNN",
+      "versionId": "rtCoflPb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 567114,
+      "fileId": 4259812
+    }
+  ],
   "forge": [
     {
       "modId": "extractinator",

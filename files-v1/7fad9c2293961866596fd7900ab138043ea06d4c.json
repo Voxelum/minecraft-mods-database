@@ -1,6 +1,18 @@
 {
   "name": "endremastered-forge-1.17.1-R4.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZJTGwAND",
+      "versionId": "OTVFe6yb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 404183,
+      "fileId": 3451830
+    }
+  ],
   "forge": [
     {
       "modId": "endrem",

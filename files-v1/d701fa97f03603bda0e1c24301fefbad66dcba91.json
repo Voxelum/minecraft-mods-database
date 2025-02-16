@@ -1,6 +1,12 @@
 {
   "name": "felling-1.4.1-1.12.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256909,
+      "fileId": 2689021
+    }
+  ],
   "forge": [
     {
       "modId": "felling",

@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 383301,
+      "fileId": 3341156
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "confabricate",
+      "version": "2.1.0-SNAPSHOT+4.1.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-gson",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "org_spongepowered_configurate-extra-dfu4",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.11"
+    }
+  ]
+}

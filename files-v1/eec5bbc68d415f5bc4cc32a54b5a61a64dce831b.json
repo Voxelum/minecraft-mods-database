@@ -1,6 +1,12 @@
 {
   "name": "crayfish-mod-1.34.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 561824,
+      "fileId": 4613129
+    }
+  ],
   "fabric": [
     {
       "modId": "crayfish",

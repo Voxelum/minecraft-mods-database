@@ -1,6 +1,18 @@
 {
   "name": "potacore-0.1.0-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "55ByH6In",
+      "versionId": "gwUDx2Ls"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 951521,
+      "fileId": 5021708
+    }
+  ],
   "forge": [
     {
       "modId": "potacore",

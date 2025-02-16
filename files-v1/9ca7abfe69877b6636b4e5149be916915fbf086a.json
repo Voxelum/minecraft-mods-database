@@ -1,6 +1,18 @@
 {
   "name": "improvedfishing-1.0-1.20-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mevGvwtz",
+      "versionId": "6BfaQVrV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852217,
+      "fileId": 4712887
+    }
+  ],
   "fabric": [
     {
       "modId": "improvedfishing",

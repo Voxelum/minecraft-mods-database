@@ -1,6 +1,18 @@
 {
   "name": "BeaconOverhaul-1.6.1+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v0cwu8bJ",
+      "versionId": "yfFbwi4e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430382,
+      "fileId": 3983955
+    }
+  ],
   "fabric": [
     {
       "modId": "beaconoverhaul",

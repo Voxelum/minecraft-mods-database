@@ -1,0 +1,22 @@
+{
+  "name": "automodpack-mc1.19.2-forge-4.0.0-beta20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k68glP2e",
+      "versionId": "foOW02K3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639211,
+      "fileId": 5931147
+    }
+  ],
+  "forge": [
+    {
+      "modId": "automodpack-bootstrap",
+      "version": "1.0.0"
+    }
+  ]
+}

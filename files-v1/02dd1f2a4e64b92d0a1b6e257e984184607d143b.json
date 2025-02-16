@@ -1,0 +1,30 @@
+{
+  "name": "Scout-2.0.3+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QRYqnI15",
+      "versionId": "1E4pZSDE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631922,
+      "fileId": 5192788
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scout",
+      "version": "2.0.3+1.20.1"
+    },
+    {
+      "modId": "lib39-core",
+      "version": "1.5.0-experimental6.1+1.20.1"
+    },
+    {
+      "modId": "lib39-dessicant",
+      "version": "1.5.0-experimental6.1+1.20.1"
+    }
+  ]
+}

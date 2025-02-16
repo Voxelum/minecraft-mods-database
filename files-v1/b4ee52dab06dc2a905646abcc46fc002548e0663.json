@@ -1,6 +1,18 @@
 {
   "name": "plonk-1.16.5-10.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EUmBPkQn",
+      "versionId": "BmnCGtN1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345779,
+      "fileId": 4480786
+    }
+  ],
   "forge": [
     {
       "modId": "plonk",

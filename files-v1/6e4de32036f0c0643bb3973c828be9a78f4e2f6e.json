@@ -1,6 +1,18 @@
 {
   "name": "sawmill-1.20.4-1.3.1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WRaRZdTd",
+      "versionId": "uyqjP8T5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 964817,
+      "fileId": 5100926
+    }
+  ],
   "fabric": [
     {
       "modId": "sawmill",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "private-horses",
+      "version": "1.21-0.0.1"
+    },
+    {
+      "modId": "com_github_carleslc_simple-yaml_simple-yaml",
+      "version": "1.8.4"
+    }
+  ]
+}

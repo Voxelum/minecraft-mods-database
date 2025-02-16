@@ -1,6 +1,18 @@
 {
   "name": "morediscs-1.19.4-28-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pXYChc1a",
+      "versionId": "Kk7SePu2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 471002,
+      "fileId": 4546078
+    }
+  ],
   "forge": [
     {
       "modId": "morediscs",

@@ -1,6 +1,18 @@
 {
   "name": "perfectplushies-forge-1.20.1-1.8.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L5MLckDN",
+      "versionId": "OKR7jA3N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867232,
+      "fileId": 4840029
+    }
+  ],
   "forge": [
     {
       "modId": "perfectplushies",

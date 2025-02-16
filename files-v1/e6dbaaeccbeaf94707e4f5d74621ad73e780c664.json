@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPiLAv6e",
+      "versionId": "MnD1prTx"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creatoroverlays",
+      "version": "3.1.0-1.20.6"
+    },
+    {
+      "modId": "libgui",
+      "version": "10.0.0+1.20.6"
+    }
+  ]
+}

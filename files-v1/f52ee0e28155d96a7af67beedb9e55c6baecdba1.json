@@ -1,6 +1,18 @@
 {
   "name": "Pehkui-3.6.0+1.16.5-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t5W7Jfwy",
+      "versionId": "jFaljqTH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 319596,
+      "fileId": 4059298
+    }
+  ],
   "forge": [
     {
       "modId": "pehkui",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZxauj81",
+      "versionId": "ZgizC1Oe"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pv_addon_whisper",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pv-addon-whisper",
+      "version": "1.1.0"
+    }
+  ]
+}

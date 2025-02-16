@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "3.4.0-iris1.8"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "imm_ptl_core",
+      "version": "3.4.0-iris1.8"
+    },
+    {
+      "modId": "q_misc_util",
+      "version": "3.4.0-iris1.8"
+    }
+  ]
+}

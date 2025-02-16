@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LLfA8jAD",
+      "versionId": "uytA99SE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "telekinesis",
+      "version": "3.1.0-1.21.2"
+    },
+    {
+      "modId": "dev_nyon_konfig",
+      "version": "2.0.2-1.20.4"
+    }
+  ]
+}

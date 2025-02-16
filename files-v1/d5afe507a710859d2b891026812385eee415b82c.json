@@ -1,0 +1,28 @@
+{
+  "name": "enhanced-groups-1.19.4-1.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1LE7mid6",
+      "versionId": "8Oi2Fhft"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedgroups",
+      "version": "1.19.4-1.4.0"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.23+9ff28bced8"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.4+ae0966bad8"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.21+4e68ac5bd8"
+    }
+  ]
+}

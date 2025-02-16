@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQcfqGbl",
+      "versionId": "E7Uwikwi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968456,
+      "fileId": 5441034
+    }
+  ],
   "forge": [
     {
       "modId": "cobweb",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sSAANV7f",
+      "versionId": "jVVnUOPF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 645407,
+      "fileId": 5771072
+    }
+  ],
   "fabric": [
     {
       "modId": "videoplayer",

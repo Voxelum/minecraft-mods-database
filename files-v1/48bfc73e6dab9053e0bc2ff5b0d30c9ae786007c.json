@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "desolation",
+      "version": "1.7.0"
+    },
+    {
+      "modId": "biolith",
+      "version": "3.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "11.0.0-alpha.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0-alpha.1"
+    },
+    {
+      "modId": "geckolib",
+      "version": "4.5.7"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "charm-fabric-1.20.1-forked-6.0.23.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lz0ymQav",
+      "versionId": "txFZVA7O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1016482,
+      "fileId": 5937488
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "charm",
+      "version": "forked-6.0.23"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "charmony",
+      "version": "6.15.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

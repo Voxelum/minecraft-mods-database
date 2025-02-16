@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nitro",
+      "version": "1.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "3.12.12"
+    },
+    {
+      "modId": "com_squareup_okio_okio",
+      "version": "1.15.0"
+    },
+    {
+      "modId": "io_github_humbleui_skija-shared",
+      "version": "0.116.2"
+    },
+    {
+      "modId": "io_github_humbleui_skija-windows-x64",
+      "version": "0.116.2"
+    },
+    {
+      "modId": "io_github_humbleui_types",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "se_michaelthelin_spotify_spotify-web-api-java",
+      "version": "8.4.1"
+    }
+  ]
+}

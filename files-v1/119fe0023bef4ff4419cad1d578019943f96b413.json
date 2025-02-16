@@ -1,6 +1,18 @@
 {
   "name": "Controlify-1.4.4+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOUdJVEm",
+      "versionId": "aT4dMJAD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835847,
+      "fileId": 4637597
+    }
+  ],
   "fabric": [
     {
       "modId": "controlify",

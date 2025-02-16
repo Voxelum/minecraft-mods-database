@@ -1,6 +1,18 @@
 {
   "name": "paradise-lost-2.0.2-beta+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKpsG0nF",
+      "versionId": "qkZypRmp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 418680,
+      "fileId": 4136712
+    }
+  ],
   "fabric": [
     {
       "modId": "paradise_lost",

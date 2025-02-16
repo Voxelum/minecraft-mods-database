@@ -1,6 +1,12 @@
 {
   "name": "create-electric-stonks-1.19.2-1.2.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 709112,
+      "fileId": 4606683
+    }
+  ],
   "forge": [
     {
       "modId": "create_electric_stonks",

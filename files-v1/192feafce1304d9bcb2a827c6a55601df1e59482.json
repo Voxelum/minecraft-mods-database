@@ -1,6 +1,18 @@
 {
   "name": "(CLN) IllagerRaidMusic-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WZCboGDd",
+      "versionId": "NbeqixmY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 947227,
+      "fileId": 5097084
+    }
+  ],
   "forge": [
     {
       "modId": "illagerraidmusic",

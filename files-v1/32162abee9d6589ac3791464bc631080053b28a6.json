@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "AxLbxFVR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648511,
+      "fileId": 5972183
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "3.0.11-mc1.21.1"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.6-mc1.21.1"
+    }
+  ]
+}

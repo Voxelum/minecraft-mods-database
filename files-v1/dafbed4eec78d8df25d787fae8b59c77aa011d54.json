@@ -1,6 +1,12 @@
 {
   "name": "formations-1.0.0-forge-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tPe4xnPd",
+      "versionId": "rtujuEvM"
+    }
+  ],
   "forge": [
     {
       "modId": "formations",

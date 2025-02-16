@@ -1,6 +1,18 @@
 {
   "name": "letsdo-candlelight-forge-1.2.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPND0Adp",
+      "versionId": "AdqeT0q9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 846962,
+      "fileId": 4854087
+    }
+  ],
   "forge": [
     {
       "modId": "candlelight",

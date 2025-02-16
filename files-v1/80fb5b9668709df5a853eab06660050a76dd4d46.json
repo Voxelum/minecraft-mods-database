@@ -1,0 +1,26 @@
+{
+  "name": "CraftPresence-2.5.2+1.20.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFqQfIBR",
+      "versionId": "TYuriIn1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297038,
+      "fileId": 5947525
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.21+ee30b13a4f"
+    }
+  ]
+}

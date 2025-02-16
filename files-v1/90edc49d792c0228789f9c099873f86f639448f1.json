@@ -1,0 +1,28 @@
+{
+  "name": "doubledoors-1.21.4-6.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JrvR9OHr",
+      "versionId": "nBTIX00E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348831,
+      "fileId": 5967657
+    }
+  ],
+  "forge": [
+    {
+      "modId": "doubledoors",
+      "version": "6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "doubledoors",
+      "version": "6.0"
+    }
+  ]
+}

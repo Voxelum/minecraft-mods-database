@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UL4bJFDY",
+      "versionId": "H4yFnOYs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676275,
+      "fileId": 5287392
+    }
+  ],
   "fabric": [
     {
       "modId": "melius-vanish",

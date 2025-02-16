@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DYtNBtIy",
+      "versionId": "i9ydALz5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637761,
+      "fileId": 5486854
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "newnpcmod",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.1-1.20.1"
+    },
+    {
+      "modId": "com_example_marvin-1_5_5",
+      "version": "1.5.5"
+    },
+    {
+      "modId": "mkb",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "org_sejda_imageio_webp-imageio",
+      "version": "0.1.6"
+    }
+  ]
+}

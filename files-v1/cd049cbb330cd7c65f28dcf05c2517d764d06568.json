@@ -1,6 +1,18 @@
 {
   "name": "bclib-3.0.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BgNRHReB",
+      "versionId": "o3lVyUSA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495191,
+      "fileId": 4658905
+    }
+  ],
   "fabric": [
     {
       "modId": "bclib",

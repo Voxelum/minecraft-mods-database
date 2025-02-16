@@ -1,0 +1,22 @@
+{
+  "name": "exclusions_lib-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OqRYBfuW",
+      "versionId": "Fz6szU5o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1108052,
+      "fileId": 5898575
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exclusions_lib",
+      "version": "1.0.2"
+    }
+  ]
+}

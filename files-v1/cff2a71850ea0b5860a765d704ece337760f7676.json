@@ -1,6 +1,18 @@
 {
   "name": "polymorph-fabric-1.0.2+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tagwiZkJ",
+      "versionId": "p7pF15m3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388800,
+      "fileId": 5480539
+    }
+  ],
   "fabric": [
     {
       "modId": "polymorph",

@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ueG346gM",
+      "versionId": "xYIK0IRT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "manymanycommands",
+      "version": "0.0.5+1.20.1"
+    },
+    {
+      "modId": "manymanycommands_api",
+      "version": "0.0.5+1.20.1"
+    },
+    {
+      "modId": "ch_skyfy_json5configlib_json5-config-lib",
+      "version": "1.0.22"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-reflect",
+      "version": "1.8.10"
+    },
+    {
+      "modId": "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "io_github_microutils_kotlin-logging-jvm",
+      "version": "3.0.4"
+    },
+    {
+      "modId": "io_github_xn32_json5k",
+      "version": "0.2.1"
+    }
+  ]
+}

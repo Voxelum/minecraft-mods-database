@@ -1,0 +1,30 @@
+{
+  "name": "diversity-fabric-1.21-2.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "31qnTHav",
+      "versionId": "nz98aSiL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1039632,
+      "fileId": 5925399
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diversity",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    }
+  ]
+}

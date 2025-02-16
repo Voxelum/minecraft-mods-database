@@ -1,6 +1,18 @@
 {
   "name": "zephshammers-1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mLnGwbqJ",
+      "versionId": "ZA1WYSts"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 485863,
+      "fileId": 3851417
+    }
+  ],
   "forge": [
     {
       "modId": "zephshammers",

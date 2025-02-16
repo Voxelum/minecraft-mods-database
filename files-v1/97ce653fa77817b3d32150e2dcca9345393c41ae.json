@@ -1,0 +1,22 @@
+{
+  "name": "mcdungeonsMusic_v1_FABRIC_1_20_x.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 978182,
+      "fileId": 5131443
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dungeons_music_discs",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dungeons_music_discs",
+      "version": "1.0.0"
+    }
+  ]
+}

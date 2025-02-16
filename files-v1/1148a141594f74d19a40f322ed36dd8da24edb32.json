@@ -1,6 +1,18 @@
 {
   "name": "roost_ultimate-1.16.5-0.4.2-0.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YzR4F72D",
+      "versionId": "RIOF1ReM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621910,
+      "fileId": 4407526
+    }
+  ],
   "forge": [
     {
       "modId": "chicken_roost",

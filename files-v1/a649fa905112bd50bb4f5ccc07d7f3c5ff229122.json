@@ -1,6 +1,18 @@
 {
   "name": "psionicolor-1.16.5-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox09MNnG",
+      "versionId": "NH9Ammzl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 515334,
+      "fileId": 3536450
+    }
+  ],
   "forge": [
     {
       "modId": "psionicolor",

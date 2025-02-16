@@ -1,6 +1,12 @@
 {
   "name": "Essential-fabric_1-19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 546670,
+      "fileId": 3820968
+    }
+  ],
   "fabric": [
     {
       "modId": "essential-container",

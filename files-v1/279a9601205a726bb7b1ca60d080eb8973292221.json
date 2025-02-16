@@ -1,0 +1,30 @@
+{
+  "name": "mythicupgrades-4.1.4+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ERH7cFoy",
+      "versionId": "louNc9qE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663567,
+      "fileId": 5621821
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicupgrades",
+      "version": "4.1.4+mc1.21"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    }
+  ]
+}

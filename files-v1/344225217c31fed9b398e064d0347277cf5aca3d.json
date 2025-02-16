@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vJcKDd8R",
+      "versionId": "vWedtxhl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866643,
+      "fileId": 5261027
+    }
+  ],
   "fabric": [
     {
       "modId": "forager_bow_ench",

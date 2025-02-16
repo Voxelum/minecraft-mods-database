@@ -1,6 +1,18 @@
 {
   "name": "shards.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TWPLl9TB",
+      "versionId": "VuaMDEA2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 615230,
+      "fileId": 4612953
+    }
+  ],
   "fabric": [
     {
       "modId": "shards",

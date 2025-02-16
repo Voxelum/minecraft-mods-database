@@ -1,6 +1,18 @@
 {
   "name": "X-HP-1.20.1-1.0.3-SNAPSHOT.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tahjy3QI",
+      "versionId": "4S8erCgB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430059,
+      "fileId": 4767906
+    }
+  ],
   "fabric": [
     {
       "modId": "x_hp",

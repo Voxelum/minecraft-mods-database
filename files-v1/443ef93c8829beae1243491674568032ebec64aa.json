@@ -1,0 +1,54 @@
+{
+  "name": "servercore-fabric-1.3.6+1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4WWQxlQP",
+      "versionId": "o4TGWM7w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550579,
+      "fileId": 5652360
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servercore",
+      "version": "1.3.6+1.19.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.0.0-pre.1+1.19.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.1+413cbbc790"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.15+8f4e8eb390"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.4+1b46dc7890"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bSkHUVQQ",
+      "versionId": "cv3nH9FP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268647,
+      "fileId": 5256108
+    }
+  ],
   "fabric": [
     {
       "modId": "globalxp",

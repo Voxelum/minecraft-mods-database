@@ -1,6 +1,18 @@
 {
   "name": "DivineRPG-1.8.12.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F3kLpGw6",
+      "versionId": "MTvRosF1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363543,
+      "fileId": 3747039
+    }
+  ],
   "forge": [
     {
       "modId": "divinerpg",

@@ -1,6 +1,18 @@
 {
   "name": "protection_pixel-1.19.2-0.9.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l1FZziEx",
+      "versionId": "TKT1ahK1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1023409,
+      "fileId": 5405051
+    }
+  ],
   "forge": [
     {
       "modId": "protection_pixel",

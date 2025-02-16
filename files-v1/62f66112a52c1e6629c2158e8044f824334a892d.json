@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1P8FCviI",
+      "versionId": "KzcF7Ekr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482910,
+      "fileId": 5018086
+    }
+  ],
+  "forge": [
+    {
+      "modId": "illegal_stack_fixer",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illegal_stack_fixer",
+      "version": "1.0.0"
+    }
+  ]
+}

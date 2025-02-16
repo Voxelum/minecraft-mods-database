@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.13+1802ada577"
+    }
+  ]
+}

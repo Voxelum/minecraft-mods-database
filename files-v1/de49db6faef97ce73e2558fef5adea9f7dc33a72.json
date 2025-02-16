@@ -1,6 +1,18 @@
 {
   "name": "biomemakeover-FORGE-1.19.4-1.9.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jG8Q2YwT",
+      "versionId": "iKsY6JG4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 567709,
+      "fileId": 4606607
+    }
+  ],
   "forge": [
     {
       "modId": "biomemakeover",

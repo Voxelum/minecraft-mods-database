@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4das1Fjq",
+      "versionId": "QUillGxS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flashback",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "bagged-1.0.0-forge-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OIXfOp2Q",
+      "versionId": "OSHQblSK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 993101,
+      "fileId": 5213659
+    }
+  ],
   "forge": [
     {
       "modId": "bagged",

@@ -1,6 +1,12 @@
 {
   "name": "slimyfloor-1.19.1-1.2.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 456996,
+      "fileId": 3910483
+    }
+  ],
   "fabric": [
     {
       "modId": "slimyfloor",

@@ -1,6 +1,12 @@
 {
   "name": "netmusic-1.20.1-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gKNuqaQq",
+      "versionId": "21476PI1"
+    }
+  ],
   "forge": [
     {
       "modId": "netmusic",

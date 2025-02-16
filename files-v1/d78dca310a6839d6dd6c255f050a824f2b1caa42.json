@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iHtpVwJL",
+      "versionId": "qCJfzEFX"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": "1.20.1-0.10.50.1.63"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dayshower",
+      "version": "1.7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dayshower",
+      "version": "1.7.1"
+    }
+  ]
+}

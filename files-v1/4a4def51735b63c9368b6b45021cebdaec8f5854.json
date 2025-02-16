@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "EasyEula-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CvQCitpB",
+      "versionId": "5kRWwkhd"
+    }
+  ],
   "fabric": [
     {
       "modId": "easyeula",

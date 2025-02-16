@@ -1,6 +1,18 @@
 {
   "name": "Burger-Mod-Forge-1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GImYM31j",
+      "versionId": "ppe0V9KZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483758,
+      "fileId": 4438701
+    }
+  ],
   "forge": [
     {
       "modId": "burgermod",

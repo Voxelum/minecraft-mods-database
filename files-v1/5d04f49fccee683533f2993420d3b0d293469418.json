@@ -1,0 +1,30 @@
+{
+  "name": "wynntils-2.4.7-fabric+MC-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dU5Gb9Ab",
+      "versionId": "BD0iQqVa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303451,
+      "fileId": 5971899
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wynntils",
+      "version": "2.4.7"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.0+5659912919"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

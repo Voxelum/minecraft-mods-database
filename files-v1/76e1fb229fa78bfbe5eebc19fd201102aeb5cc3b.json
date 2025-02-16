@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1TVTyRG9",
+      "versionId": "lTQLiXiV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1039596,
+      "fileId": 5817867
+    }
+  ],
   "fabric": [
     {
       "modId": "minetraps",

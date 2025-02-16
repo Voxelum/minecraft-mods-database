@@ -1,6 +1,12 @@
 {
   "name": "Slideshow-fabric-1.18.2-1.0.2-hotfix-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CvIO1eYD",
+      "versionId": "Ng6GjMJw"
+    }
+  ],
   "fabric": [
     {
       "modId": "slide_show",

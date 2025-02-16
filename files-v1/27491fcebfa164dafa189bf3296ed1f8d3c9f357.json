@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "ambientsounds",
+      "version": "5.2.13"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ambientsounds",
+      "version": "${version}"
+    }
+  ]
+}

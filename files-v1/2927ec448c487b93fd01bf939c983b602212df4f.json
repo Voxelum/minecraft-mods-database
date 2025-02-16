@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.1.995+1.19.4"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "expandability",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.1.995+1.19.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "CustomNPC-Plus-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dXMq6syh",
+      "versionId": "U12dN1G9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 480951,
+      "fileId": 4119952
+    }
+  ],
   "forge": [
     {
       "modId": "customnpcs",

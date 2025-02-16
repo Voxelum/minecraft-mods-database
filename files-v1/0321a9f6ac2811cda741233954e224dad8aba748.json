@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v21RIUul",
+      "versionId": "3PMrLaCI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brrrrock",
+      "version": "3.1.0-1.21.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.16+1.21.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qO4ozPoe",
+      "versionId": "WdGppHp2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1101500,
+      "fileId": 5994555
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pyrite",
+      "version": "0.15.5+1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pyrite",
+      "version": "0.15.5+1.20.1"
+    }
+  ]
+}

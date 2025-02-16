@@ -1,0 +1,26 @@
+{
+  "name": "scorchful-0.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SZQ5qcdn",
+      "versionId": "sIpGGY6I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981400,
+      "fileId": 5946798
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scorchful",
+      "version": "0.13"
+    },
+    {
+      "modId": "satin",
+      "version": "2.0.0"
+    }
+  ]
+}

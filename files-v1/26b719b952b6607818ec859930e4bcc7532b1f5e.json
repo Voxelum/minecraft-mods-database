@@ -1,0 +1,20 @@
+{
+  "name": "Myths_and_Legends-1.2-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CaOWby9K",
+      "versionId": "QtMv2flI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythsandlegends",
+      "version": "1.2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

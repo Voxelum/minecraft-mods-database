@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JHvtQzoF",
+      "versionId": "CtA2khwL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "physics_toys",
+      "version": "0.4.0+1.21.4-rc3"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "com_github_stephengold_libbulletjme",
+      "version": "21.2.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    }
+  ]
+}

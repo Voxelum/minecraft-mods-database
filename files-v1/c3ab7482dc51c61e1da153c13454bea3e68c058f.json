@@ -1,6 +1,18 @@
 {
   "name": "icy-incitement-1.18.2-fabric-1.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zj1ND0rS",
+      "versionId": "DIi1WCgj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561319,
+      "fileId": 3788269
+    }
+  ],
   "fabric": [
     {
       "modId": "icy-incitement",

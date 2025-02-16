@@ -1,6 +1,18 @@
 {
   "name": "FallingTree-1.18.1-3.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fb4jn8m6",
+      "versionId": "MNaOu00H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349559,
+      "fileId": 3640237
+    }
+  ],
   "forge": [
     {
       "modId": "fallingtree",

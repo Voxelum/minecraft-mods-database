@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F7wXag4i",
+      "versionId": "n346fNoi"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorymanagement",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "roundalib",
+      "version": "0.2.1"
+    }
+  ]
+}

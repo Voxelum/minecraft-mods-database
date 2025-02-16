@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9qIVVBj8",
+      "versionId": "BbOTKbsP"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 1071762,
       "fileId": 5816870
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tenseambience",
+      "version": "1.7.0"
     }
   ]
 }

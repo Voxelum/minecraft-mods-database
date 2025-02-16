@@ -1,6 +1,18 @@
 {
   "name": "uncrafter-forge-1.20.1-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q6iSQrx6",
+      "versionId": "685e5ESu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 508170,
+      "fileId": 4800503
+    }
+  ],
   "forge": [
     {
       "modId": "uncrafter",

@@ -1,6 +1,12 @@
 {
   "name": "TopkaHealth-V2-1.16.5-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C49pmqJA",
+      "versionId": "WxseIGeR"
+    }
+  ],
   "fabric": [
     {
       "modId": "topkahealth",

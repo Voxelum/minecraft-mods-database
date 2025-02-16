@@ -1,6 +1,18 @@
 {
   "name": "villagerdeathmessages-1.19.2-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9uICvZTr",
+      "versionId": "vEfN9gwI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 341777,
+      "fileId": 4963592
+    }
+  ],
   "forge": [
     {
       "modId": "villagerdeathmessages",

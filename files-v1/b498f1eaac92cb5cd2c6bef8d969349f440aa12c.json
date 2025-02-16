@@ -1,6 +1,18 @@
 {
   "name": "whats-that-slot-forge-1.2.2+1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7b5VoITI",
+      "versionId": "Ts6Pu1lx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247895,
+      "fileId": 3609611
+    }
+  ],
   "forge": [
     {
       "modId": "whats_that_slot",

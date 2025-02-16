@@ -1,6 +1,18 @@
 {
   "name": "FlectoneMix FeyTweaks.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wa72oW2W",
+      "versionId": "fvG9qulz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663213,
+      "fileId": 4631441
+    }
+  ],
   "fabric": [
     {
       "modId": "feytweaks",

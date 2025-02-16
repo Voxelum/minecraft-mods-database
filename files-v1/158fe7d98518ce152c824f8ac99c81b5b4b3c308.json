@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "miZ3Y7JQ",
+      "versionId": "hur6KtjB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1009916,
+      "fileId": 5922987
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_tiny_players",
+      "version": "1.1.1+1.20.5-1.21.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_tiny_players",
+      "version": "1.1.1+1.20.5-1.21.1"
+    }
+  ]
+}

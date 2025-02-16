@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hd7ZLKRk",
+      "versionId": "OFWLMOhu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574331,
+      "fileId": 5960098
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "google-chat",
+      "version": "0.9.2"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "6.0.23+7feeb73382"
+    }
+  ]
+}

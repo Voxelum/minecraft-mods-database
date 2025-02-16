@@ -1,0 +1,20 @@
+{
+  "name": "MetalBundles-v6.0.0-1.19.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pY6oEMg",
+      "versionId": "gghIL9eP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "metalbundles",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "iteminteractionscore",
+      "version": "6.0.0"
+    }
+  ]
+}

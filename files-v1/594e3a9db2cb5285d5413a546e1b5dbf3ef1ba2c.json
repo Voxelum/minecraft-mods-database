@@ -1,6 +1,12 @@
 {
   "name": "BadOptimizations-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g96Z4WVZ",
+      "versionId": "7EtZn21b"
+    }
+  ],
   "fabric": [
     {
       "modId": "badoptimizations",

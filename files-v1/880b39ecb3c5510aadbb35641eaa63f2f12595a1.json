@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yUBXc3AH",
+      "versionId": "wBIAaCvH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841617,
+      "fileId": 5463542
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libz",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.15.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.15.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.15.2"
+    }
+  ]
+}

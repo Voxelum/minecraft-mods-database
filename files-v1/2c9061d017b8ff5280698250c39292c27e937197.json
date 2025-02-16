@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uE1WpIAk",
+      "versionId": "Y4ZmV8q7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391378,
+      "fileId": 3947716
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "byg",
+      "version": "2.0.0.8"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.2"
+    }
+  ]
+}

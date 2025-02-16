@@ -1,6 +1,18 @@
 {
   "name": "1.19.2-Mels-Vanilla-v1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3BhcWEDV",
+      "versionId": "DWRPH2H2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 888655,
+      "fileId": 4643823
+    }
+  ],
   "forge": [
     {
       "modId": "mels_vanilla_plus",

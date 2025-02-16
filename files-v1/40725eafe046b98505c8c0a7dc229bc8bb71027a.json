@@ -1,0 +1,30 @@
+{
+  "name": "chunksfadein-v3.0.10-1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaNmzvA8",
+      "versionId": "aItOAKVN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 720811,
+      "fileId": 4469034
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunksfadein",
+      "version": "3.0.10-1.19"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.2"
+    }
+  ]
+}

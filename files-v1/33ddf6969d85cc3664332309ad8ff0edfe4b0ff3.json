@@ -1,6 +1,18 @@
 {
   "name": "tesseract-1.0.35a-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OUhp5O2m",
+      "versionId": "pjTBzb4b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 379232,
+      "fileId": 4720193
+    }
+  ],
   "fabric": [
     {
       "modId": "tesseract",

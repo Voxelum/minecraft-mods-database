@@ -1,0 +1,20 @@
+{
+  "name": "TotemPartyPopper-4.0.1-1.21.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ivRTDH7",
+      "versionId": "3iMYhYUb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "totem-party",
+      "version": "4.0.1-1.21.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.16+1.21.2"
+    }
+  ]
+}

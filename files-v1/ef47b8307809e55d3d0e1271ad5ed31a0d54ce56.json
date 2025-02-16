@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "POQ2i9zu",
+      "versionId": "OHBzRj5J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551364,
+      "fileId": 5904795
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendsandfoes",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "bears-armor-hud-0.3.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 420155,
+      "fileId": 4050294
+    }
+  ],
   "fabric": [
     {
       "modId": "armor_hud",

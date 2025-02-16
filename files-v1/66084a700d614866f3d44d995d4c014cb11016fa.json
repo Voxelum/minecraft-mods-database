@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vebnzrzj",
+      "versionId": "6h9SnsZu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luckperms",
+      "version": "5.4.150"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    }
+  ]
+}

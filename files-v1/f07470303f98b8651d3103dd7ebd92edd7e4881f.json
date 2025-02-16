@@ -1,0 +1,22 @@
+{
+  "name": "bedrock-bridging-0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DVJU77KJ",
+      "versionId": "6YDbhD8E"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_bedrock_bridging",
+      "version": "0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_bedrock_bridging",
+      "version": "0.2"
+    }
+  ]
+}

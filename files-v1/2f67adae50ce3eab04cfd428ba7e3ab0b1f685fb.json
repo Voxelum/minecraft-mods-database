@@ -1,6 +1,18 @@
 {
   "name": "CustomCursorMod-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "57tyahcz",
+      "versionId": "zSEnnvkm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 278476,
+      "fileId": 2604749
+    }
+  ],
   "forge": [
     {
       "modId": "customcursormod",

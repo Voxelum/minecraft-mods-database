@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9dzLWnmZ",
+      "versionId": "nRHm1sgL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051342,
+      "fileId": 5990714
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "camerapture",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "io_github_darkxanter_webp-imageio",
+      "version": "0.3.2"
+    }
+  ]
+}

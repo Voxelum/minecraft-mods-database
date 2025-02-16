@@ -1,6 +1,18 @@
 {
   "name": "ColdSweat-2.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uXhSmPjd",
+      "versionId": "7nQUFUKm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 506194,
+      "fileId": 4978881
+    }
+  ],
   "forge": [
     {
       "modId": "cold_sweat",

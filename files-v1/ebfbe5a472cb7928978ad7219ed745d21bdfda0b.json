@@ -1,6 +1,18 @@
 {
   "name": "toms_trading_network-1.19-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x5iQ3NM5",
+      "versionId": "5MefIdJi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 854496,
+      "fileId": 5167120
+    }
+  ],
   "forge": [
     {
       "modId": "toms_trading_network",

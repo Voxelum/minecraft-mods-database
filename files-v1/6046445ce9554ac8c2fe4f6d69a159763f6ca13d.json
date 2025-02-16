@@ -1,6 +1,12 @@
 {
   "name": "oceio-1.12.2-1.0.002.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 320132,
+      "fileId": 2703387
+    }
+  ],
   "forge": [
     {
       "modId": "eioocshim",

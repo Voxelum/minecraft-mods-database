@@ -1,6 +1,12 @@
 {
   "name": "BackportedStuff-1.12.2-v1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 686210,
+      "fileId": 4031287
+    }
+  ],
   "forge": [
     {
       "modId": "backportedstuff",

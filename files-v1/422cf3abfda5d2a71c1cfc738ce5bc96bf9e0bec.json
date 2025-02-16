@@ -1,0 +1,42 @@
+{
+  "name": "mythicmetals-0.20.0+1.21-alpha6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "veDBwPco"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410127,
+      "fileId": 5612027
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.20.0+1.21-alpha6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.10+1.21"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.8.0+1.21"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    }
+  ]
+}

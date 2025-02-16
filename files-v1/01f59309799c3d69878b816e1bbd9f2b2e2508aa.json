@@ -1,6 +1,12 @@
 {
   "name": "fluidlogged-2.0.1-beta.2-fabric-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BnXpPaut",
+      "versionId": "BQ0t7nK0"
+    }
+  ],
   "fabric": [
     {
       "modId": "fluidlogged",

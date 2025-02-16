@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ljgxd2P8",
+      "versionId": "cE5dE02U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 931210,
+      "fileId": 5265066
+    }
+  ],
+  "forge": [
+    {
+      "modId": "toms_peripherals_fabric-1.19.2-1.2.1",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_peripherals",
+      "version": "1.2.1"
+    }
+  ]
+}

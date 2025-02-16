@@ -1,6 +1,18 @@
 {
   "name": "JAOPCA-1.20.1-4.4.9.14.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P48mHi2j",
+      "versionId": "m5c9pnjT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 266936,
+      "fileId": 5162528
+    }
+  ],
   "forge": [
     {
       "modId": "jaopca",

@@ -1,6 +1,18 @@
 {
   "name": "TBPatches-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W714SOPL",
+      "versionId": "fDe7mTrR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 729274,
+      "fileId": 4165071
+    }
+  ],
   "forge": [
     {
       "modId": "tbpatches",

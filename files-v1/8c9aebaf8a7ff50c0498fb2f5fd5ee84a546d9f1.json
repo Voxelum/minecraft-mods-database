@@ -1,6 +1,18 @@
 {
   "name": "fullturtlearmor-1.3.2-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Hj5mCXkB",
+      "versionId": "EjP388AS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 507470,
+      "fileId": 4390994
+    }
+  ],
   "fabric": [
     {
       "modId": "fullturtlearmor",

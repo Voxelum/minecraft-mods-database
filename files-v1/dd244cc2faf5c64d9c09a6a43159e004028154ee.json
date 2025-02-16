@@ -1,6 +1,12 @@
 {
   "name": "jumanjicraft-release-1-1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 911560,
+      "fileId": 4775734
+    }
+  ],
   "forge": [
     {
       "modId": "junglecraft",

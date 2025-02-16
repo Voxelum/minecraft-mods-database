@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzjhlDgM",
+      "versionId": "2ABmylPA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688231,
+      "fileId": 5953962
+    }
+  ],
+  "forge": [
+    {
+      "modId": "railways",
+      "version": "1.6.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "railways",
+      "version": "1.6.7+fabric-mc1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

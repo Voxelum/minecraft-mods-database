@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xZQOoOaY",
+      "versionId": "SPdYCTMI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 832070,
+      "fileId": 5475319
+    }
+  ],
+  "forge": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.5.2-mc1.20.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.5.2-mc1.20.2"
+    }
+  ]
+}

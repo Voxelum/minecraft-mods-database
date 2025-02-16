@@ -1,6 +1,18 @@
 {
   "name": "itemscroller_1.12.0_0.11.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JygyCSA4",
+      "versionId": "OQ7nhkBO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242064,
+      "fileId": 2434598
+    }
+  ],
   "forge": [
     {
       "modId": "itemscroller",

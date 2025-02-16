@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 960933,
+      "fileId": 5957834
+    }
+  ],
+  "forge": [
+    {
+      "modId": "prionmod",
+      "version": "2.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "prionmod",
+      "version": "2.0.77"
+    }
+  ]
+}

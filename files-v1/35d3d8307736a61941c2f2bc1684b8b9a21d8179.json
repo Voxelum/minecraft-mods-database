@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JiEhJ3WG",
+      "versionId": "88ce1zIS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 695107,
+      "fileId": 4577432
+    }
+  ],
   "forge": [
     {
       "modId": "moremobvariants",

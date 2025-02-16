@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UB5B5hrq",
+      "versionId": "v4c4poiO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "syncedadvancements",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "syncedadvancements-next",
+      "version": "${version}"
+    }
+  ]
+}

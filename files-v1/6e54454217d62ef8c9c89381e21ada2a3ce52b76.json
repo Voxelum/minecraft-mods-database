@@ -1,6 +1,18 @@
 {
   "name": "tweakermore-mc1.21-v3.19.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GBeCx05I",
+      "versionId": "v4LA75RW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531235,
+      "fileId": 5446359
+    }
+  ],
   "fabric": [
     {
       "modId": "tweakermore",

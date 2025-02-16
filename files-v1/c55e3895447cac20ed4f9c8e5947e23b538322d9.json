@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "z8BTj1V5",
       "versionId": "LgYSKthd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014664,
+      "fileId": 5352406
+    }
+  ],
+  "forge": [
+    {
+      "modId": "reignitedhud",
+      "version": "1.1.0"
     }
   ]
 }

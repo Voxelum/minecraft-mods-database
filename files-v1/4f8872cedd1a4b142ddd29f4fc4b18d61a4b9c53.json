@@ -1,6 +1,18 @@
 {
   "name": "citadel-1.9.5-1.17.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jJfV67b1",
+      "versionId": "u3vg28FG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 331936,
+      "fileId": 3537054
+    }
+  ],
   "forge": [
     {
       "modId": "citadel",

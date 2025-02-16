@@ -1,0 +1,20 @@
+{
+  "name": "fix-alt-gr-3.0.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "36kLTHWB",
+      "versionId": "YtATqWFv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fix-alt-gr",
+      "version": "3.0.0+1.21"
+    },
+    {
+      "modId": "com_github_kwhat_jnativehook",
+      "version": "2.2.2"
+    }
+  ]
+}

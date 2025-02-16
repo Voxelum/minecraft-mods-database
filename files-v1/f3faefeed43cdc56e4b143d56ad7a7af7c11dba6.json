@@ -1,6 +1,18 @@
 {
   "name": "reeses_sodium_options-1.7.2+mc1.21-sources.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bh37bMuy",
+      "versionId": "DNJFe2me"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511319,
+      "fileId": 5424059
+    }
+  ],
   "fabric": [
     {
       "modId": "reeses-sodium-options",

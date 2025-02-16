@@ -1,6 +1,18 @@
 {
   "name": "[A-穿草攻击]attack_through_grass-1.0.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OKM2WWl3",
+      "versionId": "QMsV1RGr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 934895,
+      "fileId": 4869552
+    }
+  ],
   "fabric": [
     {
       "modId": "attack_through_grass",

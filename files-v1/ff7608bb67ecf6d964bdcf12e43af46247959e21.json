@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yi2fIEtc",
+      "versionId": "nh5kxORe"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorybinds",
+      "version": "2.2-1.21.1"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.1.0+1.21"
+    }
+  ]
+}

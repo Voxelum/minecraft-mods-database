@@ -1,6 +1,18 @@
 {
   "name": "rechiseled-1.1.4a-forge-mc1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B0g2vT6l",
+      "versionId": "3Nat2AdB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558998,
+      "fileId": 4783586
+    }
+  ],
   "forge": [
     {
       "modId": "rechiseled",

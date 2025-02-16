@@ -1,6 +1,18 @@
 {
   "name": "nutritious-feast-1.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GtMli81M",
+      "versionId": "7UUAnc6L"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 716089,
+      "fileId": 5227065
+    }
+  ],
   "fabric": [
     {
       "modId": "nutritious-feast",

@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-one-block-2.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xb16810H",
+      "versionId": "VjFw1cuB"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_vanilla_oneblock",
+      "version": "2.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vanilla_oneblock",
+      "version": "2.0.2"
+    }
+  ]
+}

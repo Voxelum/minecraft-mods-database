@@ -1,6 +1,18 @@
 {
   "name": "XaeroPlus-2.14+fabric-1.21-WM1.38.8-MM24.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnPUzSTg",
+      "versionId": "pxwnR4t9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 866084,
+      "fileId": 5439273
+    }
+  ],
   "fabric": [
     {
       "modId": "xaeroplus",

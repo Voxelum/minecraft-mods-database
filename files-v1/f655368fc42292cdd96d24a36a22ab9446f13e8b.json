@@ -1,6 +1,18 @@
 {
   "name": "DarkPaintings-Forge-1.19.4-15.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lFGQ4Hnk",
+      "versionId": "MvlKwJah"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377281,
+      "fileId": 4445276
+    }
+  ],
   "forge": [
     {
       "modId": "darkpaintings",

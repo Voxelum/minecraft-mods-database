@@ -1,0 +1,28 @@
+{
+  "name": "mooshroomspawn-1.21.4-3.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Gx3OPAlS",
+      "versionId": "z1exHJiu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325013,
+      "fileId": 5967566
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mooshroomspawn",
+      "version": "3.6"
+    }
+  ]
+}

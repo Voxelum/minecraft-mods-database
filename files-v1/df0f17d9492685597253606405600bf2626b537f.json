@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zQhsx8KF",
+      "versionId": "4aIy9Kc9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "servux",
+      "version": "0.3.9"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8cd1"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.2.0+ab7edbacd1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

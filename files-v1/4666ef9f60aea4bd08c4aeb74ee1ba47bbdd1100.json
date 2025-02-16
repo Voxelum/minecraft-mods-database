@@ -1,0 +1,16 @@
+{
+  "name": "spartancompat-1.2.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 360567,
+      "fileId": 2874733
+    }
+  ],
+  "forge": [
+    {
+      "modId": "spartancompat",
+      "version": "@VERSION@"
+    }
+  ]
+}

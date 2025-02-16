@@ -1,0 +1,162 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "liquidbounce",
+      "version": "0.20.0"
+    },
+    {
+      "modId": "org_jetbrains_annotations",
+      "version": "13.0"
+    },
+    {
+      "modId": "org_graalvm_truffle_truffle-runtime",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_truffle_truffle-compiler",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_sdk_nativeimage",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_js_js-language",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_thealtening_api_api",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "org_apache_logging_log4j_log4j-core",
+      "version": "2.23.1"
+    },
+    {
+      "modId": "org_graalvm_regex_regex",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_shadowed_icu4j",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "io_netty_netty-handler-proxy",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "org_apache_commons_commons-lang3",
+      "version": "3.12.0"
+    },
+    {
+      "modId": "org_graalvm_truffle_truffle-api",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "mcef",
+      "version": "1.2.1-1.21.1"
+    },
+    {
+      "modId": "org_graalvm_polyglot_polyglot",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_github_ccbluex_mc-authlib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "org_slf4j_slf4j-api",
+      "version": "2.0.10"
+    },
+    {
+      "modId": "commons-io_commons-io",
+      "version": "2.15.1"
+    },
+    {
+      "modId": "net_fabricmc_tiny-mappings-parser",
+      "version": "0.3.0+build.17"
+    },
+    {
+      "modId": "com_vdurmont_semver4j",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "io_netty_netty-codec-socks",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "com_github_ccbluex_discordipc",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "org_graalvm_sdk_jniutils",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_github_ccbluex_netty-httpserver",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "org_ahocorasick_ahocorasick",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "io_netty_netty-resolver",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "org_apache_logging_log4j_log4j-api",
+      "version": "2.23.1"
+    },
+    {
+      "modId": "io_netty_netty-handler",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "org_jetbrains_kotlin_kotlin-stdlib",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "com_google_code_gson_gson",
+      "version": "2.10.1"
+    },
+    {
+      "modId": "org_apache_tika_tika-core",
+      "version": "2.9.2"
+    },
+    {
+      "modId": "org_apache_commons_commons-exec",
+      "version": "1.3"
+    },
+    {
+      "modId": "org_graalvm_sdk_collections",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-native-common",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "org_graalvm_sdk_word",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "io_netty_netty-transport-native-unix-common",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-common",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.2"
+    }
+  ]
+}

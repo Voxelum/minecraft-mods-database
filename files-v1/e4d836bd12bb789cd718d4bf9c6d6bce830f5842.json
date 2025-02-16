@@ -1,6 +1,12 @@
 {
   "name": "create__potato_weapons.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F9YBjh3V",
+      "versionId": "q1JnuY7f"
+    }
+  ],
   "forge": [
     {
       "modId": "create__potato_weapons",

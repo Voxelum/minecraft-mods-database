@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "hexgloop",
+      "version": "1.20.1-0.2.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    },
+    {
+      "modId": "org_joml_joml",
+      "version": "1.10.5"
+    },
+    {
+      "modId": "org_jblas_jblas",
+      "version": "1.2.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

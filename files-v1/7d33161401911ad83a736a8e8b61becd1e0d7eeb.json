@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lqQsKUma",
+      "versionId": "F1FesBgG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414111,
+      "fileId": 5609361
+    }
+  ],
+  "forge": [
+    {
+      "modId": "wooltweaks",
+      "version": "3.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wooltweaks",
+      "version": "3.7"
+    }
+  ]
+}

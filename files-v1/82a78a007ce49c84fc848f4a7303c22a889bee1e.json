@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oUoetxfR",
+      "versionId": "i7HgIw68"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909143,
+      "fileId": 5673498
+    }
+  ],
   "fabric": [
     {
       "modId": "walljump",

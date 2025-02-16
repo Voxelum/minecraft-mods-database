@@ -1,6 +1,18 @@
 {
   "name": "traverse-7.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kXygSBVI",
+      "versionId": "9o4IEnHZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308777,
+      "fileId": 4852320
+    }
+  ],
   "fabric": [
     {
       "modId": "traverse",

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 448832,
+      "fileId": 3633951
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sihywtcamc",
+      "version": "1.4.2+1.18"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.42"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    }
+  ]
+}

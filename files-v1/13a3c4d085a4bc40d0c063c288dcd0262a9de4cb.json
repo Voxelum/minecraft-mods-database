@@ -1,6 +1,18 @@
 {
   "name": "SilentLib-1.14.4-4.4.0+44.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BQhuHQo4",
+      "versionId": "AjyEMbZR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242998,
+      "fileId": 2783899
+    }
+  ],
   "forge": [
     {
       "modId": "silentlib",

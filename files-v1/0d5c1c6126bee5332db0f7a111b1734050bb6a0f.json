@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sigwtdeA",
+      "versionId": "3im1XYh5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ai-player",
+      "version": "1.0.2-hotfix-3"
+    },
+    {
+      "modId": "com_github_amithkoujalgi_ollama4j",
+      "version": "1.0.77"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.6+1.20.3"
+    },
+    {
+      "modId": "com_github_fasterxml_jackson-databind",
+      "version": "jackson-databind-2.17.2"
+    },
+    {
+      "modId": "com_github_fasterxml_jackson-core",
+      "version": "jackson-core-2.17.2"
+    },
+    {
+      "modId": "com_github_fasterxml_jackson-datatype-jsr310",
+      "version": "jackson-datatype-jsr310-2.8.4"
+    },
+    {
+      "modId": "com_github_fasterxml_jackson-annotations",
+      "version": "jackson-annotations-2.17.2"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.46.0.1"
+    }
+  ]
+}

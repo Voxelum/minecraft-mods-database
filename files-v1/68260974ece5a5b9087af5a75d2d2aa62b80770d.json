@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yw8a5K8E",
+      "versionId": "4fwBPLvN"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 1098385,
       "fileId": 5714247
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nuke_bay",
+      "version": "1.20.1-SNAPSHOT"
     }
   ]
 }

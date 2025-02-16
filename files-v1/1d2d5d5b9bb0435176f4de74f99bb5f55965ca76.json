@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pmsp9mMS",
+      "versionId": "Qz8JDdFg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483955,
+      "fileId": 4596082
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "no_teleport_cooldown",
+      "version": "1.0.7"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

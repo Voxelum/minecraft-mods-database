@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modern_industrialization",
+      "version": "local"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-81-FABRIC"
+    }
+  ]
+}

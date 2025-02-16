@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hWlsli6y",
+      "versionId": "SaIS5F4W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366783,
+      "fileId": 5393238
+    }
+  ],
   "forge": [
     {
       "modId": "mapfrontiers",

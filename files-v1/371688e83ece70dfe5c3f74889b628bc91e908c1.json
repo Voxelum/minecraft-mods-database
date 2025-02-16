@@ -1,6 +1,12 @@
 {
   "name": "vanillaskyvillages-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iJXHrRTs",
+      "versionId": "hmtV24ZM"
+    }
+  ],
   "fabric": [
     {
       "modId": "skyvillages",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 438496,
+      "fileId": 5315013
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbquests",
+      "version": "2001.4.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

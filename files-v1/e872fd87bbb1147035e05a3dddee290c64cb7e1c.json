@@ -1,6 +1,12 @@
 {
   "name": "guild-fabric-0.3.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 526011,
+      "fileId": 3600139
+    }
+  ],
   "fabric": [
     {
       "modId": "guild",

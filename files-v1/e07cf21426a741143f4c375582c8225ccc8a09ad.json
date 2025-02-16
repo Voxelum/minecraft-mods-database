@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cavecliff",
+      "version": "1.0.1-7.2_01"
+    },
+    {
+      "modId": "org_apache_commons_commons-lang3",
+      "version": "3.12.0"
+    }
+  ]
+}

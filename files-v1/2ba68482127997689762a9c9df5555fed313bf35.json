@@ -1,4 +1,16 @@
 {
   "name": "Stalwart-Dungeons-Mod-1.17.1.jar",
-  "domain": "resourcepacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 474817,
+      "fileId": 3519798
+    }
+  ],
+  "forge": [
+    {
+      "modId": "stalwart_dungeons",
+      "version": "1.1.9"
+    }
+  ]
 }

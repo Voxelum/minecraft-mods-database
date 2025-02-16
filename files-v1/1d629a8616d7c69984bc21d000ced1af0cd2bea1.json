@@ -1,0 +1,20 @@
+{
+  "name": "ValkyrienEngines-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3WT3PPW1",
+      "versionId": "PprmQAOm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "valkyrienengines",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

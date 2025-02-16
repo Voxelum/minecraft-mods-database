@@ -1,6 +1,18 @@
 {
   "name": "dimensionviewer_1.19-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3aeFezQk",
+      "versionId": "MfocIM3s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857799,
+      "fileId": 4632481
+    }
+  ],
   "forge": [
     {
       "modId": "dimensionviewer",

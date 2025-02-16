@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lg17V3i3",
+      "versionId": "u4AYAdLh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autodrop",
+      "version": "2.2.0-1.21+fabric"
+    },
+    {
+      "modId": "dev_nyon_konfig",
+      "version": "2.0.2-1.20.4"
+    }
+  ]
+}

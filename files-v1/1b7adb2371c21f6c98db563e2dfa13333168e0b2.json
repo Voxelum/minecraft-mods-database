@@ -1,0 +1,30 @@
+{
+  "name": "chunksfadein-v2.0.12-1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaNmzvA8",
+      "versionId": "3R6zUuhL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 720811,
+      "fileId": 4735654
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunksfadein",
+      "version": "2.0.12-1.19.3"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "moreblocksmod-0.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VlVVBgOc",
+      "versionId": "ao25nr8I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399412,
+      "fileId": 3375015
+    }
+  ],
   "fabric": [
     {
       "modId": "moreblocksmod",

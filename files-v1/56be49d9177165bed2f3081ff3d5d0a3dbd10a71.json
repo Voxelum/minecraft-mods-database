@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "34T8oVNY",
+      "versionId": "KVb8wj42"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pl3xmap",
+      "version": "1.21.3-510"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "6.1.0-SNAPSHOT"
+    },
+    {
+      "modId": "cloud",
+      "version": "2.0.0-beta.9"
+    }
+  ]
+}

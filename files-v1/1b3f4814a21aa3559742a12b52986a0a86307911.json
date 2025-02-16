@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TgknIsMY",
+      "versionId": "EgrgcVJI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 605596,
+      "fileId": 5672122
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chat-control",
+      "version": "1.6.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

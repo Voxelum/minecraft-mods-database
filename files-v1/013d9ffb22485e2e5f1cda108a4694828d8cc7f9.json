@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZcR9weSm",
+      "versionId": "yxZN7vf3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623800,
+      "fileId": 5945124
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiccrosshair",
+      "version": "9.0"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "2.1"
+    },
+    {
+      "modId": "dynamiccrosshair-api",
+      "version": "1.1"
+    }
+  ]
+}

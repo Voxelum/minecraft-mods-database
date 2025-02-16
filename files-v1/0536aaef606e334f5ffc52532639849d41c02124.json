@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yXAvIk0x",
+      "versionId": "ZRfL1QBA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051344,
+      "fileId": 5931007
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scribble",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.5+c47b9d4340"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kfr0BQO9",
+      "versionId": "rb1QoHtb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618800,
+      "fileId": 4534536
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantmentsplus",
+      "version": "1.1.6+1.19.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.2"
+    }
+  ]
+}

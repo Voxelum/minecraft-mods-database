@@ -1,0 +1,26 @@
+{
+  "name": "lanterns-belong-on-walls-1.5.1-1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V1CFwy2A",
+      "versionId": "N7eRvODN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 596474,
+      "fileId": 4433214
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "walllanterns",
+      "version": "1.5.1-1.19.3"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.10.5+a91e48b785"
+    }
+  ]
+}

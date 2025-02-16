@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EfO9I8S0",
+      "versionId": "bYBxRE3k"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dirtmod",
+      "version": "0.1-1.20.1"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65-1.20"
+    }
+  ]
+}

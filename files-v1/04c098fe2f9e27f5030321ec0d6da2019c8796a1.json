@@ -1,0 +1,26 @@
+{
+  "name": "foodtxf-1.20.1-1.7.10-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gHfCZDqf",
+      "versionId": "s1CLIcLJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 650569,
+      "fileId": 5963908
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "foodtxf",
+      "version": "1.20.1-1.7.10-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "4.2.5-fabric"
+    }
+  ]
+}

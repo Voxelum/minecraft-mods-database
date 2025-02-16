@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KsmvFopo",
+      "versionId": "aOnbKrr9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "texturesplusmod",
+      "version": "Beta0.1.4"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.13.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.13.3"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.13.3"
+    }
+  ]
+}

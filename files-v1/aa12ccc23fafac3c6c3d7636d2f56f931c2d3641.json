@@ -1,6 +1,18 @@
 {
   "name": "formations-1.0.1-fabric-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tPe4xnPd",
+      "versionId": "fKPun8XZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915115,
+      "fileId": 4803843
+    }
+  ],
   "fabric": [
     {
       "modId": "formations",

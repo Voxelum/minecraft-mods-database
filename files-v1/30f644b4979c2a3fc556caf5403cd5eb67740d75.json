@@ -1,6 +1,12 @@
 {
   "name": "villager-trading-station-1.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 694475,
+      "fileId": 4083909
+    }
+  ],
   "fabric": [
     {
       "modId": "villager-trading-station",

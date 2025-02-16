@@ -1,6 +1,18 @@
 {
   "name": "origins-classes-forge-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HTjxjxqK",
+      "versionId": "yBgX5HOY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 610127,
+      "fileId": 3942224
+    }
+  ],
   "forge": [
     {
       "modId": "origins_classes",

@@ -1,0 +1,28 @@
+{
+  "name": "starterkit-1.21.4-7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "NHkMuJG7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 5967407
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "7.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "7.1"
+    }
+  ]
+}

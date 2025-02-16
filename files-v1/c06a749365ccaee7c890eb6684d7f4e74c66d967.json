@@ -1,6 +1,12 @@
 {
   "name": "voxy-0.1.4-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fxxUqruK",
+      "versionId": "Co91nevc"
+    }
+  ],
   "fabric": [
     {
       "modId": "voxy",

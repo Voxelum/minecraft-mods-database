@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rcLriA4v",
+      "versionId": "FlJ0SOQk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324564,
+      "fileId": 3819652
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amecs",
+      "version": "1.3.8+mc.1.18.2"
+    },
+    {
+      "modId": "amecsapi",
+      "version": "1.3.5+mc22w06a"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "ContainerSearch-1.0.0-Fabric-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "quToUcuJ",
+      "versionId": "QBEXOllu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 905158,
+      "fileId": 4715550
+    }
+  ],
   "fabric": [
     {
       "modId": "containersearch",

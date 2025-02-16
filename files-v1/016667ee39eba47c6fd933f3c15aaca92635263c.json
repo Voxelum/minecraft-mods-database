@@ -1,6 +1,18 @@
 {
   "name": "actuallyunbreaking-1.16.5-0.8.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ClQLN4h7",
+      "versionId": "H51mVHvD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440049,
+      "fileId": 3445711
+    }
+  ],
   "forge": [
     {
       "modId": "actuallyunbreaking",

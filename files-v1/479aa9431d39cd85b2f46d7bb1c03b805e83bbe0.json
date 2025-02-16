@@ -1,10 +1,16 @@
 {
   "name": "",
-  "domain": "resourcepacks",
+  "domain": "shaderpacks",
   "modrinth": [
     {
       "projectId": "w0TnApzs",
       "versionId": "31qQMvOd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 436482,
+      "fileId": 5878748
     }
   ]
 }

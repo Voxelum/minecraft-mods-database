@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IKpsG0nF",
+      "versionId": "EK2GGFCu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the_aether",
+      "version": "1.6.9+1.18.2"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.18.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.3"
+    },
+    {
+      "modId": "incubus_core",
+      "version": "1.6.6+1.18.2"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta50-1.18"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.3.0"
+    },
+    {
+      "modId": "moretags",
+      "version": "3.0.4"
+    },
+    {
+      "modId": "gud_recipe_confidence",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "satin",
+      "version": "1.7.2"
+    }
+  ]
+}

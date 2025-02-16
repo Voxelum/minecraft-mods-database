@@ -1,6 +1,12 @@
 {
   "name": "Animal Tamer 1.11.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 426266,
+      "fileId": 3529547
+    }
+  ],
   "forge": [
     {
       "modId": "rabbit_tamer",

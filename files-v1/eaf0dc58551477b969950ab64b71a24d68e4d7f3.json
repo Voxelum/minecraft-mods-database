@@ -1,6 +1,18 @@
 {
   "name": "gemspark-1.19.2-1.2.7.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MGbnuwQA",
+      "versionId": "6hG3f2sD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442902,
+      "fileId": 4978287
+    }
+  ],
   "forge": [
     {
       "modId": "gemspark",

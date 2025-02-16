@@ -1,6 +1,12 @@
 {
   "name": "the_floo-1.20.1-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qtnUiNXe",
+      "versionId": "bm5JanKC"
+    }
+  ],
   "forge": [
     {
       "modId": "the_floo",

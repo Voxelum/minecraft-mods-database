@@ -1,6 +1,12 @@
 {
   "name": "spiritcaller_backport-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 676129,
+      "fileId": 3987105
+    }
+  ],
   "forge": [
     {
       "modId": "spiritcaller_backport",

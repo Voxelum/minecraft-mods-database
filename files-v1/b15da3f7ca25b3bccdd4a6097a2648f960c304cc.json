@@ -1,6 +1,18 @@
 {
   "name": "MineTogether-1.12.2-2.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nu7Lnzkx",
+      "versionId": "arHI47DI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 267172,
+      "fileId": 3328387
+    }
+  ],
   "forge": [
     {
       "modId": "minetogether",

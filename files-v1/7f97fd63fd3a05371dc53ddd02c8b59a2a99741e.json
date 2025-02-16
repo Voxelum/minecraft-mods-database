@@ -1,6 +1,18 @@
 {
   "name": "AdvancedBackups-forge-1.12-3.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Jrmoreqs",
+      "versionId": "hHnf34nH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876284,
+      "fileId": 4913288
+    }
+  ],
   "forge": [
     {
       "modId": "advancedbackups",

@@ -1,6 +1,12 @@
 {
   "name": "Iceberg-1.19.3-fabric-1.1.6.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 539382,
+      "fileId": 4483012
+    }
+  ],
   "fabric": [
     {
       "modId": "iceberg",

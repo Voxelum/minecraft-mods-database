@@ -1,6 +1,18 @@
 {
   "name": "mcjtylib-1.12-3.0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1Zu0uTEE",
+      "versionId": "G3HmgFAc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233105,
+      "fileId": 2626982
+    }
+  ],
   "forge": [
     {
       "modId": "mcjtylib_ng",

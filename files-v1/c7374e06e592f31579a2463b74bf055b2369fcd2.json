@@ -1,0 +1,30 @@
+{
+  "name": "Resourcify (1.20.x-fabric)-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "MWW0ahsJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 4601007
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcify",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "elementa",
+      "version": "590+markdown"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "269"
+    }
+  ]
+}

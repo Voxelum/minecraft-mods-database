@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BnoSde42",
+      "versionId": "I4161qrL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 813019,
+      "fileId": 4936120
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sws",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "ducky-updater-lib",
+      "version": "2023.10.1"
+    },
+    {
+      "modId": "fstats-api",
+      "version": "2023.11.2"
+    }
+  ]
+}

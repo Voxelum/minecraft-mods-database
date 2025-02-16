@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "flatbedrock-fabric-87.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZYLnkiVu",
+      "versionId": "n9f2ny34"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398623,
+      "fileId": 5443977
+    }
+  ],
   "fabric": [
     {
       "modId": "flatbedrock",

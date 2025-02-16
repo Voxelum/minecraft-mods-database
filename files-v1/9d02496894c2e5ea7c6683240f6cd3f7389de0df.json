@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "mZciTDjA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 648511,
+      "fileId": 5876610
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "3.0.7-mc1.20.4"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "1.9.3-mc1.20.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "transmog-fabric-1.2.2+1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Th33t82F",
+      "versionId": "XUMb4DWn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848032,
+      "fileId": 4522560
+    }
+  ],
   "fabric": [
     {
       "modId": "transmog",

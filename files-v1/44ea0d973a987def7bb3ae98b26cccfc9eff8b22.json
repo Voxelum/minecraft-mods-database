@@ -1,6 +1,12 @@
 {
   "name": "neoncraft-2.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 399802,
+      "fileId": 3050909
+    }
+  ],
   "forge": [
     {
       "modId": "neoncraft",

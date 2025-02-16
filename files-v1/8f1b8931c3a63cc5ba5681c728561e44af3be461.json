@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 491890,
+      "fileId": 3931284
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "etched",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    }
+  ]
+}

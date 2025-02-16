@@ -1,0 +1,22 @@
+{
+  "name": "simple-night-vision-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5uUjzXhP",
+      "versionId": "jJ7tiWYR"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_simple_nightvision",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_simple_nightvision",
+      "version": "1.0.0"
+    }
+  ]
+}

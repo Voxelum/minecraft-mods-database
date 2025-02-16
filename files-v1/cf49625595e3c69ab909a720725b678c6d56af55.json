@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KYSUUp57",
+      "versionId": "tMptyck1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880052,
+      "fileId": 5425821
+    }
+  ],
+  "forge": [
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "persistentinventorysearch",
+      "version": "1.4"
+    }
+  ]
+}

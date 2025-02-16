@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BxODbXgV",
+      "versionId": "yZzYfFxE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882320,
+      "fileId": 5081210
+    }
+  ],
   "fabric": [
     {
       "modId": "alessandrvenchantments",

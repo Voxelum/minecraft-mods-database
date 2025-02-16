@@ -1,6 +1,18 @@
 {
   "name": "moremcmeta-1.16.5-4.4.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HFlxNpln",
+      "versionId": "s2wAoBFV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442169,
+      "fileId": 4916251
+    }
+  ],
   "forge": [
     {
       "modId": "moremcmeta",

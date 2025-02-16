@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "28Z4jb8Q",
+      "versionId": "fRD9Bw1V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 922038,
+      "fileId": 4980348
+    }
+  ],
   "fabric": [
     {
       "modId": "morebricks",

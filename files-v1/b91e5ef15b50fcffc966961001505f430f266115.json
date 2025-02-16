@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xRu8OXEJ",
+      "versionId": "Lcev7mYg"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reden",
+      "version": "0.3.718-dev+1.21.44a7b51"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.11.0"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit_ssh_apache",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "org_sejda_imageio_webp-imageio",
+      "version": "0.1.6"
+    },
+    {
+      "modId": "com_jcraft_jsch",
+      "version": "0.1.55"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit_ssh_jsch",
+      "version": "6.8.0.202311291450-r"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.2.0"
+    }
+  ]
+}

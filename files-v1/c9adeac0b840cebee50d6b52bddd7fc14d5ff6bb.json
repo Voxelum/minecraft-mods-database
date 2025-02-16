@@ -1,6 +1,18 @@
 {
   "name": "iammusicplayer-fabric-mc1.20-3.22.0-alpha.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZHHXRhiU",
+      "versionId": "Rgv6mxgB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 386380,
+      "fileId": 4743611
+    }
+  ],
   "fabric": [
     {
       "modId": "iammusicplayer",

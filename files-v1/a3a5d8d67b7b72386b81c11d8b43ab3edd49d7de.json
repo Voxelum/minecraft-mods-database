@@ -1,6 +1,18 @@
 {
   "name": "mocolors-1.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9gv56eeO",
+      "versionId": "h30oGsqH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446767,
+      "fileId": 4609559
+    }
+  ],
   "fabric": [
     {
       "modId": "mocolors",

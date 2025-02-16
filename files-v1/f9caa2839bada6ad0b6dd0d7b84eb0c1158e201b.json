@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tbMeDQnm",
+      "versionId": "NznQMatx"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 458261,
       "fileId": 5575654
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dotcoinmod",
+      "version": "20.18.1"
     }
   ]
 }

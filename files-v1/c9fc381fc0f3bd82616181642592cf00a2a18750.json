@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "winter_arc",
+      "version": "${version}"
+    }
+  ]
+}

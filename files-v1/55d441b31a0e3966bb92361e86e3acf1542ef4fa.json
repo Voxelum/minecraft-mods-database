@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DT56YDir",
+      "versionId": "Yu06XVOg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 593958,
+      "fileId": 4556297
+    }
+  ],
+  "forge": [
+    {
+      "modId": "universalenchants",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "universalenchants",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "4.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iswuGKgg",
+      "versionId": "px65ibZ2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "one-click-crafting",
+      "version": "1.7.4+1.20.6"
+    },
+    {
+      "modId": "spruceui",
+      "version": "5.1.0+1.20.6"
+    }
+  ]
+}

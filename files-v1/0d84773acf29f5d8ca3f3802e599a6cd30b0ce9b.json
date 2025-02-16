@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RhVpNN5O",
+      "versionId": "gzDgfk8I"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tinkerers_smithing",
+      "version": "2.7.0+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tinkerers_smithing",
+      "version": "2.7.0+1.20"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.2"
+    }
+  ]
+}

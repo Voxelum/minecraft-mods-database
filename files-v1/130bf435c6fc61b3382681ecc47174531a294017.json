@@ -1,6 +1,12 @@
 {
   "name": "InGameAccountSwitcher-Fabric-1.16-7.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cudtvDnd",
+      "versionId": "w3j7vgi3"
+    }
+  ],
   "fabric": [
     {
       "modId": "ias",

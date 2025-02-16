@@ -1,0 +1,46 @@
+{
+  "name": "clientsidenoteblocks-2.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "flmhXQgb",
+      "versionId": "Kkwl45dm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473175,
+      "fileId": 5854386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clientsidenoteblocks",
+      "version": "2.10"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.48+2127dc7240"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "2.0.9+c47b9d4340"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+c47b9d4340"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.3.22+c47b9d4340"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.32+c47b9d4340"
+    }
+  ]
+}

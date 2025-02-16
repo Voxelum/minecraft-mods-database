@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y82oqtC9",
+      "versionId": "55zmbnOF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1141442,
+      "fileId": 5951305
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kaleidoscope",
+      "version": "1.0.1+1.21.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "createmobeggs-1.0.0+forge-1.20.1-11.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 944097,
+      "fileId": 4909410
+    }
+  ],
   "forge": [
     {
       "modId": "createmobeggs",

@@ -1,6 +1,12 @@
 {
   "name": "lambdabettergrass-1.5.1+1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2Uev7LdA",
+      "versionId": "RYNcamJi"
+    }
+  ],
   "fabric": [
     {
       "modId": "lambdabettergrass",

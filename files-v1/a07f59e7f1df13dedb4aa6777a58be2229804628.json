@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WuGVWUF2",
+      "versionId": "buO8cPKe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 815438,
+      "fileId": 4439690
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fog-looks-good-now",
+      "version": "1.1.2"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.854+1.19.2"
+    },
+    {
+      "modId": "owo",
+      "version": "0.9.3+1.19"
+    }
+  ]
+}

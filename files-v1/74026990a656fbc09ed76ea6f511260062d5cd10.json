@@ -1,6 +1,18 @@
 {
   "name": "ShinyHorses-1.20.1-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WucESYhb",
+      "versionId": "nENNVi9T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 674456,
+      "fileId": 4757027
+    }
+  ],
   "forge": [
     {
       "modId": "shinyhorses",

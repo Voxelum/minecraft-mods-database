@@ -1,6 +1,18 @@
 {
   "name": "vulture-forge-1.20.1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oV7Y7Ydp",
+      "versionId": "TX8oFMNY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 699600,
+      "fileId": 4603266
+    }
+  ],
   "forge": [
     {
       "modId": "vulture",

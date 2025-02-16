@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1l6k9gvT",
+      "versionId": "q2Z6hQs6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 537853,
+      "fileId": 3899670
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancedchatcore",
+      "version": "1.19-1.5.4"
+    },
+    {
+      "modId": "kommandlib",
+      "version": "0.1.0-1.18.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_github_darkkronicle_konstruct_addons",
+      "version": "2.0.3-build1"
+    },
+    {
+      "modId": "com_github_darkkronicle_konstruct_core",
+      "version": "2.0.3-build1"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "4.4.2"
+    },
+    {
+      "modId": "io_github_maowimpl_owo",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "org_apache_commons_commons-csv",
+      "version": "1.8"
+    }
+  ]
+}

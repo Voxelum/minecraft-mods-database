@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O9C0qdu8",
+      "versionId": "QZreFbIp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 442509,
+      "fileId": 5431637
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "quartzelv",
+      "version": "2.2.9+1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

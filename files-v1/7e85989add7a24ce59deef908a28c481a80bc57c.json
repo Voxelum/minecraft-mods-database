@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n2fvCDlM",
+      "versionId": "HLRro2Es"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400933,
+      "fileId": 5344643
+    }
+  ],
   "fabric": [
     {
       "modId": "mcwtrpdoors",

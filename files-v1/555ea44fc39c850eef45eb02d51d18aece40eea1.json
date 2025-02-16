@@ -1,0 +1,26 @@
+{
+  "name": "dynamic-fps-3.7.3+minecraft-1.18.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "97asD1b4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 5743121
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamic_fps",
+      "version": "3.7.3"
+    },
+    {
+      "modId": "net_lostluma_battery",
+      "version": "1.1.0"
+    }
+  ]
+}

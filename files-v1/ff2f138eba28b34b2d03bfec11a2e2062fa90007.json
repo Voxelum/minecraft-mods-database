@@ -1,0 +1,26 @@
+{
+  "name": "resourcefullib-1.2.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G1hIVOrD",
+      "versionId": "9bpCfetJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570073,
+      "fileId": 4378851
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcefullib",
+      "version": "1.2.7"
+    },
+    {
+      "modId": "com_teamresourceful_yabn",
+      "version": "1.0.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tadq7H8e",
+      "versionId": "ywPiMbo7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 678223,
+      "fileId": 3998438
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "animorphs",
+      "version": "0.1.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.0-rc5"
+    }
+  ]
+}

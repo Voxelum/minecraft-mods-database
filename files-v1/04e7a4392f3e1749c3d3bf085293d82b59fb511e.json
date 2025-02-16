@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "vdu73DZ0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "1.20.6-86-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

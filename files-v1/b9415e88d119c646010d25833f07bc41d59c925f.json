@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cUhi3iB2",
+      "versionId": "e0qUYhnM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tabtps-fabric",
+      "version": "1.3.24"
+    },
+    {
+      "modId": "cloud",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "org_incendo_cloud-minecraft-extras",
+      "version": "2.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.0"
+    },
+    {
+      "modId": "net_kyori_adventure-text-feature-pagination",
+      "version": "4.0.0-SNAPSHOT"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-legacy",
+      "version": "4.17.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "net_kyori_adventure-serializer-configurate4",
+      "version": "4.17.0"
+    }
+  ]
+}

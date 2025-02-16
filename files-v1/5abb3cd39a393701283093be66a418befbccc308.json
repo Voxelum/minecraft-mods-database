@@ -1,6 +1,18 @@
 {
   "name": "fastpaintings-1.20-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z3TzcquW",
+      "versionId": "MnPJ3LFC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 883287,
+      "fileId": 4778210
+    }
+  ],
   "forge": [
     {
       "modId": "fastpaintings",

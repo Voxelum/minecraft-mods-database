@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cRci7UZp",
+      "versionId": "rnzqlLWj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580294,
+      "fileId": 5234225
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crops_love_rain",
+      "version": "1.5.0+1.20.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.3"
+    }
+  ]
+}

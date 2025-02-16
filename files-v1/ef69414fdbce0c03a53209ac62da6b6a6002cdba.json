@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 388800,
+      "fileId": 5539321
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymorph",
+      "version": "0.52.3+1.20.6"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.0.0-rc1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.0.0-rc1"
+    },
+    {
+      "modId": "cardinal-components-block",
+      "version": "6.0.0-rc1"
+    }
+  ]
+}

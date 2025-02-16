@@ -1,6 +1,12 @@
 {
   "name": "compact-chat-2.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w2SFICvx",
+      "versionId": "uDcCGuqq"
+    }
+  ],
   "fabric": [
     {
       "modId": "compact-chat",

@@ -1,0 +1,94 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8WeCY8Xd",
+      "versionId": "9lFAhgtP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541714,
+      "fileId": 3904802
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancedchatbox",
+      "version": "1.19-1.1.5"
+    },
+    {
+      "modId": "org_languagetool_language-en",
+      "version": "5.5"
+    },
+    {
+      "modId": "org_languagetool_languagetool-core",
+      "version": "5.5"
+    },
+    {
+      "modId": "net_loomchild_segment",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "javax_xml_bind_jaxb-api",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "net_sf_trove4j_trove4j",
+      "version": "3.0.3"
+    },
+    {
+      "modId": "org_jetbrains_intellij_deps_trove4j",
+      "version": "1.0.20200330"
+    },
+    {
+      "modId": "javax_measure_unit-api",
+      "version": "2.1.3"
+    },
+    {
+      "modId": "tech_units_indriya",
+      "version": "1.3"
+    },
+    {
+      "modId": "tech_uom_lib_uom-lib-common",
+      "version": "1.1"
+    },
+    {
+      "modId": "org_carrot2_morfologik-fsa",
+      "version": "2.1.7"
+    },
+    {
+      "modId": "org_carrot2_morfologik-fsa-builders",
+      "version": "2.1.7"
+    },
+    {
+      "modId": "org_carrot2_morfologik-speller",
+      "version": "2.1.7"
+    },
+    {
+      "modId": "org_carrot2_morfologik-stemming",
+      "version": "2.1.7"
+    },
+    {
+      "modId": "org_apache_opennlp_opennlp-tools",
+      "version": "1.9.3"
+    },
+    {
+      "modId": "edu_washington_cs_knowitall_opennlp-chunk-models",
+      "version": "1.5"
+    },
+    {
+      "modId": "edu_washington_cs_knowitall_opennlp-postag-models",
+      "version": "1.5"
+    },
+    {
+      "modId": "edu_washington_cs_knowitall_opennlp-tokenize-models",
+      "version": "1.5"
+    },
+    {
+      "modId": "com_carrotsearch_hppc",
+      "version": "0.9.0"
+    }
+  ]
+}

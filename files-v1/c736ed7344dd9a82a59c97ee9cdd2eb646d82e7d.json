@@ -1,0 +1,20 @@
+{
+  "name": "async-pack-scan-0.2.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 881560,
+      "fileId": 5290153
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "async-pack-scan",
+      "version": "0.2.4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432c0d"
+    }
+  ]
+}

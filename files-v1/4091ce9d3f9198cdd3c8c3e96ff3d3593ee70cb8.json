@@ -1,6 +1,18 @@
 {
   "name": "bodacious_berries-2.0.7+mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KEFyvbuH",
+      "versionId": "sX96csRm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 576755,
+      "fileId": 4037132
+    }
+  ],
   "fabric": [
     {
       "modId": "bodacious_berries",

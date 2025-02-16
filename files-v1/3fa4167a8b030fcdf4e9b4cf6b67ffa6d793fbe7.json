@@ -1,0 +1,42 @@
+{
+  "name": "artifacts-fabric-12.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "aHLeaL2m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 5589553
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "12.0.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "expandability",
+      "version": "12.0.0"
+    }
+  ]
+}

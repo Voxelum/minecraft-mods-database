@@ -1,6 +1,18 @@
 {
   "name": "tfjousting-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qCenSbZr",
+      "versionId": "h9MJpjqI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 885840,
+      "fileId": 4665936
+    }
+  ],
   "forge": [
     {
       "modId": "tfjousting",

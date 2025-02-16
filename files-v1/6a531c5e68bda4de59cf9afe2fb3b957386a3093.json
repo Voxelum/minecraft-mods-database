@@ -1,6 +1,12 @@
 {
   "name": "kubejs-create-fabric-1802.2.4-build.14.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 429371,
+      "fileId": 4600851
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejs_create",

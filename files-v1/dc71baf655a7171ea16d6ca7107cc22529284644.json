@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "slot-customization-api-2.0.0.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "QYZ7JTtD",
       "versionId": "lLNUlAC2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1061163,
+      "fileId": 5538478
     }
   ],
   "fabric": [

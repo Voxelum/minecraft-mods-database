@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EM2ioiwa",
+      "versionId": "vT9oaf5K"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatheads",
+      "version": "0.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.3+1.20.1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.5.19+1.20.1"
+    }
+  ]
+}

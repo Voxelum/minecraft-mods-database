@@ -1,0 +1,28 @@
+{
+  "name": "more_mobs-v1.5.4-mc1.14x-1.21x-mod.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJR6V0I2",
+      "versionId": "yZ3Dy1py"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909654,
+      "fileId": 5960384
+    }
+  ],
+  "forge": [
+    {
+      "modId": "moremobs",
+      "version": "1.5.4+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moremobs",
+      "version": "1.5.4+mod"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "CompostBag-Fabric-1.20.1-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O0yMYEEZ",
+      "versionId": "kZGBXxlU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597828,
+      "fileId": 4701876
+    }
+  ],
   "fabric": [
     {
       "modId": "compostbag",

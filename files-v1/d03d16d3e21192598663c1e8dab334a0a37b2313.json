@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Wq5SjeWM",
+      "versionId": "m4UsZa2D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367706,
+      "fileId": 5823929
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fancymenu",
+      "version": "3.3.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "com_github_keksuccino_japng",
+      "version": "0.5.3"
+    },
+    {
+      "modId": "com_github_rtyley_animated-gif-lib-for-java",
+      "version": "animated-gif-lib-1.7"
+    }
+  ]
+}

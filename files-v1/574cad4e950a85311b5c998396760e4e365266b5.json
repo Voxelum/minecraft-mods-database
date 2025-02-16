@@ -1,6 +1,18 @@
 {
   "name": "mavapi-1.1.1-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t4Ybtys2",
+      "versionId": "BQqFjNdk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 709964,
+      "fileId": 4596789
+    }
+  ],
   "forge": [
     {
       "modId": "mavapi",

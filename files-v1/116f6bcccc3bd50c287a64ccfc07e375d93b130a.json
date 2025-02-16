@@ -1,6 +1,18 @@
 {
   "name": "enchantsmith-forge-1.0.4-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bWabfFX3",
+      "versionId": "vaNSsdYa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 914215,
+      "fileId": 5160268
+    }
+  ],
   "forge": [
     {
       "modId": "enchantsmith",

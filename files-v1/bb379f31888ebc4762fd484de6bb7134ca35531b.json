@@ -1,6 +1,12 @@
 {
   "name": "inventorio-1.18-fabric-1.9.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 491073,
+      "fileId": 4557752
+    }
+  ],
   "fabric": [
     {
       "modId": "inventorio",

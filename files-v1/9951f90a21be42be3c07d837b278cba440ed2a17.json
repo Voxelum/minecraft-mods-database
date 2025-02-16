@@ -1,0 +1,10 @@
+{
+  "name": "trackwork-1.0.1-beta.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "trackwork-fabric",
+      "version": "1.0.1-beta"
+    }
+  ]
+}

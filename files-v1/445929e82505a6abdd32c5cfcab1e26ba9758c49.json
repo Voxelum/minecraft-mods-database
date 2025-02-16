@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WtfpyicL",
+      "versionId": "yfupjTKn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891429,
+      "fileId": 5480295
+    }
+  ],
   "fabric": [
     {
       "modId": "world_preview",

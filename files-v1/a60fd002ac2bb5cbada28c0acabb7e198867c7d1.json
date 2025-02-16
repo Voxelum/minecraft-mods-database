@@ -1,0 +1,50 @@
+{
+  "name": "FarmersDelight-1.21.1-2.2.7+refabricated.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7vxePowz",
+      "versionId": "rBkjjNLZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 993166,
+      "fileId": 5967586
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight",
+      "version": "1.21.1-2.2.7+refabricated"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "3.1.0-beta.47.hotfix.1+1.21.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "3.1.0-beta.47.hotfix.1+1.21.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "porting_lib_item_abilities",
+      "version": "3.1.0-beta.47.hotfix.1+1.21.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "3.1.0-beta.47.hotfix.1+1.21.1"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "3.1.0-beta.47.hotfix.1+1.21.1"
+    },
+    {
+      "modId": "porting_lib_recipe_book_categories",
+      "version": "3.1.0-beta.47.hotfix.1+1.21.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kPtHpb7z",
+      "versionId": "S7Hz8XtS"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "beddium",
+      "version": "1.0.10+mc1.21.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "embeddium",
+      "version": "${version}"
+    }
+  ]
+}

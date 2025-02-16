@@ -1,6 +1,18 @@
 {
   "name": "incontrol-1.12-3.8.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KpICtuVx",
+      "versionId": "uP2EA4ZX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257356,
+      "fileId": 2623390
+    }
+  ],
   "forge": [
     {
       "modId": "incontrol",

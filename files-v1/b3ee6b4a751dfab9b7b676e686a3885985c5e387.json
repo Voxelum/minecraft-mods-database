@@ -1,6 +1,18 @@
 {
   "name": "valkyrielib-fabric-1.20.1-4.0.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "58d5Rm2F",
+      "versionId": "DeN9TEO5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245480,
+      "fileId": 4809628
+    }
+  ],
   "fabric": [
     {
       "modId": "valkyrielib",

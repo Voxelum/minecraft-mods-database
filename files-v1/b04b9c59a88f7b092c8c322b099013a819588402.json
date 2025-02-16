@@ -1,6 +1,12 @@
 {
   "name": "kubejs_botania-1.0.2-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 618511,
+      "fileId": 3772806
+    }
+  ],
   "fabric": [
     {
       "modId": "kubejs_botania",

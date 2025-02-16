@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xZUFmYJ5",
+      "versionId": "xDTN9mPH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627101,
+      "fileId": 5688410
+    }
+  ],
   "fabric": [
     {
       "modId": "merenc",

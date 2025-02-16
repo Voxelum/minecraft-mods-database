@@ -1,6 +1,12 @@
 {
   "name": "journeymap-1.19.2-5.9.7p1-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "V5K96XeM"
+    }
+  ],
   "fabric": [
     {
       "modId": "journeymap",

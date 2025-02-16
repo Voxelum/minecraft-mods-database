@@ -1,6 +1,12 @@
 {
   "name": "shutdowner-1.19.2-2.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 366565,
+      "fileId": 3948912
+    }
+  ],
   "forge": [
     {
       "modId": "shutdowner",

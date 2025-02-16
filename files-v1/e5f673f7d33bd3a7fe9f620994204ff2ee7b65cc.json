@@ -1,6 +1,12 @@
 {
   "name": "mrp-1.19.4-0.2.0-indev.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wbhB1VPG",
+      "versionId": "OkCoMGBi"
+    }
+  ],
   "forge": [
     {
       "modId": "mrp",

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "worldcomment",
+      "version": "0.1.2+1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "worldcomment",
+      "version": "0.1.2+1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S8drsznD",
+      "versionId": "Ws2cSxCC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1134081,
+      "fileId": 5955163
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moremousetweaks",
+      "version": "1.0.0+1.21-beta.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

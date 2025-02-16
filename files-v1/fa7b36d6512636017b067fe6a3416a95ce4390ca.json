@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "feather",
+      "version": "${channel}/${githash}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feather",
+      "version": "release/fc35966c"
+    }
+  ]
+}

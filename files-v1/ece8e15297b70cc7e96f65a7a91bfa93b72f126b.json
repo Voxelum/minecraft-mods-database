@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xoP8tx9P",
+      "versionId": "dLswuOR4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "world_blender",
+      "version": "1.16.5-2.1.6-fabric"
+    },
+    {
+      "modId": "voyager",
+      "version": "1.0.0"
+    }
+  ]
+}

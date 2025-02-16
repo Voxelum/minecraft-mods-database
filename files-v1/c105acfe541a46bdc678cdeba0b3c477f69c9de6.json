@@ -1,0 +1,26 @@
+{
+  "name": "automodpack-mc1.20.1-fabric-4.0.0-beta22.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k68glP2e",
+      "versionId": "uQiCYwHY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639211,
+      "fileId": 5948009
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "automodpack-bootstrap",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "automodpack",
+      "version": "4.0.0-beta22"
+    }
+  ]
+}

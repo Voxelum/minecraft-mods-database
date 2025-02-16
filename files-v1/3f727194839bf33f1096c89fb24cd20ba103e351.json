@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "264clomZ",
+      "versionId": "GzfLuCcj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libertyvillagers",
+      "version": "1.0.15+fabric+1.20.6"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "14.0.126"
+    }
+  ]
+}

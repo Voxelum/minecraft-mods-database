@@ -1,0 +1,30 @@
+{
+  "name": "InvView-1.4.14-1.20.4+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jrDKjZP7",
+      "versionId": "nVacs1Yr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 405159,
+      "fileId": 4972499
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "invview",
+      "version": "1.4.14-1.20.4+"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.3.0+1.20.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

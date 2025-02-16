@@ -1,6 +1,18 @@
 {
   "name": "TerraBlender-forge-1.19-2.0.0.120.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kkmrDlKT",
+      "versionId": "tucxIn7D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 563928,
+      "fileId": 3868697
+    }
+  ],
   "forge": [
     {
       "modId": "terrablender",

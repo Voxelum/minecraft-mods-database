@@ -1,6 +1,18 @@
 {
   "name": "can-i-mine-this-block-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fEwSlaoa",
+      "versionId": "uGhuD2AA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400929,
+      "fileId": 3680371
+    }
+  ],
   "fabric": [
     {
       "modId": "can-i-mine-this-block",

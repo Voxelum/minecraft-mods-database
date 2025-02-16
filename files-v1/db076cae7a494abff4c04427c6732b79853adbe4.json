@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xakOmmYI",
+      "versionId": "aEZgXU0Y"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blaze-client",
+      "version": "e1a8ac1"
+    },
+    {
+      "modId": "club_minnced_discord-rpc-release",
+      "version": "v3.4.0"
+    },
+    {
+      "modId": "com_github_minndevelopment_java-discord-rpc",
+      "version": "v2.0.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hWlsli6y",
+      "versionId": "rWohuFcn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366783,
+      "fileId": 4248000
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.4.0-fabric"
+    }
+  ]
+}

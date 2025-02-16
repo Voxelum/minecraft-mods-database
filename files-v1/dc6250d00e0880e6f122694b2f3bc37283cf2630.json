@@ -1,6 +1,18 @@
 {
   "name": "usefulslime-1.9-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CzM6C1W0",
+      "versionId": "7KEuP70X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417702,
+      "fileId": 4393967
+    }
+  ],
   "forge": [
     {
       "modId": "usefulslime",

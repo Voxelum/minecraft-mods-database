@@ -1,6 +1,18 @@
 {
   "name": "Xtones-1.12-1.0.7-10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1tlg2wSc",
+      "versionId": "un6W8otY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257573,
+      "fileId": 2502661
+    }
+  ],
   "forge": [
     {
       "modId": "xtones",

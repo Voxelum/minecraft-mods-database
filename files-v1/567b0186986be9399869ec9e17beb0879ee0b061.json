@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1S4LxcvL",
+      "versionId": "wfpB4Pg0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 827288,
+      "fileId": 5946558
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glowing-torchflower",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    }
+  ]
+}

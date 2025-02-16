@@ -1,0 +1,24 @@
+{
+  "name": "BOMD-1.6.1-1.19.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "du3UfiLL",
+      "versionId": "ASi0NoBf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bosses_of_mass_destruction",
+      "version": "1.6.1-1.19.4"
+    },
+    {
+      "modId": "maelstrom_library",
+      "version": "1.5.1-1.19.4"
+    },
+    {
+      "modId": "multipart_entities",
+      "version": "1.4-1.19.4"
+    }
+  ]
+}

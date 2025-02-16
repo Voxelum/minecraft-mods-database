@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gPCdW0Wr",
+      "versionId": "Cgidhkmq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 605235,
+      "fileId": 4562823
+    }
+  ],
+  "forge": [
+    {
+      "modId": "make_bubbles_pop",
+      "version": "${file.jarVersion}-forge"
+    }
+  ]
+}

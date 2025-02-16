@@ -1,4 +1,16 @@
 {
   "name": "qfapi-6.0.0-beta.9_qsl-5.0.0-beta.10_fapi-0.83.0_mc-1.19.4.jar",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qvIfYCYJ",
+      "versionId": "QPXihdoB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 634179,
+      "fileId": 4561336
+    }
+  ]
 }

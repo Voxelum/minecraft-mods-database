@@ -1,6 +1,12 @@
 {
   "name": "GardenStuff-1.7.10-1.7.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 225903,
+      "fileId": 2269692
+    }
+  ],
   "forge": [
     {
       "modId": "GardenContainers",

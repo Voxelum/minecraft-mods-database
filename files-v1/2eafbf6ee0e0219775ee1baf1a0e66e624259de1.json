@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Grr1HrUE",
+      "versionId": "4hXpDdwW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 272146,
+      "fileId": 5348191
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "indicatia",
+      "version": "8.1.2"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.6"
+    }
+  ]
+}

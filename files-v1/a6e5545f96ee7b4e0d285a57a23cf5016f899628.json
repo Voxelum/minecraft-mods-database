@@ -1,6 +1,18 @@
 {
   "name": "assortedlib-fabric-1.20.1-3.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KkmxwW72",
+      "versionId": "bwVj54My"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 851677,
+      "fileId": 4820351
+    }
+  ],
   "fabric": [
     {
       "modId": "assortedlib",

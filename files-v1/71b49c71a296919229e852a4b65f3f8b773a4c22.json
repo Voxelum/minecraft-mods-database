@@ -1,6 +1,18 @@
 {
   "name": "AnvilFix-1.2.1-1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EB79Qy8k",
+      "versionId": "s4Ub3Zp5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 305480,
+      "fileId": 3176763
+    }
+  ],
   "fabric": [
     {
       "modId": "anvil_fix",

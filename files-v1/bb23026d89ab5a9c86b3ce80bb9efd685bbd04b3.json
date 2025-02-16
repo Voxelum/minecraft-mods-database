@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cnIatHrN",
+      "versionId": "URt0BiPz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "universal_shops",
+      "version": "1.9.0+1.21.4"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.8.1+1.21.4"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.1+1.21.3"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "common-economy-api",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    }
+  ]
+}

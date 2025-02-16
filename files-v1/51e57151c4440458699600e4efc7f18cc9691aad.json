@@ -1,6 +1,18 @@
 {
   "name": "inventorytabs-0.9.beta-1.19.x.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F1AqcMCK",
+      "versionId": "D3KVnCs9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 585506,
+      "fileId": 3891941
+    }
+  ],
   "fabric": [
     {
       "modId": "inventorytabs",

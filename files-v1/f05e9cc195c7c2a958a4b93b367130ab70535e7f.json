@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "op2i7EQi",
+      "versionId": "xM2Vt015"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 999681,
+      "fileId": 5834208
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "persistent_parrots",
+      "version": "1.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.5"
+    }
+  ]
+}

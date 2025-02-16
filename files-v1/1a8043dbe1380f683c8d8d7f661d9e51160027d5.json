@@ -1,6 +1,18 @@
 {
   "name": "PigPen-Forge-1.19.4-13.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2xZPITh8",
+      "versionId": "PIvBdoW5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 396234,
+      "fileId": 4445065
+    }
+  ],
   "forge": [
     {
       "modId": "pigpen",

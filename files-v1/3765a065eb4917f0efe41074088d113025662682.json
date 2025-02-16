@@ -1,6 +1,18 @@
 {
   "name": "zombieproofdoors-1.20.4-3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hDKfXb0T",
+      "versionId": "pHp8YFpu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390741,
+      "fileId": 4963469
+    }
+  ],
   "forge": [
     {
       "modId": "zombieproofdoors",

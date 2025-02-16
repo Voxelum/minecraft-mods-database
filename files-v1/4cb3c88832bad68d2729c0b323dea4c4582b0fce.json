@@ -1,0 +1,22 @@
+{
+  "name": "CA_core.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 887187,
+      "fileId": 4636632
+    }
+  ],
+  "forge": [
+    {
+      "modId": "academy_core",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "academy_core",
+      "version": "1.0.0"
+    }
+  ]
+}

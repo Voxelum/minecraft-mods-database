@@ -1,6 +1,12 @@
 {
   "name": "randomworldname-1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 315923,
+      "fileId": 2683397
+    }
+  ],
   "forge": [
     {
       "modId": "randomworldname",

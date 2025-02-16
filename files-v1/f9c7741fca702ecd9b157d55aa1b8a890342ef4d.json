@@ -1,6 +1,18 @@
 {
   "name": "tectonic-fabric-1.20-2.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lWDHr9jE",
+      "versionId": "E6cjEjyJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686836,
+      "fileId": 5236641
+    }
+  ],
   "fabric": [
     {
       "modId": "tectonic",

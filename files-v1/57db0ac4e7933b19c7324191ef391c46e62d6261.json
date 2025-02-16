@@ -1,0 +1,32 @@
+{
+  "name": "dynamiccrosshair-compat-3.1.1+1.19.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EwPIWPJ9",
+      "versionId": "udu4A0pj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiccrosshaircompat",
+      "version": "3.1.1+1.19.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.20+afca2f3e85"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.29+aaaf9d3385"
+    },
+    {
+      "modId": "fabric-transfer-api-v1",
+      "version": "2.1.13+f1e4495b85"
+    },
+    {
+      "modId": "fabric-screen-handler-api-v1",
+      "version": "1.3.11+99f9db8085"
+    }
+  ]
+}

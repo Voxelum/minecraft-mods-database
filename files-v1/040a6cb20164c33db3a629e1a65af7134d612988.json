@@ -1,0 +1,26 @@
+{
+  "name": "zombieawareness-fabric-1.21.0-1.13.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mMTOWOaA",
+      "versionId": "lBdgO4GL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237754,
+      "fileId": 5731741
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zombieawareness",
+      "version": "1.21.0-1.13.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.0.0"
+    }
+  ]
+}

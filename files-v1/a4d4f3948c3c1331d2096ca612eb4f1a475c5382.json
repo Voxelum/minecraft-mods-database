@@ -1,6 +1,18 @@
 {
   "name": "ctov-3.1.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "3eXWBWdB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 4436739
+    }
+  ],
   "forge": [
     {
       "modId": "ctov",

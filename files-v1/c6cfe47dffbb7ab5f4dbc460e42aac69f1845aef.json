@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iAiqcykM",
+      "versionId": "6UvORl8B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561885,
+      "fileId": 5402655
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "justzoom",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "difficultylock-1.20.1-4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9yvZtixz",
+      "versionId": "wIUNPOzC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390886,
+      "fileId": 5020059
+    }
+  ],
+  "forge": [
+    {
+      "modId": "difficultylock",
+      "version": "4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "difficultylock",
+      "version": "4.0"
+    }
+  ]
+}

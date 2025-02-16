@@ -1,0 +1,60 @@
+{
+  "name": "libjf-3.15.9.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 482600,
+      "fileId": 5336035
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "libjf",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-base",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-config-commands",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-config-core-v2",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-config-network-v0",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-config-ui-tiny",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-data-manipulation-v0",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-data-v0",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-mainhttp-v0",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-translate-v1",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-unsafe-v0",
+      "version": "3.15.9"
+    },
+    {
+      "modId": "libjf-web-v1",
+      "version": "3.15.9"
+    }
+  ]
+}

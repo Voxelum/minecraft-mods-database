@@ -1,6 +1,18 @@
 {
   "name": "createteleporters1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9mtJ8MHP",
+      "versionId": "e21CgqWv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 829272,
+      "fileId": 4739264
+    }
+  ],
   "forge": [
     {
       "modId": "createteleporters",

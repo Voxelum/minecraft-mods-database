@@ -1,6 +1,12 @@
 {
   "name": "extragolems-11.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 233300,
+      "fileId": 3314361
+    }
+  ],
   "forge": [
     {
       "modId": "golems",

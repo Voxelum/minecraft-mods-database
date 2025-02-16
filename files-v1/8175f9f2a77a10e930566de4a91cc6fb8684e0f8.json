@@ -1,6 +1,12 @@
 {
   "name": "universal-shortcuts-1.2.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pKlCsfkH",
+      "versionId": "JyHNXWgi"
+    }
+  ],
   "fabric": [
     {
       "modId": "universal-shortcuts-mc",

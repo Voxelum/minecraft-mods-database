@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ixqEiFdp",
+      "versionId": "D6DtXSXo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523644,
+      "fileId": 3819941
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "corners",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "limlib",
+      "version": "5.2.1"
+    }
+  ]
+}

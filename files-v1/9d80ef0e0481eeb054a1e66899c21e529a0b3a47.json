@@ -1,6 +1,18 @@
 {
   "name": "frikinzis-fauna-1.6.1-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsLkXa0u",
+      "versionId": "HE5OKWDx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 522335,
+      "fileId": 4968180
+    }
+  ],
   "forge": [
     {
       "modId": "creatures",

@@ -1,6 +1,12 @@
 {
   "name": "abyg-1.2-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 488573,
+      "fileId": 3432455
+    }
+  ],
   "forge": [
     {
       "modId": "bygvanillabiomes",

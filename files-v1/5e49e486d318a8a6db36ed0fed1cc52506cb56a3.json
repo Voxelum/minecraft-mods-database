@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UKDLi1GJ",
+      "versionId": "53MAbFZI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397252,
+      "fileId": 5893548
+    }
+  ],
   "forge": [
     {
       "modId": "livingthings",

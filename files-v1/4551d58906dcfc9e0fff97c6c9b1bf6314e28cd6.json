@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 832891,
+      "fileId": 4538840
+    }
+  ],
+  "forge": [
+    {
+      "modId": "oldpotions",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oldpotions",
+      "version": "2.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    }
+  ]
+}

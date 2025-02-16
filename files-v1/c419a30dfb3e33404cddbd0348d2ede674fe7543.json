@@ -1,6 +1,18 @@
 {
   "name": "【显示活塞移动顺序】pistorder-mc1.21-v1.6.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lpin1bEg",
+      "versionId": "dHKfEZE4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430118,
+      "fileId": 5445800
+    }
+  ],
   "fabric": [
     {
       "modId": "pistorder",

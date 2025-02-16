@@ -1,6 +1,18 @@
 {
   "name": "spectrum-1.5.7-1.18.2-magic.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3rc31Hgo",
+      "versionId": "kTZb0MBv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 556967,
+      "fileId": 3959024
+    }
+  ],
   "fabric": [
     {
       "modId": "spectrum",

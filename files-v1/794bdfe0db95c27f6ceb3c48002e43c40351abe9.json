@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UbFnAd4l",
+      "versionId": "8ViNhLGu"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_jetpack",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_jetpack",
+      "version": "3.5.1"
+    },
+    {
+      "modId": "flightlib",
+      "version": "1.2.0"
+    }
+  ]
+}

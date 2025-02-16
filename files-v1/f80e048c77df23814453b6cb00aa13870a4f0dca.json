@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i3wDGe3E",
+      "versionId": "cUXQ6ndq"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "floating-island",
+      "version": "${mod_version}"
+    }
+  ]
+}

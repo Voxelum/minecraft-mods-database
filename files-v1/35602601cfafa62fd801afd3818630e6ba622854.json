@@ -1,6 +1,12 @@
 {
   "name": "custom-lan-1.19.1-v2.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OCvCFPNR",
+      "versionId": "ANLbU0V6"
+    }
+  ],
   "fabric": [
     {
       "modId": "customlan",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 414445,
+      "fileId": 5669990
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fabrication",
+      "version": "3.4.19+1.19"
+    },
+    {
+      "modId": "lib39-deferral",
+      "version": "1.1.1"
+    }
+  ]
+}

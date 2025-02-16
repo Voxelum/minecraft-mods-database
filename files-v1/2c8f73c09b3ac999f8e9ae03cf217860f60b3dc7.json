@@ -1,6 +1,18 @@
 {
   "name": "litematica-fabric-1.17.1-0.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bEpr0Arc",
+      "versionId": "FExyLuF1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308892,
+      "fileId": 3580241
+    }
+  ],
   "fabric": [
     {
       "modId": "litematica",

@@ -1,6 +1,12 @@
 {
   "name": "supplementaries-1.20-2.6.31-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 412082,
+      "fileId": 4881879
+    }
+  ],
   "fabric": [
     {
       "modId": "supplementaries",

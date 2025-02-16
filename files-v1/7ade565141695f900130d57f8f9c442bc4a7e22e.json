@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bYwHgKTK",
+      "versionId": "KaYcueA1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nub-qol",
+      "version": "1.0.17"
+    },
+    {
+      "modId": "nub-lib",
+      "version": "1.0.10"
+    }
+  ]
+}

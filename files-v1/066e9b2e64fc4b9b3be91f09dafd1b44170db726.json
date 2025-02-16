@@ -1,0 +1,32 @@
+{
+  "name": "immersivelanterns-neoforge-1.0.5-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vskzdsyT",
+      "versionId": "A8YV5t8U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495267,
+      "fileId": 5905364
+    },
+    {
+      "projectId": 1116812,
+      "fileId": 5915882
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivelanterns",
+      "version": "1.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivelanterns",
+      "version": "1.0.4"
+    }
+  ]
+}

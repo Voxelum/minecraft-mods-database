@@ -1,6 +1,18 @@
 {
   "name": "pointblank-1.20.1-1.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "og4KPYmA",
+      "versionId": "SDaC25v5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 961053,
+      "fileId": 5326901
+    }
+  ],
   "forge": [
     {
       "modId": "pointblank",

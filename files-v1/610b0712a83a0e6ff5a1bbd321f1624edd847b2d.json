@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NfrID7Y9",
+      "versionId": "DspuYuYk"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "planetsplus",
+      "version": "0.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "planetsplus",
+      "version": "BV1.7 dev"
+    }
+  ]
+}

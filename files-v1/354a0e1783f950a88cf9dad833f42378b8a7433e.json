@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-loot-api-v2",
+      "version": "1.2.1+1802ada577"
+    }
+  ]
+}

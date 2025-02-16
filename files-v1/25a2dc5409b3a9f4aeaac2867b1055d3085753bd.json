@@ -1,6 +1,12 @@
 {
   "name": "chameleon-1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 427823,
+      "fileId": 3778532
+    }
+  ],
   "forge": [
     {
       "modId": "chameleon_morph",

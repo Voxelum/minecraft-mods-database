@@ -1,0 +1,26 @@
+{
+  "name": "moonlight-1.21-2.17.11-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "twkfQtEc",
+      "versionId": "ybmJOyxF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499980,
+      "fileId": 5980882
+    },
+    {
+      "projectId": 499980,
+      "fileId": 5970578
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moonlight",
+      "version": "1.21-2.17.11"
+    }
+  ]
+}

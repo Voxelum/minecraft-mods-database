@@ -1,0 +1,28 @@
+{
+  "name": "fixedanvilrepaircost-1.21.4-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jmLyNFBG",
+      "versionId": "PBAE6Ypb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390913,
+      "fileId": 5967633
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fixedanvilrepaircost",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fixedanvilrepaircost",
+      "version": "3.4"
+    }
+  ]
+}

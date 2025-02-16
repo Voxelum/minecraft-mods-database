@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2lfPteTN",
+      "versionId": "O3ZyFxAy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594072,
+      "fileId": 5781784
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cooldown-coordinator",
+      "version": "0.8.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

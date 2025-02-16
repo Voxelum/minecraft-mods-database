@@ -1,6 +1,12 @@
 {
   "name": "aotmc-addon-mod.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 965831,
+      "fileId": 5054550
+    }
+  ],
   "forge": [
     {
       "modId": "attack_on_titan",

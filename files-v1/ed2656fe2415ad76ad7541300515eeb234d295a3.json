@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bk6pUD7R",
+      "versionId": "ifqYju9a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682310,
+      "fileId": 4089566
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rainglow",
+      "version": "1.0.0+mc1.19.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.0.0+1.19"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.5+c6af733c90"
+    }
+  ]
+}

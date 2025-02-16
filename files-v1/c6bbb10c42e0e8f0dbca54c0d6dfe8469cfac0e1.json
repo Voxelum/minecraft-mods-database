@@ -1,0 +1,26 @@
+{
+  "name": "pantheonsent-1.0.3+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SIKMQqt0",
+      "versionId": "UoshfCWr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968457,
+      "fileId": 5099681
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pantheonsent",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "sherdsapi",
+      "version": "4.0.4"
+    }
+  ]
+}

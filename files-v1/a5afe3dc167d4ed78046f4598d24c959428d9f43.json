@@ -1,6 +1,12 @@
 {
   "name": "potato-pc-1dp.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOSMG5nB",
+      "versionId": "AVDq8JV1"
+    }
+  ],
   "forge": [
     {
       "modId": "potato_pc_mr",

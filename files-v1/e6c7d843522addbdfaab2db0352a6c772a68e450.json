@@ -1,0 +1,40 @@
+{
+  "name": "replaymod-1.19.4-2.6.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nv2fQJo5",
+      "versionId": "YUyZQ5MV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "1.19.4-2.6.20"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.23+9ff28bcef4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.0+938a1d56f4"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.32+c477957ef4"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "1.0.44+8c25edb4f4"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.2.22+ca5f59aaf4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

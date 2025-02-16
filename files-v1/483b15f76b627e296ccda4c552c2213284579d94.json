@@ -1,6 +1,18 @@
 {
   "name": "terraqueous-forge-1.19.4-1.10.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RQoWk9iS",
+      "versionId": "aTUX7u9W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 244870,
+      "fileId": 4623846
+    }
+  ],
   "forge": [
     {
       "modId": "terraqueous",

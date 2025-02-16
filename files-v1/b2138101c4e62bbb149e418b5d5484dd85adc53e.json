@@ -1,6 +1,12 @@
 {
   "name": "modernfix-fabric-5.7.4+mc1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 790626,
+      "fileId": 4767134
+    }
+  ],
   "fabric": [
     {
       "modId": "modernfix",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "immersive_aircraft",
+      "version": "1.0.0+1.20.1"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "5.2.1"
+    }
+  ]
+}

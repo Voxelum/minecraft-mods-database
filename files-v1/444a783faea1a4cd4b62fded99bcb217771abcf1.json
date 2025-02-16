@@ -1,6 +1,18 @@
 {
   "name": "default-server-properties-forge-69.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fnrzx9Jl",
+      "versionId": "hD34LqaO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 676811,
+      "fileId": 4622987
+    }
+  ],
   "forge": [
     {
       "modId": "dsp",

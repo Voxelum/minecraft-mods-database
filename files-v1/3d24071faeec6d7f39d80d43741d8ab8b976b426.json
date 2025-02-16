@@ -1,0 +1,22 @@
+{
+  "name": "Essential Dependencies.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "365"
+    },
+    {
+      "modId": "elementa",
+      "version": "670"
+    },
+    {
+      "modId": "vigilance",
+      "version": "306"
+    }
+  ]
+}

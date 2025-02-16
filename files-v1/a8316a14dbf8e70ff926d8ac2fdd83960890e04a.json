@@ -1,6 +1,18 @@
 {
   "name": "catastrophe-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Seo5hQe1",
+      "versionId": "h76DOrAX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 926505,
+      "fileId": 4813741
+    }
+  ],
   "forge": [
     {
       "modId": "catastrophe_mod",

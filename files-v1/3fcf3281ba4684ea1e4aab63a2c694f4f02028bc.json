@@ -1,0 +1,28 @@
+{
+  "name": "deathbackup-1.21.4-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ot5JFxuv",
+      "versionId": "oBDB6TF0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411571,
+      "fileId": 5967672
+    }
+  ],
+  "forge": [
+    {
+      "modId": "deathbackup",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathbackup",
+      "version": "3.4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "5aq5D1Xf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 5424399
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.0.10"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "com_google_inject_guice",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "aopalliance_aopalliance",
+      "version": "1.0"
+    },
+    {
+      "modId": "javax_inject_javax_inject",
+      "version": "1"
+    }
+  ]
+}

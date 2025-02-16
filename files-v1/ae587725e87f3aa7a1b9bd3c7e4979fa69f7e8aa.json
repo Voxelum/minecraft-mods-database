@@ -1,6 +1,18 @@
 {
   "name": "Jade-1.19.1-fabric-8.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nvQzSEkH",
+      "versionId": "cFq5o17s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324717,
+      "fileId": 4328548
+    }
+  ],
   "fabric": [
     {
       "modId": "jade",

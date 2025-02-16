@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xt0pMhSq",
+      "versionId": "wuK1k4ic"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 357265,
+      "fileId": 5275365
+    }
+  ],
   "fabric": [
     {
       "modId": "moretotems",

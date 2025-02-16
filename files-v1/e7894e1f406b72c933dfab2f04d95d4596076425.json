@@ -1,6 +1,18 @@
 {
   "name": "MTR-LU-Addon-fabric-1.18.2-3.2.0-2.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jrAXj11W",
+      "versionId": "GeWxgwKm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 545686,
+      "fileId": 4864311
+    }
+  ],
   "fabric": [
     {
       "modId": "londonunderground",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MyfCcqiE",
+      "versionId": "MNO9O4m8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_interactive",
+      "version": "1.0.0-beta.4"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

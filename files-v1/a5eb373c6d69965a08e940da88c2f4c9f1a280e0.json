@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 840873,
+      "fileId": 5570661
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biomemusic",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomemusic",
+      "version": "1.21-2.4"
+    }
+  ]
+}

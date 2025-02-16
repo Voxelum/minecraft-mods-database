@@ -1,0 +1,26 @@
+{
+  "name": "rpg-inventory-2.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dF3krc92",
+      "versionId": "CSPd5L7Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1065901,
+      "fileId": 5568449
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpginventory",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

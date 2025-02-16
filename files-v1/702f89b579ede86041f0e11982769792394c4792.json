@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ECOSu6pa",
+      "versionId": "3Z4muvU0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 779833,
+      "fileId": 5526623
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flowerymooblooms",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

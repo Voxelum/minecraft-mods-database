@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "69TY9iyJ",
+      "versionId": "tLEquqr5"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 975801,
       "fileId": 5628622
+    }
+  ],
+  "forge": [
+    {
+      "modId": "resourceconfigapi",
+      "version": "1.21-2.1.5"
     }
   ]
 }

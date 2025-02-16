@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "scannable",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scannable",
+      "version": "0.0.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.2.0"
+    }
+  ]
+}

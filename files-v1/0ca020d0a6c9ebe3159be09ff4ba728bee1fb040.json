@@ -1,6 +1,12 @@
 {
   "name": "galaxite-1.1.2-mc1.12.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 286190,
+      "fileId": 2671514
+    }
+  ],
   "forge": [
     {
       "modId": "galaxite",

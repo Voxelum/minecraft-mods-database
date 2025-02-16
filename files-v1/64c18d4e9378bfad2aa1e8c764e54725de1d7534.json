@@ -1,6 +1,12 @@
 {
   "name": "fabric-api-0.43.1+1.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P7dR8mSH",
+      "versionId": "5eX37YdU"
+    }
+  ],
   "fabric": [
     {
       "modId": "fabric",

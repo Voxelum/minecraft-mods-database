@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z6GJ3ycD",
+      "versionId": "r4oiwdyM"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 1053227,
       "fileId": 5724463
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_dungeons_andtavernsoceanmonumentreplacement",
+      "version": "1-v1.2"
     }
   ]
 }

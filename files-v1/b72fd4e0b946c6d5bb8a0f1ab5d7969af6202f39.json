@@ -1,6 +1,12 @@
 {
   "name": "glassential-fabric-1.3.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 320778,
+      "fileId": 4102792
+    }
+  ],
   "fabric": [
     {
       "modId": "glassential",

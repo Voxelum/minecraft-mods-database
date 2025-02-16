@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yufdeaJg",
+      "versionId": "ItOHFGeC"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ratatouille",
+      "version": "1.0.9-1.20.1"
+    },
+    {
+      "modId": "datasync_minecraft",
+      "version": "0.6.1"
+    }
+  ]
+}

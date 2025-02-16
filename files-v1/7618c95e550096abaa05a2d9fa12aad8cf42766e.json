@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G41VOlFe",
+      "versionId": "OL4iOKX4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cheese",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "lodestone",
+      "version": "1.5.1"
+    }
+  ]
+}

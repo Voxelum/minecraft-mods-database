@@ -1,6 +1,12 @@
 {
   "name": "GeodeMod-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 479023,
+      "fileId": 3310302
+    }
+  ],
   "forge": [
     {
       "modId": "geodes",

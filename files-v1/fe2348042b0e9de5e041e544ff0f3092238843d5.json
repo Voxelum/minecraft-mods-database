@@ -1,6 +1,18 @@
 {
   "name": "fulleng-forge-1.6-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "24BlI6Ao",
+      "versionId": "KGV5lLEz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 776293,
+      "fileId": 4733618
+    }
+  ],
   "forge": [
     {
       "modId": "fulleng",

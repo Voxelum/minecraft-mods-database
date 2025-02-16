@@ -1,0 +1,26 @@
+{
+  "name": "frostiful-0.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ae6qoBj3",
+      "versionId": "UW07S5nf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 715248,
+      "fileId": 4457008
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frostiful",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

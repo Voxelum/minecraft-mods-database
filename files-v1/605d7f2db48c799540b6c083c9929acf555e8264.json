@@ -1,6 +1,18 @@
 {
   "name": "copper-horns-1.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ile7qLGI",
+      "versionId": "C6vhwtBz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667407,
+      "fileId": 4972744
+    }
+  ],
   "fabric": [
     {
       "modId": "copper-horns",

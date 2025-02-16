@@ -1,6 +1,18 @@
 {
   "name": "CandyWorld-1.16.5-0.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y4MxC8Ok",
+      "versionId": "5BpMwAw2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531645,
+      "fileId": 3755140
+    }
+  ],
   "forge": [
     {
       "modId": "candyworld",

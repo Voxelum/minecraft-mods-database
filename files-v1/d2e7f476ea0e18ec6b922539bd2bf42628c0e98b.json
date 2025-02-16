@@ -1,0 +1,16 @@
+{
+  "name": "【优化】泡沫修复FoamFix-1.7.10-universal-1.0.0-beta1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 278494,
+      "fileId": 3146426
+    }
+  ],
+  "forge": [
+    {
+      "modId": "foamfix",
+      "version": "@VERSION@"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "createindustry-0.8.0b-1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "USgVjXsk",
+      "versionId": "DaZCuACN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693815,
+      "fileId": 5079953
+    }
+  ],
   "forge": [
     {
       "modId": "createindustry",

@@ -1,6 +1,12 @@
 {
   "name": "stone-age-1.16.5-1.4.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534605,
+      "fileId": 3535309
+    }
+  ],
   "forge": [
     {
       "modId": "stone_age",

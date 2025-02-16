@@ -1,0 +1,22 @@
+{
+  "name": "Mutants and More v1.0.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1125818,
+      "fileId": 5831292
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mimicry",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mimicry",
+      "version": "1.0.0"
+    }
+  ]
+}

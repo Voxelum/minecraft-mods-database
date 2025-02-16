@@ -1,6 +1,18 @@
 {
   "name": "ArtisticCraft v0.19.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Oewr4Hwe",
+      "versionId": "YZqLRGsm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 670310,
+      "fileId": 4576049
+    }
+  ],
   "forge": [
     {
       "modId": "artisticraft",

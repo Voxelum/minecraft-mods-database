@@ -1,6 +1,18 @@
 {
   "name": "essential_1-2-3_fabric_1-19-4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k2ZPuTBm",
+      "versionId": "93cVO2s7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 546670,
+      "fileId": 4829665
+    }
+  ],
   "fabric": [
     {
       "modId": "essential-container",

@@ -1,9 +1,16 @@
 {
-  "name": "",
+  "name": "tinkerleveling-mc1.16.5-0.3.1.jar",
+  "domain": "mods",
   "curseforge": [
     {
       "projectId": 666778,
       "fileId": 4506902
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tinkerleveling",
+      "version": "0.3.1"
     }
   ]
 }

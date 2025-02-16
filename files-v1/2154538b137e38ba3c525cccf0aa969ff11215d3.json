@@ -1,6 +1,18 @@
 {
   "name": "ResourcePackOrganizer  MC-1.12  v1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MFYWYS0q",
+      "versionId": "r8PMpYJN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246231,
+      "fileId": 2443289
+    }
+  ],
   "forge": [
     {
       "modId": "resourcepackorganizer",

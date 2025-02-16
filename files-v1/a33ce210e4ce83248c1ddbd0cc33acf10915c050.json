@@ -1,0 +1,28 @@
+{
+  "name": "mooshroomtweaks-1.21.4-3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B10lMHiA",
+      "versionId": "NRUe0tNS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324553,
+      "fileId": 5967565
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mooshroomtweaks",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mooshroomtweaks",
+      "version": "3.5"
+    }
+  ]
+}

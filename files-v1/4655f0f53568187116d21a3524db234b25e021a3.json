@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6OpnBWtt",
+      "versionId": "yWxfebJI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctms",
+      "version": "0.2.2+1.20.4"
+    },
+    {
+      "modId": "net_lingala_zip4j_zip4j",
+      "version": "2.11.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "passionfruit_api-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4CIhYscG",
+      "versionId": "YI3u5D3H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 986535,
+      "fileId": 5178598
+    }
+  ],
   "forge": [
     {
       "modId": "passionfruit_api",

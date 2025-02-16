@@ -1,6 +1,18 @@
 {
   "name": "incontrol-1.16-5.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KpICtuVx",
+      "versionId": "nonBk7gw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257356,
+      "fileId": 3216270
+    }
+  ],
   "forge": [
     {
       "modId": "incontrol",

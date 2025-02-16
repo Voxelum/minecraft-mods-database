@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vU6CXbp5",
+      "versionId": "X6TKLP0l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 810670,
+      "fileId": 5044035
+    }
+  ],
   "fabric": [
     {
       "modId": "guineapigs",

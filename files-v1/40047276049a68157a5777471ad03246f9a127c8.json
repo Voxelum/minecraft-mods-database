@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZzkyvOit",
+      "versionId": "VyoXuQbS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 782514,
+      "fileId": 5437221
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noportals",
+      "version": "1.1.3"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

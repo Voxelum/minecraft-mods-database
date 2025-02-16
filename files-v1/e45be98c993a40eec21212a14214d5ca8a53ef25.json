@@ -1,0 +1,26 @@
+{
+  "name": "jamlib-fabric-1.0.10+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IYY9Siz8",
+      "versionId": "GuJVwwK1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623764,
+      "fileId": 5595157
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jamlib",
+      "version": "1.0.10+1.21"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

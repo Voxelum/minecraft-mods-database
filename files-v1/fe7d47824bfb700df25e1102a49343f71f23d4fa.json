@@ -1,0 +1,46 @@
+{
+  "name": "traverse-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kXygSBVI",
+      "versionId": "sQHEygxg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308777,
+      "fileId": 3475609
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "traverse",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "terraform-biome-builder-api-v1",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "terraform-config-api-v1",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "terraform-overworld-biome-extensions-api-v1",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "2.0.2"
+    }
+  ]
+}

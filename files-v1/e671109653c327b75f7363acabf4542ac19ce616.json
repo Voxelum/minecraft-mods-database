@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CfgaDAdq",
+      "versionId": "nBaym4ZU"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ai-npc-launcher",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "me_earth_headlessmc_headlessmc-launcher-repackaged",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.110.0+1.21.1"
+    }
+  ]
+}

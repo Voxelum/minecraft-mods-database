@@ -1,6 +1,18 @@
 {
   "name": "CraftPresence-1.16.5-Release-1.8.12-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFqQfIBR",
+      "versionId": "so3U47MW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297038,
+      "fileId": 3981343
+    }
+  ],
   "forge": [
     {
       "modId": "craftpresence",

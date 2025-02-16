@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xk6QJbVG",
+      "versionId": "xEQDnJwG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1059350,
+      "fileId": 5526802
+    }
+  ],
+  "forge": [
+    {
+      "modId": "custom_item_despawn_duration",
+      "version": "0.1.0-1.20.1"
+    }
+  ]
+}

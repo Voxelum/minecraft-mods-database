@@ -1,6 +1,18 @@
 {
   "name": "xnet-1.14-1.8.7-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iu1jkWqa",
+      "versionId": "J4gt4DrQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 260912,
+      "fileId": 2843742
+    }
+  ],
   "forge": [
     {
       "modId": "xnet",

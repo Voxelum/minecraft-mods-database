@@ -1,6 +1,18 @@
 {
   "name": "RallyHealth-1.16.5-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "R0Ykwx11",
+      "versionId": "Agxn5NbK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 290282,
+      "fileId": 3206056
+    }
+  ],
   "forge": [
     {
       "modId": "rallyhealth",

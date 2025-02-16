@@ -1,6 +1,18 @@
 {
   "name": "[辅助-Carpet-extra]carpet-extra-1.18.2-1.4.72.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VX3TgwQh",
+      "versionId": "BtniZiNY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349240,
+      "fileId": 3764752
+    }
+  ],
   "fabric": [
     {
       "modId": "carpet-extra",

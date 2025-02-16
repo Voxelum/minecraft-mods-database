@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jE0SjGuf",
+      "versionId": "YzRTOkNL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397510,
+      "fileId": 3983936
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-tis-addition",
+      "version": "1.40.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "1.30"
+    }
+  ]
+}

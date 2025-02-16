@@ -1,0 +1,14 @@
+{
+  "name": "fabric-loader-0.16.9.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabricloader",
+      "version": "0.16.9"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "binnie-mods-1.12.2-2.5.0.112.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 223525,
+      "fileId": 2520129
+    }
+  ],
   "forge": [
     {
       "modId": "binniecore",

@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "fabric-resource-conditions-api-v1",
+      "version": "2.3.8+1802ada577"
+    }
+  ]
+}

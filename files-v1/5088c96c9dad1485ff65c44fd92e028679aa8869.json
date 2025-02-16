@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g1eaCZgs",
+      "versionId": "RcNaTsvZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 323071,
+      "fileId": 5048437
+    }
+  ],
   "fabric": [
     {
       "modId": "airhop",

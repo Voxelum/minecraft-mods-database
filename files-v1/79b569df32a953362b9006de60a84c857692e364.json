@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtjYWJkn",
+      "versionId": "pKxxvfqr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447673,
+      "fileId": 3821006
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium-extra",
+      "version": "0.4.5+mc1.18.2-build.42"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.0.3+2d83e92c60"
+    },
+    {
+      "modId": "caffeineconfig",
+      "version": "1.1.0"
+    }
+  ]
+}

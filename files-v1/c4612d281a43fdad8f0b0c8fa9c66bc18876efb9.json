@@ -1,0 +1,14 @@
+{
+  "name": "AutoComplete-1.21.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autocomplete",
+      "version": "1.6-1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.130"
+    }
+  ]
+}

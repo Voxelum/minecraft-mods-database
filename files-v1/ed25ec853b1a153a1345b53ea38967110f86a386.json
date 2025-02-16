@@ -1,0 +1,28 @@
+{
+  "name": "RME's Campfire Leather v1.1.6 (for 1.20-1.20.4).jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6vL2LZV7",
+      "versionId": "K1mA84eb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 967629,
+      "fileId": 5746507
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_rmes_campfireleather",
+      "version": "1.1.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_rmes_campfireleather",
+      "version": "1.1.6"
+    }
+  ]
+}

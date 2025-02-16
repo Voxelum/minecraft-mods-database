@@ -1,6 +1,18 @@
 {
   "name": "I18nUpdateMod-3.3.0-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PWERr14M",
+      "versionId": "LxFE4Tye"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297404,
+      "fileId": 4355133
+    }
+  ],
   "fabric": [
     {
       "modId": "i18nupdatemod",

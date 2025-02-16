@@ -1,6 +1,18 @@
 {
   "name": "pottery-1.0.1-forge-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iiuzmkWd",
+      "versionId": "65c5B24N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 955781,
+      "fileId": 5010648
+    }
+  ],
   "forge": [
     {
       "modId": "pottery",

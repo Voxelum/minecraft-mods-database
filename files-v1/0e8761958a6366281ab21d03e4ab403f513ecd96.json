@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "pAcsgLW2",
       "versionId": "CxrrL6yr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1130998,
+      "fileId": 5902222
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "taczjs",
+      "version": "1.2.2-mc1.20.1"
     }
   ]
 }

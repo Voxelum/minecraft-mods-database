@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MiPOIx6b",
+      "versionId": "xa9MjFsj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412349,
+      "fileId": 5481420
+    }
+  ],
   "fabric": [
     {
       "modId": "removehud",

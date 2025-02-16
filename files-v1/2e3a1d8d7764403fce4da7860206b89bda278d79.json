@@ -1,6 +1,18 @@
 {
   "name": "Jewelry-1.2.1-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sNJAIjUm",
+      "versionId": "S6UgyPaP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910706,
+      "fileId": 4849120
+    }
+  ],
   "fabric": [
     {
       "modId": "jewelry",

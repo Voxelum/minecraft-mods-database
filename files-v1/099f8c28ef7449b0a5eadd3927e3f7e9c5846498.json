@@ -1,6 +1,18 @@
 {
   "name": "modmenu-badges-lib-2023.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eUw8l2Vi",
+      "versionId": "hF72vnib"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 914586,
+      "fileId": 4758381
+    }
+  ],
   "fabric": [
     {
       "modId": "modmenu-badges-lib",

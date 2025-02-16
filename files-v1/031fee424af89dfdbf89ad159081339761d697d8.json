@@ -1,6 +1,18 @@
 {
   "name": "TipTheScales-forge-1.19.2-6.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FIxDGxJl",
+      "versionId": "KyVDWbuw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282313,
+      "fileId": 4183103
+    }
+  ],
   "forge": [
     {
       "modId": "tipthescales",

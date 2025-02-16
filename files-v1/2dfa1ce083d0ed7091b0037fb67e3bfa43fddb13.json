@@ -1,6 +1,18 @@
 {
   "name": "Nuclear_Science-1.18.2-0.4.9-0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aH4Sud5i",
+      "versionId": "B99b13v3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318646,
+      "fileId": 5012979
+    }
+  ],
   "forge": [
     {
       "modId": "nuclearscience",

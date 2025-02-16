@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "sliceanddice-fabric-2.6.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "GmjmRQ0A",
       "versionId": "UdU72k1h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 659674,
+      "fileId": 5749822
     }
   ],
   "forge": [

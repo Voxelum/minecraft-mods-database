@@ -1,6 +1,18 @@
 {
   "name": "dangerclose-2.3.0-1.20.1_fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VtVhdIEA",
+      "versionId": "YsbhfY1w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 858922,
+      "fileId": 4761899
+    }
+  ],
   "fabric": [
     {
       "modId": "dangerclose",

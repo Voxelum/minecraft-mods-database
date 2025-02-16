@@ -1,6 +1,18 @@
 {
   "name": "projectjjk-1.1.2-1.20.4-fabric-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F1DelhsT",
+      "versionId": "haJWNlsp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972280,
+      "fileId": 5410140
+    }
+  ],
   "fabric": [
     {
       "modId": "projectjjk",

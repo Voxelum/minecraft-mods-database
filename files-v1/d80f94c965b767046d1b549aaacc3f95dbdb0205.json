@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "[FORGE 1.20.1] 1.21 paintings_backport-1.0.0.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "P86fl1mK",
       "versionId": "5Ykxj3XT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1014226,
+      "fileId": 5319630
     }
   ],
   "forge": [

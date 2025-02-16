@@ -1,6 +1,12 @@
 {
   "name": "A1-pressure-1.3.0.130-mc1.7.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 221214,
+      "fileId": 2280409
+    }
+  ],
   "forge": [
     {
       "modId": "pressure",

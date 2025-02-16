@@ -1,0 +1,20 @@
+{
+  "name": "ImmediatelyFast-1.1.8+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "VoFPEhPL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.1.8"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

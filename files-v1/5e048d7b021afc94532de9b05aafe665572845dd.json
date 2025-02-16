@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xzx66KYY",
+      "versionId": "F5nsnMO6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "subtick",
+      "version": "1.0.15"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

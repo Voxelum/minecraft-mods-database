@@ -1,6 +1,18 @@
 {
   "name": "arrow-entity-loot-drop-1.2.1+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8fwMwfhb",
+      "versionId": "V2Dxxfbk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 709796,
+      "fileId": 4595096
+    }
+  ],
   "fabric": [
     {
       "modId": "arrowentitylootdrop",

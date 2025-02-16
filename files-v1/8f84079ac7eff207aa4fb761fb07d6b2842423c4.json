@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "resourcepackchecker-fabric-1.21.3-1.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fCpuZIcM",
+      "versionId": "gnEudNDI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687618,
+      "fileId": 5838001
+    }
+  ],
   "fabric": [
     {
       "modId": "resourcepackchecker",

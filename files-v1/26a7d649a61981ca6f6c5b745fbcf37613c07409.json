@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DosZdmJF",
+      "versionId": "qhF0c7aL"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_jakes_buildtools",
+      "version": "1.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_jakes_buildtools",
+      "version": "1.8"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "[服务器跨版本]viafabricplus-2.7.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rIC2XJV4",
+      "versionId": "61aQ4000"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 830604,
+      "fileId": 4583352
+    }
+  ],
   "fabric": [
     {
       "modId": "viafabricplus",

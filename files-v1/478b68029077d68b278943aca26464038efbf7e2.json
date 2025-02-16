@@ -1,6 +1,12 @@
 {
   "name": "noodle-0.4.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 278785,
+      "fileId": 2485470
+    }
+  ],
   "forge": [
     {
       "modId": "noodle",

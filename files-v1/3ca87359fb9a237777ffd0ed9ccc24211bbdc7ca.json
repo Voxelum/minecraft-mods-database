@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LLXcOhRE",
+      "versionId": "XjuI0vZs"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the-frost-portal-fabric",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta50-1.18"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oQTG9U8S",
+      "versionId": "DQZezrXc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1143515,
+      "fileId": 5974426
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_create_justarecipe",
+      "version": "0.3.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_create_justarecipe",
+      "version": "0.3.3.1"
+    }
+  ]
+}

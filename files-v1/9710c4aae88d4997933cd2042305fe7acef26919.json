@@ -1,6 +1,12 @@
 {
   "name": "tesla-core-lib-1.12-1.0.12.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 254602,
+      "fileId": 2509629
+    }
+  ],
   "forge": [
     {
       "modId": "teslacorelib_registries",

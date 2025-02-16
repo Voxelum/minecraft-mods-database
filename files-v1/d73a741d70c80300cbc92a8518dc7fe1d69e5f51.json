@@ -1,6 +1,18 @@
 {
   "name": "deepresonance-1.16-2.0.4-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gzruRGfo",
+      "versionId": "2UxxAq7l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233398,
+      "fileId": 3752156
+    }
+  ],
   "forge": [
     {
       "modId": "deepresonance",

@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oQ0dIGZg",
+      "versionId": "kDtBcOEs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880881,
+      "fileId": 5904520
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moremcmeta_emissive_plugin",
+      "version": "1.21.1-2.0.7"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c19"
+    },
+    {
+      "modId": "fabric-renderer-indigo",
+      "version": "1.7.0+c705a49c19"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "3.4.0+c705a49c19"
+    }
+  ]
+}

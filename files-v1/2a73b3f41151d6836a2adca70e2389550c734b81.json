@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f72LiOZm",
+      "versionId": "SY3xy3ij"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 877194,
+      "fileId": 5788521
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "maple",
+      "version": "1.20.1-1.3.13-Fabric"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.9"
+    }
+  ]
+}

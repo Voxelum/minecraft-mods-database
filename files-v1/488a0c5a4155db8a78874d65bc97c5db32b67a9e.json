@@ -1,6 +1,12 @@
 {
   "name": "bjornlib-forge-1.0.19.4-1.20.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 920448,
+      "fileId": 5617696
+    }
+  ],
   "forge": [
     {
       "modId": "bjornlib",

@@ -1,6 +1,18 @@
 {
   "name": "Gamma-Utils-1.7.14-mc1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wdLuzzEP",
+      "versionId": "GsTM5nP9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 492295,
+      "fileId": 4572000
+    }
+  ],
   "fabric": [
     {
       "modId": "gammautils",

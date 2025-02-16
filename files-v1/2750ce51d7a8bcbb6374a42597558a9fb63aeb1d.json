@@ -1,6 +1,12 @@
 {
   "name": "splashfox-1.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "a59NK2Js",
+      "versionId": "tXbOlqg3"
+    }
+  ],
   "fabric": [
     {
       "modId": "splashfox",

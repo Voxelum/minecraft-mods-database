@@ -1,0 +1,58 @@
+{
+  "name": "traverse-6.2.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kXygSBVI",
+      "versionId": "3oKwSTZR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308777,
+      "fileId": 4852172
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "traverse",
+      "version": "6.2.5"
+    },
+    {
+      "modId": "traverse-client",
+      "version": "6.2.5"
+    },
+    {
+      "modId": "traverse-common",
+      "version": "6.2.5"
+    },
+    {
+      "modId": "traverse-worldgen",
+      "version": "6.2.5"
+    },
+    {
+      "modId": "terraform-biome-remapper-api-v1",
+      "version": "6.1.3"
+    },
+    {
+      "modId": "terraform-config-api-v1",
+      "version": "6.1.3"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "6.1.3"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "6.1.3"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "6.1.3"
+    },
+    {
+      "modId": "biolith",
+      "version": "0.0.1-alpha.4"
+    }
+  ]
+}

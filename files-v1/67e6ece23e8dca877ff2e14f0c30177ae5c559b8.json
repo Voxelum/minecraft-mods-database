@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1018692,
+      "fileId": 5629331
+    }
+  ],
+  "forge": [
+    {
+      "modId": "reforgedplaymod",
+      "version": "0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "viaforge",
+      "version": "3.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viaversion",
+      "version": "4.7.0-23w18a-SNAPSHOT"
+    }
+  ]
+}

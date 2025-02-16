@@ -1,0 +1,100 @@
+{
+  "name": "fuy.gg-2.0.4+MC-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EMQzFaJ1",
+      "versionId": "uu2QM76k"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fuy_gg",
+      "version": "2.0.4+MC-1.21"
+    },
+    {
+      "modId": "org_reactivestreams_reactive-streams",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.2-GA"
+    },
+    {
+      "modId": "com_github_sisyphsu_dateparser",
+      "version": "1.0.11"
+    },
+    {
+      "modId": "com_github_essentuan_esl",
+      "version": "v1.0.1"
+    },
+    {
+      "modId": "org_objenesis_objenesis",
+      "version": "3.4"
+    },
+    {
+      "modId": "acf_fabric",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "io_ktor_ktor-client-cio-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-client-core-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-websockets-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-client-websockets-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-websocket-serialization-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-events-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-http-cio-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-http-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-io-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-network-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-network-tls-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-serialization-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "io_ktor_ktor-utils-jvm",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "com_github_essentuan_buster",
+      "version": "v1.0.0"
+    }
+  ]
+}

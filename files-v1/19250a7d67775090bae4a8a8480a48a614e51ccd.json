@@ -1,6 +1,18 @@
 {
   "name": "fast-hoppers-0.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Zs79Mkhy",
+      "versionId": "Od1JJzlb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 912142,
+      "fileId": 5065909
+    }
+  ],
   "fabric": [
     {
       "modId": "fast-hoppers",

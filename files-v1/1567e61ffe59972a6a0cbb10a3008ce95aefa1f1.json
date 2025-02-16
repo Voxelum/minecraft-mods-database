@@ -1,6 +1,18 @@
 {
   "name": "wooltweaks-1.19.2-3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lqQsKUma",
+      "versionId": "k5NE7JsV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 414111,
+      "fileId": 4963519
+    }
+  ],
   "forge": [
     {
       "modId": "wooltweaks",

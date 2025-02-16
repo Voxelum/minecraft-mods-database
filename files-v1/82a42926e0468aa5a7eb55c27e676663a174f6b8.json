@@ -1,6 +1,12 @@
 {
   "name": "mechanics-1.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 323533,
+      "fileId": 2937303
+    }
+  ],
   "forge": [
     {
       "modId": "mechanics",

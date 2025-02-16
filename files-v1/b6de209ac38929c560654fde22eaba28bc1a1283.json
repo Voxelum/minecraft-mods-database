@@ -1,0 +1,56 @@
+{
+  "name": "WNT-2.0-alpha.12.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yqy9rd0d",
+      "versionId": "xwOkZEJ6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wnt",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "wnt-blackbox",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "wnt-cfx",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "wnt-dumper",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "wnt-poker",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "wnt-supervisor",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "wnt-toolbox",
+      "version": "2.0-alpha.12"
+    },
+    {
+      "modId": "net_kyori_adventure-text-serializer-gson",
+      "version": "4.13.1"
+    },
+    {
+      "modId": "net_kyori_adventure-api",
+      "version": "4.13.1"
+    },
+    {
+      "modId": "net_kyori_adventure-key",
+      "version": "4.13.1"
+    },
+    {
+      "modId": "net_kyori_examination-api",
+      "version": "1.3.0"
+    }
+  ]
+}

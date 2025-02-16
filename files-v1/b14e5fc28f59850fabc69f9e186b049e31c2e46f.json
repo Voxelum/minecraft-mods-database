@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZXm8hVxN",
+      "versionId": "clX6jkFF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568316,
+      "fileId": 4576392
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "numismatic-overhaul",
+      "version": "0.2.9+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "stacc",
+      "version": "1.5.3-pre.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.0+1.20"
+    }
+  ]
+}

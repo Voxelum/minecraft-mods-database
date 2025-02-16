@@ -1,0 +1,26 @@
+{
+  "name": "autohud-8.0+1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "temczoTQ",
+      "versionId": "tMPTgZ83"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623806,
+      "fileId": 5945098
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autohud",
+      "version": "8.0"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "2.1"
+    }
+  ]
+}

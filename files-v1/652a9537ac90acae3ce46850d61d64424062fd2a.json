@@ -1,6 +1,12 @@
 {
   "name": "bio_delight-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BpfiXMaS",
+      "versionId": "8QU0FZix"
+    }
+  ],
   "forge": [
     {
       "modId": "bio_delight",

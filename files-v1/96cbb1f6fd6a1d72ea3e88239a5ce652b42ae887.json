@@ -1,6 +1,18 @@
 {
   "name": "chipped-fabric-1.19.2-2.1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BAscRYKm",
+      "versionId": "UK6ouO7Q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456956,
+      "fileId": 4463478
+    }
+  ],
   "fabric": [
     {
       "modId": "chipped",

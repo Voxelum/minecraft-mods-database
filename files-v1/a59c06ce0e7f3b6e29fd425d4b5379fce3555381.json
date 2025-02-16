@@ -1,6 +1,12 @@
 {
   "name": "wfc-1.4.1-1.20.1-forge.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 815319,
+      "fileId": 5189693
+    }
+  ],
   "forge": [
     {
       "modId": "wfc",

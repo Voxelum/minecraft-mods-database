@@ -1,6 +1,18 @@
 {
   "name": "mobtimizations-fabric-1.18.2-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kbz7UydC",
+      "versionId": "5a9Ur8y8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 974401,
+      "fileId": 5106112
+    }
+  ],
   "fabric": [
     {
       "modId": "mobtimizations",

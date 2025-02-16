@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "viarewind",
+      "version": "2.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viabackwards",
+      "version": "4.5.1"
+    }
+  ]
+}

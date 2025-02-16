@@ -1,6 +1,18 @@
 {
   "name": "easywhitelist-mc1.20-rc1-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LODybUe5",
+      "versionId": "4ndHE533"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 543767,
+      "fileId": 4565971
+    }
+  ],
   "fabric": [
     {
       "modId": "easywhitelist",

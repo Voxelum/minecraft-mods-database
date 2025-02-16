@@ -1,6 +1,12 @@
 {
   "name": "fastcraft-1.21.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242677,
+      "fileId": 2286178
+    }
+  ],
   "forge": [
     {
       "modId": "FastCraft",

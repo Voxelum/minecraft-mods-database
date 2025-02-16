@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GBeCx05I",
+      "versionId": "RyiZqs6C"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531235,
+      "fileId": 5965910
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tweakermore",
+      "version": "3.23.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.31+1802ada577"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.13+1802ada577"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

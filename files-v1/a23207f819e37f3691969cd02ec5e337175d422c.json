@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GOKA9KZY",
+      "versionId": "DUszE3wz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 350018,
+      "fileId": 5572935
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterbeaconplacement",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterbeaconplacement",
+      "version": "3.4"
+    }
+  ]
+}

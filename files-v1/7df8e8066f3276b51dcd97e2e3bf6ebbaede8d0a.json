@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zhPomGxT",
+      "versionId": "LdPI9zY7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817636,
+      "fileId": 5050521
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mageflame",
+      "version": "v1.5.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "CustomPlayerModels-1.19-0.6.7a.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h1E7sQNL",
+      "versionId": "AB6vUmEZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 439870,
+      "fileId": 4480832
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpm",
+      "version": "0.6.7a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpm",
+      "version": "-"
+    }
+  ]
+}

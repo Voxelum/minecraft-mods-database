@@ -1,6 +1,12 @@
 {
   "name": "tumbleweed-1.10-0.4.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 245028,
+      "fileId": 2439858
+    }
+  ],
   "forge": [
     {
       "modId": "tumbleweed",

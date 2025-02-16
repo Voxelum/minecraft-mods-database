@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G0GDoyVf",
+      "versionId": "XXrJyS5k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 274816,
+      "fileId": 5168841
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nbttooltip",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "13.0.121"
+    }
+  ]
+}

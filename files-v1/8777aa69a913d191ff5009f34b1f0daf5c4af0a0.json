@@ -1,6 +1,18 @@
 {
   "name": "BrandonsCore-1.12-2.3.7.140-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iFDWVIFV",
+      "versionId": "TVnFRmmQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 231382,
+      "fileId": 2514752
+    }
+  ],
   "forge": [
     {
       "modId": "brandonscore",

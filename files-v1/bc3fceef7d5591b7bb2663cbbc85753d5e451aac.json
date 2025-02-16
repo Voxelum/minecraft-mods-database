@@ -1,0 +1,20 @@
+{
+  "name": "Terralith v1.6.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 513688,
+      "fileId": 3448765
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "seedy-behavior",
+      "version": "1.0.2+1.17.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "tpa-1.2.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pbGzLSUN",
+      "versionId": "qFvmZitN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 939167,
+      "fileId": 5045127
+    }
+  ],
   "forge": [
     {
       "modId": "tpa",

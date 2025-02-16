@@ -1,6 +1,18 @@
 {
   "name": "DarkUtils-1.12.2-1.7.181.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CkqTAIaP",
+      "versionId": "fzT9i8kG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242195,
+      "fileId": 2497247
+    }
+  ],
   "forge": [
     {
       "modId": "darkutils",

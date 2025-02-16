@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "leashmod-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BKyMf6XK",
+      "versionId": "ikLeZ0BV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1078985,
+      "fileId": 5603492
+    }
+  ],
   "fabric": [
     {
       "modId": "leashmod",

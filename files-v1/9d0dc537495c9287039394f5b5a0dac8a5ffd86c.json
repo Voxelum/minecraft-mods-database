@@ -1,0 +1,28 @@
+{
+  "name": "more_bows_and_arrows-merged-1.21.1-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "E8mxlh6j",
+      "versionId": "OGaKgIGG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 888468,
+      "fileId": 5945677
+    }
+  ],
+  "forge": [
+    {
+      "modId": "more_bows_and_arrows",
+      "version": "4.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_bows_and_arrows",
+      "version": "4.0.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "uranus-2.1.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Acxy864",
+      "versionId": "nGa3k32N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010827,
+      "fileId": 5960937
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uranus",
+      "version": "2.1.5"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    },
+    {
+      "modId": "sponsor_core",
+      "version": "1.0.0"
+    }
+  ]
+}

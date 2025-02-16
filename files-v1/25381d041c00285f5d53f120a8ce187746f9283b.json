@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 382410,
+      "fileId": 3341978
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lock_minecart_view",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "modmenu",
+      "version": "2.0.0-beta.7"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.34"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "dice",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dice",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.0+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.0+1.20.1"
+    }
+  ]
+}

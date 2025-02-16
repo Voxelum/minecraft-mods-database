@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXf2OSFU",
+      "versionId": "v14uvE5b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354047,
+      "fileId": 5993091
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ok_zoomer",
+      "version": "10.0.0-beta.8"
+    },
+    {
+      "modId": "wrench_wrapper",
+      "version": "0.6.1"
+    }
+  ]
+}

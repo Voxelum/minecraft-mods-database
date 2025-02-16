@@ -1,6 +1,12 @@
 {
   "name": "spawner-catalyst-1.16.5-0.9.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 547049,
+      "fileId": 3527868
+    }
+  ],
   "forge": [
     {
       "modId": "spawner",

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kw7Sm3Xf",
+      "versionId": "FS1vz0Bn"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noxesium",
+      "version": "2.1.0+2111546"
+    },
+    {
+      "modId": "com_noxcrew_noxesium_api_",
+      "version": "2.1.0+2111546"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0-beta.2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mssw-forge-2.2.0+1.18.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 644005,
+      "fileId": 4330266
+    }
+  ],
+  "forge": [
+    {
+      "modId": "more_slabs_stairs_and_walls",
+      "version": "2.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_slabs_stairs_and_walls",
+      "version": "${version}"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "AnimalOrigins-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "inBdmMC6",
+      "versionId": "ZT7id1pP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628878,
+      "fileId": 5304184
+    }
+  ],
   "fabric": [
     {
       "modId": "animal_origins",

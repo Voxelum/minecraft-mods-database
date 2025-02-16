@@ -1,0 +1,20 @@
+{
+  "name": "noplayerlabels-2.1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 398788,
+      "fileId": 4617598
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noplayerlabels",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "tf_ssf_sfort_ini_sf-ini",
+      "version": "1"
+    }
+  ]
+}

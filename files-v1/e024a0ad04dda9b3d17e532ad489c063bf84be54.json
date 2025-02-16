@@ -1,0 +1,28 @@
+{
+  "name": "omegamute-1.21.4-4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ots5RF5",
+      "versionId": "VdFUnnWu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 374828,
+      "fileId": 5967532
+    }
+  ],
+  "forge": [
+    {
+      "modId": "omegamute",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "omegamute",
+      "version": "4.2"
+    }
+  ]
+}

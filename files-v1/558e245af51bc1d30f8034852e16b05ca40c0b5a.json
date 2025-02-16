@@ -1,6 +1,12 @@
 {
   "name": "snowfall-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hN4P46yA",
+      "versionId": "MFB5rh69"
+    }
+  ],
   "forge": [
     {
       "modId": "falling_snow",

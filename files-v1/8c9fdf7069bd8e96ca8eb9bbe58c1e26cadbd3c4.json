@@ -1,6 +1,18 @@
 {
   "name": "Squat-Grow-Mod-Fabric-1.20.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b5JMdB5V",
+      "versionId": "GsCEP5af"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 515698,
+      "fileId": 5215455
+    }
+  ],
   "fabric": [
     {
       "modId": "squatgrow",

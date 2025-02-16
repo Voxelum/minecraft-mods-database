@@ -1,6 +1,18 @@
 {
   "name": "nbteditor-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Osk0m1G",
+      "versionId": "hSFNpEMX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552423,
+      "fileId": 5474753
+    }
+  ],
   "fabric": [
     {
       "modId": "nbteditor",

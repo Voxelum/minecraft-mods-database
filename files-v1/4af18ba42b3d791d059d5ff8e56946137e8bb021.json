@@ -1,5 +1,6 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "ni4SrKmq",
@@ -10,6 +11,20 @@
     {
       "projectId": 397217,
       "fileId": 5838361
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chesttracker",
+      "version": "2.6.2+1.20.4"
+    },
+    {
+      "modId": "whereisit",
+      "version": "2.6.3+1.20.4"
+    },
+    {
+      "modId": "searchables",
+      "version": "1.0.6"
     }
   ]
 }

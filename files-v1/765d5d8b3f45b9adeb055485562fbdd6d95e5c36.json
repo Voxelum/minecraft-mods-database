@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C36CZGrl",
+      "versionId": "C5Y5Kje8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1037600,
+      "fileId": 5969393
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_mace",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_mace",
+      "version": "1.0.0"
+    }
+  ]
+}

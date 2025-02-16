@@ -1,0 +1,70 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3sjzyvGR",
+      "versionId": "9nao3cSK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 352491,
+      "fileId": 5977391
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modernui",
+      "version": "3.11.1.4"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "3.1.7"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-ast",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-builder",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-collection",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-data",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-dependency",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-format",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-html",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-misc",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-sequence",
+      "version": "0.64.8"
+    },
+    {
+      "modId": "com_vladsch_flexmark_flexmark-util-visitor",
+      "version": "0.64.8"
+    }
+  ]
+}

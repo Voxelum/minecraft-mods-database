@@ -1,6 +1,12 @@
 {
   "name": "sound-muffler-1.0.0-1.18.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 627060,
+      "fileId": 3802806
+    }
+  ],
   "fabric": [
     {
       "modId": "soundmuffler",

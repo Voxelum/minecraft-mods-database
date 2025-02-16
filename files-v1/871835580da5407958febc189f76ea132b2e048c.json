@@ -1,6 +1,12 @@
 {
   "name": "trade-1.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 270204,
+      "fileId": 2535359
+    }
+  ],
   "forge": [
     {
       "modId": "trade",

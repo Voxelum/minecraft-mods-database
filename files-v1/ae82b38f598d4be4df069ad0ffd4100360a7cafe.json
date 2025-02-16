@@ -1,6 +1,18 @@
 {
   "name": "mini_tardis-1.0.4+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AnM1UyFW",
+      "versionId": "MW3OzFs0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 972910,
+      "fileId": 5210171
+    }
+  ],
   "fabric": [
     {
       "modId": "mini_tardis",

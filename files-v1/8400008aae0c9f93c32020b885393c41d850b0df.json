@@ -1,6 +1,12 @@
 {
   "name": "meteor-client-0.4.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 613136,
+      "fileId": 3755118
+    }
+  ],
   "fabric": [
     {
       "modId": "meteor-client",

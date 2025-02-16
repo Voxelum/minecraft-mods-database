@@ -1,6 +1,18 @@
 {
   "name": "alternate-current-mc1.20-1.8.0-beta.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r0v8vy1s",
+      "versionId": "lxVatUAV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548115,
+      "fileId": 5327159
+    }
+  ],
   "fabric": [
     {
       "modId": "alternate-current",

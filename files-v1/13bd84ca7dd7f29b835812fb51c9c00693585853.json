@@ -1,6 +1,18 @@
 {
   "name": "JEITweaker-1.16.5-1.1.0.47.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EiEOyeoL",
+      "versionId": "cLA3EH6T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 368718,
+      "fileId": 3550288
+    }
+  ],
   "forge": [
     {
       "modId": "jeitweaker",

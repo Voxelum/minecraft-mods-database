@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHdR6hMt",
+      "versionId": "NgFYK2KR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430219,
+      "fileId": 4476729
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantment_lore",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "crowdin-translate",
+      "version": "1.4+1.19.3"
+    }
+  ]
+}

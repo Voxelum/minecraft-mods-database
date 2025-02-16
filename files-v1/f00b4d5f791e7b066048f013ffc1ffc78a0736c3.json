@@ -1,6 +1,12 @@
 {
   "name": "blockcarpentry-1.16-0.3.11.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401658,
+      "fileId": 3431383
+    }
+  ],
   "forge": [
     {
       "modId": "blockcarpentry",

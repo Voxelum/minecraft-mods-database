@@ -1,6 +1,12 @@
 {
   "name": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 268704,
+      "fileId": 2480954
+    }
+  ],
   "forge": [
     {
       "modId": "craftstudioapi",

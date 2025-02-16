@@ -1,6 +1,12 @@
 {
   "name": "caelus-forge-1.19.4-3.0.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "40FYwb4z",
+      "versionId": "rsEs4XzP"
+    }
+  ],
   "forge": [
     {
       "modId": "caelus",

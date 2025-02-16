@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6VdDUivB",
+      "versionId": "dWRItO8P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 475964,
+      "fileId": 5903790
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "essential_commands",
+      "version": "0.36.0-mc1.21.3"
+    },
+    {
+      "modId": "ec-core",
+      "version": "1.3.0-mc1.21.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.0"
+    }
+  ]
+}

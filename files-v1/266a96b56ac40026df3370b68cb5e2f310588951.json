@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G8hlgtEk",
+      "versionId": "SjIZJFeS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trinkets",
+      "version": "3.9.0+polymerport.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.0.0-beta.3"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.0.0-beta.3"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.5.1+1.20.5"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.5.0+1.20.5"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.0+1.20.5-rc2"
+    }
+  ]
+}

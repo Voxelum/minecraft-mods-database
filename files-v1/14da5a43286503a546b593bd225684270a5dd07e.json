@@ -1,0 +1,54 @@
+{
+  "name": "canvas-fabric-20.4.2681.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "canvas",
+      "version": "20.4.2681"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.36+78d798af4f"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.16+78d798af4f"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.41+78d798af4f"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "io_vram_bitraster",
+      "version": "1.5.53"
+    },
+    {
+      "modId": "io_vram_dtklib",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "io_vram_bitkit",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "io_vram_special-circumstances",
+      "version": "1.10.7"
+    },
+    {
+      "modId": "frex",
+      "version": "20.4.366"
+    },
+    {
+      "modId": "json-model-extensions",
+      "version": "20.4.287"
+    }
+  ]
+}

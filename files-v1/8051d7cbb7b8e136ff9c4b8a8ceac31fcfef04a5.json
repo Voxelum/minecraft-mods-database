@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SZQ5qcdn",
+      "versionId": "sCgkEPPh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 981400,
+      "fileId": 5867853
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scorchful",
+      "version": "0.12.1"
+    },
+    {
+      "modId": "satin",
+      "version": "2.0.0"
+    }
+  ]
+}

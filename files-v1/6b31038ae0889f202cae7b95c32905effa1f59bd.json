@@ -1,6 +1,12 @@
 {
   "name": "modpack-update-checker-1.19.2-forge-0.9.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rR4tY6Cw",
+      "versionId": "ruqeaPAN"
+    }
+  ],
   "forge": [
     {
       "modId": "modpackupdatechecker",

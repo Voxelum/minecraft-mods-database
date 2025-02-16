@@ -1,6 +1,18 @@
 {
   "name": "skinlayers3d-forge-1.6.5-mc1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zV5r3pPn",
+      "versionId": "2PTrOiWC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521480,
+      "fileId": 5371939
+    }
+  ],
   "forge": [
     {
       "modId": "skinlayers3d",

@@ -1,6 +1,18 @@
 {
   "name": "WaterVision-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CXryw0YT",
+      "versionId": "RTcPgy9B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 890050,
+      "fileId": 4650105
+    }
+  ],
   "fabric": [
     {
       "modId": "water_vision",

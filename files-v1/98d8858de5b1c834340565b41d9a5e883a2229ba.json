@@ -1,6 +1,18 @@
 {
   "name": "Powah-3.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZO4S4DO",
+      "versionId": "RACwFvDP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 633483,
+      "fileId": 4525197
+    }
+  ],
   "fabric": [
     {
       "modId": "powah",

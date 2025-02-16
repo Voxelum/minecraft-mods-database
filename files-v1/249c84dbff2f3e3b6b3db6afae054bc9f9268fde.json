@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L4X0nLCx",
+      "versionId": "X5q3ECfN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 886841,
+      "fileId": 5224537
+    }
+  ],
   "forge": [
     {
       "modId": "travel_friendly_food",

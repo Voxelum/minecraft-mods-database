@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nullpoint",
+      "version": "v2.1.3"
+    },
+    {
+      "modId": "satin",
+      "version": "1.15.0"
+    }
+  ]
+}

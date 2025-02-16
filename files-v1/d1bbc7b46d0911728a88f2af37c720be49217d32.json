@@ -1,6 +1,12 @@
 {
   "name": "netherite-1.2 1.7.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kPz7gYi0",
+      "versionId": "NGvilmNv"
+    }
+  ],
   "forge": [
     {
       "modId": "netherite",

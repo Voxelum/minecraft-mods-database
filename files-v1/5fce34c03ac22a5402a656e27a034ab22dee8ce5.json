@@ -1,0 +1,26 @@
+{
+  "name": "bluemap-5.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "swbUV1cr",
+      "versionId": "Mvle7bPy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 406463,
+      "fileId": 5919130
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bluemap",
+      "version": "5.5"
+    },
+    {
+      "modId": "com_flowpowered_flow-math",
+      "version": "1.0.3"
+    }
+  ]
+}

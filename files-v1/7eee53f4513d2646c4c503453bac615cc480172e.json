@@ -1,6 +1,12 @@
 {
   "name": "mobifier-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 485705,
+      "fileId": 3329698
+    }
+  ],
   "forge": [
     {
       "modId": "mobifier",

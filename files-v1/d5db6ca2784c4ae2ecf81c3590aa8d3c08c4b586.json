@@ -1,6 +1,18 @@
 {
   "name": "sprout-1.4.4-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m7Az3ZOX",
+      "versionId": "VCvH5BFd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565856,
+      "fileId": 4068726
+    }
+  ],
   "forge": [
     {
       "modId": "sprout",

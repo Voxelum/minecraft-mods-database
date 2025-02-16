@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jnEFf2VO",
+      "versionId": "Er8jTXDF"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frycmobvariants",
+      "version": "4.5.0+1.20"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

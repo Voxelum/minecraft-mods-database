@@ -1,6 +1,18 @@
 {
   "name": "gamemenumodoption-forge-mc1.20.2-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7V0nY9Tu",
+      "versionId": "5ZUaDllJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 353051,
+      "fileId": 5096083
+    }
+  ],
   "forge": [
     {
       "modId": "gamemenumodoption",

@@ -1,6 +1,18 @@
 {
   "name": "SoLOnion_FORGE_v1.4.5_mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eHGYGKJz",
+      "versionId": "kMmavFVY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 878047,
+      "fileId": 5816336
+    }
+  ],
   "forge": [
     {
       "modId": "solonion",

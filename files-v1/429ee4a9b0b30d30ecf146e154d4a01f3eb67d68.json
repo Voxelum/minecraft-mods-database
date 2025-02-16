@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "preciseblockplacing",
+      "version": "1.0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "preciseblockplacing",
+      "version": "1.0.6"
+    }
+  ]
+}

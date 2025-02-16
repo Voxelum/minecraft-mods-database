@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t0BYGbRl",
+      "versionId": "w1vY9yT7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1044887,
+      "fileId": 5707766
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "soundboard-plasmo",
+      "version": "0.6.1"
+    },
+    {
+      "modId": "kowoui",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "soundboard-core",
+      "version": "0.6.1"
+    }
+  ]
+}

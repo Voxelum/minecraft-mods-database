@@ -1,0 +1,26 @@
+{
+  "name": "Patchouli-1.19.3-78-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "uLqYYIHD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393236,
+      "fileId": 4391050
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "1.19.3-78-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

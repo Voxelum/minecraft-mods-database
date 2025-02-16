@@ -1,6 +1,18 @@
 {
   "name": "itemscroller-fabric-1.18.2-0.16.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JygyCSA4",
+      "versionId": "qmLRKNxp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242064,
+      "fileId": 3879911
+    }
+  ],
   "fabric": [
     {
       "modId": "itemscroller",

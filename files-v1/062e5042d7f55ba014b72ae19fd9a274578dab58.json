@@ -1,6 +1,18 @@
 {
   "name": "smallernetherportals_1.16.5-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fYAofsi6",
+      "versionId": "YoHT9l2S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345614,
+      "fileId": 3379772
+    }
+  ],
   "forge": [
     {
       "modId": "smallernetherportals",

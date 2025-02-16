@@ -1,0 +1,10 @@
+{
+  "name": "mobs-no-drop-1.6-1.20.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "mobs-always-drop",
+      "version": "1.6-1.20.1"
+    }
+  ]
+}

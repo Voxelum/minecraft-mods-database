@@ -1,6 +1,18 @@
 {
   "name": "gamertime1-20-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XD5oQKEA",
+      "versionId": "ypS8Rfbm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821368,
+      "fileId": 5190501
+    }
+  ],
   "forge": [
     {
       "modId": "gamingchairs2",

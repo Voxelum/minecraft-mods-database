@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8u3N4bAx",
+      "versionId": "qauLEvUN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrock_tools",
+      "version": "1.1.0+MC-1.21.3"
+    },
+    {
+      "modId": "jiregister",
+      "version": "1.0.0+MC_1.21.3"
+    },
+    {
+      "modId": "modmenu-badges-lib",
+      "version": "2023.6.1"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.11.0"
+    }
+  ]
+}

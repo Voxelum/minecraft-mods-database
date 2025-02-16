@@ -1,6 +1,18 @@
 {
   "name": "VTweaks-1.16.4-3.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bmda4Rq4",
+      "versionId": "tohnH5vQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238048,
+      "fileId": 3296506
+    }
+  ],
   "forge": [
     {
       "modId": "vtweaks",

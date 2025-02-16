@@ -1,6 +1,18 @@
 {
   "name": "MoreDoors-1.20.1-1.2.1-[FORGE].jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OWP2vqo0",
+      "versionId": "sareXEnx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621840,
+      "fileId": 4616705
+    }
+  ],
   "forge": [
     {
       "modId": "moredoors",

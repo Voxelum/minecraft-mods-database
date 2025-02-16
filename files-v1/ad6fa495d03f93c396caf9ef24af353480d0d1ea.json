@@ -1,0 +1,20 @@
+{
+  "name": "ratatouille-1.0.7-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yufdeaJg",
+      "versionId": "7uRlQFlT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ratatouille",
+      "version": "1.0.7-1.20.1"
+    },
+    {
+      "modId": "datasync_minecraft",
+      "version": "0.6.1"
+    }
+  ]
+}

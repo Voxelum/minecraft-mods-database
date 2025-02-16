@@ -1,6 +1,12 @@
 {
   "name": "mvw-1.16.5-1.8.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 410999,
+      "fileId": 3462414
+    }
+  ],
   "forge": [
     {
       "modId": "mvw",

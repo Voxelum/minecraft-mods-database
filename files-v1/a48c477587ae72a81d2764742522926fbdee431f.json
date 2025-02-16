@@ -1,6 +1,12 @@
 {
   "name": "Inventory Pets.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 229380,
+      "fileId": 3158476
+    }
+  ],
   "forge": [
     {
       "modId": "inventorypets",

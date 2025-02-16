@@ -1,6 +1,12 @@
 {
   "name": "HeroCore 0.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 326469,
+      "fileId": 2803916
+    }
+  ],
   "forge": [
     {
       "modId": "shm",

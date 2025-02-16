@@ -1,6 +1,18 @@
 {
   "name": "Tinkers' Addons-1.12.2-1.0.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cKX88xtL",
+      "versionId": "RnjfFcfv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433035,
+      "fileId": 3294090
+    }
+  ],
   "forge": [
     {
       "modId": "tinkersaddons",

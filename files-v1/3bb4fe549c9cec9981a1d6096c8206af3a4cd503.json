@@ -1,6 +1,12 @@
 {
   "name": "Trinity-1.4.b.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 354949,
+      "fileId": 3250277
+    }
+  ],
   "forge": [
     {
       "modId": "trinity",

@@ -1,6 +1,18 @@
 {
   "name": "haema-1.10.4+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x1oI70UX",
+      "versionId": "vxCiIvPx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391257,
+      "fileId": 4066643
+    }
+  ],
   "fabric": [
     {
       "modId": "haema",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qAQHIBF8",
+      "versionId": "8uKsh6fq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 841655,
+      "fileId": 5821675
+    }
+  ],
   "fabric": [
     {
       "modId": "extshape_blockus",

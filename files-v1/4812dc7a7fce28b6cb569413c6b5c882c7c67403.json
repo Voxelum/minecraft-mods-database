@@ -1,0 +1,16 @@
+{
+  "name": "KemonoCraft-1.20.1-0.5.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 301339,
+      "fileId": 5985383
+    }
+  ],
+  "forge": [
+    {
+      "modId": "kemonocraft",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 357145,
+      "fileId": 3925213
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flymod",
+      "version": "${version}"
+    }
+  ]
+}

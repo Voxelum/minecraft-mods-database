@@ -1,6 +1,12 @@
 {
   "name": "sky-builder-1.1.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 640063,
+      "fileId": 3949870
+    }
+  ],
   "fabric": [
     {
       "modId": "skyislands",

@@ -1,0 +1,26 @@
+{
+  "name": "stack-to-nearby-chests-mc1.20.4-0.5.5.jar.disabled",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HtGckJVc",
+      "versionId": "RLNlS9VR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693995,
+      "fileId": 5295669
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stack-to-nearby-chests",
+      "version": "0.5.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "9.2.2+1.20.2"
+    }
+  ]
+}

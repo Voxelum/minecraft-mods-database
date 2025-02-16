@@ -1,6 +1,12 @@
 {
   "name": "LargeFluidTank-19.1.596-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411564,
+      "fileId": 4066168
+    }
+  ],
   "fabric": [
     {
       "modId": "fluidtank",

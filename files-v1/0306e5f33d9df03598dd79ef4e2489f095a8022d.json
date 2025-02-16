@@ -1,6 +1,18 @@
 {
   "name": "no-telemetry-1.5.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hg77g4Pw",
+      "versionId": "3OTdKL9g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 530816,
+      "fileId": 4164997
+    }
+  ],
   "forge": [
     {
       "modId": "no_telemetry",

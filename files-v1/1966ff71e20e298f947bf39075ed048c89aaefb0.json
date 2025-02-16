@@ -1,6 +1,18 @@
 {
   "name": "artisanat-2.3.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QDxAP5Cp",
+      "versionId": "XiCNqgDa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399443,
+      "fileId": 3864136
+    }
+  ],
   "fabric": [
     {
       "modId": "artisanat",

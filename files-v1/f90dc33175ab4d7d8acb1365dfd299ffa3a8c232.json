@@ -1,6 +1,18 @@
 {
   "name": "RFDrills-1.7.10-1.7.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "saBU82Nh",
+      "versionId": "ap92MLy1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 229846,
+      "fileId": 2273563
+    }
+  ],
   "forge": [
     {
       "modId": "rfdrills",

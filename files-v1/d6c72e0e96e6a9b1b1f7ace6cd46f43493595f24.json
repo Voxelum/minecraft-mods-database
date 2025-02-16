@@ -1,6 +1,18 @@
 {
   "name": "realistic_horse_genetics-1.20.1-12.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PCskOqPY",
+      "versionId": "HodnIomh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 339184,
+      "fileId": 5188049
+    }
+  ],
   "forge": [
     {
       "modId": "horse_colors",

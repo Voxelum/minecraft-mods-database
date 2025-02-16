@@ -1,6 +1,12 @@
 {
   "name": "morefood-1.20.2-v0.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "U2QZYFHC",
+      "versionId": "RmZFcgJd"
+    }
+  ],
   "fabric": [
     {
       "modId": "morefood",

@@ -1,0 +1,26 @@
+{
+  "name": "litematica-server-paster-v1.3.4-mc1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HCbarMw6",
+      "versionId": "ch63ANbg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 760725,
+      "fileId": 5920040
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "litematica-server-paster",
+      "version": "1.3.4"
+    },
+    {
+      "modId": "fanetlib",
+      "version": "0.2.2"
+    }
+  ]
+}

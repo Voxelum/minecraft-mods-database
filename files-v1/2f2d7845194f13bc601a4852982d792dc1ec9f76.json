@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "timetolive",
+      "version": "0.3"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.2"
+    }
+  ]
+}

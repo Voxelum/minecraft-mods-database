@@ -1,0 +1,26 @@
+{
+  "name": "SizeShiftingPotions-fabric-1.8.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rfj2v0X6",
+      "versionId": "CQDJuTgD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447440,
+      "fileId": 5636289
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sizeshiftingpotions",
+      "version": "1.8.0+1.21"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.8"
+    }
+  ]
+}

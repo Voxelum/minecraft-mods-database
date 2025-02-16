@@ -1,6 +1,18 @@
 {
   "name": "terrestria-5.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lsUDPMOT",
+      "versionId": "uk1ZXP1m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 323974,
+      "fileId": 4166797
+    }
+  ],
   "fabric": [
     {
       "modId": "terrestria",

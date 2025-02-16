@@ -1,0 +1,34 @@
+{
+  "name": "automobility-0.2.1+1.18.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rqIsPf9F",
+      "versionId": "AYSLOdYB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 658286,
+      "fileId": 3936536
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "automobility",
+      "version": "0.2.1+1.18.2"
+    },
+    {
+      "modId": "myron",
+      "version": "1.6.3+1.18.1"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.5.5"
+    },
+    {
+      "modId": "jsonem",
+      "version": "0.1.2"
+    }
+  ]
+}

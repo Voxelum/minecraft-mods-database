@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "emXFPmJd",
+      "versionId": "oBhqww8Q"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eldritch_mobs",
+      "version": "1.16.3"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.9+1.21"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.3.1+1.21-pre2"
+    }
+  ]
+}

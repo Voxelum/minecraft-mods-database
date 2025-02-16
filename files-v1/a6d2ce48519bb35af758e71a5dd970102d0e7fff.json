@@ -1,0 +1,22 @@
+{
+  "name": "SimpleDiscordLink-Universal-3.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sh0YauEf",
+      "versionId": "AVJaD8ZA"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sdlink",
+      "version": "3.2.1+release.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sdlink",
+      "version": "3.2.1+release.5"
+    }
+  ]
+}

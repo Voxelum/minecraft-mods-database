@@ -1,6 +1,18 @@
 {
   "name": "forbidden_arcanus-1.20.1-2.2.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MdlnLS7Q",
+      "versionId": "sI6YSJ8T"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 309858,
+      "fileId": 4848471
+    }
+  ],
   "forge": [
     {
       "modId": "forbidden_arcanus",

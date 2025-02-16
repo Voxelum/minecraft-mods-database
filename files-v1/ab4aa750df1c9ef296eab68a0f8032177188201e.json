@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FTaA4pRW",
+      "versionId": "a5Zo4Zgh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255105,
+      "fileId": 5368439
+    }
+  ],
   "fabric": [
     {
       "modId": "friendlyfire",

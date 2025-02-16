@@ -1,9 +1,26 @@
 {
-  "name": "",
+  "name": "hauntfurnace-fabric-1.21.1-0.3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G05u0Ety",
+      "versionId": "kAESAesp"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 875936,
       "fileId": 5654139
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hauntfurnace",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
     }
   ]
 }

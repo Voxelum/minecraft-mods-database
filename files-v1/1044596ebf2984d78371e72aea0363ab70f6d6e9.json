@@ -1,6 +1,18 @@
 {
   "name": "elegantarmour-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1LrBk5C6",
+      "versionId": "Sggsrxw0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852856,
+      "fileId": 4649667
+    }
+  ],
   "fabric": [
     {
       "modId": "elegantarmour",

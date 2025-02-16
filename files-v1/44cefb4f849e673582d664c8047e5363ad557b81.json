@@ -1,6 +1,18 @@
 {
   "name": "advancednetherite-forge-2.0.2-1.19.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CFX9ftUJ",
+      "versionId": "aYvpwZsM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495336,
+      "fileId": 4580326
+    }
+  ],
   "forge": [
     {
       "modId": "advancednetherite",

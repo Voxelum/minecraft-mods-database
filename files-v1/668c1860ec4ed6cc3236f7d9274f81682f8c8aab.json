@@ -1,6 +1,12 @@
 {
   "name": "sp-1.20.1-1.6.3.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1061824,
+      "fileId": 5691688
+    }
+  ],
   "forge": [
     {
       "modId": "sp",

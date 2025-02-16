@@ -1,6 +1,12 @@
 {
   "name": "vestis-1.19.2-1.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 836208,
+      "fileId": 5124579
+    }
+  ],
   "forge": [
     {
       "modId": "vestis",

@@ -1,6 +1,12 @@
 {
   "name": "bedrock-miner-1.0.0-for-Minecraft-1.16.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 523864,
+      "fileId": 3450170
+    }
+  ],
   "fabric": [
     {
       "modId": "bedrockminer",

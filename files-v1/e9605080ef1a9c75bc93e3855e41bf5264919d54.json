@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "suppressopengl1280",
+      "version": "1.2.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.128"
+    }
+  ]
+}

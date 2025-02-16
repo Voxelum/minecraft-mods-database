@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oskghcoj",
+      "versionId": "whzvrafz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 941480,
+      "fileId": 6000004
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraspellattributes",
+      "version": "1.2.17"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

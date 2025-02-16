@@ -1,6 +1,12 @@
 {
   "name": "advanced-xray-forge-82.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 256256,
+      "fileId": 4923739
+    }
+  ],
   "forge": [
     {
       "modId": "xray",

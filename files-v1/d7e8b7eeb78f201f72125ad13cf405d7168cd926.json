@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 839333,
+      "fileId": 4444907
+    }
+  ],
+  "forge": [
+    {
+      "modId": "boss_music_mod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "boss_music_mod",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "2.1.627+1.19.2"
+    }
+  ]
+}

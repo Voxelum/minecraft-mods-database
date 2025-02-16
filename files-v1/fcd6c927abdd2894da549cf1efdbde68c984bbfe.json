@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RJCLIx7k",
+      "versionId": "BsXBQoNZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040210,
+      "fileId": 5552142
+    }
+  ],
   "fabric": [
     {
       "modId": "mss",

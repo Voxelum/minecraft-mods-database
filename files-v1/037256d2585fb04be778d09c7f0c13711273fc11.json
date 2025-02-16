@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Luxblsiv",
+      "versionId": "7zBYupuV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 294861,
+      "fileId": 5711385
+    }
+  ],
   "forge": [
     {
       "modId": "tolaserblade",

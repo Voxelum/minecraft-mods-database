@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "C0s9wrne"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 335493,
+      "fileId": 5959760
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamic_fps",
+      "version": "3.7.7"
+    },
+    {
+      "modId": "net_lostluma_battery",
+      "version": "1.3.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NCt1d3Kv",
+      "versionId": "gGytMVs8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "structure-nature",
+      "version": "1.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65.5-1.20.6"
+    }
+  ]
+}

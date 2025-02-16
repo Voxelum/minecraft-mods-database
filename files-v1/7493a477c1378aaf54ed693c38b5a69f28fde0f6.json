@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "tweakeroo",
+      "version": "0.19.999-sakura.1a"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.0.7+9342ba640d"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.0.5+c5f2432c0d"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2VLZ3B93",
+      "versionId": "UuMushcy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399615,
+      "fileId": 5983077
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gildedingot",
+      "version": "2.1.1-1.20.1-fabric"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

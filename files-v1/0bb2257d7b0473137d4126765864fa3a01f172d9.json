@@ -1,6 +1,12 @@
 {
   "name": "questbook-2.1.1-1.7.10.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 242106,
+      "fileId": 2735560
+    }
+  ],
   "forge": [
     {
       "modId": "questbook",

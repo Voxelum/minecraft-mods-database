@@ -1,6 +1,18 @@
 {
   "name": "spoornbountymobs-4.0-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yOmOmAiF",
+      "versionId": "wNr6pwTA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 461713,
+      "fileId": 4651724
+    }
+  ],
   "fabric": [
     {
       "modId": "spoornbountymobs",

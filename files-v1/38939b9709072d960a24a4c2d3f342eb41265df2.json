@@ -1,6 +1,12 @@
 {
   "name": "simulated-1.11.2-1.0.2 Beta.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 567348,
+      "fileId": 4801244
+    }
+  ],
   "forge": [
     {
       "modId": "sim",

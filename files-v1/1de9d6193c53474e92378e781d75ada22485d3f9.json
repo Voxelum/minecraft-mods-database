@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eh8us8FY",
+      "versionId": "wGC3qc87"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 706505,
+      "fileId": 5776413
+    }
+  ],
   "forge": [
     {
       "modId": "txloader-1.7.2",

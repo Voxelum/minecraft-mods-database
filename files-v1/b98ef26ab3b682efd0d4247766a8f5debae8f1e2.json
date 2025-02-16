@@ -1,0 +1,34 @@
+{
+  "name": "loot_n_explore-0.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GxOv67AE",
+      "versionId": "5EeiHVL0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1148917,
+      "fileId": 5942876
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "loot_n_explore",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YyChgEve",
+      "versionId": "UqtuwLtF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 961649,
+      "fileId": 5029858
+    }
+  ],
   "forge": [
     {
       "modId": "spawn",

@@ -1,6 +1,18 @@
 {
   "name": "REBIRTH Paintings 5.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sm8Npoor",
+      "versionId": "R8vEIi6D"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 535453,
+      "fileId": 4800305
+    }
+  ],
   "forge": [
     {
       "modId": "rebirth_paintings",

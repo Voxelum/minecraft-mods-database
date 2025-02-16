@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iDiIfZLX",
+      "versionId": "nqBQIQl4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848022,
+      "fileId": 5248425
+    }
+  ],
+  "forge": [
+    {
+      "modId": "seasonhud",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.7.17"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1-beta.2"
+    }
+  ]
+}

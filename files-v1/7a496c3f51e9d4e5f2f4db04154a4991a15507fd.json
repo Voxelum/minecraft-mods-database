@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TiF5QWZY",
+      "versionId": "k6zgD7uA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430090,
+      "fileId": 5959969
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "respackopts",
+      "version": "4.12.3"
+    },
+    {
+      "modId": "io_gitlab_jfronny_muscript-json",
+      "version": "1.8.0-SNAPSHOT"
+    },
+    {
+      "modId": "io_gitlab_jfronny_muscript-all",
+      "version": "1.8.0-SNAPSHOT"
+    }
+  ]
+}

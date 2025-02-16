@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xGdtZczs",
+      "versionId": "JHnXCHue"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551890,
+      "fileId": 5944959
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymer-bundled",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-resource-pack-extras",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-autohost",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.11.0+1.21.4-rc1"
+    },
+    {
+      "modId": "polymer-common",
+      "version": "0.11.0+1.21.4-rc1"
+    }
+  ]
+}

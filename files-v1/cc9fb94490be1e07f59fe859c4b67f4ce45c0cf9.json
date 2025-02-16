@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QYP9PZUS",
+      "versionId": "CSpMKw3U"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unmending",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

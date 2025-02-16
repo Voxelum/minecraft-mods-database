@@ -1,6 +1,12 @@
 {
   "name": "ArachnidRancher1.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 528391,
+      "fileId": 3511274
+    }
+  ],
   "forge": [
     {
       "modId": "spiderfarm",

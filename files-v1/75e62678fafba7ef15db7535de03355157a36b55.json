@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4Uw92C2y",
+      "versionId": "85JvlaOL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 877074,
+      "fileId": 5894549
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ramel",
+      "version": "1.2.1+mc1.21.1"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.2"
+    }
+  ]
+}

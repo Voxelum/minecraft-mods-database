@@ -1,6 +1,18 @@
 {
   "name": "silk-all-1.9.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aTaCgKLW",
+      "versionId": "aE4T3EZa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 447425,
+      "fileId": 3954261
+    }
+  ],
   "fabric": [
     {
       "modId": "silk-all",

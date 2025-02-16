@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eqrvp4NK",
+      "versionId": "7TfUFp0l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1126577,
+      "fileId": 5944365
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createenchantablemachinery",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createenchantablemachinery",
+      "version": "2.8.6"
+    },
+    {
+      "modId": "io_insert-koin_koin-core-jvm",
+      "version": "3.5.6"
+    }
+  ]
+}

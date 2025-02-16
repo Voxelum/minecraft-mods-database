@@ -1,6 +1,12 @@
 {
   "name": "miniportal-1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 282012,
+      "fileId": 2500490
+    }
+  ],
   "forge": [
     {
       "modId": "miniportal",

@@ -1,6 +1,12 @@
 {
   "name": "environmentz-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TggYmc6t",
+      "versionId": "mDaNJ6lc"
+    }
+  ],
   "fabric": [
     {
       "modId": "environmentz",

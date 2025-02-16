@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F6KTit9k",
+      "versionId": "laqUd91j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 534029,
+      "fileId": 4056632
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mtmechs",
+      "version": "1.0.14"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.0.0-beta1"
+    }
+  ]
+}

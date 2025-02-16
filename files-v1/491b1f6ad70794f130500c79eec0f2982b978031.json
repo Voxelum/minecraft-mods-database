@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Guh4HXen",
+      "versionId": "mAROmp35"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 898470,
+      "fileId": 5738325
+    }
+  ],
   "fabric": [
     {
       "modId": "items_displayed",

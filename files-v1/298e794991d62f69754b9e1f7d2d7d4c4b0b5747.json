@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YmFaSpcI",
+      "versionId": "buwoYdHO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1008327,
+      "fileId": 5341273
+    }
+  ],
   "forge": [
     {
       "modId": "animal_armor_trims",

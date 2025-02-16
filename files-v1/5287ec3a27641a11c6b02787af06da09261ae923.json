@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "G2hjjjFv",
+      "versionId": "SIM8CwHd"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_basic_additions",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_basic_additions",
+      "version": "1.0.1"
+    }
+  ]
+}

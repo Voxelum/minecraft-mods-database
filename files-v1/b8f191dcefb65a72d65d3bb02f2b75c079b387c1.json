@@ -1,6 +1,18 @@
 {
   "name": "paladin-furniture-mod-1.2.1-fabric-mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SISz7Qd3",
+      "versionId": "5IS1nI23"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 663141,
+      "fileId": 5149429
+    }
+  ],
   "fabric": [
     {
       "modId": "pfm",

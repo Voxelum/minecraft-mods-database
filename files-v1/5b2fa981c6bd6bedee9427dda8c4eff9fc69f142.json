@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GUfQnxfP",
+      "versionId": "LOJlMBr0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 458380,
+      "fileId": 3324250
+    }
+  ],
   "fabric": [
     {
       "modId": "entropy",

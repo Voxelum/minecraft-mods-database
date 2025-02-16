@@ -1,6 +1,18 @@
 {
   "name": "mcpitanlibarch-1.6.3-1.18.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNRoUnGT",
+      "versionId": "QcRlHJEw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682213,
+      "fileId": 4485578
+    }
+  ],
   "fabric": [
     {
       "modId": "mcpitanlibarch",

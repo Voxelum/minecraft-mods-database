@@ -1,6 +1,18 @@
 {
   "name": "basicweapons-fabric-mc1.19.2+1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc2Pektv",
+      "versionId": "AEYxWCqh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917144,
+      "fileId": 5164317
+    }
+  ],
   "fabric": [
     {
       "modId": "basicweapons",

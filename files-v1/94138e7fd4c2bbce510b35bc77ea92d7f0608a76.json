@@ -1,6 +1,18 @@
 {
   "name": "wthit-forge-4.11.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6AQIaxuO",
+      "versionId": "DXUDM8HE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455982,
+      "fileId": 3834228
+    }
+  ],
   "forge": [
     {
       "modId": "wthit",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CJdDBlFe",
+      "versionId": "SCemLBVV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 920142,
+      "fileId": 5710410
+    }
+  ],
   "fabric": [
     {
       "modId": "morewaterlogging",

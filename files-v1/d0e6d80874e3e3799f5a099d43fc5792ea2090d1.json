@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rbMt0AmF",
+      "versionId": "90sczwZx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 805714,
+      "fileId": 5945068
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "halohud",
+      "version": "5.0"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "2.1"
+    }
+  ]
+}

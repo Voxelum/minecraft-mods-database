@@ -1,6 +1,18 @@
 {
   "name": "editmobdrops-1.16.5-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CE2Pi3IJ",
+      "versionId": "zZpuci77"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348932,
+      "fileId": 4058913
+    }
+  ],
   "forge": [
     {
       "modId": "editmobdrops",

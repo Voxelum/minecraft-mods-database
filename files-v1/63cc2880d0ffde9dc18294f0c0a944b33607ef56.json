@@ -1,6 +1,12 @@
 {
   "name": "snow-pig-1.18.1-1.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 469594,
+      "fileId": 3590909
+    }
+  ],
   "fabric": [
     {
       "modId": "snowpig",

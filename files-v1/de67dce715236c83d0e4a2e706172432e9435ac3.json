@@ -1,6 +1,12 @@
 {
   "name": "lobby_1.20.1-8.0.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 567798,
+      "fileId": 4658699
+    }
+  ],
   "forge": [
     {
       "modId": "lobby",
