@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "4z29vhIo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 308702,
+      "fileId": 6111161
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modmenu",
+      "version": "13.0.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.1+1.21.3"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.54+b47eab6b04"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.11+b1caf1e904"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.38+7feeb73304"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.56+7feeb73304"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.5.4+bf2a60eb04"
+    }
+  ]
+}

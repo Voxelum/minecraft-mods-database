@@ -1,0 +1,26 @@
+{
+  "name": "Cobblemon-fabric-1.6.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MdwFAVRL",
+      "versionId": "v77SHSXW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687131,
+      "fileId": 6125079
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemon",
+      "version": "1.6.1+1.21.1"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.11.0+kotlin.2.0.0"
+    }
+  ]
+}

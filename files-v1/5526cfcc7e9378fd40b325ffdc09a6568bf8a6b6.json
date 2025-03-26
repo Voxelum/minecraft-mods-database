@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ibSyLAz",
+      "versionId": "yHk2rvgW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 325471,
+      "fileId": 6078957
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorysorter",
+      "version": "1.9.1-1.21.4"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.6.1-1.21.4"
+    }
+  ]
+}

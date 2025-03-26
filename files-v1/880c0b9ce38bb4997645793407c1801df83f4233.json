@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "s5eFLITc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 6258195
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "1.7.6+mc1.20.1"
+    },
+    {
+      "modId": "org_antlr_antlr4-runtime",
+      "version": "4.13.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.31+1802ada577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.37+1802ada577"
+    },
+    {
+      "modId": "io_github_douira_glsl-transformer",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "org_anarres_jcpp",
+      "version": "1.4.14"
+    }
+  ]
+}

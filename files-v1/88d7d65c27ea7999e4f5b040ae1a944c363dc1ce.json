@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Aqlf1Shp",
+      "versionId": "MwQ968Sx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 889079,
+      "fileId": 6169304
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fabric_api",
+      "version": "0.92.2+1.11.11+1.20.1"
+    }
+  ]
+}

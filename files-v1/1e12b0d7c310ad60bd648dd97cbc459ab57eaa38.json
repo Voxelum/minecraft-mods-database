@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MI1LWe93",
+      "versionId": "O6yuPiE8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 561625,
+      "fileId": 6051282
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creeperoverhaul",
+      "version": "4.0.6"
+    },
+    {
+      "modId": "com_teamresourceful_resourceful-cosmetics-4j",
+      "version": "1.0.3"
+    }
+  ]
+}

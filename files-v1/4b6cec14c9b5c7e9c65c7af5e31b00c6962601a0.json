@@ -1,0 +1,32 @@
+{
+  "name": "packanalytics-fabric-1.0.3-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4ZsHhmN9",
+      "versionId": "NvCnRGcP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1129768,
+      "fileId": 5860730
+    }
+  ],
+  "forge": [
+    {
+      "modId": "packanalytics",
+      "version": "1.0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "packanalytics",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

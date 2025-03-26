@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "curseforge": [
+    {
+      "projectId": 580689,
+      "fileId": 6259620
+    }
+  ]
+} 6259620
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations",
+      "version": "1.20.1-4.2"
+    }
+  ]
+}

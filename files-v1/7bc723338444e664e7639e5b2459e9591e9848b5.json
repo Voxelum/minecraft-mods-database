@@ -1,0 +1,76 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mHeNceaH",
+      "versionId": "rrHpcpro"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yet-another-minecraft-bingo",
+      "version": "2.5.0-beta.1+mc1.21.4"
+    },
+    {
+      "modId": "com_zaxxer_hikaricp",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "yet-another-minecraft-bingo-api",
+      "version": "2.5.0-beta.1"
+    },
+    {
+      "modId": "yet-another-minecraft-bingo-common",
+      "version": "2.5.0-beta.1"
+    },
+    {
+      "modId": "yet-another-minecraft-bingo-placeholders",
+      "version": "2.5.0-beta.1"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.12.0+kotlin.2.0.10"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "org_flywaydb_flyway-core",
+      "version": "10.20.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.2"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.2"
+    },
+    {
+      "modId": "app_cash_sqldelight_jdbc-driver",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "io_insert-koin_koin-core-jvm",
+      "version": "3.5.6"
+    },
+    {
+      "modId": "io_insert-koin_koin-logger-slf4j",
+      "version": "3.5.6"
+    },
+    {
+      "modId": "app_cash_sqldelight_runtime-jvm",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.46.0.0"
+    }
+  ]
+}

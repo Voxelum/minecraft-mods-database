@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lnTa8VO5",
+      "versionId": "8EabCk9U"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1037483,
+      "fileId": 6151827
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoomi",
+      "version": "1.6.1"
+    },
+    {
+      "modId": "owo",
+      "version": "0.12.20+1.21.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 665758,
+      "fileId": 5992074
+    }
+  ],
+  "forge": [
+    {
+      "modId": "combatlog",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "combatlog",
+      "version": "2.1"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.2.0"
+    }
+  ]
+}

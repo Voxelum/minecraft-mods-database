@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "abooMhox",
+      "versionId": "ilGj0jiA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367178,
+      "fileId": 6184918
+    }
+  ],
+  "forge": [
+    {
+      "modId": "treeharvester",
+      "version": "9.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "treeharvester",
+      "version": "9.1"
+    }
+  ]
+}
