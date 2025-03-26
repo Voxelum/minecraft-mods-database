@@ -1,0 +1,28 @@
+{
+  "name": "betterendelytrafix-fabric-1.0.0-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SI5hDEuA",
+      "versionId": "X3fnMhD9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1198262,
+      "fileId": 6181759
+    }
+  ],
+  "forge": [
+    {
+      "modId": "betterendelytrafix",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterendelytrafix",
+      "version": "1.0.0"
+    }
+  ]
+}

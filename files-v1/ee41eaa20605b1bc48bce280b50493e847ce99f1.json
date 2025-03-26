@@ -1,9 +1,28 @@
 {
-  "name": "",
+  "name": "magic_vibe_decorations-2.6.0-fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPAgKQOE",
+      "versionId": "yXiKxAFn"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 900435,
       "fileId": 5834422
+    }
+  ],
+  "forge": [
+    {
+      "modId": "magic_vibe_decorations",
+      "version": "2.6.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "magic_vibe_decorations",
+      "version": "2.6.0"
     }
   ]
 }

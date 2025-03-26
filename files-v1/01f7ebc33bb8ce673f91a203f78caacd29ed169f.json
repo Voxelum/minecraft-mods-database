@@ -1,0 +1,26 @@
+{
+  "name": "basicweapons-1.2.5+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc2Pektv",
+      "versionId": "P2kARD78"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 917144,
+      "fileId": 6060677
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "basicweapons",
+      "version": "1.2.5+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    }
+  ]
+}

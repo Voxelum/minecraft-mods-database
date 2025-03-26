@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XCIMrYn0",
+      "versionId": "5k2kJNGP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880814,
+      "fileId": 6006043
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hearths",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hearths",
+      "version": "1.0.2"
+    }
+  ]
+}

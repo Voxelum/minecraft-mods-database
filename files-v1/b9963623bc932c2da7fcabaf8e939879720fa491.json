@@ -1,6 +1,12 @@
 {
   "name": "katters-structures-only-dungeon-1.10.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VAVLEOBG",
+      "versionId": "32sZpQ1W"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_katters_structuresonlydungeon",

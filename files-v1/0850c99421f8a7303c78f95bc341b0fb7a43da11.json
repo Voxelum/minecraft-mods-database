@@ -1,0 +1,32 @@
+{
+  "name": "yet_another_config_lib_v3-3.6.3+1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "kkPxieHD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 6236533
+    }
+  ],
+  "forge": [
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.3+1.20.1-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.3+1.20.1-fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

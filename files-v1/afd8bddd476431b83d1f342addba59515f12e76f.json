@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5Jf7cW63",
+      "versionId": "3yDtlZTr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sixtyfy",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.5.0+1.21-fabric"
+    }
+  ]
+}

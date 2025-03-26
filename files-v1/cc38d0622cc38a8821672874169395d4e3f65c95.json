@@ -1,0 +1,26 @@
+{
+  "name": "sawmill-1.20-1.4.6-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WRaRZdTd",
+      "versionId": "SSHTQlql"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 964817,
+      "fileId": 6119554
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sawmill",
+      "version": "1.20-1.4.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

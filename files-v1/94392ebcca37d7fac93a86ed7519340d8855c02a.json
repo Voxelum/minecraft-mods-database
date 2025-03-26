@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9LrD18LI",
+      "versionId": "ocUr1Abc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beebuddy",
+      "version": "2.2.1+1.21.1"
+    },
+    {
+      "modId": "mm_shedaniel",
+      "version": "2.4.1"
+    }
+  ]
+}

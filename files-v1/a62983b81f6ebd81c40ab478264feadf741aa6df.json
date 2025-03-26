@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "lodestone-1.20.1-1.6.2.3f-fabric.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "bN3xUWdo",
       "versionId": "IRyjw8OM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 616457,
+      "fileId": 6070172
     }
   ],
   "fabric": [

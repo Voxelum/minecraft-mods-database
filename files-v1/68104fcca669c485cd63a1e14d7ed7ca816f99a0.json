@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "modrinth": [
+    {
+      "projectId": "AANobbMI",
+      "versionId": "fVbw1C7i"
+    }
+  ]
+}
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "0.6.12+mc1.21.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.62+73a52b4b07"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.26+aa6d566c07"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "6.0.0+55bce67a07"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.64+73761d2e07"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.27+86c3a9f107"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.6+02ca679607"
+    }
+  ]
+}
