@@ -102,10 +102,10 @@ async function main() {
     await fs.writeFile(localFile, JSON.stringify(content, null, 2));
   }
 
-  const handle = async (blob) => {
+  const handle = async (containerClient, blob) => {
     const shortBlobname = formatName(blob.name);
     try {
-      const blobClient = events.getBlobClient(blob.name);
+      const blobClient = containerClient.getBlobClient(blob.name);
       const resp = await blobClient.download();
 
       console.log("Processing", shortBlobname);
@@ -149,10 +149,10 @@ async function main() {
   };
 
   const batch = [];
-  const enqueue = async (blob) => {
+  const enqueue = async (client, blob) => {
     batch.push(blob);
     if (batch.length === 32) {
-      await Promise.all(batch.map(handle));
+      await Promise.all(batch.map((b) => handle(client, b)));
       batch.length = 0;
     }
   }
@@ -160,13 +160,13 @@ async function main() {
   const events = client.getContainerClient("am-appevents");
   const eventBlobs = events.listBlobsFlat({});
   for await (const blob of eventBlobs) {
-    await enqueue(blob)
+    await enqueue(events, blob)
   }
 
   const traces = client.getContainerClient("am-apptraces");
   const traceBlobs = traces.listBlobsFlat({});
   for await (const blob of traceBlobs) {
-    await enqueue(blob)
+    await enqueue(traces, blob)
   }
 
   if (batch.length) {
