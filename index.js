@@ -119,7 +119,7 @@ async function main() {
         .map(JSON.parse);
       for (const e of objects) {
         if (e.Name === "resource-metadata-v2") {
-          handleMetadata(e.Properties)
+          await handleMetadata(e.Properties)
         } else if (e.Name === "minecraft-run-record-v2") {
           const props = e.Properties;
           const record = {
@@ -136,7 +136,7 @@ async function main() {
           const key = createHash("sha1").update(rec).digest("hex");
           await fs.writeFile(`./runs-v1/${key}.json`, rec);
         } else if (e.Type === 'AppTraces') {
-          handleMetadata(JSON.parse(e.Message))
+          await handleMetadata(JSON.parse(e.Message))
         }
       }
       console.log("Processed", shortBlobname);
