@@ -165,6 +165,11 @@ async function main() {
     await enqueue(events, blob)
   }
 
+  if (batch.length) {
+    await Promise.all(batch.map(b => handle(events, b)));
+    batch.length = 0;
+  }
+
   const traces = client.getContainerClient("am-apptraces");
   const traceBlobs = traces.listBlobsFlat({});
   for await (const blob of traceBlobs) {
@@ -172,7 +177,8 @@ async function main() {
   }
 
   if (batch.length) {
-    await Promise.all(batch.map(handle));
+    await Promise.all(batch.map(b => handle(traces, b)));
+    batch.length = 0;
   }
 }
 
