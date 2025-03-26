@@ -104,8 +104,8 @@ async function main() {
 
   const handle = async (containerClient, blob) => {
     const shortBlobname = formatName(blob.name);
+    const blobClient = containerClient.getBlobClient(blob.name);
     try {
-      const blobClient = containerClient.getBlobClient(blob.name);
       const resp = await blobClient.download();
 
       console.log("Processing", shortBlobname);
@@ -139,10 +139,12 @@ async function main() {
           handleMetadata(JSON.parse(e.Message))
         }
       }
-
-      await blobClient.delete();
       console.log("Processed", shortBlobname);
+      await blobClient.delete();
     } catch (e) {
+      if (e instanceof SyntaxError) {
+        await blobClient.delete();
+      }
       console.error("Failed to process blob", shortBlobname);
       console.error(e);
     }
