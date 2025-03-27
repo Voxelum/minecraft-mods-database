@@ -1,9 +1,16 @@
 {
-  "name": "",
+  "name": "lithium-fabric-0.15.0+mc1.21.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "gvQqBUqZ",
       "versionId": "MM5BBBOK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lithium",
+      "version": "0.15.0+mc1.21.1"
     }
   ]
 }

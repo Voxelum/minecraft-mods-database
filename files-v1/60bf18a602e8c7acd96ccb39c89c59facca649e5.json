@@ -1,0 +1,28 @@
+{
+  "name": "ValkyrienPirates-1.4.2-forge.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jv8hXuHT",
+      "versionId": "UBUkO4y5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1012074,
+      "fileId": 6081263
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pirates",
+      "version": "1.4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pirates",
+      "version": "1.4.2-forge"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "carpet-tis-addition-mc1.19.4-v1.46.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 397510,
+      "fileId": 4441719
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carpet-tis-addition",
+      "version": "1.46.1"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.3.2"
+    }
+  ]
+}

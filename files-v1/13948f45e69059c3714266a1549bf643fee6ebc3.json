@@ -1,6 +1,12 @@
 {
   "name": "BetterAdvancements-1.12.2-0.1.0.77.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q2OqKxDG",
+      "versionId": "TanCG0k3"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 272515,
@@ -8,12 +14,6 @@
     }
   ],
   "forge": [
-    {
-      "modId": "betteradvancements",
-      "version": "0.1.0.77"
-    }
-  ]
-} "forge": [
     {
       "modId": "betteradvancements",
       "version": "0.1.0.77"

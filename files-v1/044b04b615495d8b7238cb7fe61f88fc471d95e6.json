@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J1ueTDcI",
+      "versionId": "NEIuX08d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 489631,
+      "fileId": 5921369
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fuelinfo",
+      "version": "2.1+1.21.3"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.1+1.21.2-fabric"
+    }
+  ]
+}

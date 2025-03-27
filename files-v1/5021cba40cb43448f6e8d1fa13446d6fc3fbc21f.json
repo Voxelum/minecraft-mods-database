@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nFGkhDLP",
+      "versionId": "3imjxjvJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1170030,
+      "fileId": 6304912
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spoticraft",
+      "version": "1.21.4-0.0.1-release-fabric"
+    },
+    {
+      "modId": "org_apache_httpcomponents_client5_httpclient5",
+      "version": "5.4.1"
+    },
+    {
+      "modId": "org_apache_httpcomponents_client5_httpclient5-cache",
+      "version": "5.4.1"
+    },
+    {
+      "modId": "org_apache_httpcomponents_core5_httpcore5",
+      "version": "5.3.1"
+    },
+    {
+      "modId": "org_apache_httpcomponents_core5_httpcore5-h2",
+      "version": "5.3.1"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20231013"
+    },
+    {
+      "modId": "org_nanohttpd_nanohttpd",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "com_neovisionaries_nv-i18n",
+      "version": "1.28"
+    },
+    {
+      "modId": "se_michaelthelin_spotify_spotify-web-api-java",
+      "version": "9.1.0"
+    }
+  ]
+}

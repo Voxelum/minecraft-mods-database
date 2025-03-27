@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yGr5XHdT",
+      "versionId": "eefMKaCD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1117070,
+      "fileId": 6139636
+    }
+  ],
+  "forge": [
+    {
+      "modId": "feur_extension_fossil",
+      "version": "1.2.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feur_extension_fossil",
+      "version": "1.2.6"
+    }
+  ]
+}

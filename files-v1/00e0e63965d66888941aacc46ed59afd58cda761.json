@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "fhgGxSe0"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "journeymap",
+      "version": "1.21.1-6.0.0-beta.39"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap-wrongloader",
+      "version": "not a fabric mod"
+    }
+  ]
+}

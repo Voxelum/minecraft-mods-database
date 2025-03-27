@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "8BmcQJ2H",
       "versionId": "PEvrTvgj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 6304945
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geckolib",
+      "version": "4.7.5.1"
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EwPIWPJ9",
+      "versionId": "khF38I1i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632420,
+      "fileId": 5945146
+    }
+  ],
   "fabric": [
     {
       "modId": "dynamiccrosshaircompat",

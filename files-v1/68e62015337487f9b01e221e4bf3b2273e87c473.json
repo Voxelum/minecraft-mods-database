@@ -1,0 +1,28 @@
+{
+  "name": "lambdynamiclights-4.0.2+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "ydDtxHg4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.0.2+1.21.1"
+    },
+    {
+      "modId": "lambdynlights_api",
+      "version": "4.0.2+1.21.1"
+    },
+    {
+      "modId": "pride",
+      "version": "1.2.1+1.21"
+    },
+    {
+      "modId": "spruceui",
+      "version": "6.2.1+1.21"
+    }
+  ]
+}

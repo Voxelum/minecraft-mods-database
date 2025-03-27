@@ -1,0 +1,22 @@
+{
+  "name": "lootintegration_townsandtowers-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1152732,
+      "fileId": 6176512
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegration_townsandtowers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegration_townsandtowers",
+      "version": "1"
+    }
+  ]
+}

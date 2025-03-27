@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_dnt-2.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1139414,
+      "fileId": 6168822
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_dnt",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_dnt",
+      "version": "1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "controlify-2.0.2+1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOUdJVEm",
+      "versionId": "q36RRQc8"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "controlify",
+      "version": "2.0.2+1.21-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "2.0.2+1.21-fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.4"
+    }
+  ]
+}

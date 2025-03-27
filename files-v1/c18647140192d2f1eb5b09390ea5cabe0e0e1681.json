@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "ddjmgf0b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686911,
+      "fileId": 6312395
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immediatelyfast",
+      "version": "1.8.0+1.21.4"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.4"
+    }
+  ]
+}

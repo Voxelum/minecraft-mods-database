@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "5XsQ3Xbt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.5.5"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.1.4+1.21.4"
+    }
+  ]
+}
