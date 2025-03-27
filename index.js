@@ -18,89 +18,90 @@ async function streamToBuffer(readableStream) {
 const parseIfExist = (v) => (v ? JSON.parse(v) : undefined);
 
 const formatName = (n) => n.substring('WorkspaceResourceId=/subscriptions/d3076e5f-e198-4e44-a689-837848a5f2be/resourcegroups/xmcl/providers/microsoft.operationalinsights/workspaces/'.length)
+
+const handleMetadata = async (metadata) => {
+  const { name, sha1, domain, modrinth, curseforge, forge, fabric } =
+    metadata;
+  const localFile = `./files-v1/${sha1}.json`;
+  if (!sha1) return;
+  const localContent = await fs
+    .readFile(localFile, "utf-8")
+    .then(JSON.parse)
+    .catch(() => ({}));
+  const mergeForge = (old, newContent) => {
+    if (!newContent) return old;
+    if (!old) return [newContent];
+    const existed = old.find(
+      (v) =>
+        v.modId === newContent.modId && v.version === newContent.version
+    );
+    if (!existed) {
+      old.push(newContent);
+    }
+    return old;
+  };
+  const mergeCurseforge = (old, newContent) => {
+    if (!newContent) return old;
+    if (!old) return [newContent];
+    const existed = old.find(
+      (v) =>
+        v.projectId === newContent.projectId &&
+        v.fileId === newContent.fileId
+    );
+    if (!existed) {
+      old.push(newContent);
+    }
+    return old;
+  };
+  const mergeModrinth = (old, newContent) => {
+    if (!newContent) return old;
+    if (!old) return [newContent];
+    const existed = old.find(
+      (v) =>
+        v.projectId === newContent.projectId &&
+        v.versionId === newContent.versionId
+    );
+    if (!existed) {
+      old.push(newContent);
+    }
+    return old;
+  };
+  const mergeFabric = (old, newContent) => {
+    if (!newContent) return old;
+    if (!old) return newContent;
+    for (const c of newContent) {
+      const existed = old.find(
+        (v) => v.modId === c.modId && v.version === c.version
+      );
+      if (!existed) {
+        old.push(...newContent);
+      }
+    }
+    return old;
+  };
+
+  // Merge local content
+  const content = {
+    name: localContent.name || name,
+    domain: domain || localContent.domain,
+    modrinth: mergeModrinth(
+      localContent.modrinth,
+      parseIfExist(modrinth)
+    ),
+    curseforge: mergeCurseforge(
+      localContent.curseforge,
+      parseIfExist(curseforge)
+    ),
+    forge: mergeForge(localContent.forge, parseIfExist(forge)),
+    fabric: mergeFabric(localContent.fabric, parseIfExist(fabric)),
+  };
+  await fs.writeFile(localFile, JSON.stringify(content, null, 2));
+}
+
 async function main() {
   const connectionString =
     process.env.AZURE_STORAGE_CONNECTION_STRING;
   const client = BlobServiceClient.fromConnectionString(connectionString);
-
-  const handleMetadata = async (metadata) => {
-    const { name, sha1, domain, modrinth, curseforge, forge, fabric } =
-      metadata;
-    const localFile = `./files-v1/${sha1}.json`;
-    if (!sha1) return;
-    const localContent = await fs
-      .readFile(localFile, "utf-8")
-      .then(JSON.parse)
-      .catch(() => ({}));
-    const mergeForge = (old, newContent) => {
-      if (!newContent) return old;
-      if (!old) return [newContent];
-      const existed = old.find(
-        (v) =>
-          v.modId === newContent.modId && v.version === newContent.version
-      );
-      if (!existed) {
-        old.push(newContent);
-      }
-      return old;
-    };
-    const mergeCurseforge = (old, newContent) => {
-      if (!newContent) return old;
-      if (!old) return [newContent];
-      const existed = old.find(
-        (v) =>
-          v.projectId === newContent.projectId &&
-          v.fileId === newContent.fileId
-      );
-      if (!existed) {
-        old.push(newContent);
-      }
-      return old;
-    };
-    const mergeModrinth = (old, newContent) => {
-      if (!newContent) return old;
-      if (!old) return [newContent];
-      const existed = old.find(
-        (v) =>
-          v.projectId === newContent.projectId &&
-          v.versionId === newContent.versionId
-      );
-      if (!existed) {
-        old.push(newContent);
-      }
-      return old;
-    };
-    const mergeFabric = (old, newContent) => {
-      if (!newContent) return old;
-      if (!old) return newContent;
-      for (const c of newContent) {
-        const existed = old.find(
-          (v) => v.modId === c.modId && v.version === c.version
-        );
-        if (!existed) {
-          old.push(...newContent);
-        }
-      }
-      return old;
-    };
-
-    // Merge local content
-    const content = {
-      name: localContent.name || name,
-      domain: domain || localContent.domain,
-      modrinth: mergeModrinth(
-        localContent.modrinth,
-        parseIfExist(modrinth)
-      ),
-      curseforge: mergeCurseforge(
-        localContent.curseforge,
-        parseIfExist(curseforge)
-      ),
-      forge: mergeForge(localContent.forge, parseIfExist(forge)),
-      fabric: mergeFabric(localContent.fabric, parseIfExist(fabric)),
-    };
-    await fs.writeFile(localFile, JSON.stringify(content, null, 2));
-  }
 
   const handle = async (containerClient, blob) => {
     const shortBlobname = formatName(blob.name);
@@ -136,7 +137,7 @@ async function main() {
           const key = createHash("sha1").update(rec).digest("hex");
           await fs.writeFile(`./runs-v1/${key}.json`, rec);
         } else if (e.Type === 'AppTraces') {
-          await handleMetadata(JSON.parse(e.Message))
+          await handleMetadata(e.Message)
         }
       }
       console.log("Processed", shortBlobname);
