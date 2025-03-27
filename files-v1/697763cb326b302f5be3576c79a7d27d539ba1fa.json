@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DCWEXia7",
+      "versionId": "4CE9XdAG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010757,
+      "fileId": 6317367
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "astrocraft",
+      "version": "1.5.0-beta+1.21.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    }
+  ]
+}

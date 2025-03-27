@@ -1,0 +1,22 @@
+{
+  "name": "pv-addon-spectator-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bZwNKr3n",
+      "versionId": "ugWqtFbc"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pv_addon_spectator",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pv-addon-spectator",
+      "version": "1.1.0"
+    }
+  ]
+}

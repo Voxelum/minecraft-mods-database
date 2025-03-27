@@ -1,6 +1,18 @@
 {
   "name": "portalsgui-1.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kc2GyRHY",
+      "versionId": "abh53vCz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 646607,
+      "fileId": 3960495
+    }
+  ],
   "forge": [
     {
       "modId": "portalsgui",

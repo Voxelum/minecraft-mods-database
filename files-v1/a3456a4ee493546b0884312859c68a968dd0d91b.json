@@ -1,0 +1,32 @@
+{
+  "name": "sodiumextras-fabric-1.0.7-1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vqqx0QiE",
+      "versionId": "q8C5e9OZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558905,
+      "fileId": 6041698
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumextras",
+      "version": "1.0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumextras",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.4.1"
+    }
+  ]
+}

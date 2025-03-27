@@ -1,12 +1,16 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "AANobbMI",
       "versionId": "fVbw1C7i"
     }
-  ]
-}
+  ],
+  "curseforge": [
+    {
+      "projectId": 394468,
+      "fileId": 6348518
     }
   ],
   "fabric": [

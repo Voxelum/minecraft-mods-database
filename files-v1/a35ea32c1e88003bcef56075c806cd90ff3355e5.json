@@ -1,0 +1,148 @@
+{
+  "name": "ViaFabricPlus-4.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rIC2XJV4",
+      "versionId": "uEQzm8Tz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabricplus",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "de_florianmichael_classic4j",
+      "version": "2.1.1-SNAPSHOT"
+    },
+    {
+      "modId": "com_github_oryxel_cubeconverter",
+      "version": "25bc6ce1b1"
+    },
+    {
+      "modId": "net_lenni0451_mcping",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "net_raphimc_minecraftauth",
+      "version": "4.1.1"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "net_raphimc_viabedrock",
+      "version": "0.0.14-20241220.132943-7"
+    },
+    {
+      "modId": "net_raphimc_vialegacy",
+      "version": "3.0.7"
+    },
+    {
+      "modId": "net_jodah_expiringmap",
+      "version": "0.5.10"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.53+453d4f9104"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.40+e496eb1504"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.5.3+bf2a60eb04"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.3.8+cc0fa2fe04"
+    },
+    {
+      "modId": "fabric-particles-v1",
+      "version": "4.0.13+7feeb73304"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "6.1.0+9ba00ebb04"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.11+b1caf1e904"
+    },
+    {
+      "modId": "net_lenni0451_mcstructs-bedrock_forms",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "net_lenni0451_commons_httpclient",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "io_jsonwebtoken_jjwt-api",
+      "version": "0.12.6"
+    },
+    {
+      "modId": "io_jsonwebtoken_jjwt-gson",
+      "version": "0.12.6"
+    },
+    {
+      "modId": "io_jsonwebtoken_jjwt-impl",
+      "version": "0.12.6"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "org_lz4_lz4-pure-java",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.116"
+    },
+    {
+      "modId": "org_cloudburstmc_netty_netty-transport-raknet",
+      "version": "1.0.0.CR3-SNAPSHOT"
+    },
+    {
+      "modId": "com_vdurmont_semver4j",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "net_lenni0451_mcstructs-bedrock_text",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "com_viaversion_viaaprilfools-common",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "com_viaversion_viabackwards-common",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "viafabricplus-api",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "viafabricplus-api-legacy",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "viafabricplus-visuals",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "com_viaversion_vialoader",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "com_viaversion_viaversion-common",
+      "version": "5.2.1"
+    }
+  ]
+}

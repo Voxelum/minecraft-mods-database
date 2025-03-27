@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bbGCtEvb",
+      "versionId": "DBV5WhLf"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armorstatues",
+      "version": "21.4.0"
+    },
+    {
+      "modId": "statuemenus",
+      "version": "21.4.0"
+    }
+  ]
+}

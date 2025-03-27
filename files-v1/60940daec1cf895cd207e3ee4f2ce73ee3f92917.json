@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "93jUghXD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393442,
+      "fileId": 6320356
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.1.0+1.21.3"
+    },
+    {
+      "modId": "lambdynlights_api",
+      "version": "4.1.0+1.21.3"
+    },
+    {
+      "modId": "pride",
+      "version": "1.3.0+1.21.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "6.2.2+1.21.4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "simple-rpc-1.12.2-2.7.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 3583527
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simple-rpc",
+      "version": "@VERSION@"
+    }
+  ]
+}

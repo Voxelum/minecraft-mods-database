@@ -1,0 +1,28 @@
+{
+  "name": "EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KjL0jE2w",
+      "versionId": "m3cjYtkA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255389,
+      "fileId": 6192498
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.8.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.8.1"
+    }
+  ]
+}
