@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JsjifJaW",
+      "versionId": "w8DGrwtG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flashside",
+      "version": "0.4.0+1.21.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

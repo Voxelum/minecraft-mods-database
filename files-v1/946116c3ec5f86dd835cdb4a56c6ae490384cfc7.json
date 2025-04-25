@@ -1,0 +1,28 @@
+{
+  "name": "item-glow-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TvzUO7K3",
+      "versionId": "7fiEJlrf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1201249,
+      "fileId": 6197485
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_item_glow",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_item_glow",
+      "version": "1.0.0"
+    }
+  ]
+}

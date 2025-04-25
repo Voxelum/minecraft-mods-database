@@ -1,6 +1,18 @@
 {
   "name": "ezwastelands-1.12-1.3.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OWiz3iWn",
+      "versionId": "gVsHT7BN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237662,
+      "fileId": 2515894
+    }
+  ],
   "forge": [
     {
       "modId": "ezwastelands",

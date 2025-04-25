@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_cataclysm-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1134260,
+      "fileId": 6168640
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_cataclysm",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_cataclysm",
+      "version": "1"
+    }
+  ]
+}

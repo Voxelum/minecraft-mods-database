@@ -1,6 +1,18 @@
 {
   "name": "NoMoreUnderwaterDismount-1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SYMTwz5D",
+      "versionId": "7s02FW6u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 702585,
+      "fileId": 4112174
+    }
+  ],
   "fabric": [
     {
       "modId": "nomoreunderwaterdismount",

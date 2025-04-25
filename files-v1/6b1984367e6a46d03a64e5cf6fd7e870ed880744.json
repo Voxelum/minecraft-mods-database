@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "wits-1.4.0+1.21.3-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AVo2esap",
+      "versionId": "a08hvXfp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 909375,
+      "fileId": 5847531
+    }
+  ],
   "fabric": [
     {
       "modId": "wits",

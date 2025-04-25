@@ -1,0 +1,30 @@
+{
+  "name": "CraftTweaker-fabric-1.21.1-21.0.24.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xg35A4rS",
+      "versionId": "tMjCzEkQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 239197,
+      "fileId": 6256164
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crafttweaker",
+      "version": "21.0.24"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.29.0-GA"
+    }
+  ]
+}

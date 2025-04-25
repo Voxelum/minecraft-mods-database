@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "12LahGY4",
+      "versionId": "Mob6MnIN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "azusaconfig",
+      "version": "0.1.1+mc1.20.1"
+    },
+    {
+      "modId": "org_quiltmc_quilt-config",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.2.0"
+    }
+  ]
+}

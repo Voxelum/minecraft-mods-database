@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d1ItuIJe",
+      "versionId": "zgc23r45"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962362,
+      "fileId": 5348881
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fluxnetworks",
+      "version": "1.20.1-7.2.8.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "simple-chunk-manager",
+      "version": "0.2.7"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.5-beta.24+1.20.1"
+    },
+    {
+      "modId": "porting_lib_config",
+      "version": "2.3.5-beta.24+1.20.1"
+    }
+  ]
+}

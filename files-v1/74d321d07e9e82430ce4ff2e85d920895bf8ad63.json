@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6e2SlzR4",
+      "versionId": "YMXchJo7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923277,
+      "fileId": 6138186
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "garnished",
+      "version": "2.0.7+1.20.1-fabric"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "7.0.3"
+    }
+  ]
+}

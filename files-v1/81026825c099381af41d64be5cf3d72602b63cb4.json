@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "structurecredits-2.2.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "9VEHG3zg",
       "versionId": "Ui4BFyU5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 978221,
+      "fileId": 6095569
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "structurecredits",
+      "version": "2.2.1"
     }
   ]
 }

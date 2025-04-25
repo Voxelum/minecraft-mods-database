@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pswg",
+      "version": "0.0.91+1.19.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    },
+    {
+      "modId": "libzoomer",
+      "version": "0.4.4+1.19.2"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.4.1"
+    }
+  ]
+}

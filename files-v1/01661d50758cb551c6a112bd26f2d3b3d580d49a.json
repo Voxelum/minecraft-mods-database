@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWwn7s9U",
+      "versionId": "7QESwGii"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347921,
+      "fileId": 6185936
+    }
+  ],
+  "forge": [
+    {
+      "modId": "giantspawn",
+      "version": "5.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "giantspawn",
+      "version": "5.3"
+    }
+  ]
+}

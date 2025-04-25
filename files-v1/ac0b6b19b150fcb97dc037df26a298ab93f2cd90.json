@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "Muu5nGmj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393236,
+      "fileId": 6164574
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "patchouli",
+      "version": "1.20.1-84.1-FABRIC"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "death_knights-fabric-1.0.0-1.20.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "2EQER1gD",
       "versionId": "3uS9blRi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968119,
+      "fileId": 6109209
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "death_knights",
+      "version": "1.0.0"
     }
   ]
 }

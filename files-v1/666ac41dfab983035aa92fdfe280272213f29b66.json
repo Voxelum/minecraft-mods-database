@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgE29Asl",
+      "versionId": "wuMxIfh1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1020461,
+      "fileId": 5392091
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advanced_skills",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "renderer",
+      "version": "1.0"
+    }
+  ]
+}

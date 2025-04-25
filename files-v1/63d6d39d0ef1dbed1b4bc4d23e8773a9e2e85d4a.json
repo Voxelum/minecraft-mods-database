@@ -1,0 +1,28 @@
+{
+  "name": "beautifiedchatclient-1.20.1-2.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mtIxmNw5",
+      "versionId": "7hR11cdx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514797,
+      "fileId": 6186472
+    }
+  ],
+  "forge": [
+    {
+      "modId": "beautifiedchatclient",
+      "version": "2.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beautifiedchatclient",
+      "version": "2.7"
+    }
+  ]
+}

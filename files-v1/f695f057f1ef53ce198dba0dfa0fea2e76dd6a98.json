@@ -1,6 +1,12 @@
 {
   "name": "thermal_expansion-1.16.4-1.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 69163,
+      "fileId": 3247000
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_expansion",

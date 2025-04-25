@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNxdLCoP",
+      "versionId": "i3szHJcZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423254,
+      "fileId": 6019690
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

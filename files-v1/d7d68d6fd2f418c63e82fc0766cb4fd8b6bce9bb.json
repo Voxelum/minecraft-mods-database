@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vqqx0QiE",
+      "versionId": "YPgAqjpx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 558905,
+      "fileId": 6407727
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumextras",
+      "version": "1.0.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumextras",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.4.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

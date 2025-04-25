@@ -1,6 +1,18 @@
 {
   "name": "inline-fabric-1.20.1-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fin1PX4m",
+      "versionId": "Bskomaui"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 971167,
+      "fileId": 5937019
+    }
+  ],
   "fabric": [
     {
       "modId": "inline",

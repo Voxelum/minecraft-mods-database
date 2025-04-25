@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HJetCzWo",
+      "versionId": "zgrq8R2H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038103,
+      "fileId": 6195372
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farm_and_charm",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.136"
+    }
+  ]
+}

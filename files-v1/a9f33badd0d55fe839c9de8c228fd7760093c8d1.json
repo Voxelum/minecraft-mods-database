@@ -1,0 +1,28 @@
+{
+  "name": "Woodlands_Vanilla-Universal-1.21.1-v1.2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OjcLiatI",
+      "versionId": "CPOfAhL7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1130703,
+      "fileId": 6027174
+    }
+  ],
+  "forge": [
+    {
+      "modId": "woodlands_vanilla",
+      "version": "1.21.1-1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "woodlands_vanilla",
+      "version": "1.21.1-1.2.2"
+    }
+  ]
+}

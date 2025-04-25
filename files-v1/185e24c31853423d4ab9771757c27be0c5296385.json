@@ -1,0 +1,28 @@
+{
+  "name": "CreateUnbreakableTools-1.7+fabric-1.20.1-build.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bzzq7Auj",
+      "versionId": "PuecLWJG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 963802,
+      "fileId": 6269088
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_unbreakable",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_unbreakable",
+      "version": "1.7+fabric-1.20.1-build.9"
+    }
+  ]
+}

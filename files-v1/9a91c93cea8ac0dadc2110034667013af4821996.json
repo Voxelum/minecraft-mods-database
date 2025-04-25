@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "redpanda-fabric-1.21.4-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1l7Rzc6k",
+      "versionId": "rQSVjNtK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623035,
+      "fileId": 5978081
+    }
+  ],
   "fabric": [
     {
       "modId": "ydms_redpanda",

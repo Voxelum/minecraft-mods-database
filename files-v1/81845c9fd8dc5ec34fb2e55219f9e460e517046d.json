@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NLV0Mnpu",
+      "versionId": "B01OjFjZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vaultpatcher",
+      "version": "1.4.4+1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

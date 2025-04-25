@@ -1,0 +1,32 @@
+{
+  "name": "appliedenergistics2-fabric-15.3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XxWD5pD3",
+      "versionId": "Fb70Efd1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 223794,
+      "fileId": 6087980
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ae2",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ae2",
+      "version": "15.3.3"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

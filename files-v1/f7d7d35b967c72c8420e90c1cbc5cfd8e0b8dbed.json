@@ -1,0 +1,26 @@
+{
+  "name": "NetherChested-v21.4.0-1.21.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bHJp2GRg",
+      "versionId": "k0Rerrst"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857971,
+      "fileId": 6167956
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netherchested",
+      "version": "21.4.0"
+    },
+    {
+      "modId": "limitlesscontainers",
+      "version": "21.4.0"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 391366,
+      "fileId": 3169629
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "repurposed_structures",
+      "version": "1.16.4-1.7.4"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "4.8.2"
+    },
+    {
+      "modId": "autoconfig1u",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "voyager",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "angerable-patch",
+      "version": "1.1.0-1.16.4"
+    }
+  ]
+}

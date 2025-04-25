@@ -1,0 +1,24 @@
+{
+  "name": "ChiseledBookshelfVisualizer-4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 913857,
+      "fileId": 6005386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chiseled-bookshelf-visualizer",
+      "version": "4.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.19+1.21.4"
+    },
+    {
+      "modId": "com_github_fracpete_romannumerals4j",
+      "version": "0.0.1"
+    }
+  ]
+}

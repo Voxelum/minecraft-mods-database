@@ -1,0 +1,26 @@
+{
+  "name": "drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v3CYg2V9",
+      "versionId": "nIQb1yEH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 511770,
+      "fileId": 6412204
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "drippyloadingscreen",
+      "version": "3.0.12"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.2"
+    }
+  ]
+}

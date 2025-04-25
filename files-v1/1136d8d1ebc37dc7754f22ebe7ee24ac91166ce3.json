@@ -1,0 +1,22 @@
+{
+  "name": "smoothchunk-fabric-1.20.1-4.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 582327,
+      "fileId": 6296630
+    }
+  ],
+  "forge": [
+    {
+      "modId": "smoothchunk",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothchunk",
+      "version": "1.20.1-4.1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "coroutil-fabric-1.21.4-1.3.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rLLJ1OZM",
+      "versionId": "kGU8LxQf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 237749,
+      "fileId": 6325054
+    }
+  ],
+  "forge": [
+    {
+      "modId": "coroutil",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coroutil",
+      "version": "1.21.4-1.3.8"
+    },
+    {
+      "modId": "fabric-api",
+      "version": "0.111.0+1.21.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.3.3"
+    }
+  ]
+}

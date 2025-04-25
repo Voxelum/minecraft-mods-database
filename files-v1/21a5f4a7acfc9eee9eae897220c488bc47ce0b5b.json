@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4das1Fjq",
+      "versionId": "qZXZW2KF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1171079,
+      "fileId": 6049673
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flashback",
+      "version": "0.16.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    }
+  ]
+}

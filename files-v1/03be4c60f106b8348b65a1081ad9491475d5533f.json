@@ -1,0 +1,34 @@
+{
+  "name": "IceAndFireCE-1.0.2-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpmCsizY",
+      "versionId": "69qoQYCo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040076,
+      "fileId": 6395039
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iceandfire",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "here-be-no-dragons",
+      "version": "1.0.0"
+    }
+  ]
+}

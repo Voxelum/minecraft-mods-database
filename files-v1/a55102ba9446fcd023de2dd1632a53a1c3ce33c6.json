@@ -1,6 +1,18 @@
 {
   "name": "[蜘蛛吐网]spidersproducewebs_1.16.5-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NoznOJXq",
+      "versionId": "7BhxZvKv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345298,
+      "fileId": 3379769
+    }
+  ],
   "forge": [
     {
       "modId": "spidersproducewebs",

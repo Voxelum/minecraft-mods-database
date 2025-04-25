@@ -1,0 +1,56 @@
+{
+  "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 508933,
+      "fileId": 6387718
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.3.2-b"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.62+73a52b4b07"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.49+73a52b4b07"
+    },
+    {
+      "modId": "fabric-entity-events-v1",
+      "version": "2.0.25+27c1078f07"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "4.0.13+73a52b4b07"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.63+ecf51cdc07"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.5.13+5cbce67307"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.4.0+f3ffa98907"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "11.1.11+081cc04307"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.6+02ca679607"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.46+86c3a9f107"
+    }
+  ]
+}

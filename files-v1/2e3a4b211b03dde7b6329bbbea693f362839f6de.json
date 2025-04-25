@@ -1,9 +1,16 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "5WwmqQHF",
       "versionId": "wgLbAKJk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobblemon-ui-tweaks",
+      "version": "1.0.7"
     }
   ]
 }

@@ -1,0 +1,166 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "liquidbounce",
+      "version": "0.28.2"
+    },
+    {
+      "modId": "com_github_ccbluex_discordipc",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "org_ahocorasick_ahocorasick",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "ai_djl_api",
+      "version": "0.32.0"
+    },
+    {
+      "modId": "com_thealtening_api_api",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "org_graalvm_tools_chromeinspector-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_sdk_collections",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_tools_coverage-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_tools_dap-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_shadowed_icu4j",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_tools_insight-heap-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_tools_insight-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_sdk_jniutils",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_js_js-language",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_shadowed_json",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-common",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "com_kohlschutter_junixsocket_junixsocket-native-common",
+      "version": "2.8.3"
+    },
+    {
+      "modId": "org_graalvm_tools_lsp-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_tools_lsp_api",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_github_ccbluex_mc-authlib",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "mcef",
+      "version": "3.0.7-1.21.4"
+    },
+    {
+      "modId": "org_graalvm_sdk_nativeimage",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "io_netty_netty-codec-http",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "io_netty_netty-codec-socks",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "io_netty_netty-handler-proxy",
+      "version": "4.1.97"
+    },
+    {
+      "modId": "com_github_ccbluex_netty-httpserver",
+      "version": "2.1.1"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "5.0.0-alpha.14"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.9.0"
+    },
+    {
+      "modId": "org_graalvm_polyglot_polyglot",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_tools_profiler-tool",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "ai_djl_pytorch_pytorch-engine",
+      "version": "0.32.0"
+    },
+    {
+      "modId": "org_graalvm_regex_regex",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "com_vdurmont_semver4j",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "org_apache_tika_tika-core",
+      "version": "2.9.2"
+    },
+    {
+      "modId": "net_fabricmc_tiny-mappings-parser",
+      "version": "0.3.0+build.17"
+    },
+    {
+      "modId": "org_graalvm_truffle_truffle-api",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_truffle_truffle-compiler",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_truffle_truffle-runtime",
+      "version": "24.0.2"
+    },
+    {
+      "modId": "org_graalvm_sdk_word",
+      "version": "24.0.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZouiUX7t",
+      "versionId": "I4UiUTRG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 925889,
+      "fileId": 6404363
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sounds",
+      "version": "2.4.11+1.21.4+fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-rc.1"
+    }
+  ]
+}

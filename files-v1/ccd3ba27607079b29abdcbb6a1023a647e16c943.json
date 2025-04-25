@@ -1,0 +1,26 @@
+{
+  "name": "critterarmory-1.21.4-0.6.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eDysihLO",
+      "versionId": "G5h6zwgh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1198794,
+      "fileId": 6319999
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "critterarmory",
+      "version": "1.21.4-0.6.0-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "9.2.7-fabric"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "seasonhud",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.12.4"
+    }
+  ]
+}

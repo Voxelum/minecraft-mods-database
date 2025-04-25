@@ -1,0 +1,30 @@
+{
+  "name": "Incapacitated-fabric-1.20.1-1.9.3LTS.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CmDgNtOI",
+      "versionId": "DDhQxn8s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 528135,
+      "fileId": 6078220
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "incapacitated",
+      "version": "1.9.3LTS"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

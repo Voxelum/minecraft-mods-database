@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "16vhQOQN",
+      "versionId": "4C2SmCNo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minimotd-fabric",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "5.14.0"
+    }
+  ]
+}

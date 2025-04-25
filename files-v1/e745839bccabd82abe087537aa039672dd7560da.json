@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 552542,
+      "fileId": 6328334
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vmp",
+      "version": "0.2.0+beta.7.192+1.21.4"
+    },
+    {
+      "modId": "com_ibm_async_asyncutil",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pcPXJeZi",
+      "versionId": "ZV1N3Ikr"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "effective",
+      "version": "2.4.8-1.21.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    },
+    {
+      "modId": "satin",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "veil",
+      "version": "1.0.0.85"
+    }
+  ]
+}

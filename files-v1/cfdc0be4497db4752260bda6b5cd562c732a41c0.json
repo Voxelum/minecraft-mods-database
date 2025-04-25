@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "Ping-Wheel-1.10.1-fabric-1.21.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "QQXAdCzh",
       "versionId": "zwiixgOF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 734339,
+      "fileId": 6080318
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ping-wheel",
+      "version": "1.10.1"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "overgrowth-1.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 714353,
+      "fileId": 6153566
+    }
+  ],
+  "forge": [
+    {
+      "modId": "overgrowth",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

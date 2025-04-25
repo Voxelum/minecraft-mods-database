@@ -1,0 +1,28 @@
+{
+  "name": "createcobblestone-1.4.4+fabric-1.20.1-95.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ihpnEd80",
+      "versionId": "VEhxPD2J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1023532,
+      "fileId": 6250720
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createcobblestone",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createcobblestone",
+      "version": "1.4.4+fabric-1.20.1-95"
+    }
+  ]
+}

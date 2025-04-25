@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "modpack-update-checker",
+      "version": "0.15.4"
+    },
+    {
+      "modId": "mpuc_lavendermd",
+      "version": "0.1.2"
+    }
+  ]
+}

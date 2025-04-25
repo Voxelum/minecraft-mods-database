@@ -1,0 +1,22 @@
+{
+  "name": "planets+-bv1.7.5-1.20x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NfrID7Y9",
+      "versionId": "joMq8m0L"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "planetsplus",
+      "version": "0.7.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "planetsplus",
+      "version": "BV1.7.5"
+    }
+  ]
+}

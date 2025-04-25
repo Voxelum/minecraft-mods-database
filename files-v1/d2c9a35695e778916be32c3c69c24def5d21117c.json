@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "bulktrade-1.0.0.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "gM34U4xh",
       "versionId": "E2HiAXZr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1102382,
+      "fileId": 5721495
     }
   ],
   "forge": [

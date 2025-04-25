@@ -1,6 +1,12 @@
 {
   "name": "auginter-1.1.0-1.12.x.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 265692,
+      "fileId": 2520090
+    }
+  ],
   "forge": [
     {
       "modId": "auginter",

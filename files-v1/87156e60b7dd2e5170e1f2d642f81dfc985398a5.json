@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DFqQfIBR",
+      "versionId": "rIxgz1RB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 297038,
+      "fileId": 6354144
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftpresence",
+      "version": "2.5.4"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+1802ada577"
+    }
+  ]
+}

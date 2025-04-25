@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HsEWU7cz",
+      "versionId": "TpiUJZ7W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1113256,
+      "fileId": 6022160
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craft_of_the_wild",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.3"
+    }
+  ]
+}

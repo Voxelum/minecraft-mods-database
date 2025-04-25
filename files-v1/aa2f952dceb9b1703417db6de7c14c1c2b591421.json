@@ -1,9 +1,46 @@
 {
-  "name": "",
+  "name": "aether-1.21.1-1.5.6-fabric.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "YhmgMVyu",
       "versionId": "bCmdnolT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255308,
+      "fileId": 6301515
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aether",
+      "version": "1.5.6"
+    },
+    {
+      "modId": "cumulus_menus",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.1"
+    },
+    {
+      "modId": "nitrogen_internals",
+      "version": "1.1.21"
+    },
+    {
+      "modId": "mm_shedaniel",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.3"
+    },
+    {
+      "modId": "accessories",
+      "version": "1.1.0-beta.16+1.21.1"
     }
   ]
 }

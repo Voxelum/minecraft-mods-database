@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gRn1FzwR",
+      "versionId": "gBCTQ0w8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 569765,
+      "fileId": 6048170
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mobfilter",
+      "version": "0.11.2+1.21.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.1"
+    }
+  ]
+}

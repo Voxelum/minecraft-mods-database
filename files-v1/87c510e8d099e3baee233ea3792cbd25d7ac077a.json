@@ -1,6 +1,12 @@
 {
   "name": "venus-mc1.19.4-0.0.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 939004,
+      "fileId": 4873999
+    }
+  ],
   "forge": [
     {
       "modId": "venus",

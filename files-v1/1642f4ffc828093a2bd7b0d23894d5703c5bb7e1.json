@@ -1,6 +1,18 @@
 {
   "name": "EnderIO-1.20.1-6.1.3-beta-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "49ZofO4f",
+      "versionId": "oRyyIaHo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 64578,
+      "fileId": 5474298
+    }
+  ],
   "forge": [
     {
       "modId": "enderio",

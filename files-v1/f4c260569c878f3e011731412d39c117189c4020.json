@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "essential-dependencies",
+      "version": "0"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "394"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.19+kotlin.1.9.23"
+    },
+    {
+      "modId": "elementa",
+      "version": "700"
+    }
+  ]
+}

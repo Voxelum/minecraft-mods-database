@@ -1,6 +1,18 @@
 {
   "name": "Vanishmod-1.16.5-1.1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MihN2cw5",
+      "versionId": "JQEkcrj4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423535,
+      "fileId": 3824730
+    }
+  ],
   "forge": [
     {
       "modId": "vmod",

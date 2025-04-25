@@ -1,6 +1,18 @@
 {
   "name": "editmobdrops-1.19.2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CE2Pi3IJ",
+      "versionId": "cpnGraP1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348932,
+      "fileId": 4059181
+    }
+  ],
   "forge": [
     {
       "modId": "editmobdrops",

@@ -1,0 +1,30 @@
+{
+  "name": "MeliusCommands-2.0.2+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lCC4AmlO",
+      "versionId": "jNwX2486"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903910,
+      "fileId": 6176788
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "melius-commands",
+      "version": "2.0.2+1.20.1"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.4+1.20.1"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.2.1+1.20.1"
+    }
+  ]
+}

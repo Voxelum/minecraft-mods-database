@@ -1,0 +1,22 @@
+{
+  "name": "sleepless-datapack-1.1.0+datapack.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YYZJDAqy",
+      "versionId": "Bamu1rFO"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_sleepless_datapack",
+      "version": "1.1.0+datapack"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_sleepless_datapack",
+      "version": "1.1.0+datapack"
+    }
+  ]
+}

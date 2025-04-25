@@ -1,6 +1,18 @@
 {
   "name": "iris-mc1.18.2-1.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "F92T6Nh1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 3899702
+    }
+  ],
   "fabric": [
     {
       "modId": "iris",

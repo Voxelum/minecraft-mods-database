@@ -1,6 +1,18 @@
 {
   "name": "mc.v1.20.x-quick_hotkeys-1.0.2_fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "24LuV3ge",
+      "versionId": "BpZ0WAJd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873761,
+      "fileId": 4602261
+    }
+  ],
   "fabric": [
     {
       "modId": "quick_hotkeys",

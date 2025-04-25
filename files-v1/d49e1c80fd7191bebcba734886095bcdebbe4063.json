@@ -1,0 +1,26 @@
+{
+  "name": "EnderZoology-v21.4.0-1.21.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CUQhzQjg",
+      "versionId": "fmWwd4MA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 857968,
+      "fileId": 6175367
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enderzoology",
+      "version": "21.4.0"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "21.4.0"
+    }
+  ]
+}

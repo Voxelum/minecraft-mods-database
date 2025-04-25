@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c3onkd5k",
+      "versionId": "Fb6lse2U"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "asyncparticles",
+      "version": "1.10.1+1.20.1-alpha.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "asyncparticles",
+      "version": "1.10.1+1.20.1-alpha.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

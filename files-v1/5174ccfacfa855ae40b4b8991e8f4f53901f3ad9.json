@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "Jade-1.21.1-Fabric-15.10.0.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "nvQzSEkH",
       "versionId": "NSxMqEgR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 324717,
+      "fileId": 6291536
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jade",
+      "version": "15.10.0+fabric"
     }
   ]
 }

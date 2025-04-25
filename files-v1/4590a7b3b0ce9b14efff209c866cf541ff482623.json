@@ -1,0 +1,20 @@
+{
+  "name": "abandoned-world-1.5-1.20.1-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jydpLueg",
+      "versionId": "QnOjr1Dj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "abandoned-world",
+      "version": "1.5-1.20.1-4"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.20.1-01"
+    }
+  ]
+}

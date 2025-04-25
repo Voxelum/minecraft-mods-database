@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L1RT5SJc",
+      "versionId": "tOvw9ccm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377835,
+      "fileId": 6049282
+    }
+  ],
+  "forge": [
+    {
+      "modId": "creategoggles",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creategoggles",
+      "version": "0.5.6"
+    }
+  ]
+}

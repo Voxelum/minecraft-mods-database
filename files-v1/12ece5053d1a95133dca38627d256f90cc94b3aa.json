@@ -1,0 +1,28 @@
+{
+  "name": "healingcampfire-1.20.1-6.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kOuPUitF",
+      "versionId": "olxRjKsI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342623,
+      "fileId": 6185733
+    }
+  ],
+  "forge": [
+    {
+      "modId": "healingcampfire",
+      "version": "6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healingcampfire",
+      "version": "6.2"
+    }
+  ]
+}

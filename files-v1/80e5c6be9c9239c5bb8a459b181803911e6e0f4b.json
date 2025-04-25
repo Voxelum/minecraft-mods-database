@@ -1,6 +1,12 @@
 {
   "name": "recipecache-0.1.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 473492,
+      "fileId": 3281223
+    }
+  ],
   "fabric": [
     {
       "modId": "recipecache",

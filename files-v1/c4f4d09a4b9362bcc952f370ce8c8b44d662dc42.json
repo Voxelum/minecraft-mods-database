@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dlNu0RQY",
+      "versionId": "WuY7eJX9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 884267,
+      "fileId": 6319826
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wakes",
+      "version": "0.4.1+1.21.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    },
+    {
+      "modId": "com_github_jdiemke_delaunay-triangulator_delaunaytriangulator",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ni4SrKmq",
+      "versionId": "NezoxDmT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397217,
+      "fileId": 6157899
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chesttracker",
+      "version": "2.6.7+1.20.1"
+    },
+    {
+      "modId": "searchables",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "whereisit",
+      "version": "2.6.3+1.20.1"
+    }
+  ]
+}

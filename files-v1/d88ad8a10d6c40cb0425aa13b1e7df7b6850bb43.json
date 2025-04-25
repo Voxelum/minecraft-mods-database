@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "awWvXlb2",
+      "versionId": "X6jr9vxA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 927591,
+      "fileId": 5997461
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frightsdelight",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

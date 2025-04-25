@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N4NCx6JE",
+      "versionId": "EfkmwyNN"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "believemod",
+      "version": "1.20"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.1.1175+1.20.1"
+    }
+  ]
+}

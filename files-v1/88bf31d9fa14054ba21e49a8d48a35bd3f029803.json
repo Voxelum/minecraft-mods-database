@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fallingtree",
+      "version": "3.10.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fallingtree",
+      "version": "3.10.1"
+    }
+  ]
+}

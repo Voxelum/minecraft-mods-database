@@ -1,0 +1,28 @@
+{
+  "name": "qraftys-halloween-villages-3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NW6TKDob",
+      "versionId": "3bziYWWR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1128497,
+      "fileId": 6002000
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_qraftys_halloweenvillages",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_qraftys_halloweenvillages",
+      "version": "3.1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Neruina-2.3.0-beta.2-fabric+1.21.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 851046,
+      "fileId": 6441125
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "neruina",
+      "version": "2.3.0-beta.2"
+    },
+    {
+      "modId": "org_kohsuke_github-api",
+      "version": "1.318"
+    },
+    {
+      "modId": "org_apache_httpcomponents_core5_httpcore5",
+      "version": "5.3.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.17.0"
+    },
+    {
+      "modId": "org_apache_maven_maven-artifact",
+      "version": "3.8.1"
+    }
+  ]
+}

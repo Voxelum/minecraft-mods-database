@@ -1,0 +1,22 @@
+{
+  "name": "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 623723,
+      "fileId": 6420134
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hopo",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobettermineshaft",
+      "version": "1.3.0"
+    }
+  ]
+}

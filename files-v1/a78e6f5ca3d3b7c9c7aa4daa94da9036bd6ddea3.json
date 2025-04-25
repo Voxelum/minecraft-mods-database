@@ -1,0 +1,32 @@
+{
+  "name": "distraction_free_recipes-fabric-1.1.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gbJLUhZP",
+      "versionId": "aJ5ymxkM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1167848,
+      "fileId": 6044761
+    }
+  ],
+  "forge": [
+    {
+      "modId": "distraction_free_recipes",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distraction_free_recipes",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

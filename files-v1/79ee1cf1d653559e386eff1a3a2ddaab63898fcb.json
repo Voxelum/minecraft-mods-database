@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YQnwl5Vv",
+      "versionId": "GuYuJjdK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 432008,
+      "fileId": 6127847
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "visualoverhaul",
+      "version": "6.0.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.7"
+    }
+  ]
+}

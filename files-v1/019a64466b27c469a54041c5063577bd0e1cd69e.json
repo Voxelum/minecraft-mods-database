@@ -1,0 +1,26 @@
+{
+  "name": "itemswapper-fabric-0.7.8.1-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RPOSBQgq",
+      "versionId": "zSYJYqTK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 694358,
+      "fileId": 6347112
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemswapper",
+      "version": "0.7.8.1"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.1"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "IllagerInvasion-v21.4.1-1.21.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jSV9w0J5",
+      "versionId": "4IH1cPuk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891324,
+      "fileId": 6179834
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illagerinvasion",
+      "version": "21.4.1"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "21.4.0"
+    },
+    {
+      "modId": "neoforgedatapackextensions",
+      "version": "21.4.0"
+    }
+  ]
+}

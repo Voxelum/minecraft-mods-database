@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zvaHXgQz",
+      "versionId": "P1pdTwvn"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_trimmed",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create-trimmed",
+      "version": "1.0.1"
+    }
+  ]
+}

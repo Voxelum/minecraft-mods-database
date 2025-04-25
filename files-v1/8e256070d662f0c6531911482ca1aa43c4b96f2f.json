@@ -1,0 +1,26 @@
+{
+  "name": "aerialhell-0.7.2_fabric1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hvaVU41U",
+      "versionId": "2V7UD81l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 674630,
+      "fileId": 6356565
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aerialhell",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta68-1.21.4"
+    }
+  ]
+}

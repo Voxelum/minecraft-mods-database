@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kdch0Jxf",
+      "versionId": "cymiIzf4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1112275,
+      "fileId": 6420906
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_guns",
+      "version": "5.8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_guns",
+      "version": "5.8.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-permissions-0.2.4+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fdZkP5Bb",
+      "versionId": "pDaHPTD2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686569,
+      "fileId": 5608884
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanilla-permissions",
+      "version": "0.2.4+1.21.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

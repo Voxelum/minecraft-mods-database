@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C90qpzXw",
+      "versionId": "ck2DBQl8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createairfabric",
+      "version": "1.0+1.20.1-26"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

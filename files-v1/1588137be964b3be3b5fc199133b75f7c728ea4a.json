@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lWDHr9jE",
+      "versionId": "nCfuFGUJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686836,
+      "fileId": 4354884
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tectonic",
+      "version": "1.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tectonic",
+      "version": "1.1.4"
+    }
+  ]
+}

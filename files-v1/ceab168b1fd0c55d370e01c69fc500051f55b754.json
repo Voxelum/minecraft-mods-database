@@ -1,6 +1,18 @@
 {
   "name": "easierchests-1.16.5-fabric0.30.0-1.6.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1aloFY8o",
+      "versionId": "MGpf7bMn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 279501,
+      "fileId": 3193589
+    }
+  ],
   "fabric": [
     {
       "modId": "easierchests",

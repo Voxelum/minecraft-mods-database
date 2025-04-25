@@ -1,6 +1,18 @@
 {
   "name": "hostile_humans_1.18.2-1.4.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iKIC7gnS",
+      "versionId": "ja193tuK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 845401,
+      "fileId": 5139734
+    }
+  ],
   "forge": [
     {
       "modId": "hostile_humans",

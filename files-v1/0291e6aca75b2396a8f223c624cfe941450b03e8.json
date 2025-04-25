@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "EndsPhantasm-1.20.1-1.0.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "JGfljjtd",
       "versionId": "UK8UcEcZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565254,
+      "fileId": 6134383
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "phantasm",
+      "version": "1.0"
     }
   ]
 }

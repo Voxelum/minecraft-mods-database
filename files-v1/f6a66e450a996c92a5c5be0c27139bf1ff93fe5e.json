@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 876386,
+      "fileId": 6384795
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinshuffle",
+      "version": "2.8.2+1.21.4"
+    },
+    {
+      "modId": "commons-validator_commons-validator",
+      "version": "1.7"
+    },
+    {
+      "modId": "org_jsoup_jsoup",
+      "version": "1.16.1"
+    },
+    {
+      "modId": "com_drewnoakes_metadata-extractor",
+      "version": "2.19.0"
+    },
+    {
+      "modId": "spruceui",
+      "version": "6.2.0+1.21.3"
+    },
+    {
+      "modId": "com_konghq_unirest-java_standalone",
+      "version": "3.11.09"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.2+1.21.4-fabric"
+    }
+  ]
+}

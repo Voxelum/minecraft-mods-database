@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "coyotebites",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.1.0"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-beta.4"
+    }
+  ]
+}

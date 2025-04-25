@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 317269,
+      "fileId": 6277389
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controllable",
+      "version": "0.23.3"
+    },
+    {
+      "modId": "com_mrcrayfish_controllable-sdl",
+      "version": "2.30.12-1.1.0"
+    }
+  ]
+}

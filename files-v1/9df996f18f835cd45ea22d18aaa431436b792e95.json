@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNVQ2c0g",
+      "versionId": "OFlhtCbY"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mru",
+      "version": "1.0.15+1.21.5+fabric"
+    },
+    {
+      "modId": "org_commonmark_commonmark",
+      "version": "0.21.0"
+    }
+  ]
+}

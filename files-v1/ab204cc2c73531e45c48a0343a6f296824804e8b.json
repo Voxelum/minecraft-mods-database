@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NGEcCZ3C",
+      "versionId": "r56X8mXH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1034453,
+      "fileId": 6308316
+    }
+  ],
+  "forge": [
+    {
+      "modId": "peaceful_hunger",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peaceful_hunger",
+      "version": "1.0.2"
+    }
+  ]
+}

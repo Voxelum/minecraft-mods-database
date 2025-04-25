@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qBssY8fr",
+      "versionId": "AmGAgyQf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 847812,
+      "fileId": 5987654
+    }
+  ],
   "forge": [
     {
       "modId": "midnight_madness",

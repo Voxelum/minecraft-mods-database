@@ -1,0 +1,28 @@
+{
+  "name": "crystals_overhauled-v2.1.0-FABRIC-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F5ao3BYo",
+      "versionId": "mBea6UKG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 862001,
+      "fileId": 6336108
+    }
+  ],
+  "forge": [
+    {
+      "modId": "crystals_overhauled",
+      "version": "2.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crystals_overhauled",
+      "version": "2.1.0"
+    }
+  ]
+}

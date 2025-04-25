@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YE4QRt8F",
+      "versionId": "OIeeA02i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 677634,
+      "fileId": 6076744
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uselessreptile",
+      "version": "0.9.7-1.21.1"
+    },
+    {
+      "modId": "common-protection-api",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "primitive_multipart_entities",
+      "version": "1.1.1"
+    }
+  ]
+}

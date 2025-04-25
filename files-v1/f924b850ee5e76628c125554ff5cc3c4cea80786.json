@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uQorKjjW",
+      "versionId": "vv4okXK1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899032,
+      "fileId": 5572225
+    }
+  ],
+  "forge": [
+    {
+      "modId": "just_ctgui",
+      "version": "0.1.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "just_ctgui",
+      "version": "0.0.1_alpha_build_1"
+    }
+  ]
+}

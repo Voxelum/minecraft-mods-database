@@ -1,6 +1,18 @@
 {
   "name": "guide-api-vp-1.19.4-2.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w5L2PHJU",
+      "versionId": "bsg5I1cm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 380771,
+      "fileId": 4576632
+    }
+  ],
   "forge": [
     {
       "modId": "guideapi_vp",

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "E3i8fnT2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 4601004
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcify",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "elementa",
+      "version": "590+markdown"
+    },
+    {
+      "modId": "universalcraft",
+      "version": "269"
+    }
+  ]
+}

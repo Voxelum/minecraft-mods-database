@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MGcd6kTf",
+      "versionId": "E83Eknox"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1081352,
+      "fileId": 6352806
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_vanilla_backpacks",
+      "version": "1.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_vanilla_backpacks",
+      "version": "1.3.1"
+    }
+  ]
+}

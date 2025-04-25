@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YkSnBAXp",
+      "versionId": "96jqexcp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1172420,
+      "fileId": 6182766
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcometomyworld",
+      "version": "3.3.0.4"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

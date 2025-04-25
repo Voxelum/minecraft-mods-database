@@ -1,0 +1,22 @@
+{
+  "name": "tool-trims-packaged-v2.2.2b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uXeEiQk1",
+      "versionId": "p2hdqYfr"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "tool_trims",
+      "version": "2.2.2b"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tool_trims",
+      "version": "2.2.2b"
+    }
+  ]
+}

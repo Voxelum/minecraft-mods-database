@@ -1,6 +1,12 @@
 {
   "name": "symbol-chat-0.2.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NKvLVQMc",
+      "versionId": "vzCwq3Bl"
+    }
+  ],
   "fabric": [
     {
       "modId": "symbol-chat",

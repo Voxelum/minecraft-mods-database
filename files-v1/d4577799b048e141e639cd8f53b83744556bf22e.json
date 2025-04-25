@@ -1,0 +1,26 @@
+{
+  "name": "bettercombat-extension-2.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nGFJD9cB",
+      "versionId": "Y4XyEfUf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1062667,
+      "fileId": 6134567
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercombatextension",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

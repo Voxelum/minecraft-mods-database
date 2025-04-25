@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rcTfTZr3",
+      "versionId": "Oxj0KnG2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "presencefootsteps",
+      "version": "1.11.0+1.21.4"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.20.3+1.21.4"
+    }
+  ]
+}

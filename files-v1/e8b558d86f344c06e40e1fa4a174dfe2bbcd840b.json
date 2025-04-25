@@ -1,0 +1,20 @@
+{
+  "name": "creatoroverlays-3.1.0-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mPiLAv6e",
+      "versionId": "BGGdQJm6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creatoroverlays",
+      "version": "3.1.0-1.21"
+    },
+    {
+      "modId": "libgui",
+      "version": "11.0.0+1.21"
+    }
+  ]
+}

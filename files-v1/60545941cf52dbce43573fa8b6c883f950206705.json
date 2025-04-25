@@ -1,0 +1,26 @@
+{
+  "name": "FarmersDelight-1.21.1-3.0.1+refabricated.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7vxePowz",
+      "versionId": "9IKQwpOG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 993166,
+      "fileId": 6324963
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight",
+      "version": "1.21.1-3.0.1+refabricated"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

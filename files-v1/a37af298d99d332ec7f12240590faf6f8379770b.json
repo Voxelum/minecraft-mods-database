@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w4Z2NKqf",
+      "versionId": "1yWxWphD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1163866,
+      "fileId": 6109384
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easy_homes",
+      "version": "21.4.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.6"
+    }
+  ]
+}

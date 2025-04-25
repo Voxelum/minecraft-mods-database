@@ -1,6 +1,12 @@
 {
   "name": "thutcore-1.12.2-5.19.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 224428,
+      "fileId": 2617946
+    }
+  ],
   "forge": [
     {
       "modId": "thutcore_compat",

@@ -1,0 +1,22 @@
+{
+  "name": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 632624,
+      "fileId": 6420137
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hoporp",
+      "version": "1.4.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobetterruinedportal",
+      "version": "1.4.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8H6RXl2q",
+      "versionId": "A1pmFqVV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1173737,
+      "fileId": 6152953
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedtooltips",
+      "version": "1.4.0+fabric.1.20.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

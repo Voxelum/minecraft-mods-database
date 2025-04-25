@@ -1,0 +1,30 @@
+{
+  "name": "[准星摇晃] CrosshairBobbing-1.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "paCz780b",
+      "versionId": "oLCo0Xy2"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "[准星摇晃] CrosshairBobbing-1.10",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "xbob_modloader",
+      "version": "1.0"
+    },
+    {
+      "modId": "xbob_mixin",
+      "version": "1.10"
+    },
+    {
+      "modId": "xbob",
+      "version": "1.10"
+    }
+  ]
+}

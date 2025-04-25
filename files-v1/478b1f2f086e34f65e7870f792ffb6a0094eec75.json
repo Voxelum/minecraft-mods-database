@@ -1,0 +1,102 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JYQhtZtO",
+      "versionId": "9BnBJI0w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 635429,
+      "fileId": 6176457
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vulkanmod",
+      "version": "0.5.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.54+b47eab6b04"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.19+7feeb73304"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "5.0.2+84404cdd04"
+    },
+    {
+      "modId": "fabric-rendering-data-attachment-v1",
+      "version": "0.3.57+73761d2e04"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.19+7feeb73304"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "10.1.2+b874120c04"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.11+b1caf1e904"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-shaderc",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vma",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan_natives-macos-arm64",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-vulkan",
+      "version": "3.3.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k68glP2e",
+      "versionId": "9qZWWLUo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639211,
+      "fileId": 6312883
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "automodpack-bootstrap",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "automodpack",
+      "version": "4.0.0-beta29"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nf68xfAw",
+      "versionId": "rwx6I9Q5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 911456,
+      "fileId": 6372691
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sparkweave",
+      "version": "0.508.2"
+    },
+    {
+      "modId": "net_harawata_appdirs",
+      "version": "1.2.1"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "geckolib-fabric-1.20-4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "B4kTh670"
+    }
+  ],
   "fabric": [
     {
       "modId": "geckolib",

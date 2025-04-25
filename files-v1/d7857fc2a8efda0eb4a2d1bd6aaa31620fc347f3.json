@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "iris-fabric-1.8.10+mc1.21.5.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "YL57xq9U",
       "versionId": "N0ln8GKQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 6347456
     }
   ],
   "fabric": [

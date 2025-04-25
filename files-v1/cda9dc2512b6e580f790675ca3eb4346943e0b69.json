@@ -1,6 +1,18 @@
 {
   "name": "whyamionfire-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jwslX1Al",
+      "versionId": "oe4YN7yh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 470990,
+      "fileId": 3351545
+    }
+  ],
   "fabric": [
     {
       "modId": "whyamionfire",

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "4.0.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.7.1"
+    }
+  ]
+}

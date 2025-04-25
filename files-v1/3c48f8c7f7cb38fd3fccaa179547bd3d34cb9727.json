@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5srFLIaK",
+      "versionId": "jA3H72xa"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterclouds",
+      "version": "1.8.9-rc.1-beta+1.21.5-fabric.rev.5db870f"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

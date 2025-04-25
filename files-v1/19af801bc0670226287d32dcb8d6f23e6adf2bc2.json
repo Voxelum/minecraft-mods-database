@@ -1,6 +1,18 @@
 {
   "name": "clay-0.4.2-forge-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7b2B0QcO",
+      "versionId": "sZQ0uiPy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 714097,
+      "fileId": 4134454
+    }
+  ],
   "forge": [
     {
       "modId": "clay",

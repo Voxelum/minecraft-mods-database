@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "icarus",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "icarus",
+      "version": "1.16"
+    }
+  ]
+}

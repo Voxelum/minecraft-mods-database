@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2d67N1yh",
+      "versionId": "120InqM0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ticktweaks",
+      "version": "1.2.2-1.20.5-1.21.5"
+    },
+    {
+      "modId": "streq",
+      "version": "1.0.9"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "chattools",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "com_sshtools_two-slices",
+      "version": "0.9.4"
+    }
+  ]
+}

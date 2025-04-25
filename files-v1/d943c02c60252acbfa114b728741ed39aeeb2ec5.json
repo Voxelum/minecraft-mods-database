@@ -1,6 +1,12 @@
 {
   "name": "minecraftboom-1.12.2-1.4.3-universal.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 289754,
+      "fileId": 2572014
+    }
+  ],
   "forge": [
     {
       "modId": "minecraftboom",

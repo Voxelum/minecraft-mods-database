@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rsBa8ErW",
+      "versionId": "B1qIZoBx"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_playtimestatistics",
+      "version": "1.20.x-en-US"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_playtimestatistics",
+      "version": "1.20.x-en-US"
+    }
+  ]
+}

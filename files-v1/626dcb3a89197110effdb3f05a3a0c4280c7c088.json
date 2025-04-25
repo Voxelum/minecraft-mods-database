@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4UKlJSdk",
+      "versionId": "QGOG9VtQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958325,
+      "fileId": 5499721
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "playerex",
+      "version": "3.7.3+1.20.1"
+    },
+    {
+      "modId": "opc_dc",
+      "version": "0.6.5+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.1+1.20"
+    },
+    {
+      "modId": "ranged_weapon_api",
+      "version": "1.1.0+1.20.1"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

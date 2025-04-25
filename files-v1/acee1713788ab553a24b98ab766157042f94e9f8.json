@@ -1,0 +1,28 @@
+{
+  "name": "inventorytotem-1.21.4-3.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yQj7xqEM",
+      "versionId": "Gys018jh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 349071,
+      "fileId": 6185651
+    }
+  ],
+  "forge": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorytotem",
+      "version": "3.4"
+    }
+  ]
+}

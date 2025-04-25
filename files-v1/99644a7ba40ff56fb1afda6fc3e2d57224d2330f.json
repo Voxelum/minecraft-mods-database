@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TnJMIIQ2",
+      "versionId": "B4o1SLOV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 518515,
+      "fileId": 6273578
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cool_elytra",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
+    }
+  ]
+}

@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "beddium-1.0.10+mc1.21.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "kPtHpb7z",
       "versionId": "S7Hz8XtS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1065808,
+      "fileId": 5635315
     }
   ],
   "forge": [

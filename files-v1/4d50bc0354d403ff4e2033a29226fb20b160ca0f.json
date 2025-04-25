@@ -1,0 +1,20 @@
+{
+  "name": "accessories-fabric-1.1.0-beta.28+1.21.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 938917,
+      "fileId": 6194521
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "accessories",
+      "version": "1.1.0-beta.28+1.21.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.15+1.21"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JtifUr64",
+      "versionId": "S27dNesu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 590990,
+      "fileId": 6294126
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelerstitles",
+      "version": "1.21.1-Fabric-5.1.3"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

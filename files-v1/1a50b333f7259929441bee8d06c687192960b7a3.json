@@ -1,9 +1,26 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "oIoAucDh",
       "versionId": "QkxwJFlI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 814868,
+      "fileId": 5075909
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "anvil_fix",
+      "version": "20.0.1"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d77"
     }
   ]
 }

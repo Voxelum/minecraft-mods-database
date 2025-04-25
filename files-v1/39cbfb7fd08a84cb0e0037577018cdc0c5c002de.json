@@ -1,6 +1,18 @@
 {
   "name": "dawnoftime_builder_edition-1.0.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RgWXq0La",
+      "versionId": "OMmo48Eh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312359,
+      "fileId": 2904632
+    }
+  ],
   "forge": [
     {
       "modId": "dawnoftimebuilder",

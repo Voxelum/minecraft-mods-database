@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "fabric-api-0.92.2+1.11.10+1.20.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "Aqlf1Shp",
       "versionId": "D6vinKOB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 889079,
+      "fileId": 6136695
     }
   ],
   "forge": [

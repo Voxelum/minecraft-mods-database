@@ -1,0 +1,26 @@
+{
+  "name": "OctoLib-FABRIC-0.5.0.1+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RH2KUdKJ",
+      "versionId": "LGf4Q4kp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916747,
+      "fileId": 6030057
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "octolib",
+      "version": "0.5.0.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

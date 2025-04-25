@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xsng1aJf",
+      "versionId": "3Z8BqRHV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1160108,
+      "fileId": 6378115
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bigglobe",
+      "version": "4.11.1"
+    },
+    {
+      "modId": "builderb0y_autocodec",
+      "version": "5.0.0"
+    }
+  ]
+}

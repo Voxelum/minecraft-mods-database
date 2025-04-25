@@ -1,0 +1,54 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9gIPDom",
+      "versionId": "Hr11X9qW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 901503,
+      "fileId": 6204456
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "figura",
+      "version": "0.1.5+1.21.1"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-core",
+      "version": "3.0.8-figura"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a719"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-jse",
+      "version": "3.0.8-figura"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.28+6ced4dd919"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.14"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "1.3.1+5b5275af19"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.42+6573ed8c19"
+    }
+  ]
+}

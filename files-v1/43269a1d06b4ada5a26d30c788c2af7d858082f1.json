@@ -1,9 +1,36 @@
 {
-  "name": "",
+  "name": "sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "Yg1VT27P",
       "versionId": "VQJMFOnA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1146393,
+      "fileId": 6041602
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumoptionsmodcompat",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumoptionsmodcompat",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
     }
   ]
 }

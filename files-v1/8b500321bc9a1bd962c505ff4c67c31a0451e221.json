@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4H6sumDB",
+      "versionId": "ZFFJT4qT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "euphoria_patcher",
+      "version": "1.5.1-r5.4-fabric"
+    },
+    {
+      "modId": "io_sigpipe_jbsdiff",
+      "version": "1.0"
+    }
+  ]
+}

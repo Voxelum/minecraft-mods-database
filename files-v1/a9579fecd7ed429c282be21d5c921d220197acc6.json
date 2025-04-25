@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "handcrafted-fabric-1.21.1-4.0.3.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "pJmCFF0p",
       "versionId": "f0pKpUWd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538214,
+      "fileId": 6330032
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "handcrafted",
+      "version": "4.0.3"
     }
   ]
 }

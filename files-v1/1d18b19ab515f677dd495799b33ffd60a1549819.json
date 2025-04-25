@@ -1,6 +1,12 @@
 {
   "name": "ShoulderSurfing-Forge-1.20.1-4.1.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 243190,
+      "fileId": 5431555
+    }
+  ],
   "forge": [
     {
       "modId": "shouldersurfing",

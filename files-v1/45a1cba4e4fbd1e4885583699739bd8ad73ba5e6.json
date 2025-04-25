@@ -1,0 +1,26 @@
+{
+  "name": "krypton-0.2.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fQEb0iXm",
+      "versionId": "neW85eWt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 428912,
+      "fileId": 6364768
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "krypton",
+      "version": "0.2.9"
+    },
+    {
+      "modId": "com_velocitypowered_velocity-native",
+      "version": "3.4.0-SNAPSHOT"
+    }
+  ]
+}

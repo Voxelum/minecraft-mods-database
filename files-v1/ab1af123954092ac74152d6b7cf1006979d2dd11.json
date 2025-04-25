@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4q8UOK1d",
+      "versionId": "TdzGdTcL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1023913,
+      "fileId": 6376361
+    }
+  ],
+  "forge": [
+    {
+      "modId": "subtle_effects",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "subtle_effects",
+      "version": "1.9.4-hotfix.1"
+    }
+  ]
+}

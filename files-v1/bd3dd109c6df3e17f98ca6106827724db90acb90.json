@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "pets-not-friendly-fire-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O2CsNa0e",
+      "versionId": "x9cbYAJf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1099352,
+      "fileId": 5723886
+    }
+  ],
   "fabric": [
     {
       "modId": "pets-not-friendly-fire",

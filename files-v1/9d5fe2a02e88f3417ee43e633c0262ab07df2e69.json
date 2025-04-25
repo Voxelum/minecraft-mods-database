@@ -1,0 +1,28 @@
+{
+  "name": "fzzy_config-0.6.6+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 6313611
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_config",
+      "version": "0.6.6+1.20.1"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt_tomlkt-jvm",
+      "version": "0.3.7"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YUQWsjD6",
+      "versionId": "7xD0pVym"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1178605,
+      "fileId": 6332999
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "niobium",
+      "version": "1.21.1-0.0.3"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta67-1.21"
+    }
+  ]
+}

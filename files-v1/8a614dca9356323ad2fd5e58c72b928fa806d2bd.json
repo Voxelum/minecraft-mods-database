@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mwafJvtx",
+      "versionId": "Q3qF5i32"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1169908,
+      "fileId": 6044000
+    }
+  ],
   "fabric": [
     {
       "modId": "trackwork",

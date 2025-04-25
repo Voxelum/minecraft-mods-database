@@ -1,0 +1,26 @@
+{
+  "name": "wraith-waystones-3.3.5+mc1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sTZr7NVo",
+      "versionId": "UVLcoIVQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410902,
+      "fileId": 6240090
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fwaystones",
+      "version": "3.3.5+mc1.21.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.20+1.21.4"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpmCsizY",
+      "versionId": "Hc1vj9xR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040076,
+      "fileId": 6062502
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iceandfire",
+      "version": "1.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "here-be-no-dragons",
+      "version": "1.0.0"
+    }
+  ]
+}

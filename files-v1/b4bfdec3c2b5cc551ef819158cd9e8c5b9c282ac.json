@@ -1,9 +1,26 @@
 {
-  "name": "",
+  "name": "randomenchantfix-fabric-1.0.0-1.21.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "70vOH2S4",
       "versionId": "EAGDmvxZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1209864,
+      "fileId": 6246165
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "randomenchantfix",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "puzzle-fabric-2.1.0+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3IuO68q1",
+      "versionId": "JyVlkrSf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 563977,
+      "fileId": 6363584
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzle",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.7.0"
+    }
+  ]
+}

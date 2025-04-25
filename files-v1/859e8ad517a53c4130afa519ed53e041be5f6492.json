@@ -1,0 +1,28 @@
+{
+  "name": "yet_another_config_lib_v3-3.6.3+1.21.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1eAoo2KR",
+      "versionId": "4PdMGo3P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667299,
+      "fileId": 6236535
+    }
+  ],
+  "forge": [
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.3+1.21.4-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.3+1.21.4-fabric"
+    }
+  ]
+}

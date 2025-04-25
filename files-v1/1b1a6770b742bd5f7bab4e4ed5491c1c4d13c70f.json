@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5sy6g3kz",
+      "versionId": "CnXOCzOj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 639842,
+      "fileId": 3949042
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettercombat",
+      "version": "1.1.0+1.18.2"
+    },
+    {
+      "modId": "tinyconfig",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "player-animator",
+      "version": "0.3.0"
+    }
+  ]
+}

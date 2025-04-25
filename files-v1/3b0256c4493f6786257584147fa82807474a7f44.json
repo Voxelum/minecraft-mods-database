@@ -1,0 +1,50 @@
+{
+  "name": "polymer-bundled-0.11.8+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xGdtZczs",
+      "versionId": "71wYlThU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551890,
+      "fileId": 6261389
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "polymer-bundled",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-autohost",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-common",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-resource-pack-extras",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-blocks",
+      "version": "0.11.8+1.21.4"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.11.8+1.21.4"
+    }
+  ]
+}

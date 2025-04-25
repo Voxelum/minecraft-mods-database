@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g75kX7aT",
+      "versionId": "58NfKMgR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977960,
+      "fileId": 6027116
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bakingdelight",
+      "version": "0.5.4+1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}
