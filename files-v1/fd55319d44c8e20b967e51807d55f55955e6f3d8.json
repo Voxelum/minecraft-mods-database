@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rlloIFEV",
+      "versionId": "tuWH159o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 541171,
+      "fileId": 6119623
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "travelersbackpack",
+      "version": "9.1.21"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

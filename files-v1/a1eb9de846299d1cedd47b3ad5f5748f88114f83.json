@@ -1,0 +1,26 @@
+{
+  "name": "TrailierTales-1.1.4-mc1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9xTQM0ci",
+      "versionId": "mb0JD6Xd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1124703,
+      "fileId": 6393196
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trailiertales",
+      "version": "1.1.4-mc1.21.4"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "2.0.3-mc1.21.4"
+    }
+  ]
+}

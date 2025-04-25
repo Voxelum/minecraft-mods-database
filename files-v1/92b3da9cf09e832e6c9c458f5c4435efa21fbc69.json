@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Xw7lTsbM",
+      "versionId": "3mC9QSRE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blossom-lib",
+      "version": "2.5.11+1.21.4"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.4.0+1.21.2-rc1"
+    }
+  ]
+}

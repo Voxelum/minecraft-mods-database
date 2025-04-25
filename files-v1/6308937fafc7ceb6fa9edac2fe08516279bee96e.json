@@ -1,0 +1,38 @@
+{
+  "name": "lne_paladins-0.1.10-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ysICqMga",
+      "versionId": "bhtNgt0m"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1179587,
+      "fileId": 6373844
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lne_paladins",
+      "version": "0.1.10-1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.4"
+    },
+    {
+      "modId": "structure_pool_api",
+      "version": "1.0+1.20.1"
+    }
+  ]
+}

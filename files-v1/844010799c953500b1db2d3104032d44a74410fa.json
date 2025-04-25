@@ -1,0 +1,30 @@
+{
+  "name": "Corgilib-Fabric-1.21.4-6.0.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ziOp6EO8",
+      "versionId": "WZ5EDEhZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 693313,
+      "fileId": 6288777
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "corgilib",
+      "version": "6.0.0.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.0"
+    }
+  ]
+}

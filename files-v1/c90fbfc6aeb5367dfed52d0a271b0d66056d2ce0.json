@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MhfKWFVm",
+      "versionId": "jyeC2f0J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1235635,
+      "fileId": 6385498
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchant_limiter",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

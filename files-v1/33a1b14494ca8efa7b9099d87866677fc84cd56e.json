@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N6n5dqoA",
+      "versionId": "Xt0xMBKX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1236761,
+      "fileId": 6395825
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "axiom",
+      "version": "4.7.1"
+    },
+    {
+      "modId": "com_moulberry_axiomclientapi",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

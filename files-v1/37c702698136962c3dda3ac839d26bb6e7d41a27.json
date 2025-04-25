@@ -1,6 +1,18 @@
 {
   "name": "More sleeps 1.19.2 - 1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S8fvNvSw",
+      "versionId": "IUC3inK9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 918722,
+      "fileId": 5082303
+    }
+  ],
   "forge": [
     {
       "modId": "more_sleeps",

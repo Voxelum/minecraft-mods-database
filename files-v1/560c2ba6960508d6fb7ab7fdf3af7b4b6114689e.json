@@ -1,5 +1,6 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "Rw1NrDzF",
@@ -10,6 +11,12 @@
     {
       "projectId": 272335,
       "fileId": 4990314
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cucumber",
+      "version": "7.0.7"
     }
   ]
 }

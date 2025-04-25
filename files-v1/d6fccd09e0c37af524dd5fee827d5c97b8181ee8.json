@@ -1,0 +1,22 @@
+{
+  "name": "mob-heads-v.3.2.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "82uI0waE",
+      "versionId": "6seHsxTz"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_mob_heads",
+      "version": "1-v.3.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_mob_heads",
+      "version": "1-v.3.2.1"
+    }
+  ]
+}

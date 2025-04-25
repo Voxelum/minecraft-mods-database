@@ -1,0 +1,26 @@
+{
+  "name": "does_it_tick-fabric-1.1.0-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vmg6jaPW",
+      "versionId": "jQBQlyJJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 543308,
+      "fileId": 6164383
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "does_it_tick",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

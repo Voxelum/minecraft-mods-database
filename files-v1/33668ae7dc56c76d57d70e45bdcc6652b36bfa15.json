@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N6n5dqoA",
+      "versionId": "6Pbt6YHj"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "axiom",
+      "version": "4.5.1"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-core",
+      "version": "3.0.6-figura"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "com_github_figuramc_luaj_luaj-jse",
+      "version": "3.0.6-figura"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "com_moulberry_axiomclientapi",
+      "version": "1.0.0"
+    }
+  ]
+}

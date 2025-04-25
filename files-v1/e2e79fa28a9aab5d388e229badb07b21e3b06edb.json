@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p2rxzX0q",
+      "versionId": "e4XhrqGO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "axolotlclient",
+      "version": "3.1.0+1.21.1"
+    },
+    {
+      "modId": "axolotlclient-common",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "axolotlclientconfig",
+      "version": "3.0.0+1.21.1"
+    },
+    {
+      "modId": "hypixel-mod-api",
+      "version": "1.0.1+build.1+mc1.21"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uCdwusMi",
+      "versionId": "gwqnI0zh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distanthorizons",
+      "version": "2.3.0-b"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.50+119c825640"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.37+c9d82ab240"
+    },
+    {
+      "modId": "fabric-entity-events-v1",
+      "version": "2.0.8+825023f840"
+    },
+    {
+      "modId": "fabric-events-interaction-v0",
+      "version": "2.0.12+c2c3ac4740"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.53+fd37071f40"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.5.1+6da5ef6940"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.3.5+fd37071f40"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "8.0.8+6922831640"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.6+fd37071f40"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.34+fd37071f40"
+    }
+  ]
+}

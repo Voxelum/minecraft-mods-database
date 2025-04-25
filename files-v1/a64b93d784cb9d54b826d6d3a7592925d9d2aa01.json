@@ -1,0 +1,28 @@
+{
+  "name": "open-parties-and-claims-fabric-1.20.1-0.24.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gF3BGWvG",
+      "versionId": "t9R7RS3b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636608,
+      "fileId": 6242871
+    }
+  ],
+  "forge": [
+    {
+      "modId": "openpartiesandclaims",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "openpartiesandclaims",
+      "version": "0.24.0"
+    }
+  ]
+}

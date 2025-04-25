@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "TxPTEp93"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6023741
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.4.6"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "5.1"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.0+1.21.1"
+    }
+  ]
+}

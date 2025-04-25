@@ -1,0 +1,26 @@
+{
+  "name": "welcometomyworld-3.9.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YkSnBAXp",
+      "versionId": "AxZHP8Ep"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1172420,
+      "fileId": 6445043
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcometomyworld",
+      "version": "3.9.1"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

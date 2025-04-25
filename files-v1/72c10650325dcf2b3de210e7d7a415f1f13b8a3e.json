@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "reborncore",
+      "version": "5.8.8"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

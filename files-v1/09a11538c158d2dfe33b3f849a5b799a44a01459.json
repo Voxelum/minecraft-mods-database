@@ -1,0 +1,26 @@
+{
+  "name": "ok_zoomer-fabric-12.0.0-beta.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aXf2OSFU",
+      "versionId": "HJTyng0I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354047,
+      "fileId": 6230548
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ok_zoomer",
+      "version": "12.0.0-beta.5"
+    },
+    {
+      "modId": "wrench_wrapper",
+      "version": "0.6.2"
+    }
+  ]
+}

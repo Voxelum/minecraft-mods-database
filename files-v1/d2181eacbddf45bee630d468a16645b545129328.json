@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PZIFvHDs",
+      "versionId": "h5L8RAf3"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fake_blockz_mod",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fake_blockz_mod",
+      "version": "1.0.0"
+    }
+  ]
+}

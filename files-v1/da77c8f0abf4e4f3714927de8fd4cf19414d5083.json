@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOUdJVEm",
+      "versionId": "Naxc8isg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835847,
+      "fileId": 6134047
+    }
+  ],
+  "forge": [
+    {
+      "modId": "controlify",
+      "version": "2.0.2+1.21.4-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "2.0.2+1.21.4-fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.4"
+    }
+  ]
+}

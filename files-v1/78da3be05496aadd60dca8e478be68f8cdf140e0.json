@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc9lpPiU",
+      "versionId": "ylt3YExE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 924590,
+      "fileId": 6313345
+    }
+  ],
+  "forge": [
+    {
+      "modId": "medieval_buildings",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medieval_buildings",
+      "version": "1.0.1"
+    }
+  ]
+}

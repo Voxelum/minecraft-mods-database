@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHdR6hMt",
+      "versionId": "zsg3JNMY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 430219,
+      "fileId": 5966855
+    }
+  ],
   "fabric": [
     {
       "modId": "enchantment_lore",

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "inventorysorter",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorysorter",
+      "version": "1.9.0-1.20"
+    },
+    {
+      "modId": "kyrptconfig",
+      "version": "1.5.6-1.20"
+    }
+  ]
+}

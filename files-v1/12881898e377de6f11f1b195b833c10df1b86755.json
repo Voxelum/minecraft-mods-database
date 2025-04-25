@@ -1,0 +1,28 @@
+{
+  "name": "cobweb-fabric-1.20.1-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQcfqGbl",
+      "versionId": "X1GjRON0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968456,
+      "fileId": 6089407
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cobweb",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cobweb",
+      "version": "1.0.1"
+    }
+  ]
+}

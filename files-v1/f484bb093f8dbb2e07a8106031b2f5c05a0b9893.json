@@ -1,0 +1,48 @@
+{
+  "name": "ConquestReforged-fabric-1.20.1-1.2.10.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s93iojuG",
+      "versionId": "XAAjDpT0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250077,
+      "fileId": 6225785
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ConquestReforged-fabric-1.20.1-1.2.10",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conquest",
+      "version": "1.2.10"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

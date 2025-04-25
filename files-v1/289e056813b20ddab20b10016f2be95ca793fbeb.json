@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mw9W1jZT",
+      "versionId": "MLMQ5i4W"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "motobox",
+      "version": "1.0.0-1.19.3"
+    },
+    {
+      "modId": "spruceui",
+      "version": "4.1.0+1.19.3"
+    },
+    {
+      "modId": "advanced_runtime_resource_pack",
+      "version": "0.6.7"
+    }
+  ]
+}

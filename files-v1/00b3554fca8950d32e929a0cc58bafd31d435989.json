@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GhWh8CAU",
+      "versionId": "I5HtCHmD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 888150,
+      "fileId": 6186245
+    }
+  ],
+  "forge": [
+    {
+      "modId": "customcredits",
+      "version": "1.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customcredits",
+      "version": "1.7"
+    }
+  ]
+}

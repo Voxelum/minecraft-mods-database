@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 416294,
+      "fileId": 6110233
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rhino",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rhino",
+      "version": "2101.2.6-build.66"
+    }
+  ]
+}

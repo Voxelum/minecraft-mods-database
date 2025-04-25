@@ -1,6 +1,18 @@
 {
   "name": "TFCWeather-1.20.1-1.6.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kQt5u4UL",
+      "versionId": "TRcnKG80"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 831919,
+      "fileId": 5202687
+    }
+  ],
   "forge": [
     {
       "modId": "tfcweather",

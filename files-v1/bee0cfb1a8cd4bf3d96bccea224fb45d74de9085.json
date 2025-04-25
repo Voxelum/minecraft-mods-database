@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8oi3bsk5",
+      "versionId": "MuJMtPGQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 513688,
+      "fileId": 6090387
+    }
+  ],
+  "forge": [
+    {
+      "modId": "terralith",
+      "version": "2.5.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terralith",
+      "version": "2.5.8"
+    }
+  ]
+}

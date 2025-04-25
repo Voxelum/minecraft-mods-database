@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tPLE214j",
+      "versionId": "41R14ee5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 895618,
+      "fileId": 5988356
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterdays",
+      "version": "3.1.1.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.17.2+1.21"
+    }
+  ]
+}

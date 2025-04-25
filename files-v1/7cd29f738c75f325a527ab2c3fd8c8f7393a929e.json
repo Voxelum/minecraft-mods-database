@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "minecells",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "1.8.3"
+    },
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "gimm1q",
+      "version": "0.5.3"
+    }
+  ]
+}

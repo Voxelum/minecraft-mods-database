@@ -1,14 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Pk89J3g",
+      "versionId": "KLvv5Ro6"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 899386,
       "fileId": 6008021
     }
-  ]
-} }
-  ]
-}"1.5.1"
+  ],
+  "fabric": [
+    {
+      "modId": "justenoughbreeding",
+      "version": "1.5.1"
     }
   ]
 }

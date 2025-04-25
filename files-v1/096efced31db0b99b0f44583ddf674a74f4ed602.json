@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WXhDTEXL",
+      "versionId": "GDjt10B2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 951750,
+      "fileId": 5956017
+    }
+  ],
+  "forge": [
+    {
+      "modId": "farmersdelight_tfc",
+      "version": "1.0.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight_tfc",
+      "version": "1.0.0"
+    }
+  ]
+}

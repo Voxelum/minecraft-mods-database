@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9enMEvoc",
+      "versionId": "hdlfTIxW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010066,
+      "fileId": 6396734
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_structures_arise",
+      "version": "153.26.25"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_structures_arise",
+      "version": "154.27.26"
+    }
+  ]
+}

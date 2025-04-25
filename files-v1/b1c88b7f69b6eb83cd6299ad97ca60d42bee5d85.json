@@ -1,0 +1,22 @@
+{
+  "name": "feur_extension_fossil-1.20.1-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1117070,
+      "fileId": 6325956
+    }
+  ],
+  "forge": [
+    {
+      "modId": "feur_extension_fossil",
+      "version": "1.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feur_extension_fossil",
+      "version": "1.2.6"
+    }
+  ]
+}

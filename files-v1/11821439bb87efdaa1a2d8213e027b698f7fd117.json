@@ -1,6 +1,18 @@
 {
   "name": "alternate-current-mc1.16-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r0v8vy1s",
+      "versionId": "GiAWvJK9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548115,
+      "fileId": 3541924
+    }
+  ],
   "fabric": [
     {
       "modId": "alternatecurrent",

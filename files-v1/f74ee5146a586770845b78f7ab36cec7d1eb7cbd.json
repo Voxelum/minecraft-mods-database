@@ -1,6 +1,18 @@
 {
   "name": "ClearHitboxes-1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lbOOPeKq",
+      "versionId": "NqUtnMGf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 431510,
+      "fileId": 3998692
+    }
+  ],
   "fabric": [
     {
       "modId": "clearhitboxes",

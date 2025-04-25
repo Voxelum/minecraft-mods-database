@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "GQFqFMcK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 6272729
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_config",
+      "version": "0.6.5+1.21"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt_tomlkt-jvm",
+      "version": "0.3.7"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

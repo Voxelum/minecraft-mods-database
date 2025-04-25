@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "kleeslabs-fabric-1.21.1-21.1.4.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "7uh75ruZ",
       "versionId": "8r7UMcCz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 241895,
+      "fileId": 6189526
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kleeslabs",
+      "version": "21.1.4"
     }
   ]
 }

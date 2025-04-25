@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Abkqr1E0",
+      "versionId": "5GAZ2PSq"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fumo",
+      "version": "15.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fumo",
+      "version": "16.0.0"
+    }
+  ]
+}

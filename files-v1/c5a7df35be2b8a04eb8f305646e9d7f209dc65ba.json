@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "emi-1.1.19+1.20.1+forge.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "fRiHVvU7",
       "versionId": "GSmsesll"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580555,
+      "fileId": 6075448
     }
   ],
   "forge": [

@@ -1,6 +1,18 @@
 {
   "name": "origins-forge-1.20.1-1.10.0.3-all.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jl3m2lR9",
+      "versionId": "fU0QCG4R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 474438,
+      "fileId": 4927813
+    }
+  ],
   "forge": [
     {
       "modId": "origins",

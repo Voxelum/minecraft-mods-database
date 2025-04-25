@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "bclib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "3.0.14"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "1.1.5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oNB5jhlA",
+      "versionId": "2lNEPcsf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1038130,
+      "fileId": 6195382
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bakery",
+      "version": "2.0.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.136"
+    }
+  ]
+}

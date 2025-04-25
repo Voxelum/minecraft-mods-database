@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IYY9Siz8",
+      "versionId": "myXuhjoE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623764,
+      "fileId": 5988163
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jamlib",
+      "version": "1.2.2-build.2+1.21.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

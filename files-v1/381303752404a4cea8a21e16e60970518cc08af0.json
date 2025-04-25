@@ -1,0 +1,26 @@
+{
+  "name": "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xHskr2cS",
+      "versionId": "nBbtnbel"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 485245,
+      "fileId": 6292692
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modernworldcreation",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

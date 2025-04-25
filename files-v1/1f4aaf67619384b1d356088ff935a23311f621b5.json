@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "1F6PXLSB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412082,
+      "fileId": 6211268
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "supplementaries",
+      "version": "1.20-3.1.16"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

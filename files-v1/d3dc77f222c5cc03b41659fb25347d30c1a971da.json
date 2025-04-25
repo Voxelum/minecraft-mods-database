@@ -1,0 +1,26 @@
+{
+  "name": "EasyShulkerBoxes-v21.4.2-1.21.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gA5euN8S",
+      "versionId": "ABKlrsZL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 594006,
+      "fileId": 6315553
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easyshulkerboxes",
+      "version": "21.4.2"
+    },
+    {
+      "modId": "iteminteractions",
+      "version": "21.4.2"
+    }
+  ]
+}

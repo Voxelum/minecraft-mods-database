@@ -1,0 +1,28 @@
+{
+  "name": "manure-1.21.4-3.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vl1qd1sW",
+      "versionId": "rGkEgwQ2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 699577,
+      "fileId": 6185592
+    }
+  ],
+  "forge": [
+    {
+      "modId": "manure",
+      "version": "3.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "manure",
+      "version": "3.9"
+    }
+  ]
+}

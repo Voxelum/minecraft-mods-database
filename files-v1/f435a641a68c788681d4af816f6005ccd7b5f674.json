@@ -1,0 +1,26 @@
+{
+  "name": "plushables-1.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bpUgmHBo",
+      "versionId": "cDsVdQar"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318603,
+      "fileId": 6197185
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plushables",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

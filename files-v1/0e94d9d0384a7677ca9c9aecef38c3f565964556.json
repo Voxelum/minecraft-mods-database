@@ -1,0 +1,26 @@
+{
+  "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.170-all.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wnEe9KBa",
+      "versionId": "sG4EaatO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 552542,
+      "fileId": 6199928
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vmp",
+      "version": "0.2.0+beta.7.170+1.21.1"
+    },
+    {
+      "modId": "com_ibm_async_asyncutil",
+      "version": "0.1.0"
+    }
+  ]
+}

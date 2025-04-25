@@ -1,0 +1,66 @@
+{
+  "name": "vivecraft-1.21.5-1.2.5-b3-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wGoQDPN5",
+      "versionId": "ufdAM2fR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667903,
+      "fileId": 6355835
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vivecraft",
+      "version": "1.21.5-1.2.5-b3"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.62+73a52b4b07"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.49+73a52b4b07"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.4.0+f3ffa98907"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.6+02ca679607"
+    },
+    {
+      "modId": "com_illposed_osc_javaosc-core",
+      "version": "0.9"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-linux",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-macos",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr_natives-windows",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "org_lwjgl_lwjgl-openvr",
+      "version": "3.3.3"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    }
+  ]
+}

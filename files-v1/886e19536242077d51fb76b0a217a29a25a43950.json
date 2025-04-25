@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6L3ydNi8",
+      "versionId": "vOUB9Plx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 6355750
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "7.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "7.3"
+    }
+  ]
+}

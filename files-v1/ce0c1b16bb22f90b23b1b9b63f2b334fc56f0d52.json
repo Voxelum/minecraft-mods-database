@@ -1,0 +1,38 @@
+{
+  "name": "styled-chat-2.2.4+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "doqSKB0e",
+      "versionId": "pwr7uYCH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 493348,
+      "fileId": 6131459
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "styledchat",
+      "version": "2.2.4+1.20.1"
+    },
+    {
+      "modId": "predicate-api",
+      "version": "0.1.2+1.20"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.1.4+1.20.1"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.2.2+1.19.3"
+    }
+  ]
+}

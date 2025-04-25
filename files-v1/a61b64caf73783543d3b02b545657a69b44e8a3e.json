@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ftbquests",
+      "version": "2101.1.8"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

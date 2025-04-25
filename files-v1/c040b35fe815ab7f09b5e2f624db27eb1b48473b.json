@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "ra7o6Sl7",
       "versionId": "KfU8KPBE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 821483,
+      "fileId": 6164452
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "meadow",
+      "version": "1.3.23"
     }
   ]
 }

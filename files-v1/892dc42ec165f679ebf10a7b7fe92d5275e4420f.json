@@ -1,0 +1,26 @@
+{
+  "name": "DiagonalWindows-v21.4.0-1.21.4-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oOi0CKes",
+      "versionId": "h1KHbeVR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 891328,
+      "fileId": 6164578
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diagonalwindows",
+      "version": "21.4.0"
+    },
+    {
+      "modId": "diagonalblocks",
+      "version": "21.4.0"
+    }
+  ]
+}

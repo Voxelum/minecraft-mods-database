@@ -1,0 +1,28 @@
+{
+  "name": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2c.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9IxCUYAP",
+      "versionId": "EIzmBYt7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623723,
+      "fileId": 6337939
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hopo",
+      "version": "1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobettermineshaft",
+      "version": "1.2.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ubesdelight-fabric-1.21.1-0.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PYjpoAys",
+      "versionId": "vOlaigKV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903894,
+      "fileId": 6087385
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ubesdelight",
+      "version": "0.3.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

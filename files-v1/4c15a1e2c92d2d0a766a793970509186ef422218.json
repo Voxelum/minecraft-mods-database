@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "emi_loot-0.7.5+1.20.1+fix1+fabric.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "qbbO7Jns",
       "versionId": "qMVMQnTb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681783,
+      "fileId": 6157015
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emi_loot",
+      "version": "0.7.5+1.20.1+fix1+fabric"
     }
   ]
 }

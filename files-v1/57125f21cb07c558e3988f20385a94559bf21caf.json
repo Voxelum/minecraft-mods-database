@@ -1,0 +1,26 @@
+{
+  "name": "skill tree for pufferfish's skills.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KsIs7qhw",
+      "versionId": "FEi0IKJ7"
+    },
+    {
+      "projectId": "KsIs7qhw",
+      "versionId": "nD383o0Q"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "big_skill_tree_for_pufferfishs_skills",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skill_tree_for_pufferfishs_skills",
+      "version": "1.0"
+    }
+  ]
+}

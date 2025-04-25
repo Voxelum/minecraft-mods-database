@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "BL7ADJ7w",
       "versionId": "zH9nZIu1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870275,
+      "fileId": 6165306
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "trimeffects",
+      "version": "2.1.2"
     }
   ]
 }

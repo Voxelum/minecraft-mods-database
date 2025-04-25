@@ -1,9 +1,16 @@
 {
   "name": "",
+  "domain": "resourcepacks",
   "modrinth": [
     {
       "projectId": "gfiYlQU0",
       "versionId": "MvlCqFMT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 860898,
+      "fileId": 5996670
     }
   ]
 }

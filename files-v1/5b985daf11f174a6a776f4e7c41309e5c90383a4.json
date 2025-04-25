@@ -1,6 +1,18 @@
 {
   "name": "exhud-1.2.01.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WBMAdFoM",
+      "versionId": "FIxlHfbf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 960754,
+      "fileId": 5023666
+    }
+  ],
   "fabric": [
     {
       "modId": "exhud",

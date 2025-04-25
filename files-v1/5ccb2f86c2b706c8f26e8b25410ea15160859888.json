@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "Mantle-1.20.1-1.11.36.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Cg6Uc79H",
+      "versionId": "rwGfUxbm"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 74924,
       "fileId": 6105891
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mantle",
+      "version": "1.11.36"
     }
   ]
 }

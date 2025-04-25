@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BzOTnuqM",
+      "versionId": "Xy2rDbVj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568372,
+      "fileId": 6412256
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fishofthieves",
+      "version": "4.1.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

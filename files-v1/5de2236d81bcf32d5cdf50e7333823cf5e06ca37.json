@@ -1,0 +1,28 @@
+{
+  "name": "anvilrestoration-1.21.4-2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bd8nwTGy",
+      "versionId": "AgMWWTzG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 523801,
+      "fileId": 6186722
+    }
+  ],
+  "forge": [
+    {
+      "modId": "anvilrestoration",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "anvilrestoration",
+      "version": "2.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "polytone-1.19.2-1.14.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3qAYkBMB",
+      "versionId": "Sze0yn2t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958094,
+      "fileId": 5066051
+    }
+  ],
   "forge": [
     {
       "modId": "polytone",

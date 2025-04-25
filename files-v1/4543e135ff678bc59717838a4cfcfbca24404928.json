@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "geckolib",
+      "version": "4.7.1"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

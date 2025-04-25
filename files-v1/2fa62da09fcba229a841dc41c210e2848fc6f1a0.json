@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "fqyj29ZM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6331654
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.6.0-a.build.87"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.1+1.21.5-rc1"
+    }
+  ]
+}

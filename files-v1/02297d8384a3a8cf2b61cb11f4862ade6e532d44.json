@@ -1,0 +1,28 @@
+{
+  "name": "villagespawnpoint-1.20.1-4.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KplTt9Ku",
+      "versionId": "fCv0fAKU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347381,
+      "fileId": 6184895
+    }
+  ],
+  "forge": [
+    {
+      "modId": "villagespawnpoint",
+      "version": "4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagespawnpoint",
+      "version": "4.5"
+    }
+  ]
+}

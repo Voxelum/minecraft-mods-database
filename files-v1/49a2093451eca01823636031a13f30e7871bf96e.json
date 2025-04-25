@@ -1,0 +1,22 @@
+{
+  "name": "[网络音乐机] netmusic-forge-1.20.1-1.1.5-release.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gKNuqaQq",
+      "versionId": "5mskj1vz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 978569,
+      "fileId": 6312310
+    }
+  ],
+  "forge": [
+    {
+      "modId": "netmusic",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

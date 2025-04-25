@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "takesapillage-fabric-mc1.21.1-1.0.6.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "QOJOg1gE",
       "versionId": "gIh5Q8A3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1111063,
+      "fileId": 6242717
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "takesapillage",
+      "version": "1.0.6"
     }
   ]
 }

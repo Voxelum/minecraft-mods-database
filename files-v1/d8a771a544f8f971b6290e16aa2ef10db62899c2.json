@@ -1,12 +1,26 @@
 {
-  "name": "",
+  "name": "thebrokenscript-1.9.3-forge-1.20.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "TocuaDpt",
       "versionId": "jhfudBAo"
     }
-  ]
-}"
+  ],
+  "curseforge": [
+    {
+      "projectId": 1221164,
+      "fileId": 6309400
+    },
+    {
+      "projectId": 1245495,
+      "fileId": 6434212
+    }
+  ],
+  "forge": [
+    {
+      "modId": "thebrokenscript",
+      "version": "1.9"
     }
   ]
 }

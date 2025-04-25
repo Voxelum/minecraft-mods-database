@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "JyVuANiw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 6107789
+    }
+  ],
+  "forge": [
+    {
+      "modId": "resourcify",
+      "version": "1.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "resourcify",
+      "version": "1.7.0"
+    }
+  ]
+}

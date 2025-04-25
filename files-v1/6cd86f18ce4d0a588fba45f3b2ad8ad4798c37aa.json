@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "MyNethersDelight-1.21.1-1.1.2+1.7.7.refabricated.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "uIOfYdnw",
       "versionId": "rkwjWfoa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1093355,
+      "fileId": 5962184
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mynethersdelight",
+      "version": "1.21.1-1.1.2+1.7.7.refabricated"
     }
   ]
 }

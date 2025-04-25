@@ -1,0 +1,26 @@
+{
+  "name": "amendments-1.20-1.2.19-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6iTJugQR",
+      "versionId": "E9PbJYi2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 896746,
+      "fileId": 6259598
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amendments",
+      "version": "1.20-1.2.19"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

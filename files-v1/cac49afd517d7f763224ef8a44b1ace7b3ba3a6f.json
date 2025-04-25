@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P29i0RkN",
+      "versionId": "pTlslh1e"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bygone",
+      "version": "1.2.2b"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta66-1.21"
+    }
+  ]
+}

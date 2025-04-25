@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m0TRBPCH",
+      "versionId": "5JCJB5le"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1171145,
+      "fileId": 6066205
+    }
+  ],
+  "forge": [
+    {
+      "modId": "animalgarden_porcupine",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "animalgarden_porcupine",
+      "version": "1.0.0"
+    }
+  ]
+}

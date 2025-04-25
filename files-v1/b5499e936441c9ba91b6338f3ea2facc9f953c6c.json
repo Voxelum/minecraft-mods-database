@@ -1,6 +1,18 @@
 {
   "name": "hardcore_torches_fabric-1.20.1-1.6.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ru97clEJ",
+      "versionId": "B68A5r95"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242844,
+      "fileId": 5010929
+    }
+  ],
   "fabric": [
     {
       "modId": "hardcore_torches",

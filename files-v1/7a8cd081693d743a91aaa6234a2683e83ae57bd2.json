@@ -1,0 +1,28 @@
+{
+  "name": "lullaby-graves-v2.1.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kieAM9Us",
+      "versionId": "8l6YfN71"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1215040,
+      "fileId": 6275989
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lullaby_graves",
+      "version": "1-v2.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lullaby_graves",
+      "version": "1-v2.1.4"
+    }
+  ]
+}

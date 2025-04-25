@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IrrG0G8l",
+      "versionId": "AcvApl9c"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "horsebuff",
+      "version": "2.1.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.0.99"
+    },
+    {
+      "modId": "fabric-screen-api-v1",
+      "version": "2.0.8+1802ada577"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.11+fb82e9d777"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4Vno77MY",
+      "versionId": "j67RfSlZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 962885,
+      "fileId": 6172649
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bloomingnature",
+      "version": "1.0.12"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

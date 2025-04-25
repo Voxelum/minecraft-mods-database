@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "CraterLib-Fabric-1.21-2.1.3.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "Nn8Wasaq",
       "versionId": "bEBkHIwk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867099,
+      "fileId": 6150124
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craterlib",
+      "version": "2.1.3"
     }
   ]
 }

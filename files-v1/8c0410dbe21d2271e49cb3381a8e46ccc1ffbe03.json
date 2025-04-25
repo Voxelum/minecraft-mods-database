@@ -1,0 +1,22 @@
+{
+  "name": "reforgedplaymod-1.21.1-0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1018692,
+      "fileId": 6137859
+    }
+  ],
+  "forge": [
+    {
+      "modId": "reforgedplaymod",
+      "version": "${version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "replaymod",
+      "version": "${version}"
+    }
+  ]
+}

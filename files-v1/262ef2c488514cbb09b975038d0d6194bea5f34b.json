@@ -1,6 +1,18 @@
 {
   "name": "idas_forge-1.8.5+1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Z8OZShAU",
+      "versionId": "TrnmVSvC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 605375,
+      "fileId": 5153141
+    }
+  ],
   "forge": [
     {
       "modId": "idas",

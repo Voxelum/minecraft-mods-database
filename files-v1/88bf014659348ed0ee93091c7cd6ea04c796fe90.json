@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "SnowRealMagic-1.21.1-Fabric-11.1.0.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "iJNje1E8",
       "versionId": "AiZAUheV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 560441,
+      "fileId": 6269801
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "snowrealmagic",
+      "version": "11.1.0+fabric"
     }
   ]
 }

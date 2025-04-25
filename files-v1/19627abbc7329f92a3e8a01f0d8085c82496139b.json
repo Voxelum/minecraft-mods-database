@@ -1,0 +1,26 @@
+{
+  "name": "despawntweaks-fabric-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ahQrpeXp",
+      "versionId": "DaaZAwXC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1191080,
+      "fileId": 6145372
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "despawntweaks",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "mvs-4.2.8-1.21.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "OQAgZMH1",
       "versionId": "VYyt5avd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 656977,
+      "fileId": 6080774
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mvs",
+      "version": "4.2.8-1.21-fabric"
     }
   ]
 }

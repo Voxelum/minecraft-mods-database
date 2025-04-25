@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m0oRwcZx",
+      "versionId": "JPvsNzsT"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cameraoverhaul",
+      "version": "2.0.0-fabric+mc.1.20.6-1.21.1"
+    },
+    {
+      "modId": "io_hotmoka_toml4j",
+      "version": "0.7.3"
+    }
+  ]
+}

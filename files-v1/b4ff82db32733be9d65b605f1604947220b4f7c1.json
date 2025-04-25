@@ -1,6 +1,18 @@
 {
   "name": "framed_hopper_1.20.1-1.1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "myu9yYM5",
+      "versionId": "Ep4gsFMu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876836,
+      "fileId": 4767447
+    }
+  ],
   "forge": [
     {
       "modId": "framed_hopper",

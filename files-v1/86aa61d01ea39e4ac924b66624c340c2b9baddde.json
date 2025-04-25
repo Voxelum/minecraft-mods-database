@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "villagesandpillages-fabric-mc1.21.1-1.0.3.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "klXONLDA",
       "versionId": "Q5mOv1hJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915531,
+      "fileId": 6266440
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagesandpillages",
+      "version": "1.0.3"
     }
   ]
 }

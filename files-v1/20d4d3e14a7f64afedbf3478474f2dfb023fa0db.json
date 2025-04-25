@@ -1,0 +1,36 @@
+{
+  "name": "ender_pack-merged-1.20.1-2.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HaS8KaHF",
+      "versionId": "HrKLuEAj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959446,
+      "fileId": 6200716
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ender_pack",
+      "version": "2.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ender_pack",
+      "version": "2.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.0"
+    }
+  ]
+}

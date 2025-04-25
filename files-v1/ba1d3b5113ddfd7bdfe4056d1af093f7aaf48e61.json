@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "rsBLWxD0",
       "versionId": "MpfcTAyQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1090102,
+      "fileId": 6094253
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fantasy_weapons",
+      "version": "0.3.1-1.20.1"
     }
   ]
 }

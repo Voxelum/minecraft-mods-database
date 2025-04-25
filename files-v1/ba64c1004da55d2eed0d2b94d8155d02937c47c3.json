@@ -1,6 +1,12 @@
 {
   "name": "TAB-Mod-Fabric-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gG7VFbG0",
+      "versionId": "gxt0WZK0"
+    }
+  ],
   "fabric": [
     {
       "modId": "tab",

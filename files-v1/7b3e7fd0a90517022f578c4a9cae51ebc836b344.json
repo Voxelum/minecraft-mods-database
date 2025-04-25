@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "lithostitched-fabric-1.21.1-1.4.5.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "XaDC71GB",
       "versionId": "GyOXVW9s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936015,
+      "fileId": 6201870
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lithostitched",
+      "version": "1.4.2"
     }
   ]
 }

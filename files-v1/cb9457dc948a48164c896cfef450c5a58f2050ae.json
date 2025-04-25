@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fUa6OtBG",
+      "versionId": "36dU7IUR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007872,
+      "fileId": 6432180
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_ltab",
+      "version": "2.7.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_ltab",
+      "version": "2.7.0"
+    }
+  ]
+}

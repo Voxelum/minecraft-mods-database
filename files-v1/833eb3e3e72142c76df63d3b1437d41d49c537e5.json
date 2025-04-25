@@ -1,6 +1,18 @@
 {
   "name": "CodeChickenLib-1.16.5-4.0.2.427-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2gq0ALnz",
+      "versionId": "K2vWksWT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 242818,
+      "fileId": 3361747
+    }
+  ],
   "forge": [
     {
       "modId": "codechickenlib",

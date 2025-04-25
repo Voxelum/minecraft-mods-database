@@ -1,9 +1,26 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "nT86WUER",
       "versionId": "XcuwXeot"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1056812,
+      "fileId": 6087783
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unilib",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.10+1802ada577"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "C255PPUX",
+      "versionId": "3s1tB38E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 436298,
+      "fileId": 6301927
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "map_atlases",
+      "version": "1.20-6.0.15"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crops-Love-Rain-2.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cRci7UZp",
+      "versionId": "JT0fNDm0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580294,
+      "fileId": 6117471
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cropsloverain",
+      "version": "2.4.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.7"
+    }
+  ]
+}

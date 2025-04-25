@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "g8eTEPLm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393563,
+      "fileId": 6151379
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "5.1.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.7"
+    }
+  ]
+}

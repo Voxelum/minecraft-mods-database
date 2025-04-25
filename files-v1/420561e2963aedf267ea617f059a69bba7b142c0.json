@@ -1,0 +1,42 @@
+{
+  "name": "artifacts-fabric-9.5.15.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P0Mu4wcQ",
+      "versionId": "jf0yT7BF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 312353,
+      "fileId": 6351710
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "artifacts",
+      "version": "9.5.15"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "expandability",
+      "version": "9.0.4"
+    }
+  ]
+}

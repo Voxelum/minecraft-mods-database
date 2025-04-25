@@ -1,0 +1,22 @@
+{
+  "name": "signal_flares-1.2.2-forge-1.19.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1166889,
+      "fileId": 6093075
+    }
+  ],
+  "forge": [
+    {
+      "modId": "signal_flares",
+      "version": "1.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iron_flares",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "BetterGrassify-1.6.0+fabric.1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m5T5xmUy",
+      "versionId": "Is0HRoQH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1026394,
+      "fileId": 6351923
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettergrass",
+      "version": "1.6.0+fabric.1.21.5"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

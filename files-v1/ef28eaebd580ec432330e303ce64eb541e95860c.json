@@ -1,9 +1,34 @@
 {
-  "name": "",
+  "name": "archers-1.3.0+1.20.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "QgooUXAJ",
       "versionId": "H5nqeKSL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 932359,
+      "fileId": 6096204
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "archers",
+      "version": "1.3.0+1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "structure_pool_api",
+      "version": "1.0+1.20.1"
+    },
+    {
+      "modId": "ranged_weapon_api",
+      "version": "1.1.0+1.20.1"
     }
   ]
 }

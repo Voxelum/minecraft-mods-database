@@ -1,0 +1,26 @@
+{
+  "name": "CustomWindowTitle-1.21.4+v1.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RGH5gtzF",
+      "versionId": "Pqn8PDBd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 360673,
+      "fileId": 6273384
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customwindowtitle_multiloader",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "customwindowtitle",
+      "version": "1.4.1"
+    }
+  ]
+}

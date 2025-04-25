@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cTdIg5HZ",
+      "versionId": "wvVbdpeV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1168140,
+      "fileId": 6132356
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fightorflight",
+      "version": "0.7.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.140"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "welcomescreen-fabric-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EzQkPElf",
+      "versionId": "aZ4sQ9P7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1193211,
+      "fileId": 6158675
+    }
+  ],
+  "forge": [
+    {
+      "modId": "welcomescreen",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcomescreen",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1XoXkBdT",
+      "versionId": "QlDGdZxj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1111023,
+      "fileId": 6010673
+    }
+  ],
+  "forge": [
+    {
+      "modId": "twilightforest",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "twilightforest",
+      "version": "1.4.7"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib_data",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "disable_custom_worlds_advice",
+      "version": "4.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "javax_annotation_javax_annotation-api",
+      "version": "1.3.2"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_models",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_builders",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_generators",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_registries",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.3"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

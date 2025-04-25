@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "distraction_free_recipes",
+      "version": "1.2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "distraction_free_recipes",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

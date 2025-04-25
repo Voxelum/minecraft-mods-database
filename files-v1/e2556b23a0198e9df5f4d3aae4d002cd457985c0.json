@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "51shyZVL",
+      "versionId": "Lh9uFvJ9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 630104,
+      "fileId": 6056695
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moreculling",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    }
+  ]
+}

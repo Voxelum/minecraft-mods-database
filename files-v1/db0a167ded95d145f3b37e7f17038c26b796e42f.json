@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RSeLon5O",
+      "versionId": "ICRFK0J1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particle_core",
+      "version": "0.2.6+1.21.4"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.5.1"
+    }
+  ]
+}

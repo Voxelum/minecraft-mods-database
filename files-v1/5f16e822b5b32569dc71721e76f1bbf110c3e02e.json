@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PxQSWIcD",
+      "versionId": "IqgZM27b"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551736,
+      "fileId": 6408534
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumdynamiclights",
+      "version": "1.0.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumdynamiclights",
+      "version": "1.0.10"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.5.1"
+    },
+    {
+      "modId": "com_github_bawnorton_mixinsquared_mixinsquared-neoforge",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

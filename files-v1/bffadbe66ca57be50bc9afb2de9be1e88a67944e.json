@@ -1,0 +1,26 @@
+{
+  "name": "dynamicsurroundings-fabric-1.21.1-0.4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H7fshfpD",
+      "versionId": "PdSOBhyc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238891,
+      "fileId": 6063186
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dsurround",
+      "version": "0.4.2"
+    },
+    {
+      "modId": "org_openjdk_nashorn_nashorn-core",
+      "version": "15.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oGU9LXKC",
+      "versionId": "snxhAQza"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 369343,
+      "fileId": 5930480
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blockmeter",
+      "version": "1.15"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    }
+  ]
+}

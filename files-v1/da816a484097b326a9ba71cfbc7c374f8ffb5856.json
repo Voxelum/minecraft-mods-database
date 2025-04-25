@@ -1,0 +1,28 @@
+{
+  "name": "Heaven 1.1+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "f1RjPKBe",
+      "versionId": "pShoSqyN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 620558,
+      "fileId": 6041856
+    }
+  ],
+  "forge": [
+    {
+      "modId": "heaven",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "heaven",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "U6SxVSt9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 6383870
+    }
+  ],
+  "forge": [
+    {
+      "modId": "creativecore",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.12.32"
+    },
+    {
+      "modId": "net_minecraftforge_eventbus",
+      "version": "6.0.3"
+    }
+  ]
+}

@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "friendguard-1.21.1-2.1.5.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "uAI6ThZg",
       "versionId": "ZsRUT5m6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1059818,
+      "fileId": 5611840
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "friendguard",
+      "version": "2.1.5"
     }
   ]
 }

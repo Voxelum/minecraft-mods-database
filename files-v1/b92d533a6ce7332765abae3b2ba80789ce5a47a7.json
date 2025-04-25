@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "pf1ZGzbI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 467028,
+      "fileId": 6351105
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.1.4+cb9658f-SNAPSHOT"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    }
+  ]
+}

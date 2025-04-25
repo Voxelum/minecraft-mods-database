@@ -1,0 +1,28 @@
+{
+  "name": "collective-1.20.1-8.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "P0uRrvF9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 6429218
+    }
+  ],
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "8.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "8.3"
+    }
+  ]
+}

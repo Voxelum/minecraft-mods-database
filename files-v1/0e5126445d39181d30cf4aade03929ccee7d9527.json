@@ -1,0 +1,14 @@
+{
+  "name": "ArdaMobs-1.2-SNAPSHOT.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ardamobs",
+      "version": "1.2-SNAPSHOT"
+    },
+    {
+      "modId": "azurelib",
+      "version": "2.0.39"
+    }
+  ]
+}

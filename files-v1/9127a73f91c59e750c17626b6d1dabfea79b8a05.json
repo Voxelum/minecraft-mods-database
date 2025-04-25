@@ -1,6 +1,12 @@
 {
   "name": "seafarer-1.0.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1098212,
+      "fileId": 5880189
+    }
+  ],
   "forge": [
     {
       "modId": "seafarer",

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BdKIyOLe",
+      "versionId": "mYziuRMS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 482160,
+      "fileId": 6059193
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "boatiview",
+      "version": "0.0.6"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.143"
+    }
+  ]
+}

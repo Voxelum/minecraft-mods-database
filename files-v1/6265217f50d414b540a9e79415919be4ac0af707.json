@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "emotecraft-fabric-for-MC1.21.4-2.5.5.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "pZ2wrerK",
       "versionId": "5XsQ3Xbt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6331589
     }
   ],
   "fabric": [

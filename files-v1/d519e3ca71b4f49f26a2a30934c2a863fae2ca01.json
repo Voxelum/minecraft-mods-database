@@ -1,6 +1,18 @@
 {
   "name": "canary-mc1.19.4-0.2.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qa2H4BS9",
+      "versionId": "NZE8AZVj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665658,
+      "fileId": 4588507
+    }
+  ],
   "forge": [
     {
       "modId": "canary",

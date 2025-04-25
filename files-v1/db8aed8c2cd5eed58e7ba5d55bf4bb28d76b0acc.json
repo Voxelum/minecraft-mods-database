@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jmLyNFBG",
+      "versionId": "fDXv4XYw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390913,
+      "fileId": 6185969
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fixedanvilrepaircost",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fixedanvilrepaircost",
+      "version": "3.5"
+    }
+  ]
+}

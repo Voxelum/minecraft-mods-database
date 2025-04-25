@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "Kq85VO76"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 6366769
+    }
+  ],
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "8.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "8.0"
+    }
+  ]
+}

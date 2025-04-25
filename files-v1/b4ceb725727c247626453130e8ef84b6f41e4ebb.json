@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "emi-1.1.20+1.20.1+fabric.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "fRiHVvU7",
       "versionId": "DXUtDziE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580555,
+      "fileId": 6205512
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emi",
+      "version": "1.1.20+1.20.1+fabric"
     }
   ]
 }

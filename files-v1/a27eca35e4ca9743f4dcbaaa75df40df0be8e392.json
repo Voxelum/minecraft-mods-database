@@ -1,0 +1,28 @@
+{
+  "name": "collective-1.21.1-8.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e0M1UDsY",
+      "versionId": "1Zu68XS4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342584,
+      "fileId": 6367086
+    }
+  ],
+  "forge": [
+    {
+      "modId": "collective",
+      "version": "8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collective",
+      "version": "8.1"
+    }
+  ]
+}

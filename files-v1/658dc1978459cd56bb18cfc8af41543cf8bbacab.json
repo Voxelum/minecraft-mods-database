@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3FJ8AhW0",
+      "versionId": "dS73JPbM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medievalorigins",
+      "version": "7.0.1-alpha-4"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "2.0.0+1.21.1"
+    }
+  ]
+}

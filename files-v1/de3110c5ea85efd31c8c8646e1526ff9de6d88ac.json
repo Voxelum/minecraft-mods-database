@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rvZnCrhx",
+      "versionId": "EkNRu56S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1194409,
+      "fileId": 6366029
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_fokusapi",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_fokusapi",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "omega_config",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "omega-config",
+      "version": "1.2.3-1.18.1"
+    }
+  ]
+}

@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "mcdar-4.0.5.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "xweQBqAC",
       "versionId": "oJXQHrhU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 476788,
+      "fileId": 6075583
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcdar",
+      "version": "4.0.5"
     }
   ]
 }

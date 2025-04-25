@@ -1,0 +1,26 @@
+{
+  "name": "sodiumleafculling-fabric-1.0.1-1.21.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1089479,
+      "fileId": 6394120
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sodiumleafculling",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodiumleafculling",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

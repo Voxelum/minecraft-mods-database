@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Acxy864",
+      "versionId": "PX90nVpR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010827,
+      "fileId": 6095270
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uranus",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "architectury",
+      "version": "9.2.14"
+    },
+    {
+      "modId": "sponsor_core",
+      "version": "1.0.0"
+    }
+  ]
+}

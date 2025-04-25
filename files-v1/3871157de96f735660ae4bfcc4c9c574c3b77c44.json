@@ -1,0 +1,28 @@
+{
+  "name": "inventorymending-1.21.4-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y6Ryy40D",
+      "versionId": "LcgVYUhK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1202499,
+      "fileId": 6283398
+    }
+  ],
+  "forge": [
+    {
+      "modId": "inventorymending",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorymending",
+      "version": "1.2"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "brainierbees-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O2WJc0f3",
+      "versionId": "NiT5T5Pg"
+    }
+  ],
   "fabric": [
     {
       "modId": "brainierbees",

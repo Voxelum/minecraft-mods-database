@@ -1,0 +1,28 @@
+{
+  "name": "lost-libraries-1.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o4gsLB4v",
+      "versionId": "Sen7E5yx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 900205,
+      "fileId": 6125215
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lost_libraries",
+      "version": "1.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lost_libraries",
+      "version": "1.1.2"
+    }
+  ]
+}

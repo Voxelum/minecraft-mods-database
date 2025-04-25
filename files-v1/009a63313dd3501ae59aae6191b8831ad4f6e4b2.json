@@ -1,0 +1,66 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YlKdE5VK",
+      "versionId": "XJiIIczg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 391298,
+      "fileId": 6368927
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viafabric",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "cotton-client-commands",
+      "version": "1.1.0+1.15.2"
+    },
+    {
+      "modId": "viafabric-mc1144",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1152",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1165",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1171",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1182",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1194",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1201",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1206",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viafabric-mc1215",
+      "version": "0.4.18+107-main"
+    },
+    {
+      "modId": "viaversion",
+      "version": "5.3.1"
+    }
+  ]
+}

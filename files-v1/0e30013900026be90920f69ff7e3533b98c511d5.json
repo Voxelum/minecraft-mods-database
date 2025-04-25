@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fdZkP5Bb",
+      "versionId": "spx7Hv3u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686569,
+      "fileId": 5425121
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanilla-permissions",
+      "version": "0.2.3+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.1"
+    }
+  ]
+}

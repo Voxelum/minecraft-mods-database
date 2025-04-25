@@ -1,22 +1,9 @@
 {
   "name": "",
-  "domain": "mods",
-  "modrinth": [
-    {
-      "projectId": "QeB3NRC5",
-      "versionId": "AOOSQtmS"
-    }
-  ],
   "curseforge": [
     {
       "projectId": 623969,
       "fileId": 5888767
-    }
-  ],
-  "forge": [
-    {
-      "modId": "avaritia",
-      "version": "1.3.9.0"
     }
   ]
 }

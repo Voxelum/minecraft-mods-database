@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "frostiful-2.2-beta.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "Ae6qoBj3",
       "versionId": "l4yqqXg1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 715248,
+      "fileId": 6302685
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frostiful",
+      "version": "2.2-beta.1"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "collisionfix",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "collisionfix",
+      "version": "1.0.1"
+    }
+  ]
+}

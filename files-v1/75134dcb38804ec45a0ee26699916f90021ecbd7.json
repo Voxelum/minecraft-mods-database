@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc69VpnK",
+      "versionId": "6POK9nZr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1137535,
+      "fileId": 6439744
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_epic_terrain_compatible",
+      "version": "0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_epic_terrain_compatible",
+      "version": "0.2"
+    }
+  ]
+}

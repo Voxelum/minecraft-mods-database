@@ -1,0 +1,26 @@
+{
+  "name": "runes-1.1.2+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lP9Yrr1E",
+      "versionId": "RZ1jpzsQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 775518,
+      "fileId": 6355000
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "runes",
+      "version": "1.1.2+1.21.1"
+    },
+    {
+      "modId": "bundleapi",
+      "version": "1.0.2"
+    }
+  ]
+}

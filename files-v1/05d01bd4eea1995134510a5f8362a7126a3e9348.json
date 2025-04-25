@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "k0O2p3by",
+      "versionId": "DCeMDhmQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 929379,
+      "fileId": 6231846
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "antiquebeasts",
+      "version": "1.2.10-fabric-1.20"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.1.1+1.20.1"
+    }
+  ]
+}

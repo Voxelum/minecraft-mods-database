@@ -1,5 +1,6 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "zhVN1dvW",
@@ -10,6 +11,44 @@
     {
       "projectId": 818089,
       "fileId": 5532485
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatimage",
+      "version": "1.2.5+1.20.1+fabric"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.9+132c48c177"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.30+7abfd51577"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da77"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.3.10+eeb8eb3677"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.12+b3afc78b77"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.21+b3afc78b77"
+    },
+    {
+      "modId": "io_github_kituin_chatimagecode",
+      "version": "0.10.0"
+    },
+    {
+      "modId": "actionlib",
+      "version": "0.6.3-fabric"
     }
   ]
 }

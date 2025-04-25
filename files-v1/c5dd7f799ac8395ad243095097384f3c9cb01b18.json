@@ -1,0 +1,44 @@
+{
+  "name": "controlify-2.0.4+1.21-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DOUdJVEm",
+      "versionId": "jSPqsruJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 835847,
+      "fileId": 6353206
+    }
+  ],
+  "forge": [
+    {
+      "modId": "controlify",
+      "version": "2.0.4+1.21-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "2.0.4+1.21-fabric"
+    },
+    {
+      "modId": "org_hid4java_hid4java",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.1.9.075c033-66"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.4"
+    },
+    {
+      "modId": "dev_isxander_steamdeck4j",
+      "version": "1.1.7"
+    }
+  ]
+}

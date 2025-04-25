@@ -1,0 +1,26 @@
+{
+  "name": "elytra_physics-fabric-2.2_mc1.21.2+.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jfvCMH0K",
+      "versionId": "MgJMucet"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 650221,
+      "fileId": 6110789
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytra_physics",
+      "version": "2.2_mc1.21.2+"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

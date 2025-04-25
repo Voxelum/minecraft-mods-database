@@ -1,0 +1,26 @@
+{
+  "name": "medieval_buildings-1.21.X-1.1.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sc9lpPiU",
+      "versionId": "RD2xMuyX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 924590,
+      "fileId": 6360779
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medieval_buildings",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

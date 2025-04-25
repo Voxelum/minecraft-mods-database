@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7qSJGSHp",
+      "versionId": "12EGrXXe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1075383,
+      "fileId": 6177349
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_epicterrain",
+      "version": "0.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_epicterrain",
+      "version": "0.1.4"
+    }
+  ]
+}

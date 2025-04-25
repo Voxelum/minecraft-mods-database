@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KjL0jE2w",
+      "versionId": "xuNOlNeS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 255389,
+      "fileId": 6192510
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.8.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedvisuals",
+      "version": "1.8.2"
+    }
+  ]
+}

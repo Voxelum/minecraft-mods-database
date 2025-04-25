@@ -1,6 +1,18 @@
 {
   "name": "chestsearchbar-1.19.2-1.4.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FqlAuAzY",
+      "versionId": "MkZCzVFj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1050325,
+      "fileId": 5629700
+    }
+  ],
   "forge": [
     {
       "modId": "chestsearchbar",

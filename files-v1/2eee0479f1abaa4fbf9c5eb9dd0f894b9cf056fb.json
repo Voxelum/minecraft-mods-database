@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5IIKsxiL",
+      "versionId": "vjcACuzx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566140,
+      "fileId": 6279182
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extremesoundmuffler",
+      "version": "3.49"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

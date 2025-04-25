@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XNlO7sBv",
+      "versionId": "24pS4i8d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 631020,
+      "fileId": 6156156
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterdeserttemples",
+      "version": "1.21.1-Fabric-4.1.3"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

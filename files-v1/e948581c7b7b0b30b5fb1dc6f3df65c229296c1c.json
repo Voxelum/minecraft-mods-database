@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F8BQNPWX",
+      "versionId": "sZjMMu71"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627986,
+      "fileId": 6322825
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "naturalist",
+      "version": "5.0pre2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

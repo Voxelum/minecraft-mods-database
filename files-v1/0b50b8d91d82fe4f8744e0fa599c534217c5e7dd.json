@@ -1,0 +1,26 @@
+{
+  "name": "darkenchanting-fabric-1.3.1+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6M87Z355",
+      "versionId": "QywFqVFc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 473553,
+      "fileId": 6302106
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "darkenchanting",
+      "version": "1.3.1+1.21.4"
+    },
+    {
+      "modId": "omegaconfig",
+      "version": "1.5.1"
+    }
+  ]
+}

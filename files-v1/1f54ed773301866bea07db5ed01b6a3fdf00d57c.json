@@ -1,6 +1,18 @@
 {
   "name": "Infinity-Water-Bucket-1.12.2-2.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nNMXZUPi",
+      "versionId": "ldMxRgM8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423069,
+      "fileId": 3636360
+    }
+  ],
   "forge": [
     {
       "modId": "infinitywaterbucket",

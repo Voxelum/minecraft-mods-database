@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WBvnqHfV",
+      "versionId": "vLbQwq6H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1044992,
+      "fileId": 6218836
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "natures_spirit",
+      "version": "2.2.2-1.20.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    }
+  ]
+}

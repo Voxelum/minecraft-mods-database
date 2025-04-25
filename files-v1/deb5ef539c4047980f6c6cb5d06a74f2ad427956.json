@@ -1,9 +1,26 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "1DWmBJVA",
       "versionId": "ZnUrEL2E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704465,
+      "fileId": 6122386
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vinery",
+      "version": "1.4.38"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.136"
     }
   ]
 }

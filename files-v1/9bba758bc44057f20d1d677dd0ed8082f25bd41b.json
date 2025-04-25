@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "KAopiPos"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 6369434
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "${version}"
+    }
+  ]
+}

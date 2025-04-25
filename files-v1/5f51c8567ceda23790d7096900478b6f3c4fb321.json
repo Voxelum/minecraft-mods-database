@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4VaCQHUg",
+      "versionId": "MfUdUrKp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1083914,
+      "fileId": 6118689
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pocketgps",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pocketgps",
+      "version": "1.1.5"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

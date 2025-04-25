@@ -1,0 +1,22 @@
+{
+  "name": "craft-tridents-48.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "j6oNCsqx",
+      "versionId": "HmyRhdEi"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_craft_tridents",
+      "version": "48.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_craft_tridents",
+      "version": "48.2"
+    }
+  ]
+}

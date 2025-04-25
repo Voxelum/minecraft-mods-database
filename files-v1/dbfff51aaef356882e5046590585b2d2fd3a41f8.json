@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bXX9h73M",
+      "versionId": "JsJTIdUG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 621768,
+      "fileId": 6197460
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "midnightcontrols",
+      "version": "1.10.4"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.8"
+    },
+    {
+      "modId": "obsidianui",
+      "version": "0.2.10+mc1.21.3"
+    },
+    {
+      "modId": "org_aperlambda_lambdajcommon",
+      "version": "1.8.1"
+    }
+  ]
+}

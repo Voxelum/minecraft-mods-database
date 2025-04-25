@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "mavapi-fabric-1.2.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "t4Ybtys2",
       "versionId": "u7NtSedA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 709964,
+      "fileId": 5973040
     }
   ],
   "fabric": [

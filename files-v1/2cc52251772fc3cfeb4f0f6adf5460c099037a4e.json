@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "autoinfelytra",
+      "version": "2.1.0"
+    },
+    {
+      "modId": "clientarguments",
+      "version": "1.5.1"
+    }
+  ]
+}

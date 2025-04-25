@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "adventurez-1.4.24.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "defK2XM3",
       "versionId": "LxZfB2Kk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390991,
+      "fileId": 6168772
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "adventurez",
+      "version": "1.4.24"
     }
   ]
 }

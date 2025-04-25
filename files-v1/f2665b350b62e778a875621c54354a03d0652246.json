@@ -1,0 +1,22 @@
+{
+  "name": "warfare-expanded-1.5.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ILL8mgu6",
+      "versionId": "3ktPPGzk"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_warfare_expanded",
+      "version": "1.5.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_warfare_expanded",
+      "version": "1.5.1.1"
+    }
+  ]
+}

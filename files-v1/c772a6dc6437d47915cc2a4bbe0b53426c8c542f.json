@@ -1,0 +1,20 @@
+{
+  "name": "vanillin-fabric-1.21.1-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6qTrsXCy",
+      "versionId": "OEBhXAyP"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanillin",
+      "version": "1.0.0+1.21.1"
+    },
+    {
+      "modId": "flywheel",
+      "version": "1.0.2+1.21.1"
+    }
+  ]
+}

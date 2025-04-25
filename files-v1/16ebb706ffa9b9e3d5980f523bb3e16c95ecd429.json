@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "midnightlib-1.6.9-fabric+1.21.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "codAaoxh",
       "versionId": "49HhVYoZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 488090,
+      "fileId": 6222972
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
     }
   ]
 }

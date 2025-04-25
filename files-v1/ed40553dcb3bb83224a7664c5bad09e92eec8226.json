@@ -1,10 +1,16 @@
 {
   "name": "musk_rose_shaders-4.1.zip",
-  "domain": "shaderpacks",
+  "domain": "resourcepacks",
   "modrinth": [
     {
       "projectId": "HpOC6pyc",
       "versionId": "qQRRhxGQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665460,
+      "fileId": 5444076
     }
   ]
 }

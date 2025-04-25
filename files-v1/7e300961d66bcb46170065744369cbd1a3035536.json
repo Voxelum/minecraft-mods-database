@@ -1,0 +1,26 @@
+{
+  "name": "apocalypsedrops-1.0.0-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "onIPcQeK",
+      "versionId": "AZ57QEaA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1029186,
+      "fileId": 5490555
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "apocalypsedrops",
+      "version": "1.0.0-1.20"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

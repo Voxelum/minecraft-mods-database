@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1005914,
+      "fileId": 6365072
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_config",
+      "version": "0.6.8+1.21.5"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt_tomlkt-jvm",
+      "version": "0.3.7"
+    }
+  ]
+}

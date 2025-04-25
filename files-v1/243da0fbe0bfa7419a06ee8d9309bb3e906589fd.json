@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fRhq4ueb",
+      "versionId": "ZZBV4VSM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1107609,
+      "fileId": 6348311
+    }
+  ],
+  "forge": [
+    {
+      "modId": "villager_trading_plus",
+      "version": "1.2+1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villager_trading_plus",
+      "version": "1.2+1.20"
+    }
+  ]
+}

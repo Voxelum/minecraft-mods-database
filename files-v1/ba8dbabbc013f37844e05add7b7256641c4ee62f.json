@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GWp4jCJj",
+      "versionId": "bIFKELd8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 646668,
+      "fileId": 6064373
+    }
+  ],
+  "forge": [
+    {
+      "modId": "createbigcannons",
+      "version": "14.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createbigcannons",
+      "version": "5.8.2"
+    },
+    {
+      "modId": "ritchiesprojectilelib",
+      "version": "2.0.0-dev+mc.1.20.1-fabric-build.182"
+    }
+  ]
+}

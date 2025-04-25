@@ -1,6 +1,18 @@
 {
   "name": "lib - DarkKore-0.3.1-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mB8GNQWO",
+      "versionId": "eXC2Kazg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632729,
+      "fileId": 4025238
+    }
+  ],
   "fabric": [
     {
       "modId": "darkkore",
