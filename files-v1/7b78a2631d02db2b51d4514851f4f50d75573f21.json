@@ -1,0 +1,26 @@
+{
+  "name": "labels-1.20-2.0.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x6r7yhfi",
+      "versionId": "MxONre02"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 688223,
+      "fileId": 6201652
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "labels",
+      "version": "1.20-2.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

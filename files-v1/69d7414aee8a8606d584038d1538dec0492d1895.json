@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "cloud-dash",
+      "version": "4.0.0+1.21"
+    },
+    {
+      "modId": "alternate-hudrendercallback",
+      "version": "1.0.0"
+    }
+  ]
+}

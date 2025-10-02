@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aHJDK02p",
+      "versionId": "4XDjhtMJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 518228,
+      "fileId": 3598215
+    }
+  ],
   "forge": [
     {
       "modId": "signtastic",

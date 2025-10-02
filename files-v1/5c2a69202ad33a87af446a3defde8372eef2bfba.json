@@ -1,0 +1,40 @@
+{
+  "name": "immersivetips-fabric-1.0.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FyiLzCSu",
+      "versionId": "teQHaEwa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1172669,
+      "fileId": 6328181
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivetips",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivetips",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

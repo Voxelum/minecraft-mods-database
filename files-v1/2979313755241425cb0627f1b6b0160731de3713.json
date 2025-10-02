@@ -1,0 +1,46 @@
+{
+  "name": "affinity-0.1.8+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Y8TA5POy",
+      "versionId": "DszCg5TQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938918,
+      "fileId": 6171045
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "affinity",
+      "version": "0.1.8+1.20"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.4.1-pre.1+1.20"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.4"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.3"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.7"
+    }
+  ]
+}

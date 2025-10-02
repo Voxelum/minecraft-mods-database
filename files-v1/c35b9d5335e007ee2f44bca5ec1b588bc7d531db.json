@@ -1,0 +1,20 @@
+{
+  "name": "shield_overhaul-2.0.4-FORGE.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 637870,
+      "fileId": 6161768
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "shield_overhaul",
+      "version": "2.0.4-FORGE"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    }
+  ]
+}

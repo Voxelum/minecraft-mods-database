@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rOrXjyPb",
+      "versionId": "G6GN2FRZ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bookshelfinspector",
+      "version": "1.11+1.21.1"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.4"
+    }
+  ]
+}

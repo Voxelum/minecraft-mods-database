@@ -1,0 +1,30 @@
+{
+  "name": "Sparkweave-Fabric-0.509.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nf68xfAw",
+      "versionId": "mbfU6Y0B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 911456,
+      "fileId": 6687171
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sparkweave",
+      "version": "0.509.3"
+    },
+    {
+      "modId": "sparkweave_renderdoc_loader",
+      "version": "0.509.3"
+    },
+    {
+      "modId": "net_harawata_appdirs",
+      "version": "1.2.1"
+    }
+  ]
+}

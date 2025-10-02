@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "HfBXQKmI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6905179
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "3.0.0-a.build.112"
+    },
+    {
+      "modId": "net_raphimc_noteblocklib",
+      "version": "3.1.0"
+    }
+  ]
+}

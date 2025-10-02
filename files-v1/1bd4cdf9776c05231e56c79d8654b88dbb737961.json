@@ -1,6 +1,18 @@
 {
   "name": "portality-1.15.2-2.1.2-aaa257f.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EXgHWI1S",
+      "versionId": "aOFkIiZ1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291493,
+      "fileId": 2873803
+    }
+  ],
   "forge": [
     {
       "modId": "portality",

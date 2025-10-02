@@ -1,0 +1,26 @@
+{
+  "name": "blur-fabric-5.0.0-hotfix.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NK39zBp2",
+      "versionId": "VLTarY59"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393563,
+      "fileId": 6439201
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blur",
+      "version": "5.0.0-hotfix.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
+    }
+  ]
+}

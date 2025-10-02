@@ -1,0 +1,26 @@
+{
+  "name": "sophisticatedstorage-1.20.1-1.0.10.1.100.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iHtpVwJL",
+      "versionId": "ihRLMrcj"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": "1.20.1-1.0.10.1.100"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    }
+  ]
+}

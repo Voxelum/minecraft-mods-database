@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rqq1SNhz",
+      "versionId": "2qGK3OVH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zauber",
+      "version": "1.4.6-alpha.5"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.9.4+1.21"
+    },
+    {
+      "modId": "trinkets",
+      "version": "3.10.0"
+    }
+  ]
+}

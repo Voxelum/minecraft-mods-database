@@ -1,0 +1,28 @@
+{
+  "name": "dailyquests-1.21.5-2.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "saq81j96",
+      "versionId": "9hcph7RX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1109595,
+      "fileId": 6357233
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dailyquests",
+      "version": "2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dailyquests",
+      "version": "2.2"
+    }
+  ]
+}

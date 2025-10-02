@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "forge",
+      "version": "${global.forgeVersion}"
+    }
+  ]
+}

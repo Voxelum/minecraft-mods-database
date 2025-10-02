@@ -1,0 +1,24 @@
+{
+  "name": "waveycapes-fabric-1.6.1.1-mc1.21.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 521594,
+      "fileId": 6738125
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "waveycapes",
+      "version": "1.6.1.1"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.5"
+    }
+  ]
+}

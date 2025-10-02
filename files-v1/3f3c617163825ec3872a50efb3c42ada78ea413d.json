@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "logcleaner",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "logcleaner",
+      "version": "1.0.0"
+    }
+  ]
+}

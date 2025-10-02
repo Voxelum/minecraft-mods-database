@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vBbPDuOs",
+      "versionId": "L9fYx72q"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1104882,
+      "fileId": 6533726
+    }
+  ],
+  "forge": [
+    {
+      "modId": "txnilib",
+      "version": "1.0.24"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "txnilib",
+      "version": "1.0.24"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.4.1"
+    }
+  ]
+}

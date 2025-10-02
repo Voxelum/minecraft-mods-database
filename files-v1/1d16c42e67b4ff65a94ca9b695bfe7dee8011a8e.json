@@ -1,0 +1,30 @@
+{
+  "name": "perfectplushies-fabric-1.20.1-1.13.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L5MLckDN",
+      "versionId": "9ilpOTK1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 867232,
+      "fileId": 6675234
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "perfectplushies",
+      "version": "1.13.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "perfectplushieapi",
+      "version": "1.0.7"
+    }
+  ]
+}

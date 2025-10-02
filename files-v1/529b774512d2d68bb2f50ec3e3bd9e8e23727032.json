@@ -1,0 +1,26 @@
+{
+  "name": "SpectrumJEI-20.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8FtYXJhp",
+      "versionId": "SHMSHXiI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1258607,
+      "fileId": 6509231
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spectrumjei",
+      "version": "20.1.0"
+    },
+    {
+      "modId": "jeidrawables",
+      "version": "20.1.0"
+    }
+  ]
+}

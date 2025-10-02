@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CR0S3SGP",
+      "versionId": "n7Yai97S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 914878,
+      "fileId": 6455886
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ls_furniture",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.0.12"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "AutochefsDelight-1.20.1-Forge-1.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HY0PMpa3",
+      "versionId": "uqjoo6xs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 964282,
+      "fileId": 6491003
+    }
+  ],
+  "forge": [
+    {
+      "modId": "autochefsdelight",
+      "version": "1.0.7+forge"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "autochefsdelight",
+      "version": "${version}"
+    }
+  ]
+}

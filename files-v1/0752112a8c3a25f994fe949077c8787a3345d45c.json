@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "ipla-1.20.1-forge-1.3.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "7dLiTaTa",
       "versionId": "esaO2nVi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1124962,
+      "fileId": 5887322
     }
   ],
   "forge": [

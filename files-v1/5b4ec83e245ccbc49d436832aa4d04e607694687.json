@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M0aimenU",
+      "versionId": "ncPC4nbn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 483805,
+      "fileId": 6253556
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "isometric-renders",
+      "version": "0.4.9+1.21.4"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.4.7+1.21.4"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.20+1.21.4"
+    }
+  ]
+}

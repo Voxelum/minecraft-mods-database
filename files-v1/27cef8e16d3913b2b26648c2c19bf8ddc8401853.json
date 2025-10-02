@@ -1,6 +1,18 @@
 {
   "name": "PuzzlesLib-v4.4.2-1.19.2-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QAGBst4M",
+      "versionId": "bEmPd1vO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495476,
+      "fileId": 4590206
+    }
+  ],
   "forge": [
     {
       "modId": "puzzleslib",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EnHNgJd3",
+      "versionId": "IwyN5de0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 441249,
+      "fileId": 6260416
+    }
+  ],
+  "forge": [
+    {
+      "modId": "a_man_with_plushies",
+      "version": "4.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "a_man_with_plushies",
+      "version": "4.3.0"
+    }
+  ]
+}

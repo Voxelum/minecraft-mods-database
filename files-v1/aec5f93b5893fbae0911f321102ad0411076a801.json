@@ -1,6 +1,18 @@
 {
   "name": "johnny_s_biological_notes-1.0-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "v0HXul4t",
+      "versionId": "TK20ujyw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 928545,
+      "fileId": 4820796
+    }
+  ],
   "forge": [
     {
       "modId": "johnny_s_biological_notes",

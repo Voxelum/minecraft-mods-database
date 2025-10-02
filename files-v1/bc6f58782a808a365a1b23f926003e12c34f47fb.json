@@ -1,0 +1,28 @@
+{
+  "name": "new-lodestone-recipe-1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fOYJe3oj",
+      "versionId": "XMxF7uGL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1179979,
+      "fileId": 6089197
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_new_lodestonerecipe",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_new_lodestonerecipe",
+      "version": "1.0"
+    }
+  ]
+}

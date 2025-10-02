@@ -1,6 +1,18 @@
 {
   "name": "AzureRPGItems 1.15.2-1.3.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uFgXr3oy",
+      "versionId": "sCjCdpqL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 354054,
+      "fileId": 2911539
+    }
+  ],
   "forge": [
     {
       "modId": "azurerpgitems",

@@ -1,0 +1,22 @@
+{
+  "name": "carbasa-1.4-multi.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rhp0NLn7",
+      "versionId": "c7rnulHl"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "carbasa",
+      "version": "1.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "carbasa",
+      "version": "1.4.0"
+    }
+  ]
+}

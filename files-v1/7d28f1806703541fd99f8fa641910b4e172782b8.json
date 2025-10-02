@@ -1,0 +1,26 @@
+{
+  "name": "table_top_craft-1.20.1-5.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IO0hAHwQ",
+      "versionId": "cVszRa3Y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 729535,
+      "fileId": 5319819
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "table_top_craft",
+      "version": "1.20.1-5.0.2"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "GameStages-1.12.2-1.0.84.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iAlZk5aS",
+      "versionId": "3cWwom3w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 268655,
+      "fileId": 2543589
+    }
+  ],
   "forge": [
     {
       "modId": "gamestages",

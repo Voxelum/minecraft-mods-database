@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wildernature",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NCKpPR0Z",
+      "versionId": "1CHAex8J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570463,
+      "fileId": 6733904
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ecologics",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.106"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "potionbundles-1.20-1.7.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 382836,
+      "fileId": 4584330
+    }
+  ],
   "forge": [
     {
       "modId": "potionbundles",

@@ -1,0 +1,30 @@
+{
+  "name": "naturally_trimmed-3.0.6+1.21.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hHVaPgFK",
+      "versionId": "nwRpf3bn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1005441,
+      "fileId": 6586651
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "naturally_trimmed",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "org_quiltmc_parsers_gson",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.3.1"
+    }
+  ]
+}

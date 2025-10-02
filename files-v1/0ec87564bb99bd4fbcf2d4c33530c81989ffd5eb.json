@@ -1,0 +1,20 @@
+{
+  "name": "magitekmechs-fabric-MC1.16-1.0.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 534029,
+      "fileId": 3493718
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mtmechs",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.1"
+    }
+  ]
+}

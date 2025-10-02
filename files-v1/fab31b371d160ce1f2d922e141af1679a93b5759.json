@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TjcYKx6s",
+      "versionId": "d3u2mvIh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1268064,
+      "fileId": 6541444
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "earlybedtime",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.5.1"
+    }
+  ]
+}

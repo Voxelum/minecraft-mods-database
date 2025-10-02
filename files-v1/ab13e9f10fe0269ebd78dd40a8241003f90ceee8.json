@@ -1,0 +1,26 @@
+{
+  "name": "emotecraft-fabric-for-MC1.21.4-2.5.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "QOoYnATY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6488761
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.5.7"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.3.1+1.21.4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "chefs-delight-1.0.4-fabric-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pvcsfne4",
+      "versionId": "ittLJDio"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 736986,
+      "fileId": 6386124
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chefsdelight",
+      "version": "1.0.4-fabric-1.21.1"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.21-01"
+    }
+  ]
+}

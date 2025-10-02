@@ -1,0 +1,26 @@
+{
+  "name": "puffish_attributes-0.7.3-1.20-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCFcFw09",
+      "versionId": "zauRap1X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 991341,
+      "fileId": 6319583
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puffish_attributes",
+      "version": "0.7.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

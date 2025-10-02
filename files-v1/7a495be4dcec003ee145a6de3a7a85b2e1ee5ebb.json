@@ -1,0 +1,28 @@
+{
+  "name": "Mythic-Origins-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vBTYRDSu",
+      "versionId": "oeqslS8v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1205196,
+      "fileId": 6229051
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mythic",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythic",
+      "version": "1.0.2"
+    }
+  ]
+}

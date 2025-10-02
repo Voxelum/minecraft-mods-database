@@ -1,0 +1,28 @@
+{
+  "name": "currentgamemusictrack-1.20.1-2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YWZbIwtC",
+      "versionId": "IYK7je2o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 933960,
+      "fileId": 6225091
+    }
+  ],
+  "forge": [
+    {
+      "modId": "currentgamemusictrack",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "currentgamemusictrack",
+      "version": "2.4"
+    }
+  ]
+}

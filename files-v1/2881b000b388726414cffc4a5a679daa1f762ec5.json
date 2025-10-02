@@ -1,0 +1,22 @@
+{
+  "name": "drifting_waste.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vIJCqxqE",
+      "versionId": "jJhV7Fqp"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "drifting_waste",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "drifting_waste",
+      "version": "1.0.0"
+    }
+  ]
+}

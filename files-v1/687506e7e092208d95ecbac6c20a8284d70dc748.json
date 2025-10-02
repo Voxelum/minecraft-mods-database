@@ -1,0 +1,20 @@
+{
+  "name": "field-0.1.1+1.21.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ImwSvDpS",
+      "versionId": "Er0f22QQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "field",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.5"
+    }
+  ]
+}

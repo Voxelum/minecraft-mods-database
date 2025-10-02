@@ -1,0 +1,28 @@
+{
+  "name": "burnt-1.9.0.4-forge-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tsc9D2wh",
+      "versionId": "3adf8m4J"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 998916,
+      "fileId": 6760567
+    }
+  ],
+  "forge": [
+    {
+      "modId": "burnt",
+      "version": "1.9.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "burnt",
+      "version": "1.8.0"
+    }
+  ]
+}

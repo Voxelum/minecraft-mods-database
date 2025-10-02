@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ot5JFxuv",
+      "versionId": "N2Zh9WPr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411571,
+      "fileId": 6186219
+    }
+  ],
+  "forge": [
+    {
+      "modId": "deathbackup",
+      "version": "3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "deathbackup",
+      "version": "3.5"
+    }
+  ]
+}

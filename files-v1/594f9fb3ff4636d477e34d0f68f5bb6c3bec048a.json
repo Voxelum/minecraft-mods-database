@@ -1,6 +1,18 @@
 {
   "name": "Monster Hunter Villager 1.0.0-1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "d4R1a1VG",
+      "versionId": "EKrriPLo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936647,
+      "fileId": 4862759
+    }
+  ],
   "forge": [
     {
       "modId": "monster_hunter_villager",

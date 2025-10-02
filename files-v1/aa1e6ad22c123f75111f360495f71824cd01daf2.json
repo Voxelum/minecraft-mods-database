@@ -1,6 +1,12 @@
 {
   "name": "requiem-2.0.0-beta.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 265729,
+      "fileId": 3852823
+    }
+  ],
   "fabric": [
     {
       "modId": "requiem",

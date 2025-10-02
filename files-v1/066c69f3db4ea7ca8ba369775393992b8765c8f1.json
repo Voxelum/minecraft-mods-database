@@ -1,0 +1,30 @@
+{
+  "name": "advancements_reloaded-0.7.2-fabric-1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tLuRLqpa",
+      "versionId": "jHt9OjJS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1113876,
+      "fileId": 6383871
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "advancements_reloaded",
+      "version": "0.7.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.10+203e6b2304"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "17.0.144"
+    }
+  ]
+}

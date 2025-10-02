@@ -1,0 +1,30 @@
+{
+  "name": "faewulf_lib-fabric-1.21.1-1.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "q4N9H96q",
+      "versionId": "94s7BsEz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1209568,
+      "fileId": 6425090
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "faewulf_lib",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "exlinefurniture-fabric-1.19.2-v2.3.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CQ7pGNKT",
+      "versionId": "T3LhlouH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 504919,
+      "fileId": 4062618
+    }
+  ],
   "fabric": [
     {
       "modId": "exlinefurniture",

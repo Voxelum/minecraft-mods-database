@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tOoh2eQm",
+      "versionId": "FdLyUsCr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344884,
+      "fileId": 3379801
+    }
+  ],
   "forge": [
     {
       "modId": "petnames",

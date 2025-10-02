@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_structory-1.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1152720,
+      "fileId": 6510239
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_structory",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_structory",
+      "version": "1.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "inventorio-mc1.20.1-fabric-v1.10.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LcafSQPm",
+      "versionId": "11nerhMX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 491073,
+      "fileId": 6439098
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorio",
+      "version": "1.10.4"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.4"
+    }
+  ]
+}

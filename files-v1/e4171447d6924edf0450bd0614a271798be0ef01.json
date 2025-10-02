@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_yungs-1.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1012211,
+      "fileId": 6510287
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_yungs",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_yungs",
+      "version": "1.4"
+    }
+  ]
+}

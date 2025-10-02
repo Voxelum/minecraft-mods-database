@@ -1,0 +1,40 @@
+{
+  "name": "immersivemessages-fabric-1.0.18-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6xvrmbjn",
+      "versionId": "WEpkwUwg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1109713,
+      "fileId": 6480771
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersivemessages",
+      "version": "1.0.18"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivemessages",
+      "version": "1.0.18"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

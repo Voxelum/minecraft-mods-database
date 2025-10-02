@@ -1,0 +1,32 @@
+{
+  "name": "Stronger Skill Tree.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KsIs7qhw",
+      "versionId": "YFoa63WG"
+    },
+    {
+      "projectId": "KsIs7qhw",
+      "versionId": "HCWuvWc9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1262113,
+      "fileId": 6617868
+    }
+  ],
+  "forge": [
+    {
+      "modId": "stronger_skill_tree_for_pufferfishs_skills",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stronger_skill_tree_for_pufferfishs_skills",
+      "version": "1.0"
+    }
+  ]
+}

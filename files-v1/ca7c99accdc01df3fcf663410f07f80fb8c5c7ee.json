@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7m1mi73",
+      "versionId": "rxla7PnS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689467,
+      "fileId": 6709657
+    }
+  ],
+  "forge": [
+    {
+      "modId": "packetfixer",
+      "version": "3.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "packetfixer",
+      "version": "3.1.1"
+    }
+  ]
+}

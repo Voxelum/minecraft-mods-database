@@ -1,0 +1,28 @@
+{
+  "name": "footprintparticle-0.5.3-mc1.20(.1).jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xZQOoOaY",
+      "versionId": "K7Zj7e8G"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 832070,
+      "fileId": 6684366
+    }
+  ],
+  "forge": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.5.3-mc1.20(.1)"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.5.3-mc1.20(.1)"
+    }
+  ]
+}

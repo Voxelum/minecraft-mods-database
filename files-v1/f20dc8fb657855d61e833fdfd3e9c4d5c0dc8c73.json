@@ -1,0 +1,26 @@
+{
+  "name": "Cobblemon_MegaShowdown-10.0.7-release-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SszvX85I",
+      "versionId": "w178IQgY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1189523,
+      "fileId": 6911771
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mega_showdown",
+      "version": "10.0.7-release-fabric"
+    },
+    {
+      "modId": "supermartijn642configlib",
+      "version": "1.1.8"
+    }
+  ]
+}

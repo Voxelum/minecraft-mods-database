@@ -1,6 +1,18 @@
 {
   "name": "productivebees-1.15.2-0.6.9.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jH6iiqkd",
+      "versionId": "OrRVTCTG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 377897,
+      "fileId": 3231069
+    }
+  ],
   "forge": [
     {
       "modId": "productivebees",

@@ -1,0 +1,64 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 284876,
+      "fileId": 3732839
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dimdoors",
+      "version": "4.0.4"
+    },
+    {
+      "modId": "com_flowpowered_flow-math",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "org_jgrapht_jgrapht-core",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "com_github_dimensionaldevelopment_poly2tri_java",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "matrix",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.2.57"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "cardinal-components-chunk",
+      "version": "4.1.4"
+    },
+    {
+      "modId": "curse_maven_wthit-3707010",
+      "version": "440979"
+    }
+  ]
+}

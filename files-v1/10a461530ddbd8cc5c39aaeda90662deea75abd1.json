@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hYykXjDp",
+      "versionId": "d0v9rl51"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fzzy_config",
+      "version": "0.7.2+1.21.6"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "net_peanuuutz_tomlkt_tomlkt-jvm",
+      "version": "0.3.7"
+    }
+  ]
+}

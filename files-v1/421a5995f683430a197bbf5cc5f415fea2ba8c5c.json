@@ -1,0 +1,28 @@
+{
+  "name": "spawnanimations-v1.10.2-mc1.17-1.21.6-mod.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zrzYrlm0",
+      "versionId": "IoRYBuPR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1223719,
+      "fileId": 6678620
+    }
+  ],
+  "forge": [
+    {
+      "modId": "spawnanimations",
+      "version": "1.10.2+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spawnanimations",
+      "version": "1.10.2+mod"
+    }
+  ]
+}

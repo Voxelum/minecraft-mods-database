@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mjzL9n6c",
+      "versionId": "1LlDVJWC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 481119,
+      "fileId": 3770010
+    }
+  ],
   "forge": [
     {
       "modId": "block_variants",

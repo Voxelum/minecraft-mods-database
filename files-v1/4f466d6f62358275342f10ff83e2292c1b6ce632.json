@@ -1,0 +1,30 @@
+{
+  "name": "ConquestArchitects-1.0.2-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YtIVfPne",
+      "versionId": "UpQNky26"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1164105,
+      "fileId": 6427121
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "architects",
+      "version": "1.0.2-1.20.1"
+    },
+    {
+      "modId": "porting_lib_obj_loader",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "owo",
+      "version": "0.11.2+1.20"
+    }
+  ]
+}

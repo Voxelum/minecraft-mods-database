@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "exordium-fabric-1.4.1-mc1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DynYZEae",
+      "versionId": "V2cPMZzn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681953,
+      "fileId": 6137264
+    }
+  ],
   "fabric": [
     {
       "modId": "exordium",

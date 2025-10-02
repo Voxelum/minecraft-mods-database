@@ -1,0 +1,28 @@
+{
+  "name": "irons_spells_dynamic_skilltree_1.0.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cdEXZLO4",
+      "versionId": "2Xyifsmg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1238317,
+      "fileId": 6440113
+    }
+  ],
+  "forge": [
+    {
+      "modId": "irons_spells_dynamic_skilltree",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "irons_spells_dynamic_skilltree",
+      "version": "1.0"
+    }
+  ]
+}

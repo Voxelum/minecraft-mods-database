@@ -1,0 +1,26 @@
+{
+  "name": "wraith-harvestscythes-2.5.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TQyaHwzF",
+      "versionId": "F1JsaaQl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412225,
+      "fileId": 3823173
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "harvest_scythes",
+      "version": "2.5.2"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

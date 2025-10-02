@@ -1,0 +1,26 @@
+{
+  "name": "BuildersJetpack-1.5.1+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L524D8Os",
+      "versionId": "eiRKKSdJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 958442,
+      "fileId": 6654667
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "builders_jetpack",
+      "version": "1.5.1+1.21.1"
+    },
+    {
+      "modId": "configuration",
+      "version": "3.1.0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cerulean-fabric-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dv57xmf9",
+      "versionId": "BsvL0CXe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1204890,
+      "fileId": 6489712
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cerulean",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

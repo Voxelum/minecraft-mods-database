@@ -1,0 +1,22 @@
+{
+  "name": "MinersMoon-fabric-1.20-1.0.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1121856,
+      "fileId": 5813216
+    }
+  ],
+  "forge": [
+    {
+      "modId": "minersmoon",
+      "version": "1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minersmoon",
+      "version": "1.0.1"
+    }
+  ]
+}

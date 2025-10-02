@@ -1,6 +1,12 @@
 {
   "name": "flora-doubling-1.3.0+1.16.4-fabric.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 332831,
+      "fileId": 3111160
+    }
+  ],
   "fabric": [
     {
       "modId": "flora-doubling",

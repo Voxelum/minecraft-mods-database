@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jhxX1zVW",
+      "versionId": "usnMi65u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 282837,
+      "fileId": 5543120
+    }
+  ],
   "fabric": [
     {
       "modId": "quarryplus",

@@ -1,0 +1,28 @@
+{
+  "name": "starterstructure-1.20.1-4.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gi80Z09B",
+      "versionId": "bRx3muju"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 746391,
+      "fileId": 6367233
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterstructure",
+      "version": "4.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterstructure",
+      "version": "4.2"
+    }
+  ]
+}

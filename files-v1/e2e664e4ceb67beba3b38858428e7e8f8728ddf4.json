@@ -1,0 +1,30 @@
+{
+  "name": "better-clouds-1.9.3-beta+1.21.5-fabric.rev.44ecf1b.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5srFLIaK",
+      "versionId": "qK6EgFzF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1282676,
+      "fileId": 6630191
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterclouds",
+      "version": "1.9.3-beta+1.21.5-fabric.rev.44ecf1b"
+    },
+    {
+      "modId": "gs_mclo_api",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "xDS1Jejv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "journeymap",
+      "version": "1.21.7-6.0.0-beta.52"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.21-1.21.7"
+    },
+    {
+      "modId": "journeymap-api-fabric",
+      "version": "2.0.0-1.21.7-SNAPSHOT"
+    },
+    {
+      "modId": "ar_com_hjg_pngj",
+      "version": "2.1.0"
+    }
+  ]
+}

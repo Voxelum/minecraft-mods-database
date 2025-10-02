@@ -1,6 +1,12 @@
 {
   "name": "[消除合成冲突]NoMoreRecipeConflict-1.7.10-0.3.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 533411,
+      "fileId": 3479729
+    }
+  ],
   "forge": [
     {
       "modId": "recipehandler",

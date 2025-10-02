@@ -1,0 +1,30 @@
+{
+  "name": "noxesium-fabric-2.6.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Kw7Sm3Xf",
+      "versionId": "TKTiiwCx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1166754,
+      "fileId": 6312912
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "noxesium",
+      "version": "2.6.2+4d1fb02"
+    },
+    {
+      "modId": "com_noxcrew_noxesium_api",
+      "version": "2.6.2+4d1fb02"
+    },
+    {
+      "modId": "org_khelekore_prtree",
+      "version": "1.5"
+    }
+  ]
+}

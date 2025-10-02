@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mwFoHz8u",
+      "versionId": "iE0cC40a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 549505,
+      "fileId": 3683666
+    }
+  ],
   "forge": [
     {
       "modId": "bettermaterials",

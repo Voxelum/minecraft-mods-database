@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "r7UZSbfj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 6473261
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simplerpc",
+      "version": "4.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplerpc",
+      "version": "4.0.2"
+    }
+  ]
+}

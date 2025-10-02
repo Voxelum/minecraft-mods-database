@@ -1,6 +1,18 @@
 {
   "name": "vanillaboom-1.16.5-1.7.0.4-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Mj3G35Ky",
+      "versionId": "GKFv1vb0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 289754,
+      "fileId": 3196658
+    }
+  ],
   "forge": [
     {
       "modId": "vanillaboom",

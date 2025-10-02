@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tWqI1yhH",
+      "versionId": "2dymvl75"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "legacy-freecam",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "18.0.145"
+    }
+  ]
+}

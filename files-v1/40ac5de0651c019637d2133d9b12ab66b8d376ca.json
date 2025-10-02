@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FCFcFw09",
+      "versionId": "cMAWpJfy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 991341,
+      "fileId": 6047026
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puffish_attributes",
+      "version": "0.7.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

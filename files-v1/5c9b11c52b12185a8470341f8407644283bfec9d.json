@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B2QvfvaH",
+      "versionId": "UchvGtkf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1180882,
+      "fileId": 6815792
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dampened",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dampened",
+      "version": "1.0.0"
+    }
+  ]
+}

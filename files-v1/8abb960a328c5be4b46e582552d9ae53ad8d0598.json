@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OC5Zubbe",
+      "versionId": "plukjRR1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547961,
+      "fileId": 4007644
+    }
+  ],
   "forge": [
     {
       "modId": "keepmysoiltilled",

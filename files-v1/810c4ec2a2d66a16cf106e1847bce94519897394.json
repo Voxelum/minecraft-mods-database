@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "blockmeter",
+      "version": "1.15"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    }
+  ]
+}

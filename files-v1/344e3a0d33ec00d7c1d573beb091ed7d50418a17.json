@@ -1,0 +1,66 @@
+{
+  "name": "frame-fabric-0.22.1+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dY183GiL",
+      "versionId": "Ub6nZHEX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 580137,
+      "fileId": 3861684
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "frame",
+      "version": "0.22.1+1.19"
+    },
+    {
+      "modId": "frame-api-base",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "frame-blocks-v0",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "frame-config-v0",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "frame-content-registries-v0",
+      "version": "0.4.0+2876b511a9"
+    },
+    {
+      "modId": "frame-game-rules-v0",
+      "version": "0.2.3"
+    },
+    {
+      "modId": "frame-items-v0",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "frame-loot-tables-v0",
+      "version": "0.1.4"
+    },
+    {
+      "modId": "frame-rendering-v0",
+      "version": "0.1.4"
+    },
+    {
+      "modId": "frame-tabbed-item-groups-v0",
+      "version": "0.2.1"
+    },
+    {
+      "modId": "frame-toymaker-v0",
+      "version": "0.6.0+c2d5b470a9"
+    },
+    {
+      "modId": "frame-woods-v0",
+      "version": "0.1.0+ea73347fa9"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Amecs-Reborn-2.0.2+mc1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IjgEpZeq",
+      "versionId": "aOTRQQF8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1233121,
+      "fileId": 6487891
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "amecs-reborn",
+      "version": "2.0.2+mc1.21.4"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "platformlanguageloader",
+      "version": "1.0.0+mc1.21"
+    }
+  ]
+}

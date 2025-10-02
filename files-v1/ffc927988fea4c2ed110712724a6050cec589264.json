@@ -1,0 +1,20 @@
+{
+  "name": "skin_overrides-2.3.2+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GON0Fdk5",
+      "versionId": "HvzZK9LG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skin_overrides",
+      "version": "2.3.2+1.21.4"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.14"
+    }
+  ]
+}

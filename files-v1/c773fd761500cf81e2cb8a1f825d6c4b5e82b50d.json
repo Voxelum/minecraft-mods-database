@@ -1,0 +1,36 @@
+{
+  "name": "elytratrims-fabric-3.5.6+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "8IZHBtM5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 6021697
+    }
+  ],
+  "forge": [
+    {
+      "modId": "elytratrims",
+      "version": "3.5.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "3.5.6"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

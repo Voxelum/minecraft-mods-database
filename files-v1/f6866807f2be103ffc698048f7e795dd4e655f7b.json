@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zrzYrlm0",
+      "versionId": "ef3pV0PB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1223719,
+      "fileId": 6855588
+    }
+  ],
+  "forge": [
+    {
+      "modId": "spawnanimations",
+      "version": "1.11+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spawnanimations",
+      "version": "1.11+mod"
+    }
+  ]
+}

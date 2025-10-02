@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g0mmcQV2",
+      "versionId": "qfiCJfvK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1166914,
+      "fileId": 6506416
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "undeadnights",
+      "version": "1.2.3-Fabric-mc1.21"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.127"
+    }
+  ]
+}

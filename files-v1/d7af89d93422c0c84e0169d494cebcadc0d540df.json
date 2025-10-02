@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ldWHqZwQ",
+      "versionId": "I9qVDLvo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873788,
+      "fileId": 5305500
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "altorigingui",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

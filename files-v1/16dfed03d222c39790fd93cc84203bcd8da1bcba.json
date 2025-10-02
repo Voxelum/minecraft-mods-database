@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "w7ThoJFB",
+      "versionId": "BJgR1rfP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574741,
+      "fileId": 6829783
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "zoomify",
+      "version": "2.14.5+1.20.1"
+    },
+    {
+      "modId": "com_akuleshov7_ktoml-core-jvm",
+      "version": "0.5.2"
+    }
+  ]
+}

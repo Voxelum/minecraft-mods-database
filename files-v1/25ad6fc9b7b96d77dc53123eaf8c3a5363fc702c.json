@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N56hoqkq",
+      "versionId": "ryCaXePY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 883384,
+      "fileId": 6413476
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healthindicatortxf",
+      "version": "1.21.1-1.3.8-fabric"
+    },
+    {
+      "modId": "configlibtxf",
+      "version": "7.2.8-fabric"
+    }
+  ]
+}

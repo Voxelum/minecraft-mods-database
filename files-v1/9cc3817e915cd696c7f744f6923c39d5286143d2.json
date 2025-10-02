@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ccKDOlHs",
+      "versionId": "fboVuDvC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532610,
+      "fileId": 6865359
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "owo",
+      "version": "0.12.22+1.21.8"
+    },
+    {
+      "modId": "io_wispforest_endec",
+      "version": "0.1.9"
+    },
+    {
+      "modId": "io_wispforest_endec_gson",
+      "version": "0.1.6"
+    },
+    {
+      "modId": "io_wispforest_endec_jankson",
+      "version": "0.1.6"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.2"
+    },
+    {
+      "modId": "io_wispforest_endec_netty",
+      "version": "0.1.5"
+    }
+  ]
+}

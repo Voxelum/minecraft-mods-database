@@ -1,0 +1,28 @@
+{
+  "name": "particlerain-4.0.0-alpha-2+1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrikgvxm",
+      "versionId": "jQWbeVLd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421897,
+      "fileId": 6739277
+    }
+  ],
+  "forge": [
+    {
+      "modId": "particlerain",
+      "version": "4.0.0-alpha-2+1.21.1-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particlerain",
+      "version": "4.0.0-alpha-2+1.21.1-fabric"
+    }
+  ]
+}

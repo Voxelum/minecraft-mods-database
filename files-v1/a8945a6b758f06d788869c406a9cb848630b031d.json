@@ -1,0 +1,28 @@
+{
+  "name": "simplemenu-1.20.1-2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6pdhya1q",
+      "versionId": "ASTnFWVF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 977300,
+      "fileId": 6725616
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simplemenu",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplemenu",
+      "version": "2.0"
+    }
+  ]
+}

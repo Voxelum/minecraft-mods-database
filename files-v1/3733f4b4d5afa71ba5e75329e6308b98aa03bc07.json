@@ -1,0 +1,22 @@
+{
+  "name": "simple-wither-buff-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cfHXDHKJ",
+      "versionId": "rlJe21KL"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_simple_witherbuff",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_simple_witherbuff",
+      "version": "1.1"
+    }
+  ]
+}

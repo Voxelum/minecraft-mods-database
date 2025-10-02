@@ -1,0 +1,28 @@
+{
+  "name": "annihilation-recreated-r1.1.1_mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZMHa3gsI",
+      "versionId": "2c913Wun"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1114125,
+      "fileId": 5977325
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_annihilation_recreated",
+      "version": "1-r1.1.1_mc1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_annihilation_recreated",
+      "version": "1-r1.1.1_mc1.20.1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "extra-generators-1.0.3-BETA+1.16.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 475623,
+      "fileId": 3369710
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extragenerators",
+      "version": "1.0.3-BETA+1.16"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "libblockattributes_core",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "libblockattributes_items",
+      "version": "0.8.8"
+    },
+    {
+      "modId": "libblockattributes_fluids",
+      "version": "0.8.8"
+    }
+  ]
+}

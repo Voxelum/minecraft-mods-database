@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kkiQNV12",
+      "versionId": "FOS87k7y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 413256,
+      "fileId": 3378682
+    }
+  ],
   "forge": [
     {
       "modId": "modifierkeyfix",

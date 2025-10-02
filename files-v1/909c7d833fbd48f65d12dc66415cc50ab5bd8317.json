@@ -1,6 +1,12 @@
 {
   "name": "zmedievalmusic-fabric-1.19-1.8.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 521932,
+      "fileId": 3849315
+    }
+  ],
   "fabric": [
     {
       "modId": "medievalmusic",

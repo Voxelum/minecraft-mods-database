@@ -1,0 +1,28 @@
+{
+  "name": "mysticrift_pillagers_towers_aris-6.24.9-forge-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ew5Vacxe",
+      "versionId": "fNBPx2fs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1013877,
+      "fileId": 6115955
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mysticrift_pillagers_towers_aris",
+      "version": "6.24.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mysticrift_pillagers_towers_aris",
+      "version": "6.24.9"
+    }
+  ]
+}

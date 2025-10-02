@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "feur_extension_desert",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "feur_extension_desert",
+      "version": "1.2.4"
+    }
+  ]
+}

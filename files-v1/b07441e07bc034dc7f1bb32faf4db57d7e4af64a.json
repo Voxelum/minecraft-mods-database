@@ -1,0 +1,22 @@
+{
+  "name": "NoRollback 2.1 (1.13-1.21.7).jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K4Ytaql5",
+      "versionId": "Ih5O2srt"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_norollback",
+      "version": "2.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_norollback",
+      "version": "2.1"
+    }
+  ]
+}

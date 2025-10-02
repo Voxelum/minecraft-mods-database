@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9zt1KRcY",
+      "versionId": "Bn2v1uZ8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1002571,
+      "fileId": 5263733
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "arst-motion-blur",
+      "version": "0.1.1"
+    },
+    {
+      "modId": "satin",
+      "version": "1.16.0"
+    }
+  ]
+}

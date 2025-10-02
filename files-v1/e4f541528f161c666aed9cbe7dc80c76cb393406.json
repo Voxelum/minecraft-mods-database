@@ -1,0 +1,22 @@
+{
+  "name": "medieval_buildings_nether_edition-1.20.1-1.0.0-forge.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1278431,
+      "fileId": 6606572
+    }
+  ],
+  "forge": [
+    {
+      "modId": "medieval_nether",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medieval_nether",
+      "version": "1.0.0"
+    }
+  ]
+}

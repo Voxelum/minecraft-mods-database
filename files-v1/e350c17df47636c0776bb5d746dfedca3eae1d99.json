@@ -1,0 +1,28 @@
+{
+  "name": "seeded-grass-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "S6ZAkfn9",
+      "versionId": "J8ojtHTW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1217397,
+      "fileId": 6287898
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_seeded_grass",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_seeded_grass",
+      "version": "1"
+    }
+  ]
+}

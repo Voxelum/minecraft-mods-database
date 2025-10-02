@@ -1,0 +1,22 @@
+{
+  "name": "enchanter_fix-1.6+mc1.20-1.21.8.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1076285,
+      "fileId": 6792541
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchanter_fix",
+      "version": "1.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchanter_fix",
+      "version": "1.6"
+    }
+  ]
+}

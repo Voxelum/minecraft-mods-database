@@ -1,6 +1,18 @@
 {
   "name": "construction-deco-forge-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jv05qdpr",
+      "versionId": "ec6Q0XoV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 679313,
+      "fileId": 4023124
+    }
+  ],
   "forge": [
     {
       "modId": "construction_deco",

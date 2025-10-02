@@ -1,9 +1,26 @@
 {
-  "name": "",
+  "name": "enchantmentdisabletag-fabric-1.1.0+1.20.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "P7SsQE5n",
       "versionId": "ovLhncxb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1012987,
+      "fileId": 5480676
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantmentdisabletag",
+      "version": "1.1.0+1.20.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.1"
     }
   ]
 }

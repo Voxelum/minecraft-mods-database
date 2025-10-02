@@ -1,0 +1,28 @@
+{
+  "name": "eccentrictome-1.10.2+1.0.2+1.20.1+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MT9K1XQ0",
+      "versionId": "62l8eAsY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969439,
+      "fileId": 5479851
+    }
+  ],
+  "forge": [
+    {
+      "modId": "eccentrictome-1.10.2+1.0.2+1.20.1+fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "eccentrictome",
+      "version": "1.10.2+1.0.2+1.20.1+fabric"
+    }
+  ]
+}

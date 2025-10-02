@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "RPAGqa8V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403858,
+      "fileId": 6371402
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.11+mc1.21.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "18.0.145"
+    }
+  ]
+}

@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "hexed-0.8.1H.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "wUMNoII3",
       "versionId": "OSM9K1Vz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 996912,
+      "fileId": 5278125
     }
   ],
   "fabric": [

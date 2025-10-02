@@ -1,0 +1,26 @@
+{
+  "name": "chatnotify-fabric-2.4.2+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Iudurxl8",
+      "versionId": "sXsC9EHT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 855056,
+      "fileId": 6262143
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatnotify",
+      "version": "2.4.2+1.21"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

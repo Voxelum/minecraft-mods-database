@@ -1,6 +1,18 @@
 {
   "name": "mcr-v2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nx8LRQBk",
+      "versionId": "dSLFa7u0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 920415,
+      "fileId": 4785951
+    }
+  ],
   "forge": [
     {
       "modId": "mrc",

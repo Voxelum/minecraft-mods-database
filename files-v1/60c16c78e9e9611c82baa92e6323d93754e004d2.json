@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9xKH7jxP",
+      "versionId": "muqE9E5X"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 409838,
+      "fileId": 6000633
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fossilslegacy",
+      "version": "1.2.3"
+    },
+    {
+      "modId": "simplelibrary",
+      "version": "3.3.1"
+    }
+  ]
+}

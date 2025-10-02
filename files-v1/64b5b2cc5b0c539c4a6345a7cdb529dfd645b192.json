@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7vxePowz",
+      "versionId": "iTQF8gZN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 993166,
+      "fileId": 6816933
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "farmersdelight",
+      "version": "1.21.8-3.2.5+refabricated"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BWloQ9jK",
+      "versionId": "KDNue5SN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463457,
+      "fileId": 6515415
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stendhal",
+      "version": "1.4.2-1.21.5"
+    },
+    {
+      "modId": "libgui",
+      "version": "13.1.0+1.21.5"
+    }
+  ]
+}

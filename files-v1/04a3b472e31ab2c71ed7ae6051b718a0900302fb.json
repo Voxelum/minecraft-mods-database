@@ -1,0 +1,32 @@
+{
+  "name": "BadOptimizations-2.2.2-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "g96Z4WVZ",
+      "versionId": "5kAwHDZz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 949555,
+      "fileId": 6475095
+    }
+  ],
+  "forge": [
+    {
+      "modId": "badoptimizations",
+      "version": "2.2.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "badoptimizations",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c3onkd5k",
+      "versionId": "MofPZHfD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1215753,
+      "fileId": 6963111
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "asyncparticles",
+      "version": "6.3.0-beta.5"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.3.3"
+    }
+  ]
+}

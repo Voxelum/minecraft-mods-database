@@ -1,0 +1,58 @@
+{
+  "name": "thermoo-patches-3.6.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TYRF9nUy",
+      "versionId": "qc6XAcUf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1012677,
+      "fileId": 6487343
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thermoo-patches",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-colorfulhearts-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-fabric-seasons-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-friendsandfoes-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-stellaris-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-fabric-seasons-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-simple-seasons-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-overflowing-bars-patch",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-base",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "thermoo-patches-origins-patch",
+      "version": "3.6.1"
+    }
+  ]
+}

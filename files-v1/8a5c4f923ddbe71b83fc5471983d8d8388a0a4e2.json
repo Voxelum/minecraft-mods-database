@@ -1,0 +1,26 @@
+{
+  "name": "BetterWorldLoading-1.0-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bmOyRapU",
+      "versionId": "ODeXbhmT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1266597,
+      "fileId": 6534475
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterworldloading",
+      "version": "1.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
+    }
+  ]
+}

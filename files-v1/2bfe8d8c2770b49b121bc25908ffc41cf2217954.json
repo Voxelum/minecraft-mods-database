@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RLzHAoZe",
+      "versionId": "eqRe3K4R"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870076,
+      "fileId": 6690859
+    }
+  ],
+  "forge": [
+    {
+      "modId": "resourcify",
+      "version": "1.7.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elementa",
+      "version": "DIAMOND-12"
+    }
+  ]
+}

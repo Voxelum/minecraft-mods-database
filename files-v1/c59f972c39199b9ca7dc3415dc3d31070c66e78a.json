@@ -1,0 +1,28 @@
+{
+  "name": "HopoBetterUnderwaterRuins-[1.21.5]-1.2.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BuWCQzqf",
+      "versionId": "BkiS9har"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 632622,
+      "fileId": 6365696
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hopour",
+      "version": "1.2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobetterunderwaterruins",
+      "version": "1.2.3"
+    }
+  ]
+}

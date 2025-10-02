@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zV5r3pPn",
+      "versionId": "xSALJ9Ad"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521480,
+      "fileId": 6879699
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinlayers3d",
+      "version": "1.9.0"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.6"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "dynamiccrosshair-9.6+1.21.3-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 623800,
+      "fileId": 6687580
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiccrosshair",
+      "version": "9.6"
+    },
+    {
+      "modId": "dynamiccrosshair-api",
+      "version": "1.1"
+    },
+    {
+      "modId": "libbamboo",
+      "version": "2.9"
+    }
+  ]
+}

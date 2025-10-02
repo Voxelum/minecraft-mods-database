@@ -1,0 +1,44 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vZoqTqwv",
+      "versionId": "wKpFuJ9e"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 638535,
+      "fileId": 6952295
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dungeonnowloading",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dungeonnowloading",
+      "version": "2.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    }
+  ]
+}

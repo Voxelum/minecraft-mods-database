@@ -1,6 +1,12 @@
 {
   "name": "lightfallclient-1.2.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "t144Y4qu",
+      "versionId": "EcnojMMj"
+    }
+  ],
   "forge": [
     {
       "modId": "lightfallclient",

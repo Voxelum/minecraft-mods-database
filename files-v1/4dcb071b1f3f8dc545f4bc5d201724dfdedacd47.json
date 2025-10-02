@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qgPfkBRy",
+      "versionId": "dfP3PnZQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1096065,
+      "fileId": 5778161
+    }
+  ],
+  "forge": [
+    {
+      "modId": "indestructible_blocks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "indestructible_blocks",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

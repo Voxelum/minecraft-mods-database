@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "En8uHTOK",
+      "versionId": "Ik9uEGPB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979809,
+      "fileId": 5152795
+    }
+  ],
   "forge": [
     {
       "modId": "aaa_particles",

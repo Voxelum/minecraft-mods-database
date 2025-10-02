@@ -1,0 +1,30 @@
+{
+  "name": "astrocraft-1.5.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DCWEXia7",
+      "versionId": "IUv21P55"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010757,
+      "fileId": 6514000
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "astrocraft",
+      "version": "1.5.1+1.20.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

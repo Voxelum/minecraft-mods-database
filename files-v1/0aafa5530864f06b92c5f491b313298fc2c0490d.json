@@ -1,0 +1,24 @@
+{
+  "name": "lambda-1.1.0+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ov5CWjKZ",
+      "versionId": "DqP8Ay2K"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambda",
+      "version": "1.1.0+1.21"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.6.0+1.21"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

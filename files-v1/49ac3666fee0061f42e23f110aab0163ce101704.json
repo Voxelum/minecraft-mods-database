@@ -1,0 +1,42 @@
+{
+  "name": "enchancement-1.21.4-r8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6hN1V6wJ",
+      "versionId": "6kPc9KFQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 598056,
+      "fileId": 6280534
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchancement",
+      "version": "1.21.4-r8"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "6.2.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
+    },
+    {
+      "modId": "tooltipfix",
+      "version": "1.1.1-1.21.2"
+    }
+  ]
+}

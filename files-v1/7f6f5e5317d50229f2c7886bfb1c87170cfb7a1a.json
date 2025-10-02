@@ -1,0 +1,74 @@
+{
+  "name": "spectrum-1.8.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3rc31Hgo",
+      "versionId": "WqxHcdgU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 556967,
+      "fileId": 6429375
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spectrum",
+      "version": "1.8.5"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "1.7.6+1.20.1"
+    },
+    {
+      "modId": "arrowhead",
+      "version": "1.2.0-1.19.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-item",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "reverb",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "fractal",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "org_jgrapht_jgrapht-core",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "org_jheaps_jheaps",
+      "version": "0.14"
+    },
+    {
+      "modId": "matchbooks",
+      "version": "0.1.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    },
+    {
+      "modId": "step-height-entity-attribute",
+      "version": "1.2.0"
+    }
+  ]
+}

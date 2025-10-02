@@ -1,0 +1,54 @@
+{
+  "name": "ChatImage-1.4.7+1.20+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zhVN1dvW",
+      "versionId": "O9ItkRDK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 818089,
+      "fileId": 6397880
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chatimage",
+      "version": "1.4.7+1.20+fabric"
+    },
+    {
+      "modId": "actionlib",
+      "version": "0.6.3-fabric"
+    },
+    {
+      "modId": "io_github_kituin_chatimagecode",
+      "version": "0.12.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.29+b04edc7a27"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.11+b3afc78b27"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.36+fb8d95da27"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.2.20+b3afc78b27"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "1.3.8+b3afc78b27"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.11.7+f7923f6d27"
+    }
+  ]
+}

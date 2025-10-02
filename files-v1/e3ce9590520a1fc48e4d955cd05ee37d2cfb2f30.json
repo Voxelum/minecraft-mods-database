@@ -1,0 +1,30 @@
+{
+  "name": "notenoughanimations-fabric-1.10.0-mc1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPCX6s5C",
+      "versionId": "JDsPJFGx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433760,
+      "fileId": 6688511
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughanimations",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.4"
+    }
+  ]
+}

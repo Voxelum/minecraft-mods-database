@@ -1,0 +1,22 @@
+{
+  "name": "[FABRIC]+healing_101+1.3.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 965667,
+      "fileId": 5088428
+    }
+  ],
+  "forge": [
+    {
+      "modId": "healing",
+      "version": "1.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "healing",
+      "version": "1.3.5"
+    }
+  ]
+}

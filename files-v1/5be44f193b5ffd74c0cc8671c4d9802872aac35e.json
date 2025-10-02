@@ -1,0 +1,38 @@
+{
+  "name": "mythicmetals-0.15.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bAWzYNRd",
+      "versionId": "OKFYDlvj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410127,
+      "fileId": 3854329
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythicmetals",
+      "version": "0.15.1"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.7.3+1.19"
+    },
+    {
+      "modId": "magna",
+      "version": "1.8.0-1.19"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.0-beta.1"
+    }
+  ]
+}

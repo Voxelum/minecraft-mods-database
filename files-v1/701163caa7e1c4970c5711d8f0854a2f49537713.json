@@ -1,0 +1,24 @@
+{
+  "name": "chestcavity-2.14.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 408480,
+      "fileId": 3683432
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chestcavity",
+      "version": "2.14.0"
+    },
+    {
+      "modId": "modify-drops-api",
+      "version": "0.4.0.2"
+    },
+    {
+      "modId": "cloth-config2",
+      "version": "5.0.38"
+    }
+  ]
+}

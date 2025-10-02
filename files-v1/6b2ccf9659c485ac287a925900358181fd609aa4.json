@@ -1,0 +1,32 @@
+{
+  "name": "MapFrontiers-1.21.1-2.7.0-beta.8-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hWlsli6y",
+      "versionId": "iuZ3qIeZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366783,
+      "fileId": 6496942
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mapfrontiers",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mapfrontiers",
+      "version": "2.7.0-beta.8"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.18-1.21.1"
+    }
+  ]
+}

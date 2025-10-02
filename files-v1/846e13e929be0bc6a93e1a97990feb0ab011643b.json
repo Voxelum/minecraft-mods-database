@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "r4Knci2k",
+      "versionId": "rPCMTZJj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 906239,
+      "fileId": 5694650
+    }
+  ],
+  "forge": [
+    {
+      "modId": "interiors-0.5.6+fabric-mc1.18.2-build.103",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "interiors",
+      "version": "0.5.6"
+    }
+  ]
+}

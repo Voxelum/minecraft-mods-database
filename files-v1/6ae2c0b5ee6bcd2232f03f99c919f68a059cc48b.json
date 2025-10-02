@@ -1,6 +1,18 @@
 {
   "name": "MysticalAgradditions-1.15.2-3.0.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pl0jGXIx",
+      "versionId": "qrqKy2Bi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 256247,
+      "fileId": 2969998
+    }
+  ],
   "forge": [
     {
       "modId": "mysticalagradditions",

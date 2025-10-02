@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1bZhdhsH",
+      "versionId": "7aIODW5e"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 467028,
       "fileId": 5763809
+    }
+  ],
+  "forge": [
+    {
+      "modId": "plasmovoice",
+      "version": "2.1.0"
     }
   ]
 }

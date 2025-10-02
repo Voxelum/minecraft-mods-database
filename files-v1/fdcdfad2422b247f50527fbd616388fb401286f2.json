@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "31qnTHav",
+      "versionId": "dLdbKYfl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1039632,
+      "fileId": 5721185
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "diversity",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.0"
+    }
+  ]
+}

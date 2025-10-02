@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LvTzhSqu",
+      "versionId": "KNXtcBBh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417179,
+      "fileId": 4886707
+    }
+  ],
   "forge": [
     {
       "modId": "cagedmobs",

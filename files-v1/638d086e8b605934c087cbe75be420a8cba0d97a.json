@@ -1,0 +1,26 @@
+{
+  "name": "fightorflight-fabric-0.8.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cTdIg5HZ",
+      "versionId": "9ydY2fij"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1168140,
+      "fileId": 6761988
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fightorflight",
+      "version": "0.8.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.140"
+    }
+  ]
+}

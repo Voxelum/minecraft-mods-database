@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "snapper",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "specter-config",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-core",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-gui",
+      "version": "1.0.6"
+    },
+    {
+      "modId": "specter-serialization",
+      "version": "1.0.6"
+    }
+  ]
+}

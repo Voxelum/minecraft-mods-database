@@ -1,6 +1,18 @@
 {
   "name": "uniquecrops-0.1.47-1.16.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AOwQSRjz",
+      "versionId": "1OcqATBp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 261124,
+      "fileId": 3435015
+    }
+  ],
   "forge": [
     {
       "modId": "uniquecrops",

@@ -1,0 +1,34 @@
+{
+  "name": "witcher-medallions-3.1.1+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wPXs4AQ4",
+      "versionId": "YjgQl7UZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 916482,
+      "fileId": 6261728
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "witcher-medallions",
+      "version": "3.1.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

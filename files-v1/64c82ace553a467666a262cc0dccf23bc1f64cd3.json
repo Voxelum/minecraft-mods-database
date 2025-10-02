@@ -1,0 +1,26 @@
+{
+  "name": "luna_minecraft-fabric-5.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T3yEYSUT",
+      "versionId": "iHTZJ3YI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 880620,
+      "fileId": 6599107
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "luna_minecraft",
+      "version": "5.3.1"
+    },
+    {
+      "modId": "folk_sisby_kaleido-config",
+      "version": "0.3.1+1.3.1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fullpotions-1.0.0-forge-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1238393,
+      "fileId": 6399363
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fullpotions",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moarpotions",
+      "version": "1.0.0"
+    }
+  ]
+}

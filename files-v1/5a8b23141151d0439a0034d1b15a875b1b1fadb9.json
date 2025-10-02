@@ -1,0 +1,40 @@
+{
+  "name": "Camphor-1.1.0+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "FQnW4sZH",
+      "versionId": "6sLYCi9v"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1214919,
+      "fileId": 6290471
+    }
+  ],
+  "forge": [
+    {
+      "modId": "Camphor-1.1.0+1.20.1",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "camphor",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.3"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "5.2.3"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.3"
+    }
+  ]
+}

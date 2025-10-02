@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gouTPqmV",
+      "versionId": "F0JnSKTr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 484665,
+      "fileId": 6243631
+    }
+  ],
   "forge": [
     {
       "modId": "easy_hammers",

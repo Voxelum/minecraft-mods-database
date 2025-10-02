@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "create_nuke-1.1.0-forge-1.20.1.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "eksacezN",
       "versionId": "tXyqwdFR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1012729,
+      "fileId": 6053691
     }
   ],
   "forge": [

@@ -1,0 +1,26 @@
+{
+  "name": "heartstone-1.20-1.3.0-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NBY6AFje",
+      "versionId": "BBtgfQk1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 573152,
+      "fileId": 6173170
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "heartstone",
+      "version": "1.20-1.3.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

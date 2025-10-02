@@ -1,0 +1,28 @@
+{
+  "name": "FBND-Java-Build2-Forge-1-20-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W0OPs1mV",
+      "versionId": "VqDKiZhK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 907408,
+      "fileId": 6380255
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fd",
+      "version": "2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fd",
+      "version": "0.24.01.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QHvAIP3U",
+      "versionId": "LYUqzo13"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686090,
+      "fileId": 4111734
+    }
+  ],
   "forge": [
     {
       "modId": "sniffer",

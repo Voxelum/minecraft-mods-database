@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yeVTVdYd",
+      "versionId": "iRORaMzp"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 507127,
+      "fileId": 4767994
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kits",
+      "version": "1.6.0-mc1.20.1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.2.2+1.20"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

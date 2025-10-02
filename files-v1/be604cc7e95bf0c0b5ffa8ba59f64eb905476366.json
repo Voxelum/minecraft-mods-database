@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vmp",
+      "version": "0.2.0+beta.7.190+1.21.4"
+    },
+    {
+      "modId": "com_ibm_async_asyncutil",
+      "version": "0.1.0"
+    }
+  ]
+}

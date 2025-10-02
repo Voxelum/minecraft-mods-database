@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BgNRHReB",
+      "versionId": "PtuzTpi8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bclib",
+      "version": "21.0.0"
+    },
+    {
+      "modId": "wunderlib",
+      "version": "21.0.1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "bobby-5.2.8+mc1.21.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M08ruV16",
+      "versionId": "ODwC9dEb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bobby",
+      "version": "5.2.8+mc1.21.6"
+    },
+    {
+      "modId": "com_typesafe_config",
+      "version": "1.4.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-core",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "org_spongepowered_configurate-hocon",
+      "version": "4.1.2"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.63+9ec45cd896"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.52+b39a696a96"
+    },
+    {
+      "modId": "io_leangen_geantyref_geantyref",
+      "version": "1.3.13"
+    }
+  ]
+}

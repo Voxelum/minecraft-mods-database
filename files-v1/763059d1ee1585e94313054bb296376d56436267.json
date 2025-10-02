@@ -1,6 +1,18 @@
 {
   "name": "CosmeticArmor-1.19-1.4.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JrIYhb1P",
+      "versionId": "aChHQ5jy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 436659,
+      "fileId": 3857698
+    }
+  ],
   "fabric": [
     {
       "modId": "cosmetic-armor",

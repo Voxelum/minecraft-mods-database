@@ -1,6 +1,12 @@
 {
   "name": "farsight-1.4.2-1.16.5.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 496039,
+      "fileId": 3520861
+    }
+  ],
   "forge": [
     {
       "modId": "farsight_spyglasses",

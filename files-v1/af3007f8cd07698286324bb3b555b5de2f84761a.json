@@ -1,0 +1,22 @@
+{
+  "name": "illagerwarship-1.0.1-forge-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1091632,
+      "fileId": 6561658
+    }
+  ],
+  "forge": [
+    {
+      "modId": "illagerwarship",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "illagerwarship",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Emojiful-Fabric-1.21-5.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "72GXx2MO",
+      "versionId": "5H4fNwhP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 284324,
+      "fileId": 6388595
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emojiful",
+      "version": "5.2.0"
+    },
+    {
+      "modId": "com_esotericsoftware_yamlbeans_yamlbeans",
+      "version": "1.17"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.5.7"
+    }
+  ]
+}

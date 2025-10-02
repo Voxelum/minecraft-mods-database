@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l6YH9Als",
+      "versionId": "qW2mPW6y"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 361579,
+      "fileId": 6668170
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spark",
+      "version": "1.10.139"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.4.0"
+    }
+  ]
+}

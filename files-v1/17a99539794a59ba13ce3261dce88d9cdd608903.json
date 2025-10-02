@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Sb5ypgDP",
+      "versionId": "duaOEDqF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416283,
+      "fileId": 6351095
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rocks",
+      "version": "1.9.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.6"
+    }
+  ]
+}

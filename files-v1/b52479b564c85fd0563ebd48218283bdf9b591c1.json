@@ -1,0 +1,26 @@
+{
+  "name": "CreativeCore_FABRIC_v2.13.5_mc1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsZiaDHq",
+      "versionId": "wQecY0h2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257814,
+      "fileId": 6558586
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "creativecore",
+      "version": "2.13.5"
+    },
+    {
+      "modId": "net_neoforged_bus",
+      "version": "7.2.0"
+    }
+  ]
+}

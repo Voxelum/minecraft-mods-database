@@ -1,0 +1,32 @@
+{
+  "name": "combatlog-2.3-1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nNnLt4Jb",
+      "versionId": "dK2YqRGz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 665758,
+      "fileId": 6305278
+    }
+  ],
+  "forge": [
+    {
+      "modId": "combatlog",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "combatlog",
+      "version": "2.3"
+    },
+    {
+      "modId": "org_quiltmc_parsers_json",
+      "version": "0.2.0"
+    }
+  ]
+}

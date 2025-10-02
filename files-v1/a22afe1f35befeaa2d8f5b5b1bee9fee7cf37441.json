@@ -1,0 +1,30 @@
+{
+  "name": "skinlayers3d-fabric-1.8.2-mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zV5r3pPn",
+      "versionId": "Fs3zJS3h"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 521480,
+      "fileId": 6780120
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinlayers3d",
+      "version": "1.8.2"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.5"
+    }
+  ]
+}

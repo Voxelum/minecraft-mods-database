@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kEcg2xYc",
+      "versionId": "Uu6ODCRm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 548155,
+      "fileId": 5957579
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vanity",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.0.0"
+    }
+  ]
+}

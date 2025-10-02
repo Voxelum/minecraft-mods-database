@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ha1mEyJS",
+      "versionId": "DsUGTV3s"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1283899,
+      "fileId": 6892452
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "player_animation_library",
+      "version": "1.0.7+mc1.21.7"
+    },
+    {
+      "modId": "org_javassist_javassist",
+      "version": "3.30.2-GA"
+    }
+  ]
+}

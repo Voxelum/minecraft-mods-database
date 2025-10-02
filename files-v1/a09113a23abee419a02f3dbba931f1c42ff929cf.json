@@ -1,0 +1,28 @@
+{
+  "name": "exposure-1.20.1-1.7.10-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hB899VmG",
+      "versionId": "isUE5w0o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871755,
+      "fileId": 6304405
+    }
+  ],
+  "forge": [
+    {
+      "modId": "exposure-1.20.1-1.7.10-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exposure",
+      "version": "1.7.10"
+    }
+  ]
+}

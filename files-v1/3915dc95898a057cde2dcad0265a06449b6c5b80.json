@@ -1,0 +1,22 @@
+{
+  "name": "wither-shrines-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JkKThp0v",
+      "versionId": "WTgz4e8m"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_wither_shrines",
+      "version": "2.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_wither_shrines",
+      "version": "2.0.0"
+    }
+  ]
+}

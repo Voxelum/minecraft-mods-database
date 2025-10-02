@@ -1,6 +1,18 @@
 {
   "name": "eco-1.20.2-2.4.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WtcuxDNN",
+      "versionId": "HsV4TNHX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 570025,
+      "fileId": 5007614
+    }
+  ],
   "forge": [
     {
       "modId": "eco",

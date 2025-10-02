@@ -1,0 +1,62 @@
+{
+  "name": "skyblocker-5.2.0+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y6DuFGwJ",
+      "versionId": "MkkAlotI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 936169,
+      "fileId": 6485515
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skyblocker",
+      "version": "5.2.0+1.21.5"
+    },
+    {
+      "modId": "org_apache_commons_commons-math3",
+      "version": "3.6.1"
+    },
+    {
+      "modId": "org_apache_commons_commons-text",
+      "version": "1.13.0"
+    },
+    {
+      "modId": "meteordevelopment_discord-ipc",
+      "version": "1.1"
+    },
+    {
+      "modId": "hm-api",
+      "version": "1.0.1+1.21.2"
+    },
+    {
+      "modId": "net_azureaaron_legacy-item-dfu",
+      "version": "1.0.3+1.21.5"
+    },
+    {
+      "modId": "net_azureaaron_networth-calculator",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "moe_nea_neurepoparser",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "com_logisticscraft_occlusionculling",
+      "version": "0.0.8-SNAPSHOT"
+    },
+    {
+      "modId": "org_eclipse_jgit_org_eclipse_jgit",
+      "version": "7.1.0.202411261347-r"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.6+1.21.5-fabric"
+    }
+  ]
+}

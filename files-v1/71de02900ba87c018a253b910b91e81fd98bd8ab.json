@@ -1,6 +1,18 @@
 {
   "name": "Geolosys-1.12.2-1.8.10b.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aPBZx3jD",
+      "versionId": "9pq3xtS3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 271856,
+      "fileId": 2546490
+    }
+  ],
   "forge": [
     {
       "modId": "geolosys",

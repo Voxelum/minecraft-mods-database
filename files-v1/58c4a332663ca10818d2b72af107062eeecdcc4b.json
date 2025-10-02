@@ -1,0 +1,32 @@
+{
+  "name": "minecells-2.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Qdvz1OV",
+      "versionId": "a0CPJveH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecells",
+      "version": "2.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-scoreboard",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.11.2+1.20"
+    },
+    {
+      "modId": "gimm1q",
+      "version": "0.7.9+1.20.1"
+    }
+  ]
+}

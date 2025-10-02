@@ -1,0 +1,26 @@
+{
+  "name": "ExtremeSoundMuffler-3.50_Fabric-1.21.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5IIKsxiL",
+      "versionId": "DOE2oDGk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 566140,
+      "fileId": 6663487
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extremesoundmuffler",
+      "version": "3.50"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

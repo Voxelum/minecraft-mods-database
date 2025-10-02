@@ -1,6 +1,18 @@
 {
   "name": "randomsheepcolours_1.16.5-1.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SvQDJzPJ",
+      "versionId": "45c2C8SY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390873,
+      "fileId": 3379789
+    }
+  ],
   "forge": [
     {
       "modId": "randomsheepcolours",

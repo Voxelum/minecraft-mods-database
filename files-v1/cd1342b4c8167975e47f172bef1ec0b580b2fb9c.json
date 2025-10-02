@@ -1,6 +1,18 @@
 {
   "name": "HuntingDimension-1.12.2-1.0.18.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zPW9t8a5",
+      "versionId": "M9UoYa0o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 283235,
+      "fileId": 2538822
+    }
+  ],
   "forge": [
     {
       "modId": "huntingdim",

@@ -1,0 +1,26 @@
+{
+  "name": "tooltip-scroll-1.4.0+1.21.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wySVd6d8",
+      "versionId": "frE4xeEM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495546,
+      "fileId": 5951212
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "tooltipscroll",
+      "version": "1.4.0+1.21.3"
+    },
+    {
+      "modId": "lilylib",
+      "version": "2.0.0+1.21.3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "enchantmentlevelcapindicator-1.20.1-1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "82BWabBj",
+      "versionId": "C7G8DghX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1204463,
+      "fileId": 6250440
+    }
+  ],
+  "forge": [
+    {
+      "modId": "enchantmentlevelcapindicator",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchantmentlevelcapindicator",
+      "version": "1.1"
+    }
+  ]
+}

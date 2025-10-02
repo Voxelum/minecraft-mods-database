@@ -1,0 +1,22 @@
+{
+  "name": "[1.19.4-1.20.1]witherswrath-1.14.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1206333,
+      "fileId": 6696133
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_witherswrath",
+      "version": "1.13"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_witherswrath",
+      "version": "1.13"
+    }
+  ]
+}

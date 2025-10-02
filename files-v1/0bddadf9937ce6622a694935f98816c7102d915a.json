@@ -1,0 +1,20 @@
+{
+  "name": "toneko-fabric-1.3.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QFxgeSVF",
+      "versionId": "HHf2CSVX"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toneko",
+      "version": "1.3.11"
+    },
+    {
+      "modId": "ctlib",
+      "version": "0.1.13"
+    }
+  ]
+}

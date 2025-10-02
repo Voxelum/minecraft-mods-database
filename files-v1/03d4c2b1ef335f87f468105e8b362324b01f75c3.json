@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EL8fq1gi",
+      "versionId": "AsPdJDAB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 366916,
+      "fileId": 4068972
+    }
+  ],
   "forge": [
     {
       "modId": "setworldspawnpoint",

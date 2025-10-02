@@ -1,6 +1,18 @@
 {
   "name": "visual - continuity-2.0.0+1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1IjD5062",
+      "versionId": "zcqSiVI3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 531351,
+      "fileId": 3822251
+    }
+  ],
   "fabric": [
     {
       "modId": "continuity",

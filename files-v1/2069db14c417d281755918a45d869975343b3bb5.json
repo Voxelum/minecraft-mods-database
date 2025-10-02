@@ -1,0 +1,28 @@
+{
+  "name": "fogoverrides-1.20.1-2.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "B1vBJNM4",
+      "versionId": "rOH2HU4V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 398134,
+      "fileId": 6512891
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fogoverrides",
+      "version": "2.3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fogoverrides",
+      "version": "2.3.0"
+    }
+  ]
+}

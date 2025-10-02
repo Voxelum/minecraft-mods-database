@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IZ3b4kEa",
+      "versionId": "hVI9nIH5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1303729,
+      "fileId": 6750475
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_relics",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

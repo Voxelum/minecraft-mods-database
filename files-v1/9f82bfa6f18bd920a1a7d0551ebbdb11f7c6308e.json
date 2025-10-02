@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PntTdyYi",
+      "versionId": "7h3Zk1dV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1188180,
+      "fileId": 6758010
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dynamic_resource_bars",
+      "version": "0.6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamic_resource_bars",
+      "version": "0.6.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

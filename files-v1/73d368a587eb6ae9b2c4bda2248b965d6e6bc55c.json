@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "Create-Cobblemon-Fabric-v0.5.02HOTFIX.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "tOucrGJ4",
       "versionId": "oJGD2grk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873856,
+      "fileId": 6009090
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_cobblemon",
+      "version": "0.5-1.20.1"
     }
   ]
 }

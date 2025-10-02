@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1318990,
+      "fileId": 6837915
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "meteor-client",
+      "version": "1.21.8-15"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.64+9ec45cd8f3"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.11+946bf4c3f3"
+    }
+  ]
+}

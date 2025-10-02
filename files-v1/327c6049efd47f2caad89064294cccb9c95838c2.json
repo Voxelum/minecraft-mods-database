@@ -1,6 +1,18 @@
 {
   "name": "decocraft-3.0.0.0-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IZJSgKZe",
+      "versionId": "SIt67yAF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 79616,
+      "fileId": 4813492
+    }
+  ],
   "forge": [
     {
       "modId": "decocraft",

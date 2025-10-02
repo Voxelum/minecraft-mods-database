@@ -1,0 +1,30 @@
+{
+  "name": "nyfsspiders-fabric-1.21.1-2.3.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dOGM7ccu",
+      "versionId": "K2BnoKan"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686058,
+      "fileId": 6121608
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nyfsspiders",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "commonnetworking",
+      "version": "1.0.18-1.21.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.3"
+    }
+  ]
+}

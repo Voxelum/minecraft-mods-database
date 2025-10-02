@@ -1,0 +1,28 @@
+{
+  "name": "SimpleRPC-4.0.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ObXSoyrn",
+      "versionId": "nkRAWFxK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411816,
+      "fileId": 6736722
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simplerpc",
+      "version": "4.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplerpc",
+      "version": "4.0.4"
+    }
+  ]
+}

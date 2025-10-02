@@ -1,0 +1,30 @@
+{
+  "name": "crittersandcompanions-fabric-1.20.1-2.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Yd4wb5wZ",
+      "versionId": "96YvQzcX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 574913,
+      "fileId": 6765488
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "crittersandcompanions",
+      "version": "1.20.1-2.3.0"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

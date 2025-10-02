@@ -1,0 +1,26 @@
+{
+  "name": "cullleaves-fabric-4.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GNxdLCoP",
+      "versionId": "nd3eGRYL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423254,
+      "fileId": 6663332
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cullleaves",
+      "version": "4.0.5"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.7.4"
+    }
+  ]
+}

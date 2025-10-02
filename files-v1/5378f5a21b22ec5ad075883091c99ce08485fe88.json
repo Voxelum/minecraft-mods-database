@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "wynntils",
+      "version": "3.2.7"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.11+b1caf1e904"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0"
+    }
+  ]
+}

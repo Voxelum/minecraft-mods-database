@@ -1,6 +1,12 @@
 {
   "name": "Netherite(1.12.2).jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 362238,
+      "fileId": 2889260
+    }
+  ],
   "forge": [
     {
       "modId": "netherite1_12_2",

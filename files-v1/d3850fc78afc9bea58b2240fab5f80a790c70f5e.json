@@ -1,0 +1,16 @@
+{
+  "name": "vapourware-1.21.1-0.2.37.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1130334,
+      "fileId": 6827081
+    }
+  ],
+  "forge": [
+    {
+      "modId": "vapourware",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

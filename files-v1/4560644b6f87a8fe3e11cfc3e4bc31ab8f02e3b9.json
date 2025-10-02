@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WBvsObkS",
+      "versionId": "j4rVHaTu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "azaleawood",
+      "version": "5.0.0-1.21.4"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "13.0.0-alpha.2"
+    }
+  ]
+}

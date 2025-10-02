@@ -1,6 +1,12 @@
 {
   "name": "curios-forge-1.16.3-4.0.2.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 309927,
+      "fileId": 3061727
+    }
+  ],
   "forge": [
     {
       "modId": "curios",

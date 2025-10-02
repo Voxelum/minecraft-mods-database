@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ecwMmZnK",
+      "versionId": "slcgY5es"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1200581,
+      "fileId": 6207615
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ls_core",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.0.10"
+    }
+  ]
+}

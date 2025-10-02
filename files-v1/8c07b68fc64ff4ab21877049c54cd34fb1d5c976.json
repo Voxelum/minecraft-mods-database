@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRLPy2mk",
+      "versionId": "LWUDqzLT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317134,
+      "fileId": 5374072
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "globalpacks",
+      "version": "20.3.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.5"
+    }
+  ]
+}

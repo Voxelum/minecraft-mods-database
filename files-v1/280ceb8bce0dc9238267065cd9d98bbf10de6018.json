@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZSCjXc02",
+      "versionId": "H7pTwLBB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 657969,
+      "fileId": 6104901
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particlemoths",
+      "version": "2.2.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.7"
+    }
+  ]
+}

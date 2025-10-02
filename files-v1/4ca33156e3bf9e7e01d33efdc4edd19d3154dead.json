@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "vinery",
+      "version": "1.4.38"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.136"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5ibSyLAz",
+      "versionId": "uHRQipaz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventorysorter",
+      "version": "2.0.11"
+    },
+    {
+      "modId": "com_github_erosb_everit-json-schema",
+      "version": "1.14.4"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20231013"
+    },
+    {
+      "modId": "meza_core",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.5.1+1.21.5"
+    }
+  ]
+}

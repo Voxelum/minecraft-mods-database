@@ -1,6 +1,18 @@
 {
   "name": "eidolon_repraised-1.19.2-0.3.7.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eWX2m1eM",
+      "versionId": "dBZxYly0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 870250,
+      "fileId": 4877403
+    }
+  ],
   "forge": [
     {
       "modId": "eidolon",

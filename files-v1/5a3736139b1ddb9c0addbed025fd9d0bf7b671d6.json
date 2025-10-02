@@ -1,0 +1,68 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ouNrBQtq",
+      "versionId": "xDzV8ICU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979322,
+      "fileId": 5803830
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedbackpacks",
+      "version": "1.19.2-3.20.2.22"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "porting_lib_model_loader",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_fake_players",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_loot",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    }
+  ]
+}

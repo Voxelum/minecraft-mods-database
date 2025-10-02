@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dg7PHdkJ",
+      "versionId": "QHPXXdPW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923377,
+      "fileId": 6387692
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftedcore",
+      "version": "6.2"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

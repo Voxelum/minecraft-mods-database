@@ -1,6 +1,18 @@
 {
   "name": "architectury-5.7.28-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lhGA9TYQ",
+      "versionId": "Hf0Bau1j"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 419699,
+      "fileId": 3843623
+    }
+  ],
   "fabric": [
     {
       "modId": "architectury",

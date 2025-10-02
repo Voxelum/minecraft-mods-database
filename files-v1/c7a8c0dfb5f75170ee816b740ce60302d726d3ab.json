@@ -1,0 +1,28 @@
+{
+  "name": "keepmysoiltilled-1.20.1-2.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OC5Zubbe",
+      "versionId": "WLWL44CC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547961,
+      "fileId": 6185615
+    }
+  ],
+  "forge": [
+    {
+      "modId": "keepmysoiltilled",
+      "version": "2.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "keepmysoiltilled",
+      "version": "2.5"
+    }
+  ]
+}

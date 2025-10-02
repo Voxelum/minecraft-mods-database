@@ -1,6 +1,18 @@
 {
   "name": "FarmersBliss-1.16.5-0.6.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TmLjUvMe",
+      "versionId": "kyRJwBaM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 819100,
+      "fileId": 4714280
+    }
+  ],
   "forge": [
     {
       "modId": "farmersdelight",

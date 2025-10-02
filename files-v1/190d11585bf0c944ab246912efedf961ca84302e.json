@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iv9jp2k9",
+      "versionId": "Wc1TqBTY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 995122,
+      "fileId": 6670776
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_lithosphere",
+      "version": "1.6"
+    }
+  ]
+}

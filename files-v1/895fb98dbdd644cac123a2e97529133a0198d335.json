@@ -1,6 +1,18 @@
 {
   "name": "LoginProtection-Forge-1.16.5-2.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "peeTyu3S",
+      "versionId": "Xx2ilVgc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 490470,
+      "fileId": 3478076
+    }
+  ],
   "forge": [
     {
       "modId": "loginprotection",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ti7LgRXJ",
+      "versionId": "bG5qjSkS"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_gun_core",
+      "version": "1-V1.0.3-data+resource"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_gun_core",
+      "version": "1-V1.0.3-data+resource"
+    }
+  ]
+}

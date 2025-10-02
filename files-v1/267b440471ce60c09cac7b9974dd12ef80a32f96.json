@@ -1,6 +1,18 @@
 {
   "name": "rftoolscontrol-1.15-3.0.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DQjhR62z",
+      "versionId": "ttojGkuq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250763,
+      "fileId": 3096836
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolscontrol",

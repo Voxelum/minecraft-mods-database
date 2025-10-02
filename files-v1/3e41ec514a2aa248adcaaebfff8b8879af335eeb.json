@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AtHRJSUW",
+      "versionId": "nYpAVNPH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "wilderwild",
+      "version": "4.0.14-mc1.21.6"
+    },
+    {
+      "modId": "frozenlib",
+      "version": "2.1.7-mc1.21.6"
+    }
+  ]
+}

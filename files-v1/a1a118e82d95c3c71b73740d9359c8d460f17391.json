@@ -1,0 +1,26 @@
+{
+  "name": "BEB-Fabric-1.21-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pcqEicMM",
+      "versionId": "HjyeGiSC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1083202,
+      "fileId": 6481367
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beb",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "ThrowableExplosives-1.18.1-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "l4UDJAti",
+      "versionId": "jp89VNG1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456900,
+      "fileId": 3655040
+    }
+  ],
   "forge": [
     {
       "modId": "throwableexplosives",

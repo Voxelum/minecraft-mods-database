@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CH8ZMjgi",
+      "versionId": "4ZBJQgPa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 872868,
+      "fileId": 4707094
+    }
+  ],
   "forge": [
     {
       "modId": "botany_pots_ore_planting",

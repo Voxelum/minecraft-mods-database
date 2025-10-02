@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6fRQa2pB",
+      "versionId": "8iMae1vG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 498747,
+      "fileId": 5470009
+    }
+  ],
   "forge": [
     {
       "modId": "moredoors",

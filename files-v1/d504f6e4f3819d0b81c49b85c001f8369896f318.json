@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x3HZvrj6",
+      "versionId": "JC1GraWr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 666014,
+      "fileId": 6496714
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_aircraft",
+      "version": "1.2.4+1.21.1"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "5.2.1"
+    }
+  ]
+}

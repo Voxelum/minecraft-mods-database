@@ -1,6 +1,18 @@
 {
   "name": "enviromats-1.15.2-2.0.2.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OvTbUzJG",
+      "versionId": "bdLgBtnF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 278825,
+      "fileId": 2874834
+    }
+  ],
   "forge": [
     {
       "modId": "enviromats",

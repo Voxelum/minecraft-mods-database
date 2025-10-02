@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IJY7IqPP",
+      "versionId": "y5PsIGB8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 223908,
+      "fileId": 6734921
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fossil",
+      "version": "9.1.6.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "4.2.0"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "0.4.4"
+    },
+    {
+      "modId": "structurized-reborn",
+      "version": "1.18.2-01"
+    }
+  ]
+}

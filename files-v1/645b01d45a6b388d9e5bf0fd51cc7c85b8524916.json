@@ -1,0 +1,26 @@
+{
+  "name": "uranus-2.3.1-1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Acxy864",
+      "versionId": "vT6Mt9B4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010827,
+      "fileId": 6552767
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "uranus",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.8"
+    }
+  ]
+}

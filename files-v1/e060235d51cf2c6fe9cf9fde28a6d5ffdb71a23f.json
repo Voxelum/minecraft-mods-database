@@ -1,6 +1,18 @@
 {
   "name": "icepreventscropgrowth_1.16.5-1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6rPhicfw",
+      "versionId": "3t4BrBbu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 390161,
+      "fileId": 3379829
+    }
+  ],
   "forge": [
     {
       "modId": "icepreventscropgrowth",

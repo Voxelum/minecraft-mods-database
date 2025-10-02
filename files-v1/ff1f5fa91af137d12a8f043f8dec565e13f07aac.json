@@ -1,6 +1,18 @@
 {
   "name": "lostcities-1.15-3.0.2-alpha.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8VDCUS3b",
+      "versionId": "I2g5FHaD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 269024,
+      "fileId": 3043257
+    }
+  ],
   "forge": [
     {
       "modId": "lostcities",

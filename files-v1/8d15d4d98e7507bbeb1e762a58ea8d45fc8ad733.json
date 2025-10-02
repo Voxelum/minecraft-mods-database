@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QJFCEVdN",
+      "versionId": "jJAB3UKg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 556586,
+      "fileId": 3573306
+    }
+  ],
   "forge": [
     {
       "modId": "illager_plus",

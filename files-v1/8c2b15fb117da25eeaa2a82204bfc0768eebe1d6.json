@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nkTZHOLD",
+      "versionId": "NZWq21nS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704136,
+      "fileId": 6603543
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "factory_api",
+      "version": "2.2.5"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

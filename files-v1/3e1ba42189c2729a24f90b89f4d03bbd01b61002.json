@@ -1,6 +1,18 @@
 {
   "name": "incontrol-1.15-4.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KpICtuVx",
+      "versionId": "GOeh3HU3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 257356,
+      "fileId": 3123951
+    }
+  ],
   "forge": [
     {
       "modId": "incontrol",

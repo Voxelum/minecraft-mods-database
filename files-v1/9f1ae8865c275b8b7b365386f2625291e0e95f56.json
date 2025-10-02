@@ -1,6 +1,12 @@
 {
   "name": "knavesneeds-fabric-1.1.5.1+1.19.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 813527,
+      "fileId": 4689302
+    }
+  ],
   "fabric": [
     {
       "modId": "knavesneeds",

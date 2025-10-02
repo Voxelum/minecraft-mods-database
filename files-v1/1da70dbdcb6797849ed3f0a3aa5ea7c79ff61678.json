@@ -1,0 +1,30 @@
+{
+  "name": "infinitybuttons-4.0.4-mc1.19.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2raGoXFz",
+      "versionId": "u1xdimb5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661902,
+      "fileId": 5330408
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "infinitybuttons",
+      "version": "4.0.4-mc1.19.2"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.9.3+1.19"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.1.1"
+    }
+  ]
+}

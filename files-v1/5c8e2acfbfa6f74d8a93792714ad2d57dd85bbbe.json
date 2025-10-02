@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "pca-protocol",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "fanetlib",
+      "version": "0.1.10"
+    }
+  ]
+}

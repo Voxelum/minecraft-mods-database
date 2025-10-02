@@ -1,0 +1,26 @@
+{
+  "name": "HopperGadgetry-v21.1.2-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RCK4uOMN",
+      "versionId": "oFDXEdZD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1254698,
+      "fileId": 6789265
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hoppergadgetry",
+      "version": "21.1.2"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "21.1.0"
+    }
+  ]
+}

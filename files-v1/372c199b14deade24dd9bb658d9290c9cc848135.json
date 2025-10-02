@@ -1,6 +1,18 @@
 {
   "name": "mahoutsukai-1.15.2-v1.29.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7jOxn6qJ",
+      "versionId": "2XZThkfm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342543,
+      "fileId": 3272858
+    }
+  ],
   "forge": [
     {
       "modId": "mahoutsukai",

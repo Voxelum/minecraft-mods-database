@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7YjclEGc",
+      "versionId": "s3uaBAfA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910095,
+      "fileId": 6867219
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dynamiclights",
+      "version": "1.8.9+mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamiclights",
+      "version": "1.8.9+mod"
+    }
+  ]
+}

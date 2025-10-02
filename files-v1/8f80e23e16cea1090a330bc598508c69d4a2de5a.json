@@ -1,0 +1,28 @@
+{
+  "name": "ly-dynamite-v1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kHH0Ns7x",
+      "versionId": "TuJwRrf4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1262320,
+      "fileId": 6675038
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ly_dynamite",
+      "version": "1-v1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ly_dynamite",
+      "version": "1-v1.0.1"
+    }
+  ]
+}

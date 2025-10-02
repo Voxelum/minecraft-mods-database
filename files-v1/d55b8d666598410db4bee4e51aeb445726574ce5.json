@@ -1,0 +1,32 @@
+{
+  "name": "exposure-1.20.1-1.7.16-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hB899VmG",
+      "versionId": "fiezBPPG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871755,
+      "fileId": 6655719
+    }
+  ],
+  "forge": [
+    {
+      "modId": "exposure-1.20.1-1.7.16-fabric",
+      "version": ""
+    },
+    {
+      "modId": "[底片] exposure-1.20.1-1.7.16-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exposure",
+      "version": "1.7.16"
+    }
+  ]
+}

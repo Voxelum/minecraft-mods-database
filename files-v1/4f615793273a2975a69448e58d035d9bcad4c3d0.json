@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "searchstats-fabric-1.0.0+1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ExI7GmJi",
+      "versionId": "CH1lMutG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1148085,
+      "fileId": 5938908
+    }
+  ],
   "fabric": [
     {
       "modId": "searchstats",

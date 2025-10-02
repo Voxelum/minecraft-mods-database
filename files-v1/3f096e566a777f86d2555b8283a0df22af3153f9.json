@@ -1,0 +1,24 @@
+{
+  "name": "better-clouds-1.10.1-alpha+1.21.7-fabric.rev.9981bdf.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5srFLIaK",
+      "versionId": "L2goiJxh"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "betterclouds",
+      "version": "1.10.1-alpha+1.21.7-fabric.rev.9981bdf"
+    },
+    {
+      "modId": "gs_mclo_api",
+      "version": "5.0.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

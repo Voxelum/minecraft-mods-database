@@ -1,0 +1,26 @@
+{
+  "name": "sounds-2.4.11+1.21.1+fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZouiUX7t",
+      "versionId": "g1GXdXHw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 925889,
+      "fileId": 6404369
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sounds",
+      "version": "2.4.11+1.21.1+fabric"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-rc.1"
+    }
+  ]
+}

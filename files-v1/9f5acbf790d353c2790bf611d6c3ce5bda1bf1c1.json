@@ -1,6 +1,18 @@
 {
   "name": "invoke-0.1.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xwHe8V3O",
+      "versionId": "gpO8heG5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 910516,
+      "fileId": 4899205
+    }
+  ],
   "fabric": [
     {
       "modId": "invoke",

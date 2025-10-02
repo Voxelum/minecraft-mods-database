@@ -1,6 +1,12 @@
 {
   "name": "[前置]Iceberg-1.19-fabric-1.0.38.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 539382,
+      "fileId": 3832794
+    }
+  ],
   "fabric": [
     {
       "modId": "iceberg",

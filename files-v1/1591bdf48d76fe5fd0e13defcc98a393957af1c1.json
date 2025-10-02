@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "EFMCompat 19.2.0.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "upBx6tuB",
       "versionId": "Map5b9JQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 952176,
+      "fileId": 5219812
     }
   ],
   "forge": [

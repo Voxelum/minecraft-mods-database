@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 965989,
+      "fileId": 5057456
+    },
+    {
+      "projectId": 964408,
+      "fileId": 5763420
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_waystones",
+      "version": "Fabric-1.0.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.8.2+1.19"
+    }
+  ]
+}

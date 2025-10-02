@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HlpEBg3R",
+      "versionId": "LqP2Ofjk"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "configured",
+      "version": "1.4.1"
+    },
+    {
+      "modId": "betterconfig",
+      "version": "2.1.3"
+    }
+  ]
+}

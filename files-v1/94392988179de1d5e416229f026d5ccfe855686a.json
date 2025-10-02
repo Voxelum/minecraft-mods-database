@@ -1,0 +1,20 @@
+{
+  "name": "supplementaries-1.21-3.3.0-fabric.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 412082,
+      "fileId": 6690261
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "supplementaries",
+      "version": "1.21-3.3.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.1"
+    }
+  ]
+}

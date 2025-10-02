@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sOrP6C8G",
+      "versionId": "NAFa4DVr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1197321,
+      "fileId": 6359729
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_auto_harvest",
+      "version": "1.0.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_auto_harvest",
+      "version": "1.0.1"
+    }
+  ]
+}

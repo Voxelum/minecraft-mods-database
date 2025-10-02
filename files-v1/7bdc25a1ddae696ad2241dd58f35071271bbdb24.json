@@ -1,0 +1,20 @@
+{
+  "name": "platforms-[fabric]-1.16-1.0.1-.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 536610,
+      "fileId": 3496256
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "platforms",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "myron",
+      "version": "1.6.0"
+    }
+  ]
+}

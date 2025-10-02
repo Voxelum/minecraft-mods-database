@@ -1,0 +1,28 @@
+{
+  "name": "bossultimatum-fabric-1.0.0-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8SrFEqh3",
+      "versionId": "OVsvBPyD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1256874,
+      "fileId": 6487288
+    }
+  ],
+  "forge": [
+    {
+      "modId": "bossultimatum",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bossultimatum",
+      "version": "1.0.0"
+    }
+  ]
+}

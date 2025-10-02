@@ -1,0 +1,26 @@
+{
+  "name": "Flashback-0.34.0-for-MC1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4das1Fjq",
+      "versionId": "V9HkZ0ad"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1290896,
+      "fileId": 6676744
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "flashback",
+      "version": "0.34.0"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.8"
+    }
+  ]
+}

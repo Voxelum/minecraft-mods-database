@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "simple-cobblestone-generator-1.1.15.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Q01k2hiP",
+      "versionId": "2TzYGxvI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 487029,
+      "fileId": 4862741
+    }
+  ],
   "fabric": [
     {
       "modId": "simple_cobblestone_generator",

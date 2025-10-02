@@ -1,6 +1,18 @@
 {
   "name": "VTweaks-1.19.2-4.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bmda4Rq4",
+      "versionId": "83wg9CQh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 238048,
+      "fileId": 4673719
+    }
+  ],
   "forge": [
     {
       "modId": "vtweaks",

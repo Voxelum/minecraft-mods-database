@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VpmCsizY",
+      "versionId": "sn3gnQUA"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040076,
+      "fileId": 6677791
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iceandfire",
+      "version": "1.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.1"
+    }
+  ]
+}

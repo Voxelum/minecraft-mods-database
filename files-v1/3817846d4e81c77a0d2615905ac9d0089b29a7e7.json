@@ -1,6 +1,18 @@
 {
   "name": "wynntils-2.0.0-fabric+MC-1.21.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dU5Gb9Ab",
+      "versionId": "E92ZP8ji"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303451,
+      "fileId": 5615393
+    }
+  ],
   "fabric": [
     {
       "modId": "wynntils",

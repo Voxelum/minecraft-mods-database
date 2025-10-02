@@ -1,0 +1,22 @@
+{
+  "name": "1.21-recipes-backport-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tEZRMLMm",
+      "versionId": "dN8iqfZK"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_121_recipesbackport",
+      "version": "1.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_121_recipesbackport",
+      "version": "1.0.2"
+    }
+  ]
+}

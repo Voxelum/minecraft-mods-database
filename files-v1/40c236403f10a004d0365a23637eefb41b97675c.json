@@ -1,0 +1,52 @@
+{
+  "name": "sophisticatedcore-0.5.109mc1.19.2-SNAPSHOT-build.79.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9jxwkYQL",
+      "versionId": "T7jsiW95"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 979317,
+      "fileId": 5370216
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedcore-0.5.109mc1.19.2-SNAPSHOT-build.79",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedcore",
+      "version": "0.5.109+mc1.19.2-SNAPSHOT-build.79"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_networking",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.1.1305+1.19.2"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "4.2.11"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "2.3.0"
+    }
+  ]
+}

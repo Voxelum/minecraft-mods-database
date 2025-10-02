@@ -1,6 +1,18 @@
 {
   "name": "PeacefulRecipes.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "i0R5PcoL",
+      "versionId": "KBcxtVSU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 446709,
+      "fileId": 3312331
+    }
+  ],
   "forge": [
     {
       "modId": "peacefulrecipe",

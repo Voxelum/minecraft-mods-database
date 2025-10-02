@@ -1,6 +1,18 @@
 {
   "name": "refinedstorage-1.5.32.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KDvYkUg3",
+      "versionId": "ECyJMVne"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 243076,
+      "fileId": 2538885
+    }
+  ],
   "forge": [
     {
       "modId": "refinedstorage",

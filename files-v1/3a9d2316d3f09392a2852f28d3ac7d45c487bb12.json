@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aa5MRAn8",
+      "versionId": "WfKS8t8E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 628436,
+      "fileId": 4716629
+    }
+  ],
   "forge": [
     {
       "modId": "better_impaling_forge",

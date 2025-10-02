@@ -1,0 +1,26 @@
+{
+  "name": "actuallyharvest-1.21.4-1.1.3.1-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sUbuUC7R",
+      "versionId": "LZ48h615"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1076278,
+      "fileId": 6360601
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "actuallyharvest",
+      "version": "1.1.3.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.17.2+1.21"
+    }
+  ]
+}

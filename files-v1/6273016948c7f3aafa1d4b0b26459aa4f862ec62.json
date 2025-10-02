@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IwCkru1D",
+      "versionId": "ykfc8AAr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 989574,
+      "fileId": 6319061
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cicada",
+      "version": "0.10.2+1.21.4-and-above"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-windows",
+      "version": "1.86.11"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-linux",
+      "version": "1.86.11"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-binding",
+      "version": "1.86.11"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-lwjgl3",
+      "version": "1.86.11"
+    },
+    {
+      "modId": "io_github_spair_imgui-java-natives-macos",
+      "version": "1.86.11"
+    }
+  ]
+}

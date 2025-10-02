@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "o9bmJ5sd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448233,
+      "fileId": 6734995
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "entityculling",
+      "version": "1.8.1"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.5"
+    }
+  ]
+}

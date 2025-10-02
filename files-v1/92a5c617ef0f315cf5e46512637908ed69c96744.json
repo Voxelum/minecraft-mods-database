@@ -1,6 +1,18 @@
 {
   "name": "rangedpumps-0.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ceOkTRlU",
+      "versionId": "lIUgWWxg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247496,
+      "fileId": 2871857
+    }
+  ],
   "forge": [
     {
       "modId": "rangedpumps",

@@ -1,0 +1,32 @@
+{
+  "name": "immersivedamageindicators-fabric-1.0.0-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1255453,
+      "fileId": 6480779
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersivedamageindicators",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.4"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

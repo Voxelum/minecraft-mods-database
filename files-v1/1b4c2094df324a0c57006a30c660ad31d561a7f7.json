@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9enMEvoc",
+      "versionId": "yeYmYdsN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1010066,
+      "fileId": 6642651
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_structures_arise",
+      "version": "159.32.31"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_structures_arise",
+      "version": "158.31.30"
+    }
+  ]
+}

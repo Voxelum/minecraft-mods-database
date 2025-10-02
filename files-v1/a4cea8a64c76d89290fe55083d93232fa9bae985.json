@@ -1,0 +1,30 @@
+{
+  "name": "SwordBlockingMechanics-v8.0.2-1.20.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4v5Na7b9",
+      "versionId": "doX5BlP7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969424,
+      "fileId": 6043943
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "swordblockingmechanics",
+      "version": "8.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.1"
+    }
+  ]
+}

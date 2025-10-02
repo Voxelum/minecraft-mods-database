@@ -1,0 +1,26 @@
+{
+  "name": "moderate-loading-screen-1.4.3+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RCjGlCDj",
+      "versionId": "rrfo48uF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 557180,
+      "fileId": 6013226
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "moderate-loading-screen",
+      "version": "1.4.3"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.19+1.21.4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H5XMjpHi",
+      "versionId": "VpOBgWsO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 333287,
+      "fileId": 6733397
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "firstperson",
+      "version": "2.5.0"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.5"
+    }
+  ]
+}

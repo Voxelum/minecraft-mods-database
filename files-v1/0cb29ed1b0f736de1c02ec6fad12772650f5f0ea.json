@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "D0D7J5Jj",
+      "versionId": "QXwlFeAG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "coords-hud",
+      "version": "1.2.5+mc1.21.2"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-core",
+      "version": "0.59.0"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-jdbc",
+      "version": "0.59.0"
+    },
+    {
+      "modId": "org_jetbrains_exposed_exposed-migration",
+      "version": "0.59.0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.13.1+kotlin.2.1.10"
+    },
+    {
+      "modId": "com_h2database_h2",
+      "version": "2.3.232"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.5.0+1.21.2"
+    }
+  ]
+}

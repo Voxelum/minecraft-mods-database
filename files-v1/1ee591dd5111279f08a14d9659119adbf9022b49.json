@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEgtiJIY",
+      "versionId": "KDZUnlui"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 975288,
+      "fileId": 6240857
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armoroftheages",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.2+1.21-fabric"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MpQJyJ1S",
+      "versionId": "k1rtiypw"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "customstartermenu",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "gooeylibs-api",
+      "version": "3.1.0"
+    },
+    {
+      "modId": "org_json_json",
+      "version": "20231013"
+    }
+  ]
+}

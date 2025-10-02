@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eBzFuVTM",
+      "versionId": "F6KTRQET"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 834607,
+      "fileId": 6386145
+    }
+  ],
   "forge": [
     {
       "modId": "waterframes",

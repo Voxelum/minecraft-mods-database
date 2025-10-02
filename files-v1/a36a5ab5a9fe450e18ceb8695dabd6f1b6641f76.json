@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Heh3BbSv",
+      "versionId": "MbhKsCJV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gravestones",
+      "version": "1.0.12-1.20.1"
+    },
+    {
+      "modId": "pneumonocore",
+      "version": "1.1.4+1.20.1"
+    }
+  ]
+}

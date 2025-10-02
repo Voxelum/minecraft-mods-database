@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "mss-1.2.7-1.20.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "RJCLIx7k",
       "versionId": "orJQCr9i"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1040210,
+      "fileId": 6079890
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mss",
+      "version": "1.2.7-1.20-fabric"
     }
   ]
 }

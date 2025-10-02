@@ -1,6 +1,18 @@
 {
   "name": "Wawla-1.12.2-2.5.253.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wxWOoXgy",
+      "versionId": "bqPAtbE4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 224712,
+      "fileId": 2541610
+    }
+  ],
   "forge": [
     {
       "modId": "wawla",

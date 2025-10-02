@@ -1,0 +1,24 @@
+{
+  "name": "CodeClient-2.0.0-beta.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Ti8mtFQn",
+      "versionId": "3O2sJEMc"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "codeclient",
+      "version": "2.0.0-beta.4"
+    },
+    {
+      "modId": "org_java-websocket_java-websocket",
+      "version": "1.5.3"
+    },
+    {
+      "modId": "adventure-platform-fabric",
+      "version": "6.1.0"
+    }
+  ]
+}

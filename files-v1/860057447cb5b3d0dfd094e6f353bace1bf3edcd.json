@@ -1,0 +1,28 @@
+{
+  "name": "adrenaline-rush-1.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4DyE5RZ4",
+      "versionId": "5zuKjdtR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1082462,
+      "fileId": 6439187
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_adrenaline_rush",
+      "version": "1.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_adrenaline_rush",
+      "version": "1.5"
+    }
+  ]
+}

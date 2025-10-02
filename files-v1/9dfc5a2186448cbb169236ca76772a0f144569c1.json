@@ -1,0 +1,18 @@
+{
+  "name": "liminal_life-1.0.0-beta.1.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "liminal_life",
+      "version": "1.0.0-beta.1"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.2.0+1.20.3-rc1"
+    },
+    {
+      "modId": "player-data-api",
+      "version": "0.4.0+1.20.3"
+    }
+  ]
+}

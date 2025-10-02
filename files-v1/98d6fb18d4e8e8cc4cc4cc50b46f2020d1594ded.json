@@ -1,0 +1,26 @@
+{
+  "name": "aileron-1.20.1-fabric-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "b8kG1VGq",
+      "versionId": "CKTzM3yu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 649925,
+      "fileId": 6459821
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aileron",
+      "version": "1.20.1-fabric-1.1.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "geckolib-forge-1.18-3.0.51.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "lDhul8lN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 4060448
+    }
+  ],
   "forge": [
     {
       "modId": "geckolib3",

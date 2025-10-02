@@ -1,0 +1,28 @@
+{
+  "name": "repair_kits-2.0-fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dDDOS7ke",
+      "versionId": "nEdHTi9I"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 982371,
+      "fileId": 5267924
+    }
+  ],
+  "forge": [
+    {
+      "modId": "iron_repair_kits",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iron_repair_kits",
+      "version": "2.0"
+    }
+  ]
+}

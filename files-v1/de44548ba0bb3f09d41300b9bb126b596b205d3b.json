@@ -1,6 +1,18 @@
 {
   "name": "AbundantAtmosphere-1.19.2-1.8.2-beta.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N8ZATCCG",
+      "versionId": "MDDUw4JS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682418,
+      "fileId": 4601642
+    }
+  ],
   "forge": [
     {
       "modId": "abundant_atmosphere",

@@ -1,6 +1,12 @@
 {
   "name": "LinsAPI-1.4.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YgnbXPMn",
+      "versionId": "S0G3lioZ"
+    }
+  ],
   "fabric": [
     {
       "modId": "linsapi",

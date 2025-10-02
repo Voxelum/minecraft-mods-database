@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ghrZDhGW",
+      "versionId": "q06yyYO8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 443823,
+      "fileId": 6765158
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinrestorer",
+      "version": "2.4.2+1.20-fabric"
+    },
+    {
+      "modId": "org_mineskin_java-client",
+      "version": "3.0.6-SNAPSHOT"
+    }
+  ]
+}

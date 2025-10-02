@@ -1,0 +1,28 @@
+{
+  "name": "theimpossiblelibrary-0.4.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZyFWSztU",
+      "versionId": "eeX27HbS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 661115,
+      "fileId": 6375240
+    }
+  ],
+  "forge": [
+    {
+      "modId": "theimpossiblelibrary",
+      "version": "0.4.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "theimpossibleloader",
+      "version": "0.4.1"
+    }
+  ]
+}

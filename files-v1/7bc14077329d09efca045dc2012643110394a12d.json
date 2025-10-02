@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ohNO6lps",
+      "versionId": "30kzHRCp"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.5.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.1"
+    }
+  ]
+}

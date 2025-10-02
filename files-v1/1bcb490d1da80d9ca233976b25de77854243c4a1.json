@@ -1,6 +1,18 @@
 {
   "name": "torchflower_arrows-1.20.1-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kpaHKrJb",
+      "versionId": "WbRa1cR9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 881488,
+      "fileId": 4612351
+    }
+  ],
   "forge": [
     {
       "modId": "torchflower_arrows",

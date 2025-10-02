@@ -1,0 +1,30 @@
+{
+  "name": "naturalist-5.0pre3+fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "F8BQNPWX",
+      "versionId": "tx891fzz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627986,
+      "fileId": 6509916
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "naturalist",
+      "version": "5.0pre3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "8.2.88"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

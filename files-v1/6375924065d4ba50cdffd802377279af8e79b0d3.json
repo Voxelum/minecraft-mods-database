@@ -1,0 +1,28 @@
+{
+  "name": "BuildGuide-1.20-0.4.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XwBDibES",
+      "versionId": "LUtKbaBz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 465690,
+      "fileId": 6601967
+    }
+  ],
+  "forge": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "buildguide",
+      "version": "0.4.5"
+    }
+  ]
+}

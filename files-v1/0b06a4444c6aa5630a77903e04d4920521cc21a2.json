@@ -1,0 +1,28 @@
+{
+  "name": "saddle-crafting-backport-v1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NF5MRD2M",
+      "versionId": "FY7fyBWO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1265135,
+      "fileId": 6526912
+    }
+  ],
+  "forge": [
+    {
+      "modId": "saddle_crafting_backport",
+      "version": "1.0-mod"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "saddle-crafting-backport",
+      "version": "1.0-mod"
+    }
+  ]
+}

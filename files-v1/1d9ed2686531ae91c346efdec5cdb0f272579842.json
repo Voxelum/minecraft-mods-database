@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9Ya7Yyre",
+      "versionId": "1bkMjEqk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1218484,
+      "fileId": 6717912
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "strawberrylib",
+      "version": "1.21.7-r1"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "7.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "7.0.0-beta.1"
+    },
+    {
+      "modId": "datasync_minecraft",
+      "version": "0.10.0"
+    }
+  ]
+}

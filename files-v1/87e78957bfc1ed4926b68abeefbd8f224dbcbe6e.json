@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9eGKb6K1",
+      "versionId": "pTfXZIdn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 416089,
+      "fileId": 7048931
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "voicechat",
+      "version": "1.21.9-2.6.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "1.0.0+14b92d8987"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.3.7+328a75ba87"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.1.1+b3ba9c4887"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.6.9+33df5e6e87"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "5.0.12+86b3ae5787"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "16.0.1+328a75ba87"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.2.2+3388a3b287"
+    },
+    {
+      "modId": "fabric-resource-loader-v1",
+      "version": "1.0.2+225bca4087"
+    },
+    {
+      "modId": "voicechat_api",
+      "version": "2.6.0"
+    }
+  ]
+}

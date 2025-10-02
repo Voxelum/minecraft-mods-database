@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bta0Pt47",
+      "versionId": "ranTa6SN"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 357256,
+      "fileId": 3106800
+    }
+  ],
   "forge": [
     {
       "modId": "beenfo",

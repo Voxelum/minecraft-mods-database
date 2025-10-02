@@ -1,6 +1,18 @@
 {
   "name": "wraith-waystones-3.0.1+mc1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sTZr7NVo",
+      "versionId": "vTHlNQAW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 410902,
+      "fileId": 3841562
+    }
+  ],
   "fabric": [
     {
       "modId": "fwaystones",

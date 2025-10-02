@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_hopo-1.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1149268,
+      "fileId": 6510043
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_hopo",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_hopo",
+      "version": "1.4"
+    }
+  ]
+}

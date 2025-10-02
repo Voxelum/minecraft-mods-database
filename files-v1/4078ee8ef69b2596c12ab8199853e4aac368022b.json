@@ -1,0 +1,28 @@
+{
+  "name": "daycounter-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RWVRgj8Z",
+      "versionId": "n40PJncm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1247900,
+      "fileId": 6445817
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_daycounter",
+      "version": "1.21"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_daycounter",
+      "version": "1.21"
+    }
+  ]
+}

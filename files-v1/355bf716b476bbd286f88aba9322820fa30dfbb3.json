@@ -1,9 +1,22 @@
 {
-  "name": "",
+  "name": "thermoo-patches-1.1.jar",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "TYRF9nUy",
       "versionId": "Q0Br0TGv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1012677,
+      "fileId": 6258942
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thermoo-patches",
+      "version": "1.1"
     }
   ]
 }

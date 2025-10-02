@@ -1,0 +1,20 @@
+{
+  "name": "rpgmana-1.2.3-1.21.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1021902,
+      "fileId": 6790032
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpgmana",
+      "version": "1.2.3-1.21.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

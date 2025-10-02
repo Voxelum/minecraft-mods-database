@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2wFaq89h",
+      "versionId": "SB5PkcKf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 996370,
+      "fileId": 5404091
+    }
+  ],
+  "forge": [
+    {
+      "modId": "brute_force_rendering_culling",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brute_force_rendering_culling",
+      "version": "0.5.12"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

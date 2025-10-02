@@ -1,0 +1,26 @@
+{
+  "name": "FactoryAPI-1.21.5-2.2.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nkTZHOLD",
+      "versionId": "JycD38nU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 704136,
+      "fileId": 6603539
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "factory_api",
+      "version": "2.2.5"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

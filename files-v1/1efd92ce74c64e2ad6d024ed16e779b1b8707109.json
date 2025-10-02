@@ -1,0 +1,28 @@
+{
+  "name": "giantspawn-1.21.1-5.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iWwn7s9U",
+      "versionId": "zgSwmV99"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347921,
+      "fileId": 6185938
+    }
+  ],
+  "forge": [
+    {
+      "modId": "giantspawn",
+      "version": "5.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "giantspawn",
+      "version": "5.3"
+    }
+  ]
+}

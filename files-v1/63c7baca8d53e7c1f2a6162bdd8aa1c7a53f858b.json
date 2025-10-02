@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "V4OTaHaq",
+      "versionId": "iI7iVA6Z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 944409,
+      "fileId": 6381303
+    }
+  ],
+  "forge": [
+    {
+      "modId": "knowlogy",
+      "version": "0.8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "knowlogy",
+      "version": "0.8.1"
+    }
+  ]
+}

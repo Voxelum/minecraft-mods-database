@@ -1,6 +1,18 @@
 {
   "name": "htm-1.1.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IEPAK5x6",
+      "versionId": "RU6DuGfk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 462534,
+      "fileId": 4582725
+    }
+  ],
   "fabric": [
     {
       "modId": "htm",

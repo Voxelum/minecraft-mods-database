@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UVAZ3yo1",
+      "versionId": "8FSm2KjM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 310187,
+      "fileId": 5709686
+    }
+  ],
   "forge": [
     {
       "modId": "slashblade_addon",

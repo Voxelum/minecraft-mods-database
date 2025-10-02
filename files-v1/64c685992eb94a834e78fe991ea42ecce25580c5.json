@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iDiIfZLX",
+      "versionId": "WOJyo3tD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 848022,
+      "fileId": 6397749
+    }
+  ],
+  "forge": [
+    {
+      "modId": "seasonhud",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "seasonhud",
+      "version": "1.12.7"
+    }
+  ]
+}

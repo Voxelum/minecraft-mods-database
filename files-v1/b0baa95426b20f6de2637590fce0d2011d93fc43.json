@@ -1,0 +1,66 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lsUDPMOT",
+      "versionId": "tp0s1FFx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 323974,
+      "fileId": 6534740
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrestria",
+      "version": "7.2.2"
+    },
+    {
+      "modId": "biolith",
+      "version": "3.2.4"
+    },
+    {
+      "modId": "terraform-biome-remapper-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-config-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-dirt-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-shapes-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-surfaces-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-tree-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "13.0.0-beta.1"
+    },
+    {
+      "modId": "terrestria-client",
+      "version": "7.2.2"
+    },
+    {
+      "modId": "terrestria-common",
+      "version": "7.2.2"
+    },
+    {
+      "modId": "terrestria-worldgen",
+      "version": "7.2.2"
+    }
+  ]
+}

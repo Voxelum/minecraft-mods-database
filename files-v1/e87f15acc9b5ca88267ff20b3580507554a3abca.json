@@ -1,6 +1,18 @@
 {
   "name": "BetterCommandBlockForge-1.16.5-2.5.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hQ8re3Zu",
+      "versionId": "kxLFdfhX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 486389,
+      "fileId": 3864229
+    }
+  ],
   "forge": [
     {
       "modId": "bettercommandblock"

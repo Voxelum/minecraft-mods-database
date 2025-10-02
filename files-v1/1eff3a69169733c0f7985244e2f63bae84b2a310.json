@@ -1,6 +1,12 @@
 {
   "name": "go-fish-1.7.0+1.20.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 431135,
+      "fileId": 4991384
+    }
+  ],
   "fabric": [
     {
       "modId": "go-fish",

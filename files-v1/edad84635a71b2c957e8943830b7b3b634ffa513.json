@@ -1,0 +1,26 @@
+{
+  "name": "机械动力：铁路导航-createrailwaysnavigator-fabric-1.20.1-beta-0.8.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dq3STxps",
+      "versionId": "fXKmWm2r"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 935929,
+      "fileId": 6693807
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "createrailwaysnavigator",
+      "version": "1.20.1-beta-0.8.4"
+    },
+    {
+      "modId": "dragonlib",
+      "version": "1.20.1-2.2.24"
+    }
+  ]
+}

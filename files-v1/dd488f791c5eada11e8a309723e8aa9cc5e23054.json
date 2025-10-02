@@ -1,0 +1,26 @@
+{
+  "name": "enchant_limiter-fabric-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MhfKWFVm",
+      "versionId": "SsR78tw4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1235635,
+      "fileId": 6485362
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enchant_limiter",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "mcjtylib-1.15-4.1.13.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1Zu0uTEE",
+      "versionId": "cWMCMaSk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233105,
+      "fileId": 3131240
+    }
+  ],
   "forge": [
     {
       "modId": "mcjtylib",

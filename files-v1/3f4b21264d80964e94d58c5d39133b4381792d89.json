@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_betterarcheology-1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1130800,
+      "fileId": 6168609
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_betterarcheology",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_betterarcheology",
+      "version": "1"
+    }
+  ]
+}

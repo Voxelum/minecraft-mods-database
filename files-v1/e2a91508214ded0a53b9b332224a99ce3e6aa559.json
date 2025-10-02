@@ -1,0 +1,32 @@
+{
+  "name": "AsyncParticles-2.3.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c3onkd5k",
+      "versionId": "tlmDwhlu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1215753,
+      "fileId": 6838922
+    }
+  ],
+  "forge": [
+    {
+      "modId": "asyncparticles",
+      "version": "2.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "asyncparticles",
+      "version": "2.3.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.3.3"
+    }
+  ]
+}

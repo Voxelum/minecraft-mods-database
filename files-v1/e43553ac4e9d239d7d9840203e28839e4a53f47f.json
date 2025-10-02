@@ -1,0 +1,26 @@
+{
+  "name": "bedrockify-1.10.3+mc1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "Asvc4jDq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 403858,
+      "fileId": 6371625
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.10.3+mc1.21.4"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "17.0.144"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "missing-mob-drops-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lUdVZnCR",
+      "versionId": "R3WMw9wl"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_missing_mobdrops",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_missing_mobdrops",
+      "version": "1.2"
+    }
+  ]
+}

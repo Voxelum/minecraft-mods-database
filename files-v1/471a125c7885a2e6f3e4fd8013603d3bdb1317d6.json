@@ -1,0 +1,26 @@
+{
+  "name": "DyedFlames-v21.1.1-1.21.1-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "66H5fc9R",
+      "versionId": "6Hojerfo"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1254590,
+      "fileId": 6498027
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dyedflames",
+      "version": "21.1.1"
+    },
+    {
+      "modId": "neoforgedatapackextensions",
+      "version": "21.1.2"
+    }
+  ]
+}

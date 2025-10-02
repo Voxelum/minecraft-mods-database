@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BEI4l3AD",
+      "versionId": "7FEX44Hx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 392290,
+      "fileId": 3615124
+    }
+  ],
   "forge": [
     {
       "modId": "minecraft_earth_mod",

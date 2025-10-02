@@ -1,0 +1,34 @@
+{
+  "name": "malilib-fabric-1.21.5-0.24.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "CcD4izog"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1207432,
+      "fileId": 6626599
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.24.1"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.62+73a52b4b49"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.4.0+f3ffa98949"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.6+02ca679649"
+    }
+  ]
+}

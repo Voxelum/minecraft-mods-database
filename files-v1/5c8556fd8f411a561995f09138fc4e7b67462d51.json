@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wr1BCv8H",
+      "versionId": "xe1EyjKV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1127816,
+      "fileId": 6382186
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_endercon",
+      "version": "2.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_endercon",
+      "version": "2.3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "welcomemessage-1.19.2-2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DMK2eYu7",
+      "versionId": "rfhSzuMI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 551215,
+      "fileId": 5168838
+    }
+  ],
+  "forge": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "welcomemessage",
+      "version": "2.4"
+    }
+  ]
+}

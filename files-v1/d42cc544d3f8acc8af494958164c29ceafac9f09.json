@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5xXG6qLf",
+      "versionId": "XjnY9KPQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lazyshuffle",
+      "version": "1.0+1.21.2"
+    },
+    {
+      "modId": "spruceui",
+      "version": "6.2.0+1.21.3"
+    }
+  ]
+}

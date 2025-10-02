@@ -1,0 +1,28 @@
+{
+  "name": "exposure-1.20.1-1.7.9-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hB899VmG",
+      "versionId": "KabyWNt2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 871755,
+      "fileId": 6194976
+    }
+  ],
+  "forge": [
+    {
+      "modId": "exposure-1.20.1-1.7.9-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exposure",
+      "version": "1.7.9"
+    }
+  ]
+}

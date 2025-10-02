@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ls90k6B8",
+      "versionId": "CekBqUjh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 318004,
+      "fileId": 5907905
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simple_pipes_dep_container",
+      "version": "0.13.1"
+    },
+    {
+      "modId": "simple_pipes",
+      "version": "0.13.1"
+    },
+    {
+      "modId": "libblockattributes",
+      "version": "0.16.0-pre.2"
+    },
+    {
+      "modId": "libnetworkstack",
+      "version": "0.13.0-pre.1"
+    },
+    {
+      "modId": "libmultipart",
+      "version": "0.13.0-pre.3"
+    },
+    {
+      "modId": "libmultipart_compat",
+      "version": "0.13.0-pre.3"
+    }
+  ]
+}

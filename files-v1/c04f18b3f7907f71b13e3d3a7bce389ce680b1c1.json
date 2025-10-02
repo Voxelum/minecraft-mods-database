@@ -1,0 +1,10 @@
+{
+  "name": "Homestead-1.0.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "homestead",
+      "version": "1.0"
+    }
+  ]
+}

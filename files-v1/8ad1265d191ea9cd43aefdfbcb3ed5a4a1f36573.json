@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "e1uJfPiY",
+      "versionId": "7Os7LD1z"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 284001,
+      "fileId": 3699568
+    }
+  ],
   "forge": [
     {
       "modId": "consecration",

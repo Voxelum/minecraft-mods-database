@@ -1,6 +1,18 @@
 {
   "name": "Controlling-fabric-1.20.2-13.0.8.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xv94TkTM",
+      "versionId": "YsBamiIM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 250398,
+      "fileId": 5283758
+    }
+  ],
   "fabric": [
     {
       "modId": "controlling",

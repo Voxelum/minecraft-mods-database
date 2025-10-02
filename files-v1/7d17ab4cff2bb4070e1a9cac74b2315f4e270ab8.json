@@ -1,0 +1,20 @@
+{
+  "name": "dungeons-dragon-1.0.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1292853,
+      "fileId": 6717876
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dungeons-dragon",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

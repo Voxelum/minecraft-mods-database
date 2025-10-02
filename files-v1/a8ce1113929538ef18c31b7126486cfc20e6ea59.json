@@ -1,0 +1,30 @@
+{
+  "name": "mythic_charms-1.3.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "x9tvGmvR",
+      "versionId": "UUvcLOtX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 923650,
+      "fileId": 6467670
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mythic_charms",
+      "version": "1.3.3"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    }
+  ]
+}

@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "pickupnotifications-1.5.2+1.20.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "wWiJfmyy",
       "versionId": "JDGK6lvV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1292780,
+      "fileId": 6687288
     }
   ],
   "fabric": [

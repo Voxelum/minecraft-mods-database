@@ -1,0 +1,28 @@
+{
+  "name": "create_ltab-2.7.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fUa6OtBG",
+      "versionId": "Ssh5IYFr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1007872,
+      "fileId": 6536253
+    }
+  ],
+  "forge": [
+    {
+      "modId": "create_ltab",
+      "version": "2.6.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "create_ltab",
+      "version": "2.7.0"
+    }
+  ]
+}

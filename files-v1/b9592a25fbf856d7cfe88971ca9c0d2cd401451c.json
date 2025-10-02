@@ -1,6 +1,18 @@
 {
   "name": "EnderStorage-1.15.2-2.5.2.164-universal.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BbrHg80P",
+      "versionId": "xIDaX3OM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 245174,
+      "fileId": 3175752
+    }
+  ],
   "forge": [
     {
       "modId": "enderstorage",

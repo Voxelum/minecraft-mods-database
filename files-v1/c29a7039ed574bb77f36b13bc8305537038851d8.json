@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SNVQ2c0g",
+      "versionId": "hXVm1N3M"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 669659,
+      "fileId": 6803125
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mru",
+      "version": "1.0.19+LTS+1.21.1+fabric"
+    },
+    {
+      "modId": "org_commonmark_commonmark",
+      "version": "0.21.0"
+    }
+  ]
+}

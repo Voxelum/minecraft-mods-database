@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JRC9aXm9",
+      "versionId": "RNPxUbYM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "voidfog",
+      "version": "2.12.4+1.21.4"
+    },
+    {
+      "modId": "kirin",
+      "version": "1.20.3+1.21.4"
+    }
+  ]
+}

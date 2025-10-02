@@ -1,6 +1,18 @@
 {
   "name": "absentbydesign-1.15.2-1.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6uw892ih",
+      "versionId": "c6hPLUJG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 305840,
+      "fileId": 3069489
+    }
+  ],
   "forge": [
     {
       "modId": "absentbydesign",

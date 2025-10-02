@@ -1,0 +1,26 @@
+{
+  "name": "Scribble-1.5.2+mc1.21.5-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yXAvIk0x",
+      "versionId": "N99ennkW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051344,
+      "fileId": 6348013
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scribble",
+      "version": "1.5.2"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.6+02ca679607"
+    }
+  ]
+}

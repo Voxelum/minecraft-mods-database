@@ -1,6 +1,18 @@
 {
   "name": "BOH_0.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nt0wLqt5",
+      "versionId": "tYAoky9k"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 408707,
+      "fileId": 4828188
+    }
+  ],
   "forge": [
     {
       "modId": "boh",

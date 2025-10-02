@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H80QSt2v",
+      "versionId": "wT6midDM"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fastitems",
+      "version": "1.1.0-fabric+1.21"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.3"
+    }
+  ]
+}

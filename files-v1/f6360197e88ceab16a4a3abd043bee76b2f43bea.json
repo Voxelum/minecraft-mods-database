@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m0oRwcZx",
+      "versionId": "9ss4EJYm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423602,
+      "fileId": 6510167
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cameraoverhaul",
+      "version": "2.0.4-fabric+mc.1.21.0-1.21.2"
+    },
+    {
+      "modId": "io_hotmoka_toml4j",
+      "version": "0.7.3"
+    }
+  ]
+}

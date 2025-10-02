@@ -1,0 +1,22 @@
+{
+  "name": "aa4-atlas-1.1.1+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aR9FhY20",
+      "versionId": "d0dXuelE"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "aa4_atlas",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aa4-atlas",
+      "version": "1.1.1"
+    }
+  ]
+}

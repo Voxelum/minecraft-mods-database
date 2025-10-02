@@ -1,6 +1,12 @@
 {
   "name": "plantinajar-2.5.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6T8A0G0v",
+      "versionId": "N4wCo7gC"
+    }
+  ],
   "fabric": [
     {
       "modId": "plantinajar",

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kpKchl4x",
+      "versionId": "zs49r2BS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345819,
+      "fileId": 3418311
+    }
+  ],
   "forge": [
     {
       "modId": "conduitspreventdrowned",

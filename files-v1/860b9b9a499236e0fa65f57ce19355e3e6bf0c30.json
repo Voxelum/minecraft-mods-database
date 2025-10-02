@@ -1,6 +1,18 @@
 {
   "name": "Mine-Pop! 1.0-1.20.1 (FORGE).jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nwzdpMnQ",
+      "versionId": "L2nosMkD"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 599276,
+      "fileId": 4706040
+    }
+  ],
   "forge": [
     {
       "modId": "minepop",

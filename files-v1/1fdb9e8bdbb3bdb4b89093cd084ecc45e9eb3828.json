@@ -1,0 +1,26 @@
+{
+  "name": "Camerapture-1.10.4+mc1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9dzLWnmZ",
+      "versionId": "yCksvPVX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1051342,
+      "fileId": 6711722
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "camerapture",
+      "version": "1.10.4"
+    },
+    {
+      "modId": "io_github_darkxanter_webp-imageio",
+      "version": "0.3.2"
+    }
+  ]
+}

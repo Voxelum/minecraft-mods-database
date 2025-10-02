@@ -1,0 +1,26 @@
+{
+  "name": "morevillagers-re-1.21.1-fabric-5.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1fOqTPRO",
+      "versionId": "eywaX6Ja"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1147438,
+      "fileId": 6604916
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "morevillagers",
+      "version": "5.1.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.140"
+    }
+  ]
+}

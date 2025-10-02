@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5EbA5aZn",
+      "versionId": "vBUQmLBI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1083162,
+      "fileId": 6359593
+    }
+  ],
   "forge": [
     {
       "modId": "ancore",

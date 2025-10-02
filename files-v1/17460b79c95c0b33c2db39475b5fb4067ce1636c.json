@@ -1,0 +1,22 @@
+{
+  "name": "decimalCoins-fabric-1.16.5-1.3.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 394362,
+      "fileId": 3367765
+    }
+  ],
+  "forge": [
+    {
+      "modId": "decimal_coins",
+      "version": "${mc_version}-${mod_version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decimal_coins",
+      "version": "1.16.5-1.3.0"
+    }
+  ]
+}

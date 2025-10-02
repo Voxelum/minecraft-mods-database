@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.3.0+1.21.6"
+    },
+    {
+      "modId": "lambdynlights_api",
+      "version": "4.3.0+1.21.6"
+    },
+    {
+      "modId": "pride",
+      "version": "1.4.0+1.21.6"
+    },
+    {
+      "modId": "spruceui",
+      "version": "8.0.0+1.21.6"
+    }
+  ]
+}

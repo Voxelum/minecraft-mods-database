@@ -1,0 +1,30 @@
+{
+  "name": "witchery-fabric-0.3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LCO8KZvC",
+      "versionId": "4kauDUo3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1125946,
+      "fileId": 6554903
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "witchery",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

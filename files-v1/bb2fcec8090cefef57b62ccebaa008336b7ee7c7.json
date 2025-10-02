@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vWZw1wCf",
+      "versionId": "ozHF4nzF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 775565,
+      "fileId": 6105724
+    }
+  ],
+  "forge": [
+    {
+      "modId": "decorative_computers",
+      "version": "1.6.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "decorative_computers",
+      "version": "1.0.1"
+    }
+  ]
+}

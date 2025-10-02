@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1257441,
+      "fileId": 6521319
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "webcam",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "com_nativelibs4java_bridj",
+      "version": "0.7.0"
+    },
+    {
+      "modId": "com_github_sarxos_webcam-capture",
+      "version": "0.3.12"
+    }
+  ]
+}

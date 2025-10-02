@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "kYt0MSgT",
+      "versionId": "OIFK5AFm"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "beansbackpacks",
+      "version": "0.16-v2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.3.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.3.0"
+    }
+  ]
+}

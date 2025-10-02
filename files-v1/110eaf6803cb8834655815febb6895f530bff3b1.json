@@ -1,0 +1,10 @@
+{
+  "name": "cmeet.jar",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "cme_entitytracker",
+      "version": "1.0"
+    }
+  ]
+}

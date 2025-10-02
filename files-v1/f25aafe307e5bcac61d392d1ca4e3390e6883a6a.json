@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QKXofFZC",
+      "versionId": "MloFkA3E"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1105569,
+      "fileId": 6726742
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrastorage",
+      "version": "1.2.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.1"
+    }
+  ]
+}

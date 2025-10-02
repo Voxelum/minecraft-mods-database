@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "unseen_world",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65-1.20"
+    }
+  ]
+}

@@ -1,4 +1,16 @@
 {
   "name": "",
-  "domain": "mods"
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cudtvDnd",
+      "versionId": "q76a8nJX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 232676,
+      "fileId": 5474318
+    }
+  ]
 }

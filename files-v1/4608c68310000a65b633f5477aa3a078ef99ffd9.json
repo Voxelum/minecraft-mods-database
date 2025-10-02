@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "hopour",
+      "version": "1.1.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hopobetterunderwaterruins",
+      "version": "1.1.4"
+    }
+  ]
+}

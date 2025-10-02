@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eA8SXqWL",
+      "versionId": "N9XMUi6a"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 363949,
+      "fileId": 6554471
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "the_bumblezone",
+      "version": "7.9.2+1.21.1-fabric"
+    },
+    {
+      "modId": "athena",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.0.11"
+    }
+  ]
+}

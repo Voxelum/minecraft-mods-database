@@ -1,0 +1,26 @@
+{
+  "name": "dynamic-tooltips-0.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yakHVeQt",
+      "versionId": "yrM5zOgk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1247062,
+      "fileId": 6537933
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamictooltips",
+      "version": "0.5.0"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SdEvidHA",
+      "versionId": "C40KmJDQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 996454,
+      "fileId": 5937087
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "caligo",
+      "version": "0.2.2+1.21-1.21.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

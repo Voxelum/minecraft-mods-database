@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBAkmtvl",
+      "versionId": "gAqyWsf3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 500525,
+      "fileId": 6841887
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "balm",
+      "version": "21.0.49"
+    },
+    {
+      "modId": "kuma_api",
+      "version": "21.0.5"
+    }
+  ]
+}

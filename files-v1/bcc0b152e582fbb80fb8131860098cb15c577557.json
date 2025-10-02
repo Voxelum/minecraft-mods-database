@@ -1,6 +1,18 @@
 {
   "name": "fish_of_thieves-mc1.20.1-v3.0.3-forge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BzOTnuqM",
+      "versionId": "fw65hQbm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 568372,
+      "fileId": 4958325
+    }
+  ],
   "forge": [
     {
       "modId": "fishofthieves",

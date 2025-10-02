@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LwFVdT1s",
+      "versionId": "4sHgGPN1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423140,
+      "fileId": 5720654
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "datapackportals",
+      "version": "1.2.3-1.21"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta66-1.21"
+    }
+  ]
+}

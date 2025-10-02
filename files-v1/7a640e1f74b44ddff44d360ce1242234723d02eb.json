@@ -1,6 +1,12 @@
 {
   "name": "terraqueous-forge-1.16.3-lts-1.7.30.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 244870,
+      "fileId": 4859128
+    }
+  ],
   "forge": [
     {
       "modId": "terraqueous",

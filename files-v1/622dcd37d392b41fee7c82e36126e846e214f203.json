@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "iCl1mF5K",
+      "versionId": "gP6yHbiq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1180064,
+      "fileId": 6515382
+    }
+  ],
+  "forge": [
+    {
+      "modId": "imaginebook",
+      "version": "1.2.6"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "imaginebook",
+      "version": "1.2.6"
+    },
+    {
+      "modId": "org_sejda_imageio_webp-imageio",
+      "version": "0.1.6"
+    }
+  ]
+}

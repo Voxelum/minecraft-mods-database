@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "particular-1.21.1-Fabric-1.1.2.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "B1CcCd9h",
       "versionId": "3dq7wTCR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1219053,
+      "fileId": 6500234
     }
   ],
   "fabric": [

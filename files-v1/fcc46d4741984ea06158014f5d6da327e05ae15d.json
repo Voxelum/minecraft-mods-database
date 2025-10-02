@@ -1,0 +1,32 @@
+{
+  "name": "scholar-1.20.1-1.1.4-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fX4dIQCo",
+      "versionId": "orIMnwcB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 961802,
+      "fileId": 6334778
+    }
+  ],
+  "forge": [
+    {
+      "modId": "scholar-1.20.1-1.1.4-fabric",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "scholar",
+      "version": "1.1.4"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

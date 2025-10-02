@@ -1,0 +1,30 @@
+{
+  "name": "emotecraft-fabric-for-MC1.21.5-2.6.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "4QvPDQWM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6629990
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.6.1"
+    },
+    {
+      "modId": "net_raphimc_noteblocklib",
+      "version": "3.1.0-SNAPSHOT"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.3.1+1.21.5"
+    }
+  ]
+}

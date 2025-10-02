@@ -1,0 +1,26 @@
+{
+  "name": "commandkeys-fabric-2.3.7+1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "65UyswbY",
+      "versionId": "XyF1o2Ca"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 873388,
+      "fileId": 6144525
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "commandkeys",
+      "version": "2.3.7+1.21"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

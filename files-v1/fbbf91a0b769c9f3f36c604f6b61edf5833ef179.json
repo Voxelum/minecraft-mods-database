@@ -1,10 +1,16 @@
 {
-  "name": "",
+  "name": "formations-1.0.3-fabric-mc1.21.2.jar",
   "domain": "mods",
   "modrinth": [
     {
       "projectId": "tPe4xnPd",
       "versionId": "1kcjaPDC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 915115,
+      "fileId": 5929362
     }
   ],
   "fabric": [

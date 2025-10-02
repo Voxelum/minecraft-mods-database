@@ -1,6 +1,18 @@
 {
   "name": "kelpfertilizer_1.16.5-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eKxUpBGQ",
+      "versionId": "ZRgqQu4g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367598,
+      "fileId": 3419587
+    }
+  ],
   "forge": [
     {
       "modId": "kelpfertilizer",

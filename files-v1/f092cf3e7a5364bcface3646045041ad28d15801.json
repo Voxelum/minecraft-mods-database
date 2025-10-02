@@ -1,0 +1,26 @@
+{
+  "name": "constructionwand-2.0.1+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SdT4Yu5L",
+      "versionId": "PS1xtmMa"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1035665,
+      "fileId": 6676846
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "constructionwand",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "dev_smto_simpleconfig",
+      "version": "2.4.3+1.20.1"
+    }
+  ]
+}

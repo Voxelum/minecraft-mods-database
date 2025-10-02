@@ -1,4 +1,16 @@
 {
   "name": "[1.7.10]自动树苗种植——Auto Sapling-V1.1.jar",
-  "domain": "shaderpacks"
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 222415,
+      "fileId": 2211794
+    }
+  ],
+  "forge": [
+    {
+      "modId": "AutoSapling",
+      "version": "1.0"
+    }
+  ]
 }

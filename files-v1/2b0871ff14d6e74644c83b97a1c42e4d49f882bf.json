@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "stackrefill",
+      "version": "4.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stackrefill",
+      "version": "4.7"
+    }
+  ]
+}

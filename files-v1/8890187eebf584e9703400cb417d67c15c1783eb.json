@@ -1,0 +1,20 @@
+{
+  "name": "netheriteextras-0.4.0+mc1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WRs6iRSw",
+      "versionId": "P3z0kpVQ"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "netheriteextras",
+      "version": "0.4.0+mc1.21"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.11+1.21"
+    }
+  ]
+}

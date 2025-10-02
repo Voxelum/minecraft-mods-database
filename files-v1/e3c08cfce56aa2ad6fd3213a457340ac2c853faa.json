@@ -1,0 +1,30 @@
+{
+  "name": "titletweaks-1.1.5+1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PbzVlL3w",
+      "versionId": "WYD7bt98"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1093171,
+      "fileId": 6663237
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "titletweaks",
+      "version": "1.1.5"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.8"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

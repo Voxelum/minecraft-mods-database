@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "controlify",
+      "version": "2.1.2+1.21.4-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "controlify",
+      "version": "2.1.2+1.21.4-fabric"
+    },
+    {
+      "modId": "org_hid4java_hid4java",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "dev_isxander_libsdl4j",
+      "version": "3.1.9.075c033-66"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-beta.4"
+    },
+    {
+      "modId": "dev_isxander_steamdeck4j",
+      "version": "1.1.7"
+    }
+  ]
+}

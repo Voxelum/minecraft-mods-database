@@ -1,6 +1,18 @@
 {
   "name": "endorium-1.16.5-1.0.5.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vEAzPrqy",
+      "versionId": "2yaFSgms"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 286231,
+      "fileId": 4838565
+    }
+  ],
   "forge": [
     {
       "modId": "endreborn",

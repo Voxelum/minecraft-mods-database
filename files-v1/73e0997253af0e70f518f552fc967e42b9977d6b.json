@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MPCX6s5C",
+      "versionId": "JTLkasT1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 433760,
+      "fileId": 6738649
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "notenoughanimations",
+      "version": "1.10.1"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.5"
+    }
+  ]
+}

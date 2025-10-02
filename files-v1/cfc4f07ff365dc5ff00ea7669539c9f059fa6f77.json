@@ -1,6 +1,18 @@
 {
   "name": "MoreBows-1.0.10+1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CkMS2Yh3",
+      "versionId": "mc6XUwYK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 466902,
+      "fileId": 4450724
+    }
+  ],
   "fabric": [
     {
       "modId": "morebows",

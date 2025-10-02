@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6AYENgHJ",
+      "versionId": "7CTbMoE9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1129990,
+      "fileId": 5989034
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "definedsblocks",
+      "version": "1.0.1.14"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "MC1.18.2-1.1.11"
+    },
+    {
+      "modId": "porting_lib",
+      "version": "1.2.1304-beta+1.18.2"
+    },
+    {
+      "modId": "forge_tags",
+      "version": "2.1"
+    }
+  ]
+}

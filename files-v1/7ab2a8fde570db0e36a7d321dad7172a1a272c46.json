@@ -1,6 +1,12 @@
 {
   "name": "project-infection.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 845623,
+      "fileId": 4536926
+    }
+  ],
   "forge": [
     {
       "modId": "projectinfaction",

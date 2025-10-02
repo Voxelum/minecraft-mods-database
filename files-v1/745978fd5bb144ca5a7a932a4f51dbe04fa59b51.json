@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p1WH6sHr",
+      "versionId": "iZaSVw3p"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 852533,
+      "fileId": 6790167
+    }
+  ],
+  "forge": [
+    {
+      "modId": "watching",
+      "version": "1.9.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watching",
+      "version": "1.9.4"
+    }
+  ]
+}

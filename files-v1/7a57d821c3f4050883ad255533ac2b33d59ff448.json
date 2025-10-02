@@ -1,6 +1,12 @@
 {
   "name": "mining-helmet-1.15.2-1.0.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 351948,
+      "fileId": 3062960
+    }
+  ],
   "forge": [
     {
       "modId": "mining_helmet",

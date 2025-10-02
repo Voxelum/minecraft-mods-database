@@ -1,6 +1,12 @@
 {
   "name": "slime-1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bCPTPnsM",
+      "versionId": "SvclEW8C"
+    }
+  ],
   "fabric": [
     {
       "modId": "slime",

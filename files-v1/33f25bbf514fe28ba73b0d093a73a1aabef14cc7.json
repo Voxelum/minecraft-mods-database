@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "constructionwand",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "constructionwand",
+      "version": "1.1.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.4.1"
+    }
+  ]
+}

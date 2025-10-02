@@ -1,6 +1,12 @@
 {
   "name": "LargeFluidTank-16.1.9.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 291006,
+      "fileId": 3838627
+    }
+  ],
   "forge": [
     {
       "modId": "fluidtank",

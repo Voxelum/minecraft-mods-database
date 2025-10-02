@@ -1,6 +1,18 @@
 {
   "name": "supplementaries-1.19.2-2.3.18-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fFEIiSDQ",
+      "versionId": "zPNX86bR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 412082,
+      "fileId": 4592004
+    }
+  ],
   "fabric": [
     {
       "modId": "supplementaries",

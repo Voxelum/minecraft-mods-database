@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bQ5TJA1E",
+      "versionId": "iKQVTCn6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682515,
+      "fileId": 6402778
+    }
+  ],
+  "forge": [
+    {
+      "modId": "continents",
+      "version": "1.1.8"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "continents",
+      "version": "1.1.8"
+    }
+  ]
+}

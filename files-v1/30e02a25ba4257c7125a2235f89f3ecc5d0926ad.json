@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ygYU16dG",
+      "versionId": "KFgJzCge"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1065783,
+      "fileId": 6640695
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "my-totem-doll",
+      "version": "2.1.7+1.20.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0"
+    }
+  ]
+}

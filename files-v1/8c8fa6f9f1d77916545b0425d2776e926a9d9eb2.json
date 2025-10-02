@@ -1,0 +1,22 @@
+{
+  "name": "horses-can-float-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MKFXH430",
+      "versionId": "AGH9eKa6"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_horses_canfloat",
+      "version": "1.21"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_horses_canfloat",
+      "version": "1.21"
+    }
+  ]
+}

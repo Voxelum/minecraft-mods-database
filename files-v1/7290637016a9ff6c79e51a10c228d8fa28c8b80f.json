@@ -1,6 +1,12 @@
 {
   "name": "InventorySorter-1.8.8-1.19.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 325471,
+      "fileId": 3822196
+    }
+  ],
   "fabric": [
     {
       "modId": "inventorysorter",

@@ -1,0 +1,26 @@
+{
+  "name": "particulate-1.0.4+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nIGZuP7R",
+      "versionId": "4lGYjMkf"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1298525,
+      "fileId": 6720917
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particulate",
+      "version": "1.0.4+1.21.5"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.20+1.21.5"
+    }
+  ]
+}

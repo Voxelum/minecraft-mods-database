@@ -1,0 +1,26 @@
+{
+  "name": "bedrockoid-0.1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7VSNCbf",
+      "versionId": "oigiQPiI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1217715,
+      "fileId": 6587477
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockoid",
+      "version": "0.1.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
+    }
+  ]
+}

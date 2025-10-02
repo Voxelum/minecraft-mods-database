@@ -1,0 +1,30 @@
+{
+  "name": "things-0.2.19+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VzAGdu9D",
+      "versionId": "YvuNpDEz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 456151,
+      "fileId": 3825416
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "things",
+      "version": "0.2.19+1.19"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.7.3+1.19"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.2.1"
+    }
+  ]
+}

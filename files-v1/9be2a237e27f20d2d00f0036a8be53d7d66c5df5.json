@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "daqt5qcK"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 397809,
+      "fileId": 6941988
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.4.12"
+    },
+    {
+      "modId": "bendy-lib",
+      "version": "5.1"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.1+1.21.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "connectedglass-1.1.11-fabric-mc1.19.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DghO0R02",
+      "versionId": "WHkq9m9t"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 383129,
+      "fileId": 5002572
+    }
+  ],
   "fabric": [
     {
       "modId": "connectedglass",

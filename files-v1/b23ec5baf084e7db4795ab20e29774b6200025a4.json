@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PtE4487T",
+      "versionId": "gcA0ZQXy"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "daycounterenhanced",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.7.3"
+    }
+  ]
+}

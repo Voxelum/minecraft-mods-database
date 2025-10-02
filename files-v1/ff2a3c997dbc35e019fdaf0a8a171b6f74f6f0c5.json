@@ -1,0 +1,22 @@
+{
+  "name": "loot-bags-3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QmCVRmmn",
+      "versionId": "Pw1hKdsq"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_loot_bags",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_loot_bags",
+      "version": "3.1"
+    }
+  ]
+}

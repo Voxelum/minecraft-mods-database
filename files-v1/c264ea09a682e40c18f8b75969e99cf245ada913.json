@@ -1,0 +1,38 @@
+{
+  "name": "gliders-fabric-1.1.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XiC6HzoU",
+      "versionId": "f09IG95A"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 828331,
+      "fileId": 6517194
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vc_gliders",
+      "version": "1.1.7"
+    },
+    {
+      "modId": "player-animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "modId": "palladiumcore",
+      "version": "1.20-2.0.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.0.2"
+    }
+  ]
+}

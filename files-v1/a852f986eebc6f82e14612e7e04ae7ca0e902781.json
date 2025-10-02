@@ -1,0 +1,26 @@
+{
+  "name": "earlybedtime-fabric-1.0.0-1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TjcYKx6s",
+      "versionId": "5Or3meBQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1268064,
+      "fileId": 6541441
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "earlybedtime",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.0"
+    }
+  ]
+}

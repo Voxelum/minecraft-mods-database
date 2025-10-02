@@ -1,0 +1,22 @@
+{
+  "name": "pyrite-0.15.10+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1101500,
+      "fileId": 6032288
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pyrite",
+      "version": "0.15.10+1.20.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pyrite",
+      "version": "0.15.10+1.20.1"
+    }
+  ]
+}

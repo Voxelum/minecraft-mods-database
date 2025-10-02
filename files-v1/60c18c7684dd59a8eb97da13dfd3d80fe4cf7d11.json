@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s9pTbzak",
+      "versionId": "H7xPl4Ut"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 532595,
+      "fileId": 5432010
+    }
+  ],
+  "forge": [
+    {
+      "modId": "hangman",
+      "version": "6.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hangman",
+      "version": "6.0.0"
+    }
+  ]
+}

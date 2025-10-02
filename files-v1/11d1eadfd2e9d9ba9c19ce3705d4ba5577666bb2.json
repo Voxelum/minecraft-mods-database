@@ -1,6 +1,18 @@
 {
   "name": "healthbarplus-forge-1.16.5-1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xp60FoRZ",
+      "versionId": "bvwnKZQj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 636410,
+      "fileId": 3846619
+    }
+  ],
   "forge": [
     {
       "modId": "healthbarplus",

@@ -1,0 +1,24 @@
+{
+  "name": "chattools-1.20.1-v2.3.11.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pbnlOdwp",
+      "versionId": "IPlAJxYp"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chattools",
+      "version": "2.3.11"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "com_sshtools_two-slices",
+      "version": "0.9.4"
+    }
+  ]
+}

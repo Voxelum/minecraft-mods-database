@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m5T5xmUy",
+      "versionId": "NrmXVyqU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1026394,
+      "fileId": 6039192
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bettergrass",
+      "version": "1.4.3+fabric.1.21.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rvZnCrhx",
+      "versionId": "nuSbpYIw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1194409,
+      "fileId": 6732459
+    }
+  ],
+  "forge": [
+    {
+      "modId": "fokusapi",
+      "version": "2.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fokusapi",
+      "version": "2.7"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 998916,
+      "fileId": 6565856
+    }
+  ],
+  "forge": [
+    {
+      "modId": "burnt",
+      "version": "1.9.0.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "burnt",
+      "version": "1.8.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "CTOV-Fabric-Forge-3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "BGJCx9uY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 3838562
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "3.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctov",
+      "version": "3.0"
+    }
+  ]
+}

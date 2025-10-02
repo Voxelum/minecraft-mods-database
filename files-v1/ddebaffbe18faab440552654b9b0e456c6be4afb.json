@@ -1,0 +1,16 @@
+{
+  "name": "ftb-materials-neoforge-21.1.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1124942,
+      "fileId": 6831822
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbmaterials",
+      "version": "${version}"
+    }
+  ]
+}

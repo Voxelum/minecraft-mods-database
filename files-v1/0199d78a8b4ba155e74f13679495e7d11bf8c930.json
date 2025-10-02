@@ -1,0 +1,26 @@
+{
+  "name": "enderscape-fabric-1.0.5+mc1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "btCrWvHr",
+      "versionId": "nUYlZWw6"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 536638,
+      "fileId": 6639277
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enderscape",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "mixson",
+      "version": "1.3.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hunger_tweaks-fabric-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2ygSk5sW",
+      "versionId": "bDE5NWEP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1266883,
+      "fileId": 6535864
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hunger_tweaks",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

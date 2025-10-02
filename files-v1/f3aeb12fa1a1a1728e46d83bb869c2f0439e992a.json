@@ -1,0 +1,26 @@
+{
+  "name": "[YUNG的洞穴生物群系] YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cs7iGVq1",
+      "versionId": "8h469FpE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1112347,
+      "fileId": 6606911
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yungscavebiomes",
+      "version": "1.20.1-Fabric-2.0.5"
+    },
+    {
+      "modId": "org_reflections_reflections",
+      "version": "0.10.2"
+    }
+  ]
+}

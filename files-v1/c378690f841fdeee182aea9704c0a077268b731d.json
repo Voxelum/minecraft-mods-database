@@ -1,0 +1,24 @@
+{
+  "name": "mod-loading-screen-1.0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xAGJ6rQS",
+      "versionId": "dHmCqlFI"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mod-loading-screen",
+      "version": "1.0.5"
+    },
+    {
+      "modId": "net_lenni0451_reflect",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "com_formdev_flatlaf",
+      "version": "3.5.4"
+    }
+  ]
+}

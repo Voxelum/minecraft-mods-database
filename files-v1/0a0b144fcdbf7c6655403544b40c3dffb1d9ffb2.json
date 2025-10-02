@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1033986,
+      "fileId": 6356080
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mysticrift_pharaohs_legacy",
+      "version": "16.22.31"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mysticrift_pharaohs_legacy",
+      "version": "6.12.21"
+    }
+  ]
+}

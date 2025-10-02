@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RWZR0OYJ",
+      "versionId": "w2Zfp10H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1116844,
+      "fileId": 5798877
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hexconjuring",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    }
+  ]
+}

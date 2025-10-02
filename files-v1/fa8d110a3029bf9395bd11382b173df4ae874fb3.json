@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "N6n5dqoA",
+      "versionId": "6BFd0w5s"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "axiom",
+      "version": "5.0.1"
+    },
+    {
+      "modId": "com_moulberry_axiomclientapi",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "lattice",
+      "version": "1.2.12"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.9"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

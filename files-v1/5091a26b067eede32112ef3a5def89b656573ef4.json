@@ -1,0 +1,28 @@
+{
+  "name": "ctLibMod-0.1.13.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EFNVfB1s",
+      "versionId": "RVXtgzVV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 947232,
+      "fileId": 5608018
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctlib",
+      "version": "0.1.13"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ctlib",
+      "version": "0.1.13"
+    }
+  ]
+}

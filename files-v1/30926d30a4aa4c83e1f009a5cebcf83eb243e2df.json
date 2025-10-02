@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "mQWkB9ON",
+      "versionId": "48t8duHT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411813,
+      "fileId": 6494406
+    }
+  ],
+  "forge": [
+    {
+      "modId": "stackrefill",
+      "version": "4.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "stackrefill",
+      "version": "4.7"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "cl223EMc",
+      "versionId": "bgdjh4pG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 856996,
+      "fileId": 6675636
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cristellib",
+      "version": "2.0.3"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "mermod-fabric-1.21.1-3.3.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ORiydwz3",
+      "versionId": "tCJMBB3u"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 463248,
+      "fileId": 6139584
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mermod",
+      "version": "3.3.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.3"
+    }
+  ]
+}

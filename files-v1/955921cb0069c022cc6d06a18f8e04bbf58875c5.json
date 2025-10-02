@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7zlUOZvb",
+      "versionId": "Rg7rRvAl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817423,
+      "fileId": 6849106
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "azurelib",
+      "version": "3.0.15"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

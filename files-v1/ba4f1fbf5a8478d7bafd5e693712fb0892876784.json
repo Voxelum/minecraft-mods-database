@@ -1,0 +1,26 @@
+{
+  "name": "Sortilege-1.20.1-1.7.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GyVUSbid",
+      "versionId": "viMXEwVG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 882488,
+      "fileId": 6640629
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sortilege",
+      "version": "1.7.1"
+    },
+    {
+      "modId": "mm",
+      "version": "2.3"
+    }
+  ]
+}

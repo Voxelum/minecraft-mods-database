@@ -1,0 +1,22 @@
+{
+  "name": "jakes-build-tools-2.0.1.4-(1.21.1).jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DosZdmJF",
+      "versionId": "5sNJmsho"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_jakes_buildtools",
+      "version": "2.0.1.4-(1.21.1)"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_jakes_buildtools",
+      "version": "2.0.1.4-(1.21.1)"
+    }
+  ]
+}

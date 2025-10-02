@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seedcrackerx",
+      "version": "2.15.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "17.0.142"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.53+453d4f9104"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.40+e496eb1504"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.0.10+203e6b2304"
+    }
+  ]
+}

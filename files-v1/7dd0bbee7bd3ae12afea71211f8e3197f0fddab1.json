@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mutantmonsters",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mutantmonsters",
+      "version": "8.0.7"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "extensibleenums",
+      "version": "7.0.1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Pl8MehSU",
+      "versionId": "QFW9Fl4O"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "viewmodel",
+      "version": "1.0.1-1.21.6-fabric"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.7.5"
+    }
+  ]
+}

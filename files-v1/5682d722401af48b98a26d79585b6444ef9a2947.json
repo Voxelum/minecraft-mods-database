@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o5fhgLeQ",
+      "versionId": "gXW2o6yH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1184736,
+      "fileId": 6511687
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecraft-cursor",
+      "version": "3.7.0+1.21.4"
+    },
+    {
+      "modId": "minecraft-cursor_api",
+      "version": "3.7.0+1.21.4"
+    }
+  ]
+}

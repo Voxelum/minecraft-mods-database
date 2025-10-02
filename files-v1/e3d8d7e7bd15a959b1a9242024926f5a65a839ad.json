@@ -1,0 +1,30 @@
+{
+  "name": "naturespirit-2.2.4-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WBvnqHfV",
+      "versionId": "jkn2P7N5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1044992,
+      "fileId": 6445136
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "natures_spirit",
+      "version": "2.2.4-1.20.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.7"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.7"
+    }
+  ]
+}

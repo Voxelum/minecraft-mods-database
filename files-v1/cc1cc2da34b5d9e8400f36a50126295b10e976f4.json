@@ -1,0 +1,54 @@
+{
+  "name": "brewery-0.11.1+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nr7cSJlY",
+      "versionId": "XFrtRxXM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681703,
+      "fileId": 6348111
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brewery",
+      "version": "0.11.1+1.21.5"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "placeholder-api",
+      "version": "2.6.1+1.21.5"
+    },
+    {
+      "modId": "polymer-core",
+      "version": "0.12.1+1.21.5-rc2"
+    },
+    {
+      "modId": "polymer-resource-pack",
+      "version": "0.12.1+1.21.5-rc2"
+    },
+    {
+      "modId": "polymer-virtual-entity",
+      "version": "0.12.1+1.21.5-rc2"
+    },
+    {
+      "modId": "server_translations_api",
+      "version": "2.5.0+1.21.5-rc1"
+    },
+    {
+      "modId": "sgui",
+      "version": "1.9.0+1.21.5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "authme-fabric-9.0.1+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yjgIrBjZ",
+      "versionId": "VS9Jw8A3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 356643,
+      "fileId": 6351772
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "authme",
+      "version": "9.0.1+1.21.5"
+    },
+    {
+      "modId": "resourcefulconfig",
+      "version": "3.5.0"
+    }
+  ]
+}

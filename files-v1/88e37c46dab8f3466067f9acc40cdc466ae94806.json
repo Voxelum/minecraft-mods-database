@@ -1,0 +1,34 @@
+{
+  "name": "blabber-1.8.0-standalone.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "2oRMVFgd",
+      "versionId": "ODQSSC9O"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 565396,
+      "fileId": 6445342
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blabber",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.0"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.2-SNAPSHOT"
+    }
+  ]
+}

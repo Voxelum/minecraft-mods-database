@@ -1,0 +1,30 @@
+{
+  "name": "entityculling-fabric-1.8.0-mc1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "2BwJZLax"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 448233,
+      "fileId": 6675266
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "entityculling",
+      "version": "1.8.0"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.4"
+    }
+  ]
+}

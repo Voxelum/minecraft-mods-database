@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gqRXDo8B",
+      "versionId": "6kh4tDDb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 345854,
+      "fileId": 6713829
+    }
+  ],
+  "forge": [
+    {
+      "modId": "villagernames",
+      "version": "8.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "8.3"
+    }
+  ]
+}

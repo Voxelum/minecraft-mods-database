@@ -1,6 +1,18 @@
 {
   "name": "Splatcraft-4.0.1-1.18.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vkZX5K0d",
+      "versionId": "ucDMjv3l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 367816,
+      "fileId": 5155522
+    }
+  ],
   "forge": [
     {
       "modId": "splatcraft",

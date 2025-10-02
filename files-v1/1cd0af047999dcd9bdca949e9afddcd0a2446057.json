@@ -1,6 +1,18 @@
 {
   "name": "fastercrouching_1.16.5-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lgEczyrc",
+      "versionId": "73aCbUrB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 697998,
+      "fileId": 4069073
+    }
+  ],
   "forge": [
     {
       "modId": "fastercrouching",

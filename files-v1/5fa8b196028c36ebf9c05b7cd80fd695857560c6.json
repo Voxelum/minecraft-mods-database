@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "charta",
+      "version": "1.0.5.1"
+    },
+    {
+      "modId": "org_commonmark_commonmark",
+      "version": "0.24.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "blended-compat-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QENxoXyf",
+      "versionId": "dulSIFJs"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1066390,
+      "fileId": 6503500
+    }
+  ],
+  "forge": [
+    {
+      "modId": "blended_compat",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "blended_compat",
+      "version": "1.1.1"
+    }
+  ]
+}

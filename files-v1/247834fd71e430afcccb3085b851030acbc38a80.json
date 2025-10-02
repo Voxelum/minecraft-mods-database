@@ -1,6 +1,18 @@
 {
   "name": "themetip-u0.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ggOHbDrC",
+      "versionId": "nqOUltUx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 943452,
+      "fileId": 4904753
+    }
+  ],
   "fabric": [
     {
       "modId": "themetip",

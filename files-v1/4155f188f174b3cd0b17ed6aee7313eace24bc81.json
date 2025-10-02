@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ghrZDhGW",
+      "versionId": "fs7VElhv"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skinrestorer",
+      "version": "2.3.5+1.21.6-fabric"
+    },
+    {
+      "modId": "org_mineskin_java-client",
+      "version": "3.0.6-SNAPSHOT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "iwtb-1.3.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SfXIxvDu",
+      "versionId": "MoEk7kIU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 844337,
+      "fileId": 5835693
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_iwtb",
+      "version": "1.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_iwtb",
+      "version": "1.3"
+    }
+  ]
+}

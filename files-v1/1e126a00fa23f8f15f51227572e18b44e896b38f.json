@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "resourcify",
+      "version": "1.7.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elementa",
+      "version": "DIAMOND-12"
+    }
+  ]
+}

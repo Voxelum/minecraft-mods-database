@@ -1,0 +1,28 @@
+{
+  "name": "recipe_generator-0.2.7_release-fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uQorKjjW",
+      "versionId": "iZzKWfUC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 899032,
+      "fileId": 6279677
+    }
+  ],
+  "forge": [
+    {
+      "modId": "recipe_generator",
+      "version": "0.2.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recipe_generator",
+      "version": "0.2.7_release"
+    }
+  ]
+}

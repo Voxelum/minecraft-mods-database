@@ -1,0 +1,38 @@
+{
+  "name": "lambdynamiclights-4.4.1+1.21.8.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "PcxqJePE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393442,
+      "fileId": 7011208
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.4.1+1.21.8"
+    },
+    {
+      "modId": "lambdynlights_api",
+      "version": "4.4.1+1.21.8"
+    },
+    {
+      "modId": "pride",
+      "version": "1.4.0+1.21.6"
+    },
+    {
+      "modId": "spruceui",
+      "version": "8.0.2+1.21.8"
+    },
+    {
+      "modId": "yumi_mc_core",
+      "version": "1.0.0-alpha.12+1.21.1"
+    }
+  ]
+}

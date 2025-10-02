@@ -1,0 +1,28 @@
+{
+  "name": "NeoEnchant-V5.10.1-for-1.21.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BynmO8IO",
+      "versionId": "wnc8fCzu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1135663,
+      "fileId": 6347268
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_neoenchant",
+      "version": "5.10"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_neoenchant",
+      "version": "5.10"
+    }
+  ]
+}

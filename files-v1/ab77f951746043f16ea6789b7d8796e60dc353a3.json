@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9i2aYUyi",
+      "versionId": "ZtRVCjzg"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 921929,
+      "fileId": 6418568
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "glowingeyes",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "6.1.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "6.1.2"
+    }
+  ]
+}

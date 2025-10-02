@@ -1,6 +1,12 @@
 {
-  "name": "",
+  "name": "jmx-mc116-1.22.185.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 324066,
+      "fileId": 3319840
+    }
+  ],
   "fabric": [
     {
       "modId": "json-model-extensions",

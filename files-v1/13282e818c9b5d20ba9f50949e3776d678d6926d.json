@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QAGBst4M",
+      "versionId": "N8gFdljq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 495476,
+      "fileId": 6918566
+    }
+  ],
+  "forge": [
+    {
+      "modId": "puzzleslib",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "puzzleslib",
+      "version": "8.1.33"
+    },
+    {
+      "modId": "puzzlesaccessapi",
+      "version": "20.1.1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eTGQghnD",
+      "versionId": "FwzS0srW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 843236,
+      "fileId": 4464445
+    }
+  ],
   "forge": [
     {
       "modId": "villagerarmor",

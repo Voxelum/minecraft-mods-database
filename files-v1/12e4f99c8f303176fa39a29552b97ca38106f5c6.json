@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XpzGz7KD",
+      "versionId": "xuGt0qIX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 876199,
+      "fileId": 6563748
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "elytratrims",
+      "version": "3.5.9"
+    },
+    {
+      "modId": "conditional-mixin",
+      "version": "0.6.3"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.1.2-beta.4"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NKvLVQMc",
+      "versionId": "5ycqszHo"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "symbol-chat",
+      "version": "1.21.8-1.3.7"
+    },
+    {
+      "modId": "reconfigure",
+      "version": "0.1.13"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_tlc-1.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1152731,
+      "fileId": 5958902
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_tlc",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_tlc",
+      "version": "1"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "s0UnCrWE",
+      "versionId": "Dn7WLUAq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 387443,
+      "fileId": 5564940
+    }
+  ],
   "forge": [
     {
       "modId": "dtaether",

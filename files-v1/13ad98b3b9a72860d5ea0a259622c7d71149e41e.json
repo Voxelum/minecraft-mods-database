@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gqf9Y9K5",
+      "versionId": "9Zmqi7ey"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686364,
+      "fileId": 4087554
+    }
+  ],
   "forge": [
     {
       "modId": "rascal",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h1E7sQNL",
+      "versionId": "9uUjHP9V"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cpm",
+      "version": "0.6.22a"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cpm",
+      "version": "-"
+    }
+  ]
+}

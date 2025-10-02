@@ -1,6 +1,18 @@
 {
   "name": "ForgeConfigAPIPort-v4.0.0-1.19-Fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ohNO6lps",
+      "versionId": "16w4kT84"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 3823451
+    }
+  ],
   "forge": [
     {
       "modId": "forgeconfigapiport",

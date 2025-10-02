@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1148121,
+      "fileId": 6274217
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_health_bar",
+      "version": "0.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_health_bar",
+      "version": "0.3"
+    }
+  ]
+}

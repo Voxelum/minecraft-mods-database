@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "ad_astra",
+      "version": "1.15.18"
+    },
+    {
+      "modId": "javazoom_jlayer",
+      "version": "1.0.1"
+    }
+  ]
+}

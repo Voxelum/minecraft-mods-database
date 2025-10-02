@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "iS29zBBc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 303119,
+      "fileId": 6960657
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.25.5"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.5.0+cd8c0daa2c"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "5.0.2+946bf4c32c"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.12+020423442c"
+    }
+  ]
+}

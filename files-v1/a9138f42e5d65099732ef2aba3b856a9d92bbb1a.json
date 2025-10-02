@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_awesome-1.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1129961,
+      "fileId": 6168538
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_awesome",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_awesome",
+      "version": "1"
+    }
+  ]
+}

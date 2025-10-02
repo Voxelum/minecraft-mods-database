@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9NM0dXub",
+      "versionId": "J4XyUb1o"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 499826,
+      "fileId": 6186862
+    }
+  ],
   "forge": [
     {
       "modId": "advancementplaques",

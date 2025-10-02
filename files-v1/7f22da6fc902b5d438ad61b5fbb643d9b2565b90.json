@@ -1,6 +1,18 @@
 {
   "name": "tntbreaksbedrock_1.16.5-1.7.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "eU2O6Xp1",
+      "versionId": "fnxyfyP8"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 344219,
+      "fileId": 3400521
+    }
+  ],
   "forge": [
     {
       "modId": "tntbreaksbedrock",

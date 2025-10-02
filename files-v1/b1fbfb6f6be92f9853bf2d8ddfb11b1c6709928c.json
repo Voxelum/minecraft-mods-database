@@ -1,6 +1,18 @@
 {
   "name": "ctrlq-forge-1.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dxv5rpnB",
+      "versionId": "gG90iDzR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455479,
+      "fileId": 3279839
+    }
+  ],
   "forge": [
     {
       "modId": "ctrlq-forge",

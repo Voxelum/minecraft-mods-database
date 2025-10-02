@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "y7FjajXw",
+      "versionId": "qBTkoVMw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1180845,
+      "fileId": 6939126
+    }
+  ],
+  "forge": [
+    {
+      "modId": "arrzenhanced",
+      "version": "1.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "arrzenhanced",
+      "version": "0.1.0"
+    }
+  ]
+}

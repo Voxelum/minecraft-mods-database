@@ -1,0 +1,26 @@
+{
+  "name": "happy_ghast_legacy-1.8-1.21.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zi5opIfD",
+      "versionId": "HzOADV7g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1248466,
+      "fileId": 6700311
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "happy_ghast_legacy",
+      "version": "1.8"
+    },
+    {
+      "modId": "architectury",
+      "version": "13.0.8"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "mr_warfare_expanded",
+      "version": "1.5.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_warfare_expanded",
+      "version": "1.5.1"
+    }
+  ]
+}

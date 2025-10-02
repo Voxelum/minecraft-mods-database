@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "tCUVz9xy",
+      "versionId": "OxaJ0uJt"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "potatoptimize",
+      "version": "0.0.1-dev.7"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    }
+  ]
+}

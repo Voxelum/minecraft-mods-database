@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "watermedia",
+      "version": "2.1.16"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "watermedia",
+      "version": "2.1.16"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "schpeedy-boats-0.0.3.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "L4FuY3Du",
+      "versionId": "yLWi17x5"
+    }
+  ],
   "fabric": [
     {
       "modId": "schpeedyboats",

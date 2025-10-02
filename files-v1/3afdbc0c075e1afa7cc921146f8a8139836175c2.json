@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qsSP2ZZ0",
+      "versionId": "aSXk30aF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 687977,
+      "fileId": 6662520
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "vcinteraction",
+      "version": "1.21.6-1.0.8"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.63+9ec45cd89c"
+    },
+    {
+      "modId": "fabric-content-registries-v0",
+      "version": "10.0.17+fa6cb72b9c"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.6.2+db4dfd859c"
+    },
+    {
+      "modId": "fabric-registry-sync-v0",
+      "version": "6.1.25+9ec45cd89c"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.10+fa6cb72b9c"
+    },
+    {
+      "modId": "polymer-registry-sync-manipulator",
+      "version": "0.13.0-pre.1+1.21.6-pre2"
+    }
+  ]
+}

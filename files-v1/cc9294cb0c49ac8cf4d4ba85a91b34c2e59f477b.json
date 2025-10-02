@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_dungeonsplus-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1146857,
+      "fileId": 6170517
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_dungeonsplus",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_dungeonsplus",
+      "version": "1"
+    }
+  ]
+}

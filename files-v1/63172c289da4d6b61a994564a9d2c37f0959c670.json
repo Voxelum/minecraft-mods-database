@@ -1,0 +1,26 @@
+{
+  "name": "recallstaffs-4.2.0+1.20.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KWmMCBIr",
+      "versionId": "6giW9lcr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 828251,
+      "fileId": 6646593
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "recallstaffs",
+      "version": "4.2.0+1.20"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

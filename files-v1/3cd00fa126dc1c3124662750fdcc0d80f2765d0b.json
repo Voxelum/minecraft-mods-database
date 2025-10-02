@@ -1,0 +1,26 @@
+{
+  "name": "conjuring-1.0.23+1.19.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GriMtaoD",
+      "versionId": "iz8DRAro"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 422310,
+      "fileId": 3825435
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "conjuring",
+      "version": "1.0.23+1.19"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.7.3+1.19"
+    }
+  ]
+}

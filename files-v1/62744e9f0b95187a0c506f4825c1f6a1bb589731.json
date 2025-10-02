@@ -1,6 +1,18 @@
 {
   "name": "rftoolsutility-1.15-2.1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7n3HbHSE",
+      "versionId": "oQ9tfWXu"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 342466,
+      "fileId": 3152946
+    }
+  ],
   "forge": [
     {
       "modId": "rftoolsutility",

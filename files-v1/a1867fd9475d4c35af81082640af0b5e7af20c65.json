@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DIlqwRFH",
+      "versionId": "hB8M60Ec"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 440228,
+      "fileId": 6004178
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fpsdisplay",
+      "version": "4.2.4+1.21.4"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.54+b47eab6b04"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.56+7feeb73304"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.5.4+bf2a60eb04"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "torohealth-1.21-neoforge-2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 976223,
+      "fileId": 6550804
+    }
+  ],
+  "forge": [
+    {
+      "modId": "torohealth",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_dungeoncrawl-1.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1137456,
+      "fileId": 6168744
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_dungeoncrawl",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_dungeoncrawl",
+      "version": "1"
+    }
+  ]
+}

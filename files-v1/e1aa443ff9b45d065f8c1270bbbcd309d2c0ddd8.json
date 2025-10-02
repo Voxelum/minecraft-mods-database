@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jv8hXuHT",
+      "versionId": "tbuylwzU"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pirates",
+      "version": "1.8.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pirates",
+      "version": "1.8.1-forge"
+    }
+  ]
+}

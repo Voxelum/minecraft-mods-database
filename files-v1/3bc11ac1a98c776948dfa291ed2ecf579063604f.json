@@ -1,0 +1,28 @@
+{
+  "name": "nohostilesaroundcampfire-1.20.1-7.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "EJqeyaVz",
+      "versionId": "iNnx7a2g"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 347394,
+      "fileId": 6185486
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "7.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nohostilesaroundcampfire",
+      "version": "7.2"
+    }
+  ]
+}

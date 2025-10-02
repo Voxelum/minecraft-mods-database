@@ -1,6 +1,18 @@
 {
   "name": "laserbridges-1.19.2-1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wz31BboV",
+      "versionId": "BVDY1zac"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 776337,
+      "fileId": 4310476
+    }
+  ],
   "fabric": [
     {
       "modId": "laserbridges",

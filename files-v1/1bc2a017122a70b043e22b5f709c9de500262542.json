@@ -1,0 +1,22 @@
+{
+  "name": "ftb-chunks-modded-1.20+1.1.9.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1160650,
+      "fileId": 6391470
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ftbchunks_modded",
+      "version": "1.1.9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ftbchunks_modded",
+      "version": "1.1.9"
+    }
+  ]
+}

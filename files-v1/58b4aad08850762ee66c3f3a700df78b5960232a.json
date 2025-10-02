@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Dg7PHdkJ",
+      "versionId": "2LspNPfK"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "craftedcore",
+      "version": "6.3"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

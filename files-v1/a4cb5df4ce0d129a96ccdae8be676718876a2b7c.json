@@ -1,0 +1,36 @@
+{
+  "name": "globalpacks-fabric-1.20.1-19.3.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NRLPy2mk",
+      "versionId": "TbR0FAFL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 317134,
+      "fileId": 6634577
+    }
+  ],
+  "forge": [
+    {
+      "modId": "globalpacks",
+      "version": "19.3.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mod_id",
+      "version": "19.3.5"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.0"
+    }
+  ]
+}

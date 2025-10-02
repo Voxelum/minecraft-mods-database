@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "86xjpqqS",
+      "versionId": "kUaC0sA1"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ysm-2.5.0-fabric+mc1.21.1-release",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yes_steve_model",
+      "version": "2.5.0-fabric+mc1.21.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.1.3"
+    }
+  ]
+}

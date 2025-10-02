@@ -1,6 +1,18 @@
 {
   "name": "bottledair_1.16.5-1.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hvrrNux3",
+      "versionId": "AIC9yb53"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 514444,
+      "fileId": 4007459
+    }
+  ],
   "forge": [
     {
       "modId": "bottledair",

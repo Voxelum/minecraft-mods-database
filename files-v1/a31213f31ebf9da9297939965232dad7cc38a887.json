@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GON0Fdk5",
+      "versionId": "j9gvUvEu"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skin_overrides",
+      "version": "2.4.0-beta.1+1.21.1"
+    },
+    {
+      "modId": "org_apache_httpcomponents_httpmime",
+      "version": "4.5.14"
+    }
+  ]
+}

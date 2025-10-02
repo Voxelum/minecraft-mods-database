@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "p2WB9yO9",
+      "versionId": "PM1wOTxM"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1042309,
+      "fileId": 5735197
+    }
+  ],
   "forge": [
     {
       "modId": "advanced_door_bells",

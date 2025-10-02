@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vgVfk0m2",
+      "versionId": "OXHrSSak"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "real-arrow-tip",
+      "version": "0.1.2+mc1.21.5"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.5"
+    }
+  ]
+}

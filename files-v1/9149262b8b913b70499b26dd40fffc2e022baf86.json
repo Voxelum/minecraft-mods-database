@@ -1,0 +1,26 @@
+{
+  "name": "reinforced-shulker-boxes-3.4.2+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xlOwuSdN",
+      "versionId": "VMJPAKWT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529874,
+      "fileId": 6429113
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reinfshulker",
+      "version": "3.4.2+1.21.5"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "4.0.6+1.21.5"
+    }
+  ]
+}

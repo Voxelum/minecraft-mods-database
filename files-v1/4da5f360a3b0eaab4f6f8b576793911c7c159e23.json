@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jY9k4JKC",
+      "versionId": "pwTbSW27"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1020107,
+      "fileId": 6364824
+    }
+  ],
   "forge": [
     {
       "modId": "ctb_vehicles",

@@ -1,0 +1,26 @@
+{
+  "name": "cicada-lib-0.13.1+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IwCkru1D",
+      "versionId": "H07jRmMJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 989574,
+      "fileId": 6702795
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cicada",
+      "version": "0.13.0+1.21.4"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

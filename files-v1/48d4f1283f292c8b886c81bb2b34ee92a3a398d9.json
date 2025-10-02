@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "ek5rzUjz"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.6.0+1.21.1"
+    },
+    {
+      "modId": "lambdynlights_runtime",
+      "version": "4.6.0+1.21.1"
+    }
+  ]
+}

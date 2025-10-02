@@ -1,6 +1,18 @@
 {
   "name": "planters-0.0.4-1.20.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "aMkym3TB",
+      "versionId": "2blgG8zi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 884020,
+      "fileId": 4626023
+    }
+  ],
   "forge": [
     {
       "modId": "planters",

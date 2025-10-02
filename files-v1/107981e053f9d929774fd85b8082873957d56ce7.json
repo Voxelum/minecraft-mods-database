@@ -1,0 +1,26 @@
+{
+  "name": "clutter-1.21.1-0.6.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KZAmykow",
+      "versionId": "OirSZS4H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 826060,
+      "fileId": 6211358
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "clutter",
+      "version": "1.21.1-0.6.5"
+    },
+    {
+      "modId": "terraform-wood-api-v1",
+      "version": "11.0.0"
+    }
+  ]
+}

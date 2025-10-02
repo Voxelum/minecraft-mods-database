@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7RTcs7yj",
+      "versionId": "6JdlzSdX"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1058059,
+      "fileId": 6106157
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "battlemages",
+      "version": "0.0.6-1.20.1"
+    },
+    {
+      "modId": "com_github_zsoltmolnarrr_tinyconfig",
+      "version": "2.3.2"
+    }
+  ]
+}

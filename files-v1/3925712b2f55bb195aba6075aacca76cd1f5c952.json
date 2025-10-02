@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "H6pjI7Ol",
+      "versionId": "w093hBB2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1308830,
+      "fileId": 6800725
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "spb-revamped",
+      "version": "1.1.6"
+    },
+    {
+      "modId": "veil",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "cardinal-components-world",
+      "version": "5.2.2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

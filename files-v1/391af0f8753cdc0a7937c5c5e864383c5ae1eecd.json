@@ -1,0 +1,28 @@
+{
+  "name": "fokusapi-2.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rvZnCrhx",
+      "versionId": "u0I0NMn0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1194409,
+      "fileId": 6467191
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_fokusapi",
+      "version": "2.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_fokusapi",
+      "version": "2.4"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ox3rDp1B",
+      "versionId": "pgihi1BL"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "bedrockify",
+      "version": "1.11.1+mc1.21.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "18.0.145"
+    }
+  ]
+}

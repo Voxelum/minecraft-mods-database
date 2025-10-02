@@ -1,6 +1,12 @@
 {
   "name": "svm-powers-2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "34GeP0Mj",
+      "versionId": "eUYnvglg"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_svm_powers",

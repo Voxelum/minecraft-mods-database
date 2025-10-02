@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nrikgvxm",
+      "versionId": "zGLKfTB2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 421897,
+      "fileId": 6807699
+    }
+  ],
+  "forge": [
+    {
+      "modId": "particlerain",
+      "version": "4.0.0-alpha.3+1.21.4-fabric"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "particlerain",
+      "version": "4.0.0-alpha.3+1.21.4-fabric"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "name": "BetterFurnaces-client.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 240620,
+      "fileId": 2274597
+    }
+  ],
   "forge": [
     {
       "modId": "FLabsBF",

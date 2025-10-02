@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lYd9d8qu",
+      "versionId": "uLInzmbq"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "evo-plus",
+      "version": "2.3.2"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "2.8.8"
+    },
+    {
+      "modId": "com_github_asyncdargen_crowbar_crowbar-core",
+      "version": "48361c8411"
+    },
+    {
+      "modId": "pro_diamondworld_evoplusprotocol_evoplusprotocol",
+      "version": "1.4b"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.37+c9d82ab240"
+    },
+    {
+      "modId": "fabric-message-api-v1",
+      "version": "6.0.22+5a9b22c640"
+    },
+    {
+      "modId": "fabric-networking-api-v1",
+      "version": "4.3.5+fd37071f40"
+    },
+    {
+      "modId": "io_github_vyfor_kpresence-jvm",
+      "version": "0.6.5"
+    },
+    {
+      "modId": "com_github_asyncdargen_rest-client",
+      "version": "9e41312317"
+    }
+  ]
+}

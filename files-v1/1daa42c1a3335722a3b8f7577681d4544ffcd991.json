@@ -1,0 +1,32 @@
+{
+  "name": "dynamic_resource_bars-fabric-0.4.0-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PntTdyYi",
+      "versionId": "b5X0K4pQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1188180,
+      "fileId": 6619279
+    }
+  ],
+  "forge": [
+    {
+      "modId": "dynamic_resource_bars",
+      "version": "0.4.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "dynamic_resource_bars",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

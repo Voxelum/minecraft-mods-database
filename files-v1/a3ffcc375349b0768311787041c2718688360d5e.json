@@ -1,6 +1,18 @@
 {
   "name": "SCPFallenFoundation-1.18.2-v1.0.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WRa0aU7H",
+      "versionId": "d4qpmIAt"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 823317,
+      "fileId": 4386449
+    }
+  ],
   "forge": [
     {
       "modId": "scpff",

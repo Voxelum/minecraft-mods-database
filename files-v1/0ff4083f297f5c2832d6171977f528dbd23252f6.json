@@ -1,0 +1,82 @@
+{
+  "name": "Cucumber-Refabricated-1.20.1-2.1.2.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1000276,
+      "fileId": 5350209
+    }
+  ],
+  "forge": [
+    {
+      "modId": "cucumber",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cucumber",
+      "version": "2.1.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    },
+    {
+      "modId": "porting_lib_base",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_common",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_core",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_accessors",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_attributes",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_entity",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_fluids",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_lazy_registration",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_mixin_extensions",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tags",
+      "version": "3.0"
+    },
+    {
+      "modId": "porting_lib_transfer",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_utility",
+      "version": "2.3.4+1.20.1"
+    },
+    {
+      "modId": "porting_lib_tool_actions",
+      "version": "2.3.4+1.20.1"
+    }
+  ]
+}

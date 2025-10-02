@@ -1,0 +1,20 @@
+{
+  "name": "armoroftheages-fabric-1.21.1-1.5.3.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 975288,
+      "fileId": 6313978
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "armoroftheages",
+      "version": "1.5.3"
+    },
+    {
+      "modId": "yet_another_config_lib_v3",
+      "version": "3.6.2+1.21-fabric"
+    }
+  ]
+}

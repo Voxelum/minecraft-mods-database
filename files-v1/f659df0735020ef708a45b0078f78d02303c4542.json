@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KDvYkUg3",
+      "versionId": "vY5SNl0H"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 243076,
+      "fileId": 6391988
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "refinedstorage",
+      "version": "2.0.0-beta.2"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.140"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

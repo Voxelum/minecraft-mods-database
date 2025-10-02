@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SQLnc1aF",
+      "versionId": "ngFaOn0K"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_create_bulkfreezingcompat",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_create_bulkfreezingcompat",
+      "version": "1.0.0"
+    }
+  ]
+}

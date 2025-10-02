@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RBViihu3",
+      "versionId": "QxTwZeiO"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcovertor",
+      "version": "1.6.0"
+    },
+    {
+      "modId": "io_netty_netty-codec-socks",
+      "version": "4.1.119"
+    },
+    {
+      "modId": "io_netty_netty-handler-proxy",
+      "version": "4.1.119"
+    }
+  ]
+}

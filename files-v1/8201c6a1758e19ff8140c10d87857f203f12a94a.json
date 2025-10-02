@@ -1,0 +1,14 @@
+{
+  "name": "Medal-Fabric-1.0.3.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "medal",
+      "version": "1.0.3"
+    },
+    {
+      "modId": "soul_software_frames",
+      "version": "5.5"
+    }
+  ]
+}

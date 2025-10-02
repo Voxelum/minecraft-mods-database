@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JTtlE8ml",
+      "versionId": "vXR7WlSF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1181032,
+      "fileId": 6528247
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_crafting_theimpossible",
+      "version": "1.12.1-1.21.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_crafting_theimpossible",
+      "version": "1.12.1-1.21.5"
+    }
+  ]
+}

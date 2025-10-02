@@ -1,6 +1,18 @@
 {
   "name": "moyai-1.16.5-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "z7WhFkyW",
+      "versionId": "sl3zEJDx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 577252,
+      "fileId": 3658709
+    }
+  ],
   "forge": [
     {
       "modId": "moyai",

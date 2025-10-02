@@ -1,0 +1,28 @@
+{
+  "name": "affinity-0.1.12+1.21.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 938918,
+      "fileId": 6516006
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "affinity",
+      "version": "0.1.12+1.21.1"
+    },
+    {
+      "modId": "worldmesher",
+      "version": "0.4.7+1.21"
+    },
+    {
+      "modId": "playerabilitylib",
+      "version": "1.10.0"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.15+1.21"
+    }
+  ]
+}

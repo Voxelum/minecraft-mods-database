@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vtj6opjs",
+      "versionId": "rEGuGP3l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 618103,
+      "fileId": 6526712
+    }
+  ],
+  "forge": [
+    {
+      "modId": "golden_berries",
+      "version": "1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "golden_berries",
+      "version": "1.0.0"
+    }
+  ]
+}

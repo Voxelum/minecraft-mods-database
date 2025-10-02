@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6otq8HKU",
+      "versionId": "VUHPuelH"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotes",
+      "version": "1.3.0"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.6.6"
+    },
+    {
+      "modId": "org_quiltmc_quilt-config",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "org_quiltmc_quilt-config_serializers_toml",
+      "version": "1.3.1"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.6.6"
+    }
+  ]
+}

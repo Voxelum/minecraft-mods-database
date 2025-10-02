@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MBmGpwKI",
+      "versionId": "zNsGZPdB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 550263,
+      "fileId": 6737996
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "unseen_world",
+      "version": "0.4.0"
+    },
+    {
+      "modId": "customportalapi",
+      "version": "0.0.1-beta65-1.20"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.1.1+1.20.1"
+    }
+  ]
+}

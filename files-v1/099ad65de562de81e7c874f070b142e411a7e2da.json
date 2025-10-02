@@ -1,6 +1,12 @@
 {
   "name": "phosphor-forge-mc1.15.2-0.5.2+build.4.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 318255,
+      "fileId": 2919811
+    }
+  ],
   "forge": [
     {
       "modId": "phosphor",

@@ -1,6 +1,18 @@
 {
   "name": "voyage-1.16.4-1.0.4.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zmNCB2sD",
+      "versionId": "i11ceLdw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 332943,
+      "fileId": 3408550
+    }
+  ],
   "forge": [
     {
       "modId": "voyage",

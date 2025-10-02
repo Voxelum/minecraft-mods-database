@@ -1,0 +1,20 @@
+{
+  "name": "accessorify-2.1.1+1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1169634,
+      "fileId": 6723423
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "accessorify",
+      "version": "2.1.1+1.20.1"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.8"
+    }
+  ]
+}

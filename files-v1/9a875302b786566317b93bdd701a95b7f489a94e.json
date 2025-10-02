@@ -1,0 +1,22 @@
+{
+  "name": "netherweather-1.1.2_backport.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "XrxtjryC",
+      "versionId": "TVWCIOa0"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_netherweather",
+      "version": "1.1.2_backport"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_netherweather",
+      "version": "1.1.2_backport"
+    }
+  ]
+}

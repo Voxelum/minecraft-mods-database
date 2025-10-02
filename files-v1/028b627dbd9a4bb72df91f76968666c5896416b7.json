@@ -1,0 +1,26 @@
+{
+  "name": "AsyncParticles-2.0.0-beta.4+1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c3onkd5k",
+      "versionId": "J6vw3OeP"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "asyncparticles",
+      "version": "2.0.0-beta.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "asyncparticles",
+      "version": "2.0.0-beta.4"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.3.2-beta.4"
+    }
+  ]
+}

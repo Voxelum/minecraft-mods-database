@@ -1,0 +1,20 @@
+{
+  "name": "nametags-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SL46MNwR",
+      "versionId": "Nw7F0oWG"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nametags",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_google_code_findbugs_jsr305",
+      "version": "3.0.2"
+    }
+  ]
+}

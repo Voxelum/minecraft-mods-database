@@ -1,0 +1,36 @@
+{
+  "name": "ForgeConfigAPIPort-v21.6.4-1.21.6-Fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ohNO6lps",
+      "versionId": "9IqKMm2N"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 6690681
+    }
+  ],
+  "forge": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "forgeconfigapiport",
+      "version": "21.6.4"
+    },
+    {
+      "modId": "com_electronwill_night-config_core",
+      "version": "3.8.2"
+    },
+    {
+      "modId": "com_electronwill_night-config_toml",
+      "version": "3.8.2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "villagerconfig-fabric-4.4.4+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OClpEDe3",
+      "versionId": "mIQMys5d"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 400741,
+      "fileId": 6689088
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagerconfig",
+      "version": "4.4.4"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

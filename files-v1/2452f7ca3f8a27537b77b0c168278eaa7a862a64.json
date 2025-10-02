@@ -1,0 +1,22 @@
+{
+  "name": "no-villager-trades-1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "wBeSwNXu",
+      "versionId": "6XezHs9G"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_no_villagertrades",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_no_villagertrades",
+      "version": "1"
+    }
+  ]
+}

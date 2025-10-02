@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6HONPMpu",
+      "versionId": "L222KrN4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aft_fabroads",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "libgui",
+      "version": "8.0.0+1.20"
+    }
+  ]
+}

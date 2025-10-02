@@ -1,0 +1,22 @@
+{
+  "name": "spawn-animations-compats-10.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ofDka6PS",
+      "versionId": "hdYSxeL5"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_spawn_animationscompats",
+      "version": "10.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_spawn_animationscompats",
+      "version": "10.0"
+    }
+  ]
+}

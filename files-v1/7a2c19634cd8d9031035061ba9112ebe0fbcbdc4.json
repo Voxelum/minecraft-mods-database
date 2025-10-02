@@ -1,6 +1,18 @@
 {
   "name": "Towns-and-Towers-1.19-1.7.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DjLobEOy",
+      "versionId": "lHx8tNSw"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 626761,
+      "fileId": 3837772
+    }
+  ],
   "forge": [
     {
       "modId": "t_and_t",

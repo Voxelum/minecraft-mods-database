@@ -1,6 +1,18 @@
 {
   "name": "ClothConfig2-1.4.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "2E04stZn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348521,
+      "fileId": 2813656
+    }
+  ],
   "forge": [
     {
       "modId": "cloth-config2",

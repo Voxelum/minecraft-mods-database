@@ -1,6 +1,18 @@
 {
   "name": "cozy-1.1.0-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Bg6Ed4OL",
+      "versionId": "1TFnO6eH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 625281,
+      "fileId": 4171816
+    }
+  ],
   "fabric": [
     {
       "modId": "cozy",

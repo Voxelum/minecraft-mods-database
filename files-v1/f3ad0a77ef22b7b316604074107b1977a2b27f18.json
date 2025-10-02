@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "IwCkru1D",
+      "versionId": "xtp0Uf94"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 989574,
+      "fileId": 6855240
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cicada",
+      "version": "0.14.2+1.21.4"
+    },
+    {
+      "modId": "org_yaml_snakeyaml",
+      "version": "2.2"
+    }
+  ]
+}

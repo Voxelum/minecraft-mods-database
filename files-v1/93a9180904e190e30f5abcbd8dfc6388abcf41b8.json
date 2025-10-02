@@ -1,0 +1,26 @@
+{
+  "name": "Undertale Utility Engine.jar",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "utility",
+      "version": "1.21-0.3.0"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "15.0.140"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.5.0-rc.1"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.2.0-beta.6"
+    },
+    {
+      "modId": "dev_hollowcube_mql",
+      "version": "1.0.1"
+    }
+  ]
+}

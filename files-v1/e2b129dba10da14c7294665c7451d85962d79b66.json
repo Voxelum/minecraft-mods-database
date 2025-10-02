@@ -1,6 +1,12 @@
 {
   "name": "BuildCraft-Mod-1.12.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6X5wjPTJ",
+      "versionId": "dvYtFMwT"
+    }
+  ],
   "forge": [
     {
       "modId": "buildcraftbuilders",

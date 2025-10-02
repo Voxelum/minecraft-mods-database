@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "oDobngty",
+      "versionId": "Ql64fDQD"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "homeostatic",
+      "version": "2.9.9.1"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.15.2+1.20.4"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.4.0"
+    },
+    {
+      "modId": "cardinal-components-entity",
+      "version": "5.4.0"
+    }
+  ]
+}

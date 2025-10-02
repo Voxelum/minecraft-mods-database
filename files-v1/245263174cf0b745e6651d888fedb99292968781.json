@@ -1,0 +1,20 @@
+{
+  "name": "easydisenchanting-fabric-1.0.1-1.20.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1266689,
+      "fileId": 6537110
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "easydisenchanting",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

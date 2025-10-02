@@ -1,0 +1,70 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "seedcrackerx",
+      "version": "2.15.3"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "18.0.145"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "0.4.62+73a52b4b49"
+    },
+    {
+      "modId": "fabric-command-api-v2",
+      "version": "2.2.49+73a52b4b49"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "11.1.11+081cc04349"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.1.6+02ca679649"
+    },
+    {
+      "modId": "fabric-transitive-access-wideners-v1",
+      "version": "6.3.17+f17a180c49"
+    },
+    {
+      "modId": "com_seedfinding_latticg",
+      "version": "1.07"
+    },
+    {
+      "modId": "com_seedfinding_mc_biome",
+      "version": "17af8cb1110fdc983b7cb2b887d1fb2060e23ee3"
+    },
+    {
+      "modId": "com_seedfinding_mc_core",
+      "version": "b84ff1c38be399eda096dbde2819258c62f81275"
+    },
+    {
+      "modId": "com_seedfinding_mc_feature",
+      "version": "755d3611ac1c499c28289ccca5b738af6a5859b7"
+    },
+    {
+      "modId": "com_seedfinding_mc_math",
+      "version": "851e9d0577dfdca50154e98f1d334bd31c641326"
+    },
+    {
+      "modId": "com_seedfinding_mc_noise",
+      "version": "dbab3996ea3abff5dd420db53c31d5498afd2fe5"
+    },
+    {
+      "modId": "com_seedfinding_mc_reversal",
+      "version": "75aa6ce47a9f53a1aa212765e9830e08f6c86299"
+    },
+    {
+      "modId": "com_seedfinding_mc_seed",
+      "version": "55f6242001f7eb4226df4ed0d023f1838a54a99d"
+    },
+    {
+      "modId": "com_seedfinding_mc_terrain",
+      "version": "a03e440ec5b282e399382f2cc5ad0db91b438d2e"
+    }
+  ]
+}

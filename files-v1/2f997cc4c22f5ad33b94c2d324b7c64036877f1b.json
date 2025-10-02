@@ -1,0 +1,22 @@
+{
+  "name": "iris-neoforge-1.9.1+mc1.21.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YL57xq9U",
+      "versionId": "xA5cxBvz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 455508,
+      "fileId": 6717629
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "iris",
+      "version": "${version}"
+    }
+  ]
+}

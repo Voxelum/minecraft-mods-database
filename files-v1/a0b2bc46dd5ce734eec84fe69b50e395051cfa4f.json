@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zr0QMQMo",
+      "versionId": "rtASbMPr"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 320926,
+      "fileId": 6708135
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "kotori_scala",
+      "version": "3.1.8"
+    },
+    {
+      "modId": "org_typelevel_cats-core_3",
+      "version": "2.13.0-kotori"
+    },
+    {
+      "modId": "org_typelevel_cats-free_3",
+      "version": "2.13.0-kotori"
+    },
+    {
+      "modId": "org_typelevel_cats-kernel_3",
+      "version": "2.13.0-kotori"
+    },
+    {
+      "modId": "org_scala-lang_scala-library",
+      "version": "2.13.16"
+    },
+    {
+      "modId": "org_scala-lang_scala3-library_3",
+      "version": "3.7.1"
+    }
+  ]
+}

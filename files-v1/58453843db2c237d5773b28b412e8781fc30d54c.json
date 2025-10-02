@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "automobility",
+      "version": "0.5.0.h"
+    },
+    {
+      "modId": "jsonem",
+      "version": "0.3+1.21"
+    },
+    {
+      "modId": "de_javagl_obj",
+      "version": "0.4.0"
+    }
+  ]
+}

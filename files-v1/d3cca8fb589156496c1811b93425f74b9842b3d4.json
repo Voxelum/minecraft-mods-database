@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PYjpoAys",
+      "versionId": "tSOrsvPv"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 903894,
+      "fileId": 6822215
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ubesdelight",
+      "version": "0.4.3"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.6.9"
+    }
+  ]
+}

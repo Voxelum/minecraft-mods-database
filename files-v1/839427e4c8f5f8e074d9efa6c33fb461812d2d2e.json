@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "gravestones",
+      "version": "1.1.0-1.21.1"
+    },
+    {
+      "modId": "pneumonocore",
+      "version": "1.1.12-1.21.1"
+    }
+  ]
+}

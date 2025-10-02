@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n7raTIRW",
+      "versionId": "u9v1Y4sJ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 538828,
+      "fileId": 4084471
+    }
+  ],
   "forge": [
     {
       "modId": "allay",

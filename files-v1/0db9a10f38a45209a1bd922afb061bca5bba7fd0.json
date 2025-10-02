@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BCzBuhJ5",
+      "versionId": "q3dEF0wB"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mts",
+      "version": "${file.jarVersion}"
+    }
+  ]
+}

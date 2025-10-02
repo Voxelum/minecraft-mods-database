@@ -1,0 +1,22 @@
+{
+  "name": "recycle-leather-1.48.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "A7OneGH8",
+      "versionId": "2TBU8EII"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_recycle_leather",
+      "version": "1.48.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_recycle_leather",
+      "version": "1.48.0"
+    }
+  ]
+}

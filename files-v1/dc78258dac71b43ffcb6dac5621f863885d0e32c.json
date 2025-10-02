@@ -1,6 +1,12 @@
 {
   "name": "framework-fabric-1.19.2-0.6.0.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 667391,
+      "fileId": 4463874
+    }
+  ],
   "fabric": [
     {
       "modId": "framework",

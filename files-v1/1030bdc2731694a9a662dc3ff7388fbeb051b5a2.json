@@ -1,0 +1,28 @@
+{
+  "name": "Nirvana Lib-fabric-1.21.1-2.0.15.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6gKEW2ql",
+      "versionId": "Jj4pcn17"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1164411,
+      "fileId": 6755485
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nirvana_lib",
+      "version": "2.0.15"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nirvana_lib",
+      "version": "2.0.15"
+    }
+  ]
+}

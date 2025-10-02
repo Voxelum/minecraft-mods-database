@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "nbttooltip",
+      "version": "1.2.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "16.0.141"
+    }
+  ]
+}

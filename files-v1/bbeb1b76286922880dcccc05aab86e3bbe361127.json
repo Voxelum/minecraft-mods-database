@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "bossominium-18.6.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "QYXaSFOk",
+      "versionId": "glaosxOE"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 694188,
+      "fileId": 6125597
+    }
+  ],
   "forge": [
     {
       "modId": "bossominium",

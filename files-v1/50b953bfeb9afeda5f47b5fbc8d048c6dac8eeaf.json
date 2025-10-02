@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "PXaH6GuW",
+      "versionId": "pDDnyIPS"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "toms_mobs",
+      "version": "2.2.0+1.21"
+    },
+    {
+      "modId": "bil",
+      "version": "1.2.2+1.21"
+    }
+  ]
+}

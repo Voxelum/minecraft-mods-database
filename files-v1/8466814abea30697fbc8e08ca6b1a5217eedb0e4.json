@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SszvX85I",
+      "versionId": "Kk5XEmjZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1189523,
+      "fileId": 6694704
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mega_showdown",
+      "version": "9.8.0-beta-fabric"
+    },
+    {
+      "modId": "supermartijn642configlib",
+      "version": "1.1.8"
+    }
+  ]
+}

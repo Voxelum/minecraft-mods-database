@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3Vf97jLY",
+      "versionId": "BplFKrxW"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 846580,
+      "fileId": 4475934
+    }
+  ],
   "forge": [
     {
       "modId": "cursorcenteredfix",

@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RpXNx59A",
+      "versionId": "dJqoN5vT"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_auth",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_auth",
+      "version": "1.0.0"
+    }
+  ]
+}

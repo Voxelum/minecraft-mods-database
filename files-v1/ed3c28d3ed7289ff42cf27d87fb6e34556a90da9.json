@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "bthack",
+      "version": "1.21.4-0.5"
+    },
+    {
+      "modId": "baritone-meteor",
+      "version": "1.21.4-SNAPSHOT"
+    }
+  ]
+}

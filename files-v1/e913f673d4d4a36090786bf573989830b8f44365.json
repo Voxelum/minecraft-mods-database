@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lWDHr9jE",
+      "versionId": "FOOSlG8w"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 686836,
+      "fileId": 6201966
+    }
+  ],
   "fabric": [
     {
       "modId": "tectonic",

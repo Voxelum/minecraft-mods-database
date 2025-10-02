@@ -1,0 +1,28 @@
+{
+  "name": "ender_pack-merged-1.21.1-2.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HaS8KaHF",
+      "versionId": "9OSOXxoi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 959446,
+      "fileId": 6404199
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ender_pack",
+      "version": "2.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "ender_pack",
+      "version": "2.2.0"
+    }
+  ]
+}

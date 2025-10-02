@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M185nxi6",
+      "versionId": "hB4Wvfgb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1210975,
+      "fileId": 6252690
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_ships",
+      "version": "3.0.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_ships",
+      "version": "3.0.4"
+    }
+  ]
+}

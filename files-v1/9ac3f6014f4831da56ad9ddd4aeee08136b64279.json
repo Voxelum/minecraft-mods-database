@@ -1,0 +1,22 @@
+{
+  "name": "kevs_projectile_immunity_fix-fabric-1.0.7.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "io1zrWWn",
+      "versionId": "Q3UhONt2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1253737,
+      "fileId": 6666636
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "projectileimmunityfix",
+      "version": "{version}"
+    }
+  ]
+}

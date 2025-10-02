@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GcWjdA9I",
+      "versionId": "pfVHXuBE"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "malilib",
+      "version": "0.10.0-dev.21+arne.8"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "0.4.1+0d4d7e343a"
+    }
+  ]
+}

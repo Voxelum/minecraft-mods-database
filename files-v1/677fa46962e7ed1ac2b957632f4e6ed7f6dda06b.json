@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "utopiabosses",
+      "version": "1.0"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hkztOJro",
+      "versionId": "7k5v9bap"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 291246,
+      "fileId": 4891340
+    }
+  ],
   "forge": [
     {
       "modId": "cloudboots",

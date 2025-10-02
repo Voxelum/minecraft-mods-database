@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fxntstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fxntstorage",
+      "version": "0.8-1.20.1-FABRIC+1.20.1"
+    }
+  ]
+}

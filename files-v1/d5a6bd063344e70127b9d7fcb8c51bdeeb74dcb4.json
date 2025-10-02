@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qCvSZ8ra",
+      "versionId": "7Ql0w40d"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "server-replay",
+      "version": "1.2.10"
+    },
+    {
+      "modId": "net_mcbrawls_inject_api",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "inject",
+      "version": "2.2.2"
+    },
+    {
+      "modId": "fabric-permissions-api-v0",
+      "version": "0.3.3"
+    },
+    {
+      "modId": "net_mcbrawls_inject_http",
+      "version": "2.2.2"
+    }
+  ]
+}

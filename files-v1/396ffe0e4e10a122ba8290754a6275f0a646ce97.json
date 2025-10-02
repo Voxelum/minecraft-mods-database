@@ -1,0 +1,28 @@
+{
+  "name": "water-bucket.-release!-1.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RF3VV1Vc",
+      "versionId": "vhhbnInh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1236462,
+      "fileId": 6397195
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_water_bucketrelease",
+      "version": "1.0.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_water_bucketrelease",
+      "version": "1.0.0"
+    }
+  ]
+}

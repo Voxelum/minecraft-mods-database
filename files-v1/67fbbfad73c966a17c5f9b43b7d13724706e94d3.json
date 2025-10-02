@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zxB8528D",
+      "versionId": "v6GvayMZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1167789,
+      "fileId": 6296815
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "web-chat",
+      "version": "1.1.0"
+    },
+    {
+      "modId": "org_xerial_sqlite-jdbc",
+      "version": "3.49.1.0"
+    }
+  ]
+}

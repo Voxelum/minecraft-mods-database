@@ -1,0 +1,22 @@
+{
+  "name": "prionmod-2.0.88.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 960933,
+      "fileId": 6610312
+    }
+  ],
+  "forge": [
+    {
+      "modId": "prionmod",
+      "version": "2.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "prionmod",
+      "version": "2.0.88"
+    }
+  ]
+}

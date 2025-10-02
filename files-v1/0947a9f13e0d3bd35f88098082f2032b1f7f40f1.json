@@ -1,0 +1,26 @@
+{
+  "name": "CameraOverhaul-v2.0.4-fabric+mc[1.21.2-1.21.4].jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "m0oRwcZx",
+      "versionId": "uQYflB9n"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 423602,
+      "fileId": 6510165
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "cameraoverhaul",
+      "version": "2.0.4-fabric+mc.1.21.2-1.21.4"
+    },
+    {
+      "modId": "io_hotmoka_toml4j",
+      "version": "0.7.3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "campfirefix-fabric-1.20.1-1.0.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6KdIlRiC",
+      "versionId": "TILV2Y7S"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 996843,
+      "fileId": 5435342
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "campfirefix",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "com_github_llamalad7_mixinextras",
+      "version": "0.2.0-rc.3"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

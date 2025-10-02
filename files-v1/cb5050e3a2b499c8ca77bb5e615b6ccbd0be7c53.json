@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CVRzrXGP",
+      "versionId": "c0lLOmfZ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1169634,
+      "fileId": 6477605
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "accessorify",
+      "version": "1.4.1+1.21.1"
+    },
+    {
+      "modId": "com_moulberry_mixinconstraints",
+      "version": "1.0.7"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "reinforced-barrels-2.7.2+1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Tx85779b",
+      "versionId": "oS8qIab2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 529875,
+      "fileId": 6429121
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reinfbarrel",
+      "version": "2.7.2+1.21.5"
+    },
+    {
+      "modId": "reinfcore",
+      "version": "4.0.6+1.21.5"
+    }
+  ]
+}

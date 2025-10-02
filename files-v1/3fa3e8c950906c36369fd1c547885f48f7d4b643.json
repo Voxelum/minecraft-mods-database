@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "smoothparticles",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "smoothparticles",
+      "version": "1.2.0-1.21"
+    }
+  ]
+}

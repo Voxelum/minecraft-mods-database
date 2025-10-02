@@ -1,6 +1,18 @@
 {
   "name": "api - cloth-config-7.0.72-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "wOP2dCdL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 348521,
+      "fileId": 3827486
+    }
+  ],
   "fabric": [
     {
       "modId": "cloth-config",

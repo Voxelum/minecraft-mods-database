@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "O7RBXm3n",
+      "versionId": "8v1hic0R"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 495267,
       "fileId": 6291814
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "inventoryprofilesnext",
+      "version": "2.1.4"
     }
   ]
 }

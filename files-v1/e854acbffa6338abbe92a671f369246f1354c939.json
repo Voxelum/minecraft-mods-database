@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YHdZ4gTh",
+      "versionId": "wmrYTSyA"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "portalhexaddon",
+      "version": "7.0"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.3.0"
+    },
+    {
+      "modId": "serialization_hooks",
+      "version": "0.3.24"
+    }
+  ]
+}

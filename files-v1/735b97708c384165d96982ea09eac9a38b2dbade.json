@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "n0S5OkPo",
+      "versionId": "Hp9hpnqj"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 247357,
+      "fileId": 4873413
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "extraalchemy",
+      "version": "1.11.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "12.0.109"
+    }
+  ]
+}

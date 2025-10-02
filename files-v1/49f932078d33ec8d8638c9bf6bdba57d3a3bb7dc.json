@@ -1,0 +1,22 @@
+{
+  "name": "sophisticatedstorageinmotion-1.20.1-0.10.5.1.37.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "T8h6Gr5g",
+      "versionId": "iKjI21DS"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedstorageinmotion",
+      "version": "${mod_full_version}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedstorageinmotion",
+      "version": "1.20.1-0.10.5.1.37"
+    }
+  ]
+}

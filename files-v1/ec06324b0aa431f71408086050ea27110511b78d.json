@@ -1,0 +1,26 @@
+{
+  "name": "readyplayerfun-1.21.1-3.0.0.0-FABRIC.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AwiAYDUq",
+      "versionId": "3duns4LG"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 322036,
+      "fileId": 5863637
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "readyplayerfun",
+      "version": "3.0.0.0"
+    },
+    {
+      "modId": "spectrelib",
+      "version": "0.17.2+1.21"
+    }
+  ]
+}

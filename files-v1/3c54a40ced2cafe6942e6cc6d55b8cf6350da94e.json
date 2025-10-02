@@ -1,0 +1,30 @@
+{
+  "name": "BrewinAndChewin-fabric-4.0.4+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hIu9KJTT",
+      "versionId": "rFXV6RME"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 637808,
+      "fileId": 6276818
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "brewinandchewin",
+      "version": "4.0.4"
+    },
+    {
+      "modId": "greenhouseconfig",
+      "version": "1.0.0+1.21.1"
+    },
+    {
+      "modId": "greenhouseconfig_toml",
+      "version": "1.0.0"
+    }
+  ]
+}

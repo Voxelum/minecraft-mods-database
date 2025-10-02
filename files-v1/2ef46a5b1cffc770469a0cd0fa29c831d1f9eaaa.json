@@ -1,0 +1,22 @@
+{
+  "name": "starterkit-1.21.4-7.4.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 390717,
+      "fileId": 6429854
+    }
+  ],
+  "forge": [
+    {
+      "modId": "starterkit",
+      "version": "7.4"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "starterkit",
+      "version": "7.4"
+    }
+  ]
+}

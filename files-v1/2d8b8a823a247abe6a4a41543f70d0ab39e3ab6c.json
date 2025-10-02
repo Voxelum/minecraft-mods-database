@@ -1,0 +1,22 @@
+{
+  "name": "modpack-update-checker-1.21.1-neoforge-0.15.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rR4tY6Cw",
+      "versionId": "At2mSWPm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 847414,
+      "fileId": 6681436
+    }
+  ],
+  "forge": [
+    {
+      "modId": "modpackupdatechecker",
+      "version": "0.15.6"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "[neoforge]ctov-3.5.9a.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "fgmhI8kH",
+      "versionId": "2uaRdli9"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 623908,
+      "fileId": 6543958
+    }
+  ],
+  "forge": [
+    {
+      "modId": "ctov",
+      "version": "${version}"
+    }
+  ]
+}

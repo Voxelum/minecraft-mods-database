@@ -1,0 +1,22 @@
+{
+  "name": "PeacefulMoon-fabric-1.20.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1121865,
+      "fileId": 5813258
+    }
+  ],
+  "forge": [
+    {
+      "modId": "peacefulmoon",
+      "version": "1.20"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "peacefulmoon",
+      "version": "1.0.1"
+    }
+  ]
+}

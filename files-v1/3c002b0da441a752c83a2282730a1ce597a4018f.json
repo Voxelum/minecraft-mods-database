@@ -1,4 +1,20 @@
 {
-  "name": "",
-  "domain": "mods"
+  "name": "showcaseitem-1.21.1-1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "P5Jjjezm",
+      "versionId": "AD6eBCKn"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 627196,
+      "fileId": 6426184
+    },
+    {
+      "projectId": 1166026,
+      "fileId": 6024643
+    }
+  ]
 }

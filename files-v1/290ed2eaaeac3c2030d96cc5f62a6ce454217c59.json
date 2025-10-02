@@ -1,6 +1,18 @@
 {
   "name": "random_plant_heights-1.0.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NVRgmlXb",
+      "versionId": "26oeZMHm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 413814,
+      "fileId": 3101085
+    }
+  ],
   "forge": [
     {
       "modId": "random_plant_heights",

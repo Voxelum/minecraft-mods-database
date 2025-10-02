@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-cursor-fabric-3.9.2+1.21.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "o5fhgLeQ",
+      "versionId": "Bisaqmvz"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1184736,
+      "fileId": 6673179
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "minecraft-cursor",
+      "version": "3.9.2+1.21.4"
+    },
+    {
+      "modId": "minecraft-cursor_api",
+      "version": "3.9.2+1.21.4"
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yENm0xnb",
+      "versionId": "yS3OPvN3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 417553,
+      "fileId": 3266469
+    }
+  ],
   "forge": [
     {
       "modId": "unlitcampfire",

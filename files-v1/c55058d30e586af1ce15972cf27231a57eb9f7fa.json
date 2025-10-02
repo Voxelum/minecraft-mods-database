@@ -1,6 +1,18 @@
 {
   "name": "Patchouli-1.19-73-FABRIC.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "nU0bVIaL",
+      "versionId": "vCTStWON"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393236,
+      "fileId": 3846070
+    }
+  ],
   "fabric": [
     {
       "modId": "patchouli",

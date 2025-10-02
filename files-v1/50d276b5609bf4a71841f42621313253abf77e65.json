@@ -1,0 +1,24 @@
+{
+  "name": "etched-3.0.1.5-fabricated.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "qZFT6tYZ",
+      "versionId": "gWqKSFvb"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "etched",
+      "version": "3.0.1.5-fabricated"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.6"
+    },
+    {
+      "modId": "registrate-fabric",
+      "version": "1.3.62-MC1.20.1"
+    }
+  ]
+}

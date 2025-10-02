@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DynYZEae",
+      "versionId": "HaTuIXeq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 681953,
+      "fileId": 6915436
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "exordium",
+      "version": "2.0.1"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.4"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.6"
+    }
+  ]
+}

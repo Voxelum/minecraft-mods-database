@@ -1,0 +1,220 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "CmHD69Pj",
+      "versionId": "G13wdz2x"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "twitch4j",
+      "version": "1.25.0+1.11.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_github_tony19_named-regexp",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-messaginginterface",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-extensions",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_nytimes_android_cache",
+      "version": "2.0.2"
+    },
+    {
+      "modId": "com_benasher44_uuid-jvm",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "io_github_openfeign_feign-slf4j",
+      "version": "13.6"
+    },
+    {
+      "modId": "com_github_ben-manes_caffeine_caffeine",
+      "version": "2.9.3"
+    },
+    {
+      "modId": "io_github_openfeign_feign-core",
+      "version": "13.6"
+    },
+    {
+      "modId": "com_neovisionaries_nv-websocket-client",
+      "version": "2.14"
+    },
+    {
+      "modId": "com_netflix_hystrix_hystrix-core",
+      "version": "1.5.18"
+    },
+    {
+      "modId": "org_hdrhistogram_hdrhistogram",
+      "version": "2.1.9"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-eventsub-common",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-pubsub",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "commons-lang_commons-lang",
+      "version": "2.6"
+    },
+    {
+      "modId": "io_github_xanthic_cache_cache-core",
+      "version": "0.7.1"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-helix",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_apollographql_apollo_apollo-runtime",
+      "version": "2.5.14"
+    },
+    {
+      "modId": "commons-configuration_commons-configuration",
+      "version": "1.10"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-databind",
+      "version": "2.19.0"
+    },
+    {
+      "modId": "com_fasterxml_jackson_datatype_jackson-datatype-jsr310",
+      "version": "2.19.0"
+    },
+    {
+      "modId": "io_github_openfeign_feign-jackson",
+      "version": "13.6"
+    },
+    {
+      "modId": "com_bucket4j_bucket4j_jdk8-core",
+      "version": "8.10.1"
+    },
+    {
+      "modId": "io_github_xanthic_cache_cache-provider-caffeine",
+      "version": "0.7.1"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-graphql",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "io_github_openfeign_feign-hystrix",
+      "version": "13.6"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-chat",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_apollographql_apollo_apollo-http-cache-api",
+      "version": "2.5.14"
+    },
+    {
+      "modId": "com_apollographql_apollo_apollo-api-jvm",
+      "version": "2.5.14"
+    },
+    {
+      "modId": "com_github_philippheuer_events4j_events4j-handler-simple",
+      "version": "0.12.2"
+    },
+    {
+      "modId": "com_apollographql_apollo_apollo-normalized-cache-api-jvm",
+      "version": "2.5.14"
+    },
+    {
+      "modId": "com_github_philippheuer_events4j_events4j-core",
+      "version": "0.12.2"
+    },
+    {
+      "modId": "com_netflix_archaius_archaius-core",
+      "version": "0.4.1"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-annotations",
+      "version": "2.19.0"
+    },
+    {
+      "modId": "com_github_philippheuer_events4j_events4j-api",
+      "version": "0.12.2"
+    },
+    {
+      "modId": "com_github_philippheuer_credentialmanager_credentialmanager",
+      "version": "0.3.1"
+    },
+    {
+      "modId": "io_github_xanthic_cache_cache-api",
+      "version": "0.7.1"
+    },
+    {
+      "modId": "com_google_errorprone_error_prone_annotations",
+      "version": "2.10.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-common",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "io_reactivex_rxjava",
+      "version": "1.2.0"
+    },
+    {
+      "modId": "io_github_openfeign_feign-okhttp",
+      "version": "13.6"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-eventsub-websocket",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-util",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_squareup_okio_okio-jvm",
+      "version": "3.6.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-client-websocket",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "fabric-language-kotlin",
+      "version": "1.10.19+kotlin.1.9.23"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-auth",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_github_twitch4j_twitch4j-kraken",
+      "version": "1.25.0"
+    },
+    {
+      "modId": "com_apollographql_apollo_apollo-normalized-cache-jvm",
+      "version": "2.5.14"
+    },
+    {
+      "modId": "com_fasterxml_jackson_core_jackson-core",
+      "version": "2.19.0"
+    },
+    {
+      "modId": "com_squareup_okhttp3_okhttp",
+      "version": "4.12.0"
+    }
+  ]
+}

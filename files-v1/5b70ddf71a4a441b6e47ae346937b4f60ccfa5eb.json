@@ -1,0 +1,26 @@
+{
+  "name": "highlight-fabric-1.21.5-3.5.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Vz96hXMh",
+      "versionId": "LVbwGS8W"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 667245,
+      "fileId": 6502815
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "highlight",
+      "version": "3.5.0"
+    },
+    {
+      "modId": "resourcefullib",
+      "version": "3.5.0"
+    }
+  ]
+}

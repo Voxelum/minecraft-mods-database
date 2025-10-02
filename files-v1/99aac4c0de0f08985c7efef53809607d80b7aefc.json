@@ -1,6 +1,12 @@
 {
   "name": "quiver-1.2-1.15.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 401711,
+      "fileId": 3029735
+    }
+  ],
   "forge": [
     {
       "modId": "quiver",

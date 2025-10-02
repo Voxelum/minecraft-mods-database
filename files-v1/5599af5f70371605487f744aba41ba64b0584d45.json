@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "oseca",
+      "version": "4.0.1"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "6.0.45"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fabric-rpg_campfire-1.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "lzmpfgnv",
+      "versionId": "YnOKgOex"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "rpg_bonfire",
+      "version": "1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "rpg_bonfire",
+      "version": "1.2"
+    }
+  ]
+}

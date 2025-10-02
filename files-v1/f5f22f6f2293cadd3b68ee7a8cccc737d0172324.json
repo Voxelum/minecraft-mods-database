@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7BXEGho2",
+      "versionId": "3nqfLiZy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 292056,
+      "fileId": 4165034
+    }
+  ],
   "forge": [
     {
       "modId": "pizzacraft",

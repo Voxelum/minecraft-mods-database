@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yBW8D80W",
+      "versionId": "mOsadEfH"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 393442,
+      "fileId": 6818928
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.3.2+1.21.8"
+    },
+    {
+      "modId": "lambdynlights_api",
+      "version": "4.3.2+1.21.8"
+    },
+    {
+      "modId": "pride",
+      "version": "1.4.0+1.21.6"
+    },
+    {
+      "modId": "spruceui",
+      "version": "8.0.2+1.21.8"
+    },
+    {
+      "modId": "yumi_mc_core",
+      "version": "1.0.0-alpha.6+1.21.1"
+    }
+  ]
+}

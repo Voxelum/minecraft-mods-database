@@ -1,9 +1,26 @@
 {
   "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AKaIjIT0",
+      "versionId": "Ncpip5np"
+    }
+  ],
   "curseforge": [
     {
       "projectId": 637960,
       "fileId": 5705470
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "skins3d",
+      "version": "3.0.1"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
     }
   ]
 }

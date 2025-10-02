@@ -1,6 +1,18 @@
 {
   "name": "brazier-forge-6.1.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "5okEW6TG",
+      "versionId": "cA0af2GO"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 402616,
+      "fileId": 4702302
+    }
+  ],
   "forge": [
     {
       "modId": "brazier",

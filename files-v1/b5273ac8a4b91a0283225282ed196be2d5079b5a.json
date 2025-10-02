@@ -1,0 +1,20 @@
+{
+  "name": "RebornCore-5.8.13.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 237903,
+      "fileId": 6664342
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "reborncore",
+      "version": "5.8.13"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

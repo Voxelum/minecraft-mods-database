@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "AXhbVyuq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 388172,
+      "fileId": 7025126
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "geckolib",
+      "version": "4.8.2"
+    },
+    {
+      "modId": "com_eliotlash_mclib_mclib",
+      "version": "20"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "chunkactivitytracker-fabric-1.0.1-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "BNuR43mM",
+      "versionId": "Fq2p40zU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1193454,
+      "fileId": 6164362
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunkactivitytracker",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}

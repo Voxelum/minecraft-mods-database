@@ -1,0 +1,28 @@
+{
+  "name": "improved-village-placement-1.1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KA0MllEw",
+      "versionId": "A9qu7ToP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1175325,
+      "fileId": 6680730
+    }
+  ],
+  "forge": [
+    {
+      "modId": "improved_village_placement",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "improved_village_placement",
+      "version": "1.1.1"
+    }
+  ]
+}

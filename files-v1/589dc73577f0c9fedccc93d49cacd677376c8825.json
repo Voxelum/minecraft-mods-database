@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VlgDBPBy",
+      "versionId": "1FCNz8ou"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 545271,
+      "fileId": 3984526
+    }
+  ],
   "forge": [
     {
       "modId": "primalmagick",

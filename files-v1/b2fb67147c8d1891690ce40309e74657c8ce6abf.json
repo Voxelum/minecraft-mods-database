@@ -1,0 +1,20 @@
+{
+  "name": "oracle_index-fabric-0.2.0.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1206582,
+      "fileId": 6300146
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oracle_index",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "org_jsoup_jsoup",
+      "version": "1.17.2"
+    }
+  ]
+}

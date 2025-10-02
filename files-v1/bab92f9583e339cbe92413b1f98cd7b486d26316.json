@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sNpla5PF",
+      "versionId": "1OObMDU2"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 399025,
+      "fileId": 6441499
+    }
+  ],
   "forge": [
     {
       "modId": "furnitury",

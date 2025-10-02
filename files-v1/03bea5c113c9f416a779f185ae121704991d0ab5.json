@@ -1,0 +1,26 @@
+{
+  "name": "sophisticatedstorage-1.20.1-1.3.5.1.114.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 979326,
+      "fileId": 6448775
+    }
+  ],
+  "forge": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sophisticatedstorage",
+      "version": "1.20.1-1.3.5.1.114"
+    },
+    {
+      "modId": "noindium",
+      "version": "1.1.0+1.20"
+    }
+  ]
+}

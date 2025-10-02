@@ -1,6 +1,12 @@
 {
   "name": "simple-hydration-1.0.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "UArwG7u6",
+      "versionId": "zolM6Ebz"
+    }
+  ],
   "forge": [
     {
       "modId": "mr_simple_hydration",

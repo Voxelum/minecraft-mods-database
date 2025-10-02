@@ -1,0 +1,30 @@
+{
+  "name": "chunksfadein-fabric-2.0.7-1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JaNmzvA8",
+      "versionId": "B1SfPz92"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 720811,
+      "fileId": 6439297
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chunksfadein",
+      "version": "2.0.7-1.21.5"
+    },
+    {
+      "modId": "fabric-key-binding-api-v1",
+      "version": "1.0.63+ecf51cdcb2"
+    },
+    {
+      "modId": "com_moandjiezana_toml_toml4j",
+      "version": "0.7.2"
+    }
+  ]
+}

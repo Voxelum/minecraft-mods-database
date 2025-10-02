@@ -1,0 +1,22 @@
+{
+  "name": "biomemusic-fabric-1.21-3.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 840873,
+      "fileId": 6457333
+    }
+  ],
+  "forge": [
+    {
+      "modId": "biomemusic",
+      "version": "${file.jarVersion}"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "biomemusic",
+      "version": "1.21-3.5"
+    }
+  ]
+}

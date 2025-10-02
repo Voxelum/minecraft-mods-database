@@ -1,9 +1,22 @@
 {
   "name": "",
+  "domain": "mods",
   "modrinth": [
     {
       "projectId": "36Lpcj3A",
       "versionId": "xAnVB3FI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1171010,
+      "fileId": 6127130
+    }
+  ],
+  "forge": [
+    {
+      "modId": "broken_ruins",
+      "version": "1.0.1"
     }
   ]
 }

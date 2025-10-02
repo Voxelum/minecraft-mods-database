@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "fishingreal",
+      "version": ""
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "fishingreal",
+      "version": "1.9.1-backport"
+    }
+  ]
+}

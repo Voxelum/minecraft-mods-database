@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "RPOSBQgq",
+      "versionId": "JIlUKUj7"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 694358,
+      "fileId": 6688775
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "itemswapper",
+      "version": "0.8.0"
+    },
+    {
+      "modId": "transition",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "trender",
+      "version": "1.0.4"
+    }
+  ]
+}

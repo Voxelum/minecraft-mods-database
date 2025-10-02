@@ -1,6 +1,12 @@
 {
   "name": "ucm_1.0.1_1.20.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ioaen1k0",
+      "versionId": "wNHtLCSy"
+    }
+  ],
   "forge": [
     {
       "modId": "ultimatecomputermod",

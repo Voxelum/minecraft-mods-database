@@ -1,6 +1,18 @@
 {
   "name": "deepresonance-1.16-2.0.11.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gzruRGfo",
+      "versionId": "xAge37Q0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 233398,
+      "fileId": 3853565
+    }
+  ],
   "forge": [
     {
       "modId": "deepresonance",

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "Tu5UO27e"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "emotecraft",
+      "version": "2.6.0-b.build.98"
+    },
+    {
+      "modId": "net_raphimc_noteblocklib",
+      "version": "3.0.1-SNAPSHOT"
+    },
+    {
+      "modId": "playeranimator",
+      "version": "2.0.3.1+1.21.5"
+    }
+  ]
+}

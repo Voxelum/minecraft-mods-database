@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "hfRaP0LY",
+      "versionId": "IQ3VJtCk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 573646,
+      "fileId": 5270126
+    }
+  ],
   "fabric": [
     {
       "modId": "ccore",

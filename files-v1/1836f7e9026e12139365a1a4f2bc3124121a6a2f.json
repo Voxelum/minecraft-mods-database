@@ -1,6 +1,18 @@
 {
   "name": "redstoneelectronics-0.1.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "I8qATHE3",
+      "versionId": "Xz8CYqtL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 383688,
+      "fileId": 4758069
+    }
+  ],
   "forge": [
     {
       "modId": "redstoneelectronics",

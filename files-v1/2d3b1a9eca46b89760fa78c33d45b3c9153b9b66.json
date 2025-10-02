@@ -1,6 +1,18 @@
 {
-  "name": "",
+  "name": "ForgeConfigAPIPort-v21.4.1-1.21.4-NeoForge.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ohNO6lps",
+      "versionId": "cLjwgrWm"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 547434,
+      "fileId": 5982395
+    }
+  ],
   "forge": [
     {
       "modId": "forgeconfigapiport",

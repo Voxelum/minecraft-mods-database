@@ -1,6 +1,18 @@
 {
   "name": "immersive_weathering-1.0.1-1.19.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "jkskOO9i",
+      "versionId": "Ru7Yj8Bd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 571035,
+      "fileId": 3825717
+    }
+  ],
   "fabric": [
     {
       "modId": "immersive_weathering",

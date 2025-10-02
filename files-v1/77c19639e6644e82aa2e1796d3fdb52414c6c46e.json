@@ -1,0 +1,26 @@
+{
+  "name": "grind-enchantments-4.0.0+1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WC4UgDcZ",
+      "versionId": "fQ1HXxD4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 379680,
+      "fileId": 5961884
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "grindenchantments",
+      "version": "4.0.0+1.21.1"
+    },
+    {
+      "modId": "codec-config-api",
+      "version": "3.0.0+1.21.3"
+    }
+  ]
+}

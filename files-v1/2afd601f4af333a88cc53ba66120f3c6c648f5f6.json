@@ -1,6 +1,16 @@
 {
   "name": "",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1285368,
+      "fileId": 6643891
+    },
+    {
+      "projectId": 1298229,
+      "fileId": 6718001
+    }
+  ],
   "fabric": [
     {
       "modId": "meteor-client",

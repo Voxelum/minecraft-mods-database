@@ -1,0 +1,26 @@
+{
+  "name": "effectual-1.0.2-1.21.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OoF97Pto",
+      "versionId": "VDgI0spI"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1171658,
+      "fileId": 6637356
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "effectual",
+      "version": "1.0.2-1.21.5"
+    },
+    {
+      "modId": "owo-sentinel",
+      "version": "0.12.21+1.21.5"
+    }
+  ]
+}

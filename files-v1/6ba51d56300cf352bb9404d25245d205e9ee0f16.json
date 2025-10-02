@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "domain": "mods",
+  "forge": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.5.4-mc1.20(.1)"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "footprintparticle",
+      "version": "0.5.4-mc1.20(.1)"
+    }
+  ]
+}

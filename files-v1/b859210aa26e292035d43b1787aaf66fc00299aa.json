@@ -1,0 +1,28 @@
+{
+  "name": "packetfixer-3.1.2-1.18-1.20.4-merged.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "c7m1mi73",
+      "versionId": "cKSms0aU"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 689467,
+      "fileId": 6720969
+    }
+  ],
+  "forge": [
+    {
+      "modId": "packetfixer",
+      "version": "3.1.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "packetfixer",
+      "version": "3.1.2"
+    }
+  ]
+}

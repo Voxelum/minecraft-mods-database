@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "W0UVc3e9",
+      "versionId": "TximfI3V"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 411384,
+      "fileId": 4851746
+    }
+  ],
+  "forge": [
+    {
+      "modId": "saveandloadinventories",
+      "version": "3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "saveandloadinventories",
+      "version": "3.1"
+    }
+  ]
+}

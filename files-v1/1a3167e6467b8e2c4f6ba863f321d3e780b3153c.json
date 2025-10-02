@@ -1,0 +1,20 @@
+{
+  "name": "block-entity-extended-rendering-4.0.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "pW8yWsAv",
+      "versionId": "g5IeVVG9"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "block-entity-extended-rendering",
+      "version": "4.0.0"
+    },
+    {
+      "modId": "obsidianui",
+      "version": "0.2.7+mc1.21"
+    }
+  ]
+}

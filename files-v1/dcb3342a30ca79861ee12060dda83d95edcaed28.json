@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "GhemPlCv",
+      "versionId": "u7vVk2iB"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 451602,
+      "fileId": 4370707
+    }
+  ],
   "forge": [
     {
       "modId": "smeltingsand",

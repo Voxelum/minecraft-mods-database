@@ -1,0 +1,22 @@
+{
+  "name": "lootintegrations_moog-1.6.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1152715,
+      "fileId": 6679464
+    }
+  ],
+  "forge": [
+    {
+      "modId": "lootintegrations_moog",
+      "version": "1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "lootintegrations_moog",
+      "version": "1.6"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "controllable-fabric-1.20.1-0.21.7.jar.disabled",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "controllable",
+      "version": "0.21.7"
+    },
+    {
+      "modId": "com_mrcrayfish_controllable-sdl",
+      "version": "2.30.12-1.1.0"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ChippedExpress-universal-20x.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "dQIcJONI",
+      "versionId": "afYSWdXF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 938916,
+      "fileId": 6363006
+    }
+  ],
+  "forge": [
+    {
+      "modId": "chipped_express",
+      "version": "1.3.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "chipped_express",
+      "version": "1.3.2"
+    }
+  ]
+}

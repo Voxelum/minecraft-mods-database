@@ -1,6 +1,12 @@
 {
   "name": "thermal_cultivation-1.15.2-1.0.2.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 271835,
+      "fileId": 3104351
+    }
+  ],
   "forge": [
     {
       "modId": "thermal_cultivation",

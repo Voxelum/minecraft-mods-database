@@ -1,6 +1,18 @@
 {
   "name": "[显示][物品耐久显示]durabilityviewer-1.18-fabric0.43.1-1.10.2.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "LTM1f0yY",
+      "versionId": "nkO8Xvqi"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 262146,
+      "fileId": 3543427
+    }
+  ],
   "fabric": [
     {
       "modId": "durabilityviewer",

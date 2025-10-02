@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "K1y8brkJ",
+      "versionId": "3HOwb67X"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "pv_addon_soundphysics",
+      "version": "1.1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "pv-addon-soundphysics",
+      "version": "1.1.1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "yet-another-furniture-1.0pre2+fabric-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "bZfhG8ws",
+      "versionId": "5GPWIqWq"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1209908,
+      "fileId": 6651256
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "yaf",
+      "version": "1.0pre2"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

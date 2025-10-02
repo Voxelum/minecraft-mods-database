@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "KstN3eSL",
+      "versionId": "q8lZ0zh0"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 969602,
+      "fileId": 6115047
+    }
+  ],
+  "forge": [
+    {
+      "modId": "nolijium",
+      "version": "0.5.2"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "nolijium",
+      "version": "0.5.2"
+    }
+  ]
+}

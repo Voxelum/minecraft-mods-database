@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WNKtUx8t",
+      "versionId": "IDaeMUMR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 579403,
+      "fileId": 5270310
+    }
+  ],
   "fabric": [
     {
       "modId": "ceconomy",

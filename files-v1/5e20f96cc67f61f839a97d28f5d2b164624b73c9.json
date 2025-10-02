@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "btCrWvHr",
+      "versionId": "6sSGNFUR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 536638,
+      "fileId": 6497719
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enderscape",
+      "version": "1.0.0+1.21.5"
+    },
+    {
+      "modId": "mixson",
+      "version": "1.3.2"
+    }
+  ]
+}

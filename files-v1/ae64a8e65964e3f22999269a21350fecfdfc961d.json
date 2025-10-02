@@ -1,0 +1,26 @@
+{
+  "name": "jmi-fabric-1.21.1-1.9.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "M1ZKbfkJ",
+      "versionId": "Af5j3GGk"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 525447,
+      "fileId": 6508945
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "jmi",
+      "version": "1.21.1-1.9"
+    },
+    {
+      "modId": "fiber",
+      "version": "0.23.0-2"
+    }
+  ]
+}

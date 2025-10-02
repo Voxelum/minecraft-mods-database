@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "OsWThBSc",
+      "versionId": "yzgya0TV"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1243435,
+      "fileId": 6459172
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "warfare_wings",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "org_mariuszgromada_math_mathparser_org-mxparser",
+      "version": "5.2.1"
+    }
+  ]
+}

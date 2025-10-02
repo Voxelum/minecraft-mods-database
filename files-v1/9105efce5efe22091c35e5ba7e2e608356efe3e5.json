@@ -1,6 +1,12 @@
 {
   "name": "gates-1.7.1.jar",
   "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 320509,
+      "fileId": 3240531
+    }
+  ],
   "forge": [
     {
       "modId": "gates",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "zf4Szzx2",
+      "versionId": "Q6Z7eOLL"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 355440,
+      "fileId": 6368524
+    }
+  ],
+  "forge": [
+    {
+      "modId": "immersive_portals",
+      "version": "3.0.7"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "immersive_portals",
+      "version": "9.0"
+    }
+  ]
+}

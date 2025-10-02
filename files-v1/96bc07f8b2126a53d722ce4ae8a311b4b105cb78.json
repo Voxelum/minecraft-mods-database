@@ -1,0 +1,28 @@
+{
+  "name": "poisonkills-1.20.1-2.0-ml.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xbtylW15",
+      "versionId": "96Zcdrk3"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1159115,
+      "fileId": 6043271
+    }
+  ],
+  "forge": [
+    {
+      "modId": "poisonkills",
+      "version": "2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "poisonkills",
+      "version": "2.0"
+    }
+  ]
+}

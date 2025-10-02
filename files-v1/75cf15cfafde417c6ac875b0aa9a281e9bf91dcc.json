@@ -1,0 +1,28 @@
+{
+  "name": "gh_classesv1.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "knJ32CXT",
+      "versionId": "yWEpKPEx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1267125,
+      "fileId": 6543337
+    }
+  ],
+  "forge": [
+    {
+      "modId": "gh_classes",
+      "version": "1.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gh_classes",
+      "version": "1.1.0"
+    }
+  ]
+}

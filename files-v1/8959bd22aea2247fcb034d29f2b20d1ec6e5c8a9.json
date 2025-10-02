@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "xfcXTP3W",
+      "versionId": "br90WwHR"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_datapackets_functionslib",
+      "version": "1-v4.3"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_datapackets_functionslib",
+      "version": "1-v4.3"
+    }
+  ]
+}

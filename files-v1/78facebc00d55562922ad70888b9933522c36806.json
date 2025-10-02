@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "AANobbMI",
+      "versionId": "AQpu5aS1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "sodium",
+      "version": "0.7.0+mc1.21.9"
+    },
+    {
+      "modId": "fabric-api-base",
+      "version": "1.0.0+14b92d8987"
+    },
+    {
+      "modId": "fabric-block-view-api-v2",
+      "version": "1.0.34+e4fd1b9287"
+    },
+    {
+      "modId": "fabric-lifecycle-events-v1",
+      "version": "2.6.9+33df5e6e87"
+    },
+    {
+      "modId": "fabric-renderer-api-v1",
+      "version": "7.1.1+328a75ba87"
+    },
+    {
+      "modId": "fabric-rendering-fluids-v1",
+      "version": "3.1.38+86b3ae5787"
+    },
+    {
+      "modId": "fabric-rendering-v1",
+      "version": "16.0.1+328a75ba87"
+    },
+    {
+      "modId": "fabric-resource-loader-v0",
+      "version": "3.2.2+3388a3b287"
+    },
+    {
+      "modId": "fabric-resource-loader-v1",
+      "version": "1.0.2+225bca4087"
+    },
+    {
+      "modId": "fabric-transitive-access-wideners-v1",
+      "version": "6.5.3+41eb434387"
+    }
+  ]
+}

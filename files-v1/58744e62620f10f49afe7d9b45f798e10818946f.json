@@ -1,0 +1,26 @@
+{
+  "name": "countereds_terrain_slabs-1.4.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "SJu6sklj",
+      "versionId": "q1PgY4e5"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1125437,
+      "fileId": 6054517
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "terrainslabs",
+      "version": "1.4.0"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

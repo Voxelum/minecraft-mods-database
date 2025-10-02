@@ -1,0 +1,26 @@
+{
+  "name": "medievalorigins-7.0.3-alpha-4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "3FJ8AhW0",
+      "versionId": "eeyJZI2B"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 897171,
+      "fileId": 6554166
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "medievalorigins",
+      "version": "7.0.3-alpha-4"
+    },
+    {
+      "modId": "additionalentityattributes",
+      "version": "2.0.0+1.21.1"
+    }
+  ]
+}

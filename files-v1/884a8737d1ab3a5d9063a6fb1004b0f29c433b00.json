@@ -1,6 +1,18 @@
 {
   "name": "butchercraft-2.3.9.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "MT2Xm0ih",
+      "versionId": "n5CHrA1l"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 265715,
+      "fileId": 5233030
+    }
+  ],
   "forge": [
     {
       "modId": "butchercraft",

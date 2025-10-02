@@ -1,0 +1,26 @@
+{
+  "name": "mcpitanlib-3.2.5-1.20.1-fabric.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "uNRoUnGT",
+      "versionId": "DEzdPROP"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 682213,
+      "fileId": 6466902
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mcpitanlib",
+      "version": "3.2.5-1.20.1-fabric"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "11.1.118"
+    }
+  ]
+}

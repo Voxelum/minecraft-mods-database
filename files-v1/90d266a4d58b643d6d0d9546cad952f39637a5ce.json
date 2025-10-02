@@ -1,0 +1,22 @@
+{
+  "name": "matmores-1.0-SNAPSHOT(3).jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "JJPckjHQ",
+      "versionId": "AiB3vdV1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1173606,
+      "fileId": 6114178
+    }
+  ],
+  "forge": [
+    {
+      "modId": "${mod_id}",
+      "version": "${mod_version}"
+    }
+  ]
+}

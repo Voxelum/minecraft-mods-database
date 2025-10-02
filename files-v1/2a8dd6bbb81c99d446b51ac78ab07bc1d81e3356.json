@@ -1,0 +1,26 @@
+{
+  "name": "EnhancedTooltips-1.7.1+fabric.1.21.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "8H6RXl2q",
+      "versionId": "OBV6E0m4"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1173737,
+      "fileId": 6462074
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "enhancedtooltips",
+      "version": "1.7.1+fabric.1.21.1"
+    },
+    {
+      "modId": "blue_endless_jankson",
+      "version": "1.2.3"
+    }
+  ]
+}

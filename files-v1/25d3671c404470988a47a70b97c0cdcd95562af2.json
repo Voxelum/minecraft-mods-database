@@ -1,0 +1,28 @@
+{
+  "name": "edibles-1.21.4-4.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Rjl8pCZ9",
+      "versionId": "bR6cjn60"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 374240,
+      "fileId": 6186123
+    }
+  ],
+  "forge": [
+    {
+      "modId": "edibles",
+      "version": "4.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "edibles",
+      "version": "4.5"
+    }
+  ]
+}

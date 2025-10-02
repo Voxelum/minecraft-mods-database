@@ -1,0 +1,22 @@
+{
+  "name": "trek-B0.5.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "h2jngREY",
+      "versionId": "8AoxSbXx"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "mr_trek",
+      "version": "1-B0.5"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "mr_trek",
+      "version": "1-B0.5"
+    }
+  ]
+}

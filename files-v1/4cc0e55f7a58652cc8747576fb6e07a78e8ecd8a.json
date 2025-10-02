@@ -1,0 +1,20 @@
+{
+  "name": "aclodgrabber-1.0.2.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Og8URFfs",
+      "versionId": "LKfGWmzV"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "aclodgrabber",
+      "version": "1.0.2"
+    },
+    {
+      "modId": "org_jsoup_jsoup",
+      "version": "1.16.1"
+    }
+  ]
+}

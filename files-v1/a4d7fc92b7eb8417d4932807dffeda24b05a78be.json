@@ -1,6 +1,18 @@
 {
   "name": "keymap-0.8.0-beta.1+1.19.2-fabric.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "duSoEJIr",
+      "versionId": "DayWFuzl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 597298,
+      "fileId": 4617251
+    }
+  ],
   "fabric": [
     {
       "modId": "keymap",

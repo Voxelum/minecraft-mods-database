@@ -1,6 +1,18 @@
 {
   "name": "base-1.12.2-3.7.1.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "VwJMin91",
+      "versionId": "c6Yk6Wvl"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 246996,
+      "fileId": 2544345
+    }
+  ],
   "forge": [
     {
       "modId": "base",

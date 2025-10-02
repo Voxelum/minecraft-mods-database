@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "biome_replacer",
+      "version": "2.1-hippo"
+    },
+    {
+      "modId": "mixinsquared",
+      "version": "0.3.3"
+    }
+  ]
+}

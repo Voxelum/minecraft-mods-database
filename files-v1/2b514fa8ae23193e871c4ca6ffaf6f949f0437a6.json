@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "6Hh2ckN0",
+      "versionId": "dABdFcPe"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 849603,
+      "fileId": 4554807
+    }
+  ],
   "forge": [
     {
       "modId": "end_aspected",

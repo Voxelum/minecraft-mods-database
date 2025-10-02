@@ -1,0 +1,32 @@
+{
+  "name": "more-enchantment-info-0.2.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "TIo1UXXV",
+      "versionId": "1uJuD5ye"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1166503,
+      "fileId": 6115805
+    }
+  ],
+  "forge": [
+    {
+      "modId": "more_enchantment_info",
+      "version": "0.2.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "more_enchantment_info",
+      "version": "0.2.0"
+    },
+    {
+      "modId": "settingdust_more_enchantment_info_xplat-fabric",
+      "version": "0.2.0"
+    }
+  ]
+}

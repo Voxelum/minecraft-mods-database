@@ -1,6 +1,18 @@
 {
   "name": "connectedglass-1.1.9-forge-mc1.16.jar",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "DghO0R02",
+      "versionId": "daP7cQOh"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 383129,
+      "fileId": 4870871
+    }
+  ],
   "forge": [
     {
       "modId": "connectedglass",

@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "YyNQVpOu",
+      "versionId": "qa0av7gd"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 394140,
+      "fileId": 5822802
+    }
+  ],
+  "forge": [
+    {
+      "modId": "simplemagnets",
+      "version": "1.1.12"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "simplemagnets",
+      "version": "1.1.12"
+    }
+  ]
+}

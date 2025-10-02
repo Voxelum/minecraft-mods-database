@@ -1,0 +1,62 @@
+{
+  "name": "oracle_index-fabric-0.3.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "J8MMsNrL",
+      "versionId": "8ZU8Z2O1"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1206582,
+      "fileId": 6538216
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oracle_index",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "ai_djl_api",
+      "version": "0.31.1"
+    },
+    {
+      "modId": "net_objecthunter_exp4j",
+      "version": "0.4.8"
+    },
+    {
+      "modId": "org_jsoup_jsoup",
+      "version": "1.17.2"
+    },
+    {
+      "modId": "dev_langchain4j_langchain4j",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "dev_langchain4j_langchain4j-core",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "dev_langchain4j_langchain4j-embeddings",
+      "version": "1.0.0-beta5"
+    },
+    {
+      "modId": "dev_langchain4j_langchain4j-embeddings-all-minilm-l6-v2-q",
+      "version": "1.0.0-beta5"
+    },
+    {
+      "modId": "com_microsoft_onnxruntime_onnxruntime",
+      "version": "1.20.0"
+    },
+    {
+      "modId": "org_apache_opennlp_opennlp-tools",
+      "version": "2.5.4"
+    },
+    {
+      "modId": "ai_djl_huggingface_tokenizers",
+      "version": "0.31.1"
+    }
+  ]
+}

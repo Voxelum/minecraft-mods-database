@@ -1,0 +1,22 @@
+{
+  "name": "What's your build-fabric-1.20.1-0.3.1.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 1233310,
+      "fileId": 6712115
+    }
+  ],
+  "forge": [
+    {
+      "modId": "whats_your_build",
+      "version": "0.3.1"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "whats_your_build",
+      "version": "0.3.1"
+    }
+  ]
+}

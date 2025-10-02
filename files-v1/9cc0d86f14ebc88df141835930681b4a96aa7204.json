@@ -1,0 +1,28 @@
+{
+  "name": "Revamped Shipwrecks 1.1.0.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "ZnZ8uqXN",
+      "versionId": "olo0Q6nb"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1099021,
+      "fileId": 6025489
+    }
+  ],
+  "forge": [
+    {
+      "modId": "revamped_shipwrecks",
+      "version": "1.1.0"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "revamped_shipwrecks",
+      "version": "1.1.0"
+    }
+  ]
+}

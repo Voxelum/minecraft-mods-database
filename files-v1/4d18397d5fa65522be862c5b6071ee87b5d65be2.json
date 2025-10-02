@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "gNk5O2Js",
+      "versionId": "sW7JVhNQ"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 861341,
+      "fileId": 6012378
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "gamingfurniture",
+      "version": "0.3.0"
+    },
+    {
+      "modId": "special-model-loader",
+      "version": "1.3.0"
+    }
+  ]
+}

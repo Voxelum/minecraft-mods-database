@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "altoclef",
+      "version": "1.20.1-0.19"
+    },
+    {
+      "modId": "baritone",
+      "version": "1.10.1-9-geace2ad1-dirty"
+    },
+    {
+      "modId": "xyz_wagyourtail_jvmdowngrader_jvmdowngrader-java-a571f971d219a38",
+      "version": "0.9.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    }
+  ]
+}

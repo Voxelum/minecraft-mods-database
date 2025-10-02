@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "fabric": [
+    {
+      "modId": "lambdynlights",
+      "version": "4.1.5+1.21.1"
+    },
+    {
+      "modId": "lambdynlights_api",
+      "version": "4.1.5+1.21.1"
+    },
+    {
+      "modId": "pride",
+      "version": "1.2.1+1.21"
+    },
+    {
+      "modId": "spruceui",
+      "version": "6.2.1+1.21"
+    },
+    {
+      "modId": "yumi_mc_core",
+      "version": "1.0.0-alpha.6+1.21.1"
+    }
+  ]
+}

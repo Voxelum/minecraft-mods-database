@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "yv3OK08E",
+      "versionId": "JRAxw9LI"
+    }
+  ],
+  "forge": [
+    {
+      "modId": "selfexpression",
+      "version": "2.14"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "selfexpression",
+      "version": "2.6.1"
+    }
+  ]
+}

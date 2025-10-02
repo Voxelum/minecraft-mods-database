@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Nl4lHYUN",
+      "versionId": "DQ4lMRcS"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 968726,
+      "fileId": 5315333
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "thelongstory",
+      "version": "0.2.8.1-1.20.1"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "3.0.0"
+    }
+  ]
+}

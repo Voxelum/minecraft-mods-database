@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "4sYI62kA",
+      "versionId": "NmZJgtyF"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1030830,
+      "fileId": 6484456
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "oritech",
+      "version": "0.15.2"
+    },
+    {
+      "modId": "team_reborn_energy",
+      "version": "4.1.0"
+    }
+  ]
+}

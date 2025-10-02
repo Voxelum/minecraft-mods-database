@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "Fg9SAEm0",
+      "versionId": "lmp7kWXC"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 355369,
+      "fileId": 3375104
+    }
+  ],
   "forge": [
     {
       "modId": "polarizingbiomes",

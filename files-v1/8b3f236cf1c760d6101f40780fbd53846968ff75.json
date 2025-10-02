@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "WaCchT6K",
+      "versionId": "bazfMgSc"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1317493,
+      "fileId": 6875713
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "myths_of_the_sea",
+      "version": "1.0.0"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.3.5"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

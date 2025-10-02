@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "NHjSAFFN",
+      "versionId": "IrDaHcCT"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 302544,
+      "fileId": 3379773
+    }
+  ],
   "forge": [
     {
       "modId": "sleepsooner",

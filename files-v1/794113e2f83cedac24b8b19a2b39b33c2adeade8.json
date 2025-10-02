@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rrAGfOzL",
+      "versionId": "gkppVeyx"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1140708,
+      "fileId": 6253814
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "settlement-roads",
+      "version": "1.0.1"
+    },
+    {
+      "modId": "midnightlib",
+      "version": "1.4.1"
+    }
+  ]
+}

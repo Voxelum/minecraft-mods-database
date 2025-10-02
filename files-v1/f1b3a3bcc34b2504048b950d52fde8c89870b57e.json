@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "1fVQgxmY",
+      "versionId": "F54LsB9P"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 351990,
+      "fileId": 3386131
+    }
+  ],
   "forge": [
     {
       "modId": "gardentools",

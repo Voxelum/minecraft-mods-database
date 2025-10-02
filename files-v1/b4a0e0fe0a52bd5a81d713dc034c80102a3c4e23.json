@@ -1,0 +1,26 @@
+{
+  "name": "modpack-update-checker-1.21.4-fabric-0.15.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "rR4tY6Cw",
+      "versionId": "ZJoAQ2OR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 847414,
+      "fileId": 6681439
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "modpack-update-checker",
+      "version": "0.15.6"
+    },
+    {
+      "modId": "mpuc_lavendermd",
+      "version": "0.1.2"
+    }
+  ]
+}

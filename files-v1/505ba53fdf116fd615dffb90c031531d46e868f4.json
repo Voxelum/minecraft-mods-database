@@ -1,0 +1,26 @@
+{
+  "name": "azurelib-fabric-1.20.1-3.0.6.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "7zlUOZvb",
+      "versionId": "Gb15m3Sy"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 817423,
+      "fileId": 6551734
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "azurelib",
+      "version": "3.0.6"
+    },
+    {
+      "modId": "mixinextras",
+      "version": "0.4.1"
+    }
+  ]
+}

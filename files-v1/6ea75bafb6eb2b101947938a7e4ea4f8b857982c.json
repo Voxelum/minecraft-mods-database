@@ -1,0 +1,26 @@
+{
+  "name": "[1.20.1] Hybrid Aquatic 1.4.4.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "HH4FjUqN",
+      "versionId": "8BAqhX3r"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 834427,
+      "fileId": 6497302
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "hybrid-aquatic",
+      "version": "1.4.4"
+    },
+    {
+      "modId": "reach-entity-attributes",
+      "version": "2.4.0"
+    }
+  ]
+}

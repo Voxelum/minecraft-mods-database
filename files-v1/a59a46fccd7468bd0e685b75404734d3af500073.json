@@ -1,6 +1,18 @@
 {
   "name": "",
   "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "sTmgisaB",
+      "versionId": "AT502ubR"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 684961,
+      "fileId": 4018017
+    }
+  ],
   "forge": [
     {
       "modId": "railroadblocksaddon",

@@ -1,0 +1,28 @@
+{
+  "name": "villagernames-1.19-4.0.5.jar",
+  "domain": "mods",
+  "curseforge": [
+    {
+      "projectId": 416379,
+      "fileId": 3845786
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "villagernames",
+      "version": "4.0.5"
+    },
+    {
+      "modId": "cloth-config",
+      "version": "7.0.69"
+    },
+    {
+      "modId": "cardinal-components-base",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "modId": "cardinal-components-level",
+      "version": "5.0.0-beta.1"
+    }
+  ]
+}

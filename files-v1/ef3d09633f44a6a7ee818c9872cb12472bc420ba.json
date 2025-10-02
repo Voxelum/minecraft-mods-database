@@ -1,0 +1,32 @@
+{
+  "name": "txnilib-fabric-1.0.24-1.20.1.jar",
+  "domain": "mods",
+  "modrinth": [
+    {
+      "projectId": "vBbPDuOs",
+      "versionId": "7toCynAY"
+    }
+  ],
+  "curseforge": [
+    {
+      "projectId": 1104882,
+      "fileId": 6533721
+    }
+  ],
+  "forge": [
+    {
+      "modId": "txnilib",
+      "version": "1.0.24"
+    }
+  ],
+  "fabric": [
+    {
+      "modId": "txnilib",
+      "version": "1.0.24"
+    },
+    {
+      "modId": "forgeconfigapiport",
+      "version": "8.0.0"
+    }
+  ]
+}
