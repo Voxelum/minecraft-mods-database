@@ -1,0 +1,49 @@
+name: Harvest
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly, Sunday 03:00 UTC. Drains telemetry blobs and opens a PR.
+    - cron: '0 3 * * 0'
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 8.3.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+      - name: Install dependencies
+        run: pnpm install
+      - name: Harvest
+        run: node ./index.js
+        env: 
+          AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+      - name: Create Release Note PR
+        if: always()
+        id: create_pr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: harvest/data
+          commit-message: "Harvest data"
+          title: Harvest data
+          body: Harvest data
+          reviewers: ci010
+          assignees: ci010
+      - name: Retry Create Release Note PR
+        if: ${{ steps.create_pr.conclusion == 'failure' }}
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: harvest/data
+          commit-message: "Harvest data"
+          title: Harvest data
+          body: Harvest data
+          reviewers: ci010
+          assignees: ci010
