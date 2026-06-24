@@ -11,6 +11,11 @@ if (fs.existsSync(dbPath)) {
 }
 const db = new Database(dbPath)
 db.exec(migrateScript)
+// The DB is rebuilt from scratch each run and only published as an artifact, so
+// durability mid-build is irrelevant. These pragmas avoid an fsync per COMMIT,
+// which matters because the loop below runs one transaction per entry (200k+).
+db.pragma('journal_mode = MEMORY')
+db.pragma('synchronous = OFF')
 
 db.prepare('INSERT INTO metadata (version) VALUES (?)').run(buildNumber || 0)
 
